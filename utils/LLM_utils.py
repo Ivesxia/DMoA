@@ -2,14 +2,14 @@ import tiktoken
 
 
 model2max_context = {
-    '''openai model'''
+    #openai model
     "gpt-4": 7900,
     "gpt-4-0314": 7900,
     "gpt-3.5-turbo-0301": 3900,
     "gpt-3.5-turbo": 3900,
     "text-davinci-003": 4096,
     "text-davinci-002": 4096,
-    '''siliconflow model'''
+    #siliconflow model
     "Qwen/QwQ-32B": 4096
 }
 

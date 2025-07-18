@@ -9,14 +9,16 @@ class Debate():
             backend:str,
             agent_names: list[str],
             agent_temperatures: list[float] = None,
-            sleep_time:float=0
+            sleep_time:float=0,
+            agent_number:int=2
                  ) -> None:
         self.model_name_list=model_name_list
         self.api_key=api_key
         self.agent_names=agent_names
-        self.temperatures=agent_temperatures
+        self.agent_temperatures=agent_temperatures
         self.sleep_time=sleep_time
         self.backend=backend
+        self.agent_number=agent_number
         self.player=[]
 
 
@@ -62,6 +64,6 @@ class Debate():
         for player in self.player[1:]:
             player.add_event(patient_info)
 
-        for debate_round in range(debate_rounds):
+        for debate_round in range(debate_rounds-1):
             print(f"round {debate_round}")
             self.single_debate_round()

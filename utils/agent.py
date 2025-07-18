@@ -9,7 +9,7 @@ from .LLM_utils import num_tokens_from_string, model2max_context
 
 with open ('utils/model.json','r') as f:
     config = json.load(f)
-    support_models = config["support_model"]
+    support_models = config["support_models"]
 
 class Agent:
     def __init__(self, model_name: str, name: str, api_key: str, temperature: float, sleep_time: float=0, backend: str="siliconflow") -> None:
