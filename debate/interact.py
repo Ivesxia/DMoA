@@ -52,7 +52,7 @@ class Debate():
 
     def single_debate_round(self):
         self.presenter_one_ans=self.presenter.ask()
-        print(self.presenter_one_ans)
+        # print(self.presenter_one_ans)
 
         for player in self.player[1:]:
             player.add_event(self.presenter_one_ans)
@@ -65,7 +65,7 @@ class Debate():
             player.add_event(patient_info)
 
         for debate_round in range(debate_rounds):
-            print(f"round {debate_round}")
+            # print(f"round {debate_round}")
             self.single_debate_round()
 
         return self.presenter_one_ans
