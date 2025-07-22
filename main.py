@@ -1,4 +1,5 @@
 from MoA.MoA import MoA
+import time
 
 patient_info='''**Case Report: A 31-Year-Old Male with Reye's Syndrome Following Renal Transplantation (Patient ID: 374752)**
 
@@ -68,6 +69,8 @@ The patient demonstrated:
 
 This case illustrates the complex management of Reye's syndrome in a post-transplant patient with multiple comorbidities, highlighting the importance of serial laboratory monitoring and comprehensive diagnostic evaluation.'''
 
+start_time = time.time()
+
 MoA_workflow=MoA(
     api_key='sk-rpkympkltraddspakixwctwfhzgmrrplnefauiuawxcszlwr',
     backend="siliconflow",
@@ -78,4 +81,6 @@ MoA_workflow=MoA(
 
 
 result=MoA_workflow.get_result()
+end_time = time.time()
 print(result)
+print(f"程序运行时间: {end_time - start_time:.2f}秒")

@@ -2,6 +2,7 @@ import json
 import os
 from debate.interact import Debate
 from utils.agent import Agent
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 class MoA():
     def __init__(self,
@@ -56,12 +57,24 @@ class MoA():
     def run_aggregator(self):
         self.init_aggregator()
         self.init_aggregator_prompt()
-        for presenter,debater in zip(
-            self.presenter_model_list,
-            self.debate_model_list
-        ):
-            single_result=f'This is the diagnosis provided by {presenter}:'+self.debater(presenter=presenter,debater=debater)
-            self.aggregator.add_event(single_result)
+
+        results = []
+
+        #并发
+        with ThreadPoolExecutor(max_workers=min(8, len(self.presenter_model_list))) as executor:
+            future_to_models = {
+                executor.submit(self.debater, presenter, debater): (presenter, debater)
+                for presenter, debater in zip(self.presenter_model_list, self.debate_model_list)
+            }
+
+            for future in as_completed(future_to_models):
+                presenter, _ = future_to_models[future]
+                try:
+                    debate_result = future.result()
+                    single_result = f"This is the diagnosis provided by {presenter}:" + debate_result
+                    self.aggregator.add_event(single_result)
+                except Exception as e:
+                    print(f"[ERROR] Debate with {presenter} failed: {e}")
 
 
     def get_result(self)->str:
