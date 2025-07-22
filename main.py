@@ -1,15 +1,5 @@
-from debate.interact import Debate
+from MoA.MoA import MoA
 
-debate=Debate(
-    model_name_list=["Qwen/QwQ-32B", "Qwen/QwQ-32B"],
-    api_key="sk-rpkympkltraddspakixwctwfhzgmrrplnefauiuawxcszlwr",
-    backend="siliconflow",
-    agent_names=["presenter", "debater"],
-    agent_temperatures=[0.7, 0.5],
-    sleep_time=1
-)
-
-debate_rounds=2
 patient_info='''**Case Report: A 31-Year-Old Male with Reye's Syndrome Following Renal Transplantation (Patient ID: 374752)**
 
 **Initial Presentation:**
@@ -78,6 +68,14 @@ The patient demonstrated:
 
 This case illustrates the complex management of Reye's syndrome in a post-transplant patient with multiple comorbidities, highlighting the importance of serial laboratory monitoring and comprehensive diagnostic evaluation.'''
 
-debate.init_agents()
-debate.init_prompt()
-debate.whole_debate(patient_info=patient_info,debate_rounds=debate_rounds)
+MoA_workflow=MoA(
+    api_key='sk-rpkympkltraddspakixwctwfhzgmrrplnefauiuawxcszlwr',
+    backend="siliconflow",
+    user_input=patient_info,
+    presenter_model_list=['Qwen/QwQ-32B','Qwen/QwQ-32B'],
+    debate_model_list=['Qwen/QwQ-32B','Qwen/QwQ-32B']
+)
+
+
+result=MoA_workflow.get_result()
+print(result)
