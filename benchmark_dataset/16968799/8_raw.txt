@@ -1,0 +1,89 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "testosterone undecanoate",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "100 mg monthly for 6 months",
+      "treatment_response": "Reached pubertal ratings of G4, P4, A1, with 6- and 8-cc testes by 17.1 yr of age. Puberty continued to progress spontaneously."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "oxandrolone",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Short course as a growth-promoting agent",
+      "treatment_response": "Not specified"
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "human chorionic gonadotropin",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "1500 IU twice weekly for 1 month",
+      "treatment_response": "Produced significant testosterone response [687 ng/dl (23.7 nmol/liter)]."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "testosterone replacement therapy",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Ongoing;
+ estimated doses are increasing",
+      "treatment_response": "Continues on therapy, although testosterone levels were low."
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "Not specified",
+      "event": "Proband (I) referred at 15 yr of age due to delayed puberty."
+    },
+    {
+      "date": "Not specified",
+      "event": "Short course of oxandrolone initiated."
+    },
+    {
+      "date": "Not specified",
+      "event": "Begins 6 months of testosterone undecanoate, 100 mg monthly."
+    },
+    {
+      "date": "17.1 years",
+      "event": "Reached pubertal ratings of G4, P4, A1, and discharged from follow-up."
+    },
+    {
+      "date": "Not specified",
+      "event": "Younger brother (II) referred at 11.7 yr with concerns about short stature."
+    },
+    {
+      "date": "Not specified",
+      "event": "Younger brother received a short course of oxandrolone for growth."
+    },
+    {
+      "date": "15.5 years",
+      "event": "Younger brother showed no spontaneous pubertal development."
+    },
+    {
+      "date": "Not specified",
+      "event": "Younger brother received a short course of testosterone undecanoate."
+    },
+    {
+      "date": "16.2 years",
+      "event": "Underwent 24-h gonadotropin profile."
+    },
+    {
+      "date": "Not specified",
+      "event": "Following treatment with human chorionic gonadotropin, significant testosterone levels were achieved."
+    },
+    {
+      "date": "18.5 years",
+      "event": "Reevaluation of all treatment indicated low testosterone despite gonadotropin responses."
+    },
+    {
+      "date": "Not specified",
+      "event": "Both brothers reassessed clinically in adulthood."
+    }
+  ]
+}
+```

@@ -1,0 +1,52 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "antiretroviral medications",
+      "start_date": "2013-09-12", // Assuming usual routine checks 1 week prior to the admission last date of symptoms
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "HIV medications were paused to prevent liver damage during acute hepatitis C, then restarted after liver function normalized."
+    },
+    {
+      "treatment_type": "vaccination",
+      "specific_treatment": "immunizations for hepatitis A and B, influenza, pneumococcus, and combined tetanus, diphtheria, and pertussis",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Not specified"
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2013-09-05",
+      "event": "Patient visits outpatient clinic for routine HIV follow-up, reports malaise and chest/abdominal pain."
+    },
+    {
+      "date": "2013-09-10",
+      "event": "Patient experiences episodes of abdominal pain and chest discomfort, indicating deterioration in condition."
+    },
+    {
+      "date": "2013-09-12",
+      "event": "Patient is admitted to the hospital."
+    },
+    {
+      "date": "2013-09-12",
+      "event": "Patient receives various vaccinations."
+    },
+    {
+      "date": "2013-09-17",
+      "event": "Liver function tests show elevated aminotransferase levels, diagnosis of acute hepatitis C made."
+    },
+    {
+      "date": "2013-09-25",
+      "event": "Antiretroviral medications are resumed after normalization of liver function."
+    },
+    {
+      "date": "2013-12-12",
+      "event": "Follow-up shows HCV RNA levels are undetectable and liver function tests normal."
+    }
+  ]
+}
+```

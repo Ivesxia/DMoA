@@ -1,0 +1,48 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "Monitoring",
+      "specific_treatment": "Thyroid function tests",
+      "start_date": "2021-01-01",  // Start of the second pregnancy monitoring
+      "end_date": "2021-12-01",  // End of pregnancy monitoring
+      "dosage_or_details": "Tests performed regularly during pregnancy",
+      "treatment_response": "Initially showed elevation in FT3 and FT4 followed by a decline and symptom alleviation."
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2021-01-01",
+      "event": "Patient was monitored for thyroid function tests during her second pregnancy."
+    },
+    {
+      "date": "2021-02-01",
+      "event": "At 4 weeks gestation, FT3 and FT4 were slightly above prepregnancy levels."
+    },
+    {
+      "date": "2021-02-15",
+      "event": "Between 6 and 7 weeks gestation, symptoms of anxiety, tremor, tiredness, and palpitations occurred."
+    },
+    {
+      "date": "2021-03-01",
+      "event": "At 10 weeks gestation, serum concentrations of hCG measured at 257 kU/liter; TSH became undetectable."
+    },
+    {
+      "date": "2021-03-15",
+      "event": "At 12 weeks gestation, the patient reported losing 2 kg; symptoms started to ameliorate."
+    },
+    {
+      "date": "2021-06-01",
+      "event": "At 16 weeks gestation, FT3 and FT4 declined and symptoms subsided."
+    },
+    {
+      "date": "2021-09-01",
+      "event": "Normal vaginal delivery of a healthy boy."
+    },
+    {
+      "date": "2021-09-15",
+      "event": "At 4 weeks postpartum, TSH levels were recorded."
+    }
+  ]
+}
+```

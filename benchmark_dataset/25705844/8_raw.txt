@@ -1,0 +1,92 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "hydrocortisone",
+      "start_date": "2013-12-01",  // Assuming the treatment was provided shortly after presentation.
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Patient responded rapidly. Cerebral oedema resolved within 48 hours, and cognitive function normalized."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "9α-fludrocortisone",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Patient remained well on replacement hydrocortisone and 9α-fludrocortisone at follow-up in June 2014."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "3% saline",
+      "start_date": "2013-12-01",  // Assuming the treatment was provided shortly after presentation.
+      "end_date": "Not specified",
+      "dosage_or_details": "Further doses given until plasma sodium normalized.",
+      "treatment_response": "Plasma sodium normalized over the next few hours."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "adrenaline and noradrenaline",
+      "start_date": "2013-12-01",  // Assuming the treatment was provided shortly after presentation.
+      "end_date": "Not specified",
+      "dosage_or_details": "Provided for inotropic support.",
+      "treatment_response": "Patient remained in shock despite treatment."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "ceftriaxone",
+      "start_date": "2013-12-01",  // Assuming the treatment was provided shortly after presentation.
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "No evidence of infection in blood, cerebrospinal fluid, or urine."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "acyclovir",
+      "start_date": "2013-12-01",  // Assuming the treatment was provided shortly after presentation.
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "No evidence of infection in blood, cerebrospinal fluid, or urine."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "azithromycin",
+      "start_date": "2013-12-01",  // Assuming the treatment was provided shortly after presentation.
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "No evidence of infection in blood, cerebrospinal fluid, or urine."
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2013-12-01",
+      "event": "Patient presented with vomiting, fever, and headache."
+    },
+    {
+      "date": "2013-12-01",
+      "event": "Intubation performed and 3% saline initiated."
+    },
+    {
+      "date": "2013-12-01",
+      "event": "Started treatment with hydrocortisone, ceftriaxone, acyclovir, and azithromycin."
+    },
+    {
+      "date": "2013-12-01",
+      "event": "Developed hypotension and required fluid loading and inotropic support."
+    },
+    {
+      "date": "2013-12-02",
+      "event": "Cerebral edema resolved on CT scan 48 hours after initiation of treatment."
+    },
+    {
+      "date": "2013-12-02",
+      "event": "Cognitive function normalized after extubation."
+    },
+    {
+      "date": "2014-06-01",
+      "event": "Follow-up showed patient remained well on replacement hydrocortisone and 9α-fludrocortisone."
+    }
+  ]
+}
+```

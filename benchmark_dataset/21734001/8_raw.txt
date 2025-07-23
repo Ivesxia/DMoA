@@ -1,0 +1,56 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "pamidronate",
+      "start_date": "2011-01-01",  // Assuming that at age 12 (year of case) is approx 2011
+      "end_date": "Not specified",
+      "dosage_or_details": "infusions every 3 months",
+      "treatment_response": "decrease in back pain, increase in height achieving the 50th percentile for age, no fractures during that time, improved spine Z-score of -2.5 after 12 months of therapy"
+    },
+    {
+      "treatment_type": "supplementation",
+      "specific_treatment": "vitamin D",
+      "start_date": "2011-01-01", // Assuming start date aligns with pamidronate
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Not specified"
+    },
+    {
+      "treatment_type": "therapy",
+      "specific_treatment": "physical therapy",
+      "start_date": "2011-01-01", // Assuming start date aligns with pamidronate
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Not specified"
+    },
+    {
+      "treatment_type": "activity modification",
+      "specific_treatment": "weight-bearing exercise",
+      "start_date": "2011-01-01", // Assuming start date aligns with pamidronate
+      "end_date": "Not specified",
+      "dosage_or_details": "restricted from playing contact sports",
+      "treatment_response": "Not specified"
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2010-01-01",
+      "event": "Patient evaluated by a hematologist with a normal bone marrow biopsy of T6"
+    },
+    {
+      "date": "2011-01-01",
+      "event": "Started on vitamin D supplementation, physical therapy, and pamidronate every 3 months"
+    },
+    {
+      "date": "2012-01-01",
+      "event": "DXA scan after 12 months of therapy revealed an improved spine Z-score of -2.5 and increased height to 50th percentile for age"
+    },
+    {
+      "date": "2012-06-01",
+      "event": "Patient did not experience any fractures during the treatment period"
+    }
+  ]
+}
+```

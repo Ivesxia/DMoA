@@ -1,0 +1,80 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "tamoxifen",
+      "start_date": "2006-03-15",  // 3 weeks after her initial consultation (February 23, 2006)
+      "end_date": "Not specified",
+      "dosage_or_details": "20 mg daily",
+      "treatment_response": "Improvement in bladder capacity, disappearance of urgency and incontinence, decrease in nocturia"
+    },
+    {
+      "treatment_type": "chemotherapy",
+      "specific_treatment": "doxorubicin and cyclophosphamide",
+      "start_date": "2006-09-15",  // Approximately six months after starting tamoxifen
+      "end_date": "Not specified",
+      "dosage_or_details": "Every 21 days for a total of six cycles",
+      "treatment_response": "Stable disease, no progression noted"
+    },
+    {
+      "treatment_type": "chemotherapy",
+      "specific_treatment": "docetaxel",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Three monthly cycles",
+      "treatment_response": "Stable disease, no progression noted"
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "anastrozole",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Continues with that to date",
+      "treatment_response": "Stable disease, no progression noted"
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2005-08-15",
+      "event": "Onset of urinary incontinence"
+    },
+    {
+      "date": "2005-09-15",
+      "event": "Patient referred to incontinence clinic"
+    },
+    {
+      "date": "2006-02-15",
+      "event": "Cystoscopy with transurethral resection performed at another hospital"
+    },
+    {
+      "date": "2006-02-23",
+      "event": "Initial consultation at Massachusetts General Hospital"
+    },
+    {
+      "date": "2006-03-15",
+      "event": "Initiation of tamoxifen treatment"
+    },
+    {
+      "date": "2006-06-15",
+      "event": "Follow-up shows improvement in bladder symptoms after tamoxifen"
+    },
+    {
+      "date": "2006-09-15",
+      "event": "Initiation of chemotherapy with doxorubicin and cyclophosphamide"
+    },
+    {
+      "date": "2006-09-30",
+      "event": "Initiation of chemotherapy with docetaxel"
+    },
+    {
+      "date": "2007-03-15",
+      "event": "Started taking anastrozole"
+    },
+    {
+      "date": "2009-03-15",
+      "event": "Repeated CT scans show stable disease without progression"
+    }
+  ]
+}
+```

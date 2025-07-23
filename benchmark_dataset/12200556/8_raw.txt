@@ -1,0 +1,40 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "valproate sodium–valproic acid",
+      "start_date": "2022-02-01",  // Approximate start for six months before admission
+      "end_date": "Not specified",
+      "dosage_or_details": "Initially 800 mg daily, later reduced to 200 mg daily",
+      "treatment_response": "Reduced frequency of seizures, but concerns about liver toxicity"
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "carbamazepine",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Condition did not improve; patient became somnolent"
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2021-02-01",
+      "event": "Commenced treatment with valproate sodium–valproic acid"
+    },
+    {
+      "date": "2021-05-01",  // Approximate date of switching
+      "event": "Switched to carbamazepine due to concerns about toxicity"
+    },
+    {
+      "date": "2021-06-15",  // Approximate date of resuming the original medication
+      "event": "Resumed treatment with valproate sodium–valproic acid at reduced dosage"
+    },
+    {
+      "date": "Not specified",
+      "event": "Patient was admitted for video electroencephalographic monitoring"
+    }
+  ]
+}
+```

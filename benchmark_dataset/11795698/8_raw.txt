@@ -1,0 +1,52 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "surgery",
+      "specific_treatment": "anterior transarticular atlantoaxial screw fixation",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Two 3.5-mm-diameter and 22-mm-long screws were inserted, followed by decortication of the atlantoaxial joints.",
+      "treatment_response": "Postoperative course was uneventful; evidence of solid fusion without implant failure was observed at follow-up at 2, 4, 12, 24, and 36 weeks."
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "Not specified",
+      "event": "Patient presented with severe neck pain for 3 years and underwent various examinations including MRI and CT scans.",
+    },
+    {
+      "date": "Not specified",
+      "event": "Patient was evaluated under anesthesia; surgery indicated due to atlantoaxial instability."
+    },
+    {
+      "date": "Not specified",
+      "event": "Surgery performed: anterior transarticular atlantoaxial screw fixation."
+    },
+    {
+      "date": "2002-01-01",
+      "event": "Post-operative follow-up 5 days after surgery; patient discharged wearing a Philadelphia collar for 8 weeks."
+    },
+    {
+      "date": "2002-01-07",
+      "event": "Follow-up examination at 2 weeks."
+    },
+    {
+      "date": "2002-01-14",
+      "event": "Follow-up examination at 4 weeks."
+    },
+    {
+      "date": "2002-02-12",
+      "event": "Follow-up examination at 12 weeks."
+    },
+    {
+      "date": "2002-04-01",
+      "event": "Follow-up examination at 24 weeks."
+    },
+    {
+      "date": "2002-10-01",
+      "event": "Follow-up examination at 36 weeks; solid fusion without implant failure confirmed."
+    }
+  ]
+}
+```

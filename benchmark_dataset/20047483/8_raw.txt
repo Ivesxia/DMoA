@@ -1,0 +1,116 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "oseltamivir",
+      "start_date": "2009-07-07",
+      "end_date": "2009-08-01",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Patient defervesced within 24 hours of therapy initiation."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "azithromycin",
+      "start_date": "2009-07-06",
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Part of empirical therapy; patient's pulmonary status continued to decline."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "vancomycin",
+      "start_date": "2009-07-06",
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Part of empirical therapy; patient's pulmonary status continued to decline."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "meropenem",
+      "start_date": "2009-07-06",
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Part of empirical therapy; patient's pulmonary status continued to decline."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "voriconazole",
+      "start_date": "2009-07-06",
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Part of empirical therapy; patient's pulmonary status continued to decline."
+    },
+    {
+      "treatment_type": "supportive care",
+      "specific_treatment": "extracorporeal membrane oxygenation (ECMO)",
+      "start_date": "2009-07-20",
+      "end_date": "2009-07-29",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Patient's clinical status continued to worsen preceding and during ECMO.",
+    },
+    {
+      "treatment_type": "supportive care",
+      "specific_treatment": "high-frequency oscillatory ventilation",
+      "start_date": "2009-07-20",
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Part of management during worsened clinical status."
+    },
+    {
+      "treatment_type": "supportive care",
+      "specific_treatment": "inhaled nitric oxide",
+      "start_date": "2009-07-20",
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Part of management during worsened clinical status."
+    },
+    {
+      "treatment_type": "renal support",
+      "specific_treatment": "continuous veno-venous hemofiltration",
+      "start_date": "2009-07-20",
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Patient experienced renal failure."
+    },
+    {
+      "treatment_type": "supportive care",
+      "specific_treatment": "pressor support with dopamine, epinephrine, and vasopressin",
+      "start_date": "2009-07-20",
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Patient required support due to hypotension."
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2009-06-22",
+      "event": "Specimens collected for respiratory testing."
+    },
+    {
+      "date": "2009-07-06",
+      "event": "Start of empirical therapy with azithromycin, vancomycin, meropenem, and voriconazole."
+    },
+    {
+      "date": "2009-07-07",
+      "event": "Oseltamivir therapy initiated."
+    },
+    {
+      "date": "2009-07-20",
+      "event": "Patient transferred to intensive care unit and intubated; placed on ECMO."
+    },
+    {
+      "date": "2009-07-29",
+      "event": "ECMO therapy concluded."
+    },
+    {
+      "date": "2009-08-01",
+      "event": "Oseltamivir therapy discontinued."
+    },
+    {
+      "date": "2009-08-10",
+      "event": "Patient extubated."
+    }
+  ]
+}
+```

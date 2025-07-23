@@ -1,0 +1,18 @@
+```json
+{
+  "is_case_report": true,
+  "article_title": "Metabolic Acidosis Associated with Propofol in the Absence of Other Causative Factors",
+  "first_author": "Bethanie K. Burow, M.D.",
+  "journal": "Anesthesiology",
+  "publication_year": "2004",
+  "number_of_cases": 1,
+  "patient_info": {
+    "initial_information": "31-year-old woman presented with chronic atrial fibrillation and developed metabolic acidosis during anesthesia.",
+    "age": "31",
+    "sex": "Female",
+    "ethnicity": "Not specified",
+    "occupation": "Not specified",
+    "location": "Not specified"
+  }
+}
+```

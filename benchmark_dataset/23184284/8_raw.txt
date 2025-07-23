@@ -1,0 +1,52 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "levofloxacin",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "oral for 10 days",
+      "treatment_response": "The patient’s cough resolved, but shortness of breath progressed."
+    },
+    {
+      "treatment_type": "surgery",
+      "specific_treatment": "transcatheter embolization",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "14-mm Amplatzer vascular plug deployed",
+      "treatment_response": "Oxygen saturation increased from 86% to 97% and platypnea resolved."
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "Not specified",
+      "event": "Patient presented with a 3-month history of progressive shortness of breath.",
+    },
+    {
+      "date": "Not specified",
+      "event": "Treatment for community-acquired pneumonia initiated with oral levofloxacin for 10 days."
+    },
+    {
+      "date": "Not specified",
+      "event": "Cough resolved, but shortness of breath progressed."
+    },
+    {
+      "date": "Not specified",
+      "event": "Transcutaneous pulmonary angiogram confirmed a large pulmonary arteriovenous malformation (AVM)."
+    },
+    {
+      "date": "Not specified",
+      "event": "Transcatheter embolization performed using a 14-mm Amplatzer vascular plug."
+    },
+    {
+      "date": "Not specified",
+      "event": "Follow-up showed oxygen saturation increased to 97% and resolution of platypnea."
+    },
+    {
+      "date": "Not specified",
+      "event": "Patient doing well at follow-up 3 weeks after discharge."
+    }
+  ]
+}
+```

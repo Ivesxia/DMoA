@@ -1,0 +1,88 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "surgery",
+      "specific_treatment": "Bilateral laparoscopic adrenalectomy",
+      "start_date": "1995-01-01", // Exact date is not specified but surgery occurred at 44 years of age, which is 1997; details should ensure patient birth year, so placeholder used here.
+      "end_date": "Not specified",
+      "dosage_or_details": "The two adrenals were removed using an abdominal laparoscopic approach lasting 3 hours.",
+      "treatment_response": "Postoperative evolution was marked by normalization of renin and blood pressure returned to normal; satisfaction with the adrenal surgery was reported."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "Glucocorticoid suppressive therapy (hydrocortisone)",
+      "start_date": "1955-01-01", // Treatment started at 21 months of age; patient was born in 1953.
+      "end_date": "Not specified",
+      "dosage_or_details": "Initially 30 mg hydrocortisone, then various dosages of prednisone. Post-surgery, 20 mg/day hydrocortisone.",
+      "treatment_response": "Encountered difficulties with equilibrium and compliance; had periods of high blood pressure and Cushingoid features."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "Antihypertensive therapy (nicardipine)",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "100 mg/day initially, maintained for 1 year after surgery.",
+      "treatment_response": "Allowed suppression of 11-deoxycortisol levels and normalization of kaliemia and blood pressure during its administration."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "Testosterone heptylate",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "250 mg/3 weeks post-surgery.",
+      "treatment_response": "Included in substitutive therapy post-surgery."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "Spironolactone",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "150 mg/day attempted but stopped due to impotence.",
+      "treatment_response": "Poor tolerance; led to discontinuation before surgery."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "Nifedipine",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "30 mg/day maintained for 1 year post-surgery, stopped after 6 months.",
+      "treatment_response": "Blood pressure remained stable at 120/80 mm Hg after cessation."
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "1953-01-01",
+      "event": "Patient born"
+    },
+    {
+      "date": "1954-10-01",
+      "event": "Diagnosis of pseudo-precocious puberty at 20 months age"
+    },
+    {
+      "date": "1955-06-01",
+      "event": "Initiation of suppressive treatment with 30 mg hydrocortisone"
+    },
+    {
+      "date": "1970-01-01",
+      "event": "Dropped all treatment for 18 years"
+    },
+    {
+      "date": "1995-01-01",
+      "event": "Re-initiated suppressive therapy with 7.5 mg/day prednisone and antihypertensive therapy due to severe hypertension"
+    },
+    {
+      "date": "1997-01-01",
+      "event": "Bilateral laparoscopic adrenalectomy performed"
+    },
+    {
+      "date": "1997-01-02",
+      "event": "Discharged from hospital with hydrocortisone (20 mg/day) and testosterone heptylate (250 mg/3 weeks)"
+    },
+    {
+      "date": "1998-01-01",
+      "event": "Weight stabilized at 58 kg and blood pressure normalized post-surgery"
+    }
+  ]
+}
+```

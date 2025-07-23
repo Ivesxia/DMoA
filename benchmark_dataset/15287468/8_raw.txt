@@ -1,0 +1,40 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "surgery",
+      "specific_treatment": "VP shunt revision",
+      "start_date": "2002-05-01",  // Assuming the VP shunt was inserted 19 months before the history record in 2004
+      "end_date": "2004-11-01",    // Date of the operation referenced as occurring 6 months after initial VP shunt insertion
+      "dosage_or_details": "Thick bone around the valve and ventricular catheter was drilled off.",
+      "treatment_response": "Postoperative CT demonstrated drained ventricles. Patient improved and was discharged 2 days later."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "Acetazolamide",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Initial therapy after resetting the shunt valve to low pressure.",
+      "treatment_response": "Patient felt better for a few hours and stopped vomiting; however, symptoms recurred."
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2002-05-01",
+      "event": "VP shunt was inserted to treat increased ICP and visual impairment."
+    },
+    {
+      "date": "2003-11-01",
+      "event": "Rescue operation performed to decompress the optic canal due to rapid vision loss; procedure failed."
+    },
+    {
+      "date": "2004-11-01",
+      "event": "Shunt revision performed due to obstruction from developing bone mass."
+    },
+    {
+      "date": "2004-11-02",
+      "event": "Postoperative CT demonstrated drained ventricles. Patient discharged."
+    }
+  ]
+}
+```

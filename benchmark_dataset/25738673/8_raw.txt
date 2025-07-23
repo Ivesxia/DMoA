@@ -1,0 +1,88 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "clindamycin",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Due to penicillin allergy",
+      "treatment_response": "No change in urine output, edema of the legs developed."
+    },
+    {
+      "treatment_type": "surgery",
+      "specific_treatment": "renal biopsy",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "No specific details provided.",
+      "treatment_response": "Collapsing glomerulopathy diagnosed with associated acute tubular injury."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "high-dose glucocorticoid therapy",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "High-dose glucocorticoids, tapered over several months.",
+      "treatment_response": "Renal function improved, pruritus gradually resolved."
+    },
+    {
+      "treatment_type": "dialysis",
+      "specific_treatment": "hemodialysis",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Initiated due to uremia.",
+      "treatment_response": "Dialysis was discontinued after improving renal function."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "angiotensin-converting enzyme inhibitor",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Started to manage nephrotic-range proteinuria.",
+      "treatment_response": "Ambulatory blood pressure and fasting lipid levels were well controlled."
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2015-03-05",
+      "event": "Patient presented to clinic with generalized pruritus, decreased appetite, fatigue, and dizziness."
+    },
+    {
+      "date": "2015-03-05",
+      "event": "Laboratory tests indicated low sodium and elevated blood urea nitrogen and creatinine levels."
+    },
+    {
+      "date": "2015-03-05",
+      "event": "Urinalysis revealed significant proteinuria and further tests showed enlarged kidneys."
+    },
+    {
+      "date": "2015-03-05",
+      "event": "Throat culture for group A beta-hemolytic streptococcus was positive."
+    },
+    {
+      "date": "2015-03-05",
+      "event": "Patient started on clindamycin."
+    },
+    {
+      "date": "2015-03-05",
+      "event": "Renal biopsy performed, revealing collapsing glomerulopathy.";
+    },
+    {
+      "date": "2015-03-05",
+      "event": "High-dose glucocorticoid therapy initiated."
+    },
+    {
+      "date": "2015-03-05",
+      "event": "Hemodialysis was initiated due to persistent uremia."
+    },
+    {
+      "date": "2015-03-19",
+      "event": "Follow-up laboratory tests indicated improvement in serum creatinine levels."
+    },
+    {
+      "date": "2016-03-05",
+      "event": "Approximately one year post-hospitalization, patient's renal function stabilized with controlled nephrotic-range proteinuria."
+    }
+  ]
+}
+```

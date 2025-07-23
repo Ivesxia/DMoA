@@ -1,0 +1,100 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "minoxidil lotion",
+      "start_date": "1998-01-01",  // Approximation based on patient 1 presentation
+      "end_date": "1998-03-01",  // After 2 months
+      "dosage_or_details": "3%",
+      "treatment_response": "Moderate response after 1 year."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "finasteride",
+      "start_date": "1998-03-01",  // Switching to finasteride after minoxidil
+      "end_date": "Not specified",
+      "dosage_or_details": "1.25 mg/d",
+      "treatment_response": "Improvement in hair density after 6 months, continued improvement at 24 months."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "Dianette",
+      "start_date": "1995-01-01",  // Approximation based on patient 2 presentation
+      "end_date": "1999-01-01",  // Stopped to switch to finasteride
+      "dosage_or_details": "2 mg; ethinylestradiol, 35 µg on days 1 through 21 of the menstrual cycle",
+      "treatment_response": "Initial improvement plateaued after several months."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "finasteride",
+      "start_date": "1999-01-01",  // Added to Dianette
+      "end_date": "Not specified",
+      "dosage_or_details": "1.25 mg/d",
+      "treatment_response": "Noticeable improvement at 1 year, continued improvement at 2.5-year follow-up."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "minoxidil lotion",
+      "start_date": "1997-01-01",  // Approximation based on patient 3 presentation
+      "end_date": "1998-01-01",  // After 1 year
+      "dosage_or_details": "2%",
+      "treatment_response": "Moderate response at 1 year."
+    },
+    {
+      "treatment_type": "surgery",
+      "specific_treatment": "parathyroidectomy",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Not applicable",
+      "treatment_response": "Normalized calcium levels."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "finasteride",
+      "start_date": "1999-01-01",  // After minoxidil
+      "end_date": "Not specified",
+      "dosage_or_details": "1.25 mg/d",
+      "treatment_response": "Improvement in hirsutism and slight hair growth after 2 years."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "Noriday",
+      "start_date": "1999-01-01",  // Concurrent with finasteride
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Not specified."
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "1995-01-01",
+      "event": "Patient 2 started Dianette."
+    },
+    {
+      "date": "1997-01-01",
+      "event": "Patient 3 started minoxidil lotion."
+    },
+    {
+      "date": "1998-01-01",
+      "event": "Patient 1 switched from minoxidil to finasteride."
+    },
+    {
+      "date": "1998-01-01",
+      "event": "Patient 3 discontinued minoxidil lotion after moderate response."
+    },
+    {
+      "date": "1999-01-01",
+      "event": "Patient 2 started finasteride alongside Dianette."
+    },
+    {
+      "date": "1999-01-01",
+      "event": "Patient 4 started finasteride and Noriday."
+    },
+    {
+      "date": "1999-01-01",
+      "event": "Patient 3 started finasteride for hirsutism and hair loss."
+    }
+  ]
+}
+```

@@ -1,0 +1,44 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "surgery",
+      "specific_treatment": "drainage of fluid, manual debridement, device exchange, and postoperative antibiotics",
+      "start_date": "2003-01-01", // Starting date mentioned is not specific but inferred from year
+      "end_date": "2005-01-01", // End date is inferred as case reports are drawn from patients who presented between 2003 and 2005
+      "dosage_or_details": "Intravenous antibiotics followed by postoperative antibiotics for 4 weeks; specifics on post-surgery care were case-by-case.",
+      "treatment_response": "All patients responded positively; 9 implants salvaged with resolution of infection."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "antibiotics",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Intravenous vancomycin initially, followed by oral linezolid or other antibiotics for 4 weeks.",
+      "treatment_response": "Improvement in symptoms observed, including resolution of cellulitis; no recurrent infections."
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2003-08-01",
+      "event": "Right modified radical mastectomy and tissue expanders placed"
+    },
+    {
+      "date": "2004-05-01",
+      "event": "Patient 3 developed cellulitis and was treated with intravenous vancomycin."
+    },
+    {
+      "date": "2004-06-01",
+      "event": "Patient 4 underwent surgery for infected tissue expander."
+    },
+    {
+      "date": "2004-10-01",
+      "event": "Bilateral implant exchange to permanent saline implants performed."
+    },
+    {
+      "date": "2005-01-01",
+      "event": "Follow-up assessments show successful implant salvage with no signs of infection."
+    }
+  ]
+}
+```

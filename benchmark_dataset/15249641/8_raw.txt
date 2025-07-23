@@ -1,0 +1,76 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "imaging",
+      "specific_treatment": "multisequence high-resolution MRI",
+      "start_date": "2004-06-01",  // assuming the month of July based on the report
+      "end_date": "2004-07-01",  // performed 36 hours after USPIO administration
+      "dosage_or_details": "IV administration of USPIO particles (Sinerem, Guerbet, Roissy, France)",
+      "treatment_response": "Identified structural and functional plaque characteristics; indicated the presence of USPIO particles within plaque."
+    },
+    {
+      "treatment_type": "surgery",
+      "specific_treatment": "carotid endarterectomy",
+      "start_date": "2004-07-03",
+      "end_date": "2004-07-03",
+      "dosage_or_details": "Not applicable",
+      "treatment_response": "The patient made a full recovery and was discharged 4 days after surgery."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "phenytoin",
+      "start_date": "2003-02-05",
+      "end_date": "Not specified",
+      "dosage_or_details": "Loaded with phenytoin to stop seizures",
+      "treatment_response": "Stopped the seizures."
+    },
+    {
+      "treatment_type": "plasma exchange",
+      "specific_treatment": "plasma exchange",
+      "start_date": "2003-02-05",
+      "end_date": "Not specified",
+      "dosage_or_details": "Underwent five plasma exchanges, each removing 3.1 to 3.9 L",
+      "treatment_response": "Pristanate decreased; however, there was no clinical response."
+    },
+    {
+      "treatment_type": "dietary management",
+      "specific_treatment": "low pristanate/phytanate diet",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Diet includes avoidance of dairy products and ruminant fats.",
+      "treatment_response": "No change in plasma pristanate or clinical condition observed."
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2003-01-01",
+      "event": "Patient developed a history of headache, nausea, and vomiting."
+    },
+    {
+      "date": "2003-02-05",
+      "event": "The patient was loaded with phenytoin to stop seizures."
+    },
+    {
+      "date": "2003-02-05",
+      "event": "Patient underwent five plasma exchanges."
+    },
+    {
+      "date": "2004-06-01",
+      "event": "Patient underwent multisequence high-resolution MRI of carotid arteries."
+    },
+    {
+      "date": "2004-07-01",
+      "event": "Patient underwent carotid endarterectomy."
+    },
+    {
+      "date": "2004-07-05",
+      "event": "Patient discharged 4 days after surgery."
+    },
+    {
+      "date": "2003-01-01",
+      "event": "Patient registered blind due to visual acuity deterioration."
+    }
+  ]
+}
+```

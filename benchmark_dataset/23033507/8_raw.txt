@@ -1,0 +1,32 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "dexamethasone",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "0.02 mg/kg/day",
+      "treatment_response": "Symptoms gradually improved with full recovery after 6 days."
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2023-09-XX",  // Placeholder for actual date if available
+      "event": "Initial presentation with headache and left-sided neurologic deficits."
+    },
+    {
+      "date": "2023-09-XX + 10 days",  // Placeholder for actual date if available
+      "event": "Performance of lumbar puncture with IT-MTX, followed by worsening symptoms."
+    },
+    {
+      "date": "2023-09-XX + 1 day",  // Placeholder for actual date if available
+      "event": "MRI performed showing abnormal hyperintense signal in right subcortical white matter."
+    },
+    {
+      "date": "2023-09-XX + 6 days",  // Placeholder for actual date if available
+      "event": "Patient discharged with full recovery."
+    }
+  ]
+}
+```

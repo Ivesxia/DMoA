@@ -1,0 +1,18 @@
+```json
+{
+  "is_case_report": true,
+  "article_title": "Perioperative Management of Severe Head Injury in a Patient with Arrhythmogenic Right Ventricular Dysplasia",
+  "first_author": "Francine Bonnet, M.D.",
+  "journal": "Anesthesiology",
+  "publication_year": "2001",
+  "number_of_cases": 1,
+  "patient_info": {
+    "initial_information": "A 19-year-old man presented with multiple traumas after a motorcycle accident and a known arrhythmogenic condition.",
+    "age": "19",
+    "sex": "Male",
+    "ethnicity": "Not specified",
+    "occupation": "Not specified",
+    "location": "Not specified"
+  }
+}
+```

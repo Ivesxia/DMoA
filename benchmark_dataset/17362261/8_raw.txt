@@ -1,0 +1,44 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "omalizumab",
+      "start_date": "1998-01-01",
+      "end_date": "Not specified",
+      "dosage_or_details": "Initially treated in a 32-week randomized, double-blind, placebo-controlled study; subsequent treatment during a 6-year extension phase.",
+      "treatment_response": "Clinical improvement with absence of hospitalizations for severe attacks, disappearance of pollen-induced rhinitis, and improved respiratory function."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "fluticasone",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Reduced to 500 µg/day for the twin who received omalizumab; the other required 1250 µg/day.",
+      "treatment_response": "Reduced dosage for the twin on omalizumab; persistent exacerbations for the other twin."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "oral corticosteroids",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Occasional administration for the twin treated with omalizumab.",
+      "treatment_response": "Needed regular courses for the other twin due to persistent exacerbations."
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "1998-01-01",
+      "event": "Twins enrolled in a 32-week randomized, double-blind, placebo-controlled study."
+    },
+    {
+      "date": "1998-01-01",
+      "event": "One twin received omalizumab and the other a placebo."
+    },
+    {
+      "date": "Not specified",
+      "event": "Omalizumab treatment continued for both twins during a 6-year extension phase."
+    }
+  ]
+}
+```

@@ -1,0 +1,64 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "pegylated interferon plus ribavirin",
+      "start_date": "2008-11-01",  // 5 months after primary HCV infection
+      "end_date": "2009-04-01",  // Discontinued after 5 months
+      "dosage_or_details": "Not specified",
+      "treatment_response": "No significant drop in HCV load; mild gynecomastia and hepatomegaly developed after discontinuation."
+    },
+    {
+      "treatment_type": "surgery",
+      "specific_treatment": "liver transplant",
+      "start_date": "2009-11-01", // 7 months after onset of decompensated cirrhosis
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Recovered slowly from surgery, remained clinically well over the subsequent 2.5 years."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "antiretroviral therapy (ART)",
+      "start_date": "2008-02-01",  // Initiated just a few months prior to the first lab test
+      "end_date": "Not specified",
+      "dosage_or_details": "Tenofovir, emtricitabine, and efavirenz",
+      "treatment_response": "Initial ART was suspended after jaundice; restarted after biopsy."
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2008-02-01",
+      "event": "Initiation of ART regimen."
+    },
+    {
+      "date": "2008-05-01",
+      "event": "Elevation of liver transaminases detected."
+    },
+    {
+      "date": "2008-08-01",
+      "event": "Underwent liver biopsy; diagnosed with stage 3 fibrosis."
+    },
+    {
+      "date": "2008-11-01",
+      "event": "Started treatment with pegylated interferon and ribavirin."
+    },
+    {
+      "date": "2009-04-01",
+      "event": "Discontinued HCV treatment due to lack of response."
+    },
+    {
+      "date": "2009-11-01",
+      "event": "Developed decompensated cirrhosis."
+    },
+    {
+      "date": "2010-06-01",
+      "event": "Underwent liver transplant."
+    },
+    {
+      "date": "2012-11-01",
+      "event": "Remained clinically well after liver transplant."
+    }
+  ]
+}
+```

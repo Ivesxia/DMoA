@@ -1,0 +1,60 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "dietary modification",
+      "specific_treatment": "low-saturated-fat/low-cholesterol diet",
+      "start_date": "2014-01-01",  // Assuming the timeline starts at the age of 16 months which is in 2014
+      "end_date": "Not specified",
+      "dosage_or_details": "Continued throughout the entire treatment period",
+      "treatment_response": "Cholesterol levels decreased dramatically and normalized"
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "cholestyramine",
+      "start_date": "2014-01-01",  // Started at 16 months of age
+      "end_date": "2015-01-01",  // Tapered off by 25 months of age
+      "dosage_or_details": "0.24 g/kg/d",
+      "treatment_response": "Cholesterol levels normalized; subsequently tapered off"
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "ezetimibe",
+      "start_date": "2015-04-01",  // Replaced cholestyramine at 64 months of age
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Not specified"
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2013-11-01",
+      "event": "Infant presented with intertriginous xanthomas; elevated cholesterol levels noted."
+    },
+    {
+      "date": "2014-01-01",
+      "event": "Low-saturated-fat/low-cholesterol diet and cholestyramine therapy initiated."
+    },
+    {
+      "date": "2014-03-01",
+      "event": "Cholesterol levels decreased dramatically and normalized."
+    },
+    {
+      "date": "2015-01-01",
+      "event": "Cholestyramine therapy tapered off and discontinued."
+    },
+    {
+      "date": "2015-04-01",
+      "event": "Ezetimibe therapy initiated."
+    },
+    {
+      "date": "2016-01-01",
+      "event": "Xanthomas began to regress and disappeared by 3 years of age."
+    },
+    {
+      "date": "2018-01-01",
+      "event": "Gas chromatography-mass spectrometry analysis revealed high plasma sitosterol level."
+    }
+  ]
+}
+```

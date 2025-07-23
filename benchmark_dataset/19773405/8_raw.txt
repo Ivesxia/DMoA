@@ -1,0 +1,44 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "Growth Hormone (GH) therapy",
+      "start_date": "2009-04-01",  // Estimated based on 3.2 years old
+      "end_date": "2012-04-01",    // Estimated based on 7.2 years old
+      "dosage_or_details": "0.4 mg/kg twice a week for the first 3 years; reduced to 0.2 mg/kg twice a week afterward.",
+      "treatment_response": "Initial increase in growth rate; growth velocity returned to normal during reduced dose."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "Reinitiated Growth Hormone (GH) therapy",
+      "start_date": "2009-10-01",  // Estimated based on 8.5 years old
+      "end_date": "Not specified",
+      "dosage_or_details": "0.4 mg/kg twice a week",
+      "treatment_response": "Accelaration in growth observed, which then tapered over time."
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2009-03-01",
+      "event": "Patient shows failure to thrive and is referred at 11 months old."
+    },
+    {
+      "date": "2009-04-01",
+      "event": "GH treatment initiated at a dose of 0.4 mg/kg twice a week at 3.2 years old."
+    },
+    {
+      "date": "2012-04-01",
+      "event": "GH treatment reduced to 0.2 mg/kg twice a week after 3 years."
+    },
+    {
+      "date": "2012-10-01",
+      "event": "GH therapy withdrawn for 14 months."
+    },
+    {
+      "date": "2014-01-01",
+      "event": "GH therapy restarted at 8.5 years old at a dose of 0.4 mg/kg twice a week."
+    }
+  ]
+}
+```

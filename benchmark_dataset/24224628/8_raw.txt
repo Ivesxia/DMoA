@@ -1,0 +1,128 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "surgery",
+      "specific_treatment": "cystoscopy with resection of bladder tumor",
+      "start_date": "2013-11-06",  // Eight days before admission
+      "end_date": "2013-11-06",
+      "dosage_or_details": "Resected identified bladder tumor",
+      "treatment_response": "Reported depression, lethargy, weakness, and anorexia post-surgery"
+    },
+    {
+      "treatment_type": "surgery",
+      "specific_treatment": "extraction of the left lower molar",
+      "start_date": "2013-11-04",  // Two days before admission
+      "end_date": "2013-11-04",
+      "dosage_or_details": "To address presumed infection",
+      "treatment_response": "Patient reported persistent hematuria, dysuria, and night sweats post-extraction"
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "ciprofloxacin",
+      "start_date": "2013-11-07",  // On admission
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified, given for infection",
+      "treatment_response": "Part of treatment after presenting with confusion and malaise"
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "metronidazole",
+      "start_date": "2013-11-07",  // On admission
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Administered alongside other antibiotics"
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "cefepime",
+      "start_date": "2013-11-07",  // On admission
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Administered to address possible infection"
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "dalteparin",
+      "start_date": "2013-11-07",  // On admission
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Part of treatment regimen on admission"
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "magnesium sulfate",
+      "start_date": "2013-11-07",  // On admission
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Administered during hospitalization"
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "acetaminophen",
+      "start_date": "2013-11-07",  // On admission
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Administered for fever"
+    },
+    {
+      "treatment_type": "chemotherapy",
+      "specific_treatment": "EPOCH-R",
+      "start_date": "2013-11-14",  // After diagnosis
+      "end_date": "Not specified",
+      "dosage_or_details": "Dose-adjusted regimen for high-grade lymphoma",
+      "treatment_response": "LDH decreased and systemic symptoms resolved after one cycle"
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "intrathecal methotrexate",
+      "start_date": "2013-11-14",  // After diagnosis
+      "end_date": "Not specified",
+      "dosage_or_details": "For CNS prophylaxis",
+      "treatment_response": "Part of preventative measure during treatment"
+    },
+    {
+      "treatment_type": "chemotherapy",
+      "specific_treatment": "salvage chemotherapy with rituximab, gemcitabine, and oxaliplatin",
+      "start_date": "2014-03-01",  // After disease progression
+      "end_date": "Not specified",
+      "dosage_or_details": "Administered after first cycle of EPOCH-R",
+      "treatment_response": "Stopped after one cycle due to progressive symptoms and persistent cytopenias"
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2013-10-22",
+      "event": "Patient developed urinary frequency and urgency symptoms."
+    },
+    {
+      "date": "2013-10-24",
+      "event": "Root canal performed on left lower molar."
+    },
+    {
+      "date": "2013-10-28",
+      "event": "Cystoscopy performed at another hospital; bladder tumor resection."
+    },
+    {
+      "date": "2013-11-04",
+      "event": "Extraction of left lower molar due to presumed infection."
+    },
+    {
+      "date": "2013-11-07",
+      "event": "Patient admitted to emergency department with confusion; multiple treatments started."
+    },
+    {
+      "date": "2013-11-14",
+      "event": "Initiation of EPOCH-R chemotherapy and intrathecal methotrexate for CNS prophylaxis."
+    },
+    {
+      "date": "2013-11-21",
+      "event": "Patient completed first cycle of EPOCH-R; LDH decreased and symptoms resolved."
+    },
+    {
+      "date": "2014-03-01",
+      "event": "Started salvage chemotherapy with rituximab, gemcitabine, and oxaliplatin; treatment stopped after one cycle."
+    }
+  ]
+}
+```

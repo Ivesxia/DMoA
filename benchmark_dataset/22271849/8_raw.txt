@@ -1,0 +1,36 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "surgery",
+      "specific_treatment": "orthotopic live-donor liver transplantation",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Condition, including neurological disability, gradually improved; started to work again 10 months after liver transplantation."
+    },
+    {
+      "treatment_type": "imaging study",
+      "specific_treatment": "cardiac positron-emission tomography with [11C]-BF-227",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Significantly robust retention of [11C]-BF-227 in the heart compared with the normal control."
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2012-01-01",  // Placeholder date; specific date not provided.
+      "event": "Orthotopic live-donor liver transplantation performed to alleviate and prevent exacerbation of neuronal and cardiac symptoms."
+    },
+    {
+      "date": "2012-11-01",  // Placeholder date; 10 months post-transplant.
+      "event": "Patient's condition gradually improved; started to work again."
+    },
+    {
+      "date": "2012-01-01",  // Placeholder date; specific date not provided.
+      "event": "Cardiac positron-emission tomography study with [11C]-BF-227 performed."
+    }
+  ]
+}
+```

@@ -1,0 +1,48 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "desmopressin acetate",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Administered to minimize the risk of bleeding during procedures",
+      "treatment_response": "Increased concentration of von Willebrand factor",
+    },
+    {
+      "treatment_type": "chemotherapy",
+      "specific_treatment": "thalidomide and dexamethasone",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Thalidomide prescribed as maintenance therapy",
+      "treatment_response": "Returned to normal levels of IgG, activated partial-thromboplastin time, factor VIII activity, von Willebrand factor antigen level, and ristocetin cofactor activity within 4 months"
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "Not specified",
+      "event": "Patient presented with prolonged bleeding after periodontal scaling"
+    },
+    {
+      "date": "Not specified",
+      "event": "Desmopressin acetate administered to minimize risk of bleeding before invasive procedures"
+    },
+    {
+      "date": "Not specified",
+      "event": "Chemotherapy with thalidomide and dexamethasone initiated"
+    },
+    {
+      "date": "Not specified",
+      "event": "Levels of IgG, activated partial-thromboplastin time, factor VIII activity, von Willebrand factor antigen, and ristocetin cofactor activity returned to normal within 4 months"
+    },
+    {
+      "date": "Not specified",
+      "event": "Thalidomide discontinued due to side effects"
+    },
+    {
+      "date": "Not specified",
+      "event": "Patient underwent additional periodontal work and laparoscopic cholecystectomy without bleeding complications"
+    }
+  ]
+}
+```

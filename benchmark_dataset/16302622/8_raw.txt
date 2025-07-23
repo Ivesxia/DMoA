@@ -1,0 +1,36 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "endovascular embolization",
+      "specific_treatment": "transarterial embolization of macro-arteriovenous fistula (MA VF)",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "3:1 mixture of N-butyl cyanoacrylate and ethiodol",
+      "treatment_response": "Successful obliteration of the fistula; no neurological sequelae; reduction in size of the venous varix observed."
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2003-10-01",   // Approximation for understanding purposes; specific dates weren't mentioned.
+      "event": "Screening CT scan revealed an asymptomatic arteriovenous malformation (AVM) of the spine."
+    },
+    {
+      "date": "2004-06-01",  // Approximation for understanding purposes; this event would have happened after the screening.
+      "event": "Spinal MR imaging revealed a perimedullary macro-AVF and a large venous varix within the spinal cord."
+    },
+    {
+      "date": "2005-05-01",  // Approximation for understanding purposes; specific dates weren't mentioned.
+      "event": "Transarterial embolization of the MA VF performed using N-butyl cyanoacrylate and ethiodol."
+    },
+    {
+      "date": "2005-06-01",   // Approximation for understanding purposes; occurs shortly after embolization.
+      "event": "Post-embolization imaging showed complete obliteration of the MA VF and no neurological dysfunction."
+    },
+    {
+      "date": "2005-11-01",  // Approximation for understanding purposes; approximately 10 months post-embolization.
+      "event": "Follow-up MR imaging showed complete resolution of T2 hyperintensity in the spinal cord."
+    }
+  ]
+}
+```
