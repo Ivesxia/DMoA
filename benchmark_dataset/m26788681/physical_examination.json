@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "blood_pressure": "117/57 mmHg",
+                "heart_rate": "53 bpm",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": {
+                "general": "Supine, non-toxic, pleasant, comfortable.",
+                "heent": "Pupils 2 mm and equal, poor dentition, nevus right zygomatic arch.",
+                "cardiovascular": "S1 and S2, irregular.",
+                "chest": "Clear to auscultation bilaterally.",
+                "abdominal": "Soft, non-tender (NT).",
+                "extremities": "Warm, 1+ edema, surgical scar left knee.",
+                "neurological": "Alert, interactive, appropriate. Knows she is in ___, but not why. Gross motor function intact and symmetrical with normal strength, no tremor or myoclonic jerking."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

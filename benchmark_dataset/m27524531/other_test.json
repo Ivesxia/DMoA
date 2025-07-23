@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in echogenicity with an 8 mm calcification in the right lobe, likely a calcified granuloma. The portal vein is patent with hepatopetal flow. The gallbladder wall is thickened and edematous, with gallstones present. There is a positive sonographic ___ sign and a likely reactive node in the portacaval region.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

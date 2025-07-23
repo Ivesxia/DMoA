@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung bases demonstrate no consolidation or effusion. There is no pericardial effusion. The liver is normal in size and attenuation. There are no focal liver lesions. The gallbladder and biliary tree are normal. The spleen, pancreas, adrenal glands, and kidneys are normal. There is symmetric renal parenchymal enhancement and contrast excretion. There is no hydronephrosis. Intra-abdominal loops of small and large bowel are normal. There is no bowel distention or bowel wall thickening. The stomach and duodenum are essentially unremarkable. The appendix is visualized in the right lower quadrant and is normal. There is no mesenteric fluid. There is no mesenteric or retroperitoneal adenopathy. The aorta is normal in caliber and configuration. The distal ureters and bladder are normal. The prostate is unremarkable. Rectum and sigmoid colon are normal. There is no free pelvic fluid. There are no suspicious lytic or sclerotic osseous lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "STD in V3-5 while tachycardic.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "Focal segment of sigmoid colon demonstrates mild circumferential wall thickening, mucosal enhancement, and pericolonic fat stranding, with multiple small inflamed diverticula noted. No abscess or perforation present, and no bowel obstruction seen.",
+            "changes_over_time": "L1 vertebral compression deformity is unchanged when compared to study of previous plain radiograph."
+        }
+    ]
+}

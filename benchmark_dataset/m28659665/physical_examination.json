@@ -1,0 +1,46 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "heart_rate": "95 bpm",
+                "blood_pressure": "138/95 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, no acute distress",
+                "HEENT": "Sclera anicteric, Dry MM, oropharynx clear, EOMI, PERRL",
+                "neck": "Supple, JVP not elevated, no LAD",
+                "cardiovascular": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+                "lungs": "Clear to auscultation bilaterally, no wheezes, rales, rhonchi",
+                "abdomen": "Soft, mildly-tender on bilateral upper quadrants, non-distended, bowel sounds present, no organomegaly, no rebound or guarding",
+                "neurological": "CN II-XII intact, strength upper/lower extremities grossly normal, sensation normal, 2+ reflexes bilaterally, gait deferred",
+                "extremities": "Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "102 bpm",
+                "blood_pressure": "107/56 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": "Decreased pain reported upon arrival to the floor.",
+            "changes_over_time": "Pain decreased from initial admission."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "imaging": "CT abdomen revealed mild pancreatic swelling without focal suspicious lesions, slightly dilated CBD but stable; diverticulosis of sigmoid colon without wall thickening.",
+                "hematological": "WBC 16 (91% PMNs), lipase 1089, lactate 2.8"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

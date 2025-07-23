@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient first developed right upper quadrant (RUQ) and epigastric pain in early ___, which has been severe and associated with nausea but no vomiting the day prior to admission. The patient was previously hospitalized for similar issues, leading to an ERCP on ___.",
+        "past_medical_history": "History of cholecystectomy, hypothyroid, depression, hypo-vitamin D, esophagitis, prior knee meniscal tear.",
+        "family_history": "Father with skin cancer; mother in good health.",
+        "social_history": "Not specified."
+    }
+}

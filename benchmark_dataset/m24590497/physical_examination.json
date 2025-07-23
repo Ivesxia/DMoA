@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "temp_mouth": "102.6°F",
+                "pulse": "122 bpm",
+                "blood_pressure": "121/77 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Awake, cooperative, appears in pain, mild distress.",
+                "HEENT": "NC/AT, no scleral icterus, MMM, clear oropharynx.",
+                "neck": "No meningismus, but pain on neck extension and left rotation. Pinpoint tenderness over left paraspinal cervical muscles.",
+                "pulmonary": "Lungs CTA bilaterally without R/R/W.",
+                "cardiac": "RRR, normal S1S2, no M/R/G.",
+                "abdomen": "Soft, NT/ND, normoactive bowel sounds.",
+                "extremities": "No C/C/E bilaterally.",
+                "skin": "No rashes or lesions.",
+                "neurologic": "Alert, oriented x 3. Mental status intact. No deficits noted."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1",
+                "heart_rate": "112",
+                "blood_pressure": "112/62",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": {
+                "general_appearance": "pleasant, comfortable, no acute distress",
+                "eyes": "PERLL, EOMI, no conjunctival injection, anicteric",
+                "ENT": "no sinus tenderness, MMM, oropharynx without exudate or lesions, no supraclavicular or cervical lymphadenopathy, no JVD, no carotid bruits",
+                "respiratory": "CTA b/l with good air movement throughout",
+                "cardiovascular": "RRR, S1 and S2 wnl, S4 gallop, no murmurs, rubs",
+                "gastrointestinal": "diffusely tender, more pronounced tenderness in RUQ and epigastrium, suprapubic mass likely bladder, +b/s, abdomen soft, no rebound, no peritoneal signs",
+                "CVA": "bilateral CVA tenderness",
+                "extremities": "no cyanosis, clubbing, 1+ edema",
+                "skin": "warm, no rashes, no jaundice, no skin ulcerations noted",
+                "neurological": "Alert, oriented to self, time, date, reason for hospitalization",
+                "psychiatric": "pleasant, appropriate affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

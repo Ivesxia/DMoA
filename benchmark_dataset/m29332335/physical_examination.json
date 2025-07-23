@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.0°F",
+                "heart_rate": "94 bpm",
+                "blood_pressure": "115/94 mmHg",
+                "respiratory_rate": "16 per minute",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": "AAOx3, NAD, RRR, CTAB, soft RLQ tender below McBurney's point, rectal - guaiac negative, no masses, Pelvic - no adnexal tenderness or fullness, no CMT, no edema, extrem warm",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

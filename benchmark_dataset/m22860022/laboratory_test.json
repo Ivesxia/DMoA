@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Liver is grossly normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis",
+            "date": "Not specified",
+            "findings": "Severe inflammation in the right lower quadrant centered about the appendix which is dilated to 12 mm. No drainable fluid collection.",
+            "changes_over_time": "The infrarenal aorta is mildly dilated to 3.1 cm not significantly changed since CT of ___."
+        },
+        {
+            "procedure_name": "Kidney Imaging",
+            "date": "Not specified",
+            "findings": "The pancreas is severely atrophic. The kidneys are atrophic. There is a 1.5 cm simple cyst in the upper pole of the left kidney and a 1.3 cm simple cyst in the lower pole.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

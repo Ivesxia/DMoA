@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "H. pylori antibody test",
+            "date": "Not specified",
+            "findings": "Positive",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic appendectomy",
+            "date": "Not specified",
+            "findings": "Appendix inflamed, dilated up to 11 mm in diameter with suggestion of appendicolith at the base.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

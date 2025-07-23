@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Gallstones in a distended gallbladder. No gallbladder wall edema or pericholecystic fluid. Normal hepatic parenchyma, smooth liver contour, patent main portal vein, no ascites, no intrahepatic biliary dilation, normal pancreas, normal spleen echogenicity, normal kidneys, and visualized retroperitoneum.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

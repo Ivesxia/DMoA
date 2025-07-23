@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is enlarged, measuring 10 mm with trace surrounding fat stranding and fascial thickening. Oral contrast does not fill the appendix. Polypoid thickening is noted at the appendiceal origin bulging into the cecum. The appendix measured approximately 6 mm on previous imaging. Exophytic uterine fibroids are again noted. The left gonadal vein is prominent. A linear hyperdense lesion in the proximal right vastus lateralis is stable. There is disc space narrowing at L2-3 with endplate sclerosis. The lung bases are clear, the heart and pericardium are unremarkable. The liver shows no gross or diffuse or focal abnormality. The gallbladder, pancreas, spleen, adrenals, kidneys, stomach, and small bowel are grossly unremarkable. No lymphadenopathy or free air/fluid is noted.",
+            "changes_over_time": "The appendix measured approximately 6 mm on previous imaging; current measurement is 10 mm indicating enlargement. A linear hyperdense lesion in the proximal right vastus lateralis is stable from previous imaging."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The gallbladder is distended and contains several small dependent gallstones. The wall is not thickened, and there is no adjacent fluid. The biliary tree is normal in caliber, and there is no evidence of choledocholithiasis. An aberrant bile duct is noted. The spleen is markedly enlarged measuring 20 cm. Two small non-enhancing cystic lesions of the pancreatic body measuring up to 6 mm are present. No peripancreatic inflammatory change or fluid. A small area of subcapsular arterial enhancement of segment V consistent with a perfusion anomaly. Centered in the collecting system of the lower pole of the right kidney is a nonenhancing 11 mm calculus. There is a 2.5 cm simple cyst of the lower pole of the left kidney. The celiac trunk, SMA, and renal arteries are patent. No focal bone lesion.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

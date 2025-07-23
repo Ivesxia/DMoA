@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient presents with abdominal pain for 14 hours, starting as crampy mid/epigastric pain last night, which progressed to right lower quadrant (RLQ) pain. Associated symptoms include nausea and chills. The patient denies emesis, diarrhea, fevers, or recent weight changes. There are no prior symptoms reported.",
+        "past_medical_history": "GERD, MS, history of pyelonephritis",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

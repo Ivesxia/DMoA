@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "87 bpm",
+                "blood_pressure": "127/76 mmHg",
+                "respiratory_rate": "16"
+            },
+            "relevant_findings": {
+                "abdominal_examination": "Soft, tender to palpation most in RUQ and epigastric area, no rebound/guarding, equivocal clinical Murphy's sign, no edema"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "ultrasound": "Liver mildly echogenic suggestive of fatty infiltration. Gallbladder mildly distended with numerous layering gallstones and sludge. No focal lesions or biliary duct dilatation."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

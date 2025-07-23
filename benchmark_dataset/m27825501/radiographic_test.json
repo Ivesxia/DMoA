@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT A/P",
+            "date": "Not specified",
+            "findings": "Enhancing gallbladder wall with mild pericholecystic fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Trace right pleural effusion, bibasilar atelectasis, tiny T2 hyperintense cystic lesion near liver dome, multiple gallstones with gallbladder-wall edema and pericholecystic fluid, splenomegaly with multiple unchanged lesions compatible with hemangiomas.",
+            "changes_over_time": "Redemonstration of multiple gallstones with gallbladder-wall edema and pericholecystic fluid and stranding, similar to prior CT."
+        }
+    ]
+}

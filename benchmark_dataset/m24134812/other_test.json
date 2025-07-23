@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The echotexture of the liver is heterogeneous and coarsened. The portal vein is patent. There is no intra or extrahepatic biliary dilatation. The common bile duct measures 5 mm. The gallbladder is filled with multiple stones and has a thickened wall; however, it does not appear distended and there is no pericholecystic fluid. A stone is present in the gallbladder neck. There is a possible positive sonographic ___ sign. The visualized portions of the pancreas are unremarkable. The visualized aorta and IVC are unremarkable. There is no free fluid within the abdomen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "1.0 mmol/L",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

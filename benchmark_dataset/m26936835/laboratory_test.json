@@ -1,0 +1,26 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "appetite": "Dilated, fluid-filled appendix with hyperemic wall measuring up to 9 mm",
+                "inflammation": "Extensive inflammation and periappendiceal phlegmon formation measuring 4.4 x 3.5 cm",
+                "gas": "Small locule of gas noted within phlegmon",
+                "bowel_thickening": "Extensive bowel wall thickening of cecum and terminal ileum",
+                "lymph_nodes": "Numerous mesenteric lymph nodes noted, likely reactive",
+                "gallbladder": "Incompletely distended, no wall thickening or pericholecystic fluid",
+                "spleen": "Unremarkable",
+                "pancreas": "Enhances homogeneously without ductal dilatation",
+                "kidneys": "Enhance and excrete contrast symmetrically without evidence of hydronephrosis"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

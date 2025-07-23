@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC 13.9, 74% PMNs",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Cr 0.8",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HCO3",
+            "date": "Not specified",
+            "findings": "HCO3 25",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "K 4.4",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver function tests",
+            "date": "Not specified",
+            "findings": "LFTs wnl",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "negative UA",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C. difficile testing",
+            "date": "Not specified",
+            "findings": "NO VIRUS ISOLATED.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

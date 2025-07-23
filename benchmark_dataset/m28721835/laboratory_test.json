@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Renal Ultrasound",
+            "date": "Not specified",
+            "findings": "The right kidney measures 11.8 cm with no focal lesion, large stone, or hydronephrosis. Renal parenchymal echogenicity appears normal. The bladder is decompressed and there are fluid-filled bowel loops in the imaged field.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "INR",
+            "date": "Not specified",
+            "findings": "INR 5",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "Hemoglobin stable at unspecified level since unspecified date.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRSA Culture",
+            "date": "Not specified",
+            "findings": "No MRSA isolated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "0.2 mg/dL",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "US APPENDIX",
+            "date": "Not specified",
+            "findings": "Blind-ending noncompressible loop of bowel with bowel wall edema and surrounding induration. There is trace surrounding fluid without a definite abscess or evidence of perforation. Echogenic material fills the appendix with an appendicolith noted proximally.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "8.7 mg/dL (within normal range 8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

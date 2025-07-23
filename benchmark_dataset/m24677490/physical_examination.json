@@ -1,0 +1,44 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1 °F",
+                "heart_rate": "100 bpm",
+                "blood_pressure": "105/72 mmHg",
+                "respiratory_rate": "18 insp/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing, well-nourished, no acute distress",
+                "cardiovascular": "Tachycardic, regular, systolic murmur > apex",
+                "pulmonary": "Lungs clear to auscultation bilaterally",
+                "abdominal": "Soft, non-distended, tender to palpation over epigastrium",
+                "neurological": "Alert, oriented to person, place, and time. Cranial nerves II-XII grossly intact.",
+                "skin": "No jaundice, cyanosis, or gross dermatitis."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "5 am",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "hyperglycemia": "1008 mg/dL",
+                "HCO3": "10 mEq/L",
+                "creatinine": "3.2 mg/dL",
+                "CK": "45 IU/L",
+                "troponin-I": "0.03 ng/mL",
+                "leukocytosis": "13.9 x 10^9/L",
+                "anion_gap": "31",
+                "lipase": "1373 IU/L"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

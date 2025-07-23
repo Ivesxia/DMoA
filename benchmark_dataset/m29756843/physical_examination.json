@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "heart_rate": "154 bpm",
+                "blood_pressure": "133/74 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": {
+                "initial_exam": "Guaiac positive brown stool, otherwise normal.",
+                "last_exam": {
+                    "temperature": "99°F",
+                    "blood_pressure": "102/72 mmHg",
+                    "heart_rate": "108 bpm",
+                    "respiratory_rate": "18 breaths/min",
+                    "oxygen_saturation": "99% on 4L NC",
+                    "physical_exam": "Pleasant, well-appearing obese woman in NAD. Neck supple, no LAD. Cardiac: regular rhythm, normal rate, normal S1, S2, no murmurs. Lungs CTAB, good air movement bilaterally. Abdomen soft, obese NT, ND, NABS. No edema in extremities."
+                }
+            },
+            "changes_over_time": "Heart rate decreased from 154 bpm to 108 bpm between initial and last vital sign measurements. No other significant changes noted."
+        }
+    ]
+}

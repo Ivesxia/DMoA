@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2 F",
+                "pulse": "113 bpm",
+                "blood_pressure": "138/86 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on RA"
+            },
+            "relevant_findings": {
+                "general": "awake, alert, no acute distress",
+                "HEENT": "normocephalic, intact EOM, anicteric",
+                "heart": "regular rate and rhythm",
+                "lungs": "normal excursion, no respiratory distress",
+                "abdomen": "soft, non-distended, focal severe RLQ tenderness with involuntary guarding, no rebound, negative Rovsing's sign",
+                "extremities": "warm, well-perfused, no cyanosis, clubbing or edema, 2+ bilateral radial pulses",
+                "psychiatric": "normal judgment/insight, normal memory, normal mood/affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung_bases": "Mild dependent atelectasis is noted at the lung bases bilaterally.",
+                "abdominal_findings": {
+                    "hypodensities": "Several small hypodensities, the largest near the gallbladder fossa, too small to accurately characterize.",
+                    "portal_vein": "Centrally patent.",
+                    "spleen": "Appears normal.",
+                    "gallbladder_pancreas_adrenal_glands_kidneys": "Appear unremarkable.",
+                    "kidneys": "Enhance symmetrically and excrete contrast promptly.",
+                    "abdominal_aorta_major_branch_vessels": "Widely patent with normal course and caliber.",
+                    "retroperitoneal_lymphadenopathy": "None noted.",
+                    "stomach_duodenum": "Appear unremarkable."
+                },
+                "pelvis_findings": {
+                    "small_bowel": "No evidence of ileus or obstruction.",
+                    "appendix": "Abnormal with dilation up to 10 mm with thickened enhancing wall.",
+                    "perforation": "No evidence of.",
+                    "regional_lymph_nodes": "Enhancing in the right lower quadrant likely reflective of reactive.",
+                    "large_bowel": "Contains a moderate volume of fecal material.",
+                    "uterus": "Surgically absent as are the bilateral ovaries.",
+                    "distal_ureters": "Opacify normally.",
+                    "urinary_bladder": "Normal.",
+                    "pelvic_free_fluid_lymphadenopathy": "None noted."
+                },
+                "bones": "No suspicious bony lesions are seen."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

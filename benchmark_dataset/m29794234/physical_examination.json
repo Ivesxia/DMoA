@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "VSS (Vital signs stable)",
+            "relevant_findings": "Constitutional: NAD (No Acute Distress), Alert and oriented x 3; Cardiac: RRR (Regular Rate and Rhythm); Lungs: CTA (Clear to Auscultation); Abdomen: Soft, appropriate tenderness to palpation, no rebound tenderness/guarding; Wounds: CDI (Clean, Dry, Intact); Extremities: No CCE (Cyanosis, Clubbing, Edema).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

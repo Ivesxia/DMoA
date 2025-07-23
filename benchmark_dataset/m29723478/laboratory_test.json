@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The liver is normal in signal intensity, without focal lesions. No intrahepatic or extrahepatic bile duct dilation. The common bile duct is normal in caliber measuring 7 mm. The gallbladder is moderately distended and contains a few tiny gallstones. Mild gallbladder wall thickening with moderate edema and increased early enhancement is present. Minimal pericholecytic fluid and mild hyperemia of the adjacent liver. The cystic duct is not dilated but there may be a stone at the gallbladder neck-cystic duct junction. Few tiny left renal cortical cysts and a single left renal peripelvic cyst are seen. A sub-centimeter hemorrhagic right upper pole renal cyst shows no abnormal enhancement. Scattered descending colonic diverticulosis is noted. Small right pleural effusion with mild right lower lobe atelectasis are noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Additional Culture Result",
+            "date": "Not specified",
+            "findings": "NEGATIVE.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

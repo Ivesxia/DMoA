@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient presented with 2 days of abdominal pain that started in the right upper quadrant (RUQ). He experienced decreased output from his stoma and had an episode of non-bilious non-bloody emesis overnight. Pain persisted and involved bilateral lower quadrants and epigastric pain. He has stopped eating and has only been taking his medications. Currently, mild epigastric pain is worse with movement.",
+        "past_medical_history": "End-stage renal disease (ESRD) on hemodialysis, coronary artery disease (CAD), prosthetic aortic and mitral valves, recurrent small bowel obstructions with an ostomy, history of hyperparathyroidism, hypertension, atrial fibrillation, diastolic congestive heart failure, history of MSSA endocarditis with aortic and mitral valve involvement, repeated episodes of pneumonia, history of ischemic colitis/ileitis with subtotal colectomy and ileocolonic anastomosis.",
+        "family_history": "Father with prostate cancer.",
+        "social_history": "Denies alcohol consumption."
+    }
+}

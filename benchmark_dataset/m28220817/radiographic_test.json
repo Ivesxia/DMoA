@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Mild to moderate cardiomegaly; calcified and minimally unfolded aorta; equivocal minimal prominence of the pulmonary arteries with a tapered appearance; upper zone redistribution without overt CHF; minimal patchy opacity at the right lung base with probable subsegmental atelectasis at the left lung base; no overt CHF, frank consolidation or gross effusion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

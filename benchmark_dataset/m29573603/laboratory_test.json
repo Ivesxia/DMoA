@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBCs of 18k",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate level of 1.8",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Persistent expected intrahepatic pneumobilia, 2 small subcapsular fluid collections unchanged and one decreased in size from 10 x 4 mm to 7 x 3 mm.",
+            "changes_over_time": "The smaller adjacent lesion is smaller measuring 7 x 3 mm, previously 10 x 4 mm."
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "LFTs were non-obstructive and largely stable from prior values.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

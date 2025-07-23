@@ -1,0 +1,50 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "blood_pressure": "157/55 mmHg",
+                "heart_rate": "74 bpm",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "95% on 2L O2"
+            },
+            "relevant_findings": {
+                "general": "cachectic man in NAD, oriented x3, mood and affect appropriate.",
+                "heent": "NCAT, sclera anicteric, PERRL, EOMI, conjunctiva pink.",
+                "neck": "supple with JVP of 8 cm.",
+                "cardiac": "PMI in ___ intercostal space, normal S1, S2, no murmurs/rubs/gallops.",
+                "lungs": "unlabored respirations, no accessory muscle use, no crackles, wheezes or rhonchi.",
+                "abdomen": "soft, NTND, no HSM or tenderness.",
+                "extremities": "no c/c/e.",
+                "skin": "no stasis dermatitis, ulcers, scars.",
+                "pulses": "distal pulses palpable and symmetric."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "blood_pressure": "176/81 mmHg",
+                "heart_rate": "76 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "91% RA"
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Vital signs indicate a progression towards more stable parameters upon admission."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "164/75 mmHg",
+                "heart_rate": "65 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "94% RA"
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

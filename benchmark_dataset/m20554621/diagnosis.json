@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with acute onset of abdominal pain, chills, and nausea. CT imaging revealed a dilated appendix with mucosal hyperemia and the presence of an appendicolith, while other abdominal structures were normal, supporting the diagnosis of acute appendicitis without evidence of perforation or abscess."
+    }
+}

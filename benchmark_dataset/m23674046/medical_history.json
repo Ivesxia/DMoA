@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain, nausea, and vomiting.",
+        "history_of_present_illness": "Abdominal pain began at 6AM on the day of admission. The pain is epigastric and periumbilical in nature, non-radiating, and associated with nausea. The patient reports vomiting at least twice and states that the pain has not improved with vomiting. He has been unable to eat or drink since the night before admission.",
+        "past_medical_history": "Hypertension (untreated), hyperglycemia, eczematous dermatitis, alcohol abuse.",
+        "family_history": "Not specified.",
+        "social_history": "Smoker and alcohol abuse."
+    }
+}

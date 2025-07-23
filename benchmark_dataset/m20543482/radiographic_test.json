@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Linear opacity projecting obliquely in the mid right lung, consistent with atelectasis, atelectatic changes in the right lung base, shifting of the right minor fissure inferiorly, blunting of the right costophrenic angle, mild atelectatic changes in the left lower lung fields. No evidence for pneumonia. Visualized soft tissue and osseous structures are within normal limits. Mediastinal contour is normal.",
+            "changes_over_time": "Persistent right lower lobe atelectasis and volume loss, although overall appearance is improved since ___. Probably small right pleural effusion. Mild left lower lobe atelectasis. No evidence of pneumonia."
+        }
+    ]
+}

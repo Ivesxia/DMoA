@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6 F",
+                "heart_rate": "74 bpm",
+                "blood_pressure": "112/65 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "Affable, NAD",
+                "cardiovascular": "RRR, no MRG",
+                "pulmonary": "CTAB",
+                "abdominal": "LLQ tenderness to palpation moderately on deep palpation, no rebound or peritonitis; no evidence of groin hernias",
+                "extremities": "No pedal edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

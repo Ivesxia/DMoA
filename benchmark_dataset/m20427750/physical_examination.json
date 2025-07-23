@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2°F",
+                "heart_rate": "76 bpm",
+                "blood_pressure": "111/63 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general": "Lying in bed, no apparent distress, moving all extremities.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, rubs, or gallops.",
+                "respiratory": "Clear to auscultation bilaterally, no rales, rhonchi, or wheezes.",
+                "abdominal": "Soft abdomen with diffuse epigastric pain on palpation, most tender in the right upper quadrant. Elicited pain but no inspiratory arrest. No rebound or guarding. Bowel sounds present.",
+                "neurological": "Alert and oriented to person, place, and time, moving all extremities.",
+                "extremities": "Dorsalis pedis pulse present, warm, well-perfused."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

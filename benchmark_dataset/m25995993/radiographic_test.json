@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "No pleural effusions. Mild fatty change involving the liver parenchyma. No focal lesions. Mild peripancreatic edema and subtle enhancement of the peripancreatic fat at the tail. Normal pancreatic duct measuring 3 mm. Multiple filling defects within the gallbladder consistent with calculi. Asymmetric edema surrounding the gallbladder. Common bile duct normal in caliber measuring 6 mm. No intrahepatic biliary dilatation. Spleen normal size with a 4-mm splenunculus. Both kidneys normal in size and enhance symmetrically. Normal adrenal glands. No pathologically enlarged upper abdominal or retroperitoneal lymph nodes. No free intraabdominal fluid. Limited views of the large and small bowel normal. Normal marrow signal from lower thoracic and upper lumbar vertebrae. No evidence of anterior abdominal wall defect or hernia.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

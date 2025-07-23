@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix dilated, measuring 12 mm, with wall hyperemia and multiple appendicoliths. Small amount of free fluid in the right lower quadrant.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Specimen Hold",
+            "date": "Not specified",
+            "findings": "HOLD. SPECIMEN TO BE HELD 48 HOURS AND DISCARDED.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

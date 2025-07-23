@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Afebrile",
+                "blood_pressure": "130/82 mmHg",
+                "heart_rate": "72 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "94% on RA"
+            },
+            "relevant_findings": {
+                "general": "Alert and interactive. In no acute distress.",
+                "eyes": "NCAT. PERRL, EOMI. Sclera anicteric and without injection.",
+                "ENT": "MMM. No cervical lymphadenopathy. No JVD.",
+                "cardiac": "Regular rhythm, normal rate. Audible S1 and S2. No murmurs/rubs/gallops.",
+                "respiratory": "Clear to auscultation bilaterally. No wheezes, rhonchi or rales. No increased work of breathing.",
+                "abdomen": "Normal bowel sounds, non-distended, non-tender to deep palpation in all four quadrants. No organomegaly.",
+                "skin": "Warm. Cap refill <2s. No rash.",
+                "neurologic": "Strength throughout. Normal sensation. Gait is normal. AOx3.",
+                "psych": "Appropriate mood and affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

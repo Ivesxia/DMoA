@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "146 bpm",
+                "blood_pressure": "141/97 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "O2_saturation": "98%"
+            },
+            "relevant_findings": {
+                "general": "NAD",
+                "cardiovascular": "RRR",
+                "respiratory": "CTA-B",
+                "abdominal": "soft, tender to LLQ, LUQ, no rebound, no guarding, non-distended",
+                "extremities": "no c/c/e",
+                "DRE": "reported guaiac negative"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

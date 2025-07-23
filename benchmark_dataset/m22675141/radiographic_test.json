@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "The lungs are clear without focal consolidation. No pleural effusion or pneumothorax is seen. The cardiac and mediastinal silhouettes are unremarkable. There is a tiny sliver of lucency underneath the medial right hemidiaphragm, only seen on the PA view. Findings may represent a small amount of free air status post procedure performed 1 day prior.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

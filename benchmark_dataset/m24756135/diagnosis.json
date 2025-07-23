@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with abdominal pain, diarrhea, and signs of appendicitis, including right lower quadrant tenderness and a positive Rovsing sign, while having no fever or signs of severe infection, supporting the diagnosis of appendicitis."
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "heart_rate": "112 bpm",
+                "blood_pressure": "112/61 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "Lying in bed but able to sit up. Alert, oriented, in no acute distress.",
+                "HEENT": "Sclerae anicteric, MMM, oropharynx clear, neck supple and without lymphadenopathy. PEERL.",
+                "lungs": "End inspiratory wheezes throughout, worse at the right base. No crackles or rales.",
+                "cardiovascular": "Irregularly irregular rate and rhythm, normal S1 + S2, no murmurs.",
+                "abdomen": "Soft, mildly tender in RUQ, non-distended, hypoactive bowel sounds, no guarding or rebound tenderness. No organomegaly.",
+                "extremities": "Warm, well perfused, no clubbing or cyanosis. Mild nonpitting edema in lower extremities.",
+                "skin": "Without rashes or lesions.",
+                "neurological": "Alert and oriented. No gross deficits."
+            },
+            "changes_over_time": "Patient reports improvement, with pain decreased to 1% and resolution of dysuria. No nausea or vomiting."
+        }
+    ]
+}

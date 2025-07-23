@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Nausea and vomiting accompanied by midline abdominal pain.",
+        "history_of_present_illness": "Symptoms began one day ago after consuming cake and 2 shots of vodka, resulting in two episodes of non-bloody, non-bilious vomiting. The abdominal pain is described as non-radiating, with maximum intensity.",
+        "past_medical_history": "HTN, HLD, alcohol dependence, diverticulosis, cataracts, GERD.",
+        "family_history": "Father had prostate cancer, mother emphysema.",
+        "social_history": "History of alcohol dependence."
+    }
+}

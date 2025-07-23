@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9°F",
+                "heart_rate": "77 bpm",
+                "blood_pressure": "146/65 mmHg",
+                "respiratory_rate": "16 bpm",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and oriented x3",
+                "cardiovascular": "Regular rate and rhythm, S1S2, III/VI systolic murmur",
+                "pulmonary": "Clear to auscultation bilaterally",
+                "abdominal": "Soft, non-distended, tenderness to palpation in lower mid and right lower quadrant, negative Rovsing's sign",
+                "extremities": "Warm, well perfused, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

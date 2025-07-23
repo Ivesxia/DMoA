@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CMV DNA PCR",
+            "date": "Not specified",
+            "findings": "CMV DNA not detected. Detection Range: 600 - 100,000 copies/ml.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP BILIARY&PANCREAS",
+            "date": "Not specified",
+            "findings": "Initial images demonstrate opacification of the common bile duct, revealing mild dilatation. Intrahepatic ducts are well opacified, without abnormalities. There is no filling defect or stricture. Several stone fragments and sludge were extracted via balloon, and a sphincterotomy was performed.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

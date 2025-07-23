@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "CT abdomen pelvis with contrast showed a fluid-filled and dilated appendix measuring up to 10 mm, with subtle fat stranding, thickening of the lateral conal fascia, and a 0.5 cm appendicolith, consistent with early appendicitis. No focal fluid collection or extraluminal air was observed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood test for creatinine",
+            "date": "Not specified",
+            "findings": "Creatinine level is 2.0 mg/dL, which is above the normal reference range of 1.6 - 2.6 mg/dL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

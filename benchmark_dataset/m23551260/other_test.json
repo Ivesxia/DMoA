@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy of umbilical LN",
+            "date": "Not specified",
+            "findings": "Demonstrated a poorly differentiated adenocarcinoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver biopsy",
+            "date": "Not specified",
+            "findings": "Demonstrated stage 1 fibrosis and grade 1 inflammation consistent with chronic hepatitis C.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fluid drainage from right lung effusion",
+            "date": "Not specified",
+            "findings": "Fluid was positive for malignant cells.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

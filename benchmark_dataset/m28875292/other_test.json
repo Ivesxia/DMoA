@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Evidence of a 3.4x2.9cm collection in the RLQ at the area of pain and tenderness that is not clearly communicating with the intestinal tract; suspicious for perforated appendicitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Cecal diverticulosis, thickened cecal wall with surrounding fat stranding and small amount of fluid; no evidence of abscess or extra luminal air.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0 °F",
+                "heart_rate": "98 bpm",
+                "blood_pressure": "131/90 mmHg",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "General": "thin Caucasian male, in no acute distress, appears mildly uncomfortable",
+                "HEENT": "mucus membranes slightly dry, nares clear, trachea at midline",
+                "CV": "regular rate, rhythm; no appreciable murmurs, rubs, gallops",
+                "Pulm": "clear to auscultation bilaterally",
+                "Abd": "hypoactive bowel sounds, well-healed transverse subcostal incision; tender to palpation at McBurney's point and infraumbilical area with some involuntary guarding; no rebound tenderness; negative Rosving's",
+                "MSK": "warm, well perfused",
+                "Neuro": "alert, oriented to person, place, time"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

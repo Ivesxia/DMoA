@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized heart is normal. There is small bibasilar atelectasis. No pleural or pericardial effusion. The liver is normal without focal or diffuse abnormality. The gallbladder, intra- and extra-hepatic bile ducts, pancreas, spleen, and adrenal glands are normal. The kidneys enhance symmetrically and excrete contrast promptly. The ureters are normal in course and caliber. 5.0 x 2.7 cm hypodense cystic lesion in the right anterior abdomen with local mass effect on the left hepatic lobe is unchanged and consistent with a lymphangioma or peritoneal inclusion cyst. The stomach is normal. The small and large bowel enhance homogeneously and have a normal course and caliber. The appendix is dilated to 11 mm with hyperemia and adjacent fat stranding, consistent with acute appendicitis, predominantly involving the distal appendix. No substantial cecal edema. No retroperitoneal or mesenteric lymphadenopathy. The portal and intra-abdominal systemic vasculature are normal. No abdominal wall hernia, pneumoperitoneum, or free abdominal fluid. The bladder and terminal ureters are normal. The uterus is unremarkable. No pelvic side-wall or inguinal lymphadenopathy. No free pelvic fluid or inguinal hernia. No focal lytic or sclerotic lesion concerning for malignancy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "GRAM STAIN",
+            "date": "Not specified",
+            "findings": "GRAM POSITIVE BACTERIA",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RANDOM TEST",
+            "date": "Not specified",
+            "findings": "GRAM POSITIVE BACTERIA",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

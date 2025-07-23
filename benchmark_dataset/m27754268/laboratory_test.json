@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level in 900s, indicating significant elevation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "Normal liver echotexture, number of small gallstones, possible gallbladder wall edema, common bile duct measures 6 mm with no acute stone seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

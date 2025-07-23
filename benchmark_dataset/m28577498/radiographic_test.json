@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CTU (ABD/PEL) W/&W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized lung bases are clear with no pleural effusions, pneumothorax or focal opacities. The liver shows segment III and VI hypodensities characterized as cysts. No other focal hepatic lesions are seen. Hypoattenuation of the liver is compatible with fatty infiltration. The gallbladder is status post cholecystectomy. The spleen, pancreas, and adrenal glands are normal. The kidneys are normal with a 4 mm nonobstructing right interpolar renal calculus. The bowel shows focal fat stranding around sigmoid colonic diverticula. No extraluminal air or drainable fluid collection is noted. The bladder is well distended without focal wall thickening. There are no pathologically enlarged lymph nodes. The aorta and its major branches are patent with no aneurysms or hernias. No suspicious lytic or sclerotic osseous lesions or acute fractures are seen.",
+            "changes_over_time": "Segment III and VI hypodensities have been previously characterized as a cyst on prior MRI."
+        }
+    ]
+}

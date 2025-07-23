@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Liver appears within normal limits; contour smooth; no focal liver mass; main portal vein patent with hepatopetal flow; no ascites. No intrahepatic biliary dilation; CBD measures 9 mm. Cholelithiasis without gallbladder wall thickening. Pancreas within normal limits, without masses or pancreatic ductal dilation; pancreatic duct measures up to 3 mm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Values - unspecified laboratory procedure",
+            "date": "Not specified",
+            "findings": "1.02 mmol/L, lower than normal range of 1.12–1.32 mmol/L.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

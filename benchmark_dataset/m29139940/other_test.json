@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "APTIMA COMBO 2 Assay",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria gonorrhoeae.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Moderate free fluid; structure measuring 7 mm contiguous with the cecum; small peripheral follicles with irregular, central cyst measuring 2.2 cm suggestive of a ruptured cyst; moderate free fluid with trace areas of debris.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

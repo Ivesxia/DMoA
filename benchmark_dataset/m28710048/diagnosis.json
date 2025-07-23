@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute cholecystitis.",
+        "differential_diagnosis": "Biliary colic.",
+        "diagnostic_reasoning": "The patient presented with right upper quadrant abdominal pain, nausea, and vomiting, which started 3 days prior. Imaging studies (CT scan and ultrasound) revealed cholelithiasis. Laboratory tests showed mildly elevated liver enzymes, and the abdominal examination indicated moderate tenderness in the RUQ. The clinical assessment by General Surgery and Gastroenterology suggested biliary colic, but the final diagnosis was acute cholecystitis leading to the need for laparoscopic cholecystectomy."
+    }
+}

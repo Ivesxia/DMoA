@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix has increased in size from prior ultrasound, now measuring 8-9 mm. There is apparent mild wall thickening, hyperemia, and suggestion of minimal to mild periappendiceal haziness. No extraluminal fluid collections are seen to suggest perforation. There is no free air. Prominent lymph nodes in the right lower quadrant measure up to 7 mm, likely reactive.",
+            "changes_over_time": "Appendix size increased from prior ultrasound."
+        },
+        {
+            "procedure_name": "Electrolytes",
+            "date": "Not specified",
+            "findings": "Potassium level is 3.7 mEq/L, which is within the normal range (3.5 - 5.3 mEq/L).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

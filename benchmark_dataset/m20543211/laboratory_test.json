@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Examination - Bilirubin",
+            "date": "Not specified",
+            "findings": "Bilirubin level is 2.9 mg/dL (ref range: 2.7 - 4.5 mg/dL) - within normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "The heart is mildly enlarged. There is mild pulmonary vascular congestion. No focal consolidation, pleural effusion, or pneumothorax.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

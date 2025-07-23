@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "heart_rate": "84 bpm",
+                "blood_pressure": "108/62 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "A+Ox3, NAD",
+                "HEENT": "PERRL, EOMI, MMM",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/gallops/rubs",
+                "pulmonary": "Clear to auscultation bilateral, no wheezes/rales/rhonchi",
+                "abdominal": "Soft, nondistended, appropriately tender, no rebound or guarding",
+                "extremities": "No cyanosis, clubbing or edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

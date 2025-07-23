@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix measures up to 11 mm with mucosal hyperemia and substantial surrounding inflammatory changes, as well as small volume free fluid in the right lower quadrant; no organized abscess.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Blood Test",
+            "date": "Not specified",
+            "findings": "8.1 mg/dL",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Small bilateral pleural effusions with adjacent consolidation, likely atelectasis. Mild intrahepatic biliary duct dilation greater than expected with recent cholecystectomy. Tiny hypodensities in segment 6 unchanged compared to prior CT, likely hepatic cysts or biliary hamartomas.",
+            "changes_over_time": "Tiny hypodensities in segment 6 are unchanged compared to prior CT."
+        },
+        {
+            "procedure_name": "Serum Creatinine Test",
+            "date": "Not specified",
+            "findings": "Serum creatinine value of 0.9 mg/dL; estimated GFR = 63 if non African-American, >75 if African-American. GFR <60 indicates chronic kidney disease.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Microscopic Examination",
+            "date": "Not specified",
+            "findings": "No polymorphonuclear leukocytes seen. No microorganisms seen.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Small right and trace left pleural effusion; mild cardiomegaly is stable; segmental peripheral subcentimeter cystic lesions in the right liver periphery predominantly involve the subcapsular portion of segment VIII, slightly more prominent since a previous exam; no evidence of rim enhancement or drainable fluid collection; abdominal drainage catheters noted; post-surgical changes observed including stranding adjacent to the splenic flexure; scattered subcentimeter renal hypodensities likely represent cysts; unremarkable loops of large and small bowel; no pneumatosis, free air, or obstruction.",
+            "changes_over_time": "Segmental peripheral subcentimeter cystic lesions in the right liver periphery are slightly more prominent since a previous exam."
+        },
+        {
+            "procedure_name": "CT PELVIS",
+            "date": "Not specified",
+            "findings": "Rectum, sigmoid, prostate, and seminal vesicles are unremarkable; small left greater than right fat-containing inguinal hernias; no lesion concerning for metastasis or infection seen on bone windows.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

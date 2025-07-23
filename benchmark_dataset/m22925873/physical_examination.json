@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "87 bpm",
+                "blood_pressure": "115/79 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and Well Developed",
+                "HEENT": "Normal ENT inspection.",
+                "neck": "No Lymphadenopathy, No Meningismus and Supple",
+                "respiratory": "No Resp Distress, Chest non-tender and Normal Breath Sounds",
+                "cardiovascular": "No murmur, No rub and RRR",
+                "abdomen": "No Organomegaly and Soft; RUQ TTP, no rebound, no guarding",
+                "back": "No CVA tenderness, No Midline Tenderness and Non-tender",
+                "extremities": "No edema and Normal Equal pulses",
+                "neurological": "Alert, Oriented X3 and No Gross Weakness",
+                "skin": "No rash, No Petechiae, Warm and Dry",
+                "psychological": "Mood/Affect Normal and Normal Memory/Judgment"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

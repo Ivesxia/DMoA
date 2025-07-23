@@ -1,0 +1,17 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "General": "A&O, NAD",
+                "HEENT": "No scleral icterus, mucous membranes moist",
+                "Cardiovascular": "RRR, No M/G/R",
+                "Pulmonary": "Clear to auscultation b/l, No W/R/R",
+                "Abdomen": "Soft, mild distention. 3 laparoscopic incisions c/d/i",
+                "Extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2°F",
+                "heart_rate": "92 bpm",
+                "blood_pressure": "131/71 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "NAD in bed",
+                "cardiovascular": "RRR, no murmurs/rubs/gallops",
+                "pulmonary": "CTAB, no coughs or wheezes",
+                "abdominal": "RUQ tender, some pain on inspiration on RUQ, no masses or gallbladder palpable, no jaundice",
+                "extremities": "Warm, well-perfused, no edema, 2+ pulses"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

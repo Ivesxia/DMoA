@@ -1,0 +1,30 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "A 2-3 mm nodule is seen in the right lung base. No evidence of pleural or pericardial effusion.",
+                "hepatobiliary": "A couple subcentimeter hypodensities in the right hepatic lobe, likely hepatic cysts or biliary hamartomas. Liver demonstrates homogenous attenuation with no focal lesions or biliary dilatation.",
+                "pancreas": "Normal attenuation throughout. Abnormal dilatation of the main pancreatic duct, measuring up to 5 mm.",
+                "spleen": "Small subcentimeter hypodensity possibly a small hemangioma. Normal size and attenuation otherwise.",
+                "adrenals": "Normal in size and shape.",
+                "urinary": "Normal and symmetric kidneys with normal nephrogram. Multiple cortically based hypodense lesions, most small, largest measuring up to 1.3 cm compatible with simple cysts.",
+                "gastrointestinal": "Enlarged appendix measuring up to 2.0 cm with adjacent fat stranding; a tiny pocket of rim enhancing fluid adjacent to the appendix. Mild thickening of the distal terminal ileum.",
+                "pelvis": "Urinary bladder and distal ureters unremarkable. No free fluid.",
+                "reproductive_organs": "Uterus unremarkable. No adnexal abnormality.",
+                "lymph_nodes": "No lymphadenopathy.",
+                "vascular": "No abdominal aortic aneurysm. Mild atherosclerotic disease noted.",
+                "bones": "No evidence of worrisome osseous lesions or acute fracture. Sclerotic focus in L5 vertebral body likely represents bone island.",
+                "soft_tissues": "Tiny fat containing umbilical hernia. Abdominal and pelvic wall within normal limits."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine culture",
+            "date": "Not specified",
+            "findings": "< 10,000 CFU/mL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

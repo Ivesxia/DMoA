@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "heart_rate": "70 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "blood_pressure": "105/61 mmHg",
+                "oxygen_saturation": "99% on RA"
+            },
+            "relevant_findings": {
+                "general": "pleasant, somewhat pale appearing",
+                "HEENT": "clear, mucous membranes somewhat dry",
+                "neck": "supple, no lymphadenopathy",
+                "lungs": "CTA bilaterally, end expiratory wheeze in left base",
+                "cardiovascular": "regular rate and rhythm, no murmurs, rubs, or gallops",
+                "abdomen": "soft, not distended, significant pain to palpation in epigastric area, no rebound tenderness, no hepatosplenomegaly, active bowel sounds",
+                "extremities": "no edema, 2+ pulses",
+                "neurological": "alert and oriented, grossly non-focal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

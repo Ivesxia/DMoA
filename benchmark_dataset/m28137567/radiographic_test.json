@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Abdominal CT",
+            "date": "Not specified",
+            "findings": "15 mm stone in the gallbladder; incidental finding of a T9 compression fracture.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RUQ Ultrasound",
+            "date": "Not specified",
+            "findings": "15 mm stone in the gallbladder neck; new gallbladder wall edema.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Gallstones noted, the largest measuring up to 18 mm near the neck; gallbladder distended with wall thickening measuring up to 5 mm.",
+            "changes_over_time": "Findings together with pericholecystic fat stranding seen on the same-day CT are suspicious for ____."
+        }
+    ]
+}

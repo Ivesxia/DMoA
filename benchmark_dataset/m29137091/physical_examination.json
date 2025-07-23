@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "pulse": "94 bpm",
+                "blood_pressure": "149/89 mmHg",
+                "respiratory_rate": "17 breaths/min",
+                "oxygen_saturation": "100% on RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, comfortable appearing, mildly flushed and diaphoretic",
+                "HEENT": "Mildly jaundiced",
+                "neck": "Supple",
+                "cardiovascular": "S1S2 RR, no murmurs/rubs/gallops",
+                "respiratory": "B/L air entry, no wheezes/crackles",
+                "abdominal": "+ BS, soft, + RUQ tenderness without nausea, distension, no guarding or rebound tenderness",
+                "extremities": "No cyanosis/clubbing/edema, 2+ pulses",
+                "dermatological": "Erythematous macular rash present on face, Tinea versicolor on left arm",
+                "neurological": "Face symmetric, speech fluent",
+                "psychological": "Calm, cooperative"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

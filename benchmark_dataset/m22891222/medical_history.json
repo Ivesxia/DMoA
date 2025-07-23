@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Lower abdominal pain.",
+        "history_of_present_illness": "The pain started yesterday morning and has gradually gotten worse. The pain is now more localized in the right lower quadrant. The patient reports only chills as an associated symptom experienced last night.",
+        "past_medical_history": "Diverticulitis, diet-controlled diabetes mellitus, hypertension, history of breast cancer.",
+        "family_history": "Not specified.",
+        "social_history": "Personal history of tobacco use."
+    }
+}

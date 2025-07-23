@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Guaiac Test",
+            "date": "Not specified",
+            "findings": "Guaiac negative on exam in the ED.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "1.3 cm x 2.3 cm adrenal nodule (slightly increased in size), 1.0 cm x 1.1 cm second adrenal nodule (also slightly increased in size), small hiatal hernia, no free air or fluid, diffuse calcification of the abdominal aorta and iliac arteries, normal liver, gallbladder, kidneys, spleen, and intra-abdominal loops of bowel.",
+            "changes_over_time": "The size of the adrenal nodules appears slightly increased since the last assessment."
+        }
+    ]
+}

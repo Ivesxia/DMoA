@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is abnormal with dilation along the mid segment measuring up to 11 mm. Trace free fluid noted. No signs of ileus or obstruction in the small bowel. No adenopathy or free air.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

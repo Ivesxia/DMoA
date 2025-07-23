@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Meckel's diverticulum",
+        "diagnostic_reasoning": "The patient presented with acute diffuse abdominal pain localized to the right lower quadrant, accompanied by nausea. Physical examination revealed tenderness in the right lower quadrant with no rebound or guarding. Ultrasound findings showed a dilated and non-compressible appendix, with potential perforation indicated by the size of the appendix, which supported the diagnosis of appendicitis."
+    }
+}

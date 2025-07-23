@@ -1,0 +1,10 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory test for serum creatinine",
+            "date": "Not specified",
+            "findings": "9.1 mg/dL (Reference range: 8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

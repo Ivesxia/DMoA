@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "blood_pressure": "144/84 mmHg",
+                "heart_rate": "97 bpm",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "96% RA"
+            },
+            "relevant_findings": {
+                "general": "pleasant male, NAD, conversant",
+                "HEENT": "PERRLA, sclera anicteric, throat is clear, no cervical LAD",
+                "CV": "+s1s2, rrr, no mrg appreciated, PMI not palpable, JVP flat",
+                "lungs": "ctab",
+                "abdomen": "well healed RLQ scar from prior appendectomy, +BS, soft, NT, ND",
+                "extremities": "no c/c/e",
+                "neurological": "A&O x3, CN ___ intact, otherwise nonfocal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Initial lipase 728, subsequent rise to 2902 (ref 73-393)",
+            "changes_over_time": "Lipase levels increased from 728 to 2902."
+        },
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC 3.67",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "SGOT (AST)",
+            "date": "Not specified",
+            "findings": "SGOT 63",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "SGPT (ALT)",
+            "date": "Not specified",
+            "findings": "ALT 61",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Total Bilirubin",
+            "date": "Not specified",
+            "findings": "Total Bilirubin 1.2",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Albumin",
+            "date": "Not specified",
+            "findings": "Albumin 3.9",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate 1.5",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound (Liver or Gallbladder)",
+            "date": "Not specified",
+            "findings": "Hepatic parenchyma coarsened, smooth liver contour, no focal mass, gallbladder with stones without cholecystitis, edematous pancreas.",
+            "changes_over_time": "Decreased flow velocities in TIPS compared to prior study."
+        }
+    ]
+}

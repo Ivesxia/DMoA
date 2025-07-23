@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "liver function tests (LFT)",
+            "date": "Not specified",
+            "findings": "At the time of the second presentation, TBili was 2 and transaminases were 500-750.",
+            "changes_over_time": "LFT abnormalities resolved."
+        },
+        {
+            "procedure_name": "biopsy",
+            "date": "Not specified",
+            "findings": "Biopsy results indicated fibroadenoma.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "The gallbladder is filled with gallstones, pericholecystic edema and enhancement of the gallbladder wall suggestive of cholecystitis. The common bile duct is nondilated with no intraductal filling defects.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder is distended, measuring up to 11.4 cm. There is a nonmobile shadowing stone at the gallbladder neck, measuring 2.5 cm. Positive sonographic Murphy's sign. There is no gallbladder wall thickening or pericholecystic fluid. There is layering sludge and a few small stones as well.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Physical Exam",
+            "date": "Not specified",
+            "findings": "Exquisite tenderness to palpation in the RUQ, mild distension, no guarding or peritoneal signs, and no masses or hernias.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

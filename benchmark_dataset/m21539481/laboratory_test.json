@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test (LFT)",
+            "date": "Not specified",
+            "findings": "AST 547, ALT 518, ALP 165, Tbili 1.6, Dbili 1.1 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level: elevated (exact value not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Gallstones within the bladder lumen, mural enhancement, marked pericholecystic edema consistent with acute cholecystitis, mild perfusional abnormality in adjacent liver parenchyma, normal intra and extrahepatic biliary tree.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.6°F",
+                "heart_rate": "90 bpm",
+                "blood_pressure": "117/59 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress.",
+                "HEENT": "No scleral icterus, dry mucous membranes.",
+                "CV": "Regular rate and rhythm.",
+                "pulmonary": "Good air entry, no respiratory distress.",
+                "abdominal": "Soft, distended, tympanitic epigastrium, RUQ tenderness to deep palpation, no rebound or guarding, normoactive bowel sounds.",
+                "extremities": "1+ edema, warm and well perfused."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

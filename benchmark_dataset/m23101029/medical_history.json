@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric pain",
+        "history_of_present_illness": "Patient initially presented to urgent care with reports of intermittent, progressive abdominal pain for 3 months. Pain began while in a specific location and the patient questioned if it was related to altitude or new foods. The patient described the pain as discomfort in the epigastrium twice weekly, often postprandial. The day prior to presentation, she experienced epigastric pain and nausea after breakfast and dinner, with nonbloody emesis. Pain described as sharp, epigastric, radiating to the back, worse with deep breaths.",
+        "past_medical_history": "ADHD, Obesity, Depression, GERD",
+        "family_history": "Mother with DM, father in good health, sister in good health",
+        "social_history": "Patient endorses a total of 6 drinks per week, generally one drink per night on the weekends."
+    }
+}

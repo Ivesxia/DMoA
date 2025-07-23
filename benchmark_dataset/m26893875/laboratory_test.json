@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Leukocytosis Test",
+            "date": "Not specified",
+            "findings": "Positive for leukocytosis, values: NEG mg/dL; reference range: 0.2 - 1.0",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Tubular blind ending dilated structure in the right lower quadrant measuring up to 12 mm in diameter with an appendicolith; compatible with acute uncomplicated appendicitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

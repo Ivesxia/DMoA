@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C. difficile Toxin Test",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile by the Illumigene DNA amplification assay. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is of normal echogenicity without any focal lesions or intra or extrahepatic biliary dilatation. The common bile duct measures 5 mm. The portal vein is patent with normal hepatopetal flow. A shadowing gallstone is present lodged within the neck. There is no gallbladder wall edema. A trace amount of perihepatic ascites is noted. The pancreas, spleen and left kidney were unable to be visualized. Limited views of the right kidney demonstrate no hydronephrosis. The IVC is unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

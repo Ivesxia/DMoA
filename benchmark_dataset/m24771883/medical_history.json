@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient reported sudden onset epigastric pain starting yesterday morning at around 6AM after having coffee. The pain was persistent throughout the morning with nausea and spontaneously resolved in the mid-afternoon. It returned last night at approximately 11PM with persistent nausea and dry heaves, but no vomiting. The pain remains located in the epigastric region, described as sharp and intermittent, with no radiation or association with PO intake or activity.",
+        "past_medical_history": "None",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

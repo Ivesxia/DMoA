@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "RUQ abdominal pain",
+        "history_of_present_illness": "Abdominal pain since yesterday, constant and progressively worsening, associated with nausea and decreased PO intake for the last 4 days. The patient also experienced low-grade fevers at home with a temperature of 100.7°F. No ameliorating or exacerbating factors noted. Denies diarrhea or constipation. Reports flatus.",
+        "past_medical_history": "DM 2, CRI with baseline creatinine 1.5, HTN, hyperlipidemia, arthritis. Past surgical history includes bilateral total knee replacement.",
+        "family_history": "Denies family history of gastrointestinal disorders and cancers. Denies family history of other cancers. Denies family history of gallbladder disease. Reports nephew with adult polycystic kidney disease.",
+        "social_history": "Not specified."
+    }
+}

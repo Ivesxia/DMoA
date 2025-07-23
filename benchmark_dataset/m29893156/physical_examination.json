@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "105/66 mmHg",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x3, no acute distress.",
+                "HEENT": "No scleral icterus, mucous membranes moist.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, gallops, or rubs.",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes, rhonchi, or respiratory distress.",
+                "abdominal": "Soft, nondistended, appropriately tender at incision sites, no rebound or guarding, no palpable masses, incision sites dressed.",
+                "extremities": "No edema, warm and well perfused."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

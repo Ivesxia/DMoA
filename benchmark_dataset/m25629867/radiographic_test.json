@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "Cardiac silhouette is within normal limits with no evidence of vascular congestion, pleural effusion, or acute pneumonia. Anomalous fourth and fifth ribs on the left are again seen.",
+            "changes_over_time": "There is little change compared to the previous study."
+        }
+    ]
+}

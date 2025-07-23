@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Subsegmental atelectasis in the lower lobes; no evidence of pleural or pericardial effusion; periappendiceal abscess measuring 6.7 x 5.6 cm with adjacent fatty stranding, significantly increased in size from previously measuring 3.4 x 3.2 cm.",
+            "changes_over_time": "Significantly increased in size from CT abdomen pelvis previously measuring 3.4 x 3.2 cm."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "Tubular structure in RLQ in areas of patient's pain, suspicious for appendicitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Retroperitoneal limited ultrasound",
+            "date": "Not specified",
+            "findings": "Focal area of point tenderness in the right lower quadrant with a tubular structure that could be the appendix, suspicious for appendicitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

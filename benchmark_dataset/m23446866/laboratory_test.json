@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood test",
+            "date": "Not specified",
+            "findings": "1.7 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is dilated and fluid-filled measuring up to 1.2 cm; mild periportal edema noted in liver.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

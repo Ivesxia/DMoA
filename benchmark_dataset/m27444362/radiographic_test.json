@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD W&W/O C",
+            "date": "Not specified",
+            "findings": "The liver demonstrates early hyperenhancement near the gallbladder fossa with homogeneous enhancement on the delayed phase, compatible with inflammation. The gallbladder is distended with an edematous wall and mucosal hyperenhancement, compatible with acute cholecystitis. A 0.9 x 1.0 cm hypodense lesion in the head of the pancreas causing mild upstream main pancreatic duct dilatation. A second hypodense lesion within the tail of the pancreas that measures 0.6 x 0.7 cm. There is a 1.6 x 1.7 cm nodule of the medial limb of the left adrenal gland compatible with a benign adrenal adenoma. The kidneys demonstrate symmetric nephrograms with numerous bilateral peripelvic cysts and cortical hypodensities. The stomach is decompressed with no obvious intraluminal mass and colonic diverticulosis is present.",
+            "changes_over_time": "The mural edema of the gallbladder has progressed slightly compared with the immediate prior study."
+        }
+    ]
+}

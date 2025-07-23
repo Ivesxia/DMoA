@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CTU (ABD/PEL) W/&W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is fluid-filled and dilated to 1.0 cm, with trace periappendiceal stranding. A hyperdensity near the base of the appendix could represent an appendicolith.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood test",
+            "date": "Not specified",
+            "findings": "8.3 mg/dL (within normal range of 8.4 to 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

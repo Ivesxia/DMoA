@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Troponin Test",
+            "date": "Not specified",
+            "findings": "Troponin-I 0.03",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "No MRSA isolated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Sinus tachycardia and T wave inversions compared to prior EKG.",
+            "changes_over_time": "T wave inversions appear to have normalized."
+        },
+        {
+            "procedure_name": "Abdominal Ultrasound",
+            "date": "Not specified",
+            "findings": "Liver parenchyma homogenous with no focal lesions, normal gallbladder, unremarkable pancreatic head and body, kidney sizes within normal limits, and a benign-appearing renal cyst noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

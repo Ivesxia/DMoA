@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is distended to 8 mm and is fluid filled with a possible appendicolith. There is enhancement of the mucosa. There is minimal periappendiceal stranding. Tiny bilateral hypodensities within both kidneys are too small to characterize, but likely represent renal cysts. No free air or free fluid within the abdomen. Multiple mesenteric lymph nodes noted which do not meet CT size criteria for pathology.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.9°F",
+                "blood_pressure": "135/70 mmHg",
+                "heart_rate": "74 bpm",
+                "respiratory_rate": "17 breaths/min"
+            },
+            "relevant_findings": {
+                "temperature": "100.1°F",
+                "blood_pressure": "158/70 mmHg",
+                "heart_rate": "71 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "general": "non-toxic appearing, speaking full sentences",
+                "HEENT": "OP somewhat dry, no JVD",
+                "lungs": "CTA b/l",
+                "heart": "RRR, nl S1S2, no M/R/G",
+                "abdomen": "+BS, renal graft palpated in LLQ but non-tender, soft, ND/NT",
+                "extremities": "trace edema, L>R",
+                "neurological": "AAO"
+            },
+            "changes_over_time": "Increased blood pressure from 135/70 mmHg to 158/70 mmHg; other vital signs showed minor changes."
+        }
+    ]
+}

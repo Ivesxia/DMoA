@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Lung bases show dependent atelectasis, liver normal, gallbladder normal, pancreas normal, bilateral adrenals normal. Spleen has a 5 mm hypodensity, unchanged from the prior study. Bilateral kidneys grossly unremarkable with no solid lesions or hydronephrosis. Appendix fluid filled, measuring up to 1.4 cm, with hyperemic wall and adjacent periappendiceal stranding. Inflammed adjacent terminal ileal loops with small bowel dilatation. Mild fatty proliferation in the large bowel. Small amount of pelvic free fluid. No enlarged lymph nodes.",
+            "changes_over_time": "5 mm hypodensity in the spleen unchanged from the prior study."
+        }
+    ]
+}

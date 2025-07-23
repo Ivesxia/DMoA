@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Lung volumes are low. There is no focal consolidation, pleural effusion, or pneumothorax. Mediastinal and hilar contours are within normal limits. Heart size is top-normal. No acute osseous abnormality.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

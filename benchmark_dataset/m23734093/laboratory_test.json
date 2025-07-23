@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "New marked mucosal and submucosal thickening, minimal quantity of new pericholecystic fluid, new irregularity suggesting ulceration, unchanged size and configuration of the gallbladder, shadowing gallstones visualized, common duct not dilated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Autoimmune Neutropenia Laboratory Investigation",
+            "date": "Not specified",
+            "findings": "3.0 g/dL, which is below the normal range of 3.4 - 4.8 g/dL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

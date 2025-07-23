@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Bilateral pleural effusions and moderate amount of ascites present. Oral contrast is seen in slightly prominent small bowel loops but maximum diameter is 2.5 cm and within normal limits. Inflammatory/postoperative changes present in the right lower quadrant consistent with recent surgery. Tiny pockets of air noted, also consistent with recent surgery. No well-defined abscess collection is seen. The uterus is markedly enlarged, most likely from a large regenerative fibroid displacing the endometrial canal. Liver, gallbladder, spleen, pancreas, adrenals, and kidneys appear normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "RARE findings observed."
+        }
+    ]
+}

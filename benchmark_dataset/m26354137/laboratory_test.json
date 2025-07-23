@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis (U/A)",
+            "date": "Not specified",
+            "findings": "Positive for Gram positive bacteria",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "2.9 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "Liver normal, gallbladder contains stones and sludge, gallbladder wall edematous",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

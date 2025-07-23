@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "Hyperexpansion of the lungs consistent with emphysema. Mild cardiomegaly without significant vascular congestion. No focal consolidation, pneumothorax, or pleural effusion. The cardiomediastinal silhouette and the hila are unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

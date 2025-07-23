@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Revealed inflammation at the rectosigmoid junction, an inflammatory polyp and diverticular disease.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Atelectasis and a small right pleural effusion at the right lung base, colostomy in the left lower quadrant, non-obstructing calculi in the left kidney, severe aortic and iliac atherosclerosis, and persistent inflammatory stranding surrounding the rectosigmoid stump.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

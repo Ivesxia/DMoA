@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ABDOMEN (SUPINE & ERECT)",
+            "date": "Not specified",
+            "findings": "Multiple dilated loops of small bowel with air-fluid levels; NG tube tip overlying the stomach.",
+            "changes_over_time": "No appreciable interval change in the bowel gas pattern from this morning's abdominal radiographs."
+        }
+    ]
+}

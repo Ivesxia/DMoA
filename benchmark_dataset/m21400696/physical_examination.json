@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2 °F",
+                "heart_rate": "64 bpm",
+                "blood_pressure": "101/68 mmHg",
+                "respiratory_rate": "15 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "awake, alert, NAD",
+                "HEENT": "NCAT, EOMI, anicteric",
+                "heart": "RRR, NMRG",
+                "lungs": "CTAB, normal excursion, no respiratory distress",
+                "back": "no vertebral tenderness, no CVAT",
+                "abdomen": "soft, mildly tender to palpation in the epigastrium",
+                "extremities": "WWP, no CCE, no tenderness, 2+ B"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "liver": "diffusely echogenic, consistent with hepatic steatosis, smooth contour, no focal liver mass, main portal vein patent with hepatopetal flow, no ascites",
+                "bile_ducts": "no intrahepatic biliary dilation, CBD measures 4 mm",
+                "gallbladder": "sludge and tiny stones seen, gallbladder polyps measuring up to 1.0 cm, unchanged",
+                "pancreas": "within normal limits, no masses or ductal dilation",
+                "spleen": "normal echogenicity, measuring 9.6 cm",
+                "kidneys": "no gross abnormality in the right kidney",
+                "retroperitoneum": "no gross abnormality in the IVC"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.3°F",
+                "heart_rate": "73 bpm",
+                "blood_pressure": "109/60 mmHg",
+                "respiratory_rate": "15 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, awake, alert, oriented to person, place, and time.",
+                "cardiovascular": "Regular rate and rhythm.",
+                "respiratory": "Clear to auscultation bilaterally.",
+                "abdominal": "Soft, non-distended, tender to palpation in right lower quadrant and suprapubic area.",
+                "extremities": "No peripheral edema or cyanosis."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

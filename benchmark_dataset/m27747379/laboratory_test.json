@@ -1,0 +1,26 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Beta Streptococcus Group A Testing",
+            "date": "Not specified",
+            "findings": "NO BETA STREPTOCOCCUS GROUP A FOUND.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdomen Ultrasound (Complete Study)",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Normal in echotexture and architecture, no focal lesions.",
+                "portal_vein": "Patent with normal hepatopetal flow.",
+                "biliary": "No intra or extra-hepatic biliary ductal dilatation, common duct measuring 3-mm.",
+                "gallbladder": "Nondistended and appears normal, without evidence of stones.",
+                "pancreas": "Well visualized and appears normal.",
+                "kidneys": "Right kidney measuring 13.7-cm, left kidney measuring 11.4-cm, both without mass, stone, or hydronephrosis.",
+                "spleen": "Not enlarged measuring 9.9-cm.",
+                "ascites": "No ascites seen.",
+                "abdominal_aorta": "Normal caliber, aortic wall measuring 2-3 mm thick."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

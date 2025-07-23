@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopic retrograde cholangiopancreatography (ERCP)",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for leukocytes and microorganisms",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

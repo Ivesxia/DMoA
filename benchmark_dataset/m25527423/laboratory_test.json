@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound - LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver appears normal in echotexture with evidence of a focal lesion. The gallbladder appears distended and is filled with numerous large gallstones with posterior acoustic shadowing, the largest of which measures approximately 1.7 cm. There is little movement of the gallstones. There is no evidence of gallbladder wall thickening or pericholecystic fluid. The common bile duct is prominent for the patient's age, measuring 7 mm. No intrahepatic biliary ductal dilatation is present. No free fluid is identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "Escherichia coli identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

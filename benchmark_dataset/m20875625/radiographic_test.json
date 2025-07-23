@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Gallstones and sludge layer dependently in the gallbladder. The gallbladder is distended. There is no pericholecystic fluid or wall edema. The patient is maximally focally tender with ultrasound pressure over the gallbladder, consistent with a positive sonographic sign. The hepatic parenchyma is within normal limits. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. No ascites. No intrahepatic biliary dilation. The CBD measures 4 mm. Imaged portion of the pancreas is within normal limits, without masses or pancreatic ductal dilation. Normal echogenicity of the spleen, measuring 8.0 cm. Normal cortical echogenicity and corticomedullary differentiation in the kidneys, with no masses, stones, or hydronephrosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

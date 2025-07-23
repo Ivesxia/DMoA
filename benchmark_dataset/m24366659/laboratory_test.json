@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urine Analysis and Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN AND PELVIS WITH INTRAVENOUS CONTRAST",
+            "date": "Not specified",
+            "findings": "Diverticulosis of the sigmoid colon with stranding along the distal sigmoid consistent with acute diverticulitis. An adjacent extraluminal fluid collection in the deep pelvis containing a small amount of air measuring 2.9 x 3 cm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

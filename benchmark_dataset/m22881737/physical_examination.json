@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "99.5°F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "131/64 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress",
+                "HEENT": "Mucus membranes moist",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/gallops/rubs",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes/rales/rhonchi",
+                "abdominal": "Soft, diffusely tender to palpation especially in the mid-abdomen. No rebound or guarding",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

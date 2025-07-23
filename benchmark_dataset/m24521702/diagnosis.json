@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Cholecystitis",
+        "differential_diagnosis": "Sepsis, Atrial fibrillation",
+        "diagnostic_reasoning": "The patient presented with abdominal pain, vomiting, and tachycardia, which raised suspicion for cholecystitis. Exam findings indicated severe tenderness in the right upper quadrant, supporting the diagnosis. Additional signs, including elevated blood sugar and vital signs suggestive of sepsis, were noted. The procedure performed was a percutaneous cholecystostomy tube placement, commonly indicated in cases of cholecystitis."
+    }
+}

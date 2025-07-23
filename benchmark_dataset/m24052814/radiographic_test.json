@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver demonstrates normal, homogeneous echotexture without focal intrahepatic lesion. No evidence of intrahepatic biliary dilatation. The common bile duct is mildly dilated proximally at 0.7 cm. The gallbladder contains shadowing stones. No frank gallbladder wall thickening or pericholecystic fluid seen. The spleen is normal in size, measuring 10.9 cm in length.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

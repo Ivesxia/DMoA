@@ -1,0 +1,42 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Bilateral lower lobe atelectasis. No pleural or pericardial effusion.",
+                "abdominal_findings": {
+                    "liver": "Homogenous attenuation throughout; no focal lesions, no biliary dilatation.",
+                    "pancreas": "Normal attenuation; no focal lesions, no ductal dilatation, no peripancreatic stranding.",
+                    "spleen": "Normal size and attenuation; no focal lesions.",
+                    "adrenals": "Normal size and shape.",
+                    "urinary": "Normal and symmetric kidneys with a stable 1.3 cm left renal cyst; no focal renal lesions or hydronephrosis.",
+                    "gastrointestinal": {
+                        "stomach": "Unremarkable.",
+                        "small_bowel": "Normal caliber, wall thickness, and enhancement.",
+                        "colon": "Fat stranding and colonic wall thickening involving the transverse, descending, and sigmoid colon, unchanged to mildly worsened."
+                    }
+                },
+                "appendix": {
+                    "current_diameter": "1.6 cm with wall thickening and hyperemia.",
+                    "previous_diameter": [
+                        {
+                            "date": "Not specified",
+                            "size": "1.0 cm without thickening or hyperemia."
+                        },
+                        {
+                            "date": "Not specified",
+                            "size": "1.3 cm without increased wall thickness or hyperenhancement."
+                        }
+                    ]
+                },
+                "pelvis": "Mild free fluid seen in pelvis, worse compared to prior.",
+                "lymph_nodes": "No lymphadenopathy.",
+                "vascular": "No abdominal aortic aneurysm.",
+                "bones": "No worrisome osseous lesions or acute fracture.",
+                "soft_tissues": "Abdominal and pelvic wall within normal limits."
+            },
+            "changes_over_time": "Increased diameter, thickening, and hyperemia of the appendix noted. Previous measurements were 1.0 cm and 1.3 cm without thickening."
+        }
+    ]
+}

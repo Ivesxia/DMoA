@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver demonstrates a 1.1 x 1.0 cm of focal fat deposition within the anterior right hepatic lobe adjacent to the falciform ligament. The distal appendix is thickened and discontinuous, with punctate adjacent foci of air suggestive of perforation. There is regional peritonitis, phlegmonous changes, and reactive serosal inflammation of the adjacent sigmoid colon. The right gonadal vein appears asymmetrically enlarged and hypodense relative to the left, suggestive of thrombosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PT (Prothrombin Time)",
+            "date": "Not specified",
+            "findings": "26.5 sec.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

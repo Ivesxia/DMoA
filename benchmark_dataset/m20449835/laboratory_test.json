@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase of 737, elevated outside normal range.",
+            "changes_over_time": "Lipase of 700 noted previously."
+        },
+        {
+            "procedure_name": "AST/ALT",
+            "date": "Not specified",
+            "findings": "AST/ALT levels in the 200s, elevated outside normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Multiple tiny layering gallstones in the gallbladder, choledocholithiasis with a 3mm stone in the distal common bile duct, and two haemorrhagic cysts in the kidneys measuring 4mm in the left and 6mm in the right kidney.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

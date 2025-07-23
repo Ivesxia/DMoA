@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated and fluid filled measuring up to 9 mm with surrounding fat stranding. An appendicolith is noted at the base. No evidence of extraluminal air or drainable fluid collection.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "8.9 mg/dL, within reference range (8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "107 bpm",
+                "blood_pressure": "146/84 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x3, no acute distress.",
+                "HEENT": "No scleral icterus, mucus membranes moist.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, gallops, or rubs.",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes, rhonchi, or rales.",
+                "abdominal": "Soft, slightly distended, diffusely tender to palpation, increasingly tenderness in the left lower quadrant and lower mid-abdomen.",
+                "extremities": "No edema, warm and well perfused."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

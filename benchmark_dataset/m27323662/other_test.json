@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endotracheal intubation",
+            "date": "Not specified",
+            "findings": "Patient was hypoxic, did not tolerate BiPAP.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Central venous line placement",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest tube insertion",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

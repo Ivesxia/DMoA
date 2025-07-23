@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain for 24 hours.",
+        "history_of_present_illness": "The abdominal pain began 24 hours prior, initially located across the upper abdomen and described as sharp and worsening in severity, reaching an intensity of ___ and associated with nausea and loose stools. Twelve hours later, the pain localized to the right lower quadrant (RLQ). The pain worsens with movement and Valsalva maneuver.",
+        "past_medical_history": "Ovarian cysts, depression/anxiety.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

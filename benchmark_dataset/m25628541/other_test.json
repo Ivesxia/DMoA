@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified.",
+            "findings": "Heterogeneous hypoenhancement of the pancreatic head could represent mild/early necrosis.",
+            "changes_over_time": "The findings appear overall similar compared to the prior MRCP performed on ___ (02:34)."
+        },
+        {
+            "procedure_name": "Laparoscopic cholecystectomy",
+            "date": "Not specified.",
+            "findings": "Interval cholecystectomy has been performed.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT ABDOMEN AND PELVIS",
+            "date": "Not specified.",
+            "findings": "Pancreas remains edematous with significant peripancreatic fat stranding.",
+            "changes_over_time": "A smaller similar focus is seen in the pancreatic body/tail compared to the prior scan."
+        }
+    ]
+}

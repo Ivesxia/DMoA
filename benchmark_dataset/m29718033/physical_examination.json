@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "101°F",
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "NAD",
+                "HEENT": "PERRLA, EOMI, no icterus or scleral injection. Oral mucosa pink and moist.",
+                "chest": "CTA B/L, no wheezes or crackles.",
+                "heart": "S1S2 RRR, no M/G/R.",
+                "abdomen": "Soft, tender to palpation LLQ, nondistended, + BS, no hernias or masses, no hepatosplenomegaly, no guarding or rebound.",
+                "extremities": "no C/C/E"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is hyperemic and enlarged with significant surrounding stranding and dilatation up to 19 mm in maximal diameter associated with a tip periappendiceal phlegmon/abscess measuring 1.8 x 1.6 cm. No frank free air. Minimal if any secondary thickening involving the cecal tip. Lung bases are clear with dependent atelectasis; heart normal in size; liver without focal lesion; gallbladder, spleen, pancreas, and adrenal glands unremarkable; kidneys enhance symmetrically; small bowel loops completely collapsed; colon not dilated; great vessels patent; no mesenteric or retroperitoneal adenopathy by size criteria. Bladder, distal ureters, prostate, and rectum appear within normal limits. No inguinal or pelvic sidewall lymphadenopathy. No free fluid within the pelvis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

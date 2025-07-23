@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified.",
+            "findings": "The visualized bases of the lungs are clear. There is no pleural effusion or pneumothorax. The liver enhances homogeneously without focal lesions. The gallbladder is normal. The spleen and pancreas are unremarkable. There is slight fullness to the right adrenal gland, unchanged from prior exam. The kidneys enhance symmetrically and excrete contrast without hydronephrosis. No free air or free fluid is seen. Multiple diverticula are seen scattered throughout the colon with fat stranding near the ascending colon. The bladder and rectum are normal; at least one fibroid, measuring 4 cm, is seen within the uterus. There are no suspicious osseous lesions. Minor degenerative changes of the lower lumbar spine are marked by anterior osteophytosis, particularly at L5. Small posterior disc bulges are seen at L3-L4 through L5-S1.",
+            "changes_over_time": "Slight fullness to the right adrenal gland, unchanged from prior exam."
+        }
+    ]
+}

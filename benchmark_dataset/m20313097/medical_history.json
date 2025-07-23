@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric pain",
+        "history_of_present_illness": "The patient is a ___ year old woman who is 2 weeks post-partum after a normal spontaneous vaginal delivery. She developed sudden onset severe epigastric pain 3 days prior to presentation, which lasted about 5 minutes and recurred two more times within the next hour. Initially, the pain had no relation to dietary intake and was sharp, not radiating. After these episodes, the pain pattern changed, occurring every time she ate and accompanied by nausea, leading to inability to finish food. Symptoms persisted until presentation.",
+        "past_medical_history": "Nephrolithiasis",
+        "family_history": "No known GI/hepatobiliary disease",
+        "social_history": "Not specified"
+    }
+}

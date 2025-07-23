@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified.",
+            "findings": "There is a hypodense lesion in segment 6 of the liver with peripheral nodular enhancement, likely hemangioma measuring 1.8 x 1.3 cm. The liver otherwise demonstrates homogenous attenuation throughout. The appendix is dilated, measuring up to 1.5 cm in diameter, with internal hyperdensities, likely appendicolith(s). Periappendiceal fat stranding and a small amount of fluid is seen tracking along the fascia. No extraluminal gas or drainable fluid collection is seen. There is adjacent mild reactive thickening of the small bowel. The kidneys are of normal and symmetric size with normal nephrogram. There are multiple subcentimeter hypodensities in the left kidney, likely cysts. No evidence of focal renal lesions or hydronephrosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Laboratory test for growth",
+            "date": "Not specified.",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Laboratory test for creatinine",
+            "date": "Not specified.",
+            "findings": "Baseline creatinine ~2 mg/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Laboratory test for glucose",
+            "date": "Not specified.",
+            "findings": "773.0 mg/dL.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

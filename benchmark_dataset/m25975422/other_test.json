@@ -1,0 +1,24 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopic insertion of stent (tube) into bile duct",
+            "date": "Not specified",
+            "findings": "Stent was placed; CBD stone not found.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of the abdomen",
+            "date": "Not specified",
+            "findings": {
+                "LIVER": "Normal hepatic parenchyma; 0.8 x 0.7 x 0.7 left liver cyst; no focal liver mass.",
+                "BILE DUCTS": "No intrahepatic biliary dilation; CBD measures 3 mm.",
+                "GALLBLADDER": "Layering sludge and gallstones; mildly distended gallbladder; thickened edematous wall measuring 5 mm; small amount of pericholecystic free fluid.",
+                "PANCREAS": "Normal, without masses or pancreatic ductal dilation.",
+                "SPLEEN": "Normal echogenicity, measuring 9.2 cm.",
+                "KIDNEYS": "Right kidney 10.6 cm; left kidney 10.2 cm; normal echogenicity with multiple bilateral parapelvic cysts; no masses, stones, or hydronephrosis.",
+                "RETROPERITONEUM": "Normal visualized portions of IVC."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

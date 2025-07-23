@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric pain.",
+        "history_of_present_illness": "The pain started after eating pizza on a specific evening and has lasted for 4 days. It was sharp, nonradiating, and remained of similar severity for 2 days, accompanied by bloating. The pain worsened today, now accompanied by nausea, and began to radiate to the right upper quadrant (RUQ) and right lower quadrant (RLQ) after abdominal examination, but it remains centered around the epigastric region. There is no relationship of pain to food intake. The patient had a regular appetite until today. Denies vomiting, diarrhea, bloody stool, fever, chills, or night sweats.",
+        "past_medical_history": "Mood disorder, anxiety.",
+        "family_history": "Mother has hiatal hernia. No family history of heart disease or cancer.",
+        "social_history": "Not specified."
+    }
+}

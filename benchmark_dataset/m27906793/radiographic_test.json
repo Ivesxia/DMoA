@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "A 3.1-cm gallstone lodged in the neck of the gallbladder. Mobile sludge is demonstrated. Wall thickening to 5.1 mm in one area of the gallbladder. No pericholecystic fluid. Gallbladder measures 4.9 mm. Liver is normal in terms of contour and echotexture. Main portal venous flow is normal. No ascites.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "No intrapulmonary process.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen/Pelvis",
+            "date": "Not specified",
+            "findings": "Pending.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

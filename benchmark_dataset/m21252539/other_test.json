@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Interventional radiology embolization",
+            "date": "Not specified",
+            "findings": "Successful treatment of bleeding from a ruptured pseudoaneurysm.",
+            "changes_over_time": "The right hepatic artery pseudoaneurysm thrombosed on its own."
+        },
+        {
+            "procedure_name": "Open cholecystectomy",
+            "date": "Not specified",
+            "findings": "Indicated for suspected ischemic gallbladder necrosis based on elevated white count and imaging findings.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lactobacillus Species Test",
+            "date": "Not specified",
+            "findings": "1.8 mg/dL (reference range: 1.6 - 2.6 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "Appendix is abnormally distended and fluid-filled (20 mm). Circumferential wall thickening and surrounding periappendiceal fat stranding and edema, suspicious for early perforation. Remainder of the bowel is unremarkable, other abdominal organs within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

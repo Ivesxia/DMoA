@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute onset abdominal pain and nausea.",
+        "history_of_present_illness": "Patient was feeling overall well until early this morning when she was awoken by acute onset of sharp epigastric pain and nausea. The pain continued and progressed to the right upper quadrant (RUQ). The nausea persisted but she did not vomit. She reports having had 2 similar episodes in the past, during which her transaminases became elevated but returned to normal on their own.",
+        "past_medical_history": "Type 1 Diabetes Mellitus with nephropathy, hyperlipidemia, hypertension, renal cysts/masses. Previous surgeries include two C-sections.",
+        "family_history": "Significant for diabetes; no other serious illnesses mentioned.",
+        "social_history": "Denies alcohol consumption; no new medications started; has been followed for dehydration and salt imbalance."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Upper GI Series",
+            "date": "Not specified",
+            "findings": "Appropriately positioned gastric band; small cup of thin liquid barium passed freely across the gastric band; no evidence of associated prolapse, malpositioned band or other obstruction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

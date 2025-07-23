@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain, decreased appetite, and fatigue.",
+        "history_of_present_illness": "Symptoms began gradually a few days prior, with a constant dull pain in the epigastric region lasting for 2 days. Pain intensity rated 7/10. Associated with decreased appetite. Denied radiation of pain, nausea, vomiting, diarrhea, or constipation. Subjective fevers noted. Currently feels okay, denying pain as long as he doesn't move around too much.",
+        "past_medical_history": "Prostate cancer (s/p Cyberknife treatment), DVT (s/p warfarin treatment), colonic polyps, back pain, renal insufficiency, history of prostatitis, hypertension.",
+        "family_history": "No family history of pancreas issues. Mother with breast cancer.",
+        "social_history": "No alcohol use."
+    }
+}

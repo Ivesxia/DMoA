@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is mildly distended measuring 7 mm in diameter and containing fluid within its lumen. Its walls are equivocally thickened. There is trace free fluid adjacent to the appendix, though less fluid is present about the appendix than is seen deeper in the pelvis about the right adnexa. The liver is unremarkable. No intra or extrahepatic duct dilatation. The gallbladder is normal. The kidneys are within normal limits. No hydronephrosis. The adrenals and spleen are within normal limits. The pancreas is within normal limits. Normal caliber pancreatic duct. No retroperitoneal or mesenteric adenopathy. Bone marrow signal is normal. No destructive osseous lesions. Gravid uterus is noted with gestational sac in situ. There is a small rim of T1 hyperintensity surrounding the gestational sac consistent with a small gestational bleed. There is a 2 cm cystic lesion within the right ovary which appears consistent with a corpus luteal cyst. There is a small amount of free fluid within the pelvic cul-de-sac. The left ovary is within normal limits. The bladder is within normal limits. No pelvic adenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

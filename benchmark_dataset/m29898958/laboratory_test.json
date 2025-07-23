@@ -1,0 +1,47 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": {
+                "total_bilirubin": "0.6 mg/dL",
+                "alkaline_phosphatase": "101 U/L",
+                "AST": "82 U/L",
+                "ALT": "74 U/L",
+                "lipase": ">4000 U/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": {
+                "WBC_count": "11.8 x10^3/µL"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test (ED)",
+            "date": "Not specified",
+            "findings": {
+                "AST": "62 U/L",
+                "ALT": "62 U/L",
+                "alkaline_phosphatase": "84 U/L",
+                "total_bilirubin": "0.6 mg/dL",
+                "lipase": "2506 U/L"
+            },
+            "changes_over_time": "AST and ALT decreased; lipase decreased from >4000 U/L to 2506 U/L."
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "liver_echotexture": "normal",
+                "common_bile_duct": "4 mm",
+                "gallbladder_wall_edema": "moderate",
+                "gallstones": "none"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

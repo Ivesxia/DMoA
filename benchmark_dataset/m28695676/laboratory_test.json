@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver demonstrates homogenously decreased attenuation throughout compatible with hepatic steatosis. There is no evidence of focal lesions, intrahepatic or extrahepatic biliary dilatation. The gallbladder is normal. The pancreas has normal attenuation without focal lesions or pancreatic ductal dilatation. The spleen shows normal size and attenuation. The kidneys are normal and symmetric in size with no renal lesions, hydronephrosis, or nephrolithiasis. Mild perinephric stranding is nonspecific. Colonic diverticulosis noted; fat stranding adjacent to sigmoid diverticula and colonic wall thickening present. A cluster of extra luminal gas adjacent to an inflamed diverticulum, compatible with micro perforation. Normal bladder and ureters; no free fluid in the pelvis. Reproductive organs normal; no worrisome osseous lesions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mixed Bacterial Flora Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

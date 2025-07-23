@@ -1,0 +1,33 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Coagulation Panel",
+            "date": "Not specified",
+            "findings": "PT: 33.7 sec (Normal range: 25.0 - 36.5 sec)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Enhances homogeneously without focal abnormality",
+                "gallstones": "Several gallstones present",
+                "gallbladder": "Wall not thickened",
+                "spleen": "Enlarged, measuring 14.2 cm",
+                "pancreas": "Normal",
+                "kidneys": "Enhance normally and excrete contrast symmetrically",
+                "stomach": "Normal caliber",
+                "duodenum": "Normal caliber",
+                "bowel": "Normal caliber without wall thickening or mass",
+                "appendix": "Normal",
+                "ascites": "None",
+                "fluid_collection": "None",
+                "pneumoperitoneum": "None",
+                "veins": "Patent",
+                "aorta": "Not enlarged",
+                "lymphadenopathy": "None"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "142/79 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "94% RA"
+            },
+            "relevant_findings": {
+                "general": "No apparent distress, alert and oriented, comfortable.",
+                "cardiovascular": "Regular rate and rhythm, no respiratory distress.",
+                "abdominal": "Soft, appropriate tenderness, obese.",
+                "incision": "Approximated, dry, no surrounding erythema.",
+                "ostomy": "At skin level, pink.",
+                "extremities": "Warm, well-perfused, no cyanosis, clubbing, or edema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

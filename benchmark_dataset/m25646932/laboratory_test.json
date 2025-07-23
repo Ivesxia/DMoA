@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Linear left basilar opacity is compatible with atelectasis. The lungs are otherwise clear. The cardiomediastinal silhouette is normal. No acute osseous abnormality identified. There is however apparent fusion of the anterolateral aspect of the left first and second ribs, unchanged.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

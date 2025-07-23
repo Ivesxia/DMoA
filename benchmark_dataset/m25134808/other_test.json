@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EKG",
+            "date": "Not specified",
+            "findings": "Sinus rhythm with right bundle branch block (RBBB) and left anterior fascicular block (LAFB).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Biopsy (Bone Marrow Extraction)",
+            "date": "Not specified",
+            "findings": "NONREACTIVE. Reference Range: Non-Reactive.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Diffuse echogenicity of the liver, smooth contour, no suspicious liver mass, anechoic avascular fluid collection near gallbladder fossa measuring 2.4 x 1.4 x 3.1 cm (decreased from 3.8 x 1.8 cm on prior), main portal vein patent.",
+            "changes_over_time": "The anechoic avascular fluid collection has decreased in size."
+        }
+    ]
+}

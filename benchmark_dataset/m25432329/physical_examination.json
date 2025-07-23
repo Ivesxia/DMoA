@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "blood_pressure": "137/95 mmHg",
+                "heart_rate": "105 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "95% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, awake, alert",
+                "heent": "Supple neck, dry mucous membranes, NG tube in place draining green/brown liquid",
+                "pulmonary": "Normal effort, clear to auscultation bilaterally",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, rubs, or gallops",
+                "abdominal": "Soft, very tender in RUQ but not in left side, no rigidity, rebound, or guarding, bowel sounds present",
+                "extremities": "Normal perfusion",
+                "skin": "Warm, dry",
+                "neurological": "Alert and oriented times three, no focal sensory or motor deficits",
+                "psychological": "Calm, cooperative"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

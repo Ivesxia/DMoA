@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Upper abdominal pain",
+        "history_of_present_illness": "Patient woke up during the night due to severe sharp epigastric, right upper quadrant pain associated with nausea, with no emesis. No significant changes over time reported.",
+        "past_medical_history": "Disk herniation, irritable bowel syndrome, previous laparoscopic appendectomy",
+        "family_history": "Father with myocardial infarction, status post stents; paternal mother with multiple strokes",
+        "social_history": "Not specified"
+    }
+}

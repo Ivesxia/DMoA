@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Successful cannulation of the common bile duct with complete opacification of the CBD and right and left hepatic ducts. A rounded filling defect within the lower end of CBD was noted, where a 6-mm stone was extracted during a balloon sweep. Two other filling defects in the right hepatic duct likely represent air bubbles.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Cholelithiasis and CBD enlargement with mild GB wall thickening. Inflammation at head of pancreas. Duodenal diverticulum.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

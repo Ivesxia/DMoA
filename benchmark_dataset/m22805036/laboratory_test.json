@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase was 1894, which is outside the normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ALT",
+            "date": "Not specified",
+            "findings": "ALT was 161, which is outside the normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "AST",
+            "date": "Not specified",
+            "findings": "AST was 246, which is outside the normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The common bile duct is dilated up to 1.2 cm and the gallbladder walls are thickened up to 0.6 cm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

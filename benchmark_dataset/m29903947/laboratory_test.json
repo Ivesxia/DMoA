@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Multiple hypoechoic foci are re-demonstrated in the liver. The dominant hypoechoic focus measures 2.8 x 1.6 x 2.3 cm, unchanged to slightly decreased in size from 3.1 x 1.7 x 2.9 cm. Cluster of peripheral hypodense lesions unchanged up to 1.4 cm. Stable echogenic focus in the right lobe measures 1.6 x 1.6 x 1.1 cm. Mild intrahepatic biliary dilation up to 0.6 cm. Common bile duct dilated up to 1.8 cm. Gallbladder wall thickened up to 0.5 cm with irregular internal echoes likely representing sludge. Pericholecystic fluid has decreased. Pancreatic duct dilation stable up to 0.7 cm. No evidence of focal pancreatic lesions. Portal vein patent.",
+            "changes_over_time": "The dominant hypoechoic focus slightly decreased in size. Peripheral hypodense lesions unchanged. Gallbladder wall thickening persists but with decreased pericholecystic fluid."
+        },
+        {
+            "procedure_name": "Blood Test",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

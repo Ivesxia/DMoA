@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute appendicitis",
+        "differential_diagnosis": "Ulcerative colitis flare",
+        "diagnostic_reasoning": "The patient presented with severe abdominal pain localized to the right lower quadrant, along with tenderness and rebound tenderness upon examination. CT findings demonstrated abnormality in the appendix, characterized by mucosal hyperemia and mural thickening with mild adjacent fat stranding, supporting a diagnosis of acute appendicitis. Additionally, the presence of diffuse mucosal hyperemia and thickening of the colon was noted, raising the suspicion of a flare of ulcerative colitis."
+    }
+}

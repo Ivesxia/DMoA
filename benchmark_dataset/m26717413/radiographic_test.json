@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ABDOMEN (SUPINE & ERECT)",
+            "date": "Not specified",
+            "findings": "Study is limited due to patient respiratory motion. Supine and upright abdominal radiographs demonstrate air throughout the colon. No pneumatosis. No dilated small bowel loops. Osseous structures are unremarkable. A right percutaneous tube is noted in the right upper quadrant. Lucency projecting slightly inferior to the left diaphragm is likely related to patient motion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

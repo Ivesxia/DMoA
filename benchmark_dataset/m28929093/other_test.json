@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP (Endoscopic Retrograde Cholangiopancreatography)",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Percutaneous Cholecystostomy Tube Placement",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biliary stent placement",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Multiple areas of linear plate-like atelectasis seen bilaterally, projecting over the lower lobes. No focal consolidation concerning for pneumonia. Stable small right-sided pleural effusion. Mild cardiomegaly.",
+            "changes_over_time": "Overall, there is no significant interval change since examination from ___."
+        }
+    ]
+}

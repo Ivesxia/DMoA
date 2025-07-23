@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Midepigastric pain radiating to the back",
+        "history_of_present_illness": "The patient presents with midepigastric pain that radiates to the back. This pain is reported to be similar to a previous episode about ___ years ago, which improved with PPI treatment. She also experiences intermittent nausea but denies emesis, fevers, chills, and jaundice.",
+        "past_medical_history": "Hypertension, Hyperlipidemia, Hypothyroidism, possible Gastric ulcers.",
+        "family_history": "Sister with breast cancer, no other cancers.",
+        "social_history": "Personal history of tobacco use."
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ABDOMEN (SUPINE & ERECT)",
+            "date": "Not specified",
+            "findings": "Residual oral contrast is visualized within the colon and rectum. There is a normal bowel gas pattern without evidence of small bowel dilatation. There is no evidence of obstruction. No free air is identified to suggest perforation. There is diffuse demineralization of the bones. Degenerative changes are seen in the lower lumbar spine.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Head CT",
+            "date": "Not specified",
+            "findings": "No acute process.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "Bilateral pleural effusions and bibasilar infiltrates consistent with atelectasis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scan",
+            "date": "Not specified",
+            "findings": "Enlargement of the pancreatic head with associated stranding. Fluid in the mesentery, paracolic gutters, and in the pelvis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient experienced abdominal discomfort around 11 PM before bed, which escalated to sharp/crampy epigastric pain at 1 AM. Pain migrated from epigastric to suprapubic and then to the right lower quadrant (RLQ). Pain increased when lying on her left side, and she had difficulty getting comfortable. Symptoms included nausea and multiple episodes of vomiting. Denied fevers but felt sweaty. Last bowel movement was normal, with reported anorexia. She has had three similar episodes of epigastric pain and nausea/vomiting in the past few months, each lasting about 2 hours.",
+        "past_medical_history": "Recent treatment for H.pylori, migraine with aura.",
+        "family_history": "Grandfather with COPD, grandmother with diabetes mellitus, hyperlipidemia, stroke; other grandmother with breast cancer; older sister with parathyroid tumor.",
+        "social_history": "Not specified."
+    }
+}

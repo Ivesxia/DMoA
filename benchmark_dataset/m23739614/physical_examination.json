@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "pulse": "92 bpm",
+                "blood_pressure": "121/63 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "awake, alert, oriented x 3, no acute distress",
+                "HEENT": "no conjunctival injection or jaundice",
+                "heart": "regular rate and rhythm",
+                "lungs": "normal excursion, no respiratory distress",
+                "chest": "non-tender, no deformities",
+                "back": "no vertebral tenderness, no costovertebral angle tenderness",
+                "abdomen": "soft, non-tender, non-distended, tenderness in right lower quadrant, voluntary guarding",
+                "extremities": "warm, well-perfused, no cyanosis, no edema, 2+ bilateral radial pulses",
+                "psychiatric": "normal judgment/insight, normal memory, normal mood/affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

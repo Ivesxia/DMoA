@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Hypodense fluid collection with a mildly thickened enhancing wall in the right lower quadrant concerning for abscess; fluid filled and dilated appendix with wall hyperemia; 7.5 x 6.1 x 5.0 cm fluid collection in the pelvis concerning for abscess.",
+            "changes_over_time": "The 8 mm lingular nodule is unchanged; three small hepatic hypodensities in the left lobe unchanged; left parapelvic cysts noted again; previously identified pelvic fluid has developed into the current fluid collection concerning for abscess."
+        },
+        {
+            "procedure_name": "Peritoneal drainage",
+            "date": "Not specified",
+            "findings": "1+ PMNs (<1 per 1000X FIELD); no microorganisms seen.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

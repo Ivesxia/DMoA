@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "104 bpm",
+                "blood_pressure": "113/84 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "constitutional": "comfortable and minimally symptomatic while lying flat and not moving",
+                "HEENT": "extraocular muscles intact, mucous membranes moist",
+                "chest": "no respiratory distress, clear to auscultation bilaterally (CTAB)",
+                "cardiovascular": "normal first and second heart sounds, regular rate and rhythm, no murmurs/rubs/gallops",
+                "abdominal": "soft, non-distended, tender in right lower quadrant, no rebound, no guarding",
+                "pelvic": "no cervical motion tenderness, no adnexal mass, some tenderness in the adnexal area",
+                "GU/Flank": "no costovertebral angle tenderness",
+                "extremities/back": "no edema",
+                "skin": "warm and dry",
+                "neurological": "speech fluent",
+                "psychological": "normal mentation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

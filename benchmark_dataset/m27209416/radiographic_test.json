@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Low bilateral lung volumes. Bibasilar opacities thought to reflect atelectasis given the recent surgery. A more focal increased density along the periphery of the left lung may also reflect atelectasis and possibly a layering pleural effusion. Small bilateral pleural effusions are present. No pneumothorax. The size of the cardiac silhouette is within normal limits. The tip of an enteric tube projects over the distal stomach.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Elevated lipase levels",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests (LFTs)",
+            "date": "Not specified",
+            "findings": "Elevated LFTs",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HgbA1C",
+            "date": "Not specified",
+            "findings": "HgbA1C 11.8%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen & Pelvis with & without Contrast",
+            "date": "Not specified",
+            "findings": {
+                "Lower Chest": "Small left pleural effusion with adjacent compressive atelectasis, enlarged heart.",
+                "Abdomen": {
+                    "Hepatobiliary": "Liver demonstrates homogenous attenuation, no evidence of focal lesions.",
+                    "Pancreas": "9.3 x 7 x 10 cm multiloculated cystic mass in the head of the pancreas, stable in size.",
+                    "Spleen": "Normal size and attenuation.",
+                    "Adrenals": "Normal size and shape.",
+                    "Urinary": "5 mm nonobstructing stone in the lower pole of the right kidney.",
+                    "Gastrointestinal": "Unremarkable stomach, normal small bowel, colon and rectum.",
+                    "Pelvis": "Unremarkable urinary bladder and distal ureters.",
+                    "Reproductive Organs": "Normal prostate and seminal vesicles.",
+                    "Lymph Nodes": "No lymphadenopathy.",
+                    "Vascular": "No abdominal aortic aneurysm, moderate atherosclerotic disease.",
+                    "Bones": "No evidence of worrisome osseous lesions, severe disc space narrowing at L5-S1.",
+                    "Soft Tissues": "Normal abdominal and pelvic wall."
+                }
+            },
+            "changes_over_time": {
+                "pancreas": "Dilatation of the main pancreatic duct and atrophy of the remaining pancreatic parenchyma, similar to prior."
+            }
+        }
+    ]
+}

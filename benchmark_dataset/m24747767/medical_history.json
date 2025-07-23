@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right lower quadrant abdominal pain",
+        "history_of_present_illness": "Pain has been constant and has not been necessarily associated with food. The patient also reports subjective fever, chills, and nausea. Denies vomiting. Experienced loose stools on an unspecified date, but they have since normalized.",
+        "past_medical_history": "Hepatitis C, Hypertension, Mitral regurgitation, Diabetes Mellitus (diet controlled), Chronic Kidney Disease (baseline creatinine 1.4), Anemia, Gastroesophageal Reflux Disease, Lumbar radiculitis/Chronic back pain, Uterine cancer (status post hysterectomy and radiation therapy), Essential Tremor, Genital Herpes, Renal Simple Cysts, and a previous left toe fracture (non-displaced).",
+        "family_history": "Father died from a heart attack, mother died from a stroke.",
+        "social_history": "Not specified."
+    }
+}

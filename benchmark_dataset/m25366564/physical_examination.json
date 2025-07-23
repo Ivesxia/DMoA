@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "blood_pressure": "148/91 mmHg",
+                "heart_rate": "87 bpm",
+                "oxygen_saturation": "98% on RA",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Hispanic female tremulous and slightly diaphoretic.",
+                "HEENT": "NCAT, sclera anicteric, PERRL, EOMI, conjunctiva pink, no pallor or cyanosis of the oral mucosa.",
+                "cardiovascular": "PMI located in ___ intercostal space, midclavicular line, normal S1, S2, no murmurs/rubs/gallops, no thrills or lifts, no S3 or S4.",
+                "chest": "No chest wall deformities, scoliosis or kyphosis, respiratory effort unlabored, no accessory muscle use, clear to auscultation bilaterally, no crackles, wheezes or rhonchi.",
+                "abdominal": "Soft, mild epigastric tenderness, no hepatosplenomegaly or noteworthy tenderness, negative ___ sign, no rebound or guarding.",
+                "extremities": "No cyanosis, clubbing, or edema, no femoral bruits.",
+                "neurological": "Cranial nerves intact, no focal neurological or motor deficits, patient tremulous, no asterixis."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

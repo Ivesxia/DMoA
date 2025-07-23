@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission ___",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "131/53 mmHg",
+                "respiratory_rate": "18"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "cardiovascular": "RRR, Pacemaker",
+                "pulmonary": "Clear to auscultation b/l, No increased work of breathing",
+                "abdominal": "Soft, RUQ tenderness, palpable gallbladder, lower abdominal tenderness, normoactive bowel sounds",
+                "extremities": "No ___ edema, ___ warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "CT Findings": {
+                    "lower_chest": "Mild bibasilar atelectasis. No evidence of pleural or pericardial effusion.",
+                    "abdominal": {
+                        "hepatobiliary": "Gallbladder distended with circumferential wall thickening, hyperemia, and substantial surrounding fat stranding compatible with acute cholecystitis.",
+                        "pancreas": "Normal attenuation, no focal lesions.",
+                        "spleen": "Normal size and attenuation, unchanged curvilinear calcification.",
+                        "adrenals": "Stable 1.6 cm right adrenal nodule.",
+                        "gastrointestinal": "Extensive diverticulosis without evidence of inflammation."
+                    }
+                }
+            },
+            "changes_over_time": "Mild left intrahepatic biliary dilation is stable from prior CT."
+        }
+    ]
+}

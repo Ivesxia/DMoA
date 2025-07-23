@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Limited view of lung bases is clear. The liver is diffusely fatty and has a nodular contour, without focal lesions. No intrahepatic biliary dilatation; portal vein patent. Cholecystectomy clips are noted. The spleen is mildly enlarged (15.3 cm), appearing homogeneous. The pancreas is diffusely atrophic. No pancreatic calcification, mass, or peripancreatic stranding. Adrenal glands are unremarkable. Kidneys enhance and excrete symmetrically. A 1 cm rounded hypodensity in the interpolar region of the right kidney likely represents a cyst, with no hydronephrosis. The stomach is largely collapsed; oral contrast reaches the transverse colon with no bowel wall thickening or signs of obstruction. Colon is unremarkable. An appendicolith is noted in the mid appendix, distal appendix measures up to 9 mm with adjacent fat stranding and fascial thickening. Abdominal aorta is of normal caliber. No mesenteric or retroperitoneal lymphadenopathy; no free air or fluid in the abdomen. Bladder and terminal ureters are normal; prostate and seminal vesicles are unremarkable. A small amount of ascites is noted in the cul-de-sac. No concerning osteolytic or osteosclerotic lesions identified.",
+            "changes_over_time": "Distal appendix demonstrates adjacent fat stranding and fascial thickening, minimally changed compared to the prior examination but still concerning for tip appendicitis."
+        }
+    ]
+}

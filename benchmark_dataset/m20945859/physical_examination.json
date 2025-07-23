@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2 °F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "150/68 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No acute distress. Alert and oriented x3.",
+                "HEENT": "Anicteric; tacky mucosal membranes.",
+                "neck": "No jugular venous distention (JVD); no lymphadenopathy (LAD).",
+                "cardiovascular": "Regular rate and rhythm (RRR).",
+                "pulmonary": "Clear to auscultation bilaterally (CTAB).",
+                "abdominal": "Soft but diffusely tender to palpation, worst in right lower quadrant (RLQ), with rebound tenderness and involuntary guarding.",
+                "digital_rectal_exam": "Normal tone. No masses or gross/occult blood."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

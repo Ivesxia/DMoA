@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "2+ (1-5 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites. No intrahepatic biliary dilation noted. The CHD measures 5 mm. A nonmobile shadowing stone at the gallbladder neck, measuring 2.5 cm. The gallbladder is distended, measuring up to 11.4 cm. No gallbladder wall thickening or pericholecystic fluid. Layering sludge and a few small stones are present. The imaged portion of the pancreas appears within normal limits. The spleen shows normal echogenicity, measuring 10.2 cm. Limited views of the right kidney show no hydronephrosis. The visualized portions of the aorta and IVC are within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

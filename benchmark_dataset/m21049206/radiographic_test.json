@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder is distended with wall thickening up to 5 mm. There is a large amount of irregular nonvascularized debris within the gallbladder, which is immobile. No pericholecystic fluid or stones. The liver demonstrates normal echotexture without focal mass lesion. The kidneys are normal without evidence of stones, masses or hydronephrosis. Spleen is normal measuring 12.9 cm. No free fluid in the abdomen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

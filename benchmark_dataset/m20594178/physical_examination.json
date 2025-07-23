@@ -1,0 +1,42 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5 F",
+                "heart_rate": "96 bpm",
+                "blood_pressure": "160/100 mmHg",
+                "respiratory_rate": "28 breaths/min",
+                "SaO2": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Distressed, repeating the same phrase over and over, staring into space, not interactive",
+                "HEENT": "Sclerae anicteric, dry mucus membranes, OP clear",
+                "neck": "Supple, no JVD",
+                "heart": "RRR, normal S1-S2, no murmurs, rubs, or gallops",
+                "lungs": "Tachypneic, clear to auscultation laterally, good air movement, no accessory muscle use",
+                "abdomen": "NABS, soft, non-tender, non-distended, no masses or hepatosplenomegaly",
+                "extremities": "Warm, well-perfused, 1+ edema bilaterally, 2+ peripheral pulses",
+                "skin": "No rashes or lesions",
+                "lymph": "No cervical lymphadenopathy",
+                "neurological": "Awake, non-interactive, repeating spelling of her first name, AAO x 1, answers occasionally with 'yes' or 'no', cranial nerves grossly intact"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1 F",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "155/95 mmHg",
+                "respiratory_rate": "22 breaths/min",
+                "SaO2": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented to person, place, and time",
+                "back_pain": "Complaints of chronic back pain worsened by physical therapy and transfer"
+            },
+            "changes_over_time": "Patient's symptoms improved and reverted to baseline mental status"
+        }
+    ]
+}

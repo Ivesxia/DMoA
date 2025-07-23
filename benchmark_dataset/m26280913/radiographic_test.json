@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified.",
+            "findings": "Bibasilar atelectasis, old right healed rib fractures, mild intrahepatic biliary duct dilatation, distended gallbladder without evidence of cholecystitis, normal pancreas, spleen, bilateral adrenal glands, and kidneys, no retroperitoneal or mesenteric lymphadenopathy, mild atherosclerotic calcifications at the abdominal aorta and iliac arteries, no free air or fluid, large hiatal hernia, normal stomach, small and large bowel, dilated appendix measuring 9.5 cm with mild wall thickening and hyperenhancement, no significant periappendiceal stranding, no pelvic lymphadenopathy, normal urinary bladder, normal uterus, no pelvic hernias, chronic compression fracture of T12, facet arthropathy at the lower lumbar spine.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

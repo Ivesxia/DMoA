@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "T98",
+                "heart_rate": "HR 131",
+                "blood_pressure": "BP ___",
+                "respiratory_rate": "RR 33",
+                "oxygen_saturation": "SpO2 99% on 4L O2"
+            },
+            "relevant_findings": {
+                "general": "awake, alert elderly woman laying in bed appears stated age no acute distress",
+                "eyes": "anicteric, PERRLA",
+                "head_neck": "NC/AT, MMM",
+                "cardiovascular": "fast rate regular rhythm, no m/r/g",
+                "respiratory": "clear to auscultation bilaterally",
+                "gastrointestinal": "soft, nondistended, +tenderness to palpation epigastric",
+                "musculoskeletal": "no peripheral edema, 2+ pulses",
+                "skin": "no rashes/lesions",
+                "neurological": "AOx2"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "271 U/L (elevated, normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "34.4% (normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ABDOMEN US (COMPLETE STUDY)",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Normal morphology and echotexture; no focal lesions; no biliary ductal dilatation; no cholelithiasis; no gallbladder wall thickening.",
+                "common_bile_duct": "Approximately 3 mm.",
+                "pancreas": "Normal echotexture; no edema or fluid collections.",
+                "spleen": "Normal echotexture and size measuring 8.4 cm.",
+                "left_kidney": "Measures 11.0 cm.",
+                "right_kidney": "Measures 12.0 cm.",
+                "kidneys": "Normal corticomedullary differentiation; no hydronephrosis; no ascites.",
+                "IVC_and_aorta": "Unremarkable.",
+                "atherosclerosis": "Atherosclerotic plaque identified throughout the abdominal aorta."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

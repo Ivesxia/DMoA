@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Symptoms began 2 days prior to presentation, waking the patient from sleep 2 nights ago. The pain is located in the right lower quadrant (RLQ), worsens with walking and coughing, and has remained constant while gradually becoming more intense over the past 24 hours. The patient has vomited once and has tried over-the-counter medications (Gas-X and TUMS) without relief.",
+        "past_medical_history": "GERD, allergic rhinitis",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

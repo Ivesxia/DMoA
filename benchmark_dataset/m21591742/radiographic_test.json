@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Lungs are hyperexpanded. Increased AP diameter consistent with emphysema. The lungs clear. Mediastinal contours, hila, and cardiac silhouette are normal. No pneumothorax or pleural effusion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

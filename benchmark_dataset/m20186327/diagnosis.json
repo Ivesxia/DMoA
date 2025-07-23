@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "gallstone pancreatitis",
+        "differential_diagnosis": "sepsis, cholangitis, cholelithiasis, choledocholithiasis, atrial fibrillation",
+        "diagnostic_reasoning": "The patient presented with weakness, abdominal pain, and emesis, with imaging studies revealing cholelithiasis and choledocholithiasis. Hypotension was noted, and there was an improvement in blood pressure with fluid resuscitation. The combination of gallstone-related symptoms, hypotension, and the presence of associated conditions such as sepsis/ cholangitis led to the final diagnosis of gallstone pancreatitis."
+    }
+}

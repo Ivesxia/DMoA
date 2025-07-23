@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "heart_rate": "70 bpm",
+                "blood_pressure": "129/84 mmHg",
+                "respiratory_rate": "14 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "NAD",
+                "cardiovascular": "RRR, S1 S2",
+                "lungs": "CTA B/L",
+                "abdomen": "soft, ND, TTP focally in RLQ with localized rebound, no guarding, negative Rovsing and psoas signs.",
+                "extremities": "WWP"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

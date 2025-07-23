@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain, nausea, and vomiting.",
+        "history_of_present_illness": "Symptoms started with chronic back pain followed by hallucinations after taking an unknown medication. Abdominal pain began 5 days ago in the epigastrium, constant in nature, and described as hurting. Patient has not been tolerating PO food for 2 days, experiencing non-bilious, non-bloody emesis, but can tolerate water and ginger ale. Last alcohol consumption was 3 days ago. Previous episodes of similar abdominal pain resolved with small amounts of water and ginger ale.",
+        "past_medical_history": "Hypertension, asthma, alcohol abuse.",
+        "family_history": "Hypertension in father, children with asthma.",
+        "social_history": "Patient typically consumes a pint of vodka daily; no history of delirium tremens."
+    }
+}

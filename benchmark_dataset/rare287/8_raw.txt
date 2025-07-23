@@ -1,0 +1,44 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "surgery",
+      "specific_treatment": "atrial septal defect (ASD) repair and patent ductus arteriosus (PDA) ligation",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Post-discharge, the patient required further oxygen therapy and partial nasal feeding."
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2023-01-01",  // Placeholder date; actual date required
+      "event": "Birth via cesarean section at 31 weeks and 4 days of gestation."
+    },
+    {
+      "date": "2023-01-01T07:00:00",  // Placeholder date; actual date required
+      "event": "Intubation performed at 7 hours after birth."
+    },
+    {
+      "date": "2023-01-22",  // Day 21 after birth; convert to actual date
+      "event": "Two failed extubation attempts until this date."
+    },
+    {
+      "date": "2023-02-01",  // Day 44; convert to actual date
+      "event": "Discharge from the hospital on day 91 after birth."
+    },
+    {
+      "date": "2023-02-01",  // Placeholder date; actual date required
+      "event": "Post-discharge surgery for ASD repair and PDA ligation."
+    },
+    {
+      "date": "2023-06-01",  // 4 months PMA; convert to actual date
+      "event": "The infant started feeding normally."
+    },
+    {
+      "date": "2023-10-01",  // 10 months PMA; convert to actual date
+      "event": "Patient shows overgrowth, delayed language and motor development and still requires overnight oxygen due to left bronchial stenosis."
+    }
+  ]
+}
+```

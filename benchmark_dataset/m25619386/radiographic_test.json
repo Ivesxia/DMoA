@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "The lungs are clear without focal consolidation. No pleural effusion or pneumothorax is seen. There is slight prominence of the ascending aorta, stable compared to thoracic spine radiographs from ___, which may be due to tortuosity, but slight dilatation is not excluded. Cardiac silhouette is top-normal in size. No pulmonary edema is seen.",
+            "changes_over_time": "Stable compared to thoracic spine radiographs from ___."
+        }
+    ]
+}

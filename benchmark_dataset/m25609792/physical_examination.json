@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "102.2°F",
+                "heart_rate": "100 bpm",
+                "blood_pressure": "146/90 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "96% on 2L NC"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and oriented x3",
+                "heart": "Regular rate and rhythm",
+                "lungs": "Clear to auscultation bilaterally",
+                "abdomen": "Soft, tenderness to palpation in right lower quadrant with rebound tenderness and positive Rovsing's sign",
+                "extremities": "No edema, no signs of DVT"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

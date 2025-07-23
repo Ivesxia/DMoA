@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lungs": "Visualized lung fields are within normal limits. No evidence of pleural or pericardial effusion.",
+                "liver": "Homogenous attenuation throughout. No evidence of focal lesions or biliary dilatation.",
+                "gallbladder": "Within normal limits.",
+                "pancreas": "Normal attenuation throughout, no focal lesions or ductal dilatation.",
+                "spleen": "Mildly enlarged with a maximum length of 15.2 cm.",
+                "adrenals": "Normal in size and shape.",
+                "kidneys": "Normal and symmetric size with normal nephrogram, no solid lesions or hydronephrosis.",
+                "stomach": "Unremarkable.",
+                "small_bowel": "Normal caliber, wall thickness, and enhancement.",
+                "colon_and_rectum": "Within normal limits.",
+                "appendix": "Mildly enlarged at 8 mm with some hazy increased attenuation in the adjacent fat and hypervascularity.",
+                "pelvis": "No free fluid in the pelvis.",
+                "reproductive_organs": "Prostate and seminal vesicles grossly unremarkable.",
+                "lymph_nodes": "No retroperitoneal or mesenteric lymphadenopathy.",
+                "vascular": "No abdominal aortic aneurysm or atherosclerotic disease.",
+                "bones": "No evidence of worrisome osseous lesions or acute fracture.",
+                "soft_tissues": "Very small fat containing umbilical hernia."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

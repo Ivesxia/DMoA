@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ABDOMEN (SUPINE & ERECT)",
+            "date": "Not specified",
+            "findings": "No pneumoperitoneum. The bowel gas pattern is nonspecific, but non-obstructive. Surgical clips are present in the right upper quadrant. No abnormal calcifications. Lung bases are clear. The visualized osseous structures are unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "34.3 %, within normal range (ref range: 31.0 - 35.0)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

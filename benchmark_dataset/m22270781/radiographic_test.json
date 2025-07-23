@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "Slightly shallow level of inspiration observed, creating a slightly increased prominence of the pulmonary vascular and interstitial markings. The pulmonary vascular markings are not distended. No pleural effusion or infiltrate. Heart size is within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

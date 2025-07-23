@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Endotracheal tube tip is low lying, terminating approximately 1.8 cm from the carina. Orogastric tube tip appearing to terminate in the distal esophagus. Lung volumes remain low. Heart size remains moderately enlarged. Unchanged mediastinal widening, likely related to low lung volumes. Worsening pulmonary edema, mild to moderate in extent with probable small bilateral pleural effusions. Focal opacity in the periphery of the right mid-to-upper lung field, potentially reflecting an infectious process. No pneumothorax evident.",
+            "changes_over_time": "Worsening pulmonary edema, now mild to moderate in extent; unchanged mediastinal widening; focal opacity noted which could reflect an infectious process."
+        }
+    ]
+}

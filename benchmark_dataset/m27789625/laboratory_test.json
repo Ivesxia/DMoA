@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory test (Triglycerides levels)",
+            "date": "Not specified",
+            "findings": "3.2 mg/dL (Reference range: 2.7 to 4.5 mg/dL; within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Sigmoid colon is diffusely thickened, mesentery of the sigmoid colon shows diffuse fatty stranding and small locules of air; multiple diverticula are present; findings are compatible with diverticulitis with microperforation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

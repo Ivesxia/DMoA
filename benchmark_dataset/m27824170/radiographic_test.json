@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Extensive periduodenal inflammation around the second and third part of the duodenum extending into the right pararenal space/retroperitoneum and around the hepatic flexure. Hemorrhagic material within inflammatory debris/phlegmon. Minor inflammatory change in the posterior aspect of the head of pancreas. Common bile duct appears narrowed with no filling defects and no intrahepatic biliary dilation. Gallbladder shows sludge and sludge balls, but no definite evidence of gallstones.",
+            "changes_over_time": "Comparison is made to CT examination from ___."
+        }
+    ]
+}

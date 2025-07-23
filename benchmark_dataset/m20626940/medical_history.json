@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Pain began suddenly 2 days prior to admission, initially diffuse in the abdomen but now localized in the right upper quadrant (RUQ) and epigastric region. The pain is associated with vomiting for 2 days and persists, although the patient reports feeling hungry. No fevers or chills were noted.",
+        "past_medical_history": "Hypertension (HTN), hypercholesterolemia. Surgical history includes cesarean section (C section), total abdominal hysterectomy (TAH), and right wrist surgery.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC count",
+            "date": "Not specified",
+            "findings": "WBC 17.5 (elevated, normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate 2.6 (elevated, normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "INR",
+            "date": "Not specified",
+            "findings": "INR 1.9 (elevated, normal range typically 0.8-1.1)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Negative EIA Test",
+            "date": "Not specified",
+            "findings": "Negative by EIA (Reference Range: Negative)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

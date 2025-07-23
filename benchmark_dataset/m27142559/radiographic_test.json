@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Radiograph",
+            "date": "Not specified",
+            "findings": "A gastric band is noted in the left upper quadrant of the abdomen with associated port projecting over the left mid abdomen. There is free air. A couple of air-fluid levels are noted in the mid abdomen. There are no air-distended loops of small bowel. Air and fecal material are present within the colon and rectum. The soft tissues and osseous structures appear unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

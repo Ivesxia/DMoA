@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Tests (LFTs)",
+            "date": "Not specified",
+            "findings": "Elevated LFTs with values of 601/562, alkaline phosphatase of 33, lipase of 2895, total bilirubin elevated to 2.52.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": "Normal hepatic parenchyma, smooth contour of the liver, no focal liver mass, no ascites. Large stone in the gallbladder with no surrounding inflammatory changes. Head and body of the pancreas are normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

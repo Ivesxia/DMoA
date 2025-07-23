@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute pancreatitis",
+        "differential_diagnosis": "diabetes, asthma, hyperlipidemia, GERD, hemorrhoids",
+        "diagnostic_reasoning": "The diagnosis of acute pancreatitis was supported by the patient's presentation of abdominal pain, nausea, and vomiting, alongside an elevated lipase level of 254, which is indicative of pancreatitis. Additional evidence included the patient's history of obesity and multiple comorbidities such as diabetes and hyperlipidemia, further contributing to the risk of pancreatitis."
+    }
+}

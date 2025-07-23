@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "blood_pressure": "134/81 mmHg",
+                "heart_rate": "83 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "95% RA"
+            },
+            "relevant_findings": {
+                "general": "no distress, resting in bed and comfortable appearing",
+                "HEENT": "nc/at, dry mucous membranes, op clear no exudates",
+                "neck": "supple, no LAD",
+                "cardiovascular": "RRR, s1/2, no m/r/g",
+                "lungs": "cta b/l, no w/r/r",
+                "abdomen": "soft, non distended, +slight tenderness on deep palpation diffusely but no rebound/guarding/rigidity, +bowel sounds in all 4 quadrants",
+                "extremities": "no c/c/e",
+                "skin": "warm, dry, no rashes",
+                "psych": "calm, cooperative"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

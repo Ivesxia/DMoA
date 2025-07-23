@@ -1,0 +1,29 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT CHEST W/O CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "neck": "No evidence of recurrence in the surgical bed.",
+                "axillae": "No supraclavicular or axillary lymphadenopathy.",
+                "breast": "Small partially calcified nodule in the left breast is unchanged since ___.",
+                "upper_abdomen": "Moderate sliding hiatal hernia is unchanged.",
+                "mediastinum": "Few sub centimeter lymph nodes are not pathologically enlarged.",
+                "heart": {
+                    "findings": "Moderate cardiomegaly with trace pericardial effusion, unchanged since ___.",
+                    "changes": "Left ventricle and left atrium have enlarged since ___."
+                },
+                "pulmonary": "Small right and left tiny pleural effusions associated with mild adjacent compressive atelectasis. No evidence of consolidation to suggest pneumonia.",
+                "skeletal": "Heterogeneous appearance of the skeleton with diffuse sclerotic and lytic appearance associated with several vertebral wedge fractures is grossly unchanged in comparison to the PET-CT dated ___.",
+                "rib_fractures": "Multiple healing or healed bilateral rib fractures, no clear evidence of acute fracture."
+            },
+            "changes_over_time": "Unchanged since ___."
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

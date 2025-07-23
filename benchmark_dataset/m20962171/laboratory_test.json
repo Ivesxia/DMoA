@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Gas Analysis",
+            "date": "Not specified",
+            "findings": "pH 7.4 (normal range: 7.35-7.45).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS W & W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix enlarged measuring up to 15 mm with fluid-filled segments and proximal appendicoliths up to 7 mm. Mild hepatic steatosis. No free air or free fluid.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Peritoneal Lavage",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

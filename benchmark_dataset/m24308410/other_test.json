@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Chest Portable AP",
+            "date": "Not specified",
+            "findings": "Low lung volumes; no overt evidence for pneumonia, CHF, large effusion or pneumothorax; likely presence of basilar atelectasis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RUQ Ultrasound",
+            "date": "Not specified",
+            "findings": "GB wall thickening to 4.2mm, multiple gallstones, CBD 4mm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Distended tip of appendix up to 12mm without fat stranding; distended gallbladder containing multiple stones with subtle fat stranding.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

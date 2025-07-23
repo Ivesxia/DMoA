@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Four-day history of RLQ abdominal pain that became generalized and diffuse.",
+        "history_of_present_illness": "Patient developed RLQ pain, anorexia, and nausea without vomiting starting late ___ (___) morning. On ___, the pain spread to the LLQ. The pain is constant and unremitting, worsened with any movement, including deep inspiration, and is improved when lying down. Patient had brown, loose bowel movements since ___, with the last bowel movement on ___. Symptoms briefly improved on ___ but recurred on ___.",
+        "past_medical_history": "Not specified",
+        "family_history": "Family member died in her ___ secondary to injury from a fall; another family member died at age ___ due to malnutrition ('stopped eating for 4 days').",
+        "social_history": "Not specified"
+    }
+}

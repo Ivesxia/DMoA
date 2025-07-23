@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is enlarged to 10 mm with surrounding inflammatory changes. No evidence of rupture or drainable collections. Minor atelectatic changes in lung bases. Multiple stable hypodensities in the liver. Normal gallbladder, spleen, stomach, bowel, pancreas, adrenal glands, and kidneys.",
+            "changes_over_time": "Some hypodensities in the liver are stable dating back to an unspecified previous date."
+        },
+        {
+            "procedure_name": "Laparoscopic lysis of peritoneal adhesions",
+            "date": "Not specified",
+            "findings": "Peritoneal adhesions were noted postoperatively.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

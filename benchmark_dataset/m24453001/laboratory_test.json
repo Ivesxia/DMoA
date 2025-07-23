@@ -1,0 +1,10 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": "The liver shows no evidence of focal lesions or textural abnormality. There is no evidence of intrahepatic or extrahepatic biliary dilatation. The common bile duct measures 3 mm. There is a 15 mm non-mobile stone within the gallbladder neck, with associated gallbladder distention, gallbladder wall edema, and positive ___ sign. An additional stone is seen in the gallbladder fundus. Visualized portions of the pancreas are within normal limits. The portal vein is patent. Visualized portions of the right kidney are within normal limits. The spleen measures 11.6 cm and is homogeneous.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

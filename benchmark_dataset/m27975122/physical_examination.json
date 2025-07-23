@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2 F",
+                "blood_pressure": "142/71 mmHg",
+                "heart_rate": "62 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% ra"
+            },
+            "relevant_findings": {
+                "general": "NAD",
+                "lungs": "Clear",
+                "cardiovascular": "RRR, no m/r/g",
+                "abdomen": "Bowel sounds present, soft, non-tender/non-distended",
+                "extremities": "No edema, cyanosis or clubbing",
+                "skin": "No rash",
+                "neurological": "Alert, follows commands"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

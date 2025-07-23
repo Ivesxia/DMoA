@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild bibasilar dependent atelectasis; normal heart; multiple hypodensities in the spleen measuring up to 8 mm; kidneys take up and excrete contrast without hydronephrosis; normal small bowel; no free air or fluid; pronounced atherosclerotic calcifications; patent celiac axis and SMA; patent portal vein without thrombosis; florid sigmoidal diverticulosis; fat stranding in central to right-sided colon; developing phlegmon; locules of air suggesting microperforation; marked prostatic enlargement to 9.0 x 7.4 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "BACTEROIDES FRAGILIS GROUP, PRESUMPTIVE FUSOBACTERIUM MORTIFERUM/VARIUM GROUP",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

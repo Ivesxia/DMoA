@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "Gallbladder is distended with multiple echogenic, shadowing stones. Gallbladder wall thickening of up to 7 mm. Common bile duct not dilated, measuring 6 mm. Liver is markedly diffusely echogenic, likely indicating fatty liver disease. Right kidney measures 10.4 cm with no stones, mass, or hydronephrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "88.0 IU/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

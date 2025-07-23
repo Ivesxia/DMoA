@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC",
+            "date": "Not specified",
+            "findings": "WBC count of 17 (normal range not provided)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Dilated and fluid-filled appendix measuring up to 1.4 cm; small appendicoliths at the appendiceal base; mild mucosal hyperemia; no focal fluid collections or evidence of pneumoperitoneum.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

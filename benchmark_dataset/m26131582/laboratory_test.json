@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate levels: 3.4 -> 5.7 -> 3.4",
+            "changes_over_time": "Rising from 3.4 to 5.7 and then decreasing back to 3.4."
+        },
+        {
+            "procedure_name": "Liver Function Test (LFTs)",
+            "date": "Not specified",
+            "findings": "ALT 275, AST 283, AP 189, Tbili 3.6, Dbili 2.0",
+            "changes_over_time": "LFTs resolved spontaneously after last admission."
+        },
+        {
+            "procedure_name": "Urinalysis (UA)",
+            "date": "Not specified",
+            "findings": "UA with large leukocytes, WBC 52",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level 1068",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC 13.1 K",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

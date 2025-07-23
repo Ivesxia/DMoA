@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Percutaneous aspiration of gallbladder",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Limited focused ultrasound of the gallbladder",
+            "date": "Not specified",
+            "findings": "Several large gallstones within the gallbladder; the largest stone measures up to 3 cm. Gallbladder wall thickening up to 8 mm is new since the last evaluation. Positive sonographic ___ sign.",
+            "changes_over_time": "Gallbladder wall thickening up to 8 mm is new since previous evaluation."
+        }
+    ]
+}

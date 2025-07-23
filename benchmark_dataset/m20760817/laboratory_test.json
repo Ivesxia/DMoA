@@ -1,0 +1,27 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites.",
+                "bile_ducts": "There is no intrahepatic biliary dilation. The CHD measures 7 mm.",
+                "gallbladder": "There are stones in the mildly distended gallbladder with no significant wall edema. Compared to prior exam, the mild pericholecystic fluid is more prominent.",
+                "pancreas": "The pancreas is not well visualized, largely obscured by overlying bowel gas.",
+                "spleen": "The spleen was not imaged.",
+                "kidneys": "Limited views of the right kidney show no hydronephrosis.",
+                "retroperitoneum": "The visualized portions of aorta and IVC are within normal limits."
+            },
+            "changes_over_time": "The mild pericholecystic fluid is more prominent compared to prior exam."
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": {
+                "valuestr": "44.9 fL",
+                "ref_range": "35.1 - 46.3 fL"
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

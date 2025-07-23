@@ -1,0 +1,16 @@
+{
+    "medical_history": {
+        "chief_complaint": "Cramping epigastric abdominal pain",
+        "history_of_present_illness": "The patient's epigastric abdominal pain began with one episode after eating, followed by another episode that night and afternoon. Symptoms recurred after discharge, with reports of nausea and nausea associated with vomiting once. The patient denies fever or jaundice and has had normal bowel movements.",
+        "past_medical_history": [
+            "Former alcoholic",
+            "Hypertension",
+            "GERD",
+            "Hyperlipidemia",
+            "Diverticulosis",
+            "Cataracts"
+        ],
+        "family_history": "Father had prostate cancer, mother had emphysema",
+        "social_history": "Not specified"
+    }
+}

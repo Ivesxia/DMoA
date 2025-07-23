@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Diverticulitis",
+        "differential_diagnosis": "H. Pylori infection, Gastric ulcers, Portal Vein Thrombosis, Alcoholic Cirrhosis",
+        "diagnostic_reasoning": "The final diagnosis of diverticulitis was made based on the CT abdomen findings which revealed scattered diverticula throughout the sigmoid colon, with one large diverticulum appearing acutely inflamed. Other differential diagnoses were considered including H. Pylori infection noted with gastric antral ulcers, portal vein thrombosis, and alcoholic cirrhosis, but the imaging and clinical picture primarily supported the diagnosis of diverticulitis."
+    }
+}

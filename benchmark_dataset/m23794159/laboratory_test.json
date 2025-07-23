@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood test",
+            "date": "Not specified",
+            "findings": "8.2 mg/dL, within normal range (8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "No evidence of fluid collection at incision site, multiple dilated loops of bowel, increased peristaltic activity in some loops, no focal fluid collection identified in the right lower quadrant.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

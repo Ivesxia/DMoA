@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Mr. ___ presented to the ED with a multiple day history of epigastric pain, which began one week prior to his initial visit. He had worsening abdominal pain after being discharged home and after a clear liquid diet was initiated. His lipase level was significantly elevated at 1400 upon visiting his PCP before returning to the ED with a lipase of 990. There were no episodes of jaundice, nausea, vomiting, diarrhea, fevers, or chills reported.",
+        "past_medical_history": "Hyperlipidemia; Bile duct brushings concerning for adenocarcinoma, likely cholangiocarcinoma.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

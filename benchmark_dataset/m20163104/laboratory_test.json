@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level is 5556, which is outside normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "AST/ALT",
+            "date": "Not specified",
+            "findings": "AST 447, ALT 294, both outside normal ranges.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "Alkaline phosphatase level is 384, which is outside normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "No concerning liver lesions, gallbladder wall edema, small stones/sludge, pancreas with edema and small cysts.",
+            "changes_over_time": "There is suggestion of filling defect in the distal common bile duct, not causing proximal dilatation. No dilation of the pancreatic duct."
+        }
+    ]
+}

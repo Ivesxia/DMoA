@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient presents with 3 days of abdominal pain attributed to a 'stomach bug'. The pain is located on the right side of the abdomen, comes in waves, and is associated with nausea, emesis, and diarrhea. Patient denies fevers and chills, but experienced dysuria after the CT scan. No blood in stool. Previous similar episode of pain related to a kidney stone.",
+        "past_medical_history": "Hypertension, hyperlipidemia, depression. No history of inflammatory bowel disease. No previous surgical history.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

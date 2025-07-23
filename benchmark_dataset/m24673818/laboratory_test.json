@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory microscopy for Polymorphonuclear leukocytes",
+            "date": "Not specified",
+            "findings": "2+ (1-5 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "A 3-mm calcified nodule of the lingula is unchanged, probably granuloma. The prominent opacifying pair of collateral veins is redemonstrated. Somewhat atrophic appearance of the kidneys is stable. Colonic wall thickening of the sigmoid and distal descending colon persists. The extraluminal collection of the left pericolic gutter remains, now measuring 4.6 x 3.3 cm, increased from 4.3 x 2.3 cm. Local inflammatory stranding has worsened.",
+            "changes_over_time": "The fluid collection has increased in size, now measuring on axial view 4.6 x 3.3 cm, previously 4.3 x 2.3 cm."
+        }
+    ]
+}

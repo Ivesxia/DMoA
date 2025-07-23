@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Radiograph",
+            "date": "Not specified",
+            "findings": "Massive distention of stomach, small bowel loops and parts of the colon. Pathologic air-fluid levels. No obvious bowel wall thickening. Contrast marked stool in the ascending colon. No evidence of free intra-abdominal air.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

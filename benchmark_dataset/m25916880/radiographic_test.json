@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Abdomen US (Complete Study)",
+            "date": "Not specified",
+            "findings": "Gallbladder sludge and a mobile shadowing 2.4 cm gallstone in the fundus. An additional stone in the gallbladder neck measuring approximately 1.8 cm. Mild gallbladder wall edema measuring 4 mm. No intrahepatic biliary dilation. The main portal vein is patent with hepatopetal flow. No ascites.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

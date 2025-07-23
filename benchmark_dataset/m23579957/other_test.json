@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Renal transplant ultrasound",
+            "date": "Not specified",
+            "findings": "Interval progression of elevated transplant kidney resistive indices; little if any diastolic flow identified in the transplant kidney; main renal artery peak systolic velocity increasing, 191 cm/s; no hydronephrosis.",
+            "changes_over_time": "The resistive indices are now approaching 1, indicating progression in findings."
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Irregular rate and rhythm, +systolic murmur.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Findings from previous surgical history; 2.5 x 1.5 cm rounded isoechoic mass in the liver.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "CMV testing was negative.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

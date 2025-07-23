@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Low T2 signal intensity is seen within the gallbladder, consistent with small gallstones and sludge. No signs of cholecystitis. No intra- or extra-hepatic biliary duct dilatation. Mildly decreased T1 weighted signal along the body and head of the pancreas with sparing of the pancreatic tail; no fat stranding or necrosis. The pancreatic duct is of normal caliber and patent. The spleen and the adrenals are within normal limits. Both kidneys enhance and excrete adequately. Visualized small and large bowel is within normal limits. No lymphadenopathy or free fluid observed. Osseous structures are within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

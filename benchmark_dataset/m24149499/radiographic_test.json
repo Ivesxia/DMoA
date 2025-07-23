@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The left hepatic lobe is not well visualized due to overlying bowel gas. The right hepatic lobe shows normal textural abnormality without focal liver lesion identified. Doppler assessment of the main portal vein shows patency and normal hepatopetal flow. There is no intra- or extra-hepatic bile duct dilation. The common duct is not dilated measuring 7 mm. Numerous shadowing mobile gallstones are seen within the gallbladder, without pericholecystic fluid, wall edema or gallbladder wall dilation to suggest acute cholecystitis. The pancreas is not visualized due to overlying bowel gas. The spleen is normal measuring 11.1 cm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

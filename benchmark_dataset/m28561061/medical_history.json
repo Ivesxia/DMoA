@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Watery diarrhea and decreased appetite for 17 days.",
+        "history_of_present_illness": "Symptoms of diarrhea and decreased appetite began 17 days ago. The patient has had ongoing loose/watery stools, averaging ___ times a day, and reports associated thirst and crampy abdominal pain. Despite taking 6 loperamide capsules daily, diarrhea persisted, with no blood in stool or rectal pain. The patient has not had diarrhea since 9:30 AM on the day of evaluation.",
+        "past_medical_history": "Atrial fibrillation on coumadin, chronic obstructive pulmonary disease (COPD), congestive heart failure (CHF), coronary artery disease (CAD), type 2 diabetes mellitus (DMII), gastroesophageal reflux disease (GERD), hypertension (HTN), hyperlipidemia (HLD), obesity, peptic ulcer disease (PUD), and chronic kidney disease (CKD). Previous surgeries include pilonidal cyst resection, anorectal fistulotomy with recurrent revisions, and cataract extraction.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

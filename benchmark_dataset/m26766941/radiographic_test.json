@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Bilateral plate atelectasis on the lung bases, unchanged heart size, no evidence of new increased pulmonary congestion.",
+            "changes_over_time": "Bilateral plate atelectasis may have increased slightly over the last 24 hours."
+        }
+    ]
+}

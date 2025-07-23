@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient has a 5-day history of abdominal pain, starting with moderately-intense pain over the right flank during a scheduled session of hemodialysis. One day later, she noticed hematuria, and the abdominal pain slowly worsened. On the ___, the pain worsened in intensity and migrated to her lower abdomen, leading her to seek further medical evaluation.",
+        "past_medical_history": "1. Hypertension; 2. Polycystic kidney disease/ESRD; 3. C-section; 4. Varicose veins; 5. History of lumbar discopathy; 6. Migraine.",
+        "family_history": "Significant for polycystic kidney disease in her father who probably started dialysis when he was about ___ years old. The father's brother may have a history of polycystic kidney disease. Her children have had renal ultrasounds showing bilateral cysts in the kidney.",
+        "social_history": "Not specified."
+    }
+}

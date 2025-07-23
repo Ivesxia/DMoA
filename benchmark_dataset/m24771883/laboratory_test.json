@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The gallbladder is distended, filled with sludge and stones, and demonstrates gallbladder wall edema. No intra- or extra-hepatic biliary duct dilatation is present, with the common bile duct measuring 4 mm. The liver is normal in echotexture without focal hepatic masses. Portal vein is patent demonstrating normal hepatopetal flow. The spleen is normal, measuring 11.7 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for polymorphonuclear leukocytes",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total Bilirubin Level",
+            "date": "Not specified",
+            "findings": "7.0 mg/dL (normal range: 6.0-20.0 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

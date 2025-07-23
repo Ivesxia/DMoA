@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient reports onset of lower abdominal pain that began last ___ and has been progressively worsening. The pain is located specifically in the suprapubic region and worse in the left lower quadrant. Associated symptoms include fevers up to 101°F, chills, nausea, and anorexia. She has experienced increasing abdominal distension with no bowel movement or flatus since the pain started, and also has difficulty urinating due to pain with some burning.",
+        "past_medical_history": "History of hypertension (HTN), type 2 diabetes mellitus (T2DM), hyperlipidemia (HLD), hypothyroidism, moderate mitral regurgitation (MR), mild aortic regurgitation (AR), left breast ductal carcinoma in situ (DCIS), open appendectomy, left partial mastectomy.",
+        "family_history": "No known family history of colon cancer.",
+        "social_history": "Not specified."
+    }
+}

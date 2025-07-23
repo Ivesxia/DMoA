@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Coagulation Test",
+            "date": "Not specified",
+            "findings": "PTT: 27.0 sec (Reference range: 22.0 - 35.0 sec)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The liver is of normal signal. Low T2 signal intensity within the gallbladder consistent with small gallstones and sludge. No signs of cholecystitis or biliary duct dilatation. Mildly decreased T1 weighted signal along the body and head of the pancreas. The pancreatic duct is normal. Spleen, adrenals, kidneys, and bowel within normal limits. No lymphadenopathy or free fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

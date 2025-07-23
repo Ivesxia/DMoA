@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "ECG was unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "The liver appears heterogeneous, with areas of hypoattenuation compatible with fatty infiltration. There is a 17-mm mid polar hypodensity in the right kidney. No abdominal free fluid or free air is present.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RUQ Ultrasound",
+            "date": "Not specified",
+            "findings": "RUQ US revealed fatty liver only.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

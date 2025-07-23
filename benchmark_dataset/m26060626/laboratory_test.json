@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC of 17 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "ALT of 653 (elevated), AST of 644 (elevated), AP of 324 (elevated), Tbili of 4.0 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of Liver or Gallbladder",
+            "date": "Not specified",
+            "findings": "No focal liver mass, smooth liver contour, no intrahepatic biliary dilation, stones in the distended gallbladder with wall edema, normal spleen size (8.9 cm), small simple cyst in the left kidney, no hydronephrosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "86 bpm",
+                "blood_pressure": "124/81 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "AAOx3, NAD",
+                "HEENT": "No icterus or jaundice",
+                "cardiovascular": "RRR",
+                "lungs": "CTA(B)",
+                "abdominal": "(R)LQ tender to mild palpation, no diffuse guarding or rebound",
+                "extremities": "No edema, extremities warm"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

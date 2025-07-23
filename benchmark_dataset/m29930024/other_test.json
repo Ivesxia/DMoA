@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EKG",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Gallbladder distended with numerous gallstones, gallbladder wall edematous measuring up to 7 mm with hyperemia, mild surrounding pericholecystic stranding and free fluid consistent with acute cholecystitis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

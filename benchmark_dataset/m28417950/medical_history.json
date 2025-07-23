@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute Cholecystitis",
+        "history_of_present_illness": "The patient has a history of biliary colic. A couple of weeks ago, she underwent an ERCP with sphincterotomy and extraction of sludge from her bile duct. Symptoms progressed leading to the scheduling of a pancreatic duct stone removal and laparoscopic cholecystectomy.",
+        "past_medical_history": "choledocholithiasis, Hypertension, episode of elevated liver function tests",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

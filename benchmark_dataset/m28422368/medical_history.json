@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain with associated mild nausea.",
+        "history_of_present_illness": "The patient was in her usual state of health until the evening, around 6 PM yesterday, when she developed non-radiating abdominal pain and mild nausea. She was able to sleep but woke up feeling well the next morning. During mass that morning, she again experienced the onset of abdominal pain that rapidly progressed in intensity and began radiating to her back, accompanied by significant nausea but no vomiting. There is no reported history of similar abdominal pain previously.",
+        "past_medical_history": "Cholelithiasis, Hiatal Hernia, GERD, OSA (does not use CPAP), Restless Leg Syndrome, Depression.",
+        "family_history": "Father: Not specified; Sister: Not specified, likely complicated by cholecystitis.",
+        "social_history": "Not specified."
+    }
+}

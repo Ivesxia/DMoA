@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is markedly dilated measuring 13 mm, containing fecal material. An appendicolith is seen at the origin. There is moderate surrounding fat stranding along with thickening of the lateroconal fascia. No free air or free fluid noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Appendectomy",
+            "date": "Not specified",
+            "findings": "Not applicable.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

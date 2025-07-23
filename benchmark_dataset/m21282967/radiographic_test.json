@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is normal size with prominence of the periportal space, most consistent with cirrhosis. The echotexture is slightly heterogeneous. There are no focal hepatic lesions. There is no intra- or extra-hepatic biliary duct dilation. The common bile duct measures 2 mm. The gallbladder is slightly distended and filled with sludge. No discrete stones are identified. The gallbladder wall is thickened and edematous. A moderate amount of pericholecystic fluid appears similar or just slightly increased in amount.",
+            "changes_over_time": "Gallbladder wall thickening and edema unchanged from the prior exam."
+        },
+        {
+            "procedure_name": "CXR (Chest X-ray)",
+            "date": "Not specified",
+            "findings": "Unremarkable except for coiled NG tube in stomach.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

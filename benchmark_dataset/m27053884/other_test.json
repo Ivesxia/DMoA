@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Demonstrated CBD dilation to 12 mm and a pancreatic duct distended to 7 mm with multiple adjacent calcifications.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Admission Exam",
+            "date": "Not specified",
+            "findings": "Alert and in no apparent distress, +icterus, tachycardiac, tender to palpation in RUQ and epigastric regions, and difficulty with word finding.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

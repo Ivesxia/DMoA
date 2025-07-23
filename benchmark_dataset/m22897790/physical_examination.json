@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "blood_pressure": "183/94 mmHg",
+                "heart_rate": "68 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "General": "Well-appearing man, not in acute distress, lying back in bed",
+                "HEENT": "MMM, no JVD, no JVP elevation",
+                "Cardiovascular": "RRR, no murmurs, rubs, or gallops",
+                "Lungs": "CTAB, no rales, wheezes, or ronchi",
+                "Abdomen": "Soft, nondistended, tender to superficial and deep palpation in RUQ, +guarding, +rebound",
+                "GU": "No foley",
+                "Extremities": "No edema on b/l, 1+ DP pulses b/l",
+                "Skin": "Excoriations and lesions bandaged on LLE, Bandaged R hand",
+                "Neurological": "A&O grossly, CNII-XII grossly intact, moving all extremities appropriately"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "pain": "8",
+                "temperature": "98.1°F",
+                "blood_pressure": "177/89 mmHg",
+                "heart_rate": "66 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": "Significant pain to palpation in epigastric and RUQ regions.",
+            "changes_over_time": "RUQ pain has been worsening over the course of a month."
+        }
+    ]
+}

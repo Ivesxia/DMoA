@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is visualized, which appears dilated measuring approximately 9 mm in diameter. Its wall is hyperemic and the lumen is fluid filled. There is moderate periappendiceal fat stranding. Mild inflammatory changes along the base of the cecum are also noted. No abscess formation is seen. No distinct pulmonary mass or nodule is identified within visualized portions of the lung bases. No pleural effusion. The liver is of homogeneous attenuation without distinct masses or lesions. No evidence of biliary ductal dilatation. Kidneys enhance and excrete contrast symmetrically without evidence of hydronephrosis or renal masses. No evidence of bowel wall thickening or obstruction. Scattered mesenteric lymph nodes, none meet CT criteria for pathologic enlargement. No retroperitoneal lymphadenopathy. No free air or free fluid within the abdomen or pelvis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

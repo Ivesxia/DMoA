@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Severe shortness of breath.",
+        "history_of_present_illness": "The patient presented with severe shortness of breath after experiencing recurrent bouts of COPD. She has been receiving high doses of steroids with minimal response and reports wheezing, cough, dyspnea on exertion, and increased sputum production that has not improved despite increasing doses of steroids. The symptoms have shown no improvement and she denies fevers, chills, nausea, vomiting, orthopnea, PND, and hemoptysis.",
+        "past_medical_history": "Tracheobronchomalacia, compression fractures, COPD (steroid dependent), hypertension, remote MI s/p PTCA, chronic angina, history of panic attacks, bilateral carotid endarterectomy, left carotid to subclavian bypass, cholecystectomy, hip surgery, appendectomy.",
+        "family_history": "Two of her children passed away from early CAD. Mother had a CVA and died at ___ of complications from influenza vaccine. Father died of liver and pancreatic cancer in his ___ and was a smoker. Grandfather died at ___ of uremia, possibly related to hypertension.",
+        "social_history": "Not specified."
+    }
+}

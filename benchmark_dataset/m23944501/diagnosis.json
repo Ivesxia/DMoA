@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute Appendicitis",
+        "differential_diagnosis": "Not specified.",
+        "diagnostic_reasoning": "The patient presented with periumbilical and epigastric pain, nausea, and physical exam findings of RLQ tenderness. A CT scan revealed a dilated appendix but a normal tip with no signs of periappendiceal stranding or fluid, supporting the diagnosis of acute appendicitis."
+    }
+}

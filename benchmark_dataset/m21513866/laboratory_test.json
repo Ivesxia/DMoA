@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "5 mm hypodensity in the mid right lobe, gallbladder mildly distended, 3.1 cm soft tissue lesion arising from the left adrenal gland, appendix distended to 8 mm with fluid and hyperemic wall, tiny appendicolith at the appendix base, small pocket of mildly complex free fluid in the rectouterine pouch.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Adrenal gland examination",
+            "date": "Not specified",
+            "findings": "3.1 cm soft tissue lesion arising from the left adrenal gland. Right adrenal gland is normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lab culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

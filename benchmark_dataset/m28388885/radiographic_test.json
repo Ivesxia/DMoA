@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Imaged lung bases are clear without discrete pulmonary mass or pleural effusion. Heart size is normal without pericardial effusion. Subhepatic fluid collection within the resection bed measures 4.6 x 3.1 cm and appears unchanged from prior exam, with fewer locules of gas. Central intrahepatic biliary ductal dilatation is minimally decreased from prior. Pneumobilia persists and is unchanged from previous exam. No discrete hepatic lesion identified. Persistent fat stranding and possible edema along the pancreatic neck and proximal body, unchanged. Pancreas enhances homogeneously. Residual air within the pancreatic duct at the site of prior stent placement. No evidence of bowel wall thickening or obstruction.",
+            "changes_over_time": "Subhepatic fluid collection unchanged from prior exam, central intrahepatic biliary ductal dilatation minimally decreased, pneumobilia unchanged, fat stranding and possible edema unchanged."
+        }
+    ]
+}

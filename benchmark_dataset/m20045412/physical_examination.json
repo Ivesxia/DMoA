@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "116/74 mmHg",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": "No acute distress, alert, responsive; unlabored breathing; regular rate and rhythm; abdomen soft, tender in the RLQ, nondistended, no rebound, no guarding; extremities warm and well perfused.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

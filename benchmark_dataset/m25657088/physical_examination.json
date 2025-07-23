@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2°F",
+                "heart_rate": "76 bpm",
+                "blood_pressure": "165/97 mmHg",
+                "respiratory_rate": "20 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD",
+                "cardiovascular": "RRR",
+                "respiratory": "CTA b/l",
+                "abdominal": "Obese, soft, nondistended, nontender, no rebound or guarding, well healed RLQ incision, no hernias palpable",
+                "edema": "Trace edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right lower quadrant pain",
+        "history_of_present_illness": "The pain started around 5pm yesterday and has grown gradually worse over the last 24 hours, getting significantly worse around 1pm today. The patient also experienced chills with rigors this afternoon. He denies having a fever and has been a little nauseated but has not vomited. He has had no appetite today, with his last meal being last evening.",
+        "past_medical_history": "Mitral valvuloplasty",
+        "family_history": "Not specified",
+        "social_history": "Recently returned from a trip; otherwise not specified"
+    }
+}

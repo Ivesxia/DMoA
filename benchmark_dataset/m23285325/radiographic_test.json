@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT",
+            "date": "Not specified",
+            "findings": "Mild bibasilar dependent atelectasis; normal liver contour with no focal hepatic lesions; no intrahepatic biliary duct dilatation; clip seen in seroma or dilated remnant cystic duct; mild fat stranding adjacent to gallbladder fossa; normal pancreas, spleen, adrenal glands, and kidneys; no hydronephrosis; unremarkable small and large bowel; unremarkable appendix; no free air; no mesenteric or retroperitoneal lymphadenopathy; patent celiac artery and its branches, SMA and its branches, and portal vein; normal caliber aorta; hemangioma in the T12 vertebral body; mild-to-moderate degenerative changes of thoracolumbar spine.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

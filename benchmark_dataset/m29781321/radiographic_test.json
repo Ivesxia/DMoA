@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Pneumoperitoneum, slightly low lung volumes with minimal retrocardiac atelectasis, normal cardiomediastinal and hilar contours, no pneumothorax or pleural effusion, mild rightward curvature of the spine, oral contrast noted within the colon.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

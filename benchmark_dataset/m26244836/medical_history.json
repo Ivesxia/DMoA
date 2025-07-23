@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Sudden onset of chills and fever up to 103°F.",
+        "history_of_present_illness": "Symptoms began last night with chills and fever, waking the patient this morning with a fever to 102°F. The patient feels generally unwell and has experienced abrupt onset of loose stools with 3 to 4 episodes of watery diarrhea starting yesterday afternoon. Significant nausea occurred but there was no vomiting. No abdominal pain, urinary symptoms, back pain, hematuria, cough, chest pain, or shortness of breath reported.",
+        "past_medical_history": "HIV diagnosed, hyperlipidemia, peripheral neuropathy, history of nephrolithiasis, primary syphilis, fatty liver disease.",
+        "family_history": "Father died at age with CVA, CAD, hyperlipidemia, DM, and Alzheimer's. Mother has a history of breast cancer, uterine cancer, and hypothyroidism. Two sisters have hyperlipidemia. One brother has hyperlipidemia. One daughter has breast cancer, DM, CAD, hyperlipidemia, and CVA. No known family history of colon or prostate cancer.",
+        "social_history": "Not specified."
+    }
+}

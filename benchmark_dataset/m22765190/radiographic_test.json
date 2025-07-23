@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The lung bases are clear without consolidation, edema, or effusion. The heart is normal in size with no pericardial effusion. There is mild periportal edema, likely due to fluid resuscitation. The gallbladder is unremarkable with no gallstones. The stomach and proximal small bowel are distended with contrast. The mid and distal small bowel are largely collapsed with no dilatation or wall thickening evident. The appendix is markedly inflamed to approximately 11 mm with hyperenhancing walls and an internal appendicolith situated at the appendiceal base. A trace amount of free fluid is noted in the pelvic cul-de-sac. Mild stranding and thickening of the fascia is noted in the right paracolic gutter. No pathologic lymphadenopathy is identified. The urinary bladder is incompletely distended with no wall thickening or internal filling defects noted. The uterus and bilateral ovaries are grossly unremarkable. No suspicious osseous lesions are noted. Normal thoracolumbar spinal alignment is maintained.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Metabolic Panel",
+            "date": "Not specified",
+            "findings": "3.5 mmol/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Angiography of Abdomen and Pelvis",
+            "date": "Not specified",
+            "findings": "The appendix is dilated, measuring 1.1 cm, with mild surrounding fat stranding concerning for appendicitis. Mild periportal edema, likely secondary to overhydration. No hydronephrosis, and no signs of malignancy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

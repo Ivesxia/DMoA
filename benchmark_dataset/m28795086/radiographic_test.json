@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "3.4 x 1.6 cm fluid collection surrounding the appendix posterior to the cecum; edematous appearance of the cecum.",
+            "changes_over_time": "Previous fluid collection size was 2.9 x 3.9 cm on CT."
+        }
+    ]
+}

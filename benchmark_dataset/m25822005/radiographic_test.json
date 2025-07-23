@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Gallbladder is distended and contains a gallstone without evidence of wall thickening or edema. No focal liver mass. Main portal vein is patent with hepatopetal flow. No ascites. No intrahepatic biliary dilation. CHD measures 4 mm. Pancreas appears within normal limits. Normal echogenicity of spleen measuring 10.2 cm. Limited views of kidneys show no hydronephrosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

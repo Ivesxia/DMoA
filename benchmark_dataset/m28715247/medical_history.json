@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient reports constant dull RUQ pain starting in her right flank and radiating to RUQ, which worsens with eating and lasts for hours after meals. Pain severely worsened at 4 AM this morning. She has had associated nausea without vomiting. After discharge from a recent admission, right-sided pain returned, prompting return to the ED for reevaluation. She has worsened pain but noted some improvement with medication.",
+        "past_medical_history": "Past medical history notable for hypertension (HTN), hyperlipidemia (HLD), Bell's palsy, right upper quadrant (RUQ) pain due to choledocholithiasis with post-ERCP pancreatitis, history of laparoscopic appendectomy.",
+        "family_history": "Mother, two sisters, and father have a history of gallbladder disease.",
+        "social_history": "Denies smoking or alcohol use. No history of peptic ulcer disease (PUD). Reports eating a lot of spicy food."
+    }
+}

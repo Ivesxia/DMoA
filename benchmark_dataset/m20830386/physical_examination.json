@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "heart_rate": "87 bpm",
+                "blood_pressure": "137/70 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well-developed, well-nourished, comfortable, no acute distress.",
+                "abdominal": "Soft, with point tenderness over McBurney's point.",
+                "neurological": "Awake and alert, cooperative with exam, normal affect."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

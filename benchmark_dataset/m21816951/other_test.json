@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "< 10,000 CFU/mL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "HR 98, no respiratory distress.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

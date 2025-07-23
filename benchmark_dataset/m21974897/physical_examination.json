@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "heart_rate": "91 bpm",
+                "blood_pressure": "138/106 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert, awake, and oriented x 3, no acute distress, calm, cooperative",
+                "head_exam": "Mucous membranes moist, trachea midline, extraocular movements intact",
+                "chest_exam": "Clear to auscultation bilaterally, normal S1/S2, no murmurs, rubs, or gallops",
+                "abdominal_exam": "Soft, focally tender in right lower quadrant, no guarding, no rebound, non-distended",
+                "extremities_exam": "Warm, well perfused, pulses palpable, no appreciable edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

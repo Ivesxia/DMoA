@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic consistent with fatty infiltration. No mass lesions are identified. The gallbladder contains intraluminal stones at the neck. The gallbladder is distended with wall thickening and edema. There is a small amount of pericholecystic fluid. The spleen is mildly enlarged measuring 14 cm. The left kidney measures 12.1 cm. The right kidney measures 11.5 cm. No mass, stone, or hydronephrosis present within the kidneys. There is no intra-abdominal ascites.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Small foci of free air near hepatic flexure of colon and question of gallbladder thickening.",
+            "changes_over_time": "Increased GB wall thickening with air in GB wall and thickening of hepatic flexure colon wall."
+        }
+    ]
+}

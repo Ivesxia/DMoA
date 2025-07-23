@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The lung bases are clear with no focal consolidations, pleural effusions, or pulmonary nodules. The appendix is borderline enlarged, measuring up to 7 mm, with periappendiceal stranding or mural hyperemia. No intra-abdominal free air or free fluid; no mesenteric or retroperitoneal lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

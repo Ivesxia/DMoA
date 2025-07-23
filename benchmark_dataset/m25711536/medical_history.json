@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain, nausea/vomiting",
+        "history_of_present_illness": "The patient was in her usual state of health until ___ when she noted abdominal pain and nausea/vomiting after eating scallops for dinner. She had intermittent episodes of vomiting overnight with resolution of symptoms the following morning. After ___ days without recurrence, she experienced additional right upper quadrant/epigastric pain, nausea/vomiting, and loose stools after eating fish for dinner on ___.",
+        "past_medical_history": "Hypertension, hyperlipidemia, GERD, psoriasis, carpal tunnel syndrome, history of cellulitis, history of leg cramping",
+        "family_history": "Significant for coronary artery disease, hypertension, cerebrovascular accident.",
+        "social_history": "Not specified"
+    }
+}

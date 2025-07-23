@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "heart_rate": "59 bpm",
+                "blood_pressure": "135/86 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "95%"
+            },
+            "relevant_findings": {
+                "Constitutional": "Comfortable",
+                "HEENT": "No scleral icterus",
+                "Chest": "Clear to auscultation",
+                "Cardiovascular": "Regular Rate and Rhythm, Normal first and second heart sounds",
+                "Abdominal": "Soft, slight guarding of right upper quadrant, positive tenderness to palpation, positive ___ sign and mild right mid abdominal tenderness",
+                "Extr/Back": "Normal femoral pulses and distal perfusion",
+                "Skin": "No rash, Warm and dry",
+                "Neuro": "Speech fluent",
+                "Psych": "Normal mentation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

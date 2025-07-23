@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ERCP BILIARY&PANCREAS BY GI UNIT",
+            "date": "Not specified",
+            "findings": "Minimal diffuse dilatation of the extrahepatic biliary system. No intrahepatic biliary dilatation. Status post cholecystectomy. No filling defects identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

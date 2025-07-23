@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "RUQ pain",
+        "history_of_present_illness": "The patient experienced intermittent sensations of epigastric burning for about 2 months, previously thought to be heartburn. This intensified into new acute onset of RUQ pain after eating quiche yesterday evening at 8PM, differing from the prior symptom. The patient took Pepcid, which did not alleviate the pain. No pain at rest was reported at the time of the interview.",
+        "past_medical_history": "Adult Acne, Hypertension, Cholelithiasis",
+        "family_history": "Sister living with Hypertension; Brother living with Hypertension and Anal Cancer; Father with Coronary Artery Disease and Prostate Cancer; Mother deceased with Hypertension, Glaucoma, Anomalous Pulmonary Venous Return with Shunting, Vascular Dementia, Subaortic Webbing, Aortic Valvular Disease.",
+        "social_history": "Not specified"
+    }
+}

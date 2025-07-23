@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C. difficile toxin test",
+            "date": "Not specified",
+            "findings": "FECES NEGATIVE FOR C. DIFFICILE TOXIN BY EIA. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Small bilateral pleural effusions and adjacent atelectasis, small hiatal hernia, liver shows a small focus of enhancement posteriorly at the dome (may represent a hemangioma), tiny amount of fluid within the gallbladder fossa, biliary stent and subhepatic drain in place, pneumobilia present, fat stranding and fluid surrounding the pancreas, no focal lesions identified elsewhere.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

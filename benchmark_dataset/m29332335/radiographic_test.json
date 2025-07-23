@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "No consolidation or pleural effusion at the lung bases. The liver enhances homogeneously. No extra- or intra-hepatic biliary duct dilatation. The gallbladder is normal. The spleen is unremarkable. The kidneys enhance symmetrically with no hydronephrosis or pyelonephritis. There is a 5 mm pancreatic hypodensity likely cyst with tiny septation. No pathologically enlarged lymph nodes, no free fluid or free air, no bowel obstruction. In pelvis, a tubular structure in the right lower abdominal quadrant measuring 1.4 cm with enhancing wall, small amount of free fluid in the pelvis, suggestion of septate uterus. Urinary bladder is unremarkable. No suspicious lytic or sclerotic lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

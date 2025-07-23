@@ -1,0 +1,26 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CTA ABD & PELVIS",
+            "date": "Not specified",
+            "findings": {
+                "vascular": "No abdominal aortic aneurysm; minimal calcium burden.",
+                "lower_chest": "Minimal atelectasis in the lung bases; no pleural or pericardial effusion.",
+                "abdomen": {
+                    "hepatobiliary": "Liver homogenous attenuation; no focal lesions or biliary dilatation; gallbladder normal.",
+                    "pancreas": "Normal attenuation; no focal lesions.",
+                    "spleen": "Normal size and attenuation.",
+                    "adrenals": "Normal in size and shape.",
+                    "urinary": "Normal kidney size; no stones or hydronephrosis; scattered simple cysts.",
+                    "gastrointestinal": "Appendix enlarged with hyperenhancing wall (13 mm diameter) and adjacent fat stranding; no free air or fluid collection.",
+                    "retroperitoneum": "No evidence of lymphadenopathy.",
+                    "pelvis": "Bladder and ureters unremarkable; no pelvic fluid or lymphadenopathy.",
+                    "reproductive_organs": "Uterus and adnexae normal.",
+                    "bones": "No worrisome osseous lesions or acute fracture.",
+                    "soft_tissues": "Abdominal and pelvic wall normal."
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

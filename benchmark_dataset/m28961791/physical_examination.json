@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "103.0 F",
+                "heart_rate": "107 bpm",
+                "blood_pressure": "160/63 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general": "NAD, AAOx3",
+                "cardiovascular": "RRR",
+                "pulmonary": "GBAE, unlabored respirations",
+                "abdominal": "Soft, non-distended, tender on RLQ with positive McBurney and Rovsing's sign, as well as positive psoas sign.",
+                "musculoskeletal": "Strength upper, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

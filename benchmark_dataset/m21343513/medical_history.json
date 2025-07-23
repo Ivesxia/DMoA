@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right lower quadrant pain",
+        "history_of_present_illness": "Right lower quadrant pain started 4 days ago. Initially dull and intermittent, worsening over the last 2 days, becoming more constant. Pain was worst in the morning and at night. No associated nausea, vomiting, diarrhea, constipation, fever, or chills.",
+        "past_medical_history": "History of ulcerative colitis. No previous surgeries.",
+        "family_history": "Not specified.",
+        "social_history": "Social alcohol consumption. No tobacco use."
+    }
+}

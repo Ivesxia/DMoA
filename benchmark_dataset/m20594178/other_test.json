@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "New lateral ST depressions, initial troponin was 0.08.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Esophagogastroduodenoscopy",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar Puncture",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ABG",
+            "date": "Not specified",
+            "findings": "pH 7.22, pCO2 10, pO2 126, HCO3 4.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echo",
+            "date": "Not specified",
+            "findings": "Right ventricular strain concerning for pulmonary embolism.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

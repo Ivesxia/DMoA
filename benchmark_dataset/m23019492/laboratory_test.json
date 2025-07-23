@@ -1,0 +1,10 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRSA culture",
+            "date": "Not specified",
+            "findings": "No MRSA isolated.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

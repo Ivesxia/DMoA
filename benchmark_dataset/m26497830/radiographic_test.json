@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The lung bases are grossly clear. There is no ascites. The liver is normal in size and morphology, with normal signal characteristics on T1 and T2WI. No evidence of steatosis. Two T2 hyperintense nonenhancing hepatic lesions measuring 3 mm, consistent with biliary hamartomas or cysts. The gallbladder is decompressed with possible cystic changes in the gallbladder fundus. The intra and extrahepatic biliary ducts are normal in caliber. Normal pancreas, kidneys, and adrenals. Enlarged spleen measuring 17 cm, seems unchanged since a previous evaluation. No free fluid or concerning lymphadenopathy.",
+            "changes_over_time": "The spleen is enlarged, measuring 17 cm in craniocaudal dimension, seems to be unchanged since a previous evaluation."
+        }
+    ]
+}

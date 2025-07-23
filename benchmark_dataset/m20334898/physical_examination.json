@@ -1,0 +1,51 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.3 °F",
+                "heart_rate": "68 bpm",
+                "blood_pressure": "143/99 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "90% on 5L NC"
+            },
+            "relevant_findings": "Abdominal exam was benign.",
+            "changes_over_time": "HR increased to 120-130 during ED stay; desaturation to 85% on room air, improved with BiPAP."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4 °F",
+                "heart_rate": "121 bpm",
+                "blood_pressure": "116/55 mmHg",
+                "respiratory_rate": "24 breaths/min",
+                "oxygen_saturation": "99% on BiPAP"
+            },
+            "relevant_findings": {
+                "general": "Sleepy but arousable, does not answer questions, grimaces when abdomen is palpated.",
+                "abdomen": "Mildly distended, TTP in RUQ with guarding, no rebound tenderness, no palpable mass."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.4 °F",
+                "heart_rate": "101 bpm",
+                "blood_pressure": "102/43 mmHg",
+                "respiratory_rate": "17 breaths/min",
+                "oxygen_saturation": "94% on 5L NC"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, no acute distress.",
+                "HEENT": "Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL.",
+                "neck": "Supple, JVP not elevated, no LAD.",
+                "CV": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops.",
+                "lungs": "Clear to auscultation anteriorly.",
+                "extremities": "Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema.",
+                "neuro": "Somnolent but arousable to voice."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

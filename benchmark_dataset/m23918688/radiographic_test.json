@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Stable cardiomegaly accompanied by worsening asymmetrical perihilar edema, right greater than left.",
+            "changes_over_time": "Worsening asymmetrical perihilar edema"
+        }
+    ]
+}

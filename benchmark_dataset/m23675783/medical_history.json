@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Left lower quadrant and left flank pain",
+        "history_of_present_illness": "Pain began the morning of presentation. Nausea present and unable to take pain medications. The patient reported no vomiting, fever, chills, or diarrhea. Constipation with last bowel movement 3 days prior; flatulence noted.",
+        "past_medical_history": "History of left lung cancer resected, metastasis to brain, chemotherapy last week. Other medical history includes type 2 diabetes, hypertension, peripheral vascular disease with carotid stenosis, hyperlipidemia, history of stroke.",
+        "family_history": "Father with coronary artery disease/myocardial infarction (deceased), mother died from tuberculosis, multiple sisters with various cancers and one with congestive heart failure.",
+        "social_history": "Quit smoking after a 40 pack-year history. Lives with daughter and granddaughter, retired. No asbestos or heavy chemical exposure."
+    }
+}

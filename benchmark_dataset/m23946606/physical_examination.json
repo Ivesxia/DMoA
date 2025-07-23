@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "103.1 °F",
+                "heart_rate": "138 bpm",
+                "blood_pressure": "78 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "supine in bed, uncomfortable appearing",
+                "eyes": "EOMI, anicteric, PERRL",
+                "ENT": "OP clear, MMM",
+                "heart": "RRR no mrg",
+                "lungs": "CTA bilaterally, no crackles or ronchi",
+                "abdomen": "soft nontender throughout without rebound/guarding; negative murphys; no flank pain; normal bowel sounds; normal external genitalia",
+                "extremities": "no edema; well healed scar over R knee",
+                "skin": "no rashes; mild chronic hemosiderin deposition on lower legs bilaterally",
+                "vascular": "2+ DP/radial pulses",
+                "neurological": "AOx3, moving all extremities",
+                "psychological": "appropriate"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

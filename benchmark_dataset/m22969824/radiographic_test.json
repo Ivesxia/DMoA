@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder demonstrates significant wall edema with regions of apparent mucosal sloughing and discontinuity as well as ring down artifact suggestive of gas within the gallbladder wall. A fluid-fluid level as well as multiple stones are seen within the gallbladder with at least a 9 mm stone in the neck. The liver is normal in echotexture, without focal lesions or intrahepatic biliary ductal dilatation. The imaged portion of the pancreas appears within normal limits. The spleen measures 9.9cm and is normal in echogenicity. The right kidney measures 12.1 cm and the left kidney measures 11.8 cm with normal cortical echogenicity.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

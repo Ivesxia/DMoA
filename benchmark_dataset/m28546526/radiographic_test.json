@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "Lungs are clear. There is no pleural effusion or pneumothorax. The heart is normal in size. Normal cardiomediastinal silhouette.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

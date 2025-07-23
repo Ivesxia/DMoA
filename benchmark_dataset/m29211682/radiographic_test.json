@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Lungs are clear without focal consolidation. No pleural effusion or pneumothorax is seen. The cardiac and mediastinal silhouettes demonstrate a top normal heart size. The mediastinum is not widened. The aorta is slightly tortuous.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

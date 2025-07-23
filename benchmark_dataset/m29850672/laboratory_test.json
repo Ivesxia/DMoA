@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "29.0 IU/L (within normal range: 0.0 - 40.0 IU/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal Ultrasound",
+            "date": "Not specified",
+            "findings": "Gallbladder contains a stone lodged within the neck, a small stone within the fundus, no wall thickening or pericholecystic fluid, common bile duct normal at 4 mm, kidneys normal, spleen normal at 10.7 cm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

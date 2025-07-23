@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is fluid filled and appears markedly dilated, measuring 13 mm in diameter near the tip. No free fluid is seen within this area. There is no lymphadenopathy. Very trace stranding adjacent to the tip is present. No submucosal hyperemia is appreciated. The remaining intrapelvic loops of small and large bowel appear normal. There is a moderate amount of fecal loading throughout the colon.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "NEG mg/dL",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

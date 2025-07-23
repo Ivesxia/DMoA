@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.5°F",
+                "blood_pressure": "138/78 mmHg",
+                "heart_rate": "81 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "93% on room air"
+            },
+            "relevant_findings": {
+                "general": "NAD, tired, fatigued, mildly uncomfortable",
+                "HEENT": "Anicteric, dry mucous membranes, oral pharynx clear",
+                "cardiovascular": "Regular rate and rhythm, no murmurs",
+                "lungs": "Clear to auscultation bilaterally",
+                "abdominal": "+ voluntary guarding, no rebound tenderness, + tenderness to palpation in RUQ and epigastric region, good bowel sounds",
+                "extremities": "No edema, warm and well-perfused",
+                "skin": "No rashes",
+                "neurological": "Fluent speech"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

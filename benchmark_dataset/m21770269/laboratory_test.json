@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Salmonella and Shigella Test",
+            "date": "Not specified",
+            "findings": "NO SALMONELLA OR SHIGELLA FOUND.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Dilated 11mm hyperemic appendix with a thickened wall. Thrombosed mesenteric vein with clot extending into the superior mesenteric vein. Inflammatory changes in mesenteric fat.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

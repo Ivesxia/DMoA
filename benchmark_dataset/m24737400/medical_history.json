@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute abdominal pain and constipation lasting over 48 hours.",
+        "history_of_present_illness": "Symptoms began acutely over 48 hours ago. Initially, the pain was centered around the umbilicus and rated ___; it is currently localized to the right lower quadrant (RLQ) and rated ___ prior to medication. The pain is aggravated by movement and temporarily relieved by sleeping. After the onset of pain, the patient experienced nausea and non-bilious vomiting. The patient attributes partial lessening of pain to the relief of constipation with laxatives. The patient initially thought the pain might be related to food ingested at a party over the weekend.",
+        "past_medical_history": "Melanoma, hypotension, and 'disc problems'. Past surgical history includes excision of melanoma, two cesarean sections, and tonsillectomy.",
+        "family_history": "Family history includes skin cancers (squamous cell carcinoma and melanoma).",
+        "social_history": "Not specified."
+    }
+}

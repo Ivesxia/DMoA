@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Sudden onset severe right upper quadrant (RUQ) pain.",
+        "history_of_present_illness": "The patient presented with sudden onset severe RUQ pain that was reported to be on and off. The pain is often postprandial but not always, did not radiate, and was associated with nausea and vomiting. No fever, hematemesis, melena, bright red blood per rectum, or changes in bowel habits were noted.",
+        "past_medical_history": "1. HCC status post radiofrequency ablation (RFA), 2. HCC status post transarterial chemoembolization (TACE), 3. EtOH and HCV cirrhosis with portal hypertension, ascites, and variceal bleed, 4. HCV, genotype I, 5. Hypertension, 6. Past syphilis infection, treated.",
+        "family_history": "No family history of liver disease or colon cancer. Mother has arthritis. Father had diabetes. Sister has diabetes.",
+        "social_history": "Personal history of tobacco use."
+    }
+}

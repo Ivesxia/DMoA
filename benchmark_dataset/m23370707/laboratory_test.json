@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": {
+                    "lungs": "Clear, no nodule, consolidation, or pleural effusion",
+                    "heart": "Normal in size",
+                    "pericardial_effusion": "None"
+                },
+                "abdomen": {
+                    "liver": "Normal in shape and contour, no focal lesions",
+                    "portal_veins": "Patent",
+                    "biliary_duct": "No dilation",
+                    "gallbladder": "Normal",
+                    "spleen": "Normal",
+                    "pancreas": "Normal",
+                    "adrenal_glands": "Normal",
+                    "kidneys": "Normal without lesions, hydronephrosis, or pyelonephritis, enhance and excrete contrast symmetrically",
+                    "stomach_and_small_bowel": "Normal in course and caliber, no obstruction, no focal inflammatory changes",
+                    "abdominal_vasculature": "Normal in caliber",
+                    "lymphadenopathy": "None"
+                },
+                "pelvis": {
+                    "appendix": "Mildly dilated, measuring 10 mm, with wall hyperemia and minimal surrounding stranding, no free air or abscess formation",
+                    "cecum": "Mild wall thickening at its base compatible with acute uncomplicated appendicitis",
+                    "large_bowel": "Normal with no focal inflammatory changes",
+                    "bladder_and_prostate": "Unremarkable",
+                    "pelvic_lymphadenopathy": "None"
+                },
+                "osseous_structures_and_soft_tissues": {
+                    "ossseous_lesions": "No concerning lytic or sclerotic lesions, a 7 mm sclerotic focus in the right acetabulum likely a bone island, no fracture",
+                    "soft_tissues": "Unremarkable, no hernia"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

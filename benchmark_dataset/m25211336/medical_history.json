@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "RUQ and epigastric pain that radiates to her back.",
+        "history_of_present_illness": "The pain started an hour or so after dinner and grew progressively worse throughout the evening. The pain is sharp and constant, currently rated as ___ out of 10.",
+        "past_medical_history": "1. CLL s/p multiple rounds of chemotherapy 2. Extrapulmonary TB diagnosed ___, now s/p 6 months of 4-drug therapy with rifampin, INH, ethambutol, and pyrazinamide 3. Hypothyroidism 4. Osteoarthritis",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

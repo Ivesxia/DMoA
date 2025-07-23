@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated up to 13 mm and fluid-filled with substantial surrounding fat stranding. The lung bases demonstrate dependent atelectasis. A calcified granuloma is seen in the left lower lobe. No pleural or pericardial effusion. The liver, spleen, gallbladder, pancreas, adrenal glands, stomach, small bowel, and colon are within normal limits. Tiny bilateral renal hypodensities are too small to characterize. No hydronephrosis. Bladder, rectum, and seminal vesicles are unremarkable. There is a 1-cm well-circumscribed hypodensity in the central prostate. No concerning lytic or sclerotic osseous lesions detected.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lab Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Blood Test",
+            "date": "Not specified",
+            "findings": "14.0 mg/dL (not specified if within normal range)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

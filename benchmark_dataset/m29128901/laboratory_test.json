@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Elevated lipase levels.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Amylase",
+            "date": "Not specified",
+            "findings": "Elevated amylase levels.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit (hct)",
+            "date": "Not specified",
+            "findings": "Hematocrit improved and remained stable after receiving 3 units of packed red blood cells (PRBC).",
+            "changes_over_time": "Improved after transfusion."
+        }
+    ]
+}

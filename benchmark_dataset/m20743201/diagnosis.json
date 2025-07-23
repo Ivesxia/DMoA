@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with abdominal pain that began in the left upper quadrant and migrated to the right lower quadrant, which is characteristic of appendicitis. The physical exam revealed tenderness in the right lower quadrant with voluntary guarding. Additionally, the patient's symptoms included nausea, vomiting, a low-grade fever, and a CT scan showed findings consistent with appendicitis."
+    }
+}

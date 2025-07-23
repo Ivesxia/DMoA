@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Polymorphonuclear leukocytes test",
+            "date": "Not specified",
+            "findings": "1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph (pre-op PA & LAT)",
+            "date": "Not specified",
+            "findings": "Slightly shallow level of inspiration is observed creating a slightly increased prominence of the pulmonary vascular and interstitial markings, though the pulmonary vascular markings are not distended. There is no pleural effusion or infiltrate. The heart size is within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder is nondistended but demonstrates wall edema and thickening. No stone is identified. The liver appears homogeneous in echogenicity. No focal lesion is identified. There is no intrahepatic biliary dilatation. The main portal vein is patent with hepatopetal flow. The pancreas is not well seen secondary to overlying bowel. Limited views of the kidneys demonstrate no hydronephrosis or nephrolithiasis. The right kidney measures 11.5 cm and the left kidney 11.6 cm. The spleen is normal in size, measuring 10.2 cm. No evidence of ascites.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

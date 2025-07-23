@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Pain started about 48 hours ago and was lower abdominal pain which later localized to the right lower quadrant (RLQ). Denies vomiting, no fever, and no burning with micturition.",
+        "past_medical_history": "Past Medical History: None; Past Surgical History: Tonsillectomy",
+        "family_history": "No family history of cancer.",
+        "social_history": "Nicotine dependence, cigarettes, uncomplicated."
+    }
+}

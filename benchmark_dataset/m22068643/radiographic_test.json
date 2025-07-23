@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Diffuse common bile duct and common hepatic duct dilatation up to 15 mm. No distinct filling defects are seen. The pancreatic duct is normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

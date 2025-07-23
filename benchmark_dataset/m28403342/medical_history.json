@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Worsening left lower quadrant abdominal pain associated with vomiting.",
+        "history_of_present_illness": "Symptoms worsened over the past few days, with vomiting occurring for 1 day. The patient also reported constipation and decreased flatus over several days. Decrease in shortness of breath has been noted, with patient stating he can walk only approximately ___ yards before being limited by SOB.",
+        "past_medical_history": "CAD s/p stent, HTN, HLD, diverticulosis, perforated appendicitis s/p appendectomy, duodenal stricture.",
+        "family_history": "Son died of brain cancer, father died of lung cancer, mother died of old age.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT PERITINEAL DRAIN EXCLUDING APPENDICEAL",
+            "date": "Not specified",
+            "findings": "Right lower quadrant collection with small areas of gas locules, measuring 4.5 x 3.5 cm.",
+            "changes_over_time": "Decreased size of the collection compared to the scan at the initiation of the procedure."
+        }
+    ]
+}

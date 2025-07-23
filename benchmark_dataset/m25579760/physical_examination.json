@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0 °F",
+                "heart_rate": "71 bpm",
+                "blood_pressure": "128/77 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "constitutional": "comfortable",
+                "abdominal": "tender in the RLQ",
+                "flank": "no CVAT",
+                "cardiovascular": "RRR. s1, s2. no MRG",
+                "neurological": "speech fluent",
+                "psychological": "normal mood",
+                "skin": "no rash",
+                "extremities": "No c/c/e"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

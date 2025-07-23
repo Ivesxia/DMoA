@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Abdominal aortic aneurysm measuring up to 4.6 cm, gallbladder contains a calculus in the neck measuring approximately 6 mm, a tiny gallbladder polyp, no gallbladder wall edema or pericholecystic edema.",
+            "changes_over_time": "Abdominal aortic aneurysm size reduced from 5.2 cm to 4.6 cm; however, the difference in measurements is likely due to different techniques."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The gallbladder is severely distended to 5 x 10 cm and filled with echogenic sludge and debris. The liver has a homogeneous echotexture with no evidence of steatosis. No parenchymal abnormality along the gallbladder fossa. No focal liver lesion. The main portal vein is patent with appropriate hepatopetal flow. Mild intrahepatic biliary dilatation. No definite gallbladder wall thickening, edema or pericholecystic fluid. No ascites.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "646.0 mg/dL, NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

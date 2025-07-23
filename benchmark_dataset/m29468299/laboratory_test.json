@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is fluid filled and dilated measuring 9 mm. No intra-abdominal fat limits full evaluation, however, there is thickening of the right lateral conal fascia. No adjacent fluid collection or free air.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for organisms",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml with reference range lower: 0.5, upper: 2.0. Value is 1.1 mmol/L.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

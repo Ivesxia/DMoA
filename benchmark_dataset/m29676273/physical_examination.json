@@ -1,0 +1,42 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5 F",
+                "blood_pressure": "140/89 mmHg",
+                "heart_rate": "103 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "well-appearing woman in no acute distress, comfortable, appropriate",
+                "HEENT": "no conjunctival injection, extraocular movements intact, sclerae anicteric, moist mucous membranes",
+                "neck": "supple, submandibular findings not specified",
+                "lungs": "clear to auscultation bilaterally, no rales/rhonchi/wheezes, good air movement",
+                "heart": "regular rate and rhythm, no murmurs/rubs/gallops",
+                "abdomen": "normal bowel sounds, soft, non-tender, no rebound/guarding",
+                "extremities": "warm, well-perfused, no cyanosis/clubbing/edema",
+                "skin": "no rashes or lesions",
+                "lymph": "no cervical lymphadenopathy",
+                "neurological": "awake, alert and oriented x3, grossly intact"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7 F",
+                "blood_pressure": "106/71 mmHg",
+                "heart_rate": "100 bpm",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "stool": "hematochezia noted, brown stool with positive guaiac",
+                "abdominal_exam": "no tenderness or guarding"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

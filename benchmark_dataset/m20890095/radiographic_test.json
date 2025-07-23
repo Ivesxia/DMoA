@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "The lungs are clear. No effusion or pneumothorax is present. Apical pleural thickening is unchanged. The heart and mediastinal contour are normal. No abdominal free air is present.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

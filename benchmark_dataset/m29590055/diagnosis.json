@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with abdominal pain and CT findings revealed an enlarged appendix measuring up to 1.2 cm with an appendicolith and surrounding fat stranding, which are indicative of appendicitis."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "155/79 mmHg",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Physical Exam on Admission: General: NAD; CV: RRR; Resp: CTAB; Abd: soft, obese, tender to palpation in RUQ and epigastric area, no rebound, no guarding, bowel sounds present; R CVA tenderness; Ext: no edema or DVT.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

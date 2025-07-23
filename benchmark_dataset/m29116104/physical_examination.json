@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "heart_rate": "62 bpm",
+                "blood_pressure": "183/78 mmHg",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "Constitutional": "Uncomfortable",
+                "HEENT": "Anicteric, Oropharynx within normal limits",
+                "Chest": "Clear to auscultation",
+                "Cardiovascular": "Regular Rate and Rhythm",
+                "Abdominal": "Soft, + RUQ tenderness, no guarding/rigidity",
+                "GU/Flank": "No costovertebral angle tenderness",
+                "Extr/Back": "Warm, well-perfused extremities",
+                "Skin": "Warm and dry",
+                "Neuro": "Speech fluent"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

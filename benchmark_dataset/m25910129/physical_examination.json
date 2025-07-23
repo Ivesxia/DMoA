@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "pulse": "89 bpm",
+                "blood_pressure": "121/53 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "no acute distress",
+                "cardiac": "regular rate and rhythm, no murmurs appreciated",
+                "respiratory": "clear to auscultation, bilaterally",
+                "abdominal": "soft, non-tender, non-distended without rebound tenderness or guarding; 8 French pigtail drain in right upper abdomen; insertion site intact without erythema or drainage",
+                "extremities": "no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Colonoscopy only revealed polyps and ascending colon diverticulosis. All polyps were benign and the one polyp removed from the cecum revealed adenoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "Area of inflammation predominantly around the posterior cecum with multiple diverticula, diverticulum with hyperdense contents, inflamed appendix with mucosal hyperenhancement, and dilated appendiceal tip measuring up to 7 mm. Several prominent lymph nodes noted. No free fluid or free air identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

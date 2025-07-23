@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Bibasilar atelectatic changes persist. Prominence of the superior mediastinum is again seen. The pulmonary vessels are somewhat indistinct, raising the possibility of some elevated pulmonary venous pressure. No acute focal pneumonia.",
+            "changes_over_time": "In comparison with the study of ___, the patient has taken a slightly better inspiration."
+        }
+    ]
+}

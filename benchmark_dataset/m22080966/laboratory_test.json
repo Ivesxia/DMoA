@@ -1,0 +1,24 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "APTIMA COMBO 2 Assay",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria gonorrhoeae.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Hepatic parenchyma appears within normal limits. The contour is smooth. No focal liver mass. The main portal vein is patent with hepatopetal flow. No ascites.",
+                "bile_ducts": "No intrahepatic biliary dilation. CBD measures 5 mm. No definite evidence of choledocholithiasis.",
+                "gallbladder": "Distended with multiple layering gallstones noted. Several gallstones reside in the gallbladder neck. No definite gallbladder wall thickening or pericholecystic fluid.",
+                "pancreas": "Imaged portion appears within normal limits, without masses or pancreatic ductal dilation.",
+                "spleen": "Normal echogenicity, measuring 8.5 cm.",
+                "kidneys": "Right kidney measures 8.8 cm. Left kidney measures 10.0 cm. Normal cortical echogenicity and corticomedullary differentiation. No evidence of masses, stones, or hydronephrosis.",
+                "retroperitoneum": "Visualized portions of aorta and IVC are within normal limits."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3",
+                "blood_pressure": "109/65",
+                "heart_rate": "92",
+                "respiratory_rate": "22",
+                "oxygen_saturation": "91% on 3L NC"
+            },
+            "relevant_findings": {
+                "general": "Thin, elderly female in no apparent distress (NAD)",
+                "HEENT": "Jaundiced, moist mucous membranes (MMM)",
+                "cardiovascular": "Mildly tachycardic, diastolic murmur noted",
+                "respiratory": "Clear to auscultation bilaterally (CTAB), no wheezing or rhonchi",
+                "abdominal": "Soft, non-active bowel sounds (NABS), + tenderness to palpation (TTP) over right upper quadrant (RUQ) and right lower quadrant (RLQ)",
+                "genitourinary": "No foley catheter present",
+                "extremities": "Warm, no edema, thin",
+                "neurological": "Alert and oriented to person, place, and time (AOx3)",
+                "psychological": "Alert, interactive, no psychomotor agitation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

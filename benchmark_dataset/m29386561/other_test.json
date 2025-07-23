@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laparoscopic appendectomy",
+            "date": "Not specified",
+            "findings": "Fluid-filled appendix measures 10 mm with significant periappendiceal fat stranding, consistent with acute appendicitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Two hypoattenuating lesions in the left lobe of the liver measuring 14 mm and 17 mm, and a 1.7 x 2.7 x 1.5 cm lesion in the posterior right lobe; fluid-filled appendix indicating acute appendicitis; no signs of perforation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

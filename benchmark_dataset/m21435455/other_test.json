@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT-guided biopsy",
+            "date": "Not specified",
+            "findings": "Attempted to do CT-guided bx but pt was too large for interventional procedure in the scanner.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EUS",
+            "date": "Not specified",
+            "findings": "Referred to here for further workup mgmt and EUS.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

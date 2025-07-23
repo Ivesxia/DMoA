@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic, suggestive of fatty infiltration. The gallbladder contains several stones which are lodged in the fundus. There is no sonographic ___ sign. No pericholecystic fluid or gallbladder wall thickening is seen. The visualized portions of the pancreas are unremarkable. The common duct is not dilated and measures 0.3 cm in diameter. No free fluid seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

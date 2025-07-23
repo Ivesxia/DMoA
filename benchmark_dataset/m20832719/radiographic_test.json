@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT CHEST W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild asymmetry of the thyroid; no pathologically enlarged mediastinal, hilar, or axillary lymph nodes; lungs are clear; no pleural or pericardial fluid or pneumothorax; no pulmonary nodules seen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN WITH IV CONTRAST",
+            "date": "Not specified",
+            "findings": "Numerous ill-defined hypodense lesions within the liver; small hypodensity in the right kidney likely a cyst; gallstones demonstrated; normal stomach and bowel; no abdominal pathologic lymphadenopathy, free air, or free fluid; sutures seen in the right lower quadrant; apparent seroma in the midline.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

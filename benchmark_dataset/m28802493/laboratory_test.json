@@ -1,0 +1,73 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung_fields": "within normal limits",
+                "pleural_or_pericardial_effusion": "no evidence",
+                "liver": {
+                    "attenuation": "homogenous",
+                    "focal_lesions": "no evidence",
+                    "biliary_dilatation": "no evidence",
+                    "gallbladder": "within normal limits"
+                },
+                "pancreas": {
+                    "attenuation": "normal",
+                    "focal_lesions": "no evidence",
+                    "pancreatic_duct": "no dilatation",
+                    "peripancreatic_stranding": "no evidence"
+                },
+                "spleen": {
+                    "size": "normal",
+                    "attenuation": "normal",
+                    "focal_lesions": "no evidence"
+                },
+                "adrenals": "normal",
+                "kidneys": {
+                    "size": "normal and symmetric",
+                    "nephrogram": "normal",
+                    "focal_lesions": "no evidence",
+                    "hydronephrosis": "no evidence",
+                    "perinephric_abnormality": "no evidence"
+                },
+                "stomach": "unremarkable",
+                "small_bowel": "normal caliber, wall thickness, and enhancement",
+                "colon_and_rectum": "within normal limits",
+                "appendix": {
+                    "state": "fluid-filled, hyperemic, and dilated to 1.5 cm",
+                    "appendicolith": {
+                        "size": "0.8 cm",
+                        "location": "proximal appendix"
+                    },
+                    "periappendiceal_fat_stranding": "moderate",
+                    "perforation": "no evidence"
+                },
+                "bladder_and_distal_ureters": "unremarkable",
+                "free_fluid": "small volume within pelvis",
+                "right_ovary_cyst": {
+                    "size": "3.8 x 3.1 cm",
+                    "adjacent_cyst_size": "1.5 x 1.1 cm"
+                },
+                "left_adnexa": "unremarkable",
+                "lymph_nodes": "no evidence of lymphadenopathy",
+                "abdominal_aortic_aneurysm": "no evidence",
+                "atherosclerotic_disease": "not noted",
+                "proximal_right_femur": "sclerotic focus likely a bone island",
+                "soft_tissues": "within normal limits"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mixed Bacterial Flora Test",
+            "date": "Not specified",
+            "findings": {
+                "flora_type": "Mixed Bacterial Flora (>= 3 colony types)",
+                "contamination": "consistent with skin and/or genital contamination",
+                "result_value": "8.2 mg/dL",
+                "ref_range": "8.4 - 10.3 mg/dL"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

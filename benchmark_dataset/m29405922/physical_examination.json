@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "104 bpm",
+                "blood_pressure": "149/81 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Mildly jaundiced, no acute distress",
+                "abdominal": "Moderately distended abdomen, soft, tenderness to RUQ, no guarding",
+                "cardiac": "Regular rate and rhythm, no murmurs",
+                "lung": "Clear to auscultation bilaterally",
+                "neurological": "Cranial nerves III-XII intact, no asterixis"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "75 bpm",
+                "blood_pressure": "116/78 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "95% on room air"
+            },
+            "relevant_findings": "Abdomen noted to be distended with a large healed incision from previous cholecystectomy.",
+            "changes_over_time": "There is an increase in abdominal distension reported by the patient over the past year."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

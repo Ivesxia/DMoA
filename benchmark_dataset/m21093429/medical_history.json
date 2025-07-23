@@ -1,0 +1,17 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain and poor appetite",
+        "history_of_present_illness": "Symptoms began about 7 days ago in the epigastric region, initially thought to be heartburn, but not relieved by omeprazole. Pain became more diffuse overnight, accompanied by nausea. Chills noted each night, with a poor appetite and last meal 24 hours ago. No bowel movement for two days.",
+        "past_medical_history": [
+            "Bilateral lower extremity edema",
+            "Class 2 tuberculosis",
+            "Helicobacter pylori infection",
+            "Sickle cell trait",
+            "Thyroid nodule",
+            "Umbilical hernia",
+            "Tinea pedis"
+        ],
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

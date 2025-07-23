@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated and hyperemic measuring 12 mm with surrounding stranding and a small amount of fluid in the right lower quadrant consistent with acute appendicitis. There is no definite evidence of perforation. Multiple hepatic hypodensities are too small to characterize but most likely cysts. The kidneys enhance and excrete contrast symmetrically. There is dilation of the right renal pelvis and minimal blunting of the calyces which may be due to a ureteropelvic junction obstruction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lab values",
+            "date": "Not specified",
+            "findings": "1.6 mmol/L, within normal range (ref range: 0.5 - 2.0).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The fluid-containing appendix is mildly dilated, measuring up to 9 mm, and appendicoliths are seen at the base and near the tip. Trace fluid is seen near the tip. Mildly heterogeneous enhancement is seen in the posterior aspect of the right hepatic lobe, which may be associated with fatty infiltration. Otherwise, the liver demonstrates homogenous attenuation throughout. There is no evidence of focal lesions. The kidneys are of normal and symmetric size with normal nephrogram. There is no evidence of focal renal lesions or hydronephrosis. All other examined organs appear unremarkable or within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

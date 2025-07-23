@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right flank pain",
+        "history_of_present_illness": "The pain started 4 days ago, occurring acutely and sharp in nature after eating. It decreased after ingesting sips of water and flat ginger ale over the next three days. However, after eating toast yesterday evening, the pain returned with increased severity. The patient has experienced diarrhea since the onset of the pain.",
+        "past_medical_history": "Hypothyroidism, hypertension, osteopenia, asthma; surgical history includes open hysterectomy, right oophorectomy, appendectomy, carpal tunnel release, bilateral hip and knee replacements.",
+        "family_history": "Mother with history of biliary disease.",
+        "social_history": "Not specified."
+    }
+}

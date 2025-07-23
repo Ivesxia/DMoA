@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Multiloculated cystic mass arising from the tail of the pancreas measuring approximately 5.3 x 4.7 x 4.3 cm with moderate fat stranding adjacent to this lesion. Bibasilar, left greater than right atelectasis mild. No pleural effusion.",
+            "changes_over_time": "Increased in size from 3.2 x 2 x 2.3 cm previously to 5.3 x 4.7 x 4.3 cm. Moderate fat stranding adjacent to the lesion and pancreatic tail parenchyma is new."
+        },
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4 (101.4 on presentation)",
+                "blood_pressure": "103/66 mmHg",
+                "heart_rate": "95 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "96% RA"
+            },
+            "relevant_findings": {
+                "HEENT": "NC/AT",
+                "CV": "RRR, no mrg, nl S1+S2",
+                "PULM": "CTAB anteriorly",
+                "abdominal_examination": "Symmetric on inspection, no surgical scars. Bellybutton ring in place. Soft, non-distended. Tender to palpation on right, particularly focal tenderness over RLQ. No shake tenderness.",
+                "MSK": "Moving all extremities normally.",
+                "NEURO": "A/Ox3"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

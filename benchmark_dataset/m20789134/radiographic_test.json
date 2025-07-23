@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ABDOMEN (SUPINE & ERECT)",
+            "date": "Not specified",
+            "findings": "The stomach is considerably less distended as compared to the abdominal radiograph on ___. An NG tube is seen in the stomach. There are multiple loops of dilated small bowel consistent with ileus. Small bowel obstruction cannot be completely ruled out. There is no evidence of free air. The surgical drain is seen in place in the right lower quadrant.",
+            "changes_over_time": "The stomach is considerably less distended as compared to the abdominal radiograph on ___."
+        }
+    ]
+}

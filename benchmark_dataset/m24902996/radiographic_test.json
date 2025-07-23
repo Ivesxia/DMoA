@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Liver appears within normal limits, no focal liver mass, patent main portal vein with hepatopetal flow, no ascites; no intrahepatic biliary dilation; non-mobile shadowing gallstone in gallbladder neck measuring up to 2.3 cm, associated gallbladder distention, minimal gallbladder wall edema, no associated pericholecystic fluid; pancreas not well visualized; no hydronephrosis in right kidney.",
+            "changes_over_time": "Minimal gallbladder wall edema, less pronounced than on the recent CT."
+        }
+    ]
+}

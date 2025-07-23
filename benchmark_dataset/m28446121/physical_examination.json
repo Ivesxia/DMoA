@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2°F",
+                "blood_pressure": "136/72 mmHg",
+                "heart_rate": "86 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "95% on RA"
+            },
+            "relevant_findings": {
+                "general": "Elderly female lying in bed, alert and oriented x3, no acute distress.",
+                "HEENT": "PERRLA, moist mucous membranes, no lymphadenopathy, no jugular venous distention, neck supple.",
+                "cardiovascular": "Point of maximal impulse palpable at unspecified intercostal space, no right ventricular hypertrophy, regular rate and rhythm, normal S1/S2, no murmurs, gallops or rubs.",
+                "pulmonary": "Clear to auscultation bilaterally, no crackles or wheezes.",
+                "abdominal": "Soft, tenderness to palpation in epigastrium, positive bowel sounds, no guarding or rebound tenderness, negative hepatosplenomegaly, positive Murphy's sign.",
+                "extremities": "Warm, well-perfused, no edema, dorsalis pedis and posterior tibial pulses 2+.",
+                "skin": "No rashes."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.8°F",
+                "blood_pressure": "167/70 mmHg",
+                "heart_rate": "93 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% on RA"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

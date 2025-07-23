@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "blood_pressure": "137/70 mmHg",
+                "heart_rate": "89 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "95%",
+                "oxygen_delivery": "Room Air"
+            },
+            "relevant_findings": {
+                "general": "No Acute Distress lying in bed.",
+                "HEENT": "Icteric sclera, dry oral mucous membranes, sublingual pallor, and jaundice.",
+                "cardiovascular": "2+ radial and DP pulses, 1+ pitting edema of the right foot, no significant edema of the left foot.",
+                "chest": "Crackles heard at bilateral bases.",
+                "abdominal": "Mildly distended, soft and tender to moderate palpation in epigastrium and LUQ, tender to percussion over epigastrium.",
+                "skin": "Pale and very slight jaundice.",
+                "neurological": "Awake, alert, conversant, normal attention and good recall, absent asterixis, limited fine-motor control of bilateral hands."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

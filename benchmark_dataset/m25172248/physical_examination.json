@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "108 bpm",
+                "blood_pressure": "137/85 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress.",
+                "HEENT": "No scleral icterus, mucous membranes moist.",
+                "abdomen": "Soft, nondistended. Tender to superficial and deep palpation in the RLQ, with guarding. No rebound, normoactive bowel sounds, no palpable masses."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

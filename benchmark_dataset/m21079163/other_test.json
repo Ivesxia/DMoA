@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Vascular Surgery Evaluation",
+            "date": "Not specified",
+            "findings": "Pain, blistering, and skin discoloration of second toe concerning for ischemia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Scrotal Ultrasound",
+            "date": "Not specified",
+            "findings": "Testes are slightly heterogeneous bilaterally. No focal abnormalities. Multiple epididymal head cysts are visualized bilaterally.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

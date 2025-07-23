@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC 11.3, which is outside normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver function tests",
+            "date": "Not specified",
+            "findings": "LFTs wnl (within normal limits).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound - Liver or Gallbladder",
+            "date": "Not specified",
+            "findings": "Cholelithiasis without gallbladder wall thickening; CBD diameter 6mm; liver appears within normal limits; no focal liver mass.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "2.5 mg/dL with mixed bacterial flora (>= 3 colony types), consistent with skin and/or genital contamination.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

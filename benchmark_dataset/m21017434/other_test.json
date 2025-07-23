@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified.",
+            "findings": "The liver is of normal signal on T1 and T2 weighted imaging, with no signal drop-off on out of phase imaging to suggest fatty deposition. Three small high T2 signal lesions consistent with simple cysts are noted within the liver. The largest measures 15 mm in segment 2. No suspicious liver lesions or abnormal enhancement. The portal and hepatic veins enhance normally. The CBD measures 5 mm with sludge and probable tiny calculi within the gallbladder. The gallbladder wall is thickened and edematous. No evidence of acute pancreatitis; multiple small cystic lesions within the pancreas likely represent small intraductal pancreatic mucinous neoplasms (IPMN). No suspicious pancreatic lesion. The kidneys enhance normally with simple cysts noted bilaterally. Two foci of pleural thickening are noted at the right lung base with atelectasis at the left base.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Illumigene DNA amplification assay",
+            "date": "Not specified.",
+            "findings": "Negative for toxigenic C. difficile.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

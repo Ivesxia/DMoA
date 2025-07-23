@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The CT scan shows wall thickening and fat stranding along a short segment of sigmoid colon within the left lower quadrant in the region of multiple diverticula. Mild intrahepatic and common bile duct dilation likely secondary to post cholecystectomy changes. The liver enhances homogeneously without focal lesions. No drainable fluid collections and the appendix is normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

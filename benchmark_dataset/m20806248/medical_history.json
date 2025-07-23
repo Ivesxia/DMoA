@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute on chronic worsening pain and weakness of bilateral lower extremities.",
+        "history_of_present_illness": "The patient presents with a 2 week history of worsening symptoms. Initially, weakness and pain, attributed to diabetic neuropathy, have been present for almost ___ years, worse in the left leg compared to the right. Recently, symptoms have worsened with increased leg swelling, worsening pain in the medial lower legs bilaterally, numbness in the bilateral feet, and now an inability to move the left foot.",
+        "past_medical_history": "c-ANCA vasculitis with alveolar hemorrhage and renal involvement (RPGN), CAD with MI x2, cardiomyopathy, hyperlipidemia, diverticulitis, recent lower GI bleed, IDDM, hypertension, rheumatoid arthritis vs PMR.",
+        "family_history": "Father died of MI in his ___. Mother is healthy.",
+        "social_history": "Not specified."
+    }
+}

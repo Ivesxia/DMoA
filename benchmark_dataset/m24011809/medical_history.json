@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain, nausea, and overall malaise.",
+        "history_of_present_illness": "The patient presents with ___ days of abdominal pain, nausea, and malaise. Symptoms began to deteriorate after initial improvement following treatment for presumed diverticulitis. There was an increase in WBC count on repeat evaluation today, leading to ED admission. The patient reports ongoing nausea with dry heaving, diarrhea (liquid, orange in color) three times a day since starting antibiotics.",
+        "past_medical_history": "Hypertension, Migraines, Obesity, Basal cell carcinoma s/p Mohs.",
+        "family_history": "Mother - Diabetes Mellitus, Father - Chronic Obstructive Pulmonary Disease, Sister - brain aneurysm age ___, Sister - Hypertension, CVA, melanoma, Brother - Diabetes Mellitus, Daughter - asthma.",
+        "social_history": "Not specified."
+    }
+}

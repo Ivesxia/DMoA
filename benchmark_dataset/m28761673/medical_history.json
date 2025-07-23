@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain and diarrhea.",
+        "history_of_present_illness": "The patient has been experiencing chronic bilateral lower quadrant abdominal pain for months. Over the last 3 days, she reports worsened left lower quadrant pain that is sharp, constant, and unaffected by food. She also has intermittent loose stools (non-bloody) with occasional constipation. Mild intermittent nausea has been noted.",
+        "past_medical_history": "Chronic graft versus host disease manifesting as joint aches and increased liver transaminases; pulmonary embolus; recurrent DVT; sacral insufficiency fracture; L5 compression fracture; multiple disc herniations; past history of herpes zoster; latent TB with past treatment; gastric ulcers.",
+        "family_history": "Leukemia (brother), esophageal cancer (father)",
+        "social_history": "Not specified."
+    }
+}

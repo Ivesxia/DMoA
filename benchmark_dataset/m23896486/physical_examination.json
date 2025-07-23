@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "59 bpm",
+                "blood_pressure": "129/61 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "Normal",
+                "HEENT": "Normal",
+                "chest": "Normal",
+                "cardiovascular": "Normal",
+                "abdominal": "Soft, Nondistended, RLQ abdominal pain",
+                "extremities": "Normal",
+                "skin": "Normal",
+                "neurological": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

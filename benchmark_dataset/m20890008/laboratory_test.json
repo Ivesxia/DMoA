@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The abdominal CT showed a dilated, hyperdense structure in the right lower quadrant that is likely the appendix, measuring up to 9 mm, demonstrating mucosal hyperenhancement and wall thickening with adjacent inflammatory changes. Enlarged lymph nodes measuring 1.4 and 1.8 cm with surrounding inflammatory changes were also noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

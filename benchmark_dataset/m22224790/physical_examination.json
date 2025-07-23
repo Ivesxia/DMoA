@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "75 bpm",
+                "blood_pressure": "111/56 mmHg",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "NAD",
+                "HEENT": "sclera anicteric",
+                "cardiovascular": "RRR, no m/c/r",
+                "pulmonary": "CTAB, no wheezing/crackles",
+                "abdominal": "soft, gravid, mild TTP at epigastrium, no rebound/guarding, negative ___ sign, no lower abdominal tenderness",
+                "extremities": "pulses 2+, symmetric ___ edema",
+                "EKG": "normal sinus rhythm, NA/NI, no ST changes"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

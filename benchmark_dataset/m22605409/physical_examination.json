@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Temperature": "98.6°F",
+                "Blood Pressure": "120/75 mmHg",
+                "Heart Rate": "74 bpm",
+                "Respiratory Rate": "22 breaths/min",
+                "O2 saturation": "99% on 2L O2"
+            },
+            "relevant_findings": {
+                "General": "Agitated with mild full body shakes, but able to answer questions.",
+                "HEENT": "PERRL, EOMI. No scleral icterus or conjunctival injection. Mucous membranes moist. No oral ulcers.",
+                "Neck": "Supple, no lymphadenopathy, no JVP elevation.",
+                "Lungs": "Poor effort but clear; no crackles, mild expiratory wheezing.",
+                "Cardiovascular": "Regular rate and rhythm, no murmurs, rubs, or gallops.",
+                "Abdomen": "Soft/obese, diffuse tenderness to palpation (possible greatest in epigastrium), urostomy intact with clear output, no distension, normal bowel sounds.",
+                "Extremities": "Warm and well perfused, with trace bilateral edema.",
+                "Neurological": "Minimal strength below waist (no change), not completely cooperative due to agitation but able to answer questions fluently.",
+                "GU": "Uterine prolapse observed, no bleeding.",
+                "Psychiatric": "Agitated."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

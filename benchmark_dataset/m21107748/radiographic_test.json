@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is echogenic, denoting fatty infiltration. There is mild sparing near the gallbladder fossa. There is no focal intrahepatic lesion or intrahepatic bile duct dilation. The main portal vein is patent, demonstrating proper hepatopetal flow. The CBD is not distended, measuring 6 mm. The gallbladder is distended, containing an immobile 2.5 cm stone. The gallbladder wall is slightly thickened and there is a small amount of pericholecystic fluid. The gallbladder wall is also irregular near the fundus concerning for ulceration. Mild focal tenderness is present. Limited views of the pancreatic body are within normal limits, but the pancreas is not entirely visualized. There is no free fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT A/P",
+            "date": "Not specified",
+            "findings": "Thickened gallbladder with pericholecystic fluid and a large stone in the neck.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

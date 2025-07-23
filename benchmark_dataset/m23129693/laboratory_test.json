@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC 12.3 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total Bilirubin",
+            "date": "Not specified",
+            "findings": "Tbili 2.5 (Dbili 0.4, elevated total bilirubin, direct bilirubin normal)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Estimated GFR",
+            "date": "Not specified",
+            "findings": "eGFR likely >75 mL/min/1.73 m² based on serum creatinine value of 0.7",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Gallbladder wall severely thickened with marked mural irregularity, areas of mural non-enhancement and mural ulceration; absence of intra or extrahepatic biliary duct dilation.",
+            "changes_over_time": "Mild compression deformity of T12 is unchanged."
+        }
+    ]
+}

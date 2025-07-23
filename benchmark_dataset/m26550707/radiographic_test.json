@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Linear opacification at the bilateral lung bases consistent with atelectasis/scarring, faint ground-glass opacification at the posterior right base suggestive of minimal aspiration, no pleural effusion, small hiatal hernia, focal inflammatory stranding surrounding the uncinate process of the pancreas, unremarkable remainder of the pancreas, no venous thrombosis, aneurysm or pseudocyst formation, normal liver and gallbladder, previously seen stones not appreciated, left renal cyst unchanged, bilateral kidneys atrophic, moderate amount of intraperitoneal free fluid, unchanged appearance of transplant kidney.",
+            "changes_over_time": "Bilateral adrenal glands appear normal, and multiple compression deformities at the T7, T9, T11 and T12 vertebral bodies appear unchanged."
+        }
+    ]
+}

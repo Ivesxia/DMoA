@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "95.2°F",
+                "blood_pressure": "150/89 mmHg",
+                "heart_rate": "80 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "Pale male, no acute distress, breathing comfortably on room air",
+                "HEENT": "PERRL, EOMI, anicteric sclera",
+                "neck": "Supple, trachea midline, no lymphadenopathy",
+                "cardiac": "Regular rate and rhythm, S1S2 normal, no JVD",
+                "pulmonary": "Clear to auscultation bilaterally anteriorly",
+                "abdomen": "Positive bowel sounds, soft, tender to palpation at epigastrum, no tenderness over transplant site in right lower quadrant, nondistended",
+                "extremities": "Warm, 2+ dorsalis pedis pulses, 1+ left lower extremity edema, 2+ right lower extremity edema",
+                "neurological": "Alert and oriented x3, moves all extremities"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "ultrasound": "The transplanted kidney in the right lower quadrant measures 11.7 cm with stable mild hydronephrosis. There is a small amount of perinephric fluid; however, there is also ascites in all four quadrants. Thickening of the bladder wall is unchanged.",
+                "doppler examination": "Normal arterial and venous waveforms in the main renal artery and vein. Resistive indices within the upper, mid and lower poles are 0.78, 0.83 and 0.79 respectively, which are elevated compared to the prior exam."
+            },
+            "changes_over_time": "Resistive indices increased compared to the prior exam."
+        }
+    ]
+}

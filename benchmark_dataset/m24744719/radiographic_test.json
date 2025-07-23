@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Lung bases are clear. The liver enhances homogenously without focal lesions. No intrahepatic biliary dilation, gallbladder unremarkable without stones. Patent portal vein. Normal spleen, pancreas, adrenal glands. Kidneys excrete contrast promptly and symmetrically without focal lesions. No hydronephrosis. Stomach, duodenum and small bowel within normal limits without wall thickening or obstruction. Appendix is dilated, hyperemic, measuring up to 7 mm with a small amount of adjacent fat stranding, without fluid collection. Colon is within normal limits. Intra-abdominal vasculature is unremarkable. No retroperitoneal or mesenteric lymph node enlargement. No ascites or free air. No abdominal wall hernias. Pelvic CT shows normal urinary bladder and terminal ureters, physiologic cysts in the left ovary, and a small amount of mildly complex free fluid in the cul-de-sac. Uterus is unremarkable. No pelvic wall or inguinal lymph node enlargement. No concerning blastic or lytic lesions in osseous structures.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

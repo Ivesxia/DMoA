@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "147/84 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "Laying in bed, peripheral IV in right arm",
+                "HEENT": "Normocephalic, atraumatic, pupils equal, round and reactive to light, extraocular muscles intact",
+                "chest": "Clear to posterior auscultation",
+                "cardiovascular": "Normal S1, S2, regular rate and rhythm, no murmurs, rubs, or gallops",
+                "abdominal": "Well healed surgical scars consistent with prior abdominal surgeries, mild epigastric and RUQ tenderness to palpation, abdomen otherwise non-tender to light and deep palpation, no rebound or guarding, negative ___ sign",
+                "extremities": "No cyanosis, clubbing or edema",
+                "skin": "No rash, abdominal surgical scars as noted above",
+                "neurological": "Speech fluent, nonfocal, moving all four extremities with purpose"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

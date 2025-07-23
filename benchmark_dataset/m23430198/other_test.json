@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EKG",
+            "date": "Not specified",
+            "findings": "Sinus rhythm at 87 bpm, left ventricular hypertrophy (LVH) with nonspecific ST changes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "Normal liver echogenicity, no intrahepatic biliary duct dilatation, patent portal vein with hepatopetal flow, normal gallbladder with gallstones, common bile duct measures 5 mm, 2 small liver cysts (9 mm and 8 mm), unremarkable right kidney, homogeneous spleen measuring 12 cm, unremarkable pancreas, no peripancreatic fluid collections.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

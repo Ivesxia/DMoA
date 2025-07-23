@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.4°F",
+                "heart_rate": "93 bpm",
+                "blood_pressure": "134/75 mmHg",
+                "respiratory_rate": "17 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "jaundice": "Present",
+                "scleral_icterus": "Present",
+                "lungs": "Clear to auscultation bilaterally",
+                "heart": "Regular rate and rhythm",
+                "abdominal_exam": {
+                    "soft": "Present",
+                    "non-tender": "Present",
+                    "normal_decreased": "Not stated",
+                    "bowel_sounds": "Present"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

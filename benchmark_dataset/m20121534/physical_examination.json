@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "94 bpm",
+                "blood_pressure": "123/96 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing young woman in no acute distress. Alert, oriented.",
+                "HEENT": "No scleral icterus. Mucous membranes dry.",
+                "cardiovascular": "Regular rate and rhythm.",
+                "pulmonary": "Clear to auscultation bilaterally.",
+                "abdominal": "Soft, nondistended. Mild to moderate tenderness in right upper quadrant and epigastrium. No rebound or guarding. No costovertebral angle tenderness.",
+                "extremities": "Warm with trace edema."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "VSS",
+            "relevant_findings": "General: well-appearing, NAD; HEENT: PERRL, EOMI, sclera anicteric, moist mucus membranes; Cardiac: RRR; Chest: CTAB; Abdomen: soft, ttp in RLQ without rebound or guarding, nondistended; Ext: WWP, no edema.",
+            "changes_over_time": "Degree of inflammatory changes in the right lower quadrant have improved compared to prior CT."
+        }
+    ]
+}

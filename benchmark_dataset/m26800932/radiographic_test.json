@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in echogenicity, without focal lesions. A 1.3 cm anechoic cyst is seen within the dome of the right lobe of the liver. There is no intrahepatic biliary ductal dilatation. The common bile duct is normal in caliber measuring 5 mm. Hepatopetal flow is seen within the main portal vein. The gallbladder is filled with mobile echogenic shadowing stones. The gallbladder wall is normal in thickness, there is no pericholecystic fluid. Limited images of the right kidney demonstrate no hydronephrosis or stones. The visualized head and body of the pancreas appear normal, there is no pancreatic ductal dilatation. The common bile duct tapers normally, without evidence of filling defects. Sonographic ___ sign is negative.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

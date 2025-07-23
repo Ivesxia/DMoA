@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Prominence of the portal triads is seen. No focal intrahepatic lesion is identified. There is no evidence of intrahepatic biliary duct dilatation. The portal vein is patent and shows normal hepatopetal flow. There are multiple small stones within the gallbladder, some of which are stuck within the gallbladder neck, some of which are mobile, and some of which are adherent to the gallbladder wall. There is no gallbladder wall thickening or pericholecystic fluid. The common bile duct is top normal to minimally dilated, measuring 6 mm. The pancreas is not well visualized secondary to overlying bowel gas. There is no perihepatic ascites.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endoscopic sphincterotomy and papillotomy",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

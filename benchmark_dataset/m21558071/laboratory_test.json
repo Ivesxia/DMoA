@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC 13.4 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 97 (normal)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Distended gallbladder with wall thickening, pericholecystic fluid, surrounding fat stranding, multiple gallstones, and hyperemia of the adjacent liver parenchyma.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

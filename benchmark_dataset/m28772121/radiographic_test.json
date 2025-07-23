@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in size and echotexture with no focal liver lesions. The gallbladder is completely filled with shadowing stones. The common bile duct measures 7 mm proximally and then dilates focally to 9 mm in diameter as it exits the liver, with a non-shadowing echogenic structure within the duct, possibly representing a stone or biliary sludge. The portal vein is patent with hepatopetal flow. There is no ascites. Limited views of the proximal pancreas are unremarkable. The visualized abdominal aorta and inferior vena cava appear normal. The spleen is without focal lesion and measures 10.2 cm in length. Limited views of the bilateral kidneys show no stones, hydronephrosis, or masses.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

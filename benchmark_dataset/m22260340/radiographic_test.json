@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "Upright PA and lateral views of the chest show tiny bilateral pleural effusions. Cardiac silhouette is enlarged but unchanged from prior. There is extreme scoliosis. Low left lung volumes consistent with previous left lobectomy. Flattened diaphragms. No pneumothorax or area of focal consolidation. Surgical clips are seen throughout the left hemithorax and abdomen.",
+            "changes_over_time": "Cardiac silhouette is enlarged but unchanged from prior."
+        }
+    ]
+}

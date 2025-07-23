@@ -1,0 +1,17 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "General": "NAD",
+                "HEENT": "Normocephalic, EOMI, PERRLA",
+                "Pulmonary": "Clear to auscultation bilaterally, no respiratory distress",
+                "Cardiac": "RRR, normal S1 and S2",
+                "Abdomen": "Soft, non-distended, mildly tender to palpation in epigastric region. No rebound or guarding.",
+                "Extremities": "Warm and well perfused without edema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

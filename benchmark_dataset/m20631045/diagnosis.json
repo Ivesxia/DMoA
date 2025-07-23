@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis",
+        "differential_diagnosis": "Cholelithiasis, Gallbladder disease",
+        "diagnostic_reasoning": "The patient presented with right upper quadrant pain, elevated white blood cell count, and imaging findings showing a dilated appendix (11 mm) with fat stranding and possible appendicoliths, suggesting appendicitis. Cholelithiasis was also noted during the ultrasound, but the clinical picture pointed more towards appendicitis as the primary concern."
+    }
+}

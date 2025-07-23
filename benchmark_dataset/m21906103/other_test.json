@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopy (EGD)",
+            "date": "Not specified",
+            "findings": "Mucosal thickening of the distal esophagus compatible with esophagitis, similar in appearance to the prior study.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT abdomen and pelvis with contrast",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits. There is mucosal thickening of the distal esophagus compatible with esophagitis. Minimal stranding in the left lower quadrant compatible with uncomplicated diverticulosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Disimpaction",
+            "date": "Not specified",
+            "findings": "Productive of thick stool without pellets.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

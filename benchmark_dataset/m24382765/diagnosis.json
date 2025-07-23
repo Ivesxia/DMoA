@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "cholecystitis",
+        "differential_diagnosis": "Acute appendicitis without mention of peritonitis",
+        "diagnostic_reasoning": "The patient presented with right-sided abdominal pain lasting for 4 days, with gradual onset and moderate severity. Imaging studies revealed a distended gallbladder with sludge and the presence of pericholecystic fluid, but no gallstones or biliary duct dilation, suggesting cholecystitis as the likely diagnosis."
+    }
+}

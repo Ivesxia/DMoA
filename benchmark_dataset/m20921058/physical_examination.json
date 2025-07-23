@@ -1,0 +1,19 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2°F",
+                "heart_rate": "124 bpm",
+                "blood_pressure": "124/67 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "mental_status": "AAOx3",
+                "abdominal_examination": "Very tender in RLQ to mild palpation, soft, no diffuse tenderness, no edema, extremities warm."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

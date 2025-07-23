@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Troponin Test",
+            "date": "Not specified",
+            "findings": "Troponin was 7.8. Later, Trop was 0.62.",
+            "changes_over_time": "The troponin levels decreased from 7.8 to 0.62."
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "The ECG had no ischemic changes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Central Venous Catheter Placement",
+            "date": "Not specified",
+            "findings": "The right PICC fails to enter the SVC and crosses the midline, coming to rest in the left brachiocephalic vein.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Diffuse nodular opacification of bilateral lung fields consistent with interstitial pulmonary edema, with more prominent alveolar component and bilateral pleural effusions. Atelectasis noted in the left hemithorax.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CSF Test",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA. (Reference Range-Negative).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

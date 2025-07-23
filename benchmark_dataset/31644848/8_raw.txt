@@ -1,0 +1,88 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "emtricitabine and tenofovir disoproxil fumarate",
+      "start_date": "2019-06-01",  // Presumed as the patient's initial visit on pregnancy confirmation
+      "end_date": "Not specified",
+      "dosage_or_details": "Pre-exposure prophylaxis",
+      "treatment_response": "Negative for HIV-1 and HIV-2 antibodies and p24 antigen"
+    },
+    {
+      "treatment_type": "monitoring",
+      "specific_treatment": "dietary modifications, exercise, and fingerstick glucose monitoring",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "For updated management of gestational diabetes",
+      "treatment_response": "Not specified"
+    },
+    {
+      "treatment_type": "surgery",
+      "specific_treatment": "Cesarean section",
+      "start_date": "2019-10-24",
+      "end_date": "2019-10-24",
+      "dosage_or_details": "Under combined spinal-epidural anesthesia",
+      "treatment_response": "Post-surgery complications including cardiac arrest and hemorrhage"
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "Cefazolin",
+      "start_date": "2019-10-24",
+      "end_date": "Not specified",
+      "dosage_or_details": "Administered intravenously before incision",
+      "treatment_response": "Not specified"
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "tranexamic acid",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Antifibrinolytic agent",
+      "treatment_response": "Received as part of blood loss management"
+    },
+    {
+      "treatment_type": "blood products",
+      "specific_treatment": "packed red cells, fresh-frozen plasma, platelets, and cryoprecipitate",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "15 units of packed red cells, 15 units of fresh-frozen plasma, 18 units of platelets, 600 ml of cryoprecipitate",
+      "treatment_response": "Laboratory values began to normalize after treatment"
+    },
+    {
+      "treatment_type": "supportive care",
+      "specific_treatment": "Inotropic agents and inhaled nitric oxide",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Used to manage right ventricular failure and improve cardiac output",
+      "treatment_response": "Improved right ventricular function observed"
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2019-06-01",
+      "event": "Prescribed pre-exposure prophylaxis for HIV"
+    },
+    {
+      "date": "2019-10-24",
+      "event": "Scheduled cesarean delivery after complications including vaginal bleeding"
+    },
+    {
+      "date": "2019-10-24",
+      "event": "Administered cefazolin before cesarean section"
+    },
+    {
+      "date": "2019-10-24",
+      "event": "Underwent cesarean section; complications included cardiac arrest"
+    },
+    {
+      "date": "2019-10-24",
+      "event": "Received packed red cells, fresh-frozen plasma, platelets, and cryoprecipitate due to hemorrhage"
+    },
+    {
+      "date": "2019-10-24",
+      "event": "Initiated supportive care with inotropic agents and inhaled nitric oxide"
+    }
+  ]
+}
+```

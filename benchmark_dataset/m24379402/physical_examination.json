@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "152/98 mmHg",
+                "heart_rate": "86 bpm",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "CV": "RRR, No M/G/R",
+                "pulmonary": "Clear to auscultation b/l, No W/R/R",
+                "abdominal": "Soft, nondistended, tender RUQ, no rebound or guarding, no palpable masses, well healed prior incisions",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

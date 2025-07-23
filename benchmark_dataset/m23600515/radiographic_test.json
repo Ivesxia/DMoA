@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild subsegmental atelectasis in the lung bases, unremarkable liver, spleen, pancreas, adrenal glands, and kidneys. Pancolonic diverticulosis with focal microperforation in the descending colon posteriorly, adjacent loculated extraluminal gas. No nephrolithiasis, hydronephrosis, focal abscess, or free air elsewhere in the abdomen. Unremarkable rectum, sigmoid colon, and bladder.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

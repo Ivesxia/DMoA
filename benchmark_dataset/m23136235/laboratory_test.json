@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver demonstrates normal echotexture, without focal lesions. There is no intra- or extra-hepatic biliary dilatation. The common bile duct is normal, measuring 3 mm. Multiple small gallstones are seen in a contracted gallbladder. There is no evidence of gallbladder wall thickening or pericholecystic fluid to suggest acute cholecystitis. The imaged portion of the head and body of the pancreas are normal. The main portal vein has normal hepatopetal flow.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CBC or similar inflammatory marker test",
+            "date": "Not specified",
+            "findings": "1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

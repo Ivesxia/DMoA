@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with acute onset abdominal pain that started periumbilical and migrated to the right lower quadrant (RLQ). Physical examination revealed tenderness in the RLQ with positive Rovsing's sign. A CT scan of the abdomen and pelvis showed a dilated and thickened appendix measuring 1 cm with adjacent fat stranding, consistent with acute appendicitis."
+    }
+}

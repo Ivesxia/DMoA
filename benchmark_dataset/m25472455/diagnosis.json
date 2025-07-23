@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with sharp, severe mid-abdominal pain that shifted to the right lower quadrant, consistent with appendicitis. A CT scan showed a dilated fluid-filled appendix with surrounding fluid and stranding, confirming the diagnosis."
+    }
+}

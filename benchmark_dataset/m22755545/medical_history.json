@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain, nausea, vomiting",
+        "history_of_present_illness": "Symptoms began suddenly at 5am with epigastric pain described as feeling like a blunt hammer, developing into sharp pain with point tenderness. Two hours later, nausea developed, leading to nonbloody, nonbilious vomiting of undigested food. The patient experienced diaphoresis and persistent abdominal pain despite treatment.",
+        "past_medical_history": "Hypertension, Diabetes Mellitus, history of squamous cell cancers, basal cell carcinoma, actinic keratoses, right eye cataract surgery, high PSA (last biopsied negative), history of arthroscopic knee surgery.",
+        "family_history": "Sister with melanoma",
+        "social_history": "Consumed 1.5 glasses of wine the night before onset of symptoms. No smoking or drug use specified. Occupation and living conditions not specified."
+    }
+}

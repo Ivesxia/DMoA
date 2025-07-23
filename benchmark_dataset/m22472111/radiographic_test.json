@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "RUQ with pericholecystitic and gallbladder wall thickening. Distended gallbladder with wall edema. No intrahepatic biliary dilation. No focal liver mass. No ascites.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "Right central venous catheter terminates in the lower SVC. No pneumothorax.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

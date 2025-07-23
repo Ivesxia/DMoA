@@ -1,0 +1,24 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lungs": "Visualized lung fields are within normal limits. There is no evidence of pleural or pericardial effusion.",
+                "liver": "The liver demonstrates homogenous attenuation throughout. Tiny hypodensity in the right lobe of the liver is too small to characterize. No evidence of intrahepatic or extrahepatic biliary dilatation. The gallbladder is within normal limits.",
+                "pancreas": "The pancreas has normal attenuation throughout, without evidence of focal lesions or pancreatic ductal dilatation. No peripancreatic stranding.",
+                "spleen": "The spleen is enlarged measuring up to 14.1 cm in craniocaudal dimension. Demonstrates normal attenuation throughout, without evidence of focal lesions.",
+                "adrenals": "The right and left adrenal glands are normal in size and shape.",
+                "kidneys": "The kidneys are of normal and symmetric size with normal nephrogram. No evidence of solid renal lesions or hydronephrosis. No perinephric abnormality.",
+                "gastrointestinal": "Tiny hiatal hernia. The stomach is unremarkable. Small bowel loops demonstrate normal caliber, wall thickness, and enhancement throughout. The colon and rectum are within normal limits. The appendix is fluid-filled and measures up to 10 mm with a hyperemic and thickened wall with surrounding fat stranding. No extraluminal air or free fluid.",
+                "pelvis": "The urinary bladder and distal ureters are unremarkable. There is no free fluid in the pelvis.",
+                "reproductive_organs": "The prostate and seminal vesicles are grossly unremarkable.",
+                "lymph_nodes": "There is no retroperitoneal or mesenteric lymphadenopathy. No pelvic or inguinal lymphadenopathy.",
+                "vascular": "There is no abdominal aortic aneurysm. No atherosclerotic disease is noted.",
+                "bones": "There is no evidence of worrisome osseous lesions or acute fracture. Bone island in the left proximal femur.",
+                "soft_tissues": "The abdominal and pelvic wall is within normal limits."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

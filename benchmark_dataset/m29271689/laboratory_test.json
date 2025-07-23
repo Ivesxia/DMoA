@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase elevated to 1147 U/L (normal range unspecified).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Electrolytes",
+            "date": "Not specified",
+            "findings": "WNL (within normal limits).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver Function Tests (LFTs)",
+            "date": "Not specified",
+            "findings": "WNL (within normal limits).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "Hb 16.2 g/dL, WBC 11.7 x10^9/L (normal range unspecified).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRCP (Magnetic Resonance Cholangiopancreatography)",
+            "date": "Not specified",
+            "findings": "Mild edema within the pancreatic head and body, no duct dilatation, and unremarkable liver and spleen.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "Pending.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

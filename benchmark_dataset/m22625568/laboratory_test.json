@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is distended fluid-filled with obstructive appendicolith, enhancing wall, and surrounding fat stranding consistent with acute appendicitis. No free air or free fluid. Normal liver, gallbladder, spleen, pancreas, kidneys with no hydronephrosis. Loops of small bowel and colon are normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests (non-specific elevated LFTs)",
+            "date": "Not specified",
+            "findings": "61.0 IU/L (actual value), reference range 35.0 - 105.0 IU/L.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

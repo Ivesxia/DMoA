@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": {
+                "AST": "27 U/L",
+                "ALT": "22 U/L",
+                "Total Bilirubin": "0.6 mg/dL",
+                "Lipase": "36 U/L"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "gallbladder": "Distended with multiple stones, surrounding pericholecystic fluid, mild mural edema, and fat stranding.",
+                "CBD": "Mild enhancement of common bile duct wall, no intrahepatic biliary dilatation.",
+                "pancreas": "Normal attenuation throughout, no lesions.",
+                "spleen": "Normal size and attenuation.",
+                "kidneys": "Normal and symmetric size, no lesions.",
+                "colonic diverticulosis": "Noted without wall thickening."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

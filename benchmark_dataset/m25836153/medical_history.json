@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Abdominal pain has been present for 24 hours, beginning midline infraumbilical and migrating to RLQ. Associated with nausea, absence of vomiting, chills without fevers, and decreased appetite. The patient has experienced slight constipation since the onset of pain. There have been no previous episodes of similar pain.",
+        "past_medical_history": "Hypertension",
+        "family_history": "Not specified",
+        "social_history": "Personal history of tobacco use"
+    }
+}

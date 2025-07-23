@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "pulse": "65 bpm",
+                "blood_pressure": "85/58 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "94% on room air"
+            },
+            "relevant_findings": {
+                "general": "Today, she appears well. Using a cane.",
+                "weight": "140 pounds",
+                "height": "5'1\"",
+                "abdominal": "soft, nontender, no organomegaly",
+                "chest": "Clear",
+                "heent": "Unremarkable"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "pulse": "74 bpm",
+                "blood_pressure": "110/70 mmHg",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

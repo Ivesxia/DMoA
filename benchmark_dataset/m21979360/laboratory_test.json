@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated measuring up to 9 mm in width with minimal adjacent fat stranding. The appendix is hyperemic. Several adjacent lymph nodes are likely reactive in nature. No free fluid, free air, or lymphadenopathy is seen. No evidence of abscess formation is identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Organism Count",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "0.9 mmol/L.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

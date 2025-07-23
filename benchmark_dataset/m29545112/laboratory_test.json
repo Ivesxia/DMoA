@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Illumigene DNA amplification assay for C. difficile",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile (Reference Range-Negative)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Gallbladder moderately distended with significant mural edema, two large calcified gallstones, patchy hyperenhancement of gallbladder mucosa, trace free fluid in abdomen, findings concerning for contained rupture.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W & W/O CONTRAST, ADDL SECTIONS",
+            "date": "Not specified",
+            "findings": {
+                "lungs": "Visualized lung fields are within normal limits. No evidence of pleural or pericardial effusion.",
+                "liver": "Unremarkable except for multiple hemangiomas measuring up to 6 cm.",
+                "pancreas": "Normal attenuation throughout, without evidence of focal lesions or pancreatic ductal dilatation.",
+                "spleen": "Normal size and attenuation throughout, without evidence of focal lesions.",
+                "adrenals": "Normal in size and shape.",
+                "kidneys": "Unremarkable. No hydronephrosis.",
+                "bladder": "Distended.",
+                "gastrointestinal": "No intestinal obstruction. The appendix is distended with associated soft tissue strain. An appendicolith seen at its distal end.",
+                "pelvis": "No free fluid in the pelvis.",
+                "prostate": "Mildly enlarged.",
+                "lymph nodes": "A few prominent right lower quadrant lymph nodes likely reactive. No pelvic lymphadenopathy.",
+                "vascular": "No abdominal aortic aneurysm. No atherosclerotic disease noted.",
+                "bones": "No evidence of worrisome osseous lesions or acute fracture. Foci of sclerotic bone seen in bilateral femoral heads, likely representing bone islands.",
+                "soft tissue": "Abdominal and pelvic wall within normal limits."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "The imaged lung bases are clear.",
+                "abdominal": {
+                    "hepatobiliary": "The liver enhances normally without focal concerning lesion. There is no intrahepatic biliary ductal dilation. The gallbladder is distended and contains several peripherally calcified gallstones, none of which appear to be impacted within the gallbladder neck. A sliver of fluid or gallbladder wall edema is seen along the liver margin. The common bile duct appears normal in caliber.",
+                    "pancreas": "Pancreas appears normal without ductal dilation or signs of acute inflammation.",
+                    "spleen": "Spleen is normal in size without focal lesion.",
+                    "adrenals": "Left adrenal gland is normal. There are 2 discrete nodules involving the right adrenal gland. 1 along the apex measuring 11 x 14 mm and a second appearing more hypodense measuring 1.2 x 1.9 cm.",
+                    "urinary": "The kidneys enhance symmetrically and excrete contrast promptly without hydronephrosis or evidence of pyelonephritis or worrisome lesion.",
+                    "gastrointestinal": "Stomach is mostly decompressed. The duodenum is normal. Loops of small bowel show no signs of ileus or obstruction. The appendix is normal. The colon is thin walled and contains a mild fecal load.",
+                    "pelvis": "The urinary bladder and distal ureters are unremarkable. There is no free fluid in the pelvis.",
+                    "reproductive_organs": "Uterus and ovaries appear normal.",
+                    "lymph_nodes": "There is no retroperitoneal or mesenteric lymphadenopathy.",
+                    "vascular": "There is no abdominal aortic aneurysm. No atherosclerotic disease is noted.",
+                    "bones": "No worrisome lytic or blastic osseous lesion. No fracture.",
+                    "soft_tissues": "A calcified structure in the subcutaneous fat of the right buttock is seen measuring 2.1 x 1.6 x 4.9 cm."
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

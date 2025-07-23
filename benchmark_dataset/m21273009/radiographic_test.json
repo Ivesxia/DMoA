@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": "There are stones and sludge in a distended gallbladder. There is a positive sonographic ___ sign. There may be trace pericholecystic fluid. No mural edema. The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites. There is no intrahepatic biliary dilation. The pancreas head and body are within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

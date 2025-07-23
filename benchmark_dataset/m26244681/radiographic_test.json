@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT CHEST W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "A large 10.5 x 8.9 cm mass within the right upper lobe, abutting the major fissure. Calcification is seen within the posterior aspect of the mass. The mass surrounds and markedly narrows the airways. Abnormal thickening of the posterior wall of the right main stem bronchus is also present. Increased reticular pattern and peribronchial opacities consistent with post-obstructive pneumonitis is seen adjacent to the mass. 6-mm pulmonary nodule in the superior segment of the right lower lobe, 7-mm pulmonary nodule in the right lower lobe, small nodule in the right middle lobe, a 4-mm pulmonary nodule in the left lower lobe, and a pleurally-based 5-mm nodule in the left lower lobe. Severe emphysematous changes are noted throughout the lungs bilaterally. Multiple prominent mediastinal lymph nodes, coronary calcifications, trace pericardial fluid, a poorly defined low-attenuation lesion in the right lobe of the liver, gallstones, and multiple heterogeneous, predominantly sclerotic lesions consistent with metastases throughout the spine.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

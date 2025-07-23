@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "US-guided placement of pigtail catheter",
+            "date": "Not specified",
+            "findings": "Placement of catheter into the right lower quadrant fluid collection.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal radiographs",
+            "date": "Not specified",
+            "findings": "Drain projects over the right lower quadrant. There has apparently been an interval surgery with a staple line in the right lower quadrant. Proximal small bowel is dilated up to 5.5 cm. Small bowel is aerated but less dilated in the right lower quadrant. There is air and even mild distension of the sigmoid but no evidence of free air.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

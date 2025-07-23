@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Liver is heterogeneous in echotexture without focal lesions or biliary dilatation. Common bile duct measures 4 mm. Gallbladder contains a 3 mm stone, is nondistended, with no wall thickening or pericholecystic fluid. Pancreatic head and body are unremarkable. No hydronephrosis or concerning lesions in kidneys. Spleen is not enlarged. No free fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

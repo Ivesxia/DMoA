@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Small left pleural effusion associated atelectasis, trace right pleural effusion with associated atelectasis. Enlarged heart size. No suspicious focal lesion in liver, punctate nonobstructing stone in gallbladder. Mild atrophic changes of the pancreas, normal spleen, normal adrenal glands, atrophic bilateral kidneys, cystic lesion in right kidney likely a simple cyst. Postsurgical changes from sigmoid colectomy, small amount of free fluid adjacent to bowel at ostomy, small collection adjacent to pouch measuring 3.8 x 2.5 cm with an air-fluid level. Small amount of free fluid in left pericolic gutter and small amount of free air underlying midline incision. Coarse calcifications within nonenlarged prostate. No lymphadenopathy. Mild-to-moderate atherosclerotic calcification of abdominal aorta and its branches. No evidence of worrisome osseous lesions or acute fracture. Small amount of subcutaneous air within peritoneum underlying incision site.",
+            "changes_over_time": "Collection adjacent to pouch measuring 3.8 x 2.5 cm with an air-fluid level unchanged from prior examination."
+        }
+    ]
+}

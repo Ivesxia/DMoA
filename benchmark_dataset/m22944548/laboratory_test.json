@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C. difficile DNA amplification assay",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile by the Illumigene DNA amplification assay. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Evidence of left lower lobe atelectasis and a left pleural effusion which is layering on the current film. Cardiovascular contours unchanged, bilateral lungs unchanged in appearance. No pulmonary vascular congestion and no pneumothorax.",
+            "changes_over_time": "Interval placement of a right-sided PICC line and interval removal of NG tube noted."
+        }
+    ]
+}

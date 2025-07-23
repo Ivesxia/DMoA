@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.6 F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "176/104 mmHg",
+                "respiratory_rate": "15 bpm",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "general": "NAD, AAOx3",
+                "cardiac": "RRR, No murmurs, rubs, gallops",
+                "lungs": "CTAB",
+                "abdomen": "TTP RUQ, no rebound or guarding",
+                "extremities": "No peripheral edema, all peripheral pulses palpable"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

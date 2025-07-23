@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The imaged lung bases demonstrate bibasilar dependent atelectasis and a small right pleural effusion. The pancreas appears diffusely edematous, with fat stranding/edema in the peripancreatic tissues and retroperitoneum, consistent with acute pancreatitis. There is homogeneous enhancement of the pancreas. No pancreatic mass or ductal dilation is seen. Numerous gallstones are seen within the gallbladder, without MR evidence for acute cholecystitis. Few reactive periportal and retroperitoneal lymph nodes are seen. The liver is normal in signal intensity, without biliary dilation. A 13-mm T2 hyperintense non-enhancing cystic lesion in segment 13 represents ciliated foregut cyst. No worrisome liver lesions are seen. The adrenal glands and spleen are normal. An accessory spleen is noted. The kidneys are normal, without hydronephrosis or renal mass. The stomach, imaged small and large bowel loops are normal. The abdominal aorta is normal in caliber. Major vascular branches of the aorta are patent. The hepatic veins and IVC are normal. The portal, splenic and superior mesenteric veins are patent. No marrow signal abnormality is evident.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

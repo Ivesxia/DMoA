@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "75 bpm",
+                "blood_pressure": "115/87 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and oriented x3.",
+                "cardiovascular": "Regular rate and rhythm.",
+                "respiratory": "Clear to auscultation bilaterally.",
+                "abdominal": "Positive for peritonitis, particularly in right lower quadrant.",
+                "extremities": "No edema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

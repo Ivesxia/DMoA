@@ -1,0 +1,65 @@
+```json
+{
+  "laboratory_examinations": [
+    {
+      "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+      "date": "Not specified",
+      "findings": {
+        "liver_masses": [
+          {
+            "segment": 2,
+            "measurement": "4.7 x 3.8 x 3.2 cm",
+            "previous_measurement": "2.7 x 3.0 cm"
+          },
+          {
+            "segment": 4B,
+            "measurement": "4.4 x 4.6 x 4.0 cm",
+            "previous_measurement": "4.1 x 3.3 cm"
+          },
+          {
+            "segment": 7,
+            "measurement": "3.1 x 3.1 x 2.9 cm",
+            "previous_measurement": "1.9 x 2.8 cm"
+          }
+        ],
+        "portal_vein": "patent with hepatopetal flow",
+        "ascites": "no ascites",
+        "bile_ducts": {
+          "intrahepatic_dilation": "none",
+          "CBD_measure": "4 mm"
+        },
+        "gallbladder": "status post cholecystectomy",
+        "pancreas": "within normal limits",
+        "spleen": {
+          "echogenicity": "normal",
+          "measurement": "10.5 cm"
+        },
+        "kidneys": [
+          {
+            "side": "right",
+            "measurement": "8.9 cm",
+            "echogenicity": "normal"
+          },
+          {
+            "side": "left",
+            "measurement": "10.4 cm",
+            "echogenicity": "normal"
+          }
+        ],
+        "retroperitoneum": "normal limits"
+      },
+      "changes_over_time": "Segment 2 mass increased from 2.7 x 3.0 cm to 4.7 x 3.8 x 3.2 cm; Segment 4B mass increased from 4.1 x 3.3 cm to 4.4 x 4.6 x 4.0 cm; Segment 7 mass increased from 1.9 x 2.8 cm to 3.1 x 3.1 x 2.9 cm."
+    },
+    {
+      "procedure_name": "Laboratory test (unknown)",
+      "date": "Not specified",
+      "findings": {
+        "bilirubin": "1.6",
+        "lipase": "600",
+        "potassium": "2.9"
+      },
+      "changes_over_time": "Not specified"
+    }
+  ]
+}
+```

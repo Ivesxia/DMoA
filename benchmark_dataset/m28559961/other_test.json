@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "8 x 8 x 7 mm echogenic focus in the dome of the liver, most suggestive of a hemangioma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "No intrahepatic biliary dilatation, gallbladder shows no stones, and visualized portion of the pancreatic head and body show no abnormality.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "RRR, no MRG, nl S1-S2.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not provided.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

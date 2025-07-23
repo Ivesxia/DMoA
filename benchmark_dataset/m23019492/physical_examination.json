@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "blood_pressure": "138/70 mmHg",
+                "heart_rate": "85 bpm",
+                "respiratory_rate": "94 breaths per minute",
+                "oxigen_saturation": "94% on 2L"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "eyes": "Anicteric",
+                "lungs": "Clear",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/rubs/gallops",
+                "abdomen": "Bowel sounds present, soft, tender in RUQ",
+                "extremities": "Pitting edema to shins",
+                "skin": "No rash",
+                "neurological": "Alert, follows commands"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "pulmonary edema": "Improved from prior exam, now mild.",
+                "bibasilar atelectasis": "More pronounced on the left than the right, not significantly changed."
+            },
+            "changes_over_time": "Improvement of pulmonary edema from previous examination."
+        }
+    ]
+}

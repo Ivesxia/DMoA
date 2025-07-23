@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic with a smooth contour and no focal mass. The main portal vein is patent. No ascites. No intrahepatic biliary dilation. Gallbladder contains multiple echogenic stones with posterior shadowing and surrounding sludge. Gallbladder is distended with wall thickening. Findings are consistent with acute calculus cholecystitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Diffusely echogenic with a smooth contour; no focal liver mass; main portal vein patent with hepatopetal flow; no ascites.",
+                "bile_ducts": "No intrahepatic biliary dilation; CHD measures 4 mm.",
+                "gallbladder": "Cholelithiasis without gallbladder wall thickening or pericholecystic fluid.",
+                "pancreas": "Not well visualized, largely obscured by overlying bowel gas.",
+                "spleen": "Normal echogenicity, measuring 12.5 cm.",
+                "kidneys": "Limited views of the right kidney show no hydronephrosis.",
+                "retroperitoneum": "Aorta not well visualized due to overlying bowel gas and poor penetration."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

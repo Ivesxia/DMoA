@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver appears slightly hypoattenuating, suggesting fatting infiltration. The gallbladder is within normal limits. The pancreas has normal attenuation throughout, without evidence of focal lesions. The spleen shows normal size and attenuation throughout. The right and left adrenal glands are normal in size and shape. The kidneys are of normal and symmetric size with normal nephrogram. There is no evidence of focal renal lesions or hydronephrosis. The stomach is unremarkable. Small bowel loops demonstrate normal caliber, wall thickness, and enhancement throughout. The colon and rectum are within normal limits. The retrocecal appendix is fluid-filled and dilated measuring up to 10 mm. There is mucosal hyperemia and surrounding fat stranding. Tiny adjacent lymph nodes are likely inflammatory. No associated abscess or evidence of perforation. The urinary bladder and distal ureters are unremarkable. There is no free fluid in the pelvis. The uterus is unremarkable in appearance. Right ovary is within normal limits. A corpus luteal cyst is noted in the left ovary. There is no retroperitoneal or mesenteric lymphadenopathy. There is no pelvic or inguinal lymphadenopathy. No abdominal aortic aneurysm or atherosclerotic disease is noted. There is no evidence of worrisome osseous lesions or acute fracture. Incidental note is made of osteitis. The abdominal and pelvic wall is within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbiological Testing",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

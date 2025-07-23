@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "heart_rate": "87 bpm",
+                "blood_pressure": "181/89 mmHg",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general": "NAD. Alert, oriented x3.",
+                "HEENT": "No scleral icterus. Mucous membranes moist.",
+                "cardiovascular": "RRR.",
+                "pulmonary": "Clear to auscultation bilaterally.",
+                "abdominal": "Soft, nondistended. Mild tenderness of RLQ. No rebound/gardening. No masses.",
+                "extremities": "Warm without edema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

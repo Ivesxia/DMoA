@@ -1,0 +1,24 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung_fields": "Visualized lung fields are within normal limits. No evidence of pleural or pericardial effusion.",
+                "liver": "Homogenous attenuation throughout. No evidence of focal lesions or biliary dilatation. Gallbladder is within normal limits with minimal pericholecystic fluid.",
+                "pancreas": "Normal attenuation throughout, no focal lesions or pancreatic ductal dilatation.",
+                "spleen": "Normal size and attenuation throughout, no focal lesions.",
+                "adrenals": "Normal in size and shape.",
+                "kidneys": "Normal and symmetric size with normal nephrogram. No focal renal lesions or hydronephrosis. A 3 mm non-obstructing stone in the right kidney and a 7 mm non-obstructing stone in the left kidney. Multiple hypodense lesions in the left kidney, with the largest being a 2.5 x 3.3 cm simple cyst in the right kidney.",
+                "gastrointestinal": "Extensive diverticulosis of the colon with stranding and bowel wall thickening in the sigmoid colon surrounding an inflamed diverticulum. No free air or fluid in the abdomen or pelvis. Normal appendix.",
+                "pelvis": "Urinary bladder and distal ureters are unremarkable, no free fluid in the pelvis.",
+                "reproductive_organs": "Unremarkable.",
+                "lymph_nodes": "No retroperitoneal or mesenteric lymphadenopathy.",
+                "vascular": "No abdominal aortic aneurysm, mild atherosclerotic disease noted.",
+                "bones": "No evidence of worrisome osseous lesions or acute fracture. Moderate degenerative change at L4-L5.",
+                "soft_tissues": "Small fat containing umbilical hernia and small bilateral fat containing inguinal hernias."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is fluid-filled and dilated measuring up to 8 mm with surrounding inflammatory changes consistent with appendicitis. There is no evidence of abscess or perforation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbiological Examination",
+            "date": "Not specified",
+            "findings": "PROBABLE MICROCOCCUS SPECIES, 4.5 mg/dL",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

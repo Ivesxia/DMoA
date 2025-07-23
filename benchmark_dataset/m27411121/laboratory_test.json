@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver demonstrates homogenous attenuation throughout, with no evidence of focal lesions, intrahepatic or extrahepatic biliary dilatation. The gallbladder is normal. The pancreas shows normal attenuation, without focal lesions or pancreatic ductal dilatation. The kidney size is normal and symmetric, with normal nephrogram and no evidence of focal renal lesions or hydronephrosis. There is evidence of sigmoid diverticulitis with an adjacent abscess measuring 1.5 cm x 1.1 cm and extensive adjacent phlegmonous changes. The remainder of the colon is normal, aside from mild diverticulosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultural Sensitivity Test (presumed from 'NO GROWTH.')",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

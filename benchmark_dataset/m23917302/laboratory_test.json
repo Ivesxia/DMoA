@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CTA HEAD AND CTA NECK",
+            "date": "Not specified",
+            "findings": "No evidence of infarction, hemorrhage, edema, or mass. A large opercular arachnoid cyst, measuring approximately 58 x 34 mm, mucosal retention cysts of the maxillary sinuses bilaterally, normal vessels of the circle of Willis without stenosis, occlusion, or aneurysm greater than 3 mm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

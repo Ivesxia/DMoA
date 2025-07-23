@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is normal in shape and contour. There is normal echogenicity. There are no focal hepatic lesions. The main portal vein is patent with normal hepatopetal flow. There is no intra- or extra-hepatic biliary duct dilation. The common bile duct measures 4 mm. The gallbladder is mildly distended. There is sludge, but no evidence of stones. There is gallbladder wall thickening and gallbladder wall edema, more marked than in the prior exam. There is a positive sonographic ___ sign. The imaged portions of the pancreas are normal.",
+            "changes_over_time": "Gallbladder wall thickening and edema are more marked than in the prior exam."
+        },
+        {
+            "procedure_name": "Laboratory examination (precise test not specified)",
+            "date": "Not specified",
+            "findings": "2+ (1-5 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

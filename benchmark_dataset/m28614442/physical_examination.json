@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "68 bpm",
+                "blood_pressure": "130/66 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general_condition": "mild distress",
+                "alertness": "A&Ox4",
+                "cardiovascular": "RRR",
+                "respiratory": "CTAB",
+                "abdominal": "soft, LUQ and b/l flank pain, c-section scar, no hernias",
+                "rectal": "guaiac negative",
+                "extremities": "no edema, warm"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

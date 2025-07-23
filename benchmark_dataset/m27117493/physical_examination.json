@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "74 bpm",
+                "blood_pressure": "130/82 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, awake/alert",
+                "HEENT": "NCAT, EOMI, MMM, no scleral icterus",
+                "cardiovascular": "RRR",
+                "pulmonary": "CTAB, no respiratory distress",
+                "abdominal": "soft, nondistended; focal RLQ TTP without rebound or guarding",
+                "extremities": "warm, well-perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98",
+                "heart_rate": "88",
+                "blood_pressure": "149/95",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "A&O",
+                "cardiovascular": "RRR",
+                "abdominal": "Soft, nondistended, ttp rlq",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

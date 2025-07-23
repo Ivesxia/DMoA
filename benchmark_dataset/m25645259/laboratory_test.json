@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC count is 12.5 K/uL (normal range: 4.0 - 11.0 K/uL), indicating leukocytosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CHEST (PA & LAT) radiograph",
+            "date": "Not specified",
+            "findings": "Ill-defined opacities in the left lower lobe suggestive of atelectasis or possible infectious process; no pleural effusion or pneumothorax.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

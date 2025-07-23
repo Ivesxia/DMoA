@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "91 bpm",
+                "blood_pressure": "113/73 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "SaO2": "94% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress, conversant and interactive.",
+                "HEENT": "Sclerae anicteric, mucous membranes moist, oropharynx clear.",
+                "cardiovascular": "Regular rate and rhythm, S1 S2.",
+                "pulmonary": "Clear to auscultation bilaterally, respirations are unlabored.",
+                "abdominal": "Soft, mildly distended, slightly tender around incision sites.",
+                "extremities": "No lower extremity edema, distal extremities warm and well-perfused."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

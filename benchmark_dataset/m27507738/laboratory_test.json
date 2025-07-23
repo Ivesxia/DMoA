@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The pancreas has a peripherally calcified 3.5 x 4.0 cm centrally heterogeneously attenuating mass at the junction of the pancreatic body and tail, associated with overall pancreatic atrophy. The appendix is dilated and fluid-filled measuring up to 1.4 cm. There's extensive stranding within the mesenteric fat of the right lower quadrant, and edema and thickening at the base of the cecum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glucose level test",
+            "date": "Not specified",
+            "findings": "9.3 %",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

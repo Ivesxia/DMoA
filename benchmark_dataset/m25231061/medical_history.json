@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Fever to 102°F, tachycardia, and altered mental status",
+        "history_of_present_illness": "Patient fell 2 days ago and woke up next to his bed yesterday morning. He could not get up due to weakness but was able to get up around 13:00. Symptoms of fever and chills were reported. No history of stroke or seizure; has never fallen before.",
+        "past_medical_history": "Hypertension, Hyperlipidemia, Pre-diabetes, Coronary artery disease, Congestive heart failure, Crohn's disease status post multiple surgeries, Diverticulosis",
+        "family_history": "Father with digestive tract problems; Brother with GI bleed",
+        "social_history": "Not specified"
+    }
+}

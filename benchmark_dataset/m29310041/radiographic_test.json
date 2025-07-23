@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "PELVIS U.S., TRANSVAGINAL",
+            "date": "Not specified",
+            "findings": "There is a small amount of complex free fluid in the pelvis near the uterine fundus. The fibroid uterus is anteverted and measures 13 x 7.9 x 7.2 cm. The endometrium is homogeneous and measures 8 mm. The myometrium is heterogeneous with small cysts which may be compatible with adenomyosis. The largest, dominant fibroid is seen at the fundus measuring 3.7 x 3.7 x 3.6 cm. There are 2 cystic components within the fibroid, measuring 10 x 8 x 7 mm and 9 x 7 x 9 mm respectively, which may be due to degeneration. Fibroid also seen in the posterior myometrium. The ovaries are normal. There is no free fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

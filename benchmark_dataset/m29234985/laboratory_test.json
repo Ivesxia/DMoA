@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "WBC 9.8, Hemoglobin 16.5, Platelets 280",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test (LFT)",
+            "date": "Not specified",
+            "findings": "AST 69, ALT 130, AP 59, Total Bilirubin 1.0, Albumin 5.0",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 1498",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Creatinine 1.1",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate 4.0 (3.1 following fluids)",
+            "changes_over_time": "Lactate decreased from 4.0 to 3.1 following fluids."
+        },
+        {
+            "procedure_name": "Urine Toxicology",
+            "date": "Not specified",
+            "findings": "Utox positive for Benzodiazepines",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis (U/A)",
+            "date": "Not specified",
+            "findings": "Positive for blood, 2 WBCs, and protein",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal Ultrasound",
+            "date": "Not specified",
+            "findings": "No choledocholithiasis, fatty liver noted",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen & Pelvis",
+            "date": "Not specified",
+            "findings": "Moderate steatosis of the liver, diffuse inflammatory peripancreatic stranding, collapsed stomach with feeding tube, no small-bowel obstruction, scattered small mesenteric and retroperitoneal lymph nodes.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

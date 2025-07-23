@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Liver Biopsy",
+            "date": "Not specified",
+            "findings": "Confirmed cirrhosis due to non-alcoholic steatohepatitis (NASH).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gastric Emptying Study",
+            "date": "Not specified",
+            "findings": "Significant only for reflux.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endoscopy",
+            "date": "Not specified",
+            "findings": "Only mild gastropathy observed.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

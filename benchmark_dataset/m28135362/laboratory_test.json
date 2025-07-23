@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "A triangular 5-mm opacity at the left lung base likely an intrapulmonary lymph node. The liver, gallbladder, pancreas, spleen, and bilateral adrenal glands are normal. The kidneys enhance and excrete contrast symmetrically without evidence of hydronephrosis or hydroureter. The appendix is likely enlarged up to 1 cm with no definite periappendiceal stranding or fluid collection. No free air or fluid in the abdomen. No mesenteric or retroperitoneal lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for unspecified item",
+            "date": "Not specified",
+            "findings": "22.0 mg/dL (normal range: 6.0 - 20.0 mg/dL), which is outside the normal range.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "102.6°F",
+                "heart_rate": "94 bpm",
+                "blood_pressure": "95/49 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "In NAD (No Acute Distress)",
+                "lungs": "CTAB (Clear to Auscultation Bilaterally)",
+                "cardiovascular": "RRR (Regular Rate and Rhythm)",
+                "abdominal": "Soft/ND (Non-Distended), tender in (R)LQ with positive Rovsing's sign, no hernias",
+                "pelvic": "ED exam normal by report"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

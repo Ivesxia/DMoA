@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Abdominal pain started this morning and gradually worsened. The patient was intermittently febrile, felt nauseated, and vomited. The pain was initially diffuse and is now localized in the lower abdomen. He is uncomfortable.",
+        "past_medical_history": "Attention-deficit hyperactivity disorder (ADHD), no previous surgeries.",
+        "family_history": "Interstitial pulmonary fibrosis in father.",
+        "social_history": "Not specified."
+    }
+}

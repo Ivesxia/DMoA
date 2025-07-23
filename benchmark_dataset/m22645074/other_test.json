@@ -1,0 +1,10 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT Angiography of the Chest",
+            "date": "Not specified",
+            "findings": "There is a dual lead pacemaker with leads in the right atrium and right ventricle. The main pulmonary artery measures 2.9 cm. Mildly enlarged right prevascular lymph node measuring 11 mm. No filling defects in pulmonary arteries. Trace right and small left pleural effusion, bibasilar atelectasis, mild interlobular septal thickening, peribronchial wall thickening, lobulated thickening of left oblique fissure consistent with loculated fluid, mild to moderate centrilobular emphysema, and small calcified granulomas in apical posterior segment of left upper lobe.",
+            "changes_over_time": "Since the prior CT abdomen, the patient developed a trace right and small left pleural effusion."
+        }
+    ]
+}

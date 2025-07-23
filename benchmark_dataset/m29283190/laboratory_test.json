@@ -1,0 +1,53 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "description": "The liver is diffusely echogenic. The contour of the liver is smooth.",
+                    "focal_mass": "No focal liver mass"
+                },
+                "bile_ducts": {
+                    "dilation": "No intrahepatic biliary dilation",
+                    "CHD_measurement": "4 mm"
+                },
+                "gallbladder": {
+                    "distension": "Mildly distended",
+                    "stone": "Large nonmobile stone in the gallbladder neck",
+                    "wall_thickening": "No gallbladder wall thickening",
+                    "mural_edema": "No mural edema",
+                    "pericholecystic_fluid": "No pericholecystic fluid",
+                    "sign": "Positive ___ sign during the exam"
+                },
+                "pancreas": {
+                    "description": "Within normal limits, without masses or pancreatic ductal dilation"
+                },
+                "spleen": {
+                    "description": "Normal echogenicity, measuring 10.8 cm"
+                },
+                "kidneys": {
+                    "right_kidney": "11.9 cm",
+                    "left_kidney": "10.9 cm",
+                    "issues": "No mass, stone, or hydronephrosis identified"
+                },
+                "retroperitoneum": {
+                    "description": "Visualized portions of aorta and IVC are within normal limits"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": {
+                "result": "NO GROWTH",
+                "ref_range": {
+                    "lower": 25.0,
+                    "upper": 36.5
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Abdominal pain began earlier this week, with symptoms located in the lower abdomen and right upper quadrant, radiating to the right flank. Associated symptoms include fevers, chills, mild nausea (without emesis), and anorexia. Notably, there is no diarrhea, but there is a presence of mucus in the stool. Normal bowel movements are reported.",
+        "past_medical_history": "Irritable Bowel Syndrome (IBS) with chronic diarrhea, bloating, nausea, reflux (recently improved); history of post-ERCP pancreatitis; past surgical history includes laparoscopic cholecystectomy and colonoscopy showing multiple mild non-bleeding diverticula.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

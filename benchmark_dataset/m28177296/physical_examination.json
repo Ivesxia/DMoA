@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 98.4 °F, Heart Rate: 86 bpm, Blood Pressure: 147/87 mmHg, Respiratory Rate: 16 breaths/min",
+            "relevant_findings": "On admission: Abdomen soft, tender in RUQ and RLQ. Palpable gallbladder below the liver.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

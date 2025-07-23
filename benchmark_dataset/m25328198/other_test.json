@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT abdomen and pelvis with contrast",
+            "date": "Not specified",
+            "findings": "A large right hepatic lobe mass increased in size, measuring 8.4 x 6.7 cm compared with 6.4 x 4.6 cm previously, and a previously seen right hepatic lobe mass increased in size, measuring 2.1 x 2.0 cm compared with 1.4 x 1.0 cm previously. New focal lesions in the right hepatic lobe and caudate lobe measuring 1.8 x 1.6 cm and 2.0 x 2.4 cm were noted. Mild intrahepatic biliary dilatation and pneumobilia mainly in the left lobe were similar to prior.",
+            "changes_over_time": "Interval progression of hepatic metastatic disease and new lung nodule compared to prior study."
+        },
+        {
+            "procedure_name": "RUQ ultrasound",
+            "date": "Not specified",
+            "findings": "Pneumobilia, no CBD dilation, persistent pancreatic duct dilation.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

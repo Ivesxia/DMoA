@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Dilated appendix with mural enhancement and surrounding fatty stranding; dilated up to 10 mm and fails to fill with oral contrast. No extraluminal air or fluid collections. Visualized organs are unremarkable, with mild atelectasis seen at the left lung base.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Escherichia coli culture",
+            "date": "Not specified",
+            "findings": "Positive for Escherichia coli.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

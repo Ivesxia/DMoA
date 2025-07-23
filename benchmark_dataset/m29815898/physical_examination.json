@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "97.1°F",
+                "heart_rate": "64 bpm",
+                "blood_pressure": "157/98 mmHg",
+                "respiratory_rate": "18"
+            },
+            "relevant_findings": {
+                "general": "well appearing, no acute distress",
+                "cardiovascular": "regular rate and rhythm, palpable peripheral pulses",
+                "respiratory": "nonlabored breathing on room air",
+                "gastrointestinal": "soft, nontender, nondistended; mild tenderness to palpation in right lower quadrant; no rebound or guarding; no tap or shake tenderness",
+                "extremities": "warm, well perfused; no cyanosis, clubbing, or edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Moderately dilated intra and extrahepatic biliary ducts as well as pancreatic duct which smoothly tapers towards the ampulla, consistent with ampullary stenosis. Minimal right lower lobe atelectasis. Liver is homogeneous without suspicious mass. No hepatic steatosis. No ascites. No enhancing mass or choledocholithiasis. Bilateral subcentimeter renal cysts. No suspicious osseous lesions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "X-ray",
+            "date": "Not specified",
+            "findings": "Left inter-trochanteric fracture.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the head and neck",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

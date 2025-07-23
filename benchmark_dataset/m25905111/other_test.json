@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "lipase test",
+            "date": "Not specified",
+            "findings": "Lipase is notably in excess of 9000.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ultrasound",
+            "date": "Not specified",
+            "findings": "Cholelithiasis without gallbladder wall thickening.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

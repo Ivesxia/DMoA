@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Cystoscopy",
+            "date": "Not specified",
+            "findings": "Marked area of erythema and edema.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen/Pelvis with and without contrast",
+            "date": "Not specified",
+            "findings": "The previously described hydroureteronephrosis on the left has resolved. Wall thickening and tethering from the rectosigmoid to sigmoid colon noted, with surrounding inflammatory fat stranding, slightly more prominent compared to the prior study.",
+            "changes_over_time": "Hydroureteronephrosis on the left resolved. Wall thickening slightly more prominent compared to the prior study."
+        }
+    ]
+}

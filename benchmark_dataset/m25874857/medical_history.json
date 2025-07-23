@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute pancreatitis and urinary tract infection.",
+        "history_of_present_illness": "The patient had an episode of vomiting today, with a temperature of 100.1°F and a white blood cell count of 19,000. Her husband reported a prior episode of vomiting several weeks ago, which required replacement of her feeding tube. Her symptoms have included vomiting and poor functional status, characterized by being aphasic and tube-dependent.",
+        "past_medical_history": "Amyloid angiopathy complicated by a hemorrhagic CVA, dementia, coronary artery disease, hypertension, hyperlipidemia, hypothyroidism, chronic UTIs with history of fluoroquinolone resistant E. Coli.",
+        "family_history": "Notable for multiple family members with CVAs.",
+        "social_history": "Not specified."
+    }
+}

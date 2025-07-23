@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The gallbladder is moderately distended with indistinct and hazy wall at several points. Presence of radiopaque gallstones in the neck of the gallbladder and in the cystic duct. Trace pericholecystic free fluid. The liver enhances homogeneously without focal abnormality. No intra or extrahepatic bile duct dilation. Normal pancreas, spleen, and adrenal glands. Several simple cysts in both kidneys with smaller hypodensities. Expected surgical changes from gastrectomy and Roux-en-Y procedure. Normal caliber of small and large bowel without wall thickening or associated mass. No ascites or fluid collection. Patent portal, splenic, and mesenteric veins. Minimal atherosclerotic calcification of the abdominal aorta. No lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory examination of Polymorphonuclear Leukocytes",
+            "date": "Not specified",
+            "findings": "1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum creatinine test",
+            "date": "Not specified",
+            "findings": "3.4 mg/dL",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

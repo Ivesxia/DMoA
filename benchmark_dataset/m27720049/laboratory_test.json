@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Microbiological Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Pre-existing opacities at the right lung base has cleared. Cardiac silhouette is slightly bigger than on the last examination. Newly inserted endotracheal tube, the tip projects 3.5 cm above the carina. No other changes.",
+            "changes_over_time": "The right lung base opacities have cleared compared to the previous examination."
+        }
+    ]
+}

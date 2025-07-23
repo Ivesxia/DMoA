@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Gallbladder contains gallstones and there is gallbladder wall thickening, edema and hypervascularity of the wall. Gallbladder does not appear distended. No pericholecystic fluid. The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites. There is no intrahepatic biliary dilation. CHD: 5 mm. Spleen length: 7.1 cm. Right kidney: 11.2 cm. Left kidney: 11.3 cm. Limited views show no hydronephrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test (not explicitly named)",
+            "date": "Not specified",
+            "findings": "0.6 mg/dL; No polymorphonuclear leukocytes seen. No microorganisms seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Left lower quadrant demonstrates inflammatory fat stranding and multiple air loculations surrounding a segment of colon with numerous diverticula. Additional locules of partially free air throughout the upper abdomen. The liver shows a hypoattenuating lesion likely a benign cyst. The lung bases demonstrate subsegmental atelectasis and a subpleural bleb. The rectum and bladder are unremarkable with small bilateral fat-containing inguinal hernias.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

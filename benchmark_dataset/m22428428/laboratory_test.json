@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum creatinine",
+            "date": "Not specified",
+            "findings": "1.7 mg/dL (within normal range: 1.6 - 2.6 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Minimally dilated appendix up to 7-8 mm with fluid in the tip; small amount of surrounding stranding; no free air or free fluid; kidneys enhance symmetrically with multiple tiny hypodensities bilaterally; 13mm lesion within the mid pole of the right kidney.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

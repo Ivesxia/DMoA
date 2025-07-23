@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Postoperative changes from cholecystectomy are noted. Small amount of fluid is noted within the gallbladder fossa, presumably postoperative in nature. The common bile duct is normal in caliber and contour, measuring approximately 5 mm, without evidence of filling defects. Mild prominence of the intrahepatic ducts centrally, but otherwise unremarkable. No periductal enhancement or liver lesions. The spleen, pancreas, and adrenals are unremarkable. A lesion within the upper pole of the right kidney is hyperintense on T2-weighted sequences, uniformly dark on T1-weighted sequences, with two foci of nodular enhancement within its posterior portion and a suggestion of an enhancing thick septation, indicating a nonspecific finding, but cystic renal neoplasm cannot be excluded. The left kidney is unremarkable, with no hydronephrosis. The abdominal aorta and its major branches are normal, and lung bases are clear.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

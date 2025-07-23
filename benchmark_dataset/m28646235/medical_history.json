@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Fever",
+        "history_of_present_illness": "The patient began to feel lightheaded, nauseous, and dizzy after treatment on ___. She experienced chills at home and a low-grade fever (99.4-100) before returning to the clinic with a temperature of 100.7, which rose to 101.4 while in the treatment area. Symptoms included vomiting (non-bloody, bilious), diffuse abdominal pain, and nausea that comes and goes. Abdominal pain improved with vomiting but returned later. The patient reports tightness in the abdomen and constipation, typically relieved by bowel movements and metamucil. She experienced a small bowel movement yesterday with minimal relief.",
+        "past_medical_history": "Stage IIA breast cancer treated with mastectomy, chemotherapy, and radiation. Other medical conditions include Type 2 Diabetes Mellitus, Hypertension, Osteoarthritis, GERD, and Headaches.",
+        "family_history": "Brother with multiple myeloma; multiple family members with hypertension.",
+        "social_history": "Not specified."
+    }
+}

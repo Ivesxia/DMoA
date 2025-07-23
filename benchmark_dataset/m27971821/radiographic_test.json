@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT abdomen/pelvis",
+            "date": "Not specified",
+            "findings": "Thickened appendix with fat stranding; a 6.2 x 3.7-cm cyst in the right adnexa; small amount of pelvic free fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PELVIS U.S., TRANSVAGINAL",
+            "date": "Not specified",
+            "findings": "Uterus is anteverted measuring 7.9 x 4.9 x 4.5 cm; endometrium is homogenous at 0.9 cm; right ovary with multiple thick-walled anechoic cysts measuring 6.3 x 3.1 x 4.0 cm; trace amount of free fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Colonic diverticulosis is noted with an inflamed diverticulum arising from the distal descending colon with extensive pericolonic fat stranding, reactive colonic thickening and fluid tracking along the left pericolic gutter. Extraluminal gas locules along the associated mesocolon suggest contained perforation. No drainable abscess.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "No growth culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

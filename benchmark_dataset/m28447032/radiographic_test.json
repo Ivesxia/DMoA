@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT CHEST W/CONTRAST",
+            "date": "Not specified",
+            "findings": "No incidental thyroid findings. No supraclavicular, infraclavicular or axillary lymphadenopathy. No abnormalities at the level of the breasts or the chest wall. The heart is normal in size. There is no evidence of coronary calcifications or pericardial effusion. No evidence of abnormalities at the level of the ribs, sternum, or thoracic vertebral bodies, except for a dorsal healed right rib fracture. Minimal non-characteristic bilateral apical thickening. The airways are patent. No pleural thickening or pleural effusions. Bilateral dorsal areas of non-characteristic scarring at the level of the lower lobes and the basis of the lingula, no evidence of pulmonary nodules suspicious for malignancy or metastatic disease. No evidence of diffuse lung disease.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

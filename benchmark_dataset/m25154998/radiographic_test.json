@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is unremarkable in appearance with no focal liver lesion identified. No biliary dilatation is seen and the common duct measures 4 mm. The patient is status post cholecystectomy. The portal vein is patent with hepatopetal flow. The pancreas is unremarkable, but is only minimally visualized due to overlying bowel gas. The spleen is at the upper limits of normal measuring 12.4 cm. No hydronephrosis is seen on limited views of the kidneys. The aorta is obscured from view by overlying bowel gas. The intrahepatic portion of the IVC is unremarkable. There is a right pleural effusion. No ascites is seen in the upper abdomen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

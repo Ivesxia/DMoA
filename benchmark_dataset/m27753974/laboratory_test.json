@@ -1,0 +1,32 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Mild, bibasilar atelectasis. There is no evidence of pleural or pericardial effusion.",
+                "abdominal_findings": {
+                    "liver": "The liver demonstrates homogenous attenuation throughout. There is no evidence of focal lesions. There is mild intrahepatic and extrahepatic biliary dilatation.",
+                    "pancreas": "The pancreas has normal attenuation throughout, without evidence of focal lesions or pancreatic ductal dilatation.",
+                    "spleen": "The spleen shows normal size and attenuation throughout, without evidence of focal lesions.",
+                    "adrenals": "The right and left adrenal glands are normal in size and shape.",
+                    "kidneys": "The kidneys are of normal and symmetric size with normal nephrogram. An 8 mm hypodensity in the lower pole of the right kidney is likely a simple renal cyst.",
+                    "gastrointestinal": "There is a small hiatal hernia. Mild thickening of the left lateroconal fascia and mild fat stranding in the region of sigmoid diverticulosis.",
+                    "pelvis": "The urinary bladder and distal ureters are unremarkable.",
+                    "reproductive_organs": "The uterus is unremarkable. There is a small amount of air within the vagina.",
+                    "lymph_nodes": "Multiple, prominent mesenteric lymph nodes do not meet CT size criteria for pathologic enlargement.",
+                    "vascular": "There is no abdominal aortic aneurysm. Extensive atherosclerotic disease is noted.",
+                    "bones": "There is no evidence of worrisome osseous lesions or acute fracture.",
+                    "soft_tissues": "There is mild subcutaneous edema in the pelvic wall."
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

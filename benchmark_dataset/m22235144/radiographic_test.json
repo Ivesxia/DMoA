@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Blind ending tubular structure measuring 1.2 cm in diameter with associated wall thickening, mural hyperemia, trace periappendiceal fluid, and a central appendicolith. No evidence of frank perforation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

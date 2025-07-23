@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "There is minimal dependent atelectasis of the lung bases. No pericardial or pleural effusion. The heart size is normal. The liver density is within normal limits with no focal hepatic mass. No intra or extrahepatic bile duct dilation. A punctate gallstone resides within an otherwise normal gallbladder. The pancreas demonstrates normal density and bulk, without duct dilation or focal mass. The spleen size is within normal limits with no focal splenic lesions. The adrenal glands are normal in size and shape. The kidneys are normal in size and enhance symmetrically, without hydronephrosis, with a well-circumscribed 7.5 x 7.2 cm simple cyst on the lower pole of the left kidney and a 13 mm hypodense lesion on the left kidney. The stomach is normal, and the intra-abdominal and intrapelvic loops of small and large bowel are normal in caliber. There is a 7.3 x 6.4 x 6.6 cm unorganized focus of phlegmon and fluid in the right lower quadrant, minimally enlarged since the reference CT examination. The bladder is mildly distended and appears normal. The prostate size is within normal limits. No lymphadenopathy or osseous lesions concerning for malignancy or infection.",
+            "changes_over_time": "The focus of phlegmon and fluid in the right lower quadrant has minimally enlarged since the reference CT examination."
+        },
+        {
+            "procedure_name": "Unknown laboratory test",
+            "date": "Not specified",
+            "findings": "0.8 ng/mL; NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

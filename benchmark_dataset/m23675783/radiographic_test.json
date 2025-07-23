@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MR HEAD W & W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "A single metastasis is noted in the right frontoparietal region, which is cystic and solid. The metastasis measures 1.6 x 2.1 cm, smaller in size compared to the prior examination (3.5 x 3.5 cm). There is lesser degree of surrounding vasogenic edema. No significant mass effect or midline shift. No new metastases. The ventricles are normal in size and position. No acute intracranial hemorrhage. No diffusion abnormality. Scattered T2 hyperintensity within the supratentorial white matter, likely from small vessel ischemic disease or possibly radiation changes. Fluid in the mastoid air cells bilaterally. A small mucus retention cyst in the left maxillary sinus.",
+            "changes_over_time": "Decreased size of metastasis from 3.5 x 3.5 cm to 1.6 x 2.1 cm."
+        }
+    ]
+}

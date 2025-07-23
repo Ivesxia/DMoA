@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "HbA1c",
+            "date": "Not specified",
+            "findings": "5.8 % (reference range: 5.0 - 13.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiograph",
+            "date": "Not specified",
+            "findings": "No abnormally dilated loops of large or small bowel. No free retroperitoneal or intraperitoneal air. Biliary drain and common bile duct stent are noted. Osseous structures are unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

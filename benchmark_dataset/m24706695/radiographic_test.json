@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified.",
+            "findings": "Hepatic parenchyma appears coarsened; smooth liver contour; no focal liver mass or ascites; no intrahepatic biliary dilation; CBD measures 6 mm; several stones in gallbladder lumen without cholecystitis; pancreas shows decreased echogenicity suggestive of edema; no focal lesion in pancreas; normal spleen echogenicity; right kidney measures 13.1 cm, left kidney measures 13.7 cm with no hydronephrosis; post TIPS flow with reduced velocities compared to prior study.",
+            "changes_over_time": "Doppler evaluation shows decreased velocities compared to prior study."
+        }
+    ]
+}

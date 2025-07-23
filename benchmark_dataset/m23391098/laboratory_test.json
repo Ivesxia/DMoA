@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Slight attenuation of the liver parenchyma compatible with fatty infiltration, hepatic lesion in the periphery of segment 6 consistent with FNH, no intrahepatic or extrahepatic biliary ductal dilatation, normal size kidneys with tiny cortical hypodensities likely cysts, and presence of colonic diverticulosis with prominent wall thickening and adjacent pockets of local free air compatible with acute complicated sigmoid with microperforation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

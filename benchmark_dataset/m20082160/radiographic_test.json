@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized lung bases are clear. The liver, gallbladder, spleen, adrenal glands, kidneys, and ureters appear normal. There is minimal stranding of the fat surrounding the pancreatic head and uncinate. No fluid collection is seen. The splenic and portal veins enhance normally. No pancreatic ductal or biliary ductal dilatation is seen. The stomach, small bowel, and colon appear normal. No free air or free fluid is noted within the abdomen. Mild atherosclerotic calcifications are noted along the aorta. Retroperitoneal lymph nodes are small, not meeting CT size criteria for adenopathy. A fat-containing umbilical hernia is noted. Stranding in the anterior subcutaneous soft tissues over the left lower quadrant likely represents the site of recent injection. The urinary bladder, prostate, seminal vesicles, distal ureters, rectosigmoid colon, and pelvic loops of bowel appear unremarkable. No inflammatory changes suggest acute appendicitis. No pelvic free fluid or adenopathy is noted. Disc bulge at L5-S1 and degenerative changes in the thoracic spine are observed. No bony destruction concerning for malignancy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

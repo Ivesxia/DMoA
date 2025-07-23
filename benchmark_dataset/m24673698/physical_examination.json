@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "blood_pressure": "104/60 mmHg",
+                "heart_rate": "89 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "95% on room air"
+            },
+            "relevant_findings": {
+                "general": "In no acute distress.",
+                "heent": "Pupils equal, round, reactive to light; extraocular movements intact. No scleral icterus or conjunctival injection. Mucous membranes moist. No oral ulcers.",
+                "neck": "Supple, no lymphadenopathy, no jugular venous pressure elevation.",
+                "lungs": "Clear to auscultation bilaterally, no wheezes, rales, or rhonchi. Normal respiratory effort.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, rubs, or gallops.",
+                "abdomen": "Soft, with tenderness in the epigastric region, non-distended, normal bowel sounds, no hepatosplenomegaly.",
+                "extremities": "Warm and well perfused, no cyanosis, clubbing, or edema.",
+                "neurological": "Alert and oriented to person, place, and time; cranial nerves II-XII intact.",
+                "skin": "No rashes or ulcers.",
+                "psychiatric": "Appropriate, tearful when discussing home situation, denies any suicidal ideation currently."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

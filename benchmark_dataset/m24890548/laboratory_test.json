@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The tip of the appendix is dilated measures approximately 14 mm with surrounding periappendiceal fat stranding. At the distal appendix there is a hyperdensity which is likely appendicular measuring approximately 10 mm (2:65). Other abdominal organs appear normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood results",
+            "date": "Not specified",
+            "findings": "NO GROWTH for unspecified culture tests. Values also reported as 0.8 mmol/L.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

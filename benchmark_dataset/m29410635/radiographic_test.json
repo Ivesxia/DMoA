@@ -1,0 +1,26 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Unremarkable with no significant drop of signal to suggest fatty infiltration.",
+                "biliary": "No intra- and extra-hepatic biliary ductal dilatation, common duct measuring approximately 5 mm.",
+                "hepatic_lesion": "Peripheral non enhancing left hepatic lesion with peripheral calcification is stable.",
+                "gallbladder": "Small layering T1 hypointense filling defects suggestive of small stones; small gallbladder fundal septation noted.",
+                "pancreas": "Homogeneous enhancement with no surrounding inflammatory changes; normal pancreatic duct.",
+                "adrenal_glands": "Previously described left adrenal adenoma and thickening of both limbs of the right adrenal gland noted.",
+                "renal_lesions": "Multiple predominantly T2 hyperintense left renal lesions; largest measuring 8.4 x 9 cm, increased in size from prior examination.",
+                "right_kidney": "Prominent extrarenal pelvis and mild ureter prominence; enhancing right renal lesions noted, largest increased from 7 x 9 mm to 14 x 18 x 18 mm.",
+                "lymphadenopathy": "No perihilar, retroperitoneal or mesenteric lymphadenopathy identified.",
+                "others": "Small amount of perirenal fluid noted bilaterally, greater on the right.",
+                "bony_soft_tissue": "No concerning bony lesions or soft tissue pathology identified."
+            },
+            "changes_over_time": {
+                "left_renal_lesions": "Majority increased in size from previous examinations.",
+                "right_renal_lesions": "Largest lesion nearly doubled in size, from 7 x 9 mm to 14 x 18 x 18 mm.",
+                "adrenal_gland": "Thickening of both limbs of the right adrenal gland again noted, specific changes not detailed."
+            }
+        }
+    ]
+}

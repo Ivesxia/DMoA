@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6 F",
+                "heart_rate": "105 bpm",
+                "blood_pressure": "142/79 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing female in no acute distress",
+                "HEENT": "NC/AT, PERRLA, EOMI, sclerae anicteric, dry mucous membranes, oropharynx clear",
+                "neck": "Supple, no cervical lymphadenopathy",
+                "lungs": "Diffuse inspiratory and expiratory wheezes, no respiratory distress, able to speak in full sentences, no accessory muscle use",
+                "heart": "Regular rate and rhythm, no murmurs, rubs, or gallops, normal S1-S2",
+                "abdomen": "Normal bowel sounds, soft, non-tender, non-distended, minimally tender in the epigastric region, no rebound or guarding",
+                "extremities": "Warm, well-perfused, no cyanosis or clubbing, 2+ peripheral pulses (radials, DPs)",
+                "skin": "No rashes or lesions",
+                "neurological": "Awake, alert, and oriented to person, place, and time, cranial nerves II-XII grossly intact, muscle strength throughout not specified, sensation grossly intact throughout"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5F",
+                "blood_pressure": "143/90 mmHg",
+                "heart_rate": "70 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Vital signs showed a decrease in heart rate from 105 bpm to 70 bpm and improvement in blood pressure from 142/79 mmHg to 143/90 mmHg at this stage."
+        }
+    ]
+}

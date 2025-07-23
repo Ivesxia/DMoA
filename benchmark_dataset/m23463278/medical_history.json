@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "RUQ abdominal pain",
+        "history_of_present_illness": "Symptoms began 8 hours prior to admission.",
+        "past_medical_history": "COPD, hypertension, Grave's disease (status post radioactive iodine therapy), colon cancer (stage III, disease free), vertigo, ethanol cirrhosis, history of acute cholecystitis (treated only with antibiotics, no follow-up).",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

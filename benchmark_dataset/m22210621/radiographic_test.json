@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized lung bases show mild dependent atelectasis. The visualized heart and pericardium are unremarkable. The liver is homogeneous in density with no evidence of focal lesions. The gallbladder is normal with no evidence of calcified stones. The spleen is normal in size and configuration. The pancreas is normal in size, without evidence of mass lesions. The adrenal glands are unremarkable. The kidneys enhance and excrete contrast symmetrically with no evidence of stones or hydronephrosis. The visualized small bowels appear unremarkable. There is no free fluid or free air. The visualized appendix measures 9 mm with thickened enhancing walls and periappendiceal stranding, consistent with acute appendicitis. There is mild hyperemia of the wall of the adjacent cecum. There is no evidence of perforation of the appendix or local fluid collections. Enlarged right ileocolic lymph nodes are noted, which are most likely reactive. The rectum, sigmoid colon, bladder, distal ureters, prostate and seminal vesicles are unremarkable. There is no free fluid within the pelvis. The visualized osseous structures are unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

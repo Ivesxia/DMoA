@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder demonstrates wall thickening and edema with trace pericholecystic fluid. In the gallbladder lumen, there is lobulated echogenic debris with at least one shadowing gallstone measuring 1.3 cm. Additional echogenic debris may represent tumefactive sludge. The liver is normal in morphology and echogenicity. No focal liver lesion is identified. There is no intrahepatic biliary dilatation. The common bile duct measures 7 mm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

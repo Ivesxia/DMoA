@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is fluid-filled and measures a maximal diameter of 7 mm, borderline to mildly dilated. There is minimal to no periappendiceal fat stranding. The appendiceal wall is hypenhancing.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

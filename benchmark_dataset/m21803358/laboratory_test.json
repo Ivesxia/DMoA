@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase was 1210 (elevated).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Improvement in the degree of atelectasis at the left base; development of minimal linear atelectasis at the right base; persistent to slightly increasing small left pleural effusion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

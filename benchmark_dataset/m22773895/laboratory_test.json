@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver, gallbladder, pancreas, spleen, and adrenal glands appear normal. The kidneys enhance symmetrically and excrete contrast promptly. There is an appendicolith seen at the base of the appendix and a dilated appendix measuring 12 mm in diameter with periappendiceal fat stranding. Findings compatible with acute uncomplicated appendicitis. Lower quadrant reactive nodes are noted. The large bowel contains moderate fecal load. No evidence of diverticulosis or diverticulitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

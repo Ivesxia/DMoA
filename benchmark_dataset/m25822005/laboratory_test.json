@@ -1,0 +1,53 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "condition": "within normal limits",
+                    "contour": "smooth",
+                    "focal_mass": "no focal liver mass"
+                },
+                "bile_ducts": {
+                    "dilation": "no intrahepatic biliary dilation",
+                    "CHD_measure": "4 mm"
+                },
+                "gallbladder": {
+                    "condition": "distended",
+                    "gallstone": "contains a gallstone",
+                    "wall_thickening": "no evidence of wall thickening",
+                    "edema": "no edema"
+                },
+                "pancreas": {
+                    "condition": "within normal limits",
+                    "masses": "without masses",
+                    "ductal_dilation": "without pancreatic ductal dilation"
+                },
+                "spleen": {
+                    "echogenicity": "normal",
+                    "size": "10.2 cm"
+                },
+                "kidneys": {
+                    "hydronephrosis": "no hydronephrosis"
+                },
+                "retroperitoneum": {
+                    "aorta_and_IVC": "within normal limits"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": {
+                "result": "NO GROWTH",
+                "reference_range": {
+                    "lower": 25.0,
+                    "upper": 36.5
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

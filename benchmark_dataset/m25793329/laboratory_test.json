@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase was 1258, which is outside the normal range (normal range not specified but typically 0-160 U/L for lipase).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "New fat stranding surrounding the pancreas with fluid tracking along the left anterior pararenal space. Multiple metastatic lesions in the liver increased in size compared to prior study. A large splenic metastasis measuring 5.3 x 5.3 cm has increased in size. A left lower quadrant enlarged lymph node measuring 1.4 cm has increased in size from 8 mm on prior imaging.",
+            "changes_over_time": "The splenic metastasis increased in size; the left lower quadrant enlarged lymph node increased in size from 8 mm."
+        }
+    ]
+}

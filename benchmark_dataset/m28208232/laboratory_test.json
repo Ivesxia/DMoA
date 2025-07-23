@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Polymorphonuclear leukocytes",
+            "date": "Not specified",
+            "findings": "2+ (1-5 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN. Reference range is 0.5-2.0.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum sodium",
+            "date": "Not specified",
+            "findings": "1.8 mmol/L. Reference range is not specified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "The cardiomediastinal and hilar contours are within normal limits. Lungs are well expanded and clear. There is no focal consolidation, pleural effusion or pneumothorax. There is no evidence of free air. Old deformity is seen in the left mid shaft clavicle.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

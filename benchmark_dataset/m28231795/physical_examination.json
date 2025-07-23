@@ -1,0 +1,31 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "81 bpm",
+                "blood_pressure": "119/82 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well developed, well nourished, in no acute distress",
+                "head_neck": "Normocephalic, atraumatic, anicteric",
+                "cardiovascular": "Regular rate and rhythm, normal S1S2 with no murmurs/rubs/gallops",
+                "pulmonary": "Clear to auscultation bilaterally with no wheezes/rales/rhonchi, normal excursion, no respiratory distress",
+                "abdominal": "Soft, no mass, no hernia, tender in the right lower quadrant, negative Rovsing's, negative psoas, negative obturator",
+                "neurological": "Alert and oriented to person, place, and time"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "abdomen_imaging": "Appendix is hyperemic with a thickened wall, fluid-filled, and distended to 1.2 cm with significant periappendiceal fat stranding. An appendicolith is noted. No drainable extraluminal collection or extraluminal air."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

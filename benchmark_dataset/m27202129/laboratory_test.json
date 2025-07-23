@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix has hyperenhancing walls and is enlarged measuring 11 mm in diameter with mild surrounding fat stranding. No fluid collections. The liver demonstrates homogeneous attenuation. No focal lesions, biliary dilatation, or gallstones. The pancreas and spleen are normal. Kidneys are normal in size with no stones or lesions. Urinary bladder and distal ureters are unremarkable. Trace free fluid in the pelvis likely physiologic.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test item",
+            "date": "Not specified",
+            "findings": "1.0 mmol/L (within normal range 0.5 - 2.0 mmol/L).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

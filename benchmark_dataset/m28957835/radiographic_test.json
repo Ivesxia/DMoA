@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "The tip of the endotracheal tube projects over the midthoracic trachea. The orogastric tube extends to the distal esophagus and advancement by at least 10 cm is recommended to ensure that the side port lies beyond the EG junction. There are low bilateral lung volumes. Bibasilar opacities likely reflect atelectasis. A more localized opacity centrally in the left midlung may reflect pulmonary vascular congestion or a focal consolidation. There is no pneumothorax identified. No large pleural effusion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Feces C. difficile toxin A & B test",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Troponin",
+            "date": "Not specified",
+            "findings": "Troponin was 7.8.",
+            "changes_over_time": "Trop here was 0.62 (CPK/MB was 330/4) indicating a decrease."
+        },
+        {
+            "procedure_name": "Amylase and LFTs",
+            "date": "Not specified",
+            "findings": "Amylase and LFTs were elevated.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

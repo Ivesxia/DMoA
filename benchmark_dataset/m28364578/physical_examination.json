@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.0 F",
+                "heart_rate": "106 BPM",
+                "blood_pressure": "123/81 mmHg",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "A&OX3, NAD, comfortable",
+                "HEENT": "No scleral icterus, mucus membranes moist, halitosis",
+                "cardiovascular": "RRR, No M/G/R",
+                "pulmonary": "Clear to auscultation b/l, No W/R/R",
+                "abdominal": "Soft, nondistended, slight tenderness in epigastrium and RUQ, no rebound or guarding, normoactive bowel sounds, no palpable masses",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7 °F",
+                "heart_rate": "70 bpm",
+                "blood_pressure": "143/87 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented x3, no acute distress",
+                "heent": "Normocephalic, atraumatic, extraocular movements intact, pupils equal, round, reactive to light and accommodation, no scleral icterus, mucosa moist, no lymphadenopathy",
+                "cardiovascular": "Regular rate and rhythm, S1 and S2 present, no murmurs, rubs, or gallops, carotids 2+, no bruits or jugular venous distention",
+                "pulmonary": "Clear to auscultation bilaterally, no crackles or rhonchi",
+                "gastrointestinal": "Soft, non-tender, non-distended, no guarding, rebound, or frank peritonitis, bowel sounds present in all four quadrants, mildly tender to palpation over incisions",
+                "incision_wounds": "Clean, dry, intact, no hematoma or ecchymosis",
+                "extremities": "No cyanosis, clubbing, or edema; feet warm with good perfusion",
+                "neurological": "Reflexes, strength, and sensation grossly intact; cranial nerves II-XII within normal limits"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

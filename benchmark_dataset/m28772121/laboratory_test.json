@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Amylase",
+            "date": "Not specified",
+            "findings": "3446 U/L, outside normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "2816 U/L, outside normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "767 U/L, outside normal range, decreased from 2816 U/L",
+            "changes_over_time": "Decreased lipase level from 2816 U/L to 767 U/L"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "Gallbladder completely filled with shadowing stones; common bile duct measures 7 mm proximally and dilates to 9 mm distally; no gallbladder wall edema or pericholecystic fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

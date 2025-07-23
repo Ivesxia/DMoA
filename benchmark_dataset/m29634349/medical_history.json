@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient is a ___ year old female with one week of intermittent episodes of right upper quadrant abdominal pain and subjective fevers. Over the last several hours, she has experienced another persistent episode that is worse than prior episodes. No change in the color of urine or bowels, and no cardiopulmonary symptoms. No vomiting or diarrhea.",
+        "past_medical_history": "Not specified",
+        "family_history": "Non-contributory",
+        "social_history": "Obese patient"
+    }
+}

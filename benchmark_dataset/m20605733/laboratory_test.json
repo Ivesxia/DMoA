@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is distended, measuring up to 1 cm in diameter with wall hyperenhancement and mild adjacent stranding, findings are consistent with appendicitis. No evidence of perforation or abscess formation. Other abdominal organs and structures are normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Cultures (Additional)",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

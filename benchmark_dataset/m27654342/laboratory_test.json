@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Escherichia coli culture",
+            "date": "Not specified",
+            "findings": "Escherichia coli detected; result level is 193.0 IU/L (ref range: 94.0 - 250.0 IU/L), within normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen & Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Appendix is fluid-filled and dilated measuring up to 1.8 cm with adjacent fat stranding. No evidence of perforation or mesenteric lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

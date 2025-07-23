@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Minimal bibasilar atelectasis; liver demonstrates homogenous attenuation with innumerable hypodensities, the largest measuring 2.3 x 1.8 cm consistent with a cyst; cystic structure in pancreatic tail measuring 2.0 x 1.3 x 1.9 cm, appearing new from prior exam; normal spleen; kidneys normal with a 1.2 x 1.0 x 1.5 cm intermediate density lesion in left kidney; thickening of sigmoid colon with fat stranding surrounding multiple diverticuli.",
+            "changes_over_time": "The pancreatic cystic structure appears new from the prior exam."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

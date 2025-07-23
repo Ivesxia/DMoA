@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.3°F",
+                "heart_rate": "84 bpm",
+                "blood_pressure": "154/75 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "95%"
+            },
+            "relevant_findings": {
+                "general": "AA&O x 3, NAD, calm, cooperative.",
+                "HEENT": "(-)LAD, mucous membranes moist, trachea midline, EOMI, PERRL.",
+                "chest": "Clear to auscultation bilaterally, (-) cyanosis.",
+                "abdomen": "(+/-) BS x 4 quadrants, soft, mildly tender to palpation incisionally, non-distended.",
+                "incisions": "Clean, dry and intact, dressed and closed with steristrips.",
+                "extremities": "Warm, well perfused, pulses palpable, (+/-) edema."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

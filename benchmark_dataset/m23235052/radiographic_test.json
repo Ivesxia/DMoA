@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT HEAD W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Chronic lacune is seen on the right. Brain atrophy is seen. No midline shift or hydrocephalus. No hemorrhage.",
+            "changes_over_time": "There is no change in appearance."
+        }
+    ]
+}

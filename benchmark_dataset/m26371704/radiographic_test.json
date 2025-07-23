@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Bibasilar atelectasis, no pleural or pericardial effusion; post percutaneous left lower quadrant pigtail drainage catheter placement into a posterior abscess (4.1 x 1.7 cm, previously 4.9 x 1.7 cm) with interval resolution of the fluid component. The intramural abscess within the sigmoid colon has decreased in size; retrouterine abscess stable at 3.1 x 2.2 cm. No free fluid in the pelvis, unremarkable uterus and bilateral adnexae, no abdominopelvic lymphadenopathy, unchanged bones.",
+            "changes_over_time": "The posterior abscess has decreased in size; the previously described intramural abscess within the sigmoid colon has decreased in size. No new or enlarging abscess."
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3",
+                "heart_rate": "186",
+                "blood_pressure": "104",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "General": "Alert, oriented, no acute distress",
+                "HEENT": "Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL.",
+                "Neck": "Supple",
+                "CV": "Regular rate and rhythm. Normal S1+S2, no murmurs, rubs, gallops.",
+                "Lungs": "Clear to auscultation bilaterally",
+                "Abdomen": "Well healed surgical scars. Soft, non-tender, slightly distended, bowel sounds present, no organomegaly, no rebound or guarding",
+                "GU": "No foley",
+                "Ext": "Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema",
+                "Neuro": "Grossly intact"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "85",
+                "heart_rate": "Not specified",
+                "blood_pressure": "140/92",
+                "respiratory_rate": "20",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": "Pain controlled with IV dilaudid but persists between doses. Overall pain improved, patient feels hungry.",
+            "changes_over_time": "Reported improvement in overall pain control."
+        }
+    ]
+}

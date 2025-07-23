@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The diagnosis of appendicitis was supported by the patient's symptoms of acute onset cramping abdominal pain, tenderness to palpation specifically in the right lower quadrant, and imaging findings showing a dilated, fluid-filled appendix with surrounding fat stranding. Additional considerations such as the lack of vital sign abnormalities and absence of other gastrointestinal issues further supported the diagnosis."
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Sudden onset of searing abdominal pain radiating to the lower back.",
+        "history_of_present_illness": "The symptoms began last night after eating hummus and have been constant since then, somewhat relieved by pain medications. Associated symptoms include nausea, diarrhea, and anorexia.",
+        "past_medical_history": "Diabetes Type 1, Hepatitis C genotype III (stage II inflammation and grade 2 to 3 fibrosis), pancreatitis.",
+        "family_history": "Mother with atrial fibrillation; siblings without heart disease.",
+        "social_history": "Not specified."
+    }
+}

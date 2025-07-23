@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC: 1.6*, HGB: 12.2, Plt Count: 38*, Neuts%: 90* (WBC and Platelet count are low; Neutrophils percentage is high)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chemistry",
+            "date": "Not specified",
+            "findings": "Na: 126*, K: 3.6, Cl: 94*, CO2: 19*, BUN: 16, Creat: 0.7 (Sodium is low)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests (LFTs)",
+            "date": "Not specified",
+            "findings": "ALT: 188*, AST: 98*, Alk Phos: 141*, Total Bili: 4.7* (ALT, AST, Alk Phos, and Total Bilirubin are elevated)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

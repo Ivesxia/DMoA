@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "85 bpm",
+                "blood_pressure": "136/83 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "NAD, alert and oriented x 3",
+                "heent": "oropharynx clear, mucous membranes moist",
+                "cardiovascular": "RRR, normal S1 and S2",
+                "pulmonary": "CTAB",
+                "abdominal": "soft, no distention, focally tender to palpation in RLQ, negative rovsing's and psoas signs, no rebound",
+                "extremities": "warm, well perfused, no lower extremity edema, palpable DP pulses bilaterally"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

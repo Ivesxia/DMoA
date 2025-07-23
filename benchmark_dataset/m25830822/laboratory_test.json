@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C. difficile toxin A & B testing",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Radiodense wire of left PICC terminates within the lower superior vena cava. Scattered interstitial opacities are present in the right lung, accompanied by a small right effusion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

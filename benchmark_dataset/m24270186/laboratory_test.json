@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": {
+                "lower_thorax": "Bibasilar atelectasis noted",
+                "liver": {
+                    "steatosis": "Hepatic steatosis without fat fraction of 13.5%",
+                    "focus_of_enhancement": "6 mm focus of arterial enhancement at the inferior right lobe of the liver",
+                    "additional_notes": "No correlate on additional sequences, likely perfusional"
+                },
+                "biliary": {
+                    "common_bile_duct": "Mildly dilated, measuring 8 mm",
+                    "gallbladder": "Surgically absent",
+                    "intrahepatic_bile_ducts": "Mild dilatation of the proximal intrahepatic bile ducts"
+                },
+                "pancreas": "Normal in signal and enhancement, no ductal dilatation or concerning pancreatic lesions",
+                "spleen": "Normal, no focal splenic lesions or splenomegaly",
+                "adrenal_glands": "Normal, no masses",
+                "kidneys": "No concerning renal lesions or hydronephrosis",
+                "gastrointestinal_tract": "Visualized bowel is unremarkable",
+                "lymph_nodes": "No retroperitoneal or mesenteric lymphadenopathy",
+                "vasculature": "Abdominal aorta is not aneurysmal",
+                "osseous_and_soft_tissue": "No concerning osseous lesions or notable soft tissue abnormality"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis (CFU/mL)",
+            "date": "Not specified",
+            "findings": {
+                "bacteria_level": "< 10,000 CFU/mL"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test for Liver Function",
+            "date": "Not specified",
+            "findings": {
+                "value": "30.0 mg/dL"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

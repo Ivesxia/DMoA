@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Glucose",
+            "date": "Not specified",
+            "findings": "Glucose level is 309 mg/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver Function Test (ALT)",
+            "date": "Not specified",
+            "findings": "ALT level is 66 U/L (within normal range).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver Function Test (AST)",
+            "date": "Not specified",
+            "findings": "AST level is 56 U/L (within normal range).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level is 394 U/L (elevated).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound - Liver or Gallbladder",
+            "date": "Not specified",
+            "findings": "The liver demonstrates normal echotexture without focal lesions. No gallstones, no gallbladder wall edema, and the gallbladder is incompletely distended.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

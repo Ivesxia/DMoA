@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Several scattered sub-cm hypodensities in the liver are likely biliary hamartomas, no concerning focal hepatic lesions, no biliary ductal dilatation, normal gallbladder, normal spleen, pancreas, and adrenal glands, kidneys unremarkable, normal caliber stomach, duodenum, and intra-abdominal loops of small bowel, dilated and fluid-filled appendix with mucosal hyperemia and extensive adjacent fat stranding and free fluid, abnormal bilobed contour to distal appendix with 9 mm rim enhancing collection likely reflecting small periappendiceal abscess.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "0-2 #/hpf.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

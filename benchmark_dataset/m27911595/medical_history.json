@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Pain in the right lower quadrant (RLQ)",
+        "history_of_present_illness": "Pain started 9 days ago, originally attributed to gas; took Tums with no improvement. Pain worsened for the first few days, reaching severity of ___ before beginning to improve. After initial improvement, more sweats and chills developed, requiring multiple clothing changes throughout the day and causing difficulty sleeping.",
+        "past_medical_history": "Positive PPD treated many years ago; seborrheic dermatitis",
+        "family_history": "No family history of colon cancer",
+        "social_history": "Not specified"
+    }
+}

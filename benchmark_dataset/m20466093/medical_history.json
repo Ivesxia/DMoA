@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Sudden onset sharp, constant periumbilical pain.",
+        "history_of_present_illness": "The pain began suddenly and has been constant since the last meal at 0400. It was nonradiating and ___ in severity at initial presentation. The patient has experienced similar pain after gastric bypass in the past, but not of this severity. He had abdominal discomfort through the night that prevented him from sleeping well, accompanied by increased belching and one soft stool without blood that morning. Denies associated nausea, vomiting, fevers, or chills.",
+        "past_medical_history": "IDDM, Hypertension, Hyperlipidemia, Hyperthyroid status post thyroidectomy, Stiff man syndrome, Kidney stones, Gastric bypass surgery, Left rotator cuff repair.",
+        "family_history": "Diabetes mellitus type 2, hypertension, dyslipidemia, T-cell lymphoma (mother diagnosed at age ___, now in hospice care). No family history of gallstones, gallstone surgery, heart disease, or stroke.",
+        "social_history": "Not specified."
+    }
+}

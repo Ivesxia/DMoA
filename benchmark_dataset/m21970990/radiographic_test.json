@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "The right subclavian PICC line is in the mid portion of the SVC. No evidence of acute cardiopulmonary disease.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

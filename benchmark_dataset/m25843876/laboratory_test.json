@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood test",
+            "date": "Not specified",
+            "findings": "1.8 mg/dL (normal range: 1.6 - 2.6 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

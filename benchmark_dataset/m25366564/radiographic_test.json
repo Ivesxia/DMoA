@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver appears somewhat echogenic suggesting fatty infiltration. No focal hepatic mass lesions are seen. There is no evidence of intra- or extra-hepatic biliary dilatation. The common bile duct measures 2 mm. The gallbladder appears grossly unremarkable. There is no evidence of cholecystitis. The spleen measures 5.8 cm and appears grossly unremarkable.",
+            "changes_over_time": "The liver again appeared somewhat echogenic suggesting fatty infiltration, similar to the prior exam."
+        }
+    ]
+}

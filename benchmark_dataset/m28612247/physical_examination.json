@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8 °F",
+                "heart_rate": "71 bpm",
+                "blood_pressure": "148/78 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "alertness": "Alert and oriented",
+                "general_appearance": "Looks well",
+                "lungs": "Clear bilaterally",
+                "heart": "Regular rate and rhythm",
+                "abdomen": "Soft, tender in R lower quadrant, no guarding, no rebound",
+                "rectal_examination": "No differential tenderness"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

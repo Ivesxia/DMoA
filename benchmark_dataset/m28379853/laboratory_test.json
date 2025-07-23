@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Liver is normal in echogenicity with no focal lesions present. The portal vein is patent with hepatopetal flow. Gallbladder is distended with stones which are nonmobile in the neck of the gallbladder. There is mild gallbladder wall edema with pericholecystic fluid. No ascitic fluid is present.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Quantitative HCG test",
+            "date": "Not specified",
+            "findings": "NEGATIVE FOR QUANTITATION OF POSITIVES, SEND SERUM FOR HCG.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with right lower quadrant pain, nausea, and vomiting, which are consistent with appendicitis. Imaging findings indicated inflammatory changes in the right lower abdomen and pelvis, supporting the diagnosis."
+    }
+}

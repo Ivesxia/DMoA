@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "Presence of STAPH AUREUS COAG + indicates the presence of coagulase-positive Staphylococcus aureus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparotomy",
+            "date": "Not specified",
+            "findings": "Status post laparotomy for removal of gallstone impacted in mid small bowel. Laparotomy wound appears unremarkable with diffuse subcutaneous tissue edema in the abdomen and pelvis.",
+            "changes_over_time": "Intra-abdominal collections are noted as resolved with no evidence of wound dehiscence."
+        }
+    ]
+}

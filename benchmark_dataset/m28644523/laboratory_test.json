@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT abdomen and pelvis with IV contrast",
+            "date": "Not specified",
+            "findings": "Extensive fat stranding and fluid within the right lower quadrant. The appendix is dilated and fluid-filled measuring up to 2.2 cm. There is disruption of the appendiceal wall with extraluminal foci of air and a developing fluid collection, which measures approximately 3.7 x 2.5 x 4.9 cm. There is normal liver, pancreas, spleen, adrenal glands, and kidneys. No bowel obstruction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gram stain",
+            "date": "Not specified",
+            "findings": "Positive for Gram positive cocci in clusters.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PT (Prothrombin Time)",
+            "date": "Not specified",
+            "findings": "Prothrombin Time is 13.7 sec.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

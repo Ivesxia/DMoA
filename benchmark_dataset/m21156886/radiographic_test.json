@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The imaged lung bases are clear of pulmonary nodules or pleural effusions. The appendix is dilated measuring 11 mm, with periappendiceal fat stranding. Dense material at the base of the appendix may represent an appendicolith. No periappendiceal fluid collections or abscess are seen. There is no intra-abdominal free fluid or air.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

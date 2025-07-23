@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy of liver",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver ultrasound",
+            "date": "Not specified",
+            "findings": "The liver appears normal without focal lesions. No intrahepatic biliary ductal dilatation. Multiple echogenically shadowing stones within the gallbladder, however, the gallbladder is not distended. The wall is not thickened and there is no pericholecystic fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

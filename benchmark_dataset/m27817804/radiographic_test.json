@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "In the right lower quadrant, there is a dilated, blind ending tubular appendix measuring up to 14 mm in diameter with a targetoid appearance. It is noncompressible. There is a small to moderate amount of adjacent free fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

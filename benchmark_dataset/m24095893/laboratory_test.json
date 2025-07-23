@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "CT findings show a dilated appendix measuring up to 12 mm, fluid filled and containing an appendicolith. No focal liver lesions, no intra or extrahepatic biliary dilatation, and no concerning renal lesions. The liver enhances homogeneously. The gallbladder, pancreas, spleen, and adrenal glands are normal. The kidneys enhance and excrete contrast promptly.",
+            "changes_over_time": "A 4 mm lung nodule in the right lung base is stable in size and appearance since Not specified."
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

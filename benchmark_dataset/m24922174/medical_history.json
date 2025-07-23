@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient states that the pain came on suddenly today, waking him from sleep around 3 AM. He describes it as sharp, constant, and located on the right side. The pain did not go away, prompting him to seek emergency care.",
+        "past_medical_history": "Type 2 Diabetes Mellitus on insulin, Hypothyroidism, Hypertension, Prostate cancer status post radiotherapy, Pilonidal cyst surgery, Inguinal hernia surgery (x2), Glaucoma, Cataracts, Sickle cell trait, Hearing loss, Osteoarthritis, Nephrolithiasis, History of gallstones, Chronic Kidney Disease stage III.",
+        "family_history": "Remarkable for type 2 diabetes but no prostate cancer.",
+        "social_history": "Not specified."
+    }
+}

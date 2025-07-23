@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified.",
+            "findings": "Trace bilateral pleural effusions; normal heart size; spleen and liver show moderate signal drop-off on T1 weighted in-phase images compatible with hemosiderosis; no intrahepatic mass detected; portal and hepatic veins are patent; top normal spleen size; normal adrenal glands; post right lower quadrant renal transplant appearing normal in size without collecting system obstruction; markedly atrophic native kidneys; a 5 mm well-circumscribed non-enhancing simple cyst in the right native kidney; enlarged and edematous pancreas with mild adjacent fat stranding, diffusely decreased parenchymal signal intensity, normal enhancement, and minimal irregularity of the main pancreatic duct; trace peripancreatic fluid present; no mesenteric or retroperitoneal lymphadenopathy; no ascites; no bony lesions concerning for malignancy or infection.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

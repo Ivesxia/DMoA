@@ -1,0 +1,25 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "HEPATOBILIARY": "The liver enhances homogeneously without evidence of concerning focal lesion. There is no intrahepatic biliary ductal dilation. The portal vein is patent. There is gallbladder wall edema versus pericholecystic fluid, with multiple large gallstones within the gallbladder lumen. The gallbladder is distended. There is no significant adjacent fat stranding.",
+                "PANCREAS": "The pancreas enhances homogeneously. There is no peripancreatic stranding or ductal dilation.",
+                "SPLEEN": "Tiny hypodensity in the medial spleen is nonspecific and could represent a hemangioma or a posttraumatic cyst, not well evaluated due to size. Otherwise, the spleen is unremarkable. There is no splenomegaly.",
+                "ADRENALS": "The adrenal glands are normal.",
+                "URINARY": "Several circumscribed hypodensities in the bilateral renal cortices measuring up to 1.6 cm in the left posterior renal cortex are compatible with simple renal cysts. Smaller hypodensities elsewhere in the renal cortices are too small to characterize accurately by CT. Otherwise, the kidneys enhance normally and symmetrically. There is no hydronephrosis.",
+                "GASTROINTESTINAL": "The stomach and duodenum are unremarkable. Non-dilated small bowel loops are normal in course and caliber without evidence of wall thickening or obstruction. The colon is unremarkable. The appendix is normal.",
+                "VASCULAR AND LYMPH NODES": "There is mild aortic calcification. There is no aneurysm or dilation. Major proximal tributaries are patent. There is no mesenteric or retroperitoneal lymphadenopathy by CT size criteria. There is no free intraperitoneal air. Aside from pericholecystic fluid, there is no free intraperitoneal fluid.",
+                "CT PELVIS": "The imaged pelvic organs, including the bladder and terminal ureters, are unremarkable. There is no pelvic sidewall, iliac chain, or inguinal lymphadenopathy. There is no free pelvic fluid. Bilateral inguinal herniorrhaphy changes are noted."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "7.0 ng/mL (Ref range: 0.0 to 10.0 ng/mL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

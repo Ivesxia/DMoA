@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "heart_rate": "58 bpm",
+                "blood_pressure": "120/76 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": "GA: alert and oriented x 3, NAD; S1, S2, no murmurs; good air entry bilaterally; soft, obese abdomen, non-tender, non-distended, no masses; warm extremities, minimal edema.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2 °F",
+                "heart_rate": "50 bpm",
+                "blood_pressure": "150/65 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, pleasant demeanor",
+                "HEENT": "Pupils equal, round, reactive to light. Mucous membranes dry. Neck supple, no stiffness, no scleral icterus.",
+                "cardiovascular": "Bradycardic, S1 and S2 heart sounds present, no murmurs, rubs, or gallops.",
+                "pulmonary": "Clear to auscultation bilaterally, breathing comfortably.",
+                "abdominal": "Soft, mildly distended, tender to palpation in mid-epigastric and right upper quadrant. No definite Murphy's sign.",
+                "extremities": "Warm, well-perfused, large ankles bilaterally, dark skin bilaterally on anterior calf."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Urine analysis",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT abdomen and pelvis with contrast",
+            "date": "Not specified",
+            "findings": "Diverticulosis of the sigmoid colon, stranding along the distal sigmoid consistent with acute diverticulitis, and an adjacent extraluminal fluid collection measuring 2.9 x 3 cm.",
+            "changes_over_time": "Several prominent lymph nodes noted, not present on the prior study, largest measuring 12 mm in short axis diameter."
+        }
+    ]
+}

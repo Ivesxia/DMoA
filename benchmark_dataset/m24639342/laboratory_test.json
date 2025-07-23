@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is a calcified granuloma in the left lobe measuring up to 0.8 cm, and several simple cysts throughout the liver. The main portal vein is patent with hepatopetal flow. There is no ascites. There is no intrahepatic biliary dilation. The CBD measures 6 mm. The gallbladder is distended containing sludge and stones, located at the gallbladder neck, with mild gallbladder wall thickening and edema. There is no pericholecystic fluid. There was a positive sonographic ___ sign. Normal echogenicity of the spleen, measuring 12.9 cm. The limited images of the right kidney are normal with no hydronephrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hypopotassemia",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

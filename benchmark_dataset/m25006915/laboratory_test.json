@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "Elevated WBC count",
+            "changes_over_time": "WBC count elevated initially, then re-elevated on return to ED."
+        },
+        {
+            "procedure_name": "Blood Sugar",
+            "date": "Not specified",
+            "findings": "120.0 mg/dL",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Bilateral lung base heterogeneous airspace opacities have progressed; right costophrenic angle blunting suggestive of small pleural effusion; perihilar vascular congestion.",
+            "changes_over_time": "Progression noted in lung base opacities and pleural effusion since prior exam."
+        }
+    ]
+}

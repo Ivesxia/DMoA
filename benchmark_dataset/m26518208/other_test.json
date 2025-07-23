@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biliary tree assessment",
+            "date": "Not specified",
+            "findings": "Patency of the bile ducts; however, contrast was not seen to drain to the distal bowel.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Unrevealing.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Placement of biliary drain",
+            "date": "Not specified",
+            "findings": "Drain was placed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture (not stated, but relevant for other tests context)",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

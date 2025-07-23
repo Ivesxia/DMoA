@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is visualized and its proximal lumen fills with oral contrast and appears normal. However, along the mid-distal appendix which follows a retrocecal course, the wall appears hyperemic and thick with mild infiltration of the surrounding fat. Appendix diameter measures up to 9 mm. The lung bases are clear. The liver shows no focal lesion or intrahepatic biliary dilatation. Gallbladder shows no stones or wall edema. The spleen is normal in size and appearance. The adrenal glands and pancreas show no masses. The kidneys enhance with and excrete contrast symmetrically without evidence of hydronephrosis. The small and large bowel shows no evidence of obstruction or wall edema. The bladder, uterus and rectum appear unremarkable. There is no free fluid or lymphadenopathy. There are no aggressive-appearing lytic or sclerotic lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

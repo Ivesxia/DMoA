@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ERCP BILIARY&PANCREAS BY GI UNIT",
+            "date": "Not specified",
+            "findings": "Filling defect within the common bile duct consistent with a stone. Normal caliber of the intra- and extra-hepatic biliary ducts. Removal of stone and opacification of the cystic duct and gallbladder.",
+            "changes_over_time": "Removal of stone observed."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Atelectasis or scarring in the lingula; multiple round hypodense lesions in the liver consistent with cysts; liver diffusely hypodense indicating fatty infiltration; gallbladder minimally distended with significant wall thickening and surrounding fat stranding; multiple gallstones in the gallbladder; biliary findings concerning for acute cholecystitis; portal vein patent; pancreas, spleen, and adrenal glands unremarkable; bilateral exophytic cysts of simple fluid density; hyperdense lesion in left kidney previously evaluated as cyst; stomach, duodenum, and small bowel unremarkable; sigmoid diverticulosis in colon; no appendicitis; nonspecific 1.5 cm minimally enlarged lymph node at porta hepatis; urinary bladder unremarkable; no pelvic free fluid or lymphadenopathy; no suspicious lytic or sclerotic lesions; fat-density lesion in left posterior abdominal wall unchanged from prior study.",
+            "changes_over_time": "Unchanged from prior exam regarding liver cysts and fat-density lesion in left posterior abdominal wall; minimally enlarged lymph node at porta hepatis was noted."
+        }
+    ]
+}

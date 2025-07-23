@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Other than mild dependent atelectasis, the visualized lung fields are unremarkable. There is no evidence of pleural or pericardial effusion. The liver demonstrates homogenous attenuation with scattered subcentimeter hepatic hypodensities suggestive of cysts or hamartomas. There is no evidence of intrahepatic or extrahepatic biliary dilatation. The gallbladder is within normal limits. The pancreas has normal attenuation without evidence of focal lesions. The spleen shows normal size and attenuation. The adrenal glands are normal. The kidneys are normal in size with no focal lesions or hydronephrosis. The gastrointestinal tract is unremarkable except for a fluid-filled blind-ending tubular structure in the right hemiabdomen, measuring 15 mm in diameter with substantial surrounding fat stranding and trace free fluid. No pneumoperitoneum or abscess. The urinary bladder and distal ureters are unremarkable. The uterus and bilateral adnexae are normal. No lymphadenopathy noted. No abdominal aortic aneurysm or atherosclerotic disease. No evidence of osseous lesions or acute fracture. The abdominal and pelvic wall is within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

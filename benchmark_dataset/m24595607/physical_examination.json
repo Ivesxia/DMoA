@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "122/80 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress",
+                "HEENT": "No scleral icterus, mucous membranes moist",
+                "pulmonary": "Normal work of breathing",
+                "abdominal": "Soft, non-distended, tenderness to palpation in right lower quadrant, no palpable masses",
+                "extremities": "Warm, well perfused"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "heart_rate": "65 bpm",
+                "blood_pressure": "105/69 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x3, sitting up in bed eating breakfast, no acute distress",
+                "cardiovascular": "Heart rate regular",
+                "pulmonary": "Lung sounds clear to auscultation bilaterally",
+                "abdominal": "Soft, minimally tender over incision sites, laparoscopic sites clean, covered in dry sterile dressing",
+                "extremities": "Warm, well perfused, no edema"
+            },
+            "changes_over_time": "Improvement noted as patient is now sitting up and eating breakfast, tenderness has minimized"
+        }
+    ]
+}

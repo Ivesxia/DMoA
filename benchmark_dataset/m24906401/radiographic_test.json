@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated and fluid filled with mucosal hyperemia and extensive adjacent fat stranding and free fluid. There is an abnormal bilobed contour to the distal appendix with an associated 9 mm rim enhancing collection likely reflecting a small periappendiceal abscess. Several scattered sub-cm hypodensities in the liver are likely biliary hamartomas. No concerning focal hepatic lesions are present. No biliary ductal dilatation. The gallbladder, spleen, pancreas, adrenal glands, and kidneys are normal. The stomach, duodenum, and intra-abdominal loops of small bowel are normal in caliber and unremarkable. The sigmoid colon and rectum are normal. The distal ureters and bladder are normal. The uterus is unremarkable. A cyst is noted in the right ovary. No focal lytic or sclerotic osseous lesion is seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

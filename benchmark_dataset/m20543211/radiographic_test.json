@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "The heart is mildly enlarged. There is mild pulmonary vascular congestion. There is no focal consolidation, pleural effusion or pneumothorax.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

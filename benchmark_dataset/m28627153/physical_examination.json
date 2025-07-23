@@ -1,0 +1,43 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "95°F",
+                "heart_rate": "75 bpm",
+                "blood_pressure": "104/53 mmHg",
+                "respiratory_rate": "22 breaths/min",
+                "O2_saturation": "96% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, alert",
+                "head_and_neck": "AT, NC, soft, supple, no masses",
+                "heart": "RRR, no murmurs",
+                "lungs": "CTAB, no rhonchi, no crackles",
+                "abdomen": "soft, ND, tender in lower abdomen (R > L), no rebound, mild tenderness to percussion",
+                "extremities": "warm, well-perfused, no edema"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.7°F",
+                "heart_rate": "77 bpm",
+                "blood_pressure": "112/58 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "O2_saturation": "96% on RA"
+            },
+            "relevant_findings": {
+                "HEENT": "NCAT, PERRL, EOMI, no pharyngeal erythema, no scleral icterus, no nasal d/c, no LAD",
+                "cardiac": "RRR, no m/r/g",
+                "pulmonary": "+ mild crackles at the L lung base",
+                "abdomen": "+ ostomy bag in place, no surrounding erythema, +bs, soft, NTND, no HSM",
+                "upper_extremities": "erythema around L arm line but no warmth or tenderness, + non-pitting edema in upper arm and elbow",
+                "lower_extremities": "+ non-pitting edema in ___ up to thigh",
+                "neurological": "alert and awake, reflexes +2"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

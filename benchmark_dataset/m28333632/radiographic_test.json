@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The appendix is noncompressible and dilated, measuring up to 1.1 x 1.1 cm (transverse). There is an appendicolith measuring 6 mm. There is no evidence of periappendiceal fluid collection.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7 °F",
+                "blood_pressure": "122/78 mmHg",
+                "heart_rate": "67 bpm",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "NAD, slightly uncomfortable from sacral decubitus",
+                "HEENT": "No conjunctival injection, anicteric, moist mucous membranes, 3mm pupils that do not react",
+                "cardiovascular": "S1S2 regular, no murmurs/rubs/gallops",
+                "respiratory": "Bilateral air entry, no wheezes/crackles/rhonchi",
+                "gastrointestinal": "Bowel sounds positive, soft abdomen, non-tender, non-distended, no guarding or rebound",
+                "musculoskeletal": "No cyanosis/clubbing/edema, 2+ pulses",
+                "skin": "Stage III decubitus with central area of necrotic skin, foul odor",
+                "neurological": "Face symmetric, speech fluent, bilateral lower extremity weakness; unable to lift feet off bed, good historian, no evidence of delirium",
+                "psychiatric": "Calm, cooperative",
+                "lymphatic": "No cervical lymphadenopathy"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

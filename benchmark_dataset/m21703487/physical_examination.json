@@ -1,0 +1,17 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "general": "AAOx3, NAD",
+                "HEENT": "NCAT, EOMI, PERRLA, No scleral icterus, mucosa moist",
+                "cardiovascular": "RRR, 2+ radial pulses b/l",
+                "pulmonary": "Breathing comfortably on room air",
+                "gastrointestinal": "Previous laparoscopic incisions well healed, C/D/I, soft, minimal TTP, non-distended, no guarding, rebound, or peritoneal signs",
+                "neurological": "Strength and sensation grossly intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

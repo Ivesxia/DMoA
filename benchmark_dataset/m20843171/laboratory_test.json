@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Coagulation Test",
+            "date": "Not specified",
+            "findings": "PT: 11.9 sec (normal range: 9.4 - 12.5 sec)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Dilated and fluid-filled appendix with hyperemia of the mucosa compatible with appendicitis. No signs of perforation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

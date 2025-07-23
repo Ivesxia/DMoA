@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized heart and lung bases are clear. There are no pleural or pericardial effusions. The liver enhances homogeneously, without focal lesions. The gallbladder is partially collapsed without calcified stones, sludge, or wall thickening. There is no peripancreatic fluid collection. There is focal subtle hypodensity of the pancreatic neck and head that is nonspecific and equivocal stranding in the pancreaticoduodenal groove. The pancreatic duct is nondilated. There is no biliary dilation. The spleen is normal, with a 1-cm splenule medial to the anterior splenic tip. The adrenals and kidneys are normal. The stomach and small bowel are unremarkable. Multiple sigmoid colonic diverticula are present, without acute inflammation. The bladder and distal ureters are normal. The prostate and seminal vesicles are unremarkable. There is no free fluid in the pelvis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

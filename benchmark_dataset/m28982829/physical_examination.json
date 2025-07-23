@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "blood_pressure": "141/89 mmHg",
+                "heart_rate": "67 bpm",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "93-95% on room air"
+            },
+            "relevant_findings": {
+                "general": "Sitting up in bed, alert but looking withdrawn, minimal movement and paucity of facial expressions.",
+                "HEENT": "Sclera anicteric, conjunctivae pink. Mucous membranes moist. Oropharyngeal mucosa normal in appearance, without inflammation, exudates, or lesions.",
+                "neck": "Supple. No anterior cervical, submental, submandibular, or supraclavicular lymphadenopathy appreciated.",
+                "thorax_and_lungs": "Breathing comfortably on room air, no retractions. Lungs clear to auscultation bilaterally, no wheezes/rhonchi/rales.",
+                "cardiovascular": "Regular rate and rhythm, normal S1/S2, no murmurs/rubs/gallops. No jugular venous distention appreciated.",
+                "abdomen": "Distended and diffusely tender, with involuntary guarding and rebound. Hypoactive to absent bowel sounds. No masses or organomegaly.",
+                "extremities": "Warm, well-perfused, with 2+ radial and dorsalis pedis pulses. No edema appreciated.",
+                "neurological": "Alert, attentive, cooperative with exam, good recall of and coherent history. Cranial nerves II-XII intact. No focal weakness, abnormal sensation, or discoordination."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

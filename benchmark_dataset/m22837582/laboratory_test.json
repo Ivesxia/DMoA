@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound - Liver or Gallbladder",
+            "date": "Not specified",
+            "findings": "Distended gallbladder with surrounding pericholecystic fluid. Gallbladder wall is edematous and minimally thickened at 4 mm. No evidence for cholelithiasis. Normal liver echotexture without focal liver lesion. No intrahepatic biliary dilatation. Common bile duct measures 3 mm. The main portal vein is patent and demonstrates hepatopetal flow. No evidence for ascites in the visualized upper abdomen. Spleen measures 11.5 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "Positive for KLEBSIELLA PNEUMONIAE, ENTEROCOCCUS SP., ENTEROBACTERIACEAE.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "3.7 mg/dL (within normal range of 2.7 - 4.5 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

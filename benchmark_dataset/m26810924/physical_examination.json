@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4 °F",
+                "heart_rate": "77 bpm",
+                "blood_pressure": "116/66 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress (NAD)",
+                "cardiovascular": "Regular rate and rhythm (RRR)",
+                "abdominal": "Soft, tender to palpation in the right upper quadrant (RUQ), no Murphy's sign",
+                "extremities": "No cyanosis, clubbing, or edema (c/c/e)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

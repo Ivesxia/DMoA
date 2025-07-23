@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild bibasilar atelectasis; the liver appears steatotic with a 1.2 cm cyst in the left lobe, other subcentimeter hypodensities too small to characterize; pancreas, spleen, and adrenal glands normal; kidneys normal and symmetric; the appendix appears dilated, fluid-filled, and hyperemic with mild surrounding fat stranding.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CTROPNT",
+            "date": "Not specified",
+            "findings": "<0.01. CTROPNT > 0.10 NG/ML suggests acute MI (myocardial infarction).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

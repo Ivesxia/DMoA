@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Interval reduction in the right pleural effusion, with a small residual effusion. No pneumothorax detected. Lungs are well expanded and clear except for improving atelectasis in the right lung base. No pulmonary vascular congestion or evidence of pneumonia. Mediastinal contours are unremarkable, except for mild tortuosity of the thoracic aorta.",
+            "changes_over_time": "Reduction in the right pleural effusion and improvement in atelectasis."
+        }
+    ]
+}

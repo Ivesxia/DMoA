@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The lung bases demonstrate dependent atelectasis. No pleural or pericardial effusion. A gallstone is present. The liver, spleen, adrenal glands, right kidney, stomach, small bowel, and visualized portions of the ureters are within normal limits. A 9 mm hypodensity in the left kidney is too small to characterize. Colonic diverticula are seen without evidence for inflammation. There is peripancreatic fat stranding with a small amount of adjacent free fluid consistent with acute pancreatitis. No fluid collection or pancreatic necrosis is seen. No evidence for splenic vein thrombus or splenic artery pseudoaneurysm. No free intraperitoneal air. Evaluation of the pelvis slightly limited due to artifact from right hip hardware.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

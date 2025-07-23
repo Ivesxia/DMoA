@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified.",
+            "findings": "The appendix is dilated and fluid filled measuring up to 16 mm with wall thickening, hyperemia and surrounding inflammation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified.",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified.",
+            "findings": "1.9 mmol/L (within normal range as reference range is 0.5 to 2.0 mmol/L).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

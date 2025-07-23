@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory findings of polymorphonuclear leukocytes",
+            "date": "Not specified",
+            "findings": "4+ (>10 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum concentration test",
+            "date": "Not specified",
+            "findings": "1.5 ng/dL (within normal range of 0.93 - 1.7)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ABDOMEN (SUPINE & ERECT) radiograph",
+            "date": "Not specified",
+            "findings": "No abnormally dilated loops of large or small bowel, residual enteric contrast material seen within the colon, no free intraperitoneal air, a new right lower quadrant drainage catheter noted, and extensive vascular calcification present.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

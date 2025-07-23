@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "? old inferior MI, NSR, no acute ischemic changes",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Patient reported no abdominal pain, nausea, or other concerns post-procedure."
+        },
+        {
+            "procedure_name": "Renal Ultrasound",
+            "date": "Not specified",
+            "findings": "Right kidney measures 10.1 cm, left kidney measures 11.0 cm, mild fullness of the bilateral renal pelves without overt hydronephrosis. No stones or renal masses, normal cortical echogenicity and corticomedullary differentiation bilaterally.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

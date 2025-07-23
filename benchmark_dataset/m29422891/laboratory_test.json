@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver is homogeneously hypodense, consistent with fatty change. There is no evidence of focal lesions. The gallbladder is distended with mild pericholecystic fluid, pericholecystic fat stranding, and mild gallbladder wall thickening. There is a small amount of free fluid tracking along the subhepatic space. The pancreas, spleen, adrenal glands, kidneys, stomach, small bowel, colon, and pelvic structures were found to be normal except for scattered diverticula in the colon and a distended urinary bladder with a right posterolateral diverticulum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Organism Count",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test (Fatty Change)",
+            "date": "Not specified",
+            "findings": "9.0 mg/dL (within reference range of 8.4-10.3)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4°F",
+                "heart_rate": "109 bpm",
+                "blood_pressure": "133/74 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "constitutional": "Uncomfortable, awake and alert",
+                "HEENT": "Normocephalic, atraumatic; Oropharynx clear, mucous membranes moist",
+                "chest": "Clear to auscultation, normal effort",
+                "cardiovascular": "Regular Rate and Rhythm, Normal first and second heart sounds",
+                "abdominal": "Soft, Nondistended, diffusely tender to palpation, no rebound or guarding",
+                "GU/flank": "No costovertebral angle tenderness",
+                "extremities/back": "No cyanosis, clubbing or edema",
+                "skin": "No rash, Warm and dry",
+                "neurological": "Speech fluent, moving all extremities"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

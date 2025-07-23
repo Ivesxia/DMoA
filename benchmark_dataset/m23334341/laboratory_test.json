@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "WBC count is 12.0 K/uL (above reference range of 4.0 - 11.0 K/uL) indicating leukocytosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "Normal liver size and echotexture. Complex hypoechoic lesion measuring 7 mm in the right lobe; gallbladder is distended with mural thickening and non-obstructing stones; obstructing stone of 16 mm in the cystic duct; common bile duct dilated to 7 mm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

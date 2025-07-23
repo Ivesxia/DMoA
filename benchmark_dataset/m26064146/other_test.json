@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laparoscopic appendectomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is dilated, up to 1.0 cm, with wall hyperenhancement. No other abnormalities noted in surrounding organs.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "HOLD. DISCARD GREATER THAN 24 HRS OLD."
+        }
+    ]
+}

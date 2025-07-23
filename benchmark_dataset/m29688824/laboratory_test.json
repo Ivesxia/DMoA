@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Tests (LFTs)",
+            "date": "Not specified",
+            "findings": "Broadly elevated LFTs",
+            "changes_over_time": "LFTs decreased after follow-up with a Gastroenterologist"
+        },
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

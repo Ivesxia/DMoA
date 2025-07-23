@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver demonstrates no textural or focal abnormality. The portal vein demonstrates normal hepatopetal flow. There is no intrahepatic biliary dilatation. The gallbladder does not demonstrate wall thickening or pericholecystic fluid. No evidence of large stone. The spleen measures 12 cm and appears unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

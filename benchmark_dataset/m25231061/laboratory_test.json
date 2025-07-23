@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC 17.8 with left shift; normal range not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Platelet Count",
+            "date": "Not specified",
+            "findings": "Plt 71 from 575; low platelet count suggests thrombocytopenia.",
+            "changes_over_time": "Decreased from 575 to 71."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Creatinine 2.3 from a normal baseline; elevated indicating acute kidney injury.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver Function Tests (ALT/AST)",
+            "date": "Not specified",
+            "findings": "ALT 440, AST 770; elevated indicating acute liver injury.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "LDH",
+            "date": "Not specified",
+            "findings": "LDH 675; elevated, normal range not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "UA equivocal for UTI; specific measures not provided.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "HCV-RNA Test",
+            "date": "Not specified",
+            "findings": "HCV-RNA NOT DETECTED. Limit of detection: 1.50E+01 IU/mL.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "Moderate cardiomegaly without evidence of pulmonary edema. No pleural effusions, no focal parenchymal opacities suggesting pneumonia. Known large hiatal hernia with air-fluid level.",
+            "changes_over_time": "As compared to the previous radiograph, there is no relevant change."
+        }
+    ]
+}

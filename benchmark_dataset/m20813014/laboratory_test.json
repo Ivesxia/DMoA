@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 23,737 (high, outside normal ranges)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ABDOMEN US (COMPLETE STUDY)",
+            "date": "Not specified",
+            "findings": "Increased echogenicity of the liver consistent with hepatic steatosis, no intrahepatic biliary dilatation or focal masses, gallbladder morphology consistent with adenomyomatosis, common bile duct measuring about 3 mm, right pleural effusion, main portal vein patent with hepatopetal flow, right kidney 11.2 cm without hydronephrosis or nephrolithiasis, left kidney 11.4 cm without hydronephrosis or nephrolithiasis, spleen normal at 10 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

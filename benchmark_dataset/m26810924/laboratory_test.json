@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "echogenicity": "echogenic",
+                    "focal_fatty_sparing": "around the gallbladder fossa",
+                    "contour": "smooth",
+                    "focal_liver_mass": "none",
+                    "main_portal_vein": "patent with hepatopetal flow",
+                    "ascites": "none"
+                },
+                "bile_ducts": {
+                    "intrahepatic_biliary_dilation": "none",
+                    "CBD_measurement": "4 mm"
+                },
+                "gallbladder": {
+                    "cholelithiasis": "present",
+                    "gallbladder_wall_thickening": "none",
+                    "sonographic_sign": "negative"
+                },
+                "pancreas": {
+                    "visualization": "not well visualized due to overlying bowel gas"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolyte Panel",
+            "date": "Not specified",
+            "findings": {
+                "serum_bicarbonate": {
+                    "value": "24.0 mEq/L",
+                    "reference_range": {
+                        "lower": "22.0 mEq/L",
+                        "upper": "32.0 mEq/L"
+                    },
+                    "status": "within normal range"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

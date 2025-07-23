@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "heart_rate": "85 bpm",
+                "blood_pressure": "123/66 mmHg",
+                "respiratory_rate": "16 rpm"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress, jaundiced",
+                "heent": "Mild scleral icterus",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezing/rales/rhonchi",
+                "abdomen": "Soft, nondistended, mildly tender to palpation in right upper quadrant, no guarding, no rebound tenderness",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Pain started around noon on the day of presentation. Initially, the pain was present across the lower abdomen but has since localized to the middle and LLQ. Patient has been feeling fatigued and occasionally dizzy. The pain is described as cramping, causing the patient to keel over, sweat, and become lightheaded. Pain is improved with curling up, rated moderate with rest and severe with movement. Patient reports taking 2 Percocet without effect.",
+        "past_medical_history": "Atrial fibrillation s/p recent cardioversion on anticoagulation, Type 2 Diabetes Mellitus (insulin dependent), Hypertension, Hyperlipidemia, Neuropathy, Insomnia.",
+        "family_history": "Mother had a large MI at age ___ and died from cancer/heart failure at age ___. Uncle had an MI in his late ___. Father's history unknown.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain, nausea, vomiting, and hypertension urgency.",
+        "history_of_present_illness": "The patient was admitted with symptoms including abdominal pain, nausea, and vomiting. Blood pressure was significantly elevated initially at around 250/XX mmHg but was reduced with labetalol and home medications. The symptoms showed improvement as the patient was in no apparent distress (NAD) upon presentation, with no pain and no nausea.",
+        "past_medical_history": "End-stage renal disease (ESRD) from diabetes, diabetic foot ulcers, alcohol-induced elevation of liver function tests (LFTs), hypertension, hyperlipidemia, diabetic myonecrosis.",
+        "family_history": "Significant for diabetes; both parents have Type 2 diabetes mellitus (DMII), two sisters have Type 1 diabetes mellitus (DMI), and older brothers also have DMI. All grandparents had diabetes. No family history of heart disease, hypertension, cancer, or bleeding disorders.",
+        "social_history": "History of alcohol use. Not specified regarding smoking or other lifestyle factors."
+    }
+}

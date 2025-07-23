@@ -1,0 +1,79 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": {
+                "thorax": {
+                    "right_lower_lobe_atelectasis": "mild",
+                    "right_pleural_fluid": "trace"
+                },
+                "liver": {
+                    "shape": "normal",
+                    "contour": "normal",
+                    "cirrhosis": "no",
+                    "hepatic_steatosis": "mild, fat fraction approximately 5%",
+                    "cyst": "8 mm in right lobe",
+                    "arterial_hyperenhancement": "mild around gallbladder fossa",
+                    "focal_liver_lesions": "none",
+                    "portal_and_hepatic_veins": "patent"
+                },
+                "biliary": {
+                    "biliary_duct_dilation": "none",
+                    "choledocholithiasis": "none",
+                    "abnormal_enhancement": "none"
+                },
+                "gallbladder": {
+                    "distended": "yes",
+                    "wall_edema": "mild",
+                    "stones": "multiple, layering within gallbladder",
+                    "pericholecystic_changes": "small amount of fat stranding, edema",
+                    "ascites": "trace, likely inflammatory"
+                },
+                "pancreas": {
+                    "parenchyma": "normal",
+                    "cystic_lesion": {
+                        "size": "3 mm in uncinate process",
+                        "size_2": "2 mm in body",
+                        "likely": "side branch IPMNs"
+                    }
+                },
+                "spleen": {
+                    "size": "12.6 cm",
+                    "focal_lesions": "none"
+                },
+                "adrenal_glands": "normal",
+                "kidneys": {
+                    "size": "normal",
+                    "lesions": "none",
+                    "hydronephrosis": "none",
+                    "perinephric_edema": "mild nonspecific"
+                },
+                "gastrointestinal_tract": {
+                    "stomach_and_small_bowel": "normal",
+                    "obstruction": "none",
+                    "diverticulosis": "present without diverticulitis"
+                },
+                "lymph_nodes": {
+                    "periportal": {
+                        "number": "several",
+                        "size": "up to 10 mm",
+                        "likely": "reactive"
+                    },
+                    "retroperitoneal_mesenteric": "none"
+                },
+                "vasculature": {
+                    "abdominal_aorta": "normal in caliber",
+                    "aneurysm": "none",
+                    "atherosclerotic_plaque": "mild",
+                    "IVC_filter": "noted"
+                },
+                "osseous_soft_tissue_structures": {
+                    "ossoeus_lesions": "none",
+                    "degenerative_changes": "mild to moderate throughout the spine"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

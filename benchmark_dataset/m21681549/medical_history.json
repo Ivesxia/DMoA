@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Persistent abdominal pain since discharge from medical service.",
+        "history_of_present_illness": "The patient initially experienced mild epigastric pain post-discharge, which worsened after returning home, leading her to present to the ER. Upon admission, she was given pain medications and reported feeling 'so-so'. Additionally, she developed substernal pain and bilateral shoulder pain the same afternoon.",
+        "past_medical_history": "Hypertension, hyperlipidemia, chronic kidney disease (baseline creatinine 1.7), history of pancreatic cysts, diverticulosis, thoracic spine fracture, osteoporosis, restless leg syndrome, gastroesophageal reflux disease, hypertriglyceridemia.",
+        "family_history": "No family history of gastrointestinal malignancy, liver disease, or pancreatic disease. Mother had diabetes and hypertension, died at age unspecified. Father had hypertension, died at unspecified age from cerebral hemorrhage. One brother is in good health.",
+        "social_history": "Not specified."
+    }
+}

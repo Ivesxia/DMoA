@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ABDOMEN U.S. (COMPLETE STUDY)",
+            "date": "Not specified",
+            "findings": "The study is somewhat limited due to gas in the colon. The liver is normal in echogenicity, without evidence of focal liver lesion or intra- or extra-hepatic ductal dilatation. The evaluation of the gallbladder is limited; however, there is no evidence of stone or pericholecystic fluid or gallbladder dilatation. Portal flow is normal. There is no ascites. Common bile duct measures 6 mm. The spleen is normal in size. Left kidney measures 11.4 cm. Right kidney measures 11.8 cm. There is no evidence of mass, hydronephrosis or stones. The evaluation of the pancreas is limited. The visualized portion of the pancreatic head and proximal body is unremarkable.",
+            "changes_over_time": "Comparison was made with prior CT study dated ___."
+        }
+    ]
+}

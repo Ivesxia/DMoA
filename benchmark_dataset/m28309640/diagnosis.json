@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute cholecystitis",
+        "differential_diagnosis": "Gallstone pancreatitis",
+        "diagnostic_reasoning": "The patient presented with abdominal pain similar to previous episodes of GERD but also showed tenderness on exam, had a history of documented gallstones, and had a lipase level of 90. These findings led to a general surgery consult for evaluation of gallstone pancreatitis, but ultimately, the diagnosis was acute cholecystitis."
+    }
+}

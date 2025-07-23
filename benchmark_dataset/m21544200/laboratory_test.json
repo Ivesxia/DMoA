@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC",
+            "date": "Not specified",
+            "findings": "WBC of 11.2 (elevated, likely indicating leukocytosis).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal CT",
+            "date": "Not specified",
+            "findings": "Fluid-filled, distended appendix with thickened walls, measuring 8 mm in diameter; mild periappendiceal soft tissue stranding.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

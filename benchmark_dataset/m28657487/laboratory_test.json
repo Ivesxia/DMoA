@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level at 647 IU/L (normal range: 0.0 - 100.0 IU/L) - elevated",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Liver function tests are otherwise normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound (Liver or Gallbladder)",
+            "date": "Not specified",
+            "findings": "Normal liver echotexture; no focal abnormalities; gallbladder not distended; normal common duct caliber at 5 mm; no ascites.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HgA1C",
+            "date": "Not specified",
+            "findings": "HgA1C at 8.8%",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Nausea and vomiting, abdominal pain.",
+        "history_of_present_illness": "Patient presented with sudden onset of upper abdominal pain after eating pizza today. The pain has been constant, worsening, and nonradiating. Previous similar pain episodes have occurred without a clear diagnosis.",
+        "past_medical_history": "Stage III follicular lymphoma, obesity, vitamin D deficiency.",
+        "family_history": "Family history of hypertension, hyperlipidemia, and diabetes mellitus, but no cancer per patient.",
+        "social_history": "Not specified."
+    }
+}

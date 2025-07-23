@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "The lungs are clear without focal consolidation, effusion, or edema. The cardiomediastinal silhouette is within normal limits. Multiple right lateral rib fractures are seen with callus formation. No free intraperitoneal air.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

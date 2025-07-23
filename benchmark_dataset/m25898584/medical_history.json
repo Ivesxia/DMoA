@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Abdominal pain started 3 days ago, initially intermittent but acutely worsened this afternoon. The pain is described as lower abdominal, accompanied by fevers to 102.3, chills, and nausea/vomiting. The patient has had decreased PO intake and no bowel movements for 3 days.",
+        "past_medical_history": "History of diverticulosis, last colonoscopy showed diverticulosis with polyp removal.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

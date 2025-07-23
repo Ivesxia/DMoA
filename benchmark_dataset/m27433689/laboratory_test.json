@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory test",
+            "date": "Not specified",
+            "findings": "Value is 1.0 (reference range 0.9 - 1.1), which is within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph (CHEST PA & LAT)",
+            "date": "Not specified",
+            "findings": "Normal heart size with no evidence of vascular congestion, pleural effusion, or acute focal pneumonia.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "heart_rate": "96 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "no apparent distress, lying in bed resting comfortably",
+                "neck": "supple, JVD at 12cm at 45 degrees, c/d/I bandage over previous tracheostomy site that appears well healing",
+                "cardiovascular": "regular rate S1 and S2 heart sounds, transmitted LVAD sounds. Sternotomy site is well-healing",
+                "lungs": "unlabored, clear breath sounds bilaterally",
+                "abdomen": "soft, non-distended, tender in left quadrants. No rebound tenderness. Drive line is c/d/I. Not tender near drive line.",
+                "extremities": "No ___ edema. Extremities are cool",
+                "skin": "no rashes, ulcers, bleeding/bruising",
+                "neuro": "awake, alert, attentive, oriented, conversant"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

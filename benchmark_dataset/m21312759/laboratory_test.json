@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory examination for microorganisms",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation test",
+            "date": "Not specified",
+            "findings": "15.2 sec (reference range 9.4 - 12.5 sec)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

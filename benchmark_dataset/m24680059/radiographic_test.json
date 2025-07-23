@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Lung bases are clear. No pleural or pericardial effusion. Liver enhances homogeneously with no focal hepatic lesions. Gallbladder is normal. No intra or extrahepatic biliary ductal dilatation. Portal vein is patent. Adrenal glands are normal. Pancreas is normal. Spleen is homogeneous and normal in size. Kidneys enhance symmetrically with no evidence of hydronephrosis or renal masses. Stomach is significantly distended with majority of contrast within gastric fundus. No evidence of small bowel obstruction. A 10 mm appendix is seen extending into the pelvis with appendicolith and surrounding fat stranding. No signs of perforation, no retroperitoneal or mesenteric lymph node enlargement, and no intra-abdominal free air. Urinary bladder and terminal ureters are normal. Uterus and adnexa are within normal limits with a small amount of pelvic free fluid. No blastic or lytic lesions in osseous structures concerning for malignancy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

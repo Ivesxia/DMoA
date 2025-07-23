@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "PCR for Neisseria Gonorrhoeae",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria Gonorrhoeae.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is dilated, hyperemic, measures up to 7 mm; small amount of adjacent fat stranding without fluid collection; no intrahepatic biliary dilation, no hydronephrosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

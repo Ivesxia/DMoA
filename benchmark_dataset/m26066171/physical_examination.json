@@ -1,0 +1,54 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "78 bpm",
+                "blood_pressure": "130/77 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% RA",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "General": {
+                    "Skin": "Dry, intact",
+                    "HEENT": "PERRLA, EOMI",
+                    "Neck": "Supple, full ROM"
+                },
+                "Chest": {
+                    "Lungs": "Clear bilaterally",
+                    "Heart": "RRR"
+                },
+                "Abdomen": {
+                    "Soft": true,
+                    "Non-distended": true,
+                    "Non-tender": true,
+                    "Bowel sounds": "Positive"
+                },
+                "Extremities": {
+                    "Warm": true,
+                    "Well-perfused": true,
+                    "Edema": "None",
+                    "Varicosities": "None"
+                },
+                "Neuro": "Grossly intact",
+                "Pulses": {
+                    "Femoral": {
+                        "Right": "+2",
+                        "Left": "+2"
+                    },
+                    "DP": {
+                        "Right": "+2",
+                        "Left": "+2"
+                    },
+                    "Radial": {
+                        "Right": "TR",
+                        "Left": "+2"
+                    },
+                    "Carotid Bruit": "None"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "67 bpm",
+                "blood_pressure": "146/58 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "constitutional": "appears uncomfortable, actively vomiting",
+                "HEENT": "Normocephalic, atraumatic",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm",
+                "abdominal": "Soft, diffusely tender to palpation",
+                "extremities/back": "no edema",
+                "skin": "No rash",
+                "neurological": "Speech fluent",
+                "psychological": "Normal mentation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

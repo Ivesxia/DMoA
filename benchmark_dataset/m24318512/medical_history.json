@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient began having epigastric abdominal pain this morning while watching TV. The pain is described as non-radiating and dull achy in nature. Eating worsens the pain, and there are no alleviating factors. The symptoms are similar to those experienced during a previous gastric ulcer episode.",
+        "past_medical_history": "Chronic kidney disease, gout, benign prostatic hyperplasia, hypertension, gastric ulcer, hyperlipidemia, anemia.",
+        "family_history": "No family history of pancreatic disease.",
+        "social_history": "Not specified."
+    }
+}

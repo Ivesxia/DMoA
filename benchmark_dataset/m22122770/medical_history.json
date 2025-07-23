@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric pain that woke the patient from sleep.",
+        "history_of_present_illness": "The pain lasted for approximately 1 hour and resolved after administration of pain medication. No prior episodes reported. Denies fevers, nausea, vomiting, chills, or jaundice.",
+        "past_medical_history": "Vitiligo; Excision of skin cancers.",
+        "family_history": "Sister with ovarian cancer; Sister with cervical cancer; Mother with colon cancer.",
+        "social_history": "Tobacco use disorder."
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Confusion and abdominal pain for 1 day",
+        "history_of_present_illness": "Symptoms began 1 day ago, with progressive confusion and somnolence. The patient reported worsening lower mid-abdominal pain and nausea, along with poor oral intake and appetite. No episodes of emesis have occurred. The patient has been passing flatus and had a bowel movement the day prior, with no fevers or chills. No prior episodes of similar symptoms.",
+        "past_medical_history": "Dementia, Diabetes Mellitus, Hypertension, Hypothyroidism, Hypercholesterolemia, Osteoarthritis, Osteoporosis, Insomnia, Anxiety, Hearing loss.",
+        "family_history": "Father deceased, mother deceased; the patient does not know their health conditions. Multiple children with Diabetes Mellitus Type 2.",
+        "social_history": "Not specified."
+    }
+}

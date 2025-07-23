@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver demonstrates homogeneous echotexture without suspicious hepatic lesion. There is a hyperechoic focus in the right lobe measuring 1.4 x 1.3 x 1.4 cm, a probable small hemangioma. The main portal vein is patent with hepatopetal flow. Multiple shadowing gallstones are identified within the gallbladder, the largest measuring 2 cm in maximum diameter. The gallbladder wall is thickened and a small amount of pericholecystic fluid is also identified. The common bile duct is dilated measuring 1.1 cm in maximum diameter. The pancreatic head, neck, and body appear edematous. Evaluation of the tail is limited by overlying bowel gas. A single view of the right kidney shows no hydronephrosis. Mild-to-moderate amount of perihepatic ascites is also identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

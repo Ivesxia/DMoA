@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "An 11-mm fluid-filled dilated tubular structure with surrounding mesenteric edema in a retrocecal location; trace fluid in the dependent portion of the pelvis. Normal appearance of spleen, adrenals, pancreas, gallbladder, kidneys, stomach, and loops of small bowel. No free air or free fluid. No significant adenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

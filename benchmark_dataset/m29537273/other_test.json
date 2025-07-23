@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT Abdomen and Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "The appendix is enlarged, measuring up to 9 mm with hyperenhancement, in surrounding inflammatory stranding compatible with acute appendicitis. No evidence of perforation or fluid collection concerning for abscess formation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

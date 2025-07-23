@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient has had multiple episodes of abdominal pain since Labor Day, which initially had acute onset of epigastric pain, progressively worsening from moderate to severe with radiation to the back and associated nausea and vomiting. Episodes typically last for several hours and then resolve, but the most recent episode persisted throughout the ensuing days, accompanied by dark urine.",
+        "past_medical_history": "Hypertension, previous testicular surgery for infertility",
+        "family_history": "Sister, mother, father, and maternal grandmother all have gallstones and have undergone cholecystectomies (CCYs).",
+        "social_history": "Thrice weekly alcohol use."
+    }
+}

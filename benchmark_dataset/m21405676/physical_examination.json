@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "blood_pressure": "155/59 mmHg",
+                "heart_rate": "70 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Pleasant elderly white female lying in bed on her side. Just woke up from a brief sleep.",
+                "eyes": "NC/AT, PER, EOMI.",
+                "oropharynx": "Without lesions.",
+                "neck": "Supple, no JVD or carotid bruits appreciated.",
+                "respiratory": "Lungs CTA.",
+                "cardiovascular": "RRR, no M/R/G noted.",
+                "gastrointestinal": "Distended, hypoactive bowel sounds, no masses or organomegaly noted. Tender in the left upper/lower quadrant with radiation around the side to the back. Small scar just to the left of the umbilicus.",
+                "skin": "No rashes or lesions noted.",
+                "pressure_ulcers": "No pressure ulcers."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

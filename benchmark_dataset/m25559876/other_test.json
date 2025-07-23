@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ABG",
+            "date": "Not specified",
+            "findings": "ABG revealed pH 7.28, pCO2 81, pO2 52, HCO3 38.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "RUQ ultrasound",
+            "date": "Not specified",
+            "findings": "GB wall inflammation and thickening up to 1cm without any stones visualized.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

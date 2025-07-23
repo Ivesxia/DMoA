@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "heart_rate": "81 bpm",
+                "blood_pressure": "98/55 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Appears in no acute distress, alert and oriented ×3, uncomfortable laying in bed",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "Clear to auscultation",
+                "abdominal": "Soft, mildly distended, tender to palpation most significantly in left lower quadrant, no rebound or guarding",
+                "extremities": "Warm and well perfused, no edema"
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

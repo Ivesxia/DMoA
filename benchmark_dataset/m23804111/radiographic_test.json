@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Lungs clear with no pulmonary mass, pleural effusion, or pneumothorax; normal heart size and no pericardial effusion; normal liver, pancreas, spleen, and adrenals; kidneys without hydronephrosis; soft tissue density at the descending colon at the splenic flexure with demonstration of a diverticulum; no pathologic retroperitoneal lymphadenopathy; normal abdominal aorta; normal anteverted uterus; small loculated structure behind the pelvis likely representing small bowel loops; no pelvic free air, free fluid, or pathologic lymphadenopathy; no suspicious osteolytic or osteoblastic lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

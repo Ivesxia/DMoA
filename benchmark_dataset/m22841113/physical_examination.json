@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.4°F (oral)",
+                "blood_pressure": "104/50 mmHg",
+                "heart_rate": "76 bpm",
+                "oxygen_saturation": "96% RA"
+            },
+            "relevant_findings": {
+                "general": "Obese, elderly female in no acute distress, appears comfortable, speaking in full sentences.",
+                "HEENT": "EOMI, sclera anicteric, dry mucous membranes.",
+                "cardiovascular": "Regular rate, no murmurs, rubs or gallops.",
+                "lungs": "Very mild crackles at right lower base. Breathing easily.",
+                "abdomen": "Soft, no guarding, no rebound tenderness. Mild tenderness to palpation over superior quadrants along inferior costal margin. No epigastric tenderness, no shifting dullness.",
+                "extremities": "No clubbing, cyanosis, edema.",
+                "skin": "Intact, no rashes, abrasions or lacerations."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

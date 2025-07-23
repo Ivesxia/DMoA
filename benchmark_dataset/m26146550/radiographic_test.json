@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "The lungs are clear. The cardiac and mediastinal contours are normal. There are no pleural abnormalities.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

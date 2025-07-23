@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Foley catheter placement",
+            "date": "Not specified",
+            "findings": "Drained approximately 300mL of dark yellow urine.",
+            "changes_over_time": "Urine output was noted to be darker later in the day."
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

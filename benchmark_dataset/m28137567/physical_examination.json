@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2 °F",
+                "blood_pressure": "168/60 mmHg",
+                "heart_rate": "72 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "94%",
+                "oxygen_delivery": "Room Air"
+            },
+            "relevant_findings": {
+                "HEENT": "Anicteric, eyes conjugate, MMM, no JVD",
+                "Cardiovascular": "RRR no MRG, nl. S1 and S2",
+                "Pulmonary": "Lung fields clear to auscultation throughout",
+                "Gastrointestinal": "Soft, non-tender, non-distended, bowel sounds present, no HSM",
+                "Musculoskeletal": "No edema",
+                "Skin": "No rashes or ulcerations evident",
+                "Neurological": "Alert, interactive, speech fluent, face symmetric, moving all extremities",
+                "Psychiatric": "Pleasant, appropriate affect"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.9 °F",
+                "blood_pressure": "170/71 mmHg",
+                "heart_rate": "72 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "95%",
+                "oxygen_delivery": "Room Air"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

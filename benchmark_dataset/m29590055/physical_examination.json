@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97°F",
+                "heart_rate": "66 bpm",
+                "blood_pressure": "134/70 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "HEENT": "Normocephalic, atraumatic",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular rate and rhythm, normal first and second heart sounds",
+                "abdominal": "Soft, nondistended, periumbilical and RLQ tenderness on palpation, negative Rosving's",
+                "extremities_back": "No cyanosis, clubbing, or edema",
+                "skin": "Warm and dry, no rash",
+                "neurological": "Speech fluent"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

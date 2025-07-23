@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis",
+        "differential_diagnosis": "Urinary retention, Urinary tract infection, Irritable bowel syndrome",
+        "diagnostic_reasoning": "The patient's clinical presentation included abdominal pain that migrated to the right lower quadrant, tenderness on examination, and a CT scan showing a dilated appendix measuring 8 mm with mild mucosal hyperemia, supporting the diagnosis of appendicitis."
+    }
+}

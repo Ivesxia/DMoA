@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Low lung volumes, mild bilateral pleural effusion, but no evidence of focal parenchymal opacities suggesting pneumonia. The size of the cardiac silhouette is at the upper range of normal; however, no signs of overhydration are present. Unchanged course of the right-sided PICC line.",
+            "changes_over_time": "As compared to the previous radiograph from ___, there is no relevant change."
+        }
+    ]
+}

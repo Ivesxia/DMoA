@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Prostate Biopsy",
+            "date": "Not specified",
+            "findings": "Negative for malignancy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lumbar Puncture",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Mild hepatic steatosis, fatty atrophy of the pancreas, mild edematous change in the neck and proximal body of the pancreas with peripancreatic standing, and a 10 mm cystic lesion in the neck most consistent with a side-branch IPMN.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

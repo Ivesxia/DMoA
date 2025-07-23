@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Diverticulitis",
+        "differential_diagnosis": "Constipation, Esophagitis, Dysphagia, Coronary Artery Disease, Chronic Back Pain, Traumatic Brain Injury, Muscle Spasm/Contracture",
+        "diagnostic_reasoning": "The patient presented with abdominal pain and was found to have stranding in the left lower quadrant on CT, consistent with uncomplicated diverticulitis. Additional evidence included his history of constipation and the significant stool burden noted in the imaging. Other diagnoses were ruled out due to lack of acute ischemic evidence and the patient's overall clinical status."
+    }
+}

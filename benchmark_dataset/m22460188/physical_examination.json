@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.4°F",
+                "heart_rate": "78 bpm",
+                "blood_pressure": "134/93 mmHg",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "No distress, alert and oriented x 3",
+                "HEENT": "Pupil equal, reactive to light and accommodation (PERLA), extraocular movements intact (EOMI), anicteric",
+                "chest": "Regular rate and rhythm (RRR), lungs clear",
+                "abdomen": "Soft, nondistended, focal tenderness to palpation in right lower quadrant (RLQ), no rebound or guarding, positive Rosving's sign"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

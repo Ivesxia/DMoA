@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "RUQ pain",
+        "history_of_present_illness": "The patient's symptoms began yesterday night around 8 PM with right-sided abdominal pain, initially rated as mild and similar to indigestion. He took Pepto Bismol and was able to sleep. By the next morning, the pain worsened significantly throughout the day, radiating to the right mid-lower back and upper right chest, and became constant and severe. He rated it as worst at that time. The pain was associated with nausea but without vomiting. The patient experienced increased pain after attempting to eat.",
+        "past_medical_history": "1. Anxiety - duration unspecified; 2. Peptic ulcer - date unknown; 3. Obstructive sleep apnea - recommended CPAP but does not use; 4. Cocaine use - used regularly a few years ago but stopped; 5. Alcohol abuse - consistent high daily/weekly amounts.",
+        "family_history": "Negative for early coronary artery disease, prostate and colon cancer; Positive for chronic lung disease, breast CA, and alcoholism.",
+        "social_history": "Significant chronic alcohol use, approximately 15 drinks per week, with increased consumption over the past weekend. Admits to two lines of cocaine use a few days ago but stopped due to chest pain. Last drink was at 6 PM on the day of presentation."
+    }
+}

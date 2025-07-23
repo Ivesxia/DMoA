@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Sudden onset after eating large fried food, lasting for hours. Symptoms are better with mild relief. Associated with nausea and loose stools, no vomiting.",
+        "past_medical_history": "Hypertension",
+        "family_history": "Non-contributory",
+        "social_history": "Not specified"
+    }
+}

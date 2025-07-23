@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory test for polymorphonuclear leukocytes",
+            "date": "Not specified",
+            "findings": "1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Chest and Abdomen",
+            "date": "Not specified",
+            "findings": "Prominent pericholecystic fat stranding, a large gallstone at the neck of the gallbladder, 1.1 cm right hepatic cyst, prominent portacaval and celiac lymph nodes likely reactive, left renal cortical hypodensity likely representing a simple cyst.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

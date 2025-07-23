@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "81 (Normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Focal subtle hypodensity of the pancreatic neck and head that is nonspecific; equivocal stranding in the pancreaticoduodenal groove; pancreatic duct is nondilated; no biliary dilation; gallbladder partially collapsed without calcified stones.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

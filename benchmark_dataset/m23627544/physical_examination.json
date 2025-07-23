@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Temperature": "101°F",
+                "Heart Rate": "127 bpm",
+                "Blood Pressure": "132/77 mmHg",
+                "Respiratory Rate": "20 breaths/min",
+                "Oxygen Saturation": "96%"
+            },
+            "relevant_findings": {
+                "General": "A&O, laying in bed with knees bent, appears uncomfortable",
+                "Cardiovascular": "RRR",
+                "Respiratory": "CTAB, nonlabored breathing",
+                "Abdomen": "faint BS, soft, distended, tender to palpation in RLQ, nontender in LLQ, +rebound and guarding",
+                "Extremities": "calves nontender bilaterally"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Temperature": "98.8°F",
+                "Heart Rate": "103 bpm",
+                "Blood Pressure": "140/89 mmHg",
+                "Respiratory Rate": "18 breaths/min",
+                "Oxygen Saturation": "96%"
+            },
+            "relevant_findings": {
+                "General": "NAD, AxOx3",
+                "Cardiovascular": "HD stable",
+                "Pulmonary": "no respiratory distress",
+                "Abdomen": "Soft, tenderness improving, mildly distended, no rebound or guarding",
+                "Extremities": "No edema, warm, well-perfused"
+            },
+            "changes_over_time": "Improvement in abdominal tenderness"
+        }
+    ]
+}

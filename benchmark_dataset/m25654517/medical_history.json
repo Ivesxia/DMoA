@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Evaluation of a right upper lobe nodule",
+        "history_of_present_illness": "The patient recently had a COPD flare and was admitted for evaluation, during which a CT scan revealed the nodule. He has stable shortness of breath and denies any abdominal pain, hemoptysis, purulent sputum production, fevers, chills, or sweats. He can walk about 50 feet with crutches and denies any weight loss, new back or bony pain, or neurological symptoms.",
+        "past_medical_history": "COPD, myocardial infarction, pacemaker, non-insulin-dependent diabetes, gastroesophageal reflux disease (GERD), obstructive sleep apnea, osteoarthritis, and obesity.",
+        "family_history": "Mother had unspecified condition, father had an aneurysm, sister has hypertension, another sister has renal disease.",
+        "social_history": "Not specified"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The abdominal pain started yesterday afternoon with sudden onset, diffuse, crampy in nature. It was not associated with activity or oral intake. The patient also reports two days of constipation and continues to have flatus, with no nausea, vomiting, or diarrhea.",
+        "past_medical_history": "History of atrial fibrillation (afib), hepatitis C, diabetes mellitus (DM), chronic obstructive pulmonary disease (COPD), chronic low back pain, and asthma.",
+        "family_history": "Noncontributory",
+        "social_history": "Not specified"
+    }
+}

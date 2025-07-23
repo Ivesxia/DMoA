@@ -1,0 +1,35 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "70.0 IU/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": {
+                "lower_thorax": "Right lower lobe consolidation or atelectasis and small pleural effusion. Trace left pleural effusion present.",
+                "postsurgical_changes": "Recent open cholecystectomy with a small amount of fluid in the resection bed.",
+                "liver": "Homogeneous in signal characteristics with no significant lesions. Minimal periportal edema present.",
+                "biliary": "No intra- or extra-hepatic duct dilatation. Common bile duct within normal limits.",
+                "pancreas": "Normal bulk but mildly low T1 signal particularly in the tail. No focal lesion or ductal abnormality.",
+                "spleen": "Normal in size and signal characteristics.",
+                "adrenal_glands": "9 mm left adrenal nodule.",
+                "kidneys": "3.7 cm cyst in the mid right kidney.",
+                "GI_tract": "Normal caliber throughout.",
+                "lymph_nodes": "No significant lymphadenopathy.",
+                "vasculature": "Patent abdominal aorta and proximal mesenteric vessels.",
+                "osseous_soft_tissue": "L1 vertebral body T2 bright hemangioma."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver appears normal without focal lesions. There is no intrahepatic biliary ductal dilatation. The CBD measures 4.8 mm. There are multiple echogenically shadowing stones within the gallbladder, however the gallbladder is not distended. The wall is not thickened and there is no pericholecystic fluid. The partially visualized pancreas appears normal. There is normal hepatopetal flow within the main portal vein.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Closed (percutaneous) [needle] biopsy of liver",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT Abdomen and Pelvis without Contrast",
+            "date": "Not specified",
+            "findings": "There is mural thickening of the sigmoid colon with mild adjacent stranding. There has been a slight interval increase in size of a 4.1 x 3.2 x 6.3 cm collection containing predominantly air and fecal matter, previously measuring 3.7 x 3.3 x 4.3 cm.",
+            "changes_over_time": "Slight increase in size of the collection in the sigmoid colon."
+        },
+        {
+            "procedure_name": "Drain placement (Pigtail catheter)",
+            "date": "Not specified",
+            "findings": "Increased drainage noted, with purulent material in the drain bulb. The skin surrounding the drain is non-erythematous with some pus present.",
+            "changes_over_time": "Increased drainage observed over the past several days."
+        }
+    ]
+}

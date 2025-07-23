@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver demonstrates diffuse increase in echogenicity, consistent with fatty infiltration. Focal areas of fat sparing are seen in the gallbladder fossa. There is no intra- or extra-hepatic biliary dilation. The common bile duct is normal, measuring 5 mm. The main portal vein has normal hepatopetal flow. The gallbladder is distended, with multiple gallstones. No gallbladder wall edema or pericholecystic fluid is seen. ___ sign is positive. Head of the pancreas is normal, but the remainder is obscured by overlying bowel gas.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

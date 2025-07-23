@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "White Blood Cell Count",
+            "date": "Not specified",
+            "findings": "1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Bibasilar atelectasis, splenomegaly (16 cm) without focal lesion, thick-walled, inflamed but relatively decompressed appendix with appendicolith at its base, 4.5 x 3.6 cm gas and fluid containing collection, associated perforation of the appendiceal wall possibly visualized, and new 6.8 x 4.2 cm fluid collection in the rectovesical pouch.",
+            "changes_over_time": "Prior collection size was 2.8 x 3.2 cm; new fluid collection observed."
+        }
+    ]
+}

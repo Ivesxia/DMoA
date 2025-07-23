@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1",
+                "heart_rate": "72",
+                "blood_pressure": "126/79",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "95% RA"
+            },
+            "relevant_findings": {
+                "general": "somnolent and frequently falling asleep initially but more alert and AAOx3 after awakening later in the interview",
+                "HEENT": "sclera anicteric, MM dry",
+                "lungs": "decreased breath sounds at right base, no wheezing or rhonchi",
+                "cardiovascular": "RRR, no murmurs, rubs, or gallops",
+                "abdomen": "soft, tenderness to palpation diffusely, palpably distended bladder, normal bowel sounds, non-tender, non-distended",
+                "extremities": "warm to touch, no edema"
+            },
+            "changes_over_time": "Patient initially somnolent but became more alert during the interview."
+        }
+    ]
+}

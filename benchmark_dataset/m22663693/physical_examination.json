@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99°F",
+                "heart_rate": "90 bpm",
+                "blood_pressure": "119/61 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "HEENT": "Normocephalic, atraumatic; Pupils equal, round and reactive to light; Extraocular muscles intact",
+                "Chest": "Clear to auscultation",
+                "Cardiovascular": "Regular Rate and Rhythm, Normal first and second heart sounds",
+                "Abdominal": "Soft periumbilical tenderness with minimal right lower quadrant and left lower quadrant tenderness",
+                "GU/Flank": "Normal testicular exam",
+                "Extr/Back": "No cyanosis, clubbing or edema",
+                "Skin": "No rash",
+                "Neuro": "Speech fluent"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4",
+                "blood_pressure": "131/87",
+                "heart_rate": "73",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "95%",
+                "oxygen_delivery": "RA"
+            },
+            "relevant_findings": {
+                "general": "Obese female, alert and interactive, comfortable, no acute distress, sleeping comfortably.",
+                "abdominal": "Soft, tenderness with deep palpation at RUQ>epigastrium, negative ___ sign, without rebounding or guarding, nondistended with normal active bowel sounds, no hepatomegaly.",
+                "cardiovascular": "Regular rate and rhythm without murmurs, rubs, or gallops.",
+                "lungs": "Clear to auscultation bilaterally without rhonchi, wheezes, or crackles.",
+                "neuro": "Alert and interactive, cranial nerves II-XII grossly intact, strength and sensation grossly intact.",
+                "skin": "No rashes, petechia, lesions, or echymoses; warm to palpation."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

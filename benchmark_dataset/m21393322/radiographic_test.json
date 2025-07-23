@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Lungs are expanded. There is no focal consolidation, pleural effusion, or pneumothorax. Cardiomediastinal silhouette is within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

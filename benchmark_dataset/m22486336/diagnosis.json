@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with acute onset abdominal pain that localized to the right lower quadrant (RLQ), accompanied by chills and tenderness during the physical examination. Imaging studies and lab results ruled out other causes, suggesting appendicitis as the most likely diagnosis."
+    }
+}

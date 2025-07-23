@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "8 mm subpleural nodular density at the lateral right base, unchanged. The spleen measures 12.0 cm (increased from 10.5 cm on previous CT and 11.1 cm on previous ultrasound). Mild pneumobilia noted.",
+            "changes_over_time": "Spleen size increased from 10.5 cm to 12.0 cm since the last ultrasound."
+        },
+        {
+            "procedure_name": "Laboratory test for spleen size",
+            "date": "Not specified",
+            "findings": "Spleen measures 12.0 cm compared to 10.5 cm on the previous CT and 11.1 cm on the previous ultrasound.",
+            "changes_over_time": "Increased spleen size over time."
+        },
+        {
+            "procedure_name": "Blood cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

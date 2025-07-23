@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "biopsy",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "surgical consult",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

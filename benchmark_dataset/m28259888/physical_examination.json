@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "heart_rate": "89 bpm",
+                "blood_pressure": "127/63 mmHg",
+                "respiratory_rate": "17 bpm"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "cardiovascular": "RRR, no M/G/R",
+                "pulmonary": "CTAB",
+                "abdominal": "Soft, nondistended, no rebound tenderness or guarding, no CVA tenderness, hypoactive bowel sounds, no palpable masses; TTP over RLQ, +Rovsing's sign",
+                "extremities": "Warm and well-perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

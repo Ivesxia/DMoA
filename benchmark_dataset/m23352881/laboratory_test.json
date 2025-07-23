@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Coagulation Test",
+            "date": "Not specified",
+            "findings": "PTT: 35.7 sec (Normal range: 25.0 - 36.5 sec, Results are within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "The heart is upper limits normal in size. The aorta is mildly tortuous. There is mild pulmonary vascular redistribution. There is volume loss at both bases. An early infiltrate can't be excluded in the lower lobes due to the mild volume loss.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

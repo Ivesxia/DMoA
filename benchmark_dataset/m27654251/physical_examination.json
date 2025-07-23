@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "blood_pressure": "134/60 mmHg",
+                "heart_rate": "107 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "eyes": "Anicteric",
+                "lungs": "Clear",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, rubs, or gallops",
+                "abdomen": "Bowel sounds present, soft, mildly tender periumbilical",
+                "extremities": "No edema, cyanosis, or clubbing",
+                "skin": "No rash",
+                "neurological": "Alert, follows commands"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

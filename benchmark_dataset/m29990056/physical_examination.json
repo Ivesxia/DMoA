@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.4°F",
+                "heart_rate": "57 bpm",
+                "blood_pressure": "138/65 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Uncomfortable, nontoxic appearance, not jaundiced",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "Clear to auscultation bilaterally",
+                "abdominal": "Soft, mildly distended, tender in RUQ/epigastrium, no rebound or guarding, positive bowel sounds",
+                "extremities": "No clubbing, cyanosis, or edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

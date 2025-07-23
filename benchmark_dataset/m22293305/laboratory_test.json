@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is abnormally dilated with a proximal diameter of 14 mm. The appendiceal tip tapers to a diameter of 10 mm. There is extensive wall enhancement and surrounding fluid and phlegmonous change. A small periappendiceal fluid collection is seen measuring approximately 2.1 x 2.8 x 2.4 cm. Multiple small lymph nodes are seen in the RLQ, likely reactive. A small amount of free fluid is seen in the pelvis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Test",
+            "date": "Not specified",
+            "findings": "0.8 mmol/L (within normal range 0.5 - 2.0).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Non-obstructed filling of the common bile duct and intra-hepatic biliary tree; cholecystectomy has been performed.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

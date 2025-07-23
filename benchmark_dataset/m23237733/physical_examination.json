@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "General: Awake and alert; Cardiovascular: Regular rate and rhythm; Lungs: Bilateral wheezing noted on auscultation; Abdomen: Soft, (+) tenderness right lower quadrant, (+) rebound tenderness, no guarding, normal active bowel sounds; Rectal: Heme (-).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

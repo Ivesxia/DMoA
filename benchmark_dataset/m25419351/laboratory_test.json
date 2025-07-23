@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C. difficile testing",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile by the Illumigene DNA amplification assay. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of neck soft tissue",
+            "date": "Not specified",
+            "findings": "No sonographic abnormality is seen to correspond to the area of pain. No lymphadenopathy. Partially imaged thyroid gland demonstrates multiple nodules.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

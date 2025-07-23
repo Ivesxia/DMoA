@@ -1,0 +1,10 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Streaky bibasilar opacities, also in the right hilar region, likely representing atelectasis. Blunting of the left costophrenic angle suggests a small pleural effusion. No focal consolidation or pneumothorax. Heart size is normal.",
+            "changes_over_time": "Progressed compared to the prior study performed earlier on the same date."
+        }
+    ]
+}

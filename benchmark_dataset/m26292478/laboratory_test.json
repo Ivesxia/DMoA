@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix extends from the right lower quadrant across the midline of the abdomen, terminating just to the left of the midline, and is fluid-filled and dilated, measuring up to 1.4 cm, with surrounding fat stranding.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Chemistry",
+            "date": "Not specified",
+            "findings": "Hemoglobin level: 8.7 mg/dL (Reference range: 8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

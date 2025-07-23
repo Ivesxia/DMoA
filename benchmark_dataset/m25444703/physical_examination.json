@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "63 bpm",
+                "blood_pressure": "128/76 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": {
+                "HEENT": "All normal, denies changes in vision/hearing",
+                "Respiratory": "All normal, denies SOB/DOE/cough/wheeze/hemoptysis/pain",
+                "Cardiac": "All normal, denies angina/palpitations",
+                "GI": "Soft, moderately tender to palpation epigastrium, +BS, no rebound/guarding",
+                "GU": "All normal, denies dysuria",
+                "Skin": "All normal, denies rash/lesions/pruritis",
+                "Musculoskeletal": "All normal, denies joint pain/swelling, denies back pain",
+                "Neurological": "All normal, denies headache, denies numbness/tingling",
+                "Endocrine": "All normal, denies sensitivity to heat/cold",
+                "Hematologic": "All normal, denies easy bruising/bleeding",
+                "Psychiatric": "All normal, denies mood change"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

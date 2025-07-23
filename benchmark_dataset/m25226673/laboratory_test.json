@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "EIA (Enzyme Immunoassay)",
+            "date": "Not specified",
+            "findings": "Positive by EIA, Negative by Western Blot. Refer to outside lab system for complete Western Blot results.",
+            "changes_over_time": "Negative results do not rule out B. burgdorferi infection. Patients in early stages of infection or on antibiotic therapy may not produce detectable levels of antibody."
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Bibasilar atelectasis noted. Segmental intrahepatic biliary dilatation involving segment II and III of the liver. Common bile duct of normal caliber with mild stranding and enhancement. Normal liver enhancement. Pancreas enhances normally without any focal lesions. The bladder, rectum, and sigmoid colon are unremarkable.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

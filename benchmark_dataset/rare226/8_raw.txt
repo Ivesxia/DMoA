@@ -1,0 +1,44 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "Ferrous iron",
+      "start_date": "2023-01-01",  // Approximation based on pregnancy week
+      "end_date": "Not specified",
+      "dosage_or_details": "30 mg from week 13 of pregnancy",
+      "treatment_response": "Controlled iron deficiency anemia"
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2023-01-01",
+      "event": "Started ferrous iron supplementation at a dosage of 30 mg to control iron deficiency anemia."
+    },
+    {
+      "date": "2023-03-01",
+      "event": "Baby was born, presented with APGAR score of 9/10."
+    },
+    {
+      "date": "2023-03-01",
+      "event": "Baby referred to hospital due to inadequate weight gain."
+    },
+    {
+      "date": "2023-03-01",
+      "event": "Physical examination revealed dehydration, distended abdomen, and paralyzed right arm."
+    },
+    {
+      "date": "2023-03-02",
+      "event": "Initial laboratory tests indicated elevated white blood cell count and abnormal liver function."
+    },
+    {
+      "date": "2023-03-02",
+      "event": "Diagnostic tests confirmed hepatosplenomegaly and suspected osteomyelitis."
+    },
+    {
+      "date": "2023-03-02",
+      "event": "Further imaging showed no intracranial hemorrhage, but revealed other abnormalities."
+    }
+  ]
+}
+```

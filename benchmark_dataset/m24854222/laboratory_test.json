@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is distended up to 11 mm, with surrounding inflammatory change and a small amount of pericecal fluid. The liver contains a tiny focal hypodensity in the posterior right lobe, otherwise unremarkable. No free air or free fluid in the abdomen. Normal kidneys, gallbladder, pancreas, spleen, adrenal glands, stomach, and duodenum. No evidence of perforation or abscess.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Coagulation Test",
+            "date": "Not specified",
+            "findings": "23.2 sec, within the reference range (22.0 - 35.0 sec).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

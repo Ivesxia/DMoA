@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "115/58 mmHg",
+                "respiratory_rate": "15 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "Constitutional": "Well-appearing; well-nourished; in no apparent distress",
+                "Head": "Normocephalic; atraumatic",
+                "Eyes": "PERRL; EOM intact",
+                "ENT": "External appears normal; normal oropharynx",
+                "Neck": "Supple; non-tender; no cervical lymphadenopathy",
+                "Cardiac": "Normal S1, S2; no murmurs, rubs, or gallops; no JVD",
+                "Respiratory": "Normal chest excursion with respiration; breath sounds clear and equal bilaterally; no wheezes, rhonchi, or rales",
+                "Abdomen": "Soft, non-distended; +++RLQ tenderness; no palpable organomegaly, no palpable hernias",
+                "Extremities": "Normal ROM in all four extremities; No obvious deformities",
+                "Skin": "Warm, dry, no rash; no c/c/e",
+                "Neurological": "No focal neurological deficiencies"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

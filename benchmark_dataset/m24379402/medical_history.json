@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient presents with abdominal pain that started recently. The pain is described as mid-epigastric and radiates to the back. It is different from previous pain experienced, and the patient denies having similar pain before. She has experienced some clear emesis and complains of chills but denies fevers. Pain has not significantly improved as she took ibuprofen yesterday.",
+        "past_medical_history": "Chronic C. diff requiring fecal transplant one year ago, Diverticulitis, Anxiety, Morbid Obesity.",
+        "family_history": "Not specified.",
+        "social_history": "Social alcohol drinker; last consumption was one week ago."
+    }
+}

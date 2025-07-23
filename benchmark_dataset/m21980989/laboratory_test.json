@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "There is no intrahepatic biliary ductal dilatation. The free segment of the extrahepatic common duct is mildly dilated up to 7 mm. The gallbladder is full with a mildly thickened wall and contains numerous shadowing stones. No stones are visualized within the common duct. The pancreatic head and neck are partially visualized and unremarkable. A possible hypoechoic lesion is suggested but could be artifactual. Background possibly due to fatty infiltration. Trace free fluid layers beneath the left lateral liver, probably within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test (not specified)",
+            "date": "Not specified",
+            "findings": "180.0 IU/L, no polymorphonuclear leukocytes seen, no microorganisms seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

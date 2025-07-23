@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7",
+                "heart_rate": "79",
+                "blood_pressure": "121/74",
+                "respiratory_rate": "18"
+            },
+            "relevant_findings": {
+                "general": "NAD",
+                "head_and_neck": "NCAT",
+                "lung": "scattered basal ronchi L side, otherwise clear",
+                "heart": "RRR, S1S2",
+                "abdomen": "soft, acutely TTP epigastrium, tender LUQ, no umbilical, inguinal or incisional hernias, well healed incision c/w open appendectomy"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

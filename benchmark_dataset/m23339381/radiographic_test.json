@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": {
+                "lower_thorax": "Clear lung bases, no pleural effusion.",
+                "liver": "Few subcentimeter T2 hyperintense hepatic cysts or biliary hamartomas, subtle arterial hyperenhancement adjacent to gallbladder fossa, homogeneous signal intensity, no suspicious mass, no significant signal drop on out of phase imaging, no ascites.",
+                "biliary": "No intrahepatic or extrahepatic biliary duct dilatation, normal common bile duct, no periampullary mass, no choledocholithiasis, mild gallbladder distention, gallbladder wall edema, no pericholecystic free fluid.",
+                "pancreas": "0.3 cm T2 hyperintense lesion within pancreatic body, no follow-up warranted, otherwise homogeneous signal intensity, no suspicious mass, no pancreatic duct dilatation.",
+                "spleen": "Normal in size, no suspicious mass.",
+                "adrenal_glands": "Left adrenal gland thickened and nodular, right adrenal gland unremarkable.",
+                "kidneys": "Homogeneous signal intensity, no suspicious mass, no hydronephrosis.",
+                "gastrointestinal_tract": "Unremarkable distal esophagus, stomach, small and large bowel, no obstruction.",
+                "lymph_nodes": "Nonenlarged retroperitoneal and mesenteric lymph nodes.",
+                "vasculature": "No abdominal aortic aneurysm, all major vessels patent.",
+                "osseous_and_soft_tissue": "No suspicious osseous lesions, susceptibility artifact likely due to incisional changes."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

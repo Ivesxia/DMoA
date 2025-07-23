@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Pancreatitis",
+        "differential_diagnosis": "Abdominal aortic aneurysm",
+        "diagnostic_reasoning": "The patient presented with acute abdominal pain and nausea/vomiting, along with a known history of abdominal aortic aneurysm (AAA). A CT scan suggested suspected AAA dissection, prompting transfer. Although AAA is a concern, the acute symptoms and resolution of pain with morphine suggest pancreatitis as the primary diagnosis."
+    }
+}

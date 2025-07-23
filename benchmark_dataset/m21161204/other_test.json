@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Exploratory laparoscopy",
+            "date": "Not specified",
+            "findings": "Evacuation of hematoma and control of bleeding in the retroperitoneum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic appendectomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7 °F",
+                "heart_rate": "120 bpm",
+                "blood_pressure": "64 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and oriented x 3",
+                "cardiac": "Regular rate and rhythm, no murmurs/rubs/gallops",
+                "pulmonary": "Clear to auscultation bilaterally, no respiratory distress",
+                "abdominal": "Normoactive bowel sounds, soft, non-tender, non-distended",
+                "extremities": "No edema, warm, well-perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

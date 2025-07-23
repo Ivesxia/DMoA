@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 98.7, Heart Rate: 86, Blood Pressure: 134/83, Respiratory Rate: 20, Oxygen Saturation: 99% on room air",
+            "relevant_findings": "Obese elderly gentleman in no acute distress; sclera anicteric, mucous membranes dry, oropharynx clear. Irregularly irregular heart rhythm, lungs clear to auscultation bilaterally, abdomen soft and non-tender, no rebound or guarding, no organomegaly, extremities warm, with dorsalis pedis pulses 2+.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 98.1, Heart Rate: 90, Blood Pressure: 131/85, Respiratory Rate: 18, Oxygen Saturation: 96% on room air",
+            "relevant_findings": "Patient appears well and reports no diarrhea since 9:30 AM.",
+            "changes_over_time": "Patient exhibited improvement in diarrhea symptoms prior to transfer."
+        }
+    ]
+}

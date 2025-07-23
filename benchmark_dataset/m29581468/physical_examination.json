@@ -1,0 +1,49 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7",
+                "heart_rate": "71",
+                "blood_pressure": "104/68",
+                "respiratory_rate": "15",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "A+Ox3, NAD, pleasant female",
+                "heent": "PERRL, EOMI, OP clear, MMM",
+                "neck": "supple, no LAD",
+                "cardiovascular": "RRR, no M/G/R",
+                "pulmonary": "CTAB, no W/R/R",
+                "abdominal": "Soft, ND, +BS, mildly tender to palpation diffusely without rebound or guarding, +cholecystostomy with biliary drainage",
+                "extremities": "No peripheral edema",
+                "skin": "no rash"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.8",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Worsening abdominal pain and low-grade fever.",
+            "changes_over_time": "Generalized abdominal pain has increased in severity over the past 2 days."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5",
+                "heart_rate": "100",
+                "blood_pressure": "94/67",
+                "respiratory_rate": "14",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

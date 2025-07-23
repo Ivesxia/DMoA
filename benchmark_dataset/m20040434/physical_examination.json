@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.6°F",
+                "blood_pressure": "127/78 mmHg",
+                "heart_rate": "70 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "95%"
+            },
+            "relevant_findings": {
+                "general": "Sitting in bed, appears uncomfortable at times.",
+                "eyes": "PERRLa",
+                "HEENT": "Oropharynx without lesions, moist mucous membranes.",
+                "neck": "Supple.",
+                "lungs": "Clear to auscultation bilaterally without any wheezes or rales, difficulty taking a large breath.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, rubs, or gallops.",
+                "abdomen": "Tenderness to palpation in the epigastric region, hypoactive bowel sounds.",
+                "genitourinary": "No Foley.",
+                "extremities": "No deformity, no edema.",
+                "skin": "Warm, dry, no rash.",
+                "neurological": "Alert and oriented ×3, fluent speech."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

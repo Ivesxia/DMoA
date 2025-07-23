@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated, measuring 8 mm, surrounded by fat stranding. No pleural effusion or pneumothorax. Normal heart size and no pericardial effusion. Liver enhances homogeneously without focal lesions. Normal gallbladder and no intrahepatic biliary ductal dilation. Unremarkable spleen, pancreas, adrenal glands, and kidneys. Normal stomach, large and small bowel. Ascending and transverse colons are collapsed. Focal dilation of the terminal ileum may reflect a reactive ileus. No evidence of small bowel obstruction. Multiple prominent mesenteric and retroperitoneal lymph nodes are thought to be reactive. Normal pelvic organs. No free pelvic fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

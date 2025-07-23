@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain.",
+        "history_of_present_illness": "Patient developed crampy abdominal pain two nights ago after consuming undercooked tuna. The pain persisted through the night and became more constant, presenting as a dull aching pain in the epigastrium and mid abdomen.",
+        "past_medical_history": "Metastatic breast cancer with recent treatments including Taxol, history of biliary stents, chronic low back pain, hypothyroidism, insomnia, and mania.",
+        "family_history": "Maternal coronary artery disease, chronic obstructive pulmonary disease; paternal coronary artery disease.",
+        "social_history": "Not specified."
+    }
+}

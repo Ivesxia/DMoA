@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute appendicitis",
+        "differential_diagnosis": "Not specified.",
+        "diagnostic_reasoning": "The patient presented with right lower quadrant pain, along with nausea and vomiting. CT imaging revealed a fluid-filled appendix, measuring up to 10 mm, with minimal mucosal hyperemia and mild periappendiceal fat stranding, consistent with acute appendicitis."
+    }
+}

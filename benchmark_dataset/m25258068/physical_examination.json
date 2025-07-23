@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1",
+                "heart_rate": "118",
+                "blood_pressure": "127/79",
+                "respiratory_rate": "21",
+                "oxygen_saturation": "98% on 4L NC"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, no acute distress",
+                "HEENT": "Sclera anicteric, MMM, oropharynx clear",
+                "neck": "Supple, JVP not elevated, no LAD",
+                "lungs": "Clear to auscultation bilaterally, no wheezes, rales, rhonchi",
+                "cardiovascular": "Faint but regular rhythm and tachycardic, normal S1/S2, no murmurs, rubs, gallops",
+                "abdominal": "Obese but soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly",
+                "extremities": "Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema",
+                "skin": "Intact, no ecchymoses, no jaundice",
+                "neurological": "CN intact, moving all 4 extremities with purpose. Strength for upper and lower extremity extensors and flexors bilaterally. Sensation intact to light touch."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

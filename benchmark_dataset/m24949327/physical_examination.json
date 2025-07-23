@@ -1,0 +1,45 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5 F",
+                "heart_rate": "73 bpm",
+                "blood_pressure": "216/72 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "chronically ill appearing, appears older than stated age, alert and responsive",
+                "neurological": "AOx2 (self and 'hospital'), follows basic axial commands, responds appropriately",
+                "cardiovascular": "RRR, nl S1/S2, systolic flow murmur likely transmission from dialysis fistula, no gallops/rubs; Pulses 2+ throughout, No JVD appreciated.",
+                "extremities": "2+ pitting edema B/L ___ up LEs; continuous bruit with thrill of left arm at site of dialysis access with overlying dressing"
+            },
+            "changes_over_time": "Patient's daughter reports that today is 'better than baseline'."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "4+/5 strength in the LLE with otherwise normal strength elsewhere.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6 F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "153/54 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": "Patient appears uncomfortable; reports 2-day history of left leg pain and a sensation of 'constant pulling' of the left big toe.",
+            "changes_over_time": "Pain is relieved with pressure/massage, and worse with movement. Additionally, the left hand pain described as spasm or cramping began today."
+        }
+    ]
+}

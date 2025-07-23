@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "110/70",
+                "heart_rate": "88",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "98% on 2L"
+            },
+            "relevant_findings": {
+                "general": "no acute distress",
+                "cardiovascular": "RRR",
+                "pulmonary": "clear bilaterally",
+                "gastrointestinal": "laparotomy incision well healed, soft, non-tender, non-distended",
+                "extremities": "non tender, non edematous"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

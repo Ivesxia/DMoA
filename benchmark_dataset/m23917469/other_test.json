@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT HEAD W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "No evidence of new hemorrhage, acute large territorial infarction, edema, or mass. Large left frontoparietal encephalomalacia is unchanged, likely compatible with old infarction. Stable appearance of left basal ganglia lacunar infarcts and hypodensity within the posterior limb of the left internal capsule, likely representing old lacunar infarction. Periventricular and subcortical hypodensities are nonspecific, though likely compatible with sequela of chronic small vessel ischemic disease. Mild prominence of the ventricles and sulci suggestive of involutional changes. Stable appearance of the previously characterized right extra-axial subdural hematoma, measuring up to 5 mm in greatest width, with no associated mass effect. Subtle cortical step-off at the left nasal bone unchanged.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "biopsy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

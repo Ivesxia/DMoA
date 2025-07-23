@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "In the right lung base a pleural based nodule measures 3 mm; The liver enhances homogeneously without focal lesions. The portal vein is patent. The gallbladder is normal. The pancreas, spleen and adrenal glands appear normal. Bilateral, right greater than left, renal polar areas of hypoattenuation and cortical thinning are identified. The stomach, small and large bowel are unremarkable without evidence of obstruction or focal wall thickening. A dilated fluid-filled structure measuring 9 mm with hyperenhancing mucosa represents an inflamed appendix. There is surrounding fat stranding. No evidence of free air or adjacent fluid collections to indicate rupture. The bladder is filled and appears normal. The uterus and adnexa are unremarkable. Prominent mesenteric lymphadenopathy that is likely reactive.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Chemistry",
+            "date": "Not specified",
+            "findings": "1.7 mmol/L (Reference range 0.5 - 2.0 mmol/L)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

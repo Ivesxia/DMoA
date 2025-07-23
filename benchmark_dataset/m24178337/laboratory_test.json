@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is fluid-filled and dilated up to 12 mm with wall thickening and hyperenhancement, consistent with appendicitis. Tiny hypodensities in the kidneys are likely cysts. No hydronephrosis. Moderate surrounding mesenteric fat stranding.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Standard culture test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

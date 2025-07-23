@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP with sphincterotomy",
+            "date": "Not specified",
+            "findings": "Postprocedural fever noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP with stent placement",
+            "date": "Not specified",
+            "findings": "Postprocedural fever noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver appears normal; no intrahepatic biliary ductal dilation; normal caliber common bile duct; gallbladder contracted around multiple shadowing stones; pancreas grossly unremarkable; both kidneys normal; spleen not visualized.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "heart_rate": "64 bpm",
+                "blood_pressure": "148/55 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "Crouched in bed, vomiting",
+                "HEENT": "No cervical lymphadenopathy",
+                "chest": "Clear to auscultation bilaterally, well healing sternotomy scar",
+                "heart": "Regular rate and rhythm, normal S1/S2 heart sounds",
+                "abdomen": "Moderately tender in the epigastrium and right upper quadrant, soft, nondistended, no palpable masses",
+                "extremities": "Warm, well-perfused, palpable distal pulses"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

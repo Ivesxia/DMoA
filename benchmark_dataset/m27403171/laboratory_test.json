@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The gallbladder is moderately distended. It contains three large gallstones that measure up to 2.2 cm. One stone, measuring 2 x 1.4 cm, distends the gallbladder neck, and is likely impacted. There is gallbladder wall edema and a small amount of pericholecystic fluid. On portal venous phase images following contrast administration, there is mild hepatic hyperemia along the margin of the gallbladder. There is no intra- or extra-hepatic biliary ductal dilatation. A tiny, central filling defect in the distal common hepatic duct is most consistent with artifact, rather than intraductal stone. The pancreatic duct is normal in caliber. The pancreas enhances homogeneously. No focal pancreatic lesions are identified. Simple cysts are present in the liver, and there is mild fatty infiltration. The hepatic signal is normal. The spleen, kidneys, adrenal glands, and visualized loops of bowel are normal. The abdominal aorta and stomach are grossly unremarkable. There is no lymphadenopathy. The visualized bone marrow signal is within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "Values indicate 1.2, which is above the normal reference range of 0.9 to 1.1.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

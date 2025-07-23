@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in contour and echogenicity. No focal hepatic lesions are identified. The portal vein is patent. There is no ascites. The gallbladder is mildly distended with stones and sludge noted within. The largest stone measures 2.2 cm in diameter and is seated in the gallbladder neck. No gallbladder wall thickening or pericholecystic fluid. Moderate intrahepatic biliary duct dilation and marked extrahepatic biliary dilatation. The common hepatic duct measures 13 mm; the distal common bile duct measures 20 mm. The pancreatic duct is dilated measuring up to 5 mm. The head of the pancreas is not well visualized due to overlying bowel gas. The tail of the pancreas is unremarkable. Limited views of the right kidney are unremarkable without evidence of hydronephrosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

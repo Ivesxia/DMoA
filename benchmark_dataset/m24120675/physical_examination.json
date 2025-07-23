@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "blood_pressure": "148/80 mmHg",
+                "heart_rate": "87 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "93% on room air"
+            },
+            "relevant_findings": {
+                "general": "No apparent distress, resting comfortably in bed",
+                "HEENT": "Moist mucous membranes, no oral pharyngeal lesions",
+                "cardiovascular": "Regular rate and rhythm, normal S1S2, no S3/S4",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezing, coughing, or respiratory distress, reported poor aeration bilaterally, positive cough with deep breaths",
+                "abdominal": "Bowel sounds present, soft, tender to palpation both lower quadrants (right greater than left)",
+                "limbs": "Warm, well-perfused, no tremors",
+                "skin": "No rashes on extremities",
+                "neurological": "Grossly normal examination",
+                "psychiatric": "Pleasant demeanor"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

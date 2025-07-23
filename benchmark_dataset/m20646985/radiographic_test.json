@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The uterus measures 9.4 x 4.9 x 6.1 cm. The endometrium is homogeneous in echogenicity measuring 15 mm. No focal endometrial lesion is identified. The ovaries are normal bilaterally and demonstrate normal arterial and venous Doppler waveforms. There is trace simple free fluid around the right ovary, likely physiologic.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

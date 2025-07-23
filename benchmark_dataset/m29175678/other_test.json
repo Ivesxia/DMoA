@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Fat stranding centered around the appendix with mild dilatation of the appendiceal tip to 8 mm. Slight thickening of the cecal base. No contrast or air are seen within the appendix despite contrast in the cecum. No drainable fluid collection and no free air. Tiny lymph nodes are prominent but not pathologically enlarged. The lungs are clear with a calcified granuloma in the right lower lobe. A small pericardial effusion is unchanged.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "NGT lavage",
+            "date": "Not specified",
+            "findings": "Negative NGT lavage.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

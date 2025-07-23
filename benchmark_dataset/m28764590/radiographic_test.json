@@ -1,0 +1,26 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Mild dependent atelectasis bilaterally, no pleural or pericardial effusion.",
+                "abdomen": {
+                    "hepatobiliary": "Liver demonstrates homogenous attenuation, no focal lesions, no biliary dilatation, gallbladder normal.",
+                    "pancreas": "Normal attenuation, no focal lesions or pancreatic ductal dilatation, no peripancreatic stranding.",
+                    "spleen": "Normal size and attenuation, no focal lesions.",
+                    "adrenals": "Normal in size and shape.",
+                    "urinary": "Kidneys normal and symmetric in size with normal nephrogram, no focal lesions or hydronephrosis, no perinephric abnormality.",
+                    "gastrointestinal": "Stomach unremarkable, small bowel normal, colon and rectum normal, appendix measures up to 8 mm with no surrounding fat stranding, no pneumoperitoneum or fluid collection.",
+                    "pelvis": "Urinary bladder and distal ureters unremarkable, no free fluid in pelvis.",
+                    "reproductive_organs": "3.6 x 2.6 x 3.5 cm ovoid hyperdense right uterine structure with a surrounding halo of hypodensity and thin curvilinear hyperdensities at the periphery.",
+                    "lymph_nodes": "No retroperitoneal or mesenteric lymphadenopathy, no pelvic or inguinal lymphadenopathy.",
+                    "vascular": "No abdominal aortic aneurysm.",
+                    "bones": "No worrisome osseous lesions or acute fracture.",
+                    "soft_tissues": "Abdominal and pelvic wall within normal limits."
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

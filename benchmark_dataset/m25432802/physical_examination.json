@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "100 bpm",
+                "blood_pressure": "148/72 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No distress, A&O x 3",
+                "HEENT": "PERLA, EOMI, anicteric, mucus membranes dry",
+                "chest": "RRR, lungs clear",
+                "abdomen": "soft, nondistended, tender to palpation in lower abdomen, RLQ > LLQ",
+                "rectal": "guaiac negative, no masses",
+                "pelvic": "no CMT, mild right adnexal tenderness",
+                "extremities": "warm, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

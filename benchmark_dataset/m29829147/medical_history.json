@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient woke up with diffuse epigastric and suprapubic pain. The pain is described as burning/sharp, initially non-radiating, constant, and different in quality from GERD symptoms. Over the course of two days, the pain seems to have migrated to the lower abdomen. No relation to timing of meals. Took Tylenol and Pepto-Bismol without relief.",
+        "past_medical_history": "Asthma, GERD",
+        "family_history": "No history of IBD or intestinal malignancy.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung": "multiple thin walled cysts; no pleural effusion or pneumothorax; a 1.2 x 1.2 cm pleural based nodular opacity in right lower lung; two sub-4 mm nodules in the left lung base",
+                "intra_abdominal_contents": "liver, pancreas and adrenal glands are normal; spleen is surgically absent; kidneys are enlarged with numerous cystic and fat-containing lesions; non-obstructing 5.8 mm stone in lower pole of left kidney",
+                "bowel": "stomach, large and small bowel are normal",
+                "lymphadenopathy": "no retroperitoneal or mesenteric lymphadenopathy",
+                "appendix": "dilated, measuring up to 9.8 mm with surrounding fat inflammation; no evidence of perforation or fluid collection",
+                "pelvis": "rectum, bladder and sigmoid are normal; uterus is unremarkable; cystic changes in both ovaries; scattered right inguinal lymph nodes do not meet CT size criteria for lymphadenopathy",
+                "bones": "multiple foci of sclerosis throughout the bones; no fracture"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lab Test",
+            "date": "Not specified",
+            "findings": {
+                "value": "1.6 mg/dL",
+                "interpretation": "normal (reference range 1.6-2.6 mg/dL); no growth noted"
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "129/76 mmHg",
+                "respiratory_rate": "14 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "NAD",
+                "cardiovascular": "RRR, no m/r/g",
+                "respiratory": "clear, noted wheezes in both lung fields",
+                "abdominal": {
+                    "incision": "well healed C-section incision",
+                    "tenderness": "tender to deep palpation in the right lower quadrant without rebound or guarding",
+                    "special_signs": {
+                        "Rovsing_sign": "negative",
+                        "psoas_sign": "negative",
+                        "obturator_sign": "positive"
+                    }
+                },
+                "extremities": "no c/c/e"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

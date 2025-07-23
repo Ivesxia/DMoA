@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is fluid-filled with wall hyperenhancement measuring approximately 10 mm. There is a small amount of surrounding fat stranding. No extraluminal air or fluid collection. Other abdominal structures such as liver, gallbladder, spleen, pancreas, kidneys, and bladder are unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ERCP BILIARY&PANCREAS BY GI UNIT",
+            "date": "Not specified",
+            "findings": "Cholangiogram images show distention of the biliary tree and irregular filling defects in the lower common bile duct. An impacted stone was noted in the major papilla. Sphincterotomy was performed and four stones and some sludge were extracted. Final images show double pigtail biliary stents in place.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Protein Level",
+            "date": "Not specified",
+            "findings": "Protein level is 4.0 g/dL, within the normal range (ref range: 3.4 - 4.8 g/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Severe low back pain and lower abdominal pain",
+        "history_of_present_illness": "Symptoms began 3 days prior, with sudden onset of sharp lower abdominal pain that was stabbing in nature and accompanied by low back pain. The pain became constant and worse with ambulation and bending, worsening over the course of 2 days, associated with subjective fever and decreased appetite. No association with food was noted. Blood was reported on toilet paper 2 days prior, along with a sour and dry mouth for two days.",
+        "past_medical_history": "Hypertension, osteoarthritis, headaches, non-insulin-dependent diabetes, hyperlipidemia, questionable dementia, lumbar degenerative disc disease with radiculopathy, evidence of an old stroke in the pons on MRI, gastritis, asthma.",
+        "family_history": "Mother and father died of 'old age'; no history of strokes known.",
+        "social_history": "Not specified."
+    }
+}

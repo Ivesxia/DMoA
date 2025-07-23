@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Esophagogastroduodenoscopy [EGD] with closed biopsy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver enhances homogeneously and is without focal abnormality; several gallstones; subtle haziness in the fat adjacent to the gallbladder fundus; gallbladder wall is not thickened; spleen is enlarged measuring 14.2 cm; otherwise, normal pancreas, kidneys, stomach, duodenum, and bowel.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

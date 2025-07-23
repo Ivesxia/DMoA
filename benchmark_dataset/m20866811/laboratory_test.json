@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The gallbladder is distended with circumferential wall edema, and surrounding fat stranding. An enlarged porta hepatic lymph node is present measuring 13 mm, most likely reactive.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bilirubin",
+            "date": "Not specified",
+            "findings": "1.8 mg/dL, which is within the normal range (1.6 - 2.6 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Leukocytosis with a white blood cell count (WBC) of 30,000. Platelet count of 128.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level of 295.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chem 7",
+            "date": "Not specified",
+            "findings": "BUN of 36, Glucose of 203.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate level of 2.6.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Analysis (UA)",
+            "date": "Not specified",
+            "findings": "Unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph (Portable AP)",
+            "date": "Not specified",
+            "findings": "Significant interval improvement in the right basal opacity with minimal residual airspace opacity. Unchanged left lower lobe atelectasis. Mild cardiomegaly noted.",
+            "changes_over_time": "Significant improvement in right basal opacity."
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with abdominal pain that migrated to the right lower quadrant, nausea, and vomiting, with a CT scan revealing a dilated appendix measuring 8 mm in diameter with a hyperemic wall, consistent with appendicitis. No evidence of rupture or fluid collection was noted."
+    }
+}

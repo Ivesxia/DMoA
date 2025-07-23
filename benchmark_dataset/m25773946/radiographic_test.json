@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated and fluid-filled, measuring 13 mm with surrounding stranding, consistent with acute uncomplicated appendicitis. The rest of the abdomen and pelvis is otherwise unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

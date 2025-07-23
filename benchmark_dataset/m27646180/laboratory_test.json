@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Limited assessment of the lung bases demonstrates mild bilateral dependent atelectasis. Homogeneous liver parenchyma without focal lesions. No intrahepatic or extrahepatic biliary duct dilatation. No peripancreatic stranding or fluid collection. The spleen is homogeneous and normal in size. Unchanged 1.3 cm homogeneous rounded soft tissue lesion in the right adrenal gland likely is an adenoma. No solid or cystic lesions in the kidneys. 1.4 cm fluid-filled blind-ending tubular structure with mild fat stranding extending off of the cecum consistent with acute uncomplicated appendicitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NEG.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

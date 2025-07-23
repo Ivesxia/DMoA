@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "PT (Prothrombin Time)",
+            "date": "Not specified",
+            "findings": "28.5 sec (within normal range: 25.0 - 36.5 sec)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound - Pelvis, Non-Obstetric",
+            "date": "Not specified",
+            "findings": "Slightly enlarged peripartum uterus measuring 13.4 x 5.4 x 7.7 cm; Normal endometrium measuring 2 mm; Trace amount of simple fluid in the endometrial canal; No hyperechoic foci; Bilateral ovaries normal in size and appearance; No free fluid identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

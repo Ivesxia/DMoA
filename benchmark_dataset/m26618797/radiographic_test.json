@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "There are streaky bibasilar opacities, also in the right hilar region, likely representing atelectasis. No focal consolidation. Blunting of the left costophrenic angle suggests a small pleural effusion. No pneumothorax. Heart size is normal.",
+            "changes_over_time": "This has progressed compared to the prior study performed earlier on the same date."
+        }
+    ]
+}

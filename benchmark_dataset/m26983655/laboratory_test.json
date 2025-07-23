@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bilirubin Test",
+            "date": "Not specified",
+            "findings": "0.4 mg/dL",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "No focal consolidation, pleural effusion or pneumothorax identified. The size of the cardiac silhouette is within normal limits.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

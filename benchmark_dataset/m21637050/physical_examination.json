@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "98.0°F, 156/89 mmHg, 64 bpm, 16 breaths/min, 95% RA",
+            "relevant_findings": "General: awake, alert, NAD. HEENT: NC/AT, MMM, OP clear. Neck: No JVD. CV: RRR, no m/r/g. Lungs: CTAB. Abdomen: +BS, soft, mild TTP in the epigastric area, ND, no rebound, no guarding. Extremities: WWP, no c/c/e.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "97.4°F, 67 bpm, 144/83 mmHg, 20 breaths/min, 95% SpO2",
+            "relevant_findings": "EKG interpreted as SR @ 63, NA, NI, ?qII/aVL, no STE.",
+            "changes_over_time": "Pain is significantly improved upon arrival to the ED."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "97.4°F, 63 bpm, 139/80 mmHg, 19 breaths/min, 97% SpO2",
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

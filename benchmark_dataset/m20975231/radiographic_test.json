@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Portable abdomen",
+            "date": "Not specified",
+            "findings": "Air fills multiple loops of nondilated small bowel, with air also seen in the right colon and stomach. No evidence of obstruction, ileus, or free intraperitoneal air on this single view.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

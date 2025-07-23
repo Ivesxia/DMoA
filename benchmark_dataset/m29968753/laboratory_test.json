@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Troponin",
+            "date": "Not specified",
+            "findings": "Trops < 0.01 (within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "K 3.3 (outside normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bicarbonate",
+            "date": "Not specified",
+            "findings": "Bicarb 21 (within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "BUN/Cr not provided",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnesium",
+            "date": "Not specified",
+            "findings": "Mg 1.5 (within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test (ALT)",
+            "date": "Not specified",
+            "findings": "ALT 34 (within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test (AST)",
+            "date": "Not specified",
+            "findings": "AST 67 (outside normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 239 (outside normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Ethanol",
+            "date": "Not specified",
+            "findings": "Serum EtOH 202 (outside normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit and Hemoglobin",
+            "date": "Not specified",
+            "findings": "H&H 10.1/32.4 (outside normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Ultrasound",
+            "date": "Not specified",
+            "findings": "Hepatic architecture coarsened and nodular, no focal mass, slight ascites, small left pleural effusion, gallbladder with small stone/sludge, normal spleen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

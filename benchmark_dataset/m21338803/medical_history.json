@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The abdominal pain began suddenly on an unspecified night. It was sharp, constant, located in the epigastrium, and associated with shortness of breath secondary to the pain. The pain resolved with breathing treatments and a heating pad, but recurred on an unspecified afternoon with associated pain in the upper midline back.",
+        "past_medical_history": "Bronchitis, endometriosis, depression/anxiety; Past surgical history includes laparoscopic appendectomy and two laparoscopies for endometriosis.",
+        "family_history": "Not specified.",
+        "social_history": "No tobacco use; occasional alcohol use."
+    }
+}

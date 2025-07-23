@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.5°F",
+                "heart_rate": "70 bpm",
+                "blood_pressure": "143/95 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "Uncomfortable appearing but nontoxic",
+                "neurological": "Awake, alert, cooperative with exam, normal affect, oriented to person, place and date.",
+                "lungs": "Clear to auscultation bilaterally",
+                "cardiac": "Regular rate and rhythm",
+                "abdomen": "Soft, nondistended, tender in the right upper quadrant with midline incision."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

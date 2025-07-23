@@ -1,0 +1,26 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Minimal bibasilar atelectasis. Otherwise, visualized lung fields are within normal limits. There is no evidence of pleural or pericardial effusion.",
+                "abdominal": {
+                    "hepatobiliary": "Mildly heterogeneous enhancement in the posterior aspect of the right hepatic lobe, with potential fatty infiltration. No focal lesions. No evidence of intrahepatic or extrahepatic biliary dilatation.",
+                    "pancreas": "Normal attenuation throughout, without focal lesions or pancreatic ductal dilatation. No peripancreatic stranding.",
+                    "spleen": "Normal size and attenuation throughout, without focal lesions.",
+                    "adrenals": "Normal in size and shape.",
+                    "urinary": "Normal and symmetric size with normal nephrogram. No focal renal lesions or hydronephrosis.",
+                    "gastrointestinal": "Stomach unremarkable. Small bowel loops normal. The colon and rectum are within normal limits. The fluid-containing appendix is mildly dilated, measuring up to 9 mm, with appendicoliths seen. Trace fluid near the tip.",
+                    "pelvis": "No free fluid in the pelvis. Several phleboliths demonstrated.",
+                    "reproductive_organs": "Normal limits.",
+                    "lymph_nodes": "No retroperitoneal or mesenteric lymphadenopathy.",
+                    "vascular": "No abdominal aortic aneurysm. Mild atherosclerotic disease noted.",
+                    "bones": "No worrisome osseous lesions or acute fracture.",
+                    "soft_tissues": "A small fat-containing umbilical hernia is present. Otherwise, soft tissues are unremarkable."
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

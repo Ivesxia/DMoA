@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "heart_rate": "91 bpm",
+                "blood_pressure": "156/97 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "In no acute distress, sitting up in ED stretcher.",
+                "HEENT": "Mucus membranes moist, nares clear, trachea at midline.",
+                "cardiovascular": "Regular rate, rhythm. No appreciable murmurs, rubs, gallops.",
+                "pulmonary": "Clear to auscultation bilaterally.",
+                "abdominal": "Well-healed paramedian and low midline incision consistent with prior appendectomy. Focally tender in left lower quadrant and suprapubic region.",
+                "musculoskeletal": "Warm, well-perfused.",
+                "neurological": "Alert, oriented to person, place, time."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99°F",
+                "heart_rate": "93 bpm",
+                "blood_pressure": "123/71 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert & oriented, no acute distress.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, gallops, or rubs.",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.",
+                "abdominal": "Inspection reveals a ~6 inch transverse lower abdominal scar and a small scar below the umbilicus; abdomen is soft and non-distended; bowel sounds present; tenderness to palpation in the right lower quadrant; no rebound tenderness or guarding; positive Rovsing's sign, obturator sign; negative psoas sign; no palpable masses or hepatosplenomegaly.",
+                "DRE": "Normal tone, no gross or occult blood.",
+                "extremities": "No edema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

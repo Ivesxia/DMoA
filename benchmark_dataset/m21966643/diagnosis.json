@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "pancreatitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with abdominal pain and elevated lipase levels, which are indicative of pancreatitis. The pain was relieved with morphine, and the patient's history included factors such as impaired fasting glucose and no history of alcohol use or gallstones, ruling out multiple adversities."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver shows no evidence of a focal lesion or biliary dilatation. The gallbladder is normal appearing without evidence of stones or wall thickening. The spleen is normal in size and appearance. The pancreas is normal appearing. The adrenal glands are normal bilaterally. The kidneys enhance with and excrete contrast symmetrically. Within the mid pole of the right kidney, there are two well-circumscribed fluid densities measuring 22 and 18 mm in diameter respectively, compatible with simple cysts. The small intestine shows no evidence of obstruction or wall thickening. The bladder and prostate appear unremarkable. Sigmoid diverticulosis without evidence of diverticulitis is seen in the right lower quadrant. The appendix is noted to be fluid filled and dilated, measuring 9 mm in diameter. At the junction between the appendix and the cecum, there is a well-circumscribed dense intraluminal structure measuring 8 x 3 mm, compatible with an appendicolith. There is fat stranding surrounding this inflamed appendix. There are no locules of free air to suggest perforation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

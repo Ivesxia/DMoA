@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture and Sensitivity",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "A dilated, fluid-filled appendix measuring 9 mm with surrounding fat stranding. No evidence of macroperforation or drainable fluid collection. The small and large bowel are otherwise within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

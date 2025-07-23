@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Coagulation Test",
+            "date": "Not specified",
+            "findings": "PT = 28.6 sec (normal range: 25.0 - 36.5 sec)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "Liver has increased echogenicity without focal liver lesion. No intrahepatic biliary ductal dilatation. Gallbladder contains multiple mobile gallstones without distention, wall thickening, or pericholecystic fluid. Common bile duct not dilated (measuring 4 mm). Pancreas not well evaluated due to overlying bowel gas. Main portal vein shows patency and hepatopetal flow.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lactate test",
+            "date": "Not specified",
+            "findings": "Lactate level 2.8 mmol/L, which is above the reference range (0.5-2.0 mmol/L).",
+            "changes_over_time": "Decreased lactate level to 1.9 mmol/L after administration of 2 L NS."
+        },
+        {
+            "procedure_name": "Laparoscopic appendectomy",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

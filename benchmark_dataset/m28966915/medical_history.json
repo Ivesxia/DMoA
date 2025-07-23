@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute onset lower abdominal pain",
+        "history_of_present_illness": "The patient experienced acute onset lower abdominal pain at 2am this morning, which is cramping in nature and progressively worsened throughout the night. The patient was generally in his usual state of health until waking with pain, and attempted to pass urine but produced only a small amount. The pain worsened after trying to have a bowel movement. Additionally, the patient reports having approximately 6 weeks of fatigue prior to this episode but no worsening shortness of breath or dyspnea with exertion. There has been a gradual decline in weight over the last several weeks.",
+        "past_medical_history": "Chronic Heart Failure (CHF), Chronic Obstructive Pulmonary Disease (COPD), Atrial Fibrillation (afib) on warfarin, history of cataracts status post-surgery, right kidney cyst, sleep apnea, gastroesophageal reflux disease (GERD) on PPI, back pain status post-laminectomy, leg weakness due to pinched nerve, coronary stent placement, left knee replacement, and hemorrhoids status post-banding procedure.",
+        "family_history": "Father with heart issues, heavy smoking, and died of suicide. Positive family history for brain tumor and bone cancer.",
+        "social_history": "Not specified."
+    }
+}

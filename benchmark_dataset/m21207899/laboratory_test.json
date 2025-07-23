@@ -1,0 +1,36 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CTU (ABD/PEL) W/&W/O CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lungs": "Visualized lung fields are within normal limits. No evidence of pleural or pericardial effusion.",
+                "liver": "Homogenous attenuation; a tiny hypodensity in segment VII likely represents a simple cyst or biliary hamartoma.",
+                "gallbladder": "Within normal limits.",
+                "pancreas": "Normal attenuation, no focal lesions or pancreatic ductal dilatation.",
+                "spleen": "Normal size and attenuation, no focal lesions.",
+                "adrenals": "Normal in size and shape.",
+                "kidneys": "Normal, symmetric size with normal nephrogram; multiple nonobstructing punctate renal stones bilaterally.",
+                "ureters": "No ureterolithiasis.",
+                "bladder": "Unremarkable.",
+                "stomach": "Unremarkable.",
+                "small bowel": "Normal caliber, wall thickness, and enhancement.",
+                "colon": "Within normal limits.",
+                "retrocecal appendix": "Dilated and hyperemic measuring up to 1 cm with adjacent fat stranding.",
+                "pelvis": "No free fluid.",
+                "reproductive organs": "Unremarkable.",
+                "lymph nodes": "No lymphadenopathy.",
+                "vascular": "No abdominal aortic aneurysm or atherosclerotic disease.",
+                "bones": "No evidence of worrisome osseous lesions or acute fracture.",
+                "soft tissues": "Within normal limits."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gram Stain",
+            "date": "Not specified",
+            "findings": "GRAM POSITIVE BACTERIA; previous findings were NEG.",
+            "changes_over_time": "GRAM positive bacteria detected after previously being negative."
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "RUQ pain",
+        "history_of_present_illness": "RUQ pain started 2 days ago in the evening. Patient reports having chest pain for the last few weeks, similar to previous chest pain associated with CHF diagnosis, which was absent for many years but has recently recurred. No previous similar pain reported.",
+        "past_medical_history": "Anxiety, GERD",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

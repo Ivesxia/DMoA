@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Right IJ catheter placement",
+            "date": "Not specified",
+            "findings": "Placement of a right IJ catheter that extends to the lower portion of the SVC. A curvilinear line projected over the outer aspect of the mid portion of the right lung, characterized as a skin fold, with pneumothorax possible.",
+            "changes_over_time": "In comparison with the earlier study of this date, changes noted due to catheter placement."
+        },
+        {
+            "procedure_name": "Not specified (potential repeat frontal view suggested)",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

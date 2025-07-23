@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 104, normal reference range not provided.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "Potassium 2.9, outside normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC 7.9, within normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit (Hct)",
+            "date": "Not specified",
+            "findings": "Hct 35.9, within normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate 1.0, within normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis (UA)",
+            "date": "Not specified",
+            "findings": "UA negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine hCG",
+            "date": "Not specified",
+            "findings": "Urine hCG negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of the Liver or Gallbladder",
+            "date": "Not specified",
+            "findings": "Liver normal in grayscale appearance and size without focal lesion. Gallbladder normal without gallstones. Pancreas normal without focal lesion. No biliary ductal dilation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

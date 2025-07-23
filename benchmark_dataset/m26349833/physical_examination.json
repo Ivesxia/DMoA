@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5 °F",
+                "blood_pressure": "120/70 mmHg",
+                "heart_rate": "75 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "pleasant, lying in bed, NAD, responsive and appropriate",
+                "HEENT": "PERRLA, EOMI, OP dry/clear, neck supple, sclera anicteric",
+                "heart": "RRR, no murmurs/rubs/gallops",
+                "lungs": "CTA, no rales/rhonchi/wheezes",
+                "abdomen": "soft, moderate tenderness in the epigastric and LUQ area, positive bowel sounds",
+                "extremities": "occasional ecchymoses, no cyanosis/clubbing/edema",
+                "neurological": "non-focal",
+                "psychiatric": "appropriate"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Gallbladder is distended with wall thickening, sludge and numerous stones, including several stones near the gallbladder neck. The hepatic parenchyma appears within normal limits. No focal liver mass, portal vein patent with hepatopetal flow, no ascites, no intrahepatic biliary dilation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

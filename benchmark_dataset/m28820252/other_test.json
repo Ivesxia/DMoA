@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "New small left pleural effusion with adjacent atelectasis. No evidence of pericardial effusion. The appendix and base of the cecum are surgically absent. Mild cecal wall hyperenhancement adjacent resection. Small volume free fluid in the right lower quadrant is nonhemorrhagic. Hyperenhancing right lower quadrant peritoneum suggests peritonitis due to inflammation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Physical Examination",
+            "date": "Not specified",
+            "findings": "Temperature: 98.2, HR: 109, BP: 124/57, Respiratory Rate: 20, O2 Sat: 98. Abdominal examination showed RLQ tenderness, no rebound or guarding.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "3 days of severe left lower quadrant (LLQ) pain",
+        "history_of_present_illness": "The patient presents with severe LLQ pain that has lasted for 3 days. She describes it as similar to an older pain from a previous operation but much more severe, radiating across the lower abdomen unlike her previous pain. The pain is sharp, worse with movement, and alleviated by lying still and with narcotics. Additionally, the patient has documented a fever at home reaching 101.7°F.",
+        "past_medical_history": "Enlarged multifibroid uterus status post laparoscopic hysterectomy, pyelonephritis, gastrointestinal ulcer/bleeding, duodenal ulcer, headaches, anticardiolipin antibody positivity, anal fissure.",
+        "family_history": "Grandmother had breast cancer. Mother has a history of hypertension, thyroid cancer (with a history of radiation to the head and neck as a child), and endometriosis. Father has hyperlipidemia and hypertension.",
+        "social_history": "Not specified"
+    }
+}

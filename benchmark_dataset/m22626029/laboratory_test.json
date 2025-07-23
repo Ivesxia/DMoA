@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Large amount of stranding around the fluid-filled appendix which is dilated up to 13 mm. Secondary inflammation of the terminal ileum. No evidence of hydronephrosis, stones, or focal lesions in the kidneys. Liver, spleen, pancreas, and adrenal glands are normal. No free air or abdominal aortic aneurysm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbiological culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

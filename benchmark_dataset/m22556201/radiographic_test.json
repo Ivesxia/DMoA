@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "The heart size is mildly enlarged. The aorta is tortuous and enlarged. There are multiple bilateral pathologic rib fractures. The lungs are clear with no focal consolidation, pleural effusion, or pneumothorax.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

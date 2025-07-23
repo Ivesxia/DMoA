@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "A mild dilation was seen at the left main hepatic duct and proximal left intrahepatic biliary branches. There was an abrupt transition point. Cytology could not be obtained via brushings.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Aspiration of biliary fluid",
+            "date": "Not specified",
+            "findings": "Cytology samples were obtained for histology via aspiration of the biliary fluid draining from the branch with the stricture present.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "EIA RESULT NOT CONFIRMED BY WESTERN BLOT. POSITIVE BY EIA. NEGATIVE BY WESTERN BLOT.",
+            "changes_over_time": "Negative results do not rule out B. burgdorferi infection. Patients in early stages of infection or on antibiotic therapy may not produce detectable levels of antibody. Patients with clinical history and/or symptoms suggestive of lyme disease should be retested in 2-3 weeks."
+        }
+    ]
+}

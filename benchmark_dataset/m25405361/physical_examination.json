@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "72 bpm",
+                "blood_pressure": "110/74 mmHg",
+                "respiratory_rate": "12 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "well appearing in no acute distress",
+                "cardiovascular": "regular rate and rhythm",
+                "pulmonary": "breathing comfortably on room air",
+                "abdominal": "soft, tender to palpation in right lower quadrant, non-peritoneal, no guarding",
+                "extremities": "warm, well-perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

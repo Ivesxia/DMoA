@@ -1,0 +1,16 @@
+{
+    "medical_history": {
+        "chief_complaint": "Nausea, vomiting and right upper quadrant (RUQ) pain.",
+        "history_of_present_illness": "Symptoms began after having a cup of tea on the evening at 5 pm, characterized by constant RUQ burning pain similar to prior attacks but persistent this time. The patient denies nausea and vomiting currently.",
+        "past_medical_history": "Hypertension, hyperlipidemia, obesity, history of similar episodes of RUQ pain, gallbladder polyp as shown in prior ultrasound, previous shoulder operations, and hernia repair over 5 years ago.",
+        "family_history": "Not specified.",
+        "social_history": {
+            "marital_status": "Divorced",
+            "children": 2,
+            "smoking_status": "Never Smoker",
+            "alcohol_use": "Yes, socially",
+            "drug_use": "Not on file",
+            "sexual_activity": "Not on file"
+        }
+    }
+}

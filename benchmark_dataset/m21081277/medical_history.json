@@ -1,0 +1,32 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute onset of abdominal pain",
+        "history_of_present_illness": "Pain started suddenly at 3 pm this afternoon, located in epigastrium and right upper quadrant. The patient reported chills but denied fevers, nausea, vomiting, shortness of breath, chest pain, constipation, diarrhea, or urinary symptoms. The pain was unrelated to eating.",
+        "past_medical_history": [
+            "Coronary artery disease -- s/p multiple PCI, last in ___ records",
+            "s/p MI with stent placement",
+            "Dilated Cardiomyopathy -- LVEF of ___ -- s/p PPM/ICD placement",
+            "Hypertension",
+            "Hyperlipidemia",
+            "Hypothyroidism",
+            "Depression",
+            "ICH while on Coumadin",
+            "Benign Prostatic Hypertrophy",
+            "Bilateral Hydroceles",
+            "Colonic polyps",
+            "Hand osteomyelitis history",
+            "Babesiosis history",
+            "SCC of left finger and penis",
+            "Appendectomy",
+            "Gout"
+        ],
+        "family_history": [
+            "Father died from throat cancer at age ___, heavy smoker and alcohol consumption",
+            "Mother had congenital heart problem (unsure what), but lived into her ___",
+            "Brother with renal cancer, treated",
+            "Sister is healthy",
+            "Children are all healthy"
+        ],
+        "social_history": "Not specified"
+    }
+}

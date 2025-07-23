@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "The lung volumes are very low. Moderate cardiomegaly with areas of atelectasis at both the left and the right lung bases. Minimal fluid overload is present. No larger pleural effusions. No pneumonia, no pneumothorax. Mild gastric overdistention that might benefit from nasogastric tube placement.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

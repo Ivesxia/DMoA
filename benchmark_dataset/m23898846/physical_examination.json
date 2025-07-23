@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.3 °F",
+                "blood_pressure": "140/88 mmHg",
+                "heart_rate": "92 bpm",
+                "respiratory_rate": "12 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "HEENT": "Within normal limits",
+                "neck": "Supple",
+                "lungs": "Clear",
+                "heart": "Regular",
+                "abdomen": "Obese and soft with extreme tenderness in the right upper quadrant, unable to evaluate for Murphy's sign. Positive bowel sounds.",
+                "extremities": "Well perfused",
+                "vascular": "2+ pulses"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

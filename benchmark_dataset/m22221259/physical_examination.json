@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "94 bpm",
+                "blood_pressure": "148/85 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "93%"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, in no acute distress",
+                "HEENT": "Oral mucosa moist, no lymphadenopathy",
+                "respiratory": "Clear breath sounds bilaterally",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, rubs or gallops",
+                "abdominal": "Soft, non-distended, wounds clean, dry, intact, JP in place"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

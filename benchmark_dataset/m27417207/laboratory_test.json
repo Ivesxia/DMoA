@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "2 subcentimeter hypodensities within the liver likely represent cysts or biliary hamartomas. Approximately 8.0 cm segment of sigmoid colon shows diffuse wall thickening and adjacent fat stranding. Intramural focal fluid collection measuring 1.6 x 1.5 cm compatible with an intramural abscess.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), consistent with skin and/or genital contamination.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Cytology positive for malignant cells, consistent with adenocarcinoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "US guided percutaneous biliary drainage",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Head without contrast",
+            "date": "Not specified",
+            "findings": "Chronic lacune on the right, brain atrophy noted, no midline shift, no hydrocephalus, no hemorrhage.",
+            "changes_over_time": "No change in appearance compared to prior CT."
+        }
+    ]
+}

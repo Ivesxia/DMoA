@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "pancreatitis",
+        "differential_diagnosis": "pancreatic cancer, bipolar disorder, depression",
+        "diagnostic_reasoning": "The patient has a history of pancreatic adenocarcinoma and underwent a Whipple procedure. She presented with persistent midepigastric pain, unrelieved by narcotics and anti-inflammatory medications, and had an elevated lipase level. The imaging studies were consistent with pancreatitis, while the prior history of pancreatic cancer was considered but not actively involved in the acute presentation."
+    }
+}

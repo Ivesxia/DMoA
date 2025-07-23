@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chemistry Panel",
+            "date": "Not specified",
+            "findings": "Calcium level: 8.4 mg/dL (normal range 8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Fluid-filled and dilated appendix measuring up to 1.5 cm, extensive surrounding fat stranding.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

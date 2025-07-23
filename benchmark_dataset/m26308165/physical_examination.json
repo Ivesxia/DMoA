@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.7°F",
+                "heart_rate": "85 bpm",
+                "blood_pressure": "142/73 mmHg",
+                "respiratory_rate": "20 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "well appearing, no acute distress",
+                "HEENT": "anicteric",
+                "cardiovascular": "regular rate and rhythm",
+                "pulmonary": "unlabored, clear to auscultation bilaterally",
+                "abdominal": "soft, mild tenderness to palpation in the right upper quadrant, no rebound or guarding",
+                "extremities": "no edema, cyanosis or jaundice"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

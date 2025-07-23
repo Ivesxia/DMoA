@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain.",
+        "history_of_present_illness": "The pain began two weeks ago and has been worsening in the last few days. Pain is localized to the right periumbilical region. The patient endorses having chills, inability to sleep and eat due to pain, and has experienced a 6 lb weight loss in the past few days. He reports passing flatus and having loose, frequent non-bloody stools. Night sweats are also noted.",
+        "past_medical_history": "Stage IIIb supraclavicular melanoma, status post supraclavicular and right anterior neck dissection, prostate cancer status post radical prostatectomy, right acoustic neuroma, right biceps tendon rupture repair, right supraclavicular lymph node biopsy.",
+        "family_history": "Sister with uterine cancer, mother died of breast cancer, father diagnosed with colon cancer and prostate cancer, maternal aunt with lung cancer, maternal aunt with colon cancer, maternal first cousin with melanoma.",
+        "social_history": "Not specified."
+    }
+}

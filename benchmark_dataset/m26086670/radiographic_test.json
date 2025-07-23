@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The lung bases are clear. Tiny bilateral pleural effusions. No pericardial effusion. The liver is homogeneous in signal characteristics with smooth contours, no solid or cystic lesions. No intrahepatic duct dilatation. The common bile duct is slightly prominent measuring up to 7 mm but tapers distally. There is no choledocholithiasis, and no surrounding hyperemia. There is cholelithiasis, gallbladder wall measures up to 3 mm, with normal mucosal enhancement and non-distended lumen. The pancreas near the neck and distal body appears slightly edematous, with minimal hypoenhancement likely related to edema. There is mild stranding around the head and neck of the pancreas and a small amount of fluid in the right pararenal space. The spleen and adrenal glands are normal. The GI tract is of normal caliber. No significant lymphadenopathy. Patent vasculature.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

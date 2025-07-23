@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Substantially poor lung volumes. Bibasilar opacifications are consistent with small effusions and atelectasis. The nasogastric tube extends to the stomach. Dilated gas-filled bowel is seen in the upper abdomen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

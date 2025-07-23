@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. Hyperechoic lesion measuring approximately 6 mm in segment V of the liver, unchanged since prior study and likely represents a hemangioma. Additional hemangioma seen on previous study is not clearly identified on today's exam. Main portal vein is patent with hepatopetal flow. No ascites. Gallbladder is distended and filled with sludge. Mild gallbladder wall edema measuring up to 6 mm. No intrahepatic biliary dilation. The CBD measures 6 mm. The pancreas is not well seen secondary to overlying bowel gas. The right kidney measures 8.1 cm. No masses, hydronephrosis, or stones. Visualized portions of aorta and IVC are within normal limits.",
+            "changes_over_time": "Hyperechoic lesion in segment V of the liver unchanged since prior study."
+        }
+    ]
+}

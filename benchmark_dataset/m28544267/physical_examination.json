@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8",
+                "heart_rate": "104",
+                "blood_pressure": "136/81",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "100"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "HEENT": "Normocephalic, atraumatic, oropharynx within normal limits",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Normal first and second heart sounds, Regular Rate and Rhythm",
+                "abdominal": "Nondistended, Soft, tenderness at McBurney's point with guarding, no rebound",
+                "GU/flank": "No costovertebral angle tenderness",
+                "ext/back": "No cyanosis, clubbing or edema",
+                "skin": "No rash, Warm and dry",
+                "neuro": "Speech fluent"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

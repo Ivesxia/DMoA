@@ -1,0 +1,23 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung_bases": "Lung bases are clear. No pleural or pericardial effusion. A right cardiophrenic lymph node is unchanged.",
+                "liver": "Massively enlarged measuring up to 28 cm in craniocaudal dimension. The liver attenuation is somewhat hypodense suggestive of fatty deposition.",
+                "gallbladder": "Surgically absent with clips in gallbladder fossa and a small amount of fluid compatible with recent postoperative status. CBD is nondilated.",
+                "spleen": "Enlarged up to 15 cm. No focal lesion.",
+                "adrenals": "Normal.",
+                "kidneys": "Symmetric enhancement and prompt excretion without hydronephrosis or signs of pyelonephritis.",
+                "pancreas": "Normal.",
+                "GI": "Appendix is abnormally thickened, dilated up to 1 cm concerning for early acute appendicitis. Trace free fluid noted. No free air.",
+                "vascular": "Abdominal aorta normal in caliber without aneurysmal dilatation.",
+                "lymph_nodes": "Scattered retroperitoneal nodes present. A left periaortic node measures approximately 1.4 x 0.9 cm, previously unchanged. A portacaval node is enlarged measuring approximately 1.4 x 3.1 cm.",
+                "pelvis": "Bladder moderately well distended and grossly unremarkable. No pelvic free fluid or inguinal/pelvic sidewall adenopathy. Small bilateral inguinal fat containing hernias are symmetric.",
+                "bones": "Exostosis arising from the right inferior pubic ramus is re-demonstrated. No suspicious lytic or blastic lesion identified."
+            },
+            "changes_over_time": "A left periaortic node measures approximately 1.4 x 0.9 cm, previously present unchanged. A portacaval node is enlarged compared to previous measurements."
+        }
+    ]
+}

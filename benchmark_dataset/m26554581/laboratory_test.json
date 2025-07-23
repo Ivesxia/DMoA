@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiograph - Portable Abdomen",
+            "date": "Not specified",
+            "findings": "Moderate volume of stool throughout nondilated colon. No small bowel dilatation. Lateral bulge of the left abdominal wall. 4.1 cm exophytic peripherally calcified mass arising from the upper pole of the right kidney. Renal ultrasound recommended to exclude neoplasm. Arterial calcifications. Mild degenerative change spine.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

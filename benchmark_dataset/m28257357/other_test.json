@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is fluid filled and borderline distended, measuring up to 7 mm. At the midpoint of the appendix, there is mucosal hyper-enhancement. There is adjacent inflammatory change, particularly about the adjacent right ureter. Small amount of free fluid collects dependently in the pelvis, and tracks cranially and posteriorly.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Rectal examination",
+            "date": "Not specified",
+            "findings": "Normal tone, no gross blood, guaiac negative.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

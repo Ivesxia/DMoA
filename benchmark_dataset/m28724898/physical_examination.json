@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "135/72 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "Clear to auscultation bilaterally",
+                "abdominal": "Soft, nondistended, slightly tender in epigastric area and right upper quadrant without rebound, guarding, or rigidity",
+                "extremities": "Left hand with ischemic digits, bilateral extremities wrapped with gauze"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Percutaneous abdominal drainage",
+            "date": "Not specified",
+            "findings": "TEST CANCELLED, PATIENT CREDITED.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "UNILAT UP EXT VEINS US LEFT",
+            "date": "Not specified",
+            "findings": "There is normal respirophasic waveform in the bilateral subclavian veins. There is normal flow, compressibility within the left internal jugular vein, the axillary vein, the paired brachial veins, and the left basilic vein. The left cephalic vein is not visualized.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

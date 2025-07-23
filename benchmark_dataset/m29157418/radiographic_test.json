@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "No focal consolidation or pleural effusion at the lung bases. A 0.7 x 0.6 cm rounded right paraesophageal high density may represent a calcified lymph node. Normal heart size, no pericardial effusion. Liver enhances homogeneously with no focal masses. Gallstone seen on ultrasound is not definitely appreciated on the CT. Normal spleen. Peripancreatic fat stranding consistent with acute pancreatitis, with an enlarged pancreatic head. The kidneys enhance and excrete contrast symmetrically with evidence of scarring in the lateral left kidney. No free fluid or air, and no bowel obstruction. Prominent retroperitoneal lymph nodes up to 1cm in left para-aortic region and additional lymph nodes in the pelvis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

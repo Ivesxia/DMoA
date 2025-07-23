@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The lungs are clear. The visualized heart and pericardium are unremarkable. The liver enhances homogeneously and is unremarkable. The gallbladder, spleen, adrenal glands, and pancreas are unremarkable. There is a small hypodensity in the interpolar region of the right kidney that measures 7 mm and is too small to characterize. The stomach, small bowel, colon, and rectum are unremarkable. The appendix is fluid-filled, dilated up to 8 mm in diameter with hyperenhancing walls and mild surrounding fat stranding and fluid. The appendix does not fill with contrast despite the adjacent cecum filling with contrast. The appendix is retrocecal. No evidence of fluid collection or perforation. No free air. No free fluid. No hernias identified. No lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

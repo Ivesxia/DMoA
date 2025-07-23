@@ -1,0 +1,56 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3",
+                "heart_rate": "66",
+                "blood_pressure": "138/65",
+                "respiratory_rate": "20",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "Well appearing in NAD",
+                "HEENT": "NC/AT sclera anicteric, EOMI",
+                "neck": "supple",
+                "CV": "RRR, normal S1 and S2 no m/r/g",
+                "lungs": "CTA-B",
+                "abdomen": "large midline scar, +BS, TTP in RLQ, voluntary guarding, no rebound",
+                "GU": "no foley",
+                "extremities": "grossly intact, normal ROM",
+                "neuro": "grossly intact strength and sensation"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.6",
+                "heart_rate": "68",
+                "blood_pressure": "148/79",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "62",
+                "blood_pressure": "118/54",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "95% RA"
+            },
+            "relevant_findings": "LLQ pain stable at ___. Pain increases to ___ if jostled. Continues to have a dry cough; wife reports labored breathing during sleep.",
+            "changes_over_time": "Initially, the LLQ pain improved moderately but worsened again before this measurement."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Patient reports sore neck on the right side, sour taste in mouth.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

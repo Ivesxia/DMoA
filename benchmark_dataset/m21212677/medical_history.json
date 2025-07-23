@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Diffuse abdominal pain with radiation around the right flank.",
+        "history_of_present_illness": "Patient reports ___ days of diffuse abdominal pain, which worsened ___ around noon. The pain is associated with nausea and chills. Patient states she has never experienced similar pain in the past.",
+        "past_medical_history": "Hypothyroidism, Lactose intolerance.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

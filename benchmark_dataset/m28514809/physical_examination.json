@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.8°F",
+                "blood_pressure": "108/61 mmHg",
+                "heart_rate": "95 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "92% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress",
+                "HEENT": "No scleral icterus, mucous membranes moist",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/gallops/rubs",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes/rales/ronchi",
+                "abdomen": "Soft, obese, right upper quadrant tenderness to palpation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

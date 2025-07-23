@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified.",
+            "findings": "The liver is homogeneous in echotexture without intra- or extra-hepatic biliary duct dilatation. The common bile duct is normal in caliber measuring 4 mm in diameter. The gallbladder is tense with two large roughly 1.8 cm gallstones with surrounding sludge with wall thickening up to 5 mm and trace perihepatic/pericholecystic fluid. Sonographic Murphy's sign is positive. The spleen is homogeneous in echotexture measuring 12.7 cm. Limited sagittal views of the right kidney are grossly unremarkable, without hydronephrosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Laboratory test",
+            "date": "Not specified.",
+            "findings": "2.0 mg/dL; no polymorphonuclear leukocytes seen, no microorganisms seen; reference range 1.6-2.6 mg/dL.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

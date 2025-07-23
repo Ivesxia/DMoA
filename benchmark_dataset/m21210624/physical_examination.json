@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2°F",
+                "heart_rate": "101 bpm",
+                "blood_pressure": "134/78 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "General": "alert, oriented, in no acute distress",
+                "HEENT": "EOMI",
+                "Cardiovascular": "regular rate and rhythm, sinus tachycardia",
+                "Respiratory": "clear to auscultation bilaterally",
+                "Gastrointestinal": "soft, mildly distended, tender in mid-epigastrium, negative ___ sign, + rebound tenderness, guarding",
+                "Neurological": "grossly intact",
+                "Psychiatric": "appropriate mood/affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

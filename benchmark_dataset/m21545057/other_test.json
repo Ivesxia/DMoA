@@ -1,0 +1,25 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EGD",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": {
+                "lung": "Bilateral linear atelectases noted in the lung bases.",
+                "liver": "Geographic dropout in signal consistent with patchy fatty infiltration; high intensity lesion in segment VII measuring 0.7 cm consistent with hemangioma; no intrahepatic or extrahepatic biliary dilatation.",
+                "gallbladder": "Unremarkable, no evidence of stones.",
+                "pancreas": "Area of slightly low intensity that likely represents an artifact; pancreatic duct is duplicated with normal caliber.",
+                "celiac_axis": "Narrowed origin.",
+                "kidneys": "Left kidney shows a 2.7 cm Bosniak type 2 cyst; right kidney is within normal limits.",
+                "spleen": "Normal size and signal intensity.",
+                "retroperitoneal": "No lymphadenopathy."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

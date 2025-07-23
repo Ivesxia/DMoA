@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0 F",
+                "heart_rate": "47 bpm",
+                "blood_pressure": "129/76 mmHg",
+                "respiratory_rate": "13 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "No respiratory distress",
+                "abdominal": "Soft, nondistended, tenderness to palpation in right lower quadrant, referred tenderness from left lower quadrant",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

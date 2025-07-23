@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C. difficile test",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile by the Cepheid nucleic acid amplification assay. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Moderate amount of intraperitoneal free air anterior to the liver, suggesting perforation from the sigmoid colon. Colonic diverticulosis noted diffusely. Several subcentimeter hypodensities likely representing cysts in the liver and kidneys.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

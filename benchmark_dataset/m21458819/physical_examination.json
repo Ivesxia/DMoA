@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.3°F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "129/62 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": "A&O x 3, NAD, PERRL, EOMI, anicteric, RRR, CTAB, abdomen soft, nondistended, moderate tenderness to deep palpation in RUQ, negative ___ sign, no rebound or guarding, active bowel sounds, no hernias, ___ warm, no edema.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

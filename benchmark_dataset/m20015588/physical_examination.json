@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "blood_pressure": "97/46 mmHg",
+                "heart_rate": "83 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well appearing, no acute distress.",
+                "heent": "Non-conjunctival, extraocular movements intact, anicteric, moist mucous membranes.",
+                "neck": "Supple, no lymphadenopathy.",
+                "chest": "Bilateral air entry, no wheezing, crackles, or ronchi.",
+                "heart": "S1 and S2 normal, no murmurs, rubs, or gallops.",
+                "abdomen": "Bowel sounds present, soft, mild epigastric tenderness to deep palpation, no guarding or rebound.",
+                "extremities": "No cyanosis, clubbing, or edema, 2+ pulses.",
+                "neurological": "Alert and oriented times three, cranial nerves II-XII intact.",
+                "psychological": "Calm, cooperative.",
+                "skin": "No apparent rash."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

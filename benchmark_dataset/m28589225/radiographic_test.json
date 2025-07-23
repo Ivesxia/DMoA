@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Portable abdomen radiograph",
+            "date": "Not specified",
+            "findings": "No abnormally dilated loops of large or small bowel; a small amount of subcutaneous air along the right flank likely postsurgical; no definite free intraperitoneal air; osseous structures unremarkable; cholecystectomy clips in the right upper quadrant; no unexplained soft tissue calcifications or radiopaque foreign bodies.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

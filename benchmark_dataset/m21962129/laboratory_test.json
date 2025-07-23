@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Minimal bibasilar atelectasis; no evidence of pleural or pericardial effusion. Two subcentimeter hypodense liver lesions likely represent liver cysts or hemangiomas. No evidence of suspicious focal lesions. No intrahepatic or extrahepatic biliary dilatation. Normal pancreas, spleen, and adrenal glands. A small hiatal hernia noted. Cecal wall thickening and pericecal fat stranding with a 2 cm tubular structure likely representing a perforated diverticulum. No abnormalities in urinary bladder and distal ureters; unremarkable vasculature and bones.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

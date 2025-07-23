@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient's abdominal pain started acutely approximately 24 hours ago and was associated with nausea and vomiting. She has not had any fevers or chills. The vomiting has resolved, but she reports a lack of appetite for food.",
+        "past_medical_history": "Seizure disorder; Previous surgeries include cesarean sections x 2; Recent UTI treatment approximately 2 weeks ago.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

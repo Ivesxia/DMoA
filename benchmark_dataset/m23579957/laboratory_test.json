@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC: 12, BUN: 72, Cr: 3.8 (baseline Cr ~2.5, recently d/c w/ Cr 3.1), HCO3: 16 (AG: 22), Glu: 361, Lactate: 1.8",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal transplant ultrasound",
+            "date": "Not specified",
+            "findings": "Interval progression of elevated transplant kidney resistive indices; little if any diastolic flow identified with resistive indices now approaching 1. Main renal artery peak systolic velocity increasing, 191 cm/s. No hydronephrosis.",
+            "changes_over_time": "Increasing peak systolic velocity and worsening resistive indices."
+        },
+        {
+            "procedure_name": "Liver or gallbladder ultrasound",
+            "date": "Not specified",
+            "findings": "Incidental right pleural effusion. A 2.5 x 1.5 cm rounded isoechoic mass in the inferior aspect of the right hepatic lobe. No intrahepatic biliary dilation. Main portal vein patency confirmed.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

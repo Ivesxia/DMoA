@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "There is a small right pleural effusion with mild right basilar atelectasis. The left lung base is clear. A right ventricular pacemaker lead is incompletely visualized. There is moderate to severe cardiomegaly. There is no pericardial effusion. Diffuse fatty infiltration of the liver is noted. The gallbladder is distended with multiple layering gallstones. There is also pericholecystic stranding, new since the prior study. The spleen is normal in size with several calcifications of the capsule, likely sequela of prior trauma. The pancreas is unremarkable. An indeterminate 1.1 cm lesion is seen in the right adrenal gland, stable since the prior study. The left adrenal gland is mildly bulky. No hydronephrosis or stones are seen in either kidney. An incompletely visualized renal cyst in the lower pole of the left kidney has increased in size since the prior study. The visualized portions of the small and large bowel are unremarkable without any evidence of wall thickening or obstruction. Atherosclerotic changes are visualized within the abdominal aorta and branches. A small fat containing umbilical hernia is present. There is no abdominal free air or free fluid. There is no mesenteric or retroperitoneal lymphadenopathy. A calcified mesenteric lymph node in the left lower quadrant is noted. No suspicious lesion is seen in visualized osseous structures. Healed rib fractures of right posterior ribs 11 and 12 are noted.",
+            "changes_over_time": "The gallbladder is distended with multiple layering gallstones and there is also pericholecystic stranding, new since the prior study. An incompletely visualized renal cyst in the lower pole of the left kidney has increased in size since the prior study. An indeterminate 1.1 cm lesion in the right adrenal gland is stable since the prior study."
+        }
+    ]
+}

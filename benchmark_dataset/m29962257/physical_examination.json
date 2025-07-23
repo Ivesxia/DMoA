@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "heart_rate": "109 bpm",
+                "blood_pressure": "122/71 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "NAD (No Acute Distress)",
+                "heart": "RRR (Regular Rate and Rhythm)",
+                "lungs": "CTAB (Clear To Auscultation Bilaterally)",
+                "abdomen": "Soft, very minimal tenderness in RUQ and RLQ, soft, no rigidity/garding",
+                "extremities": "NT/NE (Non-Tender/Non-Edematous)",
+                "SVE": "External os 1 cm dilated, long, internal os closed"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

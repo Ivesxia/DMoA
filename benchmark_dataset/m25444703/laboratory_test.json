@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN WITH AND WITHOUT CONTRAST",
+            "date": "Not specified",
+            "findings": "Large heterogeneously lesion in pancreatic head, with cystic components and internal calcification, measuring up to 4.4 x 4.1 x 4.3 cm, essentially unchanged in appearance compared to the study two days ago. There is evidence of duodenal wall thickening, unchanged. Three hypodense lesions noted in the liver, with the larger one in segment VIII measuring 1.7 x 1.5 cm, likely a hepatic cyst. No intrahepatic or extrahepatic biliary ductal dilatation. No hydronephrosis.",
+            "changes_over_time": "The pancreatic head mass was unchanged in appearance compared to the study two days ago."
+        },
+        {
+            "procedure_name": "Laboratory Test (specific measurement not mentioned)",
+            "date": "Not specified",
+            "findings": "Valuestr: 24.0 IU/L",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

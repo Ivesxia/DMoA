@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The diagnosis of acute appendicitis was supported by the presence of abdominal pain localized to the right lower quadrant, tenderness during examination, and CT imaging findings showing a hyperemic and dilated appendix with surrounding inflammation. There was no indication of alternative diagnoses based on the imaging and clinical presentation."
+    }
+}

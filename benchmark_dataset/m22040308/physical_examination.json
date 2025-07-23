@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.1°F",
+                "heart_rate": "98 bpm",
+                "blood_pressure": "130/98 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and oriented x3.",
+                "heent": "No scleral icterus, mucous membranes mildly dry.",
+                "cardiovascular": "Regular rate and rhythm.",
+                "pulmonary": "Clear to auscultation bilaterally.",
+                "abdominal": "Soft, obese, tender in the right lower quadrant, no rebound or guarding, well-healed low abdominal transverse incision.",
+                "extremities": "Warm without edema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

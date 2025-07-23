@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "100 bpm",
+                "blood_pressure": "127/90 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x3, pleasant, no acute distress.",
+                "HEENT": "No lymphadenopathy.",
+                "chest": "Clear to auscultation bilaterally.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, rubs, or gallops, distal pulses strong.",
+                "abdominal": "Soft and non-distended; tender to deep palpation in right lower quadrant; no peritoneal signs.",
+                "extremities": "No edema, no skin changes."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

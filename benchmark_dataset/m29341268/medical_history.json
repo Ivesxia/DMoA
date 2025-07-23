@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Severe RUQ abdominal pain accompanied by worsening nausea.",
+        "history_of_present_illness": "Symptoms began ___ days before presentation with severe RUQ abdominal pain and worsening nausea. Duration and intensity of pain have increased over time with no specified factors that have aggravated or relieved the symptoms.",
+        "past_medical_history": "Undifferentiated gastric cancer s/p total gastrectomy with a Roux-en-y reconstruction and feeding jejunostomy, amblyopia, anxiety states, colonic adenoma, anemia, weight loss, B12 deficiency, vitamin D deficiency, PVC (premature ventricular contraction).",
+        "family_history": "Father died at ___ from skin cancer, mother died from old age.",
+        "social_history": "Not specified."
+    }
+}

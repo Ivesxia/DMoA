@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Nausea, vomiting, and chills",
+        "history_of_present_illness": "Patient developed nausea at an unspecified time and eventually vomited twice. Patient reports improvement in nausea after treatment. No abdominal pain reported.",
+        "past_medical_history": "1. Left ventricular systolic dysfunction with regional abnormalities. 2. Coronary artery disease, status post drug-eluting stent. 3. Diabetes mellitus. 4. Hypertension. 5. Hypercholesterolemia. 6. Hypothyroidism. 7. GERD.",
+        "family_history": "Patient has two older brothers with myocardial infarctions, another brother who had bypass surgery and a redo CABG, mother died of a stroke, and father died with diabetes mellitus.",
+        "social_history": "Patient does not drink alcohol."
+    }
+}

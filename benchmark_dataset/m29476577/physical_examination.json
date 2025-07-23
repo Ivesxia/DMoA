@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0 °F",
+                "blood_pressure": "142/76 mmHg",
+                "heart_rate": "70 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented to person, place and situation; no apparent distress.",
+                "HEENT": "No trauma, pupils round and reactive to light and accommodation, no lymphadenopathy, oropharynx clear, no exudates, no icterus.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/gallops/rubs.",
+                "pulmonary": "Clear to auscultation bilaterally, no rales/crackles/rhonchi.",
+                "gastrointestinal": "Soft, mild epigastric tenderness, mildly distended; no guarding/rebound, bowel sounds present.",
+                "extremities": "No clubbing or cyanosis; 2+ distal pulses; peripheral IV present, trace edema bilaterally.",
+                "neurological": "Cranial nerves II-XII intact.",
+                "dermatological": "Chronic venous stasis changes bilaterally."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2 °F",
+                "blood_pressure": "131/68 mmHg",
+                "heart_rate": "72 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "95% on room air"
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

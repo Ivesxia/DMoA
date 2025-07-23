@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Pain in lower back and right upper quadrant (RUQ).",
+        "history_of_present_illness": "The pain began last __ and has gotten progressively worse. The patient additionally experienced chills, with no fever, and nausea, but no vomiting. Last bowel movement was this AM, normal except for some bright red blood likely from hemorrhoids. Denies any symptoms of constipation, diarrhea, or burning on urination.",
+        "past_medical_history": "Hypertension; Past surgeries include C-Section and Hysterectomy.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Lung bases are clear. Multiple small hypoattenuating lesions in the liver, likely representing simple cysts. Gallbladder is normal. No intra- or extra-hepatic biliary dilatation. Pancreas, spleen, and bilateral adrenal glands are normal. Multiple hypoattenuating lesions in both kidneys, likely representing simple cysts. No evidence of hydronephrosis, stones, or renal masses. Scattered retroperitoneal lymph nodes not meeting CT criteria for pathologic enlargement. No mesenteric lymphadenopathy. No free air and no free fluid. The appendix is dilated up to 19 mm at the base, fluid filled with a tiny appendicolith, with significant periappendiceal fat stranding, but no evidence of abscess formation or perforation. Small amount of free fluid in the rectovesical space. Normal urinary bladder and prostate. No pelvic hernias. No suspicious lytic or sclerotic bony lesions. Mild degenerative changes at the hip joints with subchondral cysts.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

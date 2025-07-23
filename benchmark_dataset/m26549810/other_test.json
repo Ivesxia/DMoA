@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopic retrograde cholangiopancreatography (ERCP)",
+            "date": "Not specified",
+            "findings": "Results of ERCP are not explicitly detailed in the provided text.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Demonstrated scattered sigmoid, hepatic flexure, and proximal transverse colon diverticulosis with few everted diverticula. A 4 mm sessile polyp in proximal ascending colon was found and pathologically confirmed as adenoma.",
+            "changes_over_time": "No interval episodes."
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Pathology consistent with adenoma.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

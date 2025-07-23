@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC of 1.5 (low)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate of 2.2 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Elevated LFTs with a total bilirubin (tbili) of 4.9 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C. difficile toxin A & B EIA",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B (Reference Range-Negative)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Bibasilar atelectasis, trace bilateral pleural effusions, tiny pericardial effusion, relative hypoattenuation of blood pool consistent with anemia, gallbladder with no evidence of perforation and a small amount of pneumobilia.",
+            "changes_over_time": "There has been interval placement of a percutaneous biliary drain."
+        }
+    ]
+}

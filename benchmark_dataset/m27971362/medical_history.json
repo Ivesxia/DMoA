@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient presented with abdominal pain that started 12 hours prior to presentation. The pain was generalized initially and then migrated to the right lower quadrant, associated with nausea and vomiting. No fever, chills, change in bowel habits, or urinary symptoms were reported.",
+        "past_medical_history": "Patient is healthy and does not take any chronic medication or have chronic illnesses. Surgical history includes wisdom tooth extraction in the past.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

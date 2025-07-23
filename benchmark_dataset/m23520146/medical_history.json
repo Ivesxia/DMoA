@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain for 1 day.",
+        "history_of_present_illness": "The pain started this morning, was crampy in the midepigastric region, then migrated to the right lower quadrant and became sharp. Associated symptoms include nausea and vomiting, with no diarrhea, fever, or dysuria.",
+        "past_medical_history": "hypothyroidism",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

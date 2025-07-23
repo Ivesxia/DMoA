@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CTU (ABD/PEL) W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Diverticulosis of the proximal sigmoid colon in the left lower quadrant with significant surrounding fat stranding, moderate surrounding mesenteric haziness, peritoneal thickening, and mild scattered pneumoperitoneum. No fluid collection. The liver, pancreas, spleen, kidneys, and adrenal glands appear normal. No evidence of focal lesions, biliary dilatation, hydronephrosis, or nephrolithiasis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "Mixed bacterial flora (>= 3 colony types), consistent with skin and/or genital contamination.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

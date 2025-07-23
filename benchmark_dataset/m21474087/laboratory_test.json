@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is slightly distended measuring up to 8 or 9 mm, without significant wall thickening or significant associated fat stranding. 1.7 cm rim enhancing probable corpus luteum cyst in the left ovary. Small umbilical hernia containing fat.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

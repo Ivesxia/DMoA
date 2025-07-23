@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "blood_pressure": "140/98 mmHg",
+                "heart_rate": "90 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "thin male, intermittent cough",
+                "heent": "OP dry, sclera mildly icteric",
+                "neck": "supple, no JVD",
+                "heart": "S1-S2, regular rhythm, normal rate, no murmur appreciated",
+                "lungs": "CTAB, good air movement, respiration unlabored",
+                "abdomen": "normal bowel sounds, soft, TTP diffusely but mostly supra-pubic, no rebound tenderness appreciated",
+                "genitourinary": "condom catheter in place",
+                "extremities": "no edema",
+                "skin": "no rashes or lesions",
+                "neurological": "slow to answer questions, oriented to self only, president is \"___\", glass eye on left, left facial weakness, decreased strength in lower extremities"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

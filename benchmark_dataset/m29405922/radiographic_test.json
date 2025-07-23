@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT CHEST W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Small amount of right pleural effusion most likely is a sequela of substantial ascites. The aorta and pulmonary arteries are unchanged, coronary calcifications are extensive and unchanged. No mediastinal, hilar or axillary lymphadenopathy; airways are patent; no lytic or sclerotic lesions. Hemangioma in T3 is present, unchanged. No pulmonary nodules, masses or consolidations to suggest metastatic disease.",
+            "changes_over_time": "Small amount of right pleural effusion is new since the previous examination."
+        }
+    ]
+}

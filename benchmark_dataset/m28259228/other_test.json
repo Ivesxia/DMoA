@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Admission Examination",
+            "date": "Not specified",
+            "findings": "Soft abdomen, moderately distended, focal peritonitis in epigastrium and LLQ, voluntary guarding, no rebound.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiology Consultation",
+            "date": "Not specified",
+            "findings": "CHF and CKD management, failure to thrive.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

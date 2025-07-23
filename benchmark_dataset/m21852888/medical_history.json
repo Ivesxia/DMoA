@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient presented with abdominal pain that started several hours prior. Initially, he experienced diffuse bloating and aching abdominal pain, accompanied by nausea, weakness, malaise, and loss of appetite. The pain localized to the right lower quadrant, becoming sharp at its worst, and was aggravated by movement and deep breathing. The patient reported that the pain intensified during transport by ambulance, particularly when the vehicle hit bumps in the road. He has not had recent abdominal trauma and has never experienced abdominal pain like this before.",
+        "past_medical_history": "None",
+        "family_history": "Paternal grandmother had a stroke; maternal grandmother had cancer (exact type unspecified).",
+        "social_history": "Not specified"
+    }
+}

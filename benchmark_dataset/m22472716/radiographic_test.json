@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder contains a polyp measuring 4.5 mm, gallbladder wall mildly prominent measuring up to 4.7 mm, no stones, common duct measures 5 mm, no dilated intrahepatic ducts, swollen pancreas.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "61 bpm",
+                "blood_pressure": "93/61 mmHg",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well developed, well nourished in no acute distress",
+                "HEENT": "Normocephalic, atraumatic, anicteric",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "Non-labored, no respiratory distress",
+                "abdomen": "Soft, mild tenderness to palpation in epigastrium, non-distended, well healed midline incision without evidence of hernia",
+                "pelvis": "Deferred",
+                "extremities": "Warm, well perfused, no cyanosis, clubbing, or edema",
+                "neurological": "Alert and oriented times three, no focal neurologic deficits"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

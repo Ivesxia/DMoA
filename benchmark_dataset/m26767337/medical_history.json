@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Increasing abdominal pain",
+        "history_of_present_illness": "The patient reports that her abdominal pain has been increasing over the last week. Two weeks ago, she had symptoms of a UTI which were treated with Bactrim. After a urine culture grew E.Coli, Bactrim was stopped due to a rash and she was switched to ciprofloxacin. Urinary symptoms improved, but abdominal pain developed, localized in the central lower abdomen, crampy in nature, without radiation, and increased during bowel movements. She has not had a bowel movement for 3 days, with last bowel movement being uncomfortable. Currently, she reports slight improvement in pain since arriving at the emergency department.",
+        "past_medical_history": "Adenocarcinoma of the lung, Hypertension, Hypercholesterolemia, Diverticulosis, Hiatal hernia, GERD.",
+        "family_history": "Hypertension",
+        "social_history": "Not specified"
+    }
+}

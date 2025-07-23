@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "heart_rate": "57 bpm",
+                "blood_pressure": "124/73 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "cardiovascular": "Bradycardic",
+                "pulmonary": "Non-labored breathing, no respiratory distress, saturating adequately on room air",
+                "abdominal": "Soft, nondistended, mild epigastric tenderness to palpation, severe right upper quadrant tenderness with guarding and mild rebound tenderness"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Transvaginal Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "uterus": {
+                    "position": "anteverted",
+                    "dimensions": "8.5 x 2.3 x 4.4 cm"
+                },
+                "endometrium": {
+                    "appearance": "homogenous",
+                    "thickness": "7 mm"
+                },
+                "ovaries": [
+                    {
+                        "side": "right",
+                        "dimensions": "4.2 x 2.1 x 3.7 cm",
+                        "vascularity": "normal"
+                    },
+                    {
+                        "side": "left",
+                        "dimensions": "3.1 x 2.0 x 2.8 cm",
+                        "vascularity": "normal"
+                    }
+                ],
+                "free_fluid": "none"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

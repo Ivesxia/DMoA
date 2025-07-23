@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Stricture in the proximal pancreas; cytology showed scattered atypical ductular clusters with high N:C ratio and hyperchromasia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound-guided percutaneous cholecystostomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EUS",
+            "date": "Not specified",
+            "findings": "Two hypodense lesions in the pancreas described as cystic structures.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

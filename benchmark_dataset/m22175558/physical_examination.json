@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "95 bpm",
+                "blood_pressure": "121/76 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x3",
+                "cardiovascular": "Regular rate and rhythm, no murmur",
+                "respiratory": "Clear to auscultation bilaterally",
+                "abdominal": "+ ___ sign; tender to palpation in right upper quadrant, no palpable mass; soft, non-distended, + bowel sounds",
+                "extremities": "Warm, well-perfused, 2+ pulses"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

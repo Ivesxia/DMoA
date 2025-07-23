@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain for 1 day.",
+        "history_of_present_illness": "Abdominal pain developed last evening along with wretching. Pain has since reduced.",
+        "past_medical_history": "Hypothyroidism, hypertension, osteoporosis with multiple fractures, hepatic cyst with abscess (s/p drainage), hiatal hernia, gastritis, osteoarthritis.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

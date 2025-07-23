@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.8°F",
+                "heart_rate": "175 bpm",
+                "blood_pressure": "175/71 mmHg",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "95% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, pleasant in conversation.",
+                "heent": "EOMI, PERRL, anicteric sclera, pink conjunctiva, MMM.",
+                "neck": "Supple, no LAD, no JVD.",
+                "heart": "Regular rate, irregular rhythm, S1/S2, holosystolic murmur heard throughout the precordium, no gallops, or rubs.",
+                "lungs": "CTAB, no wheezes, rales, rhonchi, breathing comfortably without use of accessory muscles, slight inspiratory crackle over RLL.",
+                "abdomen": "+BS, nondistended, nontender in all quadrants, no rebound/guarding, no hepatosplenomegaly.",
+                "extremities": "No cyanosis, clubbing, or edema, prominent heberden nodes bilaterally.",
+                "pulses": "2+ radial pulses bilaterally.",
+                "neuro": "A&Ox3, moving all 4 extremities with purpose."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

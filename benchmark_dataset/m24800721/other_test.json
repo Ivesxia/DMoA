@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is not definitively identified, but diffuse fat stranding and phlegmonous changes likely suggesting possible complication, possibly rupture. Minimal pelvic free fluid is seen within physiologic range. A single large uterine fibroid measuring 3.4 x 2.5 cm is noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PCR for Neisseria Gonorrhoeae",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria Gonorrhoeae by PCR.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

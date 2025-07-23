@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver demonstrates hyper enhancement around the gallbladder fossa compatible with reactive hyperemia. The gallbladder is distended with gallbladder wall edema and surrounding inflammation. A stone is seen within the gallbladder neck with additional stones within the gallbladder lumen. There is interruption of the gallbladder wall extending superiorly into the liver compatible with perforated gangrenous cholecystitis. There is a walled-off collection adjacent to the gallbladder medially measuring 6.8 x 1.8 x 4.1 cm with a small component extending superiorly along the liver capsule measuring 2.5 x 1.1 x 3.2 cm. There is no intra or extrahepatic biliary dilatation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "ENTEROBACTER CLOACAE COMPLEX, 3.6 mg/dL (reference range: 2.7 - 4.5 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

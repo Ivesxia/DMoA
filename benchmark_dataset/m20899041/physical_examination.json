@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.1",
+                "heart_rate": "98",
+                "blood_pressure": "106/70",
+                "respiratory_rate": "16",
+                "saturation": "96% on RA"
+            },
+            "relevant_findings": {
+                "general": "Chronically ill appearing woman in NAD, appears older than stated age.",
+                "eyes": "Extra-occular movements intact, pupils equal round, reactive to light, sclera anicteric, not injected, no exudates.",
+                "ENT": "Mucus membranes moist, no ulcerations or exudates.",
+                "neck": "No thyromegaly, JVD flat.",
+                "cardiovascular": "Regular rate and rhythm, normal S1, S2, no murmurs, rubs or gallops.",
+                "respiratory": "Clear to auscultation bilaterally, no wheezes, rales or rhonchi.",
+                "abdominal": "Soft, non tender, non distended, no hepatosplenomegaly, bowel sounds present, no fluid wave.",
+                "extremities": "No cyanosis, clubbing, edema, joint swelling.",
+                "neurological": "Alert and oriented x3, CN II-XII intact, normal attention, sensation normal, asterixis absent, speech fluent, DTRs 2+ bilaterally.",
+                "integument": "Warm, moist, no rash or ulceration.",
+                "psychiatric": "Very anxious.",
+                "hematologic": "No cervical or supraclavicular LAD."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

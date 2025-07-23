@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with abdominal pain localized to the right side, which was constant and worsened over 24 hours, accompanied by a low-grade fever and mild nausea. CT imaging revealed a dilated, fluid-filled appendix with an appendicolith, as well as fat stranding, supporting the diagnosis of acute appendicitis."
+    }
+}

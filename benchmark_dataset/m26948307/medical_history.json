@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Diarrhea, lower abdominal pain, and dark-colored stools.",
+        "history_of_present_illness": "The patient experienced acute-onset diarrhea with associated lower abdominal pain radiating to the lower back three days ago. She also had nausea without vomiting and dizziness which worsened on standing. While her diarrhea has improved, she noticed blood in her stool yesterday and darker stools this morning, prompting her visit to the ED.",
+        "past_medical_history": "Gastritis, diverticulosis, hyperlipidemia, anxiety, migraines, precancerous skin lesion (actinic keratosis), peptic ulcer disease.",
+        "family_history": "Mother has hypertension, stroke, and macular degeneration; Father has macular degeneration and coronary artery disease; Brothers are healthy; Aunt had breast cancer.",
+        "social_history": "Personal history of tobacco use."
+    }
+}

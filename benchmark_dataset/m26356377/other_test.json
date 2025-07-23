@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "PCT drainage",
+            "date": "Not specified",
+            "findings": "Purulent fluid drained from PCT in ED, 1+ GNR.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Interval reduction in the right pleural effusion, small residual effusion; improving atelectasis in the right lung base; no pneumothorax, lungs well expanded and clear.",
+            "changes_over_time": "Improved compared to prior study"
+        }
+    ]
+}

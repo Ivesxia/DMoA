@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C. difficile test",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile by the Cepheid nucleic acid amplification assay. (Reference Range-Negative)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal Radiograph",
+            "date": "Not specified",
+            "findings": "Dilatation of bowel loops up to 3.4 cm without significant stool burden. No significant air is recognized within the colon, raising the possibility of a small bowel obstruction. No free intraperitoneal air. Osseous structures are unremarkable. No unexplained soft tissue calcifications or radiopaque foreign bodies. Multiple phleboliths noted in the pelvis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

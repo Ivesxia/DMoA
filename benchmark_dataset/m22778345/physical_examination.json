@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2°F",
+                "blood_pressure": "137/92 mmHg",
+                "heart_rate": "79 bpm",
+                "respiratory_rate": "80 breaths per minute",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "AAOx3, appearing in pain, moderately distressed, tearful",
+                "HEENT": "NCAT, EOMI, PERRL. Sclera anicteric, conjunctiva pink. MMM. OP clear.",
+                "neck": "supple, no LAD, no JVP elevation",
+                "lungs": "CTAB, no w/r/r",
+                "cardiovascular": "RRR, normal S1 and S2, no m/g/r",
+                "abdomen": "soft, mildly distended, tender at epigastrum and LUQ. +guarding. - rebound tenderness. +CVT on left only. No HSM. -___ sign. Bowel sounds hypoactive but present in all four quadrants.",
+                "genitourinary": "no foley",
+                "extremities": "WWP. 2+ peripheral pulses. No edema.",
+                "neurological": "CNs II-XII intact. MAEE. Grossly normal strength and sensation."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9 F",
+                "blood_pressure": "129/63 mmHg",
+                "heart_rate": "100 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "SaO2": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert, pleasant and articulate",
+                "HEENT": "Sclera anicteric, MMM, no oral lesions",
+                "lungs": "Clear to auscultation bilaterally, no wheezes, rales, ronchi",
+                "CV": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+                "abdomen": "Initial guarding, diffuse mild tenderness to exam, with maximum tenderness at the mid-epigastrium",
+                "extremities": "Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema",
+                "skin": "No lesions, markings"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

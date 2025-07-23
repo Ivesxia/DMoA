@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC=6.9, within normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hemoglobin/Hematocrit (H/H)",
+            "date": "Not specified",
+            "findings": "H/H=14.1/42.3, within normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis (UA)",
+            "date": "Not specified",
+            "findings": "UA was negative for leukocytes and bacteria.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Laboratory Test (Specific)",
+            "date": "Not specified",
+            "findings": "Blood glucose=67.0 mg/dL, below normal range (ref range: 70.0 - 400.0 mg/dL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT Abdomen & Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Mild dependent atelectasis, normal liver, pancreas, spleen; severe diverticulosis; mild free fluid in pelvis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

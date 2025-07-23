@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain and nausea for 1 day.",
+        "history_of_present_illness": "Patient awoke from sleep around 3am on the morning of admission with severe sharp cramping diffuse abdominal pain accompanied by nausea. Had a bowel movement two hours later which provided some relief, but pain worsened and nausea persisted. Reports not passing flatus since yesterday.",
+        "past_medical_history": "Prior abdominal surgeries, including status-post right hemicolectomy for stage IIa colon cancer; hepatic flexure colon cancer; gastric ulcer; iron deficiency anemia; history of cancer and ulcer; hypertension; heart murmur; hypothyroidism; prediabetes; lichen sclerosis; agoraphobia with panic attacks.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

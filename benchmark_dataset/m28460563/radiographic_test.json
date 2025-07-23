@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is fluid filled, with mural hyperenhancement, and dilation up to 12 mm. There is no fluid collection or pneumoperitoneum. The lower chest is unremarkable. The liver enhances homogeneously and is without focal abnormality. The gallbladder, biliary tree, pancreas, spleen, and adrenal glands appear normal. The kidneys enhance normally and excrete contrast symmetrically. The stomach, duodenum, and abdominal loops of small and large bowel are of normal caliber, without wall thickening, or associated mass. The rectum and sigmoid are normal. The bladder, prostate, and seminal vesicles are normal. There is a small amount of free fluid. There are no lytic or sclerotic osseous lesions concerning for malignancy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

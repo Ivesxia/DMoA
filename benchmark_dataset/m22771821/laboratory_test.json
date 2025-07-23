@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is fluid filled and measuring up to 18 mm in caliber. An appendicolith is seen within it. Mild fat stranding is seen in the region. The liver shows no intrahepatic biliary dilatation or focal lesion. The gallbladder shows no stones or wall edema. The spleen is normal in size and appearance. The pancreas and adrenal glands show no masses. The kidneys enhance with and excrete contrast symmetrically. The abdomen shows no evidence of wall thickening or obstruction. Bladder, prostate and rectum appear unremarkable. There is trace free fluid, but no lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lab Test",
+            "date": "Not specified",
+            "findings": "16.0 mg/dL (reference range: 6.0 - 20.0 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

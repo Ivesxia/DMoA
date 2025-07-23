@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "blood_pressure": "139/46 mmHg",
+                "heart_rate": "82 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "96% on 2L by NC"
+            },
+            "relevant_findings": {
+                "general": "no acute distress",
+                "HEENT": "EOMI, PERRL, sclerae slightly icteric, no epistaxis or rhinorrhea, MM dry, OP clear",
+                "neck": "JVP at 5cmH20, carotid pulses brisk, no bruits, no cervical lymphadenopathy, trachea midline",
+                "cardiac": "RRR, soft II/VI SM at non-radiating point, normal S1 S2, radial pulses +2",
+                "pulmonary": "Lungs CTAB, no W/R/R",
+                "abdominal": "Soft, mildly distended, +BS, no HSM, no masses. Mild tenderness to deep palpation in RUQ, with no rebound or guarding.",
+                "extremities": "No C/C/E, no palpable cords",
+                "neurological": "alert, oriented to person, place, and time. CN II – XII grossly intact. Moves all 4 extremities. Plantar reflex downgoing.",
+                "skin": "No jaundice, cyanosis, or gross dermatitis. No ecchymoses."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

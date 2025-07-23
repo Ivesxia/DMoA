@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The lung bases are clear, with minimal bibasilar atelectasis. There is no pleural or pericardial effusion. A hypodensity is present in the anterior portion of segment 4a/b, likely representing a cyst. A 1.6 x 1.6 x 2.0-cm nodule within the medial limb of the right adrenal gland, which is new from a previous study. The appendix is dilated measuring up to 1.4 cm and fluid filled, with surrounding inflammatory change. An appendicolith is seen lodged within the base. No evidence of perforation.",
+            "changes_over_time": "The nodule within the medial limb of the right adrenal gland is new from a previous study. The hypodensity in segment 4a/b is unchanged from a previous study."
+        }
+    ]
+}

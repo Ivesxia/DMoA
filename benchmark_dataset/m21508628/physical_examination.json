@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "135/109 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "O2_saturation": "94%"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, no acute distress",
+                "HEENT": "Sclera anicteric, MMM, oropharynx clear",
+                "neck": "Supple, JVP not elevated, no LAD",
+                "lungs": "Breathing comfortably, CTAB",
+                "cardiovascular": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+                "abdomen": "+BS, soft, nondistended, firm, tenderness to palpation of LLQ, no rebound or guarding",
+                "musculoskeletal": "Tenderness to palpation along spine and left flank",
+                "extremities": "2+ L DP pulse, 1+ R DP pulse, no clubbing, cyanosis or edema",
+                "skin": "Tanned skin"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "38.0 IU/L, within normal range (0.0 - 100.0 IU/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Gallbladder distended measuring 16.2 x 5.4 x 5.4 cm with significant wall edema and inflammation. 4 large gallstones and 1 stone measuring 1.8 cm impacted in the neck. Mild intrahepatic biliary dilatation. Common bile duct normal. Liver normal signal intensity.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

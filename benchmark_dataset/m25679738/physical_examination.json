@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2°F",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "135/63 mmHg",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing, no acute distress",
+                "heent": "Sclera icteric, pupils equal, round, reactive to light, extraocular movements intact, oral cavity clear, mucous membranes moist",
+                "neck": "Supple, no lymphadenopathy",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, gallops, or rubs",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezing, rales, or rhonchi",
+                "abdominal": "Soft, non-tender, non-distended, positive bowel sounds",
+                "extremities": "No cyanosis, clubbing, or edema",
+                "neurological": "Alert and oriented times three, cranial nerves II-XII grossly intact, moving all extremities well"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

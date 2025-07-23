@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6 F",
+                "heart_rate": "138 bpm",
+                "blood_pressure": "143/90 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "AOx3, appears somewhat uncomfortable",
+                "HEENT": "PERRLA, MMM, no LAD, no JVD, neck supple",
+                "cardiovascular": "RR S1/S2 normal, no murmurs/gallops/rubs",
+                "pulmonary": "No dullness to percussion, clear to auscultation bilaterally, no crackles or wheezes",
+                "abdominal": "Bowel sounds present, soft, tender to palpation in epigastric area without rebound or guarding",
+                "extremities": "Warm, well-perfused, no edema, dorsalis pedis and posterior tibialis pulses 2+",
+                "skin": "No rashes or bruising",
+                "neurological": "Cranial nerves II-XII intact, strength in upper/lower extremities, sensation intact to light touch"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

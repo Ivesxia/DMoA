@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Crampy lower abdominal pains for several days.",
+        "history_of_present_illness": "The abdominal pain was acute in onset over a 1 day period, described as 'crampy'. The patient denied any associated fevers, chills, nausea, emesis, or pain with urination.",
+        "past_medical_history": "Coronary Artery Disease, prior STEMI, PCI/stenting to RCA, history of Acute Myelogenous Leukemia, chemotherapy, radiation, and bone marrow transplantation, hypertension, hypercholesterolemia, GERD, diet-controlled Type II Diabetes Mellitus, diverticulosis, occasional bronchospasm, history of SVC clot, history of C.Difficile, history of VRE, history of shingles, history of asthma.",
+        "family_history": "Mother with a history of stroke. Both maternal and paternal grandmothers had a history of CVA. Father with history of colon cancer. No known blood disorders. Sister with hypertension.",
+        "social_history": "Not specified."
+    }
+}

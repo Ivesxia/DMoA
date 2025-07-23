@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver demonstrates low attenuation consistent with fatty liver. There is no evidence of focal lesions. There is no evidence of intrahepatic or extrahepatic biliary dilatation. There is mild periportal edema. The gallbladder is distended, edematous, containing multiple gallstones including a 2.4 cm stone which appears impacted in the neck of the gallbladder. There is significant surrounding stranding without evidence of free air or adjacent fluid collections. There is an area of discontinuity in the mucosa, concerning for possible complicated cholecystitis by perforation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

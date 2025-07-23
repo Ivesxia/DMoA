@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated measuring up to 14 mm, with mural edema and periappendiceal stranding noted. There are numerous scattered mesenteric lymph nodes in the right lower quadrant measuring up to 11 mm in short axis, which are likely reactive. There is a small amount of free fluid within the pelvis, without evidence for a fluid collection. The remainder of the bowel is otherwise unremarkable, other than to note fecal loading throughout the colon. There is no free air.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PT (Prothrombin Time)",
+            "date": "Not specified",
+            "findings": "35.2 sec",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

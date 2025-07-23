@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Organism Count",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Sodium",
+            "date": "Not specified",
+            "findings": "8.7 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "The heart is normal in size. Mediastinal and hilar contours appear within normal limits. Lungs appear clear. No pleural effusions or pneumothorax.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

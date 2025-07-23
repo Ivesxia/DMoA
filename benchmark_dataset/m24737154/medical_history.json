@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient presented with abdominal pain that started 18 hours prior, initially diffuse in the lower abdomen but later migrated to the right lower quadrant (RLQ). The pain was accompanied by chills, nausea, and vomiting, with no prior episodes of pain.",
+        "past_medical_history": "Asthma, allergies",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

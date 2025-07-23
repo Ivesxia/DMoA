@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "This culture contains mixed bacterial types (>=3) so an abbreviated workup is performed. Any growth of P.aeruginosa, S.aureus and beta hemolytic streptococci will be reported. If these bacteria are not reported, they are not present in this culture.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CTA HEAD W&W/O C & RECONS",
+            "date": "Not specified",
+            "findings": "The cerebral sulci, ventricles, and extra-axial CSF-containing spaces are mildly enlarged, in keeping with age-related volume loss. The gray-white matter differentiation is well preserved. There is no CT evidence of acute ischemic infarct, intracranial hemorrhage or space-occupying lesion. Periventricular confluent low attenuation is consistent with sequela of small vessel ischemic disease. The cystic lesion involving the pineal gland with peripheral calcification is unchanged since ___ and likely represents a simple cyst.",
+            "changes_over_time": "The cystic lesion involving the pineal gland with peripheral calcification is unchanged since ___."
+        }
+    ]
+}

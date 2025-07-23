@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9°F",
+                "heart_rate": "68 bpm",
+                "blood_pressure": "108/60 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Elderly-appearing, cheerful, comfortable-appearing woman lying down in bed in no acute distress.",
+                "cardiovascular": "II/6 crescendo-decrescendo systolic murmur that radiates to the carotids, loudest at the right intercostal space. Regular rate and rhythm.",
+                "abdominal": "Notably soft, non-tender, and non-distended with no masses or hepatosplenomegaly. No rebound tenderness or guarding.",
+                "extremities": "Non-palpable, pigmented rash in left lower extremity. Non-tender, no ulcers or lesions. No pitting edema. Distal pulses 2+.",
+                "neurological": "Alert and oriented, moves all extremities."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

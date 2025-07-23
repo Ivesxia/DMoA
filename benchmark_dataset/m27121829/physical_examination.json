@@ -1,0 +1,19 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "pulse": "60 bpm",
+                "blood_pressure": "124/62 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD",
+                "abdomen": "Soft, obese tenderness on deep palpation to right of umbilicus, no rebound or guarding, no palpable masses or hernias"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

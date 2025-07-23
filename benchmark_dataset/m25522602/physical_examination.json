@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.0 °F",
+                "heart_rate": "108 bpm",
+                "blood_pressure": "134/89 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "AAO3, NAD",
+                "HEENT": "Normocephalic, PERRLA, EOMI, Sclerae anicteric, Hearing grossly intact, no ear drainage, patent nares, MMM.",
+                "neck": "Supple without lymphadenopathy.",
+                "heart": "RRR, normal S1/S2, no m/r/g.",
+                "lungs": "CTAB. No crackles/wheezes/rhonchi. No respiratory distress.",
+                "abdomen": "Soft, RUQ TTP, nondistended, with good bowel sounds heard. No mass palpated. Well healed R groin hernia scar.",
+                "back": "No costovertebral angle tenderness.",
+                "extremities": "Without cyanosis, clubbing or edema.",
+                "neurological": "Gross nonfocal.",
+                "skin": "Warm and dry without any rash."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

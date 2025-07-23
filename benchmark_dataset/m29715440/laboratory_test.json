@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory test for unspecified criteria",
+            "date": "Not specified",
+            "findings": "8.2 mg/dL (Reference range: 8.4 - 10.2 mg/dL, outside normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "Cardiac silhouette normal in size. Aorta mildly unfolded. Mediastinal and hilar contours unchanged. Pulmonary vascularity normal. Lungs clear. No pleural effusions or pneumothorax. Osseous structures within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

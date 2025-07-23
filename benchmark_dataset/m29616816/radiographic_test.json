@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Normal echotexture of the liver, no focal lesion or intrahepatic biliary dilatation. Portal vein patent with hepatopetal flow. Gallbladder shows layering stones but no wall edema or pericholecystic fluid. Common bile duct measures 4 mm. Pancreatic head and body normal; tail obscured by overlying bowel gas. No hydronephrosis demonstrated in the right kidney.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

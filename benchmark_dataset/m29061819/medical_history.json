@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient in normal state of health until two days ago, developed gradual abdominal pain. Vomiting for past 6 hours. Has had some diarrhea today but feels decreased flatus. Vomited here and pills from this morning in vomit. Feels like Crohn's flare. No chest pain or shortness of breath. No fevers.",
+        "past_medical_history": "History of Crohn's disease diagnosed, currently on medication including Lialda (mesalamine) and prednisone taper; history of ankle fracture.",
+        "family_history": "Autoimmune diagnosis: hypothyroidism, possible colitis, type II diabetes mellitus.",
+        "social_history": "Not specified."
+    }
+}

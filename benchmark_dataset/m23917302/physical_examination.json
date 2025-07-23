@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "heart_rate": "95 bpm",
+                "blood_pressure": "149/99 mmHg",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Reclining in bed in no acute distress",
+                "HEENT": "Normocephalic/Atraumatic, moist mucous membranes",
+                "cardiovascular": "Regular rate and rhythm, normal S1 & S2 without murmurs/rubs/gallops",
+                "pulmonary": "Clear to auscultation bilaterally with no wheezing/crackles/ronchi",
+                "abdominal": "Obese, non-distended abdomen with midline laparotomy scar; normoactive bowel sounds present; soft but tender throughout (especially on sides)",
+                "genitourinary": "No foley catheter present",
+                "extremities": "Warm, well-perfused with no edema or cyanosis; pedal pulses palpable",
+                "skin": "No rashes noted",
+                "neurological": "Alert and oriented to person, place, and time; cranial nerves II-XII grossly intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

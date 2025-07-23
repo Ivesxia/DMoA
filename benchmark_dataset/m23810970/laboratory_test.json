@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test (LFT)",
+            "date": "Not specified",
+            "findings": "Elevated LFTs.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Biliary: Small dependent filling defects in the common bile duct likely representing sludge and/or tiny stones. The gallbladder contains sludge and multiple gallstones. Diffuse gallbladder wall edema is present.",
+            "changes_over_time": "Slightly decreased gallbladder distention compared to the CT from ___."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

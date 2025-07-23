@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Lower abdominal pain",
+        "history_of_present_illness": "Patient presents with a 2-day history of crampy, achy pain associated with nausea, vomiting, and diarrhea, which progressed to bright red blood in the diarrhea. Patient experienced chills and had a temperature of 99.8 at home. No similar pain in the past.",
+        "past_medical_history": "History of asthma, adrenal insufficiency, thoracic outlet syndrome, bilateral carpal tunnel syndrome, mitral valve prolapse (MVP), costochondritis, gastroesophageal reflux disease (GERD), and seasonal allergies.",
+        "family_history": "Father died of lung cancer. Mother still alive and is healthy.",
+        "social_history": "Not specified."
+    }
+}

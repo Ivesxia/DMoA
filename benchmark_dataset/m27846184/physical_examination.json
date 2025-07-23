@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "70 bpm",
+                "blood_pressure": "131/105 mmHg",
+                "respiratory_rate": "13 breaths/min",
+                "oxygen_saturation": "92% on room air"
+            },
+            "relevant_findings": {
+                "general": "Confused, agitated",
+                "HEENT": "Sclera anicteric, dried blood on lips/tongue, membranes dry",
+                "lungs": "Clear to auscultation bilaterally, no wheezes, rales, rhonchi",
+                "CV": "Regular rate and rhythm, normal S1 S2, II/VI systolic murmur over RUSB, no radiation",
+                "abdomen": "Soft, mild tenderness over epigastrium, no rebound tenderness or guarding",
+                "extremities": "Warm, well perfused, no clubbing, cyanosis or edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

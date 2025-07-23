@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "A 1.6 x 1.3 cm ill-defined hypodensity within segment 4B is most consistent with perfusional defect. The appendix is top-normal measuring 7 mm with mild mucosal hyper enhancement. No adjacent fat stranding and air is seen within the appendiceal tip. No intrahepatic or extrahepatic biliary dilatation. The kidneys display symmetric nephrograms and excretion of contrast. No focal renal lesions. No hydronephrosis or hydroureter identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mixed Bacterial Flora",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HCG Quantitation",
+            "date": "Not specified",
+            "findings": "NEGATIVE. FOR QUANTITATION OF POSITIVES, SEND SERUM FOR HCG.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

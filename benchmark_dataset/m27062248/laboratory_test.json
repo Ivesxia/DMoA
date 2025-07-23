@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Glucose",
+            "date": "Not specified",
+            "findings": "220 mg/dL, with a gap of 22.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "4.6 mmol/L.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "181 IU/L.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT HEAD W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "No evidence of infarction, fracture, hemorrhage, edema, mass effect, or shift of normally midline structures. Minimal periventricular white matter hypodensities compatible with sequela of chronic microvascular ischemic disease. The ventricles and sulci are slightly prominent compatible with mild age-related parenchymal volume loss. Dense atherosclerotic calcification of the bilateral carotid siphons is noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

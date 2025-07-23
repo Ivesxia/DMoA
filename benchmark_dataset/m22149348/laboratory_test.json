@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CTU (ABD/PEL) W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The CT showed a heterogeneous collection in the right upper quadrant adjacent to the second portion of the duodenum measuring 6.9 x 4 x 6.6 cm, with small focus of air. There has been progressive worsening and increasing organization of the fluid collection since prior.",
+            "changes_over_time": "Progressive worsening and increasing organization of the fluid collection since prior."
+        },
+        {
+            "procedure_name": "EIA",
+            "date": "Not specified",
+            "findings": "Negative by EIA. (Reference Range-Negative)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

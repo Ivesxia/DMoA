@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.1°F (T max), 97.1°F (T current)",
+                "blood_pressure": "123/70 mmHg",
+                "heart_rate": "60 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "In no acute distress, thin man appearing his stated age",
+                "HEENT": "PERRL, EOMI, slight scleral icterus, moist mucous membranes, no oral ulcers",
+                "neck": "Supple, no lymphadenopathy, no jugular venous pressure elevation",
+                "lungs": "Clear to auscultation bilaterally, normal respiratory effort",
+                "cardiovascular": "Regular rate and rhythm, soft systolic murmur at the upper sternal border",
+                "abdominal": "Soft, slight tenderness in RUQ to deep palpation, positive bowel sounds, no rebound or guarding",
+                "extremities": "Warm and well perfused, no cyanosis, clubbing, or edema",
+                "neurological": "Alert and oriented, cranial nerves II-XII intact",
+                "skin": "No rashes or ulcers, left cheek with small excoriation",
+                "psychiatric": "Appropriate"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

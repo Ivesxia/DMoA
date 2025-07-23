@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9 F",
+                "heart_rate": "110 bpm",
+                "blood_pressure": "110/63 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x 3, no acute distress",
+                "cardiac": "Regular rate and rhythm, no murmurs/rubs/gallops",
+                "pulmonary": "Clear to auscultation bilaterally",
+                "abdominal": "Soft, tender to palpation in left lower quadrant, no rebound, no guarding, positive bowel sounds",
+                "extremities": "Trace edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

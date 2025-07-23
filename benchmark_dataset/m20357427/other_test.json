@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Intubation",
+            "date": "Not specified",
+            "findings": "Aspiration during intubation procedure, evidenced by coffee-ground emesis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endoscopic sphincterotomy and papillotomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Aspiration from OG tube",
+            "date": "Not specified",
+            "findings": "Coffee-ground emesis after intubation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CXR (Chest X-ray)",
+            "date": "Not specified",
+            "findings": "LLL opacity and reduced effusions seen bilaterally, left greater than right.",
+            "changes_over_time": "Residual effusions present compared to previous imaging."
+        }
+    ]
+}

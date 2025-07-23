@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "MRI ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Right upper lobe linear atelectasis, mild hepatic steatosis, no focal lesion in the visualized liver, no ductal dilation in biliary, unremarkable gallbladder, no lesion or ductal dilation in pancreas, partial fatty replacement of the dorsal aspect of pancreatic head, no splenomegaly, 11 mm discrete right adrenal nodule consistent with lipid rich adrenal adenoma, 22 mm right interpolar renal cyst likely hemorrhagic, mild perinephric fluid, small hiatal hernia, sigmoid diverticulosis, no adenopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EGD",
+            "date": "Not specified",
+            "findings": "Hard nodularity with deep ulcer along the greater curvature; biopsies were taken.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

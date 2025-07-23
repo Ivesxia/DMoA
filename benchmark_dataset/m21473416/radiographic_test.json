@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix appears dilated up to 14 mm with wall thickening and mild surrounding inflammatory changes suggestive of acute uncomplicated appendicitis. There are minimal atelectatic changes noted at the lung bases, heart is normal in size without pericardial effusion, liver, spleen, pancreas, bilateral adrenal glands, and bilateral kidneys are within normal limits. Cholelithiasis without cholecystitis is noted. No free fluid or free air in the abdomen, no mesenteric or retroperitoneal lymphadenopathy, and the abdominal aorta is normal in caliber and contour. In the pelvis, the sigmoid colon, rectum, bladder, and prostate are within normal limits with no free fluid or free air. A few prominent inguinal nodes are noted without pelvic or inguinal lymphadenopathy by CT size criteria. No lytic or sclerotic osseous lesions suspicious for malignancy, but mild degenerative changes are noted in the thoracolumbar spine, and a lipoma is noted in the left iliacus muscle.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

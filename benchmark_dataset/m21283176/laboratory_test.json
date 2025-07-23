@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is normal in echotexture with 2 adjacent likely segment VI 1.0- and 1.1-cm echogenic lesions consistent with hemangiomata. There is no intra or extrahepatic biliary ductal dilatation. The gallbladder is distended with mural edema, pericholecystic fluid, mural hyperemia and multiple gallstones with a positive sonographic sign consistent with acute cholecystitis. The main portal vein is patent with hepatopetal flow. The spleen is normal measuring 8.4 cm. The pancreas is not well seen due to overlying bowel gas.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NEG +/-",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

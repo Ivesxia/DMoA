@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Afebrile, vital signs stable",
+            "relevant_findings": {
+                "General_Appearance": "Obese, pleasant, mildly uncomfortable, no acute distress",
+                "Eyes": "PERLL, EOMI, no conjunctival injection, anicteric",
+                "ENT": "no sinus tenderness, no JVD, no carotid bruits, no thyromegaly or palpable thyroid nodules",
+                "Respiratory": "CTA b/l with good air movement throughout",
+                "Cardiovascular": "RR, S1 and S2 wnl, no murmurs, rubs or gallops",
+                "Gastrointestinal": "nd, +b/s, soft, nt, no masses or HSM",
+                "Extremities": "no cyanosis, clubbing or edema",
+                "Skin": "warm, no rashes/no jaundice/no skin ulcerations noted",
+                "Neurological": "Alert, oriented to self, time, date, reason for hospitalization. Cn II-XII intact. Strength throughout. No sensory deficits to light touch appreciated. No pass-pointing on finger to nose. 2+DTR's-patellar and biceps. No asterixis, no pronator drift, fluent speech.",
+                "Psychiatric": "pleasant, appropriate affect",
+                "GU": "no catheter in place"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "Radiographic Findings": "There is a Dobhoff tube which terminates in the distal esophagus. There are low lung volumes bilaterally. There is opacification of the left lower lung and costophrenic angle indicating a pleural effusion with adjacent atelectasis, aspiration or pneumonia cannot be excluded. There is some linear atelectasis in the right lung base as well. No pneumothorax. Heart size and mediastinal contour are normal. No fracture or concerning bone findings."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

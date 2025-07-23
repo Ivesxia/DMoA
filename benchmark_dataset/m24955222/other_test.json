@@ -1,0 +1,14 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung": "Bilateral lower lobe atelectasis and a 2 mm pulmonary nodule in the left lower lobe which is unchanged.",
+                "abdomen": "Fluid filled and dilated appendix up to 11 mm in diameter, surrounded by a small amount of free fluid and moderate mesenteric fat stranding. No pneumoperitoneum or organized fluid collection. Liver enhances homogeneously with numerous subcentimeter hypodensities likely representing simple cysts or biliary hamartomas.",
+                "pelvis": "Normal rectum and urinary bladder. No pelvic free fluid or mass."
+            },
+            "changes_over_time": "Unchanged pulmonary nodule in the left lower lobe."
+        }
+    ]
+}

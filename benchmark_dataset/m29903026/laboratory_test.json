@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory test for bilirubin level",
+            "date": "Not specified",
+            "findings": "8.6 mg/dL (normal range: 8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CHEST (PA & LAT) radiograph",
+            "date": "Not specified",
+            "findings": "Low lung volumes with increased opacification in the left base, likely representing atelectasis. No pneumothorax or definite pleural effusion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

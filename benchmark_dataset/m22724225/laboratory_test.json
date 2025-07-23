@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test for Creatinine",
+            "date": "Not specified",
+            "findings": "9.5 mg/dL",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

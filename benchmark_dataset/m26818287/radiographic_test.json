@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver demonstrates homogenous low attenuation throughout with evidence of steatosis; inter acinar fatty infiltration of the pancreas with peripancreatic stranding; small nonobstructing stone in the lower pole of the left kidney measuring 7.7 mm; otherwise, no significant abnormalities noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

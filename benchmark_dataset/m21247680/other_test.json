@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Central venous catheter placement with guidance",
+            "date": "Not specified",
+            "findings": "Left-sided PICC line placement confirmed; course unremarkable, tip over mid SVC, no complications.",
+            "changes_over_time": "Compared to the previous image, unchanged radiographic appearance of the lung parenchyma and the heart."
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "RRR (Regular Rate and Rhythm), no distress.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

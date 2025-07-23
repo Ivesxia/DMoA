@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver demonstrates multiple round hypodense lesions consistent with cysts, the liver is diffusely hypodense consistent with fatty infiltration, significant gallbladder wall thickening with surrounding fat stranding and multiple gallstones. A hyperdense lesion in the upper pole of the left kidney, previously evaluated by ultrasound and determined to be a cyst. A nonspecific 1.5 cm lymph node at the porta hepatis, minimally enlarged from prior.",
+            "changes_over_time": "The liver cysts were unchanged from prior exam, there is a hyperdense lesion in the kidney unchanged from prior, and the lymph node is minimally enlarged from prior."
+        }
+    ]
+}

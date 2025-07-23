@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with 3 days of right lower quadrant abdominal pain accompanied by severe nausea/vomiting. Examination revealed severe tenderness in the same area, elevated WBC count, and imaging did not initially indicate appendicitis. Persistence of pain led to follow-up with a normal pelvic exam and negative pregnancy tests, suggesting alternative causes were ruled out, reinforcing the diagnosis of appendicitis."
+    }
+}

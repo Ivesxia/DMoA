@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic causing limited sonographic penetration. Smooth contour. Complex cyst or pair of cysts in segment V: one cyst measures up to 1.5 cm and the other up to 2.6 cm. No ascites. Gallbladder is moderately distended with moderate wall edema and pericholecystic fluid. Large shadowing gallstone. Area of approximately 2.3 x 1.4 cm may represent adherent sludge or large gallbladder polyp. Normal spleen measuring 10.5 cm with a 1.6 cm accessory spleen. No hydronephrosis in kidneys.",
+            "changes_over_time": "Similar to the prior study."
+        }
+    ]
+}

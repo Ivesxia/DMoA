@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Examination (Polymorphonuclear leukocytes and microorganisms)",
+            "date": "Not specified",
+            "findings": "2.0 mg/dL, NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pelvis U.S., Transvaginal",
+            "date": "Not specified",
+            "findings": "Uterus measures 8.8 x 5.0 x 6.0 cm, endometrium thickness 7 mm. Right ovary normal, left ovary contains a simple cyst measuring 2.9 x 1.7 cm, with a small amount of free fluid in the pelvis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

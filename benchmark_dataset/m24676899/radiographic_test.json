@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "The lungs remain clear. No pleural effusion or pneumothorax. Tortuosity of the thoracic aorta is again noted. Embolization coils are noted in the upper abdomen as well as pneumobilia reflecting recent instrumentation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

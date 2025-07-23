@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.4°F (38°C)",
+                "heart_rate": "78 bpm",
+                "blood_pressure": "137/87 mmHg",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "alertness": "A+O x 4",
+                "abdominal_exam": "Soft, nondistended, tender to lower abdomen",
+                "cardiovascular": "Regular rate and rhythm, S1, S2",
+                "chest": "Clear to auscultation bilaterally"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

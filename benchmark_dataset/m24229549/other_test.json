@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is dilated, measuring up to 1.2 cm in diameter with a thickened wall and possible very minimal adjacent stranding. No extraluminal gas or drainable fluid collection is seen. Minimal central intrahepatic biliary prominence and dilated CBD to 1.2 cm. No focal intrahepatic lesion, no evidence of bowel obstruction, no upper abdominal free fluid, free air, or lymphadenopathy is seen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

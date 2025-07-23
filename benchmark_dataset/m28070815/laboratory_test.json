@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is fluid-filled and dilated measuring 1.1 cm, with wall thickening and associated stranding of the surrounding mesentery, compatible with appendicitis. Appendicolith is noted within the appendix. No evidence of free fluid or perforation. All other abdominal organs appear normal with no lesions or abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LABORATORY TEST",
+            "date": "Not specified",
+            "findings": "8.6 mg/dL, within normal range (ref range: 8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CULTURE",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

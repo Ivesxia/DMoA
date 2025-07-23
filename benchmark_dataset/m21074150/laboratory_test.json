@@ -1,0 +1,32 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W & W/O CONTRAST, ADDL SECTIONS",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Dependent atelectasis is mild. No focal opacities in the partially imaged lower lungs. No evidence of pleural or pericardial effusion.",
+                "abdomen": {
+                    "hepatobiliary": "Background liver parenchyma is normal. An 10-mm hypodense lesion in hepatic segment 8 likely a cyst. No concerning focal hepatic lesion. No evidence of intrahepatic or extrahepatic biliary dilatation.",
+                    "pancreas": "The pancreas has normal attenuation throughout, without evidence of focal lesions or pancreatic ductal dilatation.",
+                    "spleen": "The spleen shows normal size and attenuation throughout.",
+                    "adrenals": "The right and left adrenal glands are normal in size and shape.",
+                    "urinary": "The kidneys are of normal and symmetric size. No renal stones or focal renal masses. Mild fullness of the right renal pelvis.",
+                    "gastrointestinal": "The appendix is dilated up to 15 mm with moderate fat stranding. The terminal ileum is fluid-filled and mildly distended.",
+                    "pelvis": "No free fluid in the pelvis.",
+                    "reproductive_organs": "The prostate gland contains coarse central calcifications, likely the sequela of prior inflammation.",
+                    "lymph_nodes": "Scattered mesenteric lymph nodes are probably reactive.",
+                    "vascular": "No abdominal aortic aneurysm. Mild atherosclerotic disease noted.",
+                    "bones": "No acute fracture. No osseous lesions concerning for malignancy.",
+                    "soft_tissues": "The abdominal and pelvic wall is within normal limits."
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

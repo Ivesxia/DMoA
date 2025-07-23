@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute abdominal pain",
+        "history_of_present_illness": "The pain began acutely around 2am today, waking the patient from sleep. It is described as sharp and diffuse. The intensity of the pain is reduced with Tylenol but is worsened with movement or abdominal pressure. The patient reports two loose bowel movements this morning and one episode of non-bilious emesis in the ED. Currently, the patient denies fevers or chills.",
+        "past_medical_history": "Type 2 diabetes mellitus, hypertension, glaucoma, chronic back pain, history of pelvic fracture",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

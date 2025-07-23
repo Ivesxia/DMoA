@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Cholecystitis",
+        "differential_diagnosis": "Delirium, Atrial Fibrillation, Diabetes mellitus type 2, hypertension, dyslipidemia, prior stroke",
+        "diagnostic_reasoning": "The diagnosis of cholecystitis was supported by imaging findings from CT scan and RUQ ultrasound, which showed cholilithiasis and thickened gallbladder wall."
+    }
+}

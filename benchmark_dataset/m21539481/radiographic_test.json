@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": [
+                "Lower Thorax: The lung bases are clear. No pleural or pericardial effusion.",
+                "Liver: Homogeneous signal of the liver parenchyma. No significant hepatic steatosis. No focal liver lesions.",
+                "Biliary: Gallstones within the bladder lumen. Mural hyperenhancement and marked pericholecystic edema consistent with acute cholecystitis. Mild perfusional abnormality within the adjacent liver parenchyma. Intra and extrahepatic biliary tree normal in caliber without evidence of biliary obstruction or choledocholithiasis.",
+                "Pancreas: Normal T1 signal of the pancreas. No pancreatic ductal dilatation or mass.",
+                "Spleen: Normal in size.",
+                "Adrenal Glands: Normal in size and morphology.",
+                "Kidneys: Unremarkable. No hydronephrosis.",
+                "Gastrointestinal Tract: The stomach is unremarkable. Small and large bowel normal in caliber.",
+                "Lymph Nodes: No retroperitoneal or mesenteric adenopathy.",
+                "Vasculature: Patent portal venous systems are patent. Abdominal aorta normal in caliber.",
+                "Osseous and Soft Tissue Structures: No suspicious osseous or soft tissue lesion identified."
+            ],
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

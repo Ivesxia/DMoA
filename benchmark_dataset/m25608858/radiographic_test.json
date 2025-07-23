@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic with a smooth contour. There is a focal heterogeneously hypoechoic lesion in the right lobe measuring 1.5 x 1.6 x 1.4 cm which may represent focal fatty sparing. The main portal vein is patent with hepatopetal flow. No ascites. The CHD measures 6 mm. The gallbladder is nondistended and contains small stones at the fundus with no pericholecystic fluid. The pancreas appears within normal limits without masses or pancreatic ductal dilation.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

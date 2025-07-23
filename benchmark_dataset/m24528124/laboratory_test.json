@@ -1,0 +1,39 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Visualized lung fields are within normal limits. No evidence of pleural or pericardial effusion.",
+                "abdomen": {
+                    "hepatobiliary": "The liver demonstrates homogeneous attenuation throughout. No evidence of focal lesions or biliary dilatation. Gallbladder is within normal limits.",
+                    "pancreas": "Normal attenuation throughout, without evidence of focal lesions or pancreatic ductal dilatation. No peripancreatic stranding.",
+                    "spleen": "Normal size and attenuation throughout, without evidence of focal lesions.",
+                    "adrenals": "Normal size and shape.",
+                    "urinary": {
+                        "kidneys": "Normal and symmetric size with normal nephrogram. No evidence of hydronephrosis. A round 2.2 x 1.9 cm hypodensity consistent with a renal cyst in the upper pole of the left kidney. No perinephric abnormality.",
+                        "bladder": "Unremarkable."
+                    },
+                    "gastrointestinal": {
+                        "stomach": "Unremarkable.",
+                        "small_bowel": "Normal caliber, wall thickness, and enhancement.",
+                        "colon": "Wall thickening of sigmoid and distal descending colon with significant adjacent fat stranding, enhancing diverticulae, and a small amount of adjacent free fluid."
+                    },
+                    "pelvis": "Small amount of free fluid in the pelvis.",
+                    "reproductive_organs": "Uterus is of normal size and enhancement. No evidence of adnexal abnormality bilaterally.",
+                    "lymph_nodes": "No retroperitoneal or mesenteric lymphadenopathy. No pelvic or inguinal lymphadenopathy.",
+                    "vascular": "No abdominal aortic aneurysm. Mild atherosclerotic disease noted.",
+                    "bones": "No evidence of worrisome osseous lesions or acute fracture. Sclerotic foci consistent with bone islands in the left acetabulum and right iliac crest.",
+                    "soft_tissues": "Within normal limits."
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacteriological Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

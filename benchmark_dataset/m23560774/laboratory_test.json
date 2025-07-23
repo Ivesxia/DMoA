@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC count: 8.4 mg/dL (within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is borderline in size, measuring 6 mm. There is subtle hyperemia of the wall of the appendix in the distal portion, with mild periappendiceal fat stranding. No drainable fluid collection or extraluminal gas is seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

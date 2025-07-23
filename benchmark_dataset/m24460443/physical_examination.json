@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.6 F",
+                "heart_rate": "83 bpm",
+                "blood_pressure": "131/87 mmHg",
+                "respiratory_rate": "22 bpm",
+                "oxygen_saturation": "100% on RA"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, mildly diaphoretic and visibly uncomfortable",
+                "HEENT": "Sclera anicteric, MMM, oropharynx clear",
+                "neck": "Supple, JVP not elevated, no LAD",
+                "lungs": "Clear to auscultation bilaterally, no wheezes, rales, ronchi",
+                "cardiovascular": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+                "abdomen": "Soft, TTP in LUQ, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly",
+                "back": "TTP w/ CVA tenderness over his L flank, endorses pain in that same place w/ straight leg raise (bilaterally) w/ radiation of the pain down his legs to knees",
+                "extremities": "Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2 F",
+                "heart_rate": "61 bpm",
+                "blood_pressure": "150/91 mmHg",
+                "respiratory_rate": "18 bpm",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Initial vital signs evolved with increased blood pressure and decreased heart rate. The patient's discomfort persisted with reported sharp pain and dyspnea."
+        }
+    ]
+}

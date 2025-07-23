@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "blood_pressure": "166/74 mmHg",
+                "heart_rate": "102 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "92% on room air"
+            },
+            "relevant_findings": {
+                "general": "Cachectic female with constant movements of bilateral arms and legs.",
+                "HEENT": "Dry mucous membranes, no lesions. No lymphadenopathy or jugular venous distention.",
+                "cardiac": "Regular rate and rhythm, normal S1/S2, no murmurs, gallops, or rubs.",
+                "lung": "Clear to auscultation bilaterally, no wheezes, rales, or rhonchi, breathing comfortably without use of accessory muscles.",
+                "abdominal": "PEG tube in place with clean dressing. Abdomen is distended but nontender to palpation without rebound or guarding.",
+                "extremities": "Patient displays constant movement of bilateral upper and lower extremities.",
+                "pulses": "2+ dorsalis pedis pulses bilaterally.",
+                "neurological": "Left sided facial droop including forehead, strength intact bilaterally.",
+                "skin": "Warm and well perfused, no excoriations or lesions, no rashes."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

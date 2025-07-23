@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric pain",
+        "history_of_present_illness": "The patient, an ___ year old female, awakened at 5 AM with epigastric pain, which she initially believed to be similar to her past ___ flares. The pain was described as usually left-sided during her previous flares, not epigastric. She experienced nausea and vomiting (3 episodes at home, 5 in the ED - 'clear,' nonbilious, nonbloody), along with chills and no fevers.",
+        "past_medical_history": "Cerebral palsy, chol lithiasis, gastroesophageal reflux, hypothyroidism, osteopenia, osteoporosis, vitamin D deficiency, asthma",
+        "family_history": "Cousin with ___ disease on anti-TNF, sister with late ___ undiagnosed recurrent N/V/D, mother with bipolar disorder and alcoholism",
+        "social_history": "Not specified"
+    }
+}

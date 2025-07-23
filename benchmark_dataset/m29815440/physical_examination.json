@@ -1,0 +1,67 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2 F",
+                "blood_pressure": "162/75 mmHg",
+                "heart_rate": "62 bpm",
+                "respiratory_rate": "16 bpm",
+                "oxygen_saturation": "100% on RA",
+                "weight": "152.1 pounds"
+            },
+            "relevant_findings": {
+                "general": "Alert, male, in no acute distress.",
+                "HEENT": "Sclera anicteric, PERRL, MMM, oropharynx clear.",
+                "neck": "Supple.",
+                "lungs": "Clear to auscultation bilaterally, no wheezes, rales, ronchi.",
+                "cardiovascular": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops.",
+                "abdomen": "Soft, non-tender, non-distended, bowel sounds present.",
+                "extremities": "Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema.",
+                "skin": "Chronic venous stasis changes over the lower extremities bilaterally.",
+                "back": "Tenderness to palpation along T11-T12 spinous processes.",
+                "neurological": "Unable to complete cranial nerve exam secondary to patient's agitation. Strength intact in biceps, triceps, hip flexors, plantar flexions/dorsiflexion at the ankles bilaterally. Sensation to light touch grossly intact in the lower extremities and thighs bilaterally. Left patellar reflex 3+, right patellar reflex."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "116/68 mmHg",
+                "heart_rate": "68 bpm",
+                "respiratory_rate": "16 bpm",
+                "oxygen_saturation": "100%",
+                "weight": "Not specified"
+            },
+            "relevant_findings": "Normal rectal tone noted.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5 F",
+                "blood_pressure": "122/70 mmHg",
+                "heart_rate": "66 bpm",
+                "respiratory_rate": "16 bpm",
+                "oxygen_saturation": "100%",
+                "weight": "Not specified"
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified",
+                "weight": "Not specified"
+            },
+            "relevant_findings": "Significant weight loss of 60 pounds over the past 4 months.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

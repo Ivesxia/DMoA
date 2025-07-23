@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Pelvic Ultrasound",
+            "date": "Not specified",
+            "findings": "Transabdominal ultrasound demonstrates a non-distended bladder, active peristaltic bowel, and echogenic shadowing possibly representing gas within the cecum at a site of known inflammatory change. Transvaginal exam is limited due to peristalsis, with no identification of the uterus or ovaries.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT abdomen",
+            "date": "Not specified",
+            "findings": "Normal CT scan other than a distended bladder.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound - Liver or Gallbladder (Single Organ)",
+            "date": "Not specified",
+            "findings": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is a 5 mm echogenic lesion in the right lobe of the liver, likely a tiny hemangioma. The main portal vein is patent with hepatopetal flow. There is no ascites. The CHD measures 4 mm. The gallbladder contains many shadowing stones. There are echogenic foci in the gallbladder wall, with apparent comet tail artifact likely representing adenomyomatosis. There is no gallbladder wall thickening or distention.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test (Electrolytes)",
+            "date": "Not specified",
+            "findings": "4.5 mEq/L (within normal range of 3.3 - 5.1 mEq/L).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

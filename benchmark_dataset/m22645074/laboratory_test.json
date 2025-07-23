@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "87.0 IU/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Angiography",
+            "date": "Not specified",
+            "findings": "There is no filling defects in main pulmonary arteries; trace right and small left pleural effusion developed since prior CT; bibasilar atelectasis; mild interlobular septal thickening indicative of pulmonary edema.",
+            "changes_over_time": "Patient has developed a trace right and small left pleural effusion since prior CT."
+        }
+    ]
+}

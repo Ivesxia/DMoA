@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Sinus rhythm, rate 82 bpm, PACs, RBBB morphology, no ST/T wave changes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Telemetry",
+            "date": "Not specified",
+            "findings": "Intermittent bursts of atrial fibrillation vs. atrial flutter and sinus tach to 130s. Also with episodes of sinus bradycardia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder wall is thickened, measuring approximately 0.6 cm, with mild pericholecystic fluid. There are gallstones and sludge within the gallbladder, which is mildly distended.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic cholecystectomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

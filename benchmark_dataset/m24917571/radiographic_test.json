@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic with a smooth contour and no focal liver mass. Intrahepatic biliary ductal dilation with mild common bile duct dilation up to 9 mm. Two stones within the common bile duct, largest measuring 1.1 x 1.4 x 0.7 cm. Gallbladder is distended with mild wall edema and layering luminal sludge. The pancreas is not well visualized.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

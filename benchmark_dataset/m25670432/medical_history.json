@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Pain started in the afternoon, located in the right lower quadrant, sharp and constant. No nausea or vomiting. Patient reports 2 episodes of large volume foul-smelling diarrhea similar to previous episodes of C. difficile colitis and has a fever with a temperature of 101. Symptoms have been ongoing since the onset.",
+        "past_medical_history": "HIV, asthma, IgA deficiency with history of multiple sinus/pulmonary infections, severe otitis media with mastoiditis, lipodystrophy, depression, C. difficile colitis, H. pylori gastritis, nephrolithiasis, cervical disc disease, Giardia, hypokalemia, degenerative joint disease of cervical spine.",
+        "family_history": "Prostate cancer in father and brother.",
+        "social_history": "Not specified."
+    }
+}

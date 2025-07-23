@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Lower abdominal pain for 48 hours.",
+        "history_of_present_illness": "Patient experienced lower abdominal pain onset over the last 48 hours, with an associated temperature of 104°F. There were no reports of nausea or vomiting. No history of previous symptoms mentioned.",
+        "past_medical_history": "Mixed connective tissue disorder, Raynaud's phenomenon, arthritis, pneumonitis, H. pylori infection, interstitial lung disease with fibrosis.",
+        "family_history": "Mother with history of tuberculosis; no other relevant family history of cancer, diabetes, or coronary artery disease mentioned.",
+        "social_history": "Not specified."
+    }
+}

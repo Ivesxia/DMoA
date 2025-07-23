@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in echotexture, without focal lesions or intrahepatic biliary ductal dilatation. Main portal vein is patent with hepatopetal flow. The CBD measures 2 mm. The gallbladder is not severely distended and appears to have a folded fundus. There is wall edema and wall thickening. Multiple stones and sludge are seen within the gallbladder. The pancreas appears within normal limits, without masses or pancreatic ductal dilation. The spleen measures 10.6 cm, normal in echogenicity. The right kidney measures 12.5 cm, shows no evidence of hydronephrosis, nephrolithiasis, or mass. The left kidney is atrophic, measuring 7.8 cm. Visualized portions of aorta and IVC are within normal limits. There is no ascites.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

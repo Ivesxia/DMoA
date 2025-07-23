@@ -1,0 +1,27 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Stool Culture",
+            "date": "Not specified",
+            "findings": "NO SALMONELLA OR SHIGELLA FOUND.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Normal in size with smooth contour. An 8mm slightly T2 hyperintense focus in segment 4A, likely representing a summation shadow, atypical hemangioma, or a granuloma.",
+                "biliary": "Gallbladder within normal limits, no significant intra or extrahepatic biliary ductal dilatation.",
+                "pancreas": "Normal signal intensity and bulk, no ductal dilatation or mass lesions. A punctate T2 hyperintense nonenhancing focus in tail of pancreas suggestive of a side branch IPMN.",
+                "spleen": "Normal in size and homogeneous characteristics.",
+                "adrenal_glands": "Normal in size and shape.",
+                "kidneys": "Normal in size with symmetric contrast enhancement. Several punctate T2 hyperintense non-enhancing lesions consistent with cysts.",
+                "gastrointestinal_tract": "Moderate size hiatal hernia, stomach under distended.",
+                "lymph_nodes": "Enlarged nodes in porta hepatis measuring up to 1.7 x 3.8 cm, unchanged from prior.",
+                "vasculature": "Abdominal aorta normal in caliber.",
+                "osseous_and_soft_tissue_structures": "No concerning osseous lesions. Several T2 hyperintense hemangiomas in thoracic spine."
+            },
+            "changes_over_time": "Enlarged nodes in porta hepatis unchanged from prior."
+        }
+    ]
+}

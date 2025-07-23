@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Gallstones and peripancreatic inflammation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic Cholecystectomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Guaiac test",
+            "date": "Not specified",
+            "findings": "Guaiac positive, blood streaked stool.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

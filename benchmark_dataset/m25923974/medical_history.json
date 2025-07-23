@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain.",
+        "history_of_present_illness": "The pain started on Tuesday, resolved on its own, then returned several times over the last few days, described as diffuse but worse in the RUQ, sharp, with no exacerbating/alleviating factors. Earlier today around 3 PM, the pain returned severely and persistently, not resolving until arrival at the ED around 6 PM. There was one similar episode in Florida last year that awoke him from sleep but resolved on its own. The patient also had one episode of vomiting on Wednesday and reports itching and excoriations due to scratching, as well as poor PO intake in the setting of abdominal pain.",
+        "past_medical_history": "Myocardial infarction in ___ for which he underwent angioplasty, Hypercholesterolemia, Gout, Benign prostatic hypertrophy, Ruptured spinal disc, melanoma (on ear, two years ago), DJD, nephrolithiasis ___ years ago.",
+        "family_history": "Father with DM.",
+        "social_history": "Not specified."
+    }
+}

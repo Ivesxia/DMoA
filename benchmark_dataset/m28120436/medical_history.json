@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute onset of severe abdominal pain.",
+        "history_of_present_illness": "The abdominal pain began around 7 PM yesterday after dinner, initially felt like GERD symptoms with burning in the epigastric region. The pain worsened to severe intensity, described as sharp and dull, accompanied by nausea and vomiting (3 episodes of watery, green emesis). There is a report of pain radiating to the back and worsened chronic back pain. The patient has not eaten since last night.",
+        "past_medical_history": "Ethanol (EtOH) abuse (sober several years), chronic back pain, hypertension (HTN), depression, migraines, history of delirium, GI bleeding with esophagitis, C. difficile colitis, depression with suicidal ideation, anemia/leukopenia, zinc deficiency.",
+        "family_history": "Father committed suicide. Brother has a pacemaker due to an unknown congenital issue.",
+        "social_history": "Not specified."
+    }
+}

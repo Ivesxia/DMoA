@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient presents with abdominal pain described as sharp, constant, and diffuse, worse in the epigastric region. The pain is associated with vomiting of recent oral intake, which was non-bilious. Normal ostomy output is noted. No fevers or chills reported, and no association with food.",
+        "past_medical_history": "Dementia, Hypercholesterolemia, Right hip fracture status post open reduction and internal fixation with subsequent post-operative deep vein thrombosis on coumadin. Past medical history mentions a murmur and mild congestive heart failure.",
+        "family_history": "No history of colon cancer, ovarian cancer, or breast cancer in the family.",
+        "social_history": "Not specified."
+    }
+}

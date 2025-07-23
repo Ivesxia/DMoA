@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Gallbladder is distended with wall edema. Pericholecystic fluid is noted extending along the inferior surface of the liver. Several gallstones are noted in the gallbladder. Intra and extrahepatic bile ducts are dilated. Common bile duct measures up to 11 mm. A focal signal void in the dilated cystic duct may represent an obstructive gallstone. No choledocholithiasis identified. Hyperemia of the liver parenchyma surrounding the gallbladder in the early arterial phase. Hepatic steatosis noted with fat fraction of 16%.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gram Stain",
+            "date": "Not specified",
+            "findings": "1.8 mg/dL, indicating the presence of Gram positive bacteria, which is below the normal range (2.7 - 4.5).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

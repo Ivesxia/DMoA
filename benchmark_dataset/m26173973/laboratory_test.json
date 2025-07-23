@@ -1,0 +1,130 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC count",
+            "date": "Not specified",
+            "findings": "13.9 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit (HCT)",
+            "date": "Not specified",
+            "findings": "34.4%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Venous blood gas (VBG)",
+            "date": "Not specified",
+            "findings": "7.37/34/57/20 (acidosis)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "2.2",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ALT",
+            "date": "Not specified",
+            "findings": "171 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "AST",
+            "date": "Not specified",
+            "findings": "130 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total bilirubin (TBili)",
+            "date": "Not specified",
+            "findings": "4.0 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "> 1000 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "Not specified",
+            "findings": "413* (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine (Cr)",
+            "date": "Not specified",
+            "findings": "2.5",
+            "changes_over_time": "Rising to 2.7 later"
+        },
+        {
+            "procedure_name": "Urinalysis (UA)",
+            "date": "Not specified",
+            "findings": "Positive nitrites, 3+ bacteria, no ketones",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Beta-hydroxybutyrate",
+            "date": "Not specified",
+            "findings": "1.87 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "4025 (significantly elevated)",
+            "changes_over_time": "Rising from previously > 1000"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "3.0 (elevated)",
+            "changes_over_time": "Rising from previously 2.2"
+        },
+        {
+            "procedure_name": "WBC count",
+            "date": "Not specified",
+            "findings": "15.3 (increased)",
+            "changes_over_time": "Rising from previously 13.9"
+        },
+        {
+            "procedure_name": "Hemoglobin/Hematocrit (H/h)",
+            "date": "Not specified",
+            "findings": "11.6/34.5",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ALT",
+            "date": "Not specified",
+            "findings": "187 (elevated)",
+            "changes_over_time": "Rising from previously 171"
+        },
+        {
+            "procedure_name": "AST",
+            "date": "Not specified",
+            "findings": "114 (elevated)",
+            "changes_over_time": "Rising from previously 130"
+        },
+        {
+            "procedure_name": "Total bilirubin (TBili)",
+            "date": "Not specified",
+            "findings": "5.1 (elevated)",
+            "changes_over_time": "Rising from previously 4.0"
+        },
+        {
+            "procedure_name": "HCO3",
+            "date": "Not specified",
+            "findings": "18 (low)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "Not specified",
+            "findings": "531 (elevated)",
+            "changes_over_time": "Rising from previously 413"
+        }
+    ]
+}

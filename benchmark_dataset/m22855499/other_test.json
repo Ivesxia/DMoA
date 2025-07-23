@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Cultures of DL",
+            "date": "Not specified",
+            "findings": "Cultures of DL grew diptheroid and CoNS sensitive to vancomycin.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolytes test",
+            "date": "Not specified",
+            "findings": "Electrolytes were unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Leukocytosis test",
+            "date": "Not specified",
+            "findings": "Leukocytosis to 13.4 with 90% neutrophils.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LDH test",
+            "date": "Not specified",
+            "findings": "LDH of 372.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

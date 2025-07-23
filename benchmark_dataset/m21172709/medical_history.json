@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient presents with 2 days of abdominal pain primarily located in the suprapubic region, described as pressure on the bladder and somewhat relieved with voiding. The pain does not radiate or migrate. The patient was unable to move yesterday due to the pain and experienced subjective fevers/chills.",
+        "past_medical_history": "Bipolar disorder; wisdom teeth removal.",
+        "family_history": "No significant history of cancer; mother has IBS.",
+        "social_history": "Not specified."
+    }
+}

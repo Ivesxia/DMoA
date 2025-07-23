@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 97.7°F, Heart Rate: 56 bpm, Blood Pressure: 123/61 mmHg, Respiratory Rate: 14 breaths/min, O2 saturation: 100% on room air",
+            "relevant_findings": "General: No acute distress, lying down in bed. Cardiovascular: 2+ radial and posterior tibial pulses bilaterally, warm, well-perfused. Pulmonary: Breathing comfortably on room air, no cough or wheeze. Abdomen: Soft, nondistended, tenderness to palpation in right lower quadrant and suprapubic region, no rebound or guarding. Extremities: No clubbing, cyanosis, or edema.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

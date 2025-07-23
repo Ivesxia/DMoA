@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0 F",
+                "blood_pressure": "143/67 mmHg",
+                "heart_rate": "64 bpm",
+                "respiratory_rate": "22 bpm",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well appearing, no acute distress",
+                "ent": "PERRL, EOMI, MMM, no LAD",
+                "neck": "supple",
+                "cardiovascular": "Regular rate and rhythm, normal S1 and S2",
+                "chest": "Clear to auscultation bilaterally",
+                "abdomen": "Soft, minimal tenderness at midepigastrum, nondistended, bowel sounds present",
+                "extremities": "No lower extremity edema",
+                "neurology": "Cranial nerves intact, sensory intact, strength throughout, speech fluent",
+                "psychiatry": "Calm, pleasant, appropriate",
+                "skin": "No rash"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

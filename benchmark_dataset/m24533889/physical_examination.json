@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "74 bpm",
+                "blood_pressure": "127/82 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress.",
+                "HEENT": "No scleral icterus, mucus membranes moist.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/gallops/rubs.",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes/rales/rhonchi.",
+                "abdominal": "Soft and nondistended, significant right lower quadrant tenderness, tenderness to percussion in the RLQ, pain in RLQ when other quadrants are palpated, no rebound tenderness, no hepatosplenomegaly, normoactive bowel sounds.",
+                "extremities": "No edema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

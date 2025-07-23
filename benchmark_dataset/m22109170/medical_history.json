@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient presents with 12 hours of abdominal pain that began last night in the central part of the abdomen and worsened overnight. This morning, the pain localized to the right lower quadrant (RLQ). He has not experienced fevers, chills, or vomiting but endorses nausea and decreased appetite.",
+        "past_medical_history": "Epilepsy (has had 2 seizures as adult)",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

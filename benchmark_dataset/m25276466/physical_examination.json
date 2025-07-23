@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "heart_rate": "100 bpm",
+                "blood_pressure": "103/71 mmHg",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "constitutional": "Uncomfortable, crying",
+                "HEENT": "Normocephalic, atraumatic",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Normal first and second heart sounds, Regular Rate and Rhythm",
+                "abdominal": "Diffusely tender with guarding",
+                "pelvic": "No lesions, no cervical motion tenderness",
+                "GU/flank": "No costovertebral angle tenderness",
+                "extremities/back": "No cyanosis, clubbing or edema",
+                "skin": "No rash, Warm and dry",
+                "neurological": "Speech fluent"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

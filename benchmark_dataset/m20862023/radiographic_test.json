@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is fluid-filled and measures a maximal diameter of 7 mm, borderline to mildly dilated. No appendicolith is seen. There is minimal to no periappendiceal fat stranding. The appendiceal wall is hypenhancing. There is trace pelvic free fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

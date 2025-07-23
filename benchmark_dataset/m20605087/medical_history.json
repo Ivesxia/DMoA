@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Diarrhea lasting 10 days with associated abdominal pain.",
+        "history_of_present_illness": "The patient experienced 4 days of diarrhea followed by 5 days of constipation, then another 4 days of diarrhea. She noted having about ___ loose stools per day. The diarrhea was associated with constant, dull bilateral lower quadrant abdominal pain, worsened by defecation. Pain was not relieved by defecation, and she reported minimal oral intake. Associated symptoms included nausea without vomiting.",
+        "past_medical_history": "Hypertension, GERD, iron overload syndrome, osteopenia, history of hip fracture, colon polyps with history of colon adenoma, macrocytic anemia, biliary duct dilatation.",
+        "family_history": "Mother with aneurysm, father with myocardial infarction; no history of colitis, inflammatory bowel disease, or irritable bowel syndrome.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "HIDA scan",
+            "date": "Not specified",
+            "findings": "Ejection fraction of 23% suggesting biliary dyskinesia",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Gallstones with pericholecystic fluid suggestive of acute cholecystitis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic cholecystectomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Heart size, mediastinal and hilar contours are normal; lungs and pleural surfaces are clear. No acute skeletal findings.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

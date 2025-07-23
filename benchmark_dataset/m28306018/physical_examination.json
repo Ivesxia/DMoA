@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.1°F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "113/55 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "NAD, A&Ox3, Obese, Anicteric",
+                "mucosal_membranes": "Tacky",
+                "abdominal": "Soft, some moderate guarding with palpation in the upper abdomen, questionably positive ___ sign, mild rebound tenderness",
+                "bowel_sounds": "+BS",
+                "hemorrhoids": "External & internal hemorrhoids, normal tone, no gross blood",
+                "perfusion": "Warm and well perfused, no peripheral edema",
+                "respiratory": "RRR, diminished bases, CTAB otherwise"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

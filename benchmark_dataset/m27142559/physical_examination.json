@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "77 bpm",
+                "blood_pressure": "161/109 mmHg",
+                "respiratory_rate": "8",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "comfortable, no acute distress",
+                "cardiovascular": "regular rate and rhythm",
+                "respiratory": "clear to auscultation bilaterally",
+                "abdominal": "RUQ tenderness"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

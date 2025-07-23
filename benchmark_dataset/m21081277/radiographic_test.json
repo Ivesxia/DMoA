@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "There is cardiomegaly. There is increased pulmonary interstitial marking suggestive of fluid overload. There is a left-sided AICD. There are more confluent opacities in the lower bases; however, this may be due to the pulmonary edema. No pneumothoraces are identified.",
+            "changes_over_time": "Comparison is made to the previous study from ___."
+        }
+    ]
+}

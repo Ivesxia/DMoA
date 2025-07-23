@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "APTIMA COMBO 2 Assay",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria gonorrhoeae. Validated for use on urine samples.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "A 1.4 x 1.4 cm T2 hyperintense lesion consistent with a cyst or biliary hamartoma; mildly dilated appendix measuring 7.7 mm; mild hydronephrosis of the right kidney. No ascites or lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

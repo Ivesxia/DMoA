@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Calcific densities in the right lung base likely represent pleural plaques. Visualized lung fields are within normal limits. No evidence of pleural or pericardial effusion. A subcentimeter hypodensity in the right hepatic lobe likely represents a sclerosed hemangioma. A subcentimeter hyperenhancing focus in the left hepatic lobe likely represents a flash filling hemangioma. Normal pancreas, spleen, and adrenal glands. Dilated appendix (up to 9 mm) is fluid-filled with thickened wall and mild periappendiceal fat stranding. No appendicolith. Small amount of free fluid in the pelvis within physiologic limits. Prominent subcentimeter mesenteric lymph nodes likely reactive. No evidence of worrisome osseous lesions or acute fracture.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

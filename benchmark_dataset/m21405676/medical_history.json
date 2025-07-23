@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain accompanied by nausea, vomiting, severe cramping, and diarrhea.",
+        "history_of_present_illness": "Symptoms began the evening of ___ with nausea and vomiting, followed by severe abdominal cramping and diarrhea, described as the worst the patient has ever experienced. Patient noted a fever in the 100-101's. Symptoms persisted over the next day; patient presented to the hospital after not feeling much better.",
+        "past_medical_history": "COPD, Coronary artery disease, Hypertension, Hyperlipidemia, Diabetes Mellitus complicated by neuropathy and nephropathy, Abdominal aortic aneurysm, Renal artery stenosis, Anemia, B12 deficiency, Depression, Gout.",
+        "family_history": "Brother with colon cancer, Father with DM and history of CVA, Mother with Parkinson's, Son with asthma and type II DM.",
+        "social_history": "Not specified."
+    }
+}

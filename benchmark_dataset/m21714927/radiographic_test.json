@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "normal chest x-ray prior to the episode of pneumonia",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "several fluid collections in association with the sigmoid colon with inflammatory changes suggestive of a contained perforation; no mass lesions in the liver; nothing suggestive of carcinomatosis or ascites; no mesenteric adenopathy",
+            "changes_over_time": "fluid collections resolved"
+        },
+        {
+            "procedure_name": "virtual colonoscopy",
+            "date": "Not specified",
+            "findings": "no obvious mucosal lesions; thickening of the sigmoid colon",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

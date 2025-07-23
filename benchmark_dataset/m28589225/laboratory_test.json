@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "239.0 IU/L (Reference range: 94.0 - 250.0 IU/L)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

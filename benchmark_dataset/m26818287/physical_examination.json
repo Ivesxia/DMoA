@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2 °F",
+                "blood_pressure": "194/100 mmHg",
+                "heart_rate": "53 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD",
+                "eyes": "Anicteric",
+                "lungs": "Clear",
+                "cardiovascular": "RRR, no m/r/g",
+                "abdomen": "Bowel sounds present, soft, tender RUQ and epigastrium",
+                "extremities": "No e/c/c",
+                "skin": "No rash",
+                "neurological": "Alert, follows commands"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

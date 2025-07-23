@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits. No pleural or pericardial effusion. A subcentimeter hypodensity in the right hepatic lobe potentially a cyst or hemangioma, with no evidence of biliary dilatation. Normal pancreas, spleen, adrenal glands, kidneys. Thickened appendix measuring up to 1.3 cm with adjacent fat stranding consistent with acute appendicitis. Trace free fluid in the pelvis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "GRAM NEGATIVE ROD(S)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Heart regular",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "Gallbladder demonstrates a large amount of sludge mixed with tiny, echogenic shadowing stones, some of which appear impacted within the gallbladder neck. The gallbladder wall is not significantly thickened measuring up to 4 mm. There is a small amount of pericholecystic fluid. The CBD is unremarkable measuring up to 6 mm without definite choledocholithiasis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

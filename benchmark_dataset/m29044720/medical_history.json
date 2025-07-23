@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric pain",
+        "history_of_present_illness": "The patient awoke yesterday morning with epigastric pain. The pain progressed throughout the day, leading the patient to contact their PCP, who advised them to present for further evaluation. The patient also experienced mild nausea but no vomiting, with normal bowel movements and flatus noted. No fevers or chills were reported, though the patient's partner noted that his skin was cold. There were no prior episodes or post-prandial abdominal pain.",
+        "past_medical_history": "Hypertension (HTN), Attention Deficit Disorder (ADD), seasonal allergies, tonsillectomy, multiple myringotomies in childhood.",
+        "family_history": "Coronary artery disease (CAD) in father, diabetes mellitus (DM) in grandmother, ADD in mother, kidney stones in mother.",
+        "social_history": "Not specified."
+    }
+}

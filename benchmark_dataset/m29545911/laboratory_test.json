@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Chemistry",
+            "date": "Not specified",
+            "findings": "Values: 3.4 mg/dL (within normal range 2.7 - 4.5)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Dilated appendix measuring 11 mm, fluid-filled with adjacent stranding and thickening; 2 mm nonobstructing stone in the left lower pole; no extraluminal air or appendicolith.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

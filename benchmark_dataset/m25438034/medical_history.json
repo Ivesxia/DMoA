@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain, nausea, and vomiting",
+        "history_of_present_illness": "Symptoms began the previous morning, started as diffuse pain but progressed to greater pain in the right lower quadrant (RLQ). The patient presented to the hospital's ED around 3 am. Reports chills and rigors, inability to keep food down, but had normal bowel movements and has been passing flatus. Currently without peritoneal signs but notable abdominal distention.",
+        "past_medical_history": "Hypertension, varicose veins, hyperlipidemia, chronic liver disease (stable with elevated baseline LFTs), past surgical history of varicose vein stripping and surgical repair of complex right thumb laceration with tendon repair.",
+        "family_history": "Positive for prostate cancer in father, stroke in father, and dementia in mother. No family history of diabetes, hypertension, or heart disease.",
+        "social_history": "Not specified."
+    }
+}

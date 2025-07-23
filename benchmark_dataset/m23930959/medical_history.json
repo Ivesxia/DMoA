@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute abdominal pain and vomiting",
+        "history_of_present_illness": "Symptoms began yesterday while at work with sharp epigastric pain that felt like 'someone had punched her.' The pain resolved with Tums, but returned approximately 2 hours after eating eggs with hollandaise sauce, reaching a severity of ___.Vomiting commenced by 6 pm, with approximately 20 episodes of emesis over the next several hours. The pain increased to a ___ in severity overnight, prompting her friend to bring her to the ED at 5 am.",
+        "past_medical_history": "Hypertension, hyperlipidemia, s/p left TKR",
+        "family_history": "Father had gallstones.",
+        "social_history": "Not specified."
+    }
+}

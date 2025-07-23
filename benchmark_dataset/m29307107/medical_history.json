@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient developed sudden onset of epigastric pain at approximately 9 PM the previous evening, accompanied by nausea but no vomiting. The pain was sharp, intermittent, and radiated to the back, not influenced by oral intake or activity. It progressed in waves, resolving briefly after presentation to the emergency room around 10:30 PM, but returned 15 minutes later. She reported shortness of breath at the peak of her pain. Though treated for presumed chest pain, her epigastric pain persisted with mild nausea, and she has had flatus with her last bowel movement noted yesterday morning. Previous episodes of similar pain started approximately ___ years ago but were of lower intensity.",
+        "past_medical_history": "Hypertension, hyperlipidemia, nephrolithiasis status post open surgical removal on the left, bilateral cataracts, constipation.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

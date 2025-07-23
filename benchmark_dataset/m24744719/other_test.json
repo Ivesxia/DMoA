@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "PCR test for Neisseria Gonorrhoeae",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria Gonorrhoeae by PCR.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is dilated, hyperemic, and measures up to 7 mm with adjacent fat stranding, without fluid collection.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

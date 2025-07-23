@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate remained elevated 5->6.",
+            "changes_over_time": "Elevated lactate observed."
+        },
+        {
+            "procedure_name": "Blood Glucose",
+            "date": "Not specified",
+            "findings": "189.0 mg/dL",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest X-Ray",
+            "date": "Not specified",
+            "findings": "Low bilateral lung volumes, bibasilar opacities likely due to atelectasis, localized opacity centrally in the left midlung may reflect pulmonary vascular congestion or focal consolidation.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

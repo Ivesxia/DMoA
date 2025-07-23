@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "In the area of pain in the right lower quadrant is a dilated tubular blind-ending structure measuring up to 7 mm in diameter, with a mildly thickened wall. This structure does not compress with transducer pressure. No adjacent fluid collection is demonstrated. There is no significant hyperemia demonstrated.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

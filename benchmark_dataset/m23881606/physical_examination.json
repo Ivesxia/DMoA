@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3 °F",
+                "blood_pressure": "195/82 mmHg",
+                "heart_rate": "80 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "96% RA"
+            },
+            "relevant_findings": {
+                "general": "Patient is hard of hearing but in no acute distress.",
+                "neurological": "Alert and oriented.",
+                "neck": "Soft and supple.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs.",
+                "lungs": "Clear to auscultation.",
+                "abdomen": "Soft with mild epigastric pain to palpation; no rebound or guarding or masses.",
+                "extremities": "No cyanosis, clubbing, or edema. Right knee and hip prosthesis.",
+                "gait": "Patient is not steady on his feet without his cane."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

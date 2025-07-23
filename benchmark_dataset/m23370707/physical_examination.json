@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "heart_rate": "85 bpm",
+                "blood_pressure": "100/43 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "A&Ox3, NAD",
+                "HEENT": "PERRL, EOMI, sclerae anicteric, oropharynx clear, MMM, supple neck, no cervical LAD",
+                "cardiac": "RRR, no M/G/R",
+                "respiratory": "breathing comfortably, CTAB, no W/R/R",
+                "abdominal": "soft, appropriately tender with no rebound or guarding, non-distended, NABS; no erythema, fluctuance, or induration around dressing sites",
+                "extremities": "2+ peripheral pulses, WWP, no C/C/E, moves all limbs spontaneously"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

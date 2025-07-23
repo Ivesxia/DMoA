@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Substernal chest burning.",
+        "history_of_present_illness": "The patient reports persistent heartburn symptoms that worsened than usual last night, prompting him to go to the hospital. He has a history of hyperglycemia with multiple visits for similar symptoms.",
+        "past_medical_history": "Type I Diabetes Mellitus - poorly controlled, seizure disorder (secondary to hypoglycemia or alcohol withdrawal), past surgical history includes inguinal hernia repair and appendectomy.",
+        "family_history": "Father died of lung cancer, mother died at unspecified age.",
+        "social_history": "Alcohol abuse, polysubstance abuse."
+    }
+}

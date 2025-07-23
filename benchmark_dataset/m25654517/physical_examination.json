@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "pulse": "92 bpm",
+                "blood_pressure": "128/73 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "93% on room air",
+                "height": "73 inches",
+                "weight": "323.8 pounds"
+            },
+            "relevant_findings": {
+                "general": "Obese, well-developed gentleman sitting in a wheelchair in no apparent distress, alert and oriented x3.",
+                "respiratory": "Distant breath sounds bilaterally; no dullness to percussion; chest excursion is symmetric and good; no tactile fremitus or egophony.",
+                "cardiovascular": "Regular rate and rhythm without murmur, rub, or gallop; no JVD; peripheral pulses intact; PMI in normal position.",
+                "extremities": "3+ lower extremity edema on the left, trace on the right.",
+                "abdominal": "Soft, nontender, nondistended abdomen without mass or hepatosplenomegaly; no hernia.",
+                "skin": "No rashes, lesions, ulcers, induration, nodular, tightening except an ecchymosis on the left hand.",
+                "neurologic": "Strength and sensation intact and symmetric; normal reflexes; no facial asymmetry; cognition intact; cranial nerves intact.",
+                "lymph_nodes": "No cervical, supraclavicular, or axillary adenopathy.",
+                "musculoskeletal": "No clubbing or cyanosis; gait not assayed; no tenderness to palpation; normal tone and alignment; normal range of motion."
+            },
+            "changes_over_time": {
+                "radiographic": "Cardiomegaly unchanged; bilateral pleural effusions improved slightly; persistent left retrocardiac opacity; persistent mild prominence of the interstitial markings consistent with mild pulmonary edema."
+            }
+        }
+    ]
+}

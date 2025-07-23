@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is visualized and is dilated to 12 mm with a thickened wall and adjacent fat stranding. There is no organized fluid collection or locule of gas to suggest perforation or abscess formation. The liver shows no evidence of focal lesion or intrahepatic biliary dilatation. The gallbladder shows no evidence of stones or wall edema. The spleen, pancreas, and adrenal glands are normal in size and appearance. The kidneys enhance and excrete contrast symmetrically. The small and large intestine show no evidence of obstruction or wall thickening. No lymphadenopathy is seen. No free air or fluid is noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "IV contrast reaction",
+            "date": "Not specified",
+            "findings": "The patient experienced a mild IV contrast reaction that included hives but no respiratory difficulties.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

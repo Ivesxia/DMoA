@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test (LFT)",
+            "date": "Not specified",
+            "findings": "Obstructive LFT pattern, though downtrending.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Elevated lipase.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound of the Abdomen",
+            "date": "Not specified",
+            "findings": "Gallbladder contains multiple stones, wall thickening up to 5 mm. CHD measures 5 mm. No intrahepatic biliary dilation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Normal major papilla. CBD and CHD measured 5mm. Possible filling defect in distal CBD consistent with sludge. No evidence of strictures or stones.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

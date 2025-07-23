@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver demonstrates homogenous attenuation throughout. There is no evidence of focal lesions. No evidence of intrahepatic or extrahepatic biliary dilatation. The gallbladder is within normal limits. The pancreas has normal attenuation without evidence of focal lesions or ductal dilatation. The spleen shows normal size and attenuation. The right and left adrenal glands are normal. The kidneys are normal in size and symmetric with no lesions or hydronephrosis. There is mucosal enhancement and dilation of the appendix up to 9 mm with adjacent fat stranding, fascial thickening, and a small amount of free fluid in the pelvis. No bowel obstruction is seen. No lymphadenopathy in the retroperitoneal, mesenteric, pelvic, or inguinal regions. No abdominal aortic aneurysm or significant atherosclerotic disease. A midline ventral upper abdominal fat containing hernia with a 15 x 9 mm defect is noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

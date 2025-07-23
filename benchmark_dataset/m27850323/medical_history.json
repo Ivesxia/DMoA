@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain with radiation to the back, along with nausea and vomiting.",
+        "history_of_present_illness": "Symptoms began ___ days ago with a burning sensation in the epigastric area, which progressively increased to a 'fire' sensation radiating to the back. Patient reports having nausea, vomiting, and has not been eating due to vomiting. Cold sweats have occurred, but no fevers. Eating or drinking does not seem to worsen the pain.",
+        "past_medical_history": "Longstanding hypertension, previous deep vein thrombosis/pulmonary embolism, history of depression/anxiety (no longer on Zoloft or gabapentin).",
+        "family_history": "Sister with hypertension.",
+        "social_history": "Patient drinks a few gallons of water daily. Occasionally consumes alcohol based on client interactions; used to drink more but specifics are unclear. Has stopped taking blood pressure medications this week due to weakness and pain."
+    }
+}

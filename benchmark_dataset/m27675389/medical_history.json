@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Lower abdominal pain.",
+        "history_of_present_illness": "Mild intermittent vague abdominal pain for the past 6 months, which became more severe 1 month ago, leading to a PCP visit. The abdominal pain improved with antibiotics but recurred the past week. Additionally, the patient notes constipation for the past couple of days.",
+        "past_medical_history": "1. Bronchiectasis. 2. Chronic obstructive pulmonary disease (COPD). 3. Pulmonary MAC treated in the past with new treatment started recently. 4. Chronic sinusitis. 5. History of partial lung resection twice in youth. 6. Osteoporosis.",
+        "family_history": "Brother with bronchiectasis; brother was very sick all his life and was told at one point that he had cystic fibrosis (CF).",
+        "social_history": "Not specified."
+    }
+}

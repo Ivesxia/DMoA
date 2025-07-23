@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "The cardiac, mediastinal and hilar contours are normal. Lungs are clear. No pleural effusion or pneumothorax is identified. No acute osseous findings are present. Contrast is seen within the collecting systems bilaterally from recent intravenous contrast injection for CT.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

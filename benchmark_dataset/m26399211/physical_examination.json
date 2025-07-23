@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "blood_pressure": "100-120/56-70 mmHg",
+                "heart_rate": "57-63 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "Pleasant, middle-aged lady. Alert, oriented, no acute distress.",
+                "HEENT": "Sclera anicteric, mucous membranes moist, oropharynx clear.",
+                "neck": "Supple, jugular venous pressure not elevated, no lymphadenopathy.",
+                "lungs": "Clear to auscultation bilaterally, no wheezes, rales, or ronchi.",
+                "cardiovascular": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, or gallops.",
+                "abdomen": "Soft, non-distended, tender to palpation in left lower quadrant and left upper quadrant, bowel sounds present, no rebound tenderness or guarding, no organomegaly.",
+                "extremities": "Warm, well perfused, 2+ pulses, no clubbing, cyanosis, or edema."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

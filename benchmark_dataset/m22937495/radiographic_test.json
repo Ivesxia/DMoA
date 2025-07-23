@@ -1,0 +1,17 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Geographic areas of increased density suggestive of focal fat; linear configuration suggests radiation changes; no concerning liver mass; main portal vein patent with hepatopetal flow; no ascites.",
+                "bile_ducts": "No intrahepatic biliary dilation; CBD measures 7 mm.",
+                "gallbladder": "Distended gallbladder; no cholelithiasis, sludge, gallbladder wall edema, or pericholecystic fluid; Sonographic Murphy's sign negative.",
+                "pancreas": "Not visualized due to overlying bowel gas.",
+                "spleen": "Normal echogenicity, measuring 11.1 cm.",
+                "kidneys": "Limited views show no hydronephrosis."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

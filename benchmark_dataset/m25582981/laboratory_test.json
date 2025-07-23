@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Salmonella and Shigella Culture",
+            "date": "Not specified",
+            "findings": "NO SALMONELLA OR SHIGELLA FOUND.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "A left-sided PICC line has been repositioned and now terminates in the mid to upper superior vena cava. The heart is normal in size. Aside from multifocal thin linear opacities suggesting minor multifocal atelectasis, most extensive in the medial right lower lobe, the lungs appear clear. There is a small pleural effusion on the left.",
+            "changes_over_time": "Comparison is made to earlier in the same day."
+        }
+    ]
+}

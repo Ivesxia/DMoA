@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute cholecystitis",
+        "differential_diagnosis": "Bile duct obstruction, Atrial fibrillation, Dementia, Acute encephalopathy, Drug rash",
+        "diagnostic_reasoning": "The patient's presentation of moderate epigastric and right upper quadrant pain, elevated liver function tests, and a CT scan revealing cholelithiasis supported the diagnosis of acute cholecystitis. Ultrasound findings indicated multiple gallstones, and the patient underwent ERCP for further evaluation and treatment."
+    }
+}

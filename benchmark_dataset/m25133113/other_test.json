@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "EKG showed a LBBB, new from previous.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "RUQ ultrasound was notable for CBD dilatation to 7-9mm, without a CBD stone seen.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdominal CT",
+            "date": "Not specified",
+            "findings": "Showed inflammatory stranding around the pancreas.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

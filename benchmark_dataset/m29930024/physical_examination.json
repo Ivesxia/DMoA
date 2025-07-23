@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9 °F (37.2 °C)",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "140/70 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "O2_saturation": "95% room air"
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2 °F (36.8 °C)",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "138/74 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "O2_saturation": "94% room air"
+            },
+            "relevant_findings": {
+                "general": "Obese woman in no acute distress (NAD), comfortable, appropriate, sleepy but arousable to questioning.",
+                "heent": "Normocephalic/atraumatic, pupils equal, round, reactive to light and accommodation (PERRLA), extraocular movements intact (EOMI), sclerae anicteric, moist mucous membranes (MMM), oropharynx clear.",
+                "neck": "Supple, no thyromegaly, no jugular venous distention (JVD), no carotid bruits.",
+                "heart": "Regular rate and rhythm (RRR), no murmurs, rubs or gallops (MRG), normal S1-S2.",
+                "lungs": "Clear to auscultation bilaterally (CTA), no rales, rhonchi or wheezes, good air movement, respirations unlabored.",
+                "abdomen": "Obese, mild epigastric tenderness to palpation, no rebound or guarding, normal bowel sounds, do not appreciate organomegaly but examination limited by obesity.",
+                "extremities": "Warm, well-perfused (WWP), 2+ peripheral pulses.",
+                "neurological": "Awake, alert and oriented x3, cranial nerves II-XII grossly intact, fluent speech.",
+                "psychological": "Appropriate affect."
+            },
+            "changes_over_time": "Nausea and diffuse abdominal pain improved after treatment."
+        }
+    ]
+}

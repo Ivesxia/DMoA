@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Minimal perihepatic ascites, with no drainable fluid collection in the right or left lower quadrant.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

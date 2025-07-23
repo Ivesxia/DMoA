@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "afebrile",
+                "heart_rate": "stable",
+                "blood_pressure": "stable",
+                "respiratory_rate": "unlabored"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress",
+                "HEENT": "No scleral icterus, mucous membranes moist",
+                "cardiovascular": "Regular",
+                "pulmonary": "Unlabored",
+                "abdominal": "+ RLQ tenderness, focal + rebound, + guarding, + rosvigs, negative psoas, negative obturator, no palpable masses",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

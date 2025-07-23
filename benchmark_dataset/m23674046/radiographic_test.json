@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "A heterogeneous mass measuring 5.1 x 4.4 x 3.7 cm centered over the second portion of the duodenum, displacing the pancreatic head and duodenal lumen. The mass shows peripheral enhancement. There is a 6 mm T2 hyperintense cystic structure in the tail of the pancreas likely representing a side branch IPMN. The liver shows a 7 mm T2 hyperintensity, likely a biliary hamartoma. Multiple tiny layering gallstones are noted in the gallbladder. The kidneys and adrenal glands are normal bilaterally, with a 7 mm T2 hyperintensity in the left kidney likely a simple cyst.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT A/P",
+            "date": "Not specified",
+            "findings": "A 4 cm mass in the pancreatic head thought to be encasing the bowel, concerning for pancreatic cancer, with mild stranding around the pancreatic head and multiple small gallstones. No evidence of obstruction or liver lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

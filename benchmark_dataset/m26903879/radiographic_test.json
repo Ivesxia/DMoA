@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild dependent atelectasis at the lung bases bilaterally; normal liver, gallbladder, spleen, adrenal glands, and pancreas; tiny renal hypodensities, atherosclerotic calcification along the abdominal aorta without aneurysmal dilatation; normal stomach and duodenum; no evidence of ileus or obstruction in small bowel; colonic diverticulosis without acute diverticulitis; stable uterine fibroid; no free fluid or free air in the pelvis; stable Grade 1 anterolisthesis of L4 on L5; bones are demineralized.",
+            "changes_over_time": "Stable appearance of tiny renal hypodensities and uterine calcified fibroid compared to prior study."
+        },
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "Within normal limits.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute onset abdominal pain",
+        "history_of_present_illness": "The patient reports awakening from sleep due to abdominal pain this morning, initially similar to GERD symptoms, now with right lower quadrant pain and associated nausea/vomiting. She also experienced subjective fevers at home.",
+        "past_medical_history": "HPylori s/p triple therapy",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CTU (ABD/PEL) W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix contains two appendicoliths and demonstrates slightly hyperemic wall. The diameter is enlarged measuring 9 mm. There is surrounding stranding with mild haziness in the mesentery, particularly worse in the right lower quadrant adjacent to the appendix.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Laboratory Test for Electrolytes or Metabolic Panel",
+            "date": "Not specified",
+            "findings": "2.3 mmol/L",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

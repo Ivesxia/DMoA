@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Transvaginal ultrasound",
+            "date": "Not specified",
+            "findings": "Transvaginal sonogram for the purposes of transvaginal diverticular abscess drainage.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Lower Thorax: The lung bases are clear with no pleural effusion; Liver: Focal fat in hepatic segment 4, otherwise homogeneous; No intrahepatic or extrahepatic biliary ductal dilatation; Normal gallbladder with no sludge or stone; Pancreas homogeneous in signal with no lesions; Normal spleen size; Normal adrenal glands; Normal kidneys with no hydronephrosis; Normal caliber bowel without obstruction; No mesenteric or retroperitoneal lymphadenopathy; No thrombosis or aneurysm in vasculature; 1.0 cm T2 hyperintense heterogeneously enhancing lesion in the anterior abdominal wall suggestive of resolving infectious/collection.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric abdominal pain, nausea, vomiting, and diarrhea.",
+        "history_of_present_illness": "Symptoms begun one day prior to admission with epigastric abdominal pain, nausea, vomiting (non-bloody, non-bilious), and diarrhea (non-bloody, brown, watery).",
+        "past_medical_history": "Type ___ DM (diet controlled), HTN, Left breast CA s/p lumpectomy, Gastric cancer - Stage III, s/p gastrectomy, GERD, osteoporosis, arthritis, tinnitus, Fe deficient anemia, cataract.",
+        "family_history": "Mother died from unspecified cancer, father died of natural causes, sister has Type ___ DM, no family history of CAD.",
+        "social_history": "Not specified."
+    }
+}

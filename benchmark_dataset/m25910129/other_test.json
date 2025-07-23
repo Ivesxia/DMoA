@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Diffuse thickening of the gallbladder with no stones and small pericholecystic fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Gallbladder appears similar noting some distension and chronic wall thickening. Pericholecystic fat stranding also appears similar. Extensive lobulated peripancreatic fluid collections appear unchanged.",
+            "changes_over_time": "In comparison to the prior CT performed 2 days earlier, the appearance of the gallbladder is similar. The extent of the peripancreatic fluid collections remains unchanged."
+        }
+    ]
+}

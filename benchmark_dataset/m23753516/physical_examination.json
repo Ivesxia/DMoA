@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.5°F",
+                "blood_pressure": "122/78 mmHg",
+                "heart_rate": "76 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "90% room air"
+            },
+            "relevant_findings": {
+                "general_appearance": "pleasant, comfortable, NAD, non-toxic, elderly",
+                "eyes": "PERLLA, EOMI, no conjunctival injection, anicteric",
+                "ENT": "MMM, op without exudate or lesions, no supraclavicular or cervical lymphadenopathy, JVP to cm, no carotid bruits, no thyromegaly or thyroid nodules",
+                "respiratory": "minimal crackles at bases",
+                "cardiovascular": "RR, S1 and S2 wnl, systolic murmur",
+                "gastrointestinal": "nd, +b/s, soft, nt",
+                "musculoskeletal_extremities": "no edema",
+                "skin_nails": "warm, no rashes/no jaundice",
+                "neurological": "AAOx3, CN II-XII intact, strength throughout, no asterixis, no pronator drift, fluent speech",
+                "psychiatric": "pleasant, appropriate affect",
+                "heme_lymph": "no cervical or supraclavicular lymphadenopathy",
+                "GU": "no catheter in place"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

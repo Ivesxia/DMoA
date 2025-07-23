@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopic retrograde cholangiopancreatography (ERCP)",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is homogenous in echotexture without discrete mass or lesion. No intrahepatic biliary ductal dilatation. Multiple mobile gallstones identified in the gallbladder, which is not distended and there is no pericholecystic fluid. Gallbladder wall appears thickened in some images but normal in others, likely related to the non-distended state. Common bile duct measures 4 mm and is not dilated.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission ___",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "108 bpm",
+                "blood_pressure": "154/98 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "Constitutional": "uncomfortable",
+                "HEENT": "Normocephalic, atraumatic, Pupils equal, round and reactive to light, MMM",
+                "Chest": "Clear to auscultation",
+                "Cardiovascular": "Normal first and second heart sounds, Regular Rate and Rhythm",
+                "Abdominal": "Soft, RUQ tenderness, +murphys, no r/g",
+                "Extremities/Back": "No cyanosis, clubbing or edema",
+                "Skin": "Warm and dry",
+                "Neuro": "Speech fluent",
+                "Psych": "Normal mentation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

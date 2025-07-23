@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute abdominal pain.",
+        "history_of_present_illness": "Symptoms began less than one day prior to presentation. Patient was hypotensive with a concerning abdominal exam at transfer, presenting with confusion and complaints of abdominal pain. No nausea or vomiting reported.",
+        "past_medical_history": "History of ESRD, CAD, aortic stenosis, atrial fibrillation on Coumadin, chronic renal insufficiency (CRI), hypertension (HTN), prior exploratory laparotomy, and knee replacements.",
+        "family_history": "Father died from lung cancer; mother died from 'old age.'",
+        "social_history": "Not specified."
+    }
+}

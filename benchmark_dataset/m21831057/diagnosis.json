@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with abdominal pain that migrated from the RUQ to the RLQ, accompanied by slight nausea but no vomiting. A CT scan of the abdomen revealed a fluid-filled appendix measuring 6 mm with multiple appendicoliths and slight inflammatory stranding in the right lower quadrant, supporting the diagnosis of appendicitis."
+    }
+}

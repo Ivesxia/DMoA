@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4 °F",
+                "heart_rate": "61 bpm",
+                "blood_pressure": "112/64 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "NAD, A&Ox3",
+                "HEENT": "NC/AT, EOMI",
+                "cardiovascular": "RRR",
+                "pulmonary": "easy work of breathing on RA, normal chest rise",
+                "abdominal": "soft, nondistended, tender to deep palpation in right periumbilical and lower quadrant. No rebound, guarding, nonperitoneal, no masses or hernias appreciated.",
+                "extremities": "warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

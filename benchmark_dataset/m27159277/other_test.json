@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood cultures",
+            "date": "Not specified",
+            "findings": "Positive for GNRs.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver appears mildly coarsened without focal lesion. The gallbladder contains multiple shadowing stones but does not appear distended. There are areas of ring-down artifacts along the anterior wall, raising question of adenomyomatosis. There is no pericholecystic fluid. The common duct measures 4 mm. There is normal hepatopetal flow in the portal vein.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

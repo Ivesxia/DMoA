@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laparoscopic appendectomy",
+            "date": "Not specified",
+            "findings": "Perforated gangrenous appendicitis, GNR bacteremia, GNR peritonitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "2+ (1-5 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. 2+ (1-5 per 1000X FIELD): GRAM NEGATIVE ROD(S).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Fluid-filled and dilated appendix measuring 1.3 cm with hyperenhancing wall. Moderate intraperitoneal and pelvic free fluid with enhancement in the right lower quadrant. No evidence of perforation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

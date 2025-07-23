@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP with Wallflex fully covered biliary metal stent",
+            "date": "Not specified",
+            "findings": "Stent is in place in the common bile duct.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "Marked intrahepatic biliary ductal dilatation; gallbladder distended with minimal wall thickening and a small 4-mm polyp noted along its wall. Normal hepatopetal flow within the main portal vein.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits. There is no evidence of pleural or pericardial effusion. The liver demonstrates homogenous attenuation throughout with no focal lesions. The gallbladder, pancreas, spleen, right and left adrenal glands, kidneys, stomach, small bowel, colon, and rectum are within normal limits. A calcific density is present in the appendiceal neck with marked distal fluid-filled dilatation measuring up to 2.3 cm, mild intraluminal irregularity may represent mucosal sloughing. Periappendiceal stranding is minimal. The urinary bladder and distal ureters are unremarkable with no free fluid in the pelvis. The uterus is of normal size, and an IUD appears well positioned. There is no retroperitoneal or mesenteric lymphadenopathy. No abdominal aortic aneurysm or atherosclerotic disease is noted. No evidence of worrisome osseous lesions or acute fracture.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

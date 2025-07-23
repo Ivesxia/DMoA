@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP with cholangiogram and stent placement",
+            "date": "Not specified",
+            "findings": "Stent present in the common bile duct, inflammatory changes in the peripancreatic mesentery consistent with status post ERCP, small amount of free fluid in the upper abdomen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Right basal effusion along with atelectasis, stable tiny hypervascular focus in the right lobe of the liver, enlarged spleen measuring 19 cm, stable thickening of adrenal glands, and ventral abdominal hernia containing mesenteric fat.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

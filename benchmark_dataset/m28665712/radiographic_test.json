@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified.",
+            "findings": "The gallbladder is inflamed, consistent with known gangrenous cholecystitis. No pleural or pericardial effusion. A calcified granuloma is noted at the right lung base. Left-sided pneumobilia is consistent with recent ERCP. No focal lesions in the liver, pancreas, spleen, and normal renal findings. Enlarged portacaval node measuring up to 1.6 cm likely reactive. Severe atherosclerotic calcifications noted throughout the abdominal aorta, which is ectatic and measuring up to 2.5 cm. Unchanged compression deformity of L1.",
+            "changes_over_time": "This appears overall similar compared to the recent CT performed on ____."
+        }
+    ]
+}

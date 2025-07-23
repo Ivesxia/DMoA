@@ -1,0 +1,54 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test (LFT)",
+            "date": "Not specified",
+            "findings": {
+                "ALT": 347,
+                "AST": 393,
+                "lipase": 1632,
+                "alk phos": 395,
+                "Tbili": 2.2,
+                "INR": 3.1,
+                "reference_range": {
+                    "ALT": "Normal range not specified",
+                    "AST": "Normal range not specified",
+                    "lipase": "Normal range not specified",
+                    "alk phos": "Normal range not specified",
+                    "Tbili": "Normal range not specified",
+                    "INR": "Not specified"
+                },
+                "conclusion": "Elevated levels indicating possible liver dysfunction or injury."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Chest",
+            "date": "Not specified",
+            "findings": {
+                "lymphadenopathy": "None",
+                "masses": "None",
+                "heart_size": "Normal",
+                "biapical_scarring": "Minimal with mild bronchiectasis",
+                "biliary_dilatation": "Moderate intrahepatic and significant extrahepatic, common bile duct measuring up to 1.5 cm",
+                "gallbladder": "Moderately filled without wall edema",
+                "pancreas": "Slightly edematous with no necrosis",
+                "spleen": "Multiple hypodensities, possibly cysts",
+                "free_fluid": "Trace noted within the pelvis"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": {
+                "result": "NO GROWTH",
+                "reference_range": {
+                    "normal_growth": "Not specified"
+                },
+                "conclusion": "No bacterial growth detected."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

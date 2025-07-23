@@ -1,0 +1,10 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "470.0 IU/L (outside normal range; normal range is 0.0 - 100.0 IU/L)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

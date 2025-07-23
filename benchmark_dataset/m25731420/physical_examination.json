@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "69 bpm",
+                "blood_pressure": "119/80 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "O2_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x3, no apparent distress",
+                "cardiovascular": "Regular rate and rhythm, no murmur",
+                "respiratory": "Clear to auscultation bilaterally",
+                "abdominal": "Soft, tender to deep palpation in right lower quadrant, non-distended, positive bowel sounds",
+                "extremities": "Warm with 2+ pulses"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "CT_scan": "Appendix is fluid-filled, dilated up to 10 mm with thickened and hyperemic walls; mild adjacent vaginal thickening.",
+                "gastrointestinal": "Proximal appendix is air-filled, no appendicolith or periappendiceal fluid collection.",
+                "other": "All other abdominal and pelvic structures are within normal limits."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

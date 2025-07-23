@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Minimal dependent atelectasis of the lung bases. No pericardial or pleural effusion. Heart size is normal. Liver density is within normal limits. No focal hepatic mass or bile duct dilation. A punctate gallstone within an otherwise normal gallbladder. Normal pancreas and spleen. Normal adrenal glands. Kidneys normal in size; a 7.5 x 7.2 cm simple cyst and a 13 mm hypodense lesion on the left kidney. A 7.3 x 6.4 x 6.6 cm unorganized focus of phlegmon and fluid in the right lower quadrant, with adjacent prominent ileocecal lymph nodes. Bladder mildly distended and normal. Prostate size within normal limits. No significant lymphadenopathy or osseous lesions.",
+            "changes_over_time": "Minimally enlarged since the reference CT examination."
+        }
+    ]
+}

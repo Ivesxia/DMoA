@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix dilated to 8 mm, fluid-filled; moderate circumferential wall thickening and hyperenhancement; mild surrounding fat stranding and simple free fluid in the right lower quadrant. Kidneys enhance and excrete contrast promptly and symmetrically, without masses or hydronephrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbial culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Chemistry Test",
+            "date": "Not specified",
+            "findings": "0.9 mmol/L (value with reference range 0.5 - 2.0).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

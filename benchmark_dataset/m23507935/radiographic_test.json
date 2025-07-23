@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": {
+                "lower_thorax": "Lung bases are clear. Heart size is normal.",
+                "liver": "Moderate to severe patent steatosis with a fat fraction of 22%. No focal hepatic lesions.",
+                "biliary": "Gallbladder is surgically absent. No intra or extrahepatic biliary duct dilation. Calcification in cystic duct remnant.",
+                "pancreas": "Atrophic pancreas with low T1 signal progressive enhancement. Mild irregularity of a non-dilated pancreatic duct with multiple ectatic side branches. Low signal intensity stranding adjacent to pancreatic tail, significantly improved compared to prior CT.",
+                "spleen": "Normal in size and signal intensity.",
+                "adrenal_glands": "Unremarkable right and left adrenal glands.",
+                "kidneys": "Symmetric in size without focal lesion. No hydronephrosis.",
+                "gastrointestinal_tract": "Postsurgical changes from Roux-en-Y gastric bypass. No bowel obstruction.",
+                "lymph_nodes": "Prominent porta hepatic lymph node measuring 0.9 cm is unchanged.",
+                "vasculature": "No abdominal aortic aneurysm. Replaced left hepatic artery. Portal vein is patent. Splenic vein is attenuated and likely chronically thrombosed.",
+                "osseous_and_soft_tissue_structures": "No worrisome bony lesion. Fat-containing umbilical hernia."
+            },
+            "changes_over_time": "Low signal intensity stranding adjacent to pancreatic tail has significantly improved compared to prior CT and represents chronic sequela of prior conditions."
+        }
+    ]
+}

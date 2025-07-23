@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Markedly dilated small bowel loops with air-fluid levels, 2 new transition points in the right mid abdomen and mid abdomen, marked thickening of the distal ileal wall possibly due to inflammatory changes. Presence of a perforated appendix with an extraluminal appendix. Pelvic rim enhancing collections, larger one in the left hemipelvis and a smaller in the right hemipelvis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Drainage of Peritoneal Cavity with Drainage Device, Percutaneous Approach",
+            "date": "Not specified",
+            "findings": "Pelvic abscess noted, with drainage required.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

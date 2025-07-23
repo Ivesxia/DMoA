@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The gallbladder is filled with sludge and stones. The gallbladder wall is irregular in appearance and shows few areas of mucosal disruption. Mild pericholecystic stranding is identified. Following contrast administration, there is irregular enhancement of the gallbladder wall suggestive of impending gangrenous changes. A small stone is seen in the cystic duct obstructing the cystic duct and gallbladder. The liver shows slight heterogeneous enhancement of segment 4 and 5 due to increased inflammation in the gallbladder.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

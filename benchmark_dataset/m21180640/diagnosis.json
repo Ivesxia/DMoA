@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute pancreatitis",
+        "differential_diagnosis": "extensive small cell lung cancer",
+        "diagnostic_reasoning": "The patient presented with worsening abdominal pain and anorexia, with laboratory findings showing elevated lipase, which is consistent with acute pancreatitis. The history of small cell lung cancer was considered as a possible differential in the context of her symptoms and previous treatment, but the acute presentation and laboratory results pointed towards pancreatitis."
+    }
+}

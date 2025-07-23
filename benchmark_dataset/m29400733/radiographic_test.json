@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": {
+                "lung": "The lung bases are grossly clear. No pleural or pericardial effusion.",
+                "liver": "Normal size with smooth contour. An 8mm slightly T2 hyperintense focus likely represents a summation shadow versus atypical hemangioma or granuloma.",
+                "biliary": "No significant intra or extrahepatic biliary ductal dilatation.",
+                "pancreas": "Normal signal intensity and bulk. A punctate T2 hyperintense nonenhancing focus in the tail of the pancreas is most compatible with a side branch IPMN.",
+                "spleen": "Normal in size and homogeneous in signal characteristics.",
+                "adrenal glands": "Normal in size and shape.",
+                "kidneys": "Normal in size with several punctate T2 hyperintense non-enhancing lesions consistent with cysts.",
+                "gastrointestinal tract": "Moderate size hiatal hernia. Normal imaged small and large bowel loops.",
+                "lymph nodes": "Enlarged nodes in the porta hepatis, measuring up to 1.7 x 3.8 cm, unchanged from prior.",
+                "vasculature": "Abdominal aorta normal.",
+                "osseous": "No concerning osseous lesions. Several T2 hyperintense hemangiomas in thoracic spine. Multiple chronic compression deformities involving T11-L1, L3, and L5."
+            },
+            "changes_over_time": "Lymph nodes in the porta hepatis are unchanged from prior."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits. There is a small pericardial effusion, likely physiologic, unchanged in volume from prior study. The liver, pancreas, spleen, and adrenal glands are normal with no lesions. Kidneys show small cortical hypodensities, stable, likely cysts. A large anterior abdominal wall hernia contains loops of nonobstructed bowel. Hypodense areas in the pelvis concern for abscesses with some fluid present and thickening of the vaginal wall.",
+            "changes_over_time": "Cortical hypodensities within the kidneys are stable, likely cysts, and the large abdominal wall hernia appears to be unchanged from prior examination."
+        }
+    ]
+}

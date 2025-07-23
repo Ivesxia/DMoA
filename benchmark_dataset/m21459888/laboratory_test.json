@@ -1,0 +1,33 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory tests at OSH",
+            "date": "Not specified",
+            "findings": "Labs at OSH were within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": {
+                "Liver": "Transient mosaic enhancement of the liver parenchyma, mild periportal edema, no focal liver lesions, trace upper abdominal ascites.",
+                "Biliary": "Radiodense stone in the gallbladder neck is now in the gallbladder fundus, mild gallbladder wall edema, no intra or extrahepatic biliary dilatation.",
+                "Pancreas": "Normal in signal and bulk, no peripancreatic stranding.",
+                "Spleen": "Normal size measuring 10 cm.",
+                "Adrenal Glands": "Unremarkable.",
+                "Kidneys": "Enhance and excrete contrast symmetrically, no hydronephrosis or masses.",
+                "Gastrointestinal Tract": "Small and large bowel normal in caliber, fluid in transverse mesocolon, hyperenhancing mucosa of transverse colon suggesting mild transverse colitis.",
+                "Lymph Nodes": "No retroperitoneal or mesenteric lymphadenopathy.",
+                "Vasculature": "Normal caliber abdominal aorta, patent portal and hepatic veins.",
+                "Osseous and Soft Tissue Structures": "Normal bone marrow signal."
+            },
+            "changes_over_time": "Compared to the outside hospital CT, the radiodense stone in the gallbladder neck has moved to the gallbladder fundus and the gallbladder is no longer distended."
+        },
+        {
+            "procedure_name": "Laboratory test for serum level",
+            "date": "Not specified",
+            "findings": "3.3 mg/dL (Reference range: 2.7 - 4.5 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

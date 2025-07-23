@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute appendicitis.",
+        "differential_diagnosis": "Not specified.",
+        "diagnostic_reasoning": "The patient presented with abdominal pain that migrated to the right lower quadrant, which is characteristic of acute appendicitis. Physical examination showed moderate tenderness in the right lower quadrant over McBurney's point. Imaging with CT abdomen revealed a mildly dilated appendix, consistent with early appendicitis, and the absence of alternative significant findings that could explain the symptoms."
+    }
+}

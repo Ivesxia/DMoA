@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CTA CHEST W&W/O C&RECONS, NON-CORONARY",
+            "date": "Not specified.",
+            "findings": "The thoracic aorta is normal without evidence of aneurysm or dissection. The main pulmonary artery has a normal caliber. The lobar, segmental, and subsegmental pulmonary arteries are normal without filling defect. Atherosclerotic calcification is seen in the left anterior descending coronary artery. The heart is otherwise unremarkable. The central airways are patent. Bibasilar atelectasis is present, left greater than right, increased since ___. No pulmonary consolidation or pleural effusion is identified. No pneumothorax. The chest wall is unremarkable. No focal lytic or sclerotic lesion concerning for malignancy.",
+            "changes_over_time": "Bibasilar atelectasis is present, left greater than right, increased since ___."
+        }
+    ]
+}

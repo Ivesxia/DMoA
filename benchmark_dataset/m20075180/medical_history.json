@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Worsening lower abdominal pain for past week and a half.",
+        "history_of_present_illness": "The patient has experienced worsening lower abdominal pain for the past week and a half. She had diarrhea earlier in the week but is currently feeling constipated. She denies nausea and vomiting but reports having chills. Upon presentation, she was hypotensive and in atrial fibrillation, leading to resuscitation with 7 liters of crystalloid.",
+        "past_medical_history": "Chronic atrial fibrillation, hypertension. Past surgical history includes tonsillectomy, appendectomy, D&C, fibroid ablation, and recent right breast lumpectomy for DCIS.",
+        "family_history": "Aunt with breast cancer, father with lung cancer, brother with prostate cancer.",
+        "social_history": "Not specified."
+    }
+}

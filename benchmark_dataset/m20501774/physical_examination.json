@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.0 °F",
+                "blood_pressure": "134/54 mmHg",
+                "heart_rate": "64 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "96% on RA"
+            },
+            "relevant_findings": {
+                "physical_exam": {
+                    "general": "Pleasant elderly female in no distress, laying in bed",
+                    "HEENT": "No scleral icterus, PERRL, EOMI, tongue slightly dry and midline, OP clear",
+                    "neck": "Supple, no palpable lymphadenopathy, no meningismus",
+                    "CV": "RRR, systolic murmur at LUSB",
+                    "lungs": "Clear bilaterally, no wheezing or crackles",
+                    "abdomen": "Slightly distended but soft, + BS, tender in epigastrium, no appreciable masses",
+                    "extremities": "Warm, DP pulses 2+ bilaterally, no peripheral edema",
+                    "skin": "No rash",
+                    "neuro": "Alert & oriented X 3, speech clear and able to complete full sentences, face symmetric, moving all extremities without difficulty"
+                },
+                "date": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

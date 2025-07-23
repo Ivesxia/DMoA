@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Liver contains multiple hypodensities, likely cysts. Pancreas notable for diffuse ductal dilation. Appendix shows mucosal thickening and hyperenhancement, slightly enlarged measuring 10 mm in diameter. Small amount of focal periependymal fluid, no evidence of appendiceal rupture.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbial culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

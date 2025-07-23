@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits. No evidence of pleural or pericardial effusion. The appendix is hyperenhancing, with mucosal thickening, measuring a maximal diameter of 11 mm, with minimal surrounding inflammatory change, concerning for uncomplicated early appendicitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

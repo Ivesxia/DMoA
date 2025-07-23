@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain and nausea",
+        "history_of_present_illness": "Sudden onset of abdominal pain this morning, with a history of gallstones and complications such as pancreatitis and cholangitis. Patient was in the Emergency Department for evaluation after being transferred from another facility.",
+        "past_medical_history": "COPD, mild dementia, hypertension (HTN), hyperlipidemia (HLD), arthritis, coronary artery disease (CAD) status post stent placement, history of gallstones, pancreatitis, choledocholithiasis, cholangitis, and previous ERCP with biliary stent.",
+        "family_history": "Diabetes and mother with heart problems.",
+        "social_history": "Not specified"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Limited images of the lung bases demonstrate small bilateral pleural effusions, minimally increased from the prior exam. There is consolidation at the left lung base, likely atelectasis. Numerous gallstones were noted, with a distended gallbladder measuring 6.1 cm and new wall thickening. A stable thick-walled fluid- and gas-containing collection in the splenectomy bed measuring 3.7 x 3.6 cm. A recurrent fluid- and gas-containing collection in the left lower quadrant measuring 4.7 x 3.5 cm. No biliary dilatation or evidence of oral contrast suggesting a fistula.",
+            "changes_over_time": "Small bilateral pleural effusions minimally increased. Gallbladder distention is new, with wall thickening noted. Thick-walled fluid- and gas-containing collection in the splenectomy bed stable in size (previously 3.8 x 3.8 cm)."
+        }
+    ]
+}

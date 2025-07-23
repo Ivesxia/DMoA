@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "160-180/70-80 mmHg",
+                "heart_rate": "40-60 bpm",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Appearing older than stated age, and in discomfort",
+                "lungs": "Clear to auscultation bilaterally",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/rubs/gallops",
+                "abdomen": "Positive epigastric tenderness, no rebound or guarding",
+                "extremities": "No edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Lung bases are clear. Heart size within normal limits. Normal appearance of the gastroesophageal junction. No suspicious liver lesions identified. There is an 8mm hypodensity in Segment 4b of the liver. Peripancreatic inflammation involving the head and body of the pancreas with heterogeneous enhancement. Small-to-moderate amount of peripancreatic fluid. 2.2 x 8-mm filling defect in the third portion of the duodenum. Normal appearance of adrenals, spleen, and kidneys with an 8-mm hypodense lesion in the left interpolar kidney. Mild colonic wall thickening on the right related to adjacent inflammation and fluid. No free air. No lymphadenopathy by CT size criteria.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

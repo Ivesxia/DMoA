@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Amylase",
+            "date": "Not specified",
+            "findings": "Amylase of 136 (normal range: 94.0 - 250.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase of 154 (normal range: 94.0 - 250.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Normal pancreas, stable liver lesions characterized as hemangiomas, percutaneous cholecystostomy tube noted, no biliary ductal dilatation.",
+            "changes_over_time": "1.5 cm cyst in left adnexa stable since previous study."
+        }
+    ]
+}

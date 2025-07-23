@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "100.1°F",
+                "heart_rate": "83 bpm",
+                "blood_pressure": "113/57 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": "NAD RRR CTAB soft, hypoactive bowel sounds, appropriately tender abdomen, drain site clean, non-erythematous, no drainage. Extremities warm, well perfused, no edema.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

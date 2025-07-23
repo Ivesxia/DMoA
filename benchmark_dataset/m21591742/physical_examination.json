@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "heart_rate": "77 bpm",
+                "blood_pressure": "134/61 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "96% RA"
+            },
+            "relevant_findings": {
+                "general": "No acute distress (NAD), alert and oriented x3",
+                "cardiac": "Regular rate and rhythm (RRR)",
+                "pulmonary": "Good air entry bilaterally (GBAE), unlabored respirations",
+                "abdominal": "Soft, mildly tender in left upper quadrant (LUQ) and epigastrum, non-distended",
+                "musculoskeletal": "Strength upper extremities normal, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

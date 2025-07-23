@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "liver": "homogenous attenuation with decreased overall attenuation and no focal lesions",
+                "gallbladder": "within normal limits, without stones or gallbladder wall thickening",
+                "pancreas": "normal attenuation without focal lesions or ductal dilatation",
+                "spleen": "normal size and attenuation without focal lesions",
+                "adrenals": "normal in size and shape",
+                "kidneys": "normal and symmetric size with normal nephrogram, no stones or renal lesions",
+                "small bowel": "normal caliber, wall thickness and enhancement, no obstruction",
+                "appendix": "enlarged measuring up to 12 mm with surrounding fat stranding and hyper enhancing walls",
+                "cecum": "mildly edematous",
+                "lymph nodes": "adjacent prominent lymph nodes likely reactive",
+                "free air": "none identified"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

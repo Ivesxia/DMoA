@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Serum creatinine value of 2.7. Estimated GFR = 24 if non African-American (mL/min/1.73 m2); GFR = 30 if African-American (mL/min/1.73 m2). GFR<60 indicating Chronic Kidney Disease.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Vibrio culture",
+            "date": "Not specified",
+            "findings": "No Vibrio found.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdomen Radiograph",
+            "date": "Not specified",
+            "findings": "AP and upright supine radiographs show multiple dilated predominantly small bowel loops with multiple air-fluid levels consistent with ileus. Oral contrast is seen in small bowel loops and the cecum. No free intra-abdominal air noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

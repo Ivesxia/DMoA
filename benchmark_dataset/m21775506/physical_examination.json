@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8 °F",
+                "heart_rate": "66 bpm",
+                "blood_pressure": "153/87 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "alert and interactive, comfortable, no acute distress",
+                "HEENT": "PERRL, anicteric, conjunctiva pink, oropharynx without lesion or exudate, moist mucus membranes",
+                "lymphatic": "no anterior/posterior cervical, supraclavicular adenopathy",
+                "cardiovascular": "Regular rate and rhythm without murmurs, rubs, or gallops",
+                "lungs": "clear to auscultation bilaterally without rhonchi, wheezes, or crackles",
+                "GI": "soft, diffuse tenderness to palpation most pronounced at epigastrium, without rebounding or guarding, nondistended with normal active bowel sounds, no hepatomegaly",
+                "extremities": "no clubbing, cyanosis, or edema",
+                "GU": "no foley",
+                "skin": "no rashes, petechia, lesions, or echymoses; warm to palpation",
+                "neurological": "alert and interactive, strength and sensation grossly intact",
+                "psychological": "normal mood and affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

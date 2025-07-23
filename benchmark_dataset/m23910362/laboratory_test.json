@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The total DLP is 492.56 mGy-cm. The liver enhances homogeneously without focal lesion or dilatation. The appendix is thickened to a maximum diameter of 1.2 cm with wall thickening and periappendiceal stranding.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test for Valuestr",
+            "date": "Not specified",
+            "findings": "1.8 mmol/L (within 0.5 - 2.0 range).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

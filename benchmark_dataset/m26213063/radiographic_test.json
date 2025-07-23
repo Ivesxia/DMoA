@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Normal flow and compressibility of the left internal jugular, subclavian, brachial, and axillary veins. Heterogeneous echogenicity centrally within the left basilic vein consistent with a thrombus, extending from the antecubital fossa to just before its junction with the axillary vein.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

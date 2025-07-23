@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the Head",
+            "date": "Not specified",
+            "findings": "A single metastasis in the right frontoparietal region, which measures 1.6 x 2.1 cm, smaller than the prior examination (3.5 x 3.5 cm). Lesser degree of surrounding vasogenic edema. No new metastases identified.",
+            "changes_over_time": "The metastasis decreased in size from 3.5 x 3.5 cm to 1.6 x 2.1 cm."
+        }
+    ]
+}

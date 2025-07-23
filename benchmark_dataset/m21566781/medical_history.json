@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain for 2 days.",
+        "history_of_present_illness": "The abdominal pain initially started in the lower abdomen and then localized to the right lower quadrant (RLQ). The patient experienced a low-grade fever yesterday. There were no symptoms of nausea or vomiting, no change in bowel habits, but noted pain with urination.",
+        "past_medical_history": "Asthma, depression, obesity, neuropathy.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

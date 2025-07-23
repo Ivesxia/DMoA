@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver demonstrates homogenous attenuation throughout with scattered subcentimeter hepatic hypodensities suggestive of cysts or hamartomas. The pancreas and spleen show normal size and attenuation. Kidneys are normal and symmetric with no evidence of focal lesions. The right hemiabdomen shows a fluid-filled tubular structure extending from the base of the cecum measuring 15 mm in diameter with substantial surrounding fat stranding and trace free fluid. No evidence of pneumoperitoneum or abscess.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lab test",
+            "date": "Not specified",
+            "findings": "8.0 mg/dL (within normal range 8.4 - 10.3 mg/dL) with no growth.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

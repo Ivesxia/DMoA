@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Melena, shortness of breath (SOB), and weakness.",
+        "history_of_present_illness": "The patient experienced a single episode of black tarry stool yesterday. He has noted irregular bowels recently with several days of frequent soft, loose stools, most notably on the day of admission. He reported several months of looser stools in the context of treatment for end-stage renal disease (ESRD) and has also experienced intermittent stomach pains with cramping pain on eating and at times at night since starting medications.",
+        "past_medical_history": "Hypertension (HTN), Hyperlipidemia (HLD), Chronic Obstructive Pulmonary Disease (COPD), Chronic Kidney Disease (CKD) Stage V, End Stage Renal Disease (ESRD).",
+        "family_history": "Family history of diabetes in mother, cardiac history in mother, lung cancer in father and two brothers.",
+        "social_history": "Not specified."
+    }
+}

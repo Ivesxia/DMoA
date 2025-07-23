@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "afebrile",
+                "heart_rate": "sinus tachy",
+                "blood_pressure": "normotensive",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "No acute distress (NAD)",
+                "HEENT": "Mucous membranes moist (MMM), oropharynx (OP) clear",
+                "cardiac": "S1+, S2+, sinus tachycardia, no murmurs/rubs/gallops (M/R/G)",
+                "lung": "Clear to auscultation bilaterally (CTA b/l)",
+                "abdomen": "Obese, soft, non-distended (ND), tenderness to palpation (TTP) worse in left lower quadrant (LLQ), bowel sounds present (+BS)",
+                "extremities": "No edema",
+                "neurological": "Alert and oriented times three (AAOx3), cranial nerves II-XII intact, strength intact in upper and lower extremities grossly"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

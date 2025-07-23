@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Demonstrated a 1.5 cm long stricture of the CBD at the level of the cystic duct. Brushings obtained demonstrated highly atypical epithelial cells in a background of unremarkable ductal cells, suspicious for adenocarcinoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cholangiogram",
+            "date": "Not specified",
+            "findings": "Noted no filling defects and a patent CBD stent.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bile duct brushings",
+            "date": "Not specified",
+            "findings": "Concerning for adenocarcinoma, likely cholangiocarcinoma.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

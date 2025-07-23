@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "There is a 1-2 mm subpleural pulmonary nodule in the right middle lobe, which has been stable since ___. The appendix is dilated to 10 mm and demonstrates a thickened, hyperenhancing wall with adjacent fat stranding, consistent with acute appendicitis. There is no free air or drainable collection.",
+            "changes_over_time": "The pulmonary nodule has been stable since ___."
+        }
+    ]
+}

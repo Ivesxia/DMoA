@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The diagnosis of appendicitis was supported by the patient's 48 hours of abdominal pain that initially was diffuse but localized to the right lower quadrant, worsening with physical activity. CT imaging revealed a dilated appendix of 9 mm with a thickened wall and adjacent fat stranding, consistent with appendicitis."
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Chemistry panel",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Circumferential wall thickening and adjacent fat stranding of the descending colon, concerning for colitis; 1.0 cm rounded hypodensity at the liver dome likely a hepatic cyst or biliary hamartoma; incidental 3 mm right lower lobe pulmonary nodule.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

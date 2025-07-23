@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is fluid-filled measuring up to 1 cm with wall edema. There is periappendiceal fluid. The remainder of the large bowel is unremarkable. There is no free air in the abdomen. No mesenteric or retroperitoneal lymphadenopathy is noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Chemistry",
+            "date": "Not specified",
+            "findings": "3.3 mmol/L (reference range 0.5 - 2.0).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

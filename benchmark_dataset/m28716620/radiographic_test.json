@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": "Hepatic parenchyma appears within normal limits; contour of the liver is smooth; no focal liver mass; main portal vein is patent with hepatopetal flow; no ascites; no intrahepatic biliary dilation; common hepatic duct measures 4 mm; cholelithiasis without gallbladder wall thickening; pancreas appears within normal limits without masses or ductal dilation; normal echogenicity of spleen, measuring 10.0 cm; limited views of right kidney show no hydronephrosis; visualized portions of aorta and IVC are within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

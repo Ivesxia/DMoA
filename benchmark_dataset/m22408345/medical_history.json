@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Severe right lower quadrant pain",
+        "history_of_present_illness": "The patient had severe right lower quadrant pain in ___ and experienced persistent right lower quadrant pain for the next several months, which waxed and waned in severity. He presented with acute right lower quadrant pain several days ago, and a CT revealed a large phlegmon. After initially being treated with IV antibiotics and showing good resolution of symptoms, he resumed experiencing acute abdominal pain earlier this afternoon.",
+        "past_medical_history": "None",
+        "family_history": "Non-contributory",
+        "social_history": "Not specified"
+    }
+}

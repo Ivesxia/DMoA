@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Total bilirubin: 2.6 mg/dL (reference range: 2.7 - 4.5 mg/dL, indicating slightly low result)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdomen Ultrasound (Complete Study)",
+            "date": "Not specified",
+            "findings": "Liver appears normal, no intrahepatic biliary ductal dilation, common bile duct normal at 3 mm, gallbladder contracted with multiple stones, pancreas appears grossly unremarkable, kidneys normal in size, spleen not visualized.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

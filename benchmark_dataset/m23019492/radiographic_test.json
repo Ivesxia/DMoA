@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Improvement in pulmonary edema, now mild; bibasilar atelectasis more pronounced on the left than the right, not significantly changed; no new opacity to suggest pneumonia; no pleural effusion or pneumothorax; calcifications at the aortic arch; moderate cardiomegaly unchanged; no free air below the hemidiaphragms.",
+            "changes_over_time": "The pulmonary edema has improved from previous exam; atelectasis not significantly changed."
+        }
+    ]
+}

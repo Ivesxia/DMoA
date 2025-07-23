@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "PANCREAS US",
+            "date": "Not specified",
+            "findings": "Targeted sonographic imaging of the transplanted pancreas located in the right lower quadrant. The pancreatic duct is not dilated and could not be identified. The head and body of the gland were interrogated. The tail of the gland could not be visualized as it was retrocecal. Normal arterial and venous waveforms are identified within the transplanted pancreas as well as within at least 1 limb of the Y graft. No peripancreatic fluid collections. The pancreas itself appears mildly echogenic.",
+            "changes_over_time": "Reference to the prior CT indicates changes in the visualization of the pancreatic tail."
+        }
+    ]
+}

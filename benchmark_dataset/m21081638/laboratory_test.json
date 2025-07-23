@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC count",
+            "date": "Not specified",
+            "findings": "WBC 21.5 (down from 37.7), L shifted with 3% bands and 1% atypicals",
+            "changes_over_time": "WBC decreased from 37.7 to 21.5"
+        },
+        {
+            "procedure_name": "ALT",
+            "date": "Not specified",
+            "findings": "ALT 534",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "AST",
+            "date": "Not specified",
+            "findings": "AST 931",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bilirubin",
+            "date": "Not specified",
+            "findings": "Bilirubin 2.27, rose to 5.24 later",
+            "changes_over_time": "Bilirubin increased from 2.27 to 5.24"
+        },
+        {
+            "procedure_name": "Albumin",
+            "date": "Not specified",
+            "findings": "Albumin 2.2",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "Alkaline phosphatase 1170",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CA-125",
+            "date": "Not specified",
+            "findings": "CA-125 elevated at 128",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Procalcitonin",
+            "date": "Not specified",
+            "findings": "213.0 pg/mL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

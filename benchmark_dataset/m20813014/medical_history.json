@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Severe abdominal pain and nausea.",
+        "history_of_present_illness": "Patient first experienced abdominal pain 2 days ago, which he attributed to reflux and was alleviated by an unknown medication for GERD. The pain returned the following day, more severe and not relieved by GERD medication, preventing the patient from getting out of bed.",
+        "past_medical_history": "Hypertension, Anxiety.",
+        "family_history": "Father with liver cancer.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "CT of the abdomen shows normal liver enhancement with no focal lesions, patent portal vein, unremarkable gallbladder, spleen, pancreas, and bilateral adrenals. Kidneys show homogeneous enhancement with no hydronephrosis, stones, or masses. No lymphadenopathy in the abdomen. Colon shows a loop of the rectosigmoid with disproportional fat stranding and scattered diverticula, no drainable fluid, or microperforation. Normal appearance of the bladder and uterus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial culture or another unspecified test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

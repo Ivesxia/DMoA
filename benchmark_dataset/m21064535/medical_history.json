@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "New onset abdominal pain.",
+        "history_of_present_illness": "Abdominal pain started 2 days ago. Initially aching in quality, diffuse, and worsened with bearing down. The pain localized to the right lower quadrant (RLQ) but has since improved, becoming minimal at rest and worsening if he bears down. No pain is associated with oral intake; however, the patient reports a poor appetite.",
+        "past_medical_history": "Prior back/neck pain, shingles, inguinal hernia repair at ___ years of age, no complications with general anesthesia.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

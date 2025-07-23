@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "heart_rate": "66 bpm",
+                "blood_pressure": "114/75 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No acute distress. Alert and oriented x3.",
+                "HEENT": "Oropharynx clear, moist mucous membranes.",
+                "cardiovascular": "Regular rate and rhythm.",
+                "pulmonary": "Clear bilaterally.",
+                "abdominal": "Soft, no distention; moderate tenderness in right lower quadrant; no rebound or involuntary guarding; palpable tender mass in right lower quadrant; no shake tenderness.",
+                "extremities": "Warm, well perfused; no edema; 2+ dorsalis pedis pulses bilaterally."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

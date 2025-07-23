@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.7°F",
+                "heart_rate": "110 bpm",
+                "blood_pressure": "130/70 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Obese woman, delayed affect, defers questions to her mother",
+                "chest": "No respiratory distress",
+                "abdomen": "Obese. Well-healed laparoscopy scars. Nontender. Not clear if distended.",
+                "extremities": "Warm"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

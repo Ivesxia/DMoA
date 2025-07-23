@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Nausea, vomiting, abdominal pain.",
+        "history_of_present_illness": "Patient initially developed nausea/vomiting and generalized abdominal pain along with fatigue. After a few days, he went to his PCP with elevated LFTs and was diagnosed with acute hepatitis A. However, the nausea/vomiting and pain persisted, with abdominal pain localized to the mid-epigastric area involving the back. The patient reported being unable to sleep due to pain the previous night and had trouble maintaining oral intake over the past few days.",
+        "past_medical_history": "Ulcerative proctitis about ___ years ago, previous colonoscopy with biopsy notable for dysplasia, status post total colectomy.",
+        "family_history": "Mother is alive, has no history of polyps. Father died of a heart disorder and ultimately a cerebrovascular accident (CVA). Maternal grandmother may have had colitis and died of metastatic colon cancer.",
+        "social_history": "Not specified."
+    }
+}

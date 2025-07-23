@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Examination",
+            "date": "Not specified",
+            "findings": "9.5 mg/dL (normal range: 8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Portable Abdomen Radiograph",
+            "date": "Not specified",
+            "findings": "Punctate soft tissue subcutaneous gas noted in the right abdomen, moderate amount of retained oral contrast throughout the small bowel and colon, no evidence of bowel obstruction or ileus.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

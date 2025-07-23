@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Minimal bilateral lower lobe dependent atelectasis; extensive wall thickening involving the cecum and proximal-to-mid ascending colon with surrounding fat stranding, possibly secondary to diverticulitis with mircoperforation versus colitis; terminal ileum markedly thickened; large bladder diverticulum arising from the left posterolateral aspect of the bladder; mild splenomegaly; stable gynecomastia.",
+            "changes_over_time": "Compared to CT from ___, there is stable gynecomastia."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC count 12.7 (elevated, normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Contrast seen extending down to the cecum. Appendix dilated measuring up to 7 mm with mild periappendiceal stranding. No evidence of an abscess or appendicolith. Moderate fecal loading throughout the colon.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP with sphincterotomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT abdomen",
+            "date": "Not specified",
+            "findings": "Slight pericholecystic fluid but no well-visualized stones or gall bladder wall thickening.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Physical examination",
+            "date": "Not specified",
+            "findings": "Severe tenderness and involuntary guarding upon palpation of RUQ.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

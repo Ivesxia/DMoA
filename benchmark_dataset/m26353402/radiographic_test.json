@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "No focal consolidation, pleural effusion, pneumothorax, or pulmonary edema is seen. Heart and mediastinal contours are within normal limits. No free intraperitoneal air is detected.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

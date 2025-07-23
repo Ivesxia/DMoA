@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CTA CHEST",
+            "date": "Not specified",
+            "findings": "No pulmonary embolus demonstrated. Limited evaluation of the thoracic aorta due to motion demonstrates normal caliber. No adenopathy in the chest. Minimal bibasilar dependent atelectasis is noted. The remaining lungs are clear. No pericardial or pleural effusion. There is no pneumothorax. Free air from recent surgery. The liver, spleen, pancreas, adrenal glands and kidneys are unremarkable. There is no hydronephrosis. No bowel obstruction or ascites. There is mild soft tissue stranding at the surgical site. No drainable collections. No retroperitoneal or thoracoabdominal wall hematoma is demonstrated. The hepatic and mesenteric vasculature is patent. The osseous structures are unchanged.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

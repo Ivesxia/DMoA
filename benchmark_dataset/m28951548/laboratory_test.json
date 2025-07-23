@@ -1,0 +1,27 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder US (Single Organ)",
+            "date": "Not specified",
+            "findings": {
+                "LIVER": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites.",
+                "BILE DUCTS": "There is no intrahepatic biliary dilation. The CBD measures 4 mm.",
+                "GALLBLADDER": "The gallbladder is distended and contains a mobile gallstone measuring up to 2 cm. No gallbladder wall thickening or pericholecystic fluid. However, the patient does not demonstrate a positive sonographic Murphy's sign.",
+                "PANCREAS": "The pancreas is not well seen due to overlying bowel gas.",
+                "SPLEEN": "Normal echogenicity, measuring 11 cm.",
+                "KIDNEYS": "The right kidney measures 9 cm with dilatation of the intrarenal collecting system, as seen on recently performed CT scan of the abdomen and pelvis, and was seen on a CT scan of the abdomen from Not specified."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Esophagogastroduodenoscopy [EGD] with closed biopsy",
+            "date": "Not specified",
+            "findings": {
+                "valuestr": "ESCHERICHIA COLI",
+                "value_level": "36.0 IU/L",
+                "ref_range": "0.0 - 40.0"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

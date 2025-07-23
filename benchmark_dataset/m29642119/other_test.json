@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "New left-sided PICC line with the tip of the line projecting over the cavoatrial junction; no evidence of complications, notably no pneumothorax. Constant small parenchymal opacity at the right lung base; no other parenchymal changes.",
+            "changes_over_time": "The small parenchymal opacity at the right lung base is constant and unchanged."
+        },
+        {
+            "procedure_name": "CT-guided drainage of abdominal fluid collections",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

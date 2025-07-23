@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Bilateral lower lung atelectasis, left side more than right side have improved since ___. There are no new lung opacities of concern. Heart size is mildly enlarged. Mediastinal and hilar contours are unchanged. Pleural effusion, if any, is minimal on the left side.",
+            "changes_over_time": "Bilateral lower lung atelectasis, left side more than right side have improved since ___."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Distended gallbladder with a 3 cm obstructive gallstone at the gallbladder neck and associated gallbladder wall thickening. The hepatic parenchyma appears within normal limits; no focal liver mass; no ascites; no intrahepatic biliary dilation; pancreas appears normal; normal spleen echogenicity; no hydronephrosis in limited kidney views.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT A/P",
+            "date": "Not specified",
+            "findings": "Distended gallbladder with hyperenhancing wall, some pericholecystic fluid, and a 3 cm gallstone at the gallbladder neck.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

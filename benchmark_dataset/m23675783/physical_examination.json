@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "83 bpm",
+                "blood_pressure": "100/58 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "95% on RA"
+            },
+            "relevant_findings": {
+                "general": "Frail elderly chronically ill female, appears older than stated age. At risk for malnutrition, grooming OK.",
+                "eyes": "NC/AT, PERRL, EOMI without nystagmus, no scleral icterus.",
+                "ears_nose_mouth_throat": "MMM, no lesions noted in oral cavity.",
+                "neck": "Supple, no JVD or carotid bruits appreciated.",
+                "respiratory": "Lungs CTA bilaterally without rales, rhonchi, or wheezes.",
+                "cardiovascular": "RRR, normal S1 S2, loud systolic ejection murmur at the left lower sternal border (LLSB).",
+                "gastrointestinal": "Soft abdomen, diminished bowel sounds, LLQ pain. Small amount of soft stool noted, not impacted, guaiac negative.",
+                "skin": "No rashes or lesions noted, no pressure ulcers.",
+                "extremities": "2+ edema bilaterally, 2+ dorsalis pedis and posterior tibial pulses bilaterally.",
+                "neurologic": "Mental status alert and oriented x 3, able to relate history without difficulty, cranial nerves II-XII intact, normal motor bulk, strength, and tone."
+            },
+            "changes_over_time": "No significant changes noted over time."
+        }
+    ]
+}

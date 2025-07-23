@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.6°F",
+                "heart_rate": "78 bpm",
+                "blood_pressure": "135/61 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general": "NAD. Alert, oriented x3.",
+                "HEENT": "No scleral icterus. Mucous membranes mildly dry.",
+                "cardiovascular": "Regular rhythm.",
+                "pulmonary": "Clear to auscultation bilaterally.",
+                "abdominal": "Soft, obese with tenderness to palpation of epigastrium and RUQ. Negative ___ sign. No R/G. No masses.",
+                "extremities": "Warm with bilateral ___ edema, Left 2+, Right 1+. (noted to be chronic by patient)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

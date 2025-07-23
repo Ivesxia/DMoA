@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified.",
+            "findings": "Stranding in LLQ representing early uncomplicated diverticulosis, stool ball, and diffuse stool burden. Mucosal thickening of the distal esophagus compatible with esophagitis, 1.2 cm indeterminate adrenal nodule, 1.4 cm left adrenal nodule, 4.4 cm exophytic left renal cyst, sigmoid diverticulosis, and large left bladder diverticulum.",
+            "changes_over_time": "Mucosal thickening of the distal esophagus compatible with esophagitis similar in appearance to the prior study."
+        },
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified.",
+            "findings": "Subsegmental atelectasis at right cardiophrenic angle.",
+            "changes_over_time": "Slightly more pronounced than on prior study."
+        }
+    ]
+}

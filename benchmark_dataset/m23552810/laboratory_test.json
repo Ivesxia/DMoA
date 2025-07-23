@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "WBC 20.1 (elevated)",
+            "changes_over_time": "While admitted, WBC began to trend down."
+        },
+        {
+            "procedure_name": "Amylase",
+            "date": "Not specified",
+            "findings": "Amylase 4094 (elevated)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 3000 (elevated)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "AST",
+            "date": "Not specified",
+            "findings": "AST 288 (elevated)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ALT",
+            "date": "Not specified",
+            "findings": "ALT 188 (elevated)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "K+ increased to 8 from 3.6 (elevated)",
+            "changes_over_time": "Potassium increased."
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Low lung volumes, free intraperitoneal air noted under each hemidiaphragm.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

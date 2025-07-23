@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The uterus measures 7.9 x 3.3 x 4.7 cm. The endometrium is homogeneous and measures 2 mm. The ovaries are normal. The right ovary measures 3.5 x 2.0 x 2.0 cm and the left ovary measures 1.8 x 1.1 x 1.4 cm. There is no free fluid. There is a tubular appearing structure in the right lower quadrant at the site of most pain which measures 8 mm in diameter, is possibly blind-ending though difficult to determine for sure, is not particularly hyperemic, is noncompressible, which appears to contain a 4 mm rounded echogenic structure. These findings could be consistent with an abscess with opaque appendicolith, though this is not definite.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Closed biopsy of skin and subcutaneous tissue",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

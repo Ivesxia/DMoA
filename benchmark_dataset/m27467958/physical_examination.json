@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "101.1°F",
+                "blood_pressure": "112/69 mmHg",
+                "heart_rate": "114 bpm",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": "Alert and oriented x3. Flushed. Mild icterus. Tacky mucosal membranes. Supple. No lymphadenopathy. Regular and tachycardic. Clear to auscultation bilaterally. Abdomen soft, non-distended. Diffusely and moderately tender. Mild guarding. Positive rebound tenderness and tenderness in the lower abdomen with percussion. Focally more tender in right lower quadrant and suprapubic regions. Normal tone. No masses. No occult or gross blood. Warm and well perfused. No peripheral edema. Motor and sensation grossly intact.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

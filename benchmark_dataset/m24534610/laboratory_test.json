@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bilirubin test",
+            "date": "Not specified",
+            "findings": "Elevated total bilirubin, mild leukocytosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of the liver or gallbladder",
+            "date": "Not specified",
+            "findings": "Gallbladder wall mildly thickened (up to 3 mm), areas of pericholecystic fluid and gallbladder wall edema; multiple shadowing gallstones present. Liver normal in echogenicity without focal lesions; no biliary dilatation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

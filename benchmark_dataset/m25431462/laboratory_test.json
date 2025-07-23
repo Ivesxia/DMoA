@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase result was elevated (exact value not specified).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "Initial potassium level was 6.0, repeated measurement was 5.6.",
+            "changes_over_time": "Potassium level decreased from 6.0 to 5.6."
+        },
+        {
+            "procedure_name": "INR",
+            "date": "Not specified",
+            "findings": "INR was low at 1.9.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Cardiac silhouette moderately enlarged; no pleural effusion or pneumothorax; no focal airspace consolidation.",
+            "changes_over_time": "Finding of interstitial opacities at the bases representing atelectasis and scarring."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.3 F",
+                "heart_rate": "89 bpm",
+                "blood_pressure": "149/82 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x3",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "Breathing comfortably, clear to auscultation bilaterally",
+                "abdominal": "Soft, non-distended, marked tenderness to palpation of right upper quadrant and epigastrium, no rebound tenderness or voluntary guarding",
+                "back": "No tenderness to palpation",
+                "extremities": "Warm, well-perfused, no cyanosis/clubbing/edema, no tenderness to palpation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

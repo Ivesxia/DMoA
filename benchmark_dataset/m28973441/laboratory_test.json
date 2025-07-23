@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ERCP BILIARY&PANCREAS BY GI UNIT",
+            "date": "Not specified",
+            "findings": "Minimal dilatation of the common bile duct. Only the right main hepatic duct and right anterior hepatic duct were opacified. The left intrahepatic biliary tree was not visualized. An impacted stone within the major papilla was found and successfully removed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "33.0 IU/L",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

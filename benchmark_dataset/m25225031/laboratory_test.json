@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Blood Test",
+            "date": "Not specified",
+            "findings": "1.2 mmol/L (normal range: 0.5 - 2.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is dilated and thickened, with surrounding phlegmonous changes; no free air or fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.6°F",
+                "blood_pressure": "118/60 mmHg",
+                "heart_rate": "54 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "96% on 2L NC"
+            },
+            "relevant_findings": {
+                "general": "Elderly man in NAD, awake, alert, pleasant",
+                "HEENT": "EOMI, PERRL, sclera anicteric, conjunctivae clear, OP moist and without lesion",
+                "neck": "Supple, no JVD",
+                "cardiovascular": "Regular rate, normal S1, S2. No murmurs/rubs/gallops.",
+                "chest": "Respirations were unlabored, no accessory muscle use. Clear to auscultation bilaterally, no crackles, wheezes or rhonchi.",
+                "abdomen": "Soft, tender in LLQ, non-distended, no rebound/guarding",
+                "extremities": "No cyanosis/clubbing/edema",
+                "skin": "No rash, but numerous telangiectasias over hands and face",
+                "neurological": "Alert, oriented x 3. Able to relate history without difficulty. Cranial nerves II-XII intact. Normal bulk, strength and tone throughout."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

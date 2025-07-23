@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient has been experiencing persistent abdominal pain, which prompted her visit to the ED. She has a known diverticular disease and colovesicular fistula. She has been passing flatus and having bowel movements, but has been belching persistently.",
+        "past_medical_history": "Colovesicular fistula, lung cancer, COPD, OSA, GERD, HTN, obesity, uterine cancer s/p hysterectomy.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

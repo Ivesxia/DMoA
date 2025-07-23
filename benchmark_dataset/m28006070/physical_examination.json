@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "heart_rate": "77 bpm",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "No acute distress (NAD), alert and oriented times three (AOx3)",
+                "cardiovascular": "Regular rate and rhythm (RRR)",
+                "lungs": "Clear to auscultation bilaterally (CTAB)",
+                "abdominal": "Soft, non-distended (ND), tenderness to palpation (TTP) in right upper quadrant (RUQ) with positive Murphy's sign, no guarding or rebound tenderness",
+                "extremities": "Warm, well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

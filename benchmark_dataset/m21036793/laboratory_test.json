@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipid Panel",
+            "date": "Not specified",
+            "findings": "Total cholesterol: 9.0 mg/dL (normal range: 8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "The lungs are clear. No focal consolidation or pneumothorax. No vascular congestion or pleural effusions. Cardiomediastinal and hilar contours are within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

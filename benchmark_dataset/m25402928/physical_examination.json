@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9°F",
+                "heart_rate": "102 bpm",
+                "blood_pressure": "126/76 mmHg",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Tearful young woman in no acute distress.",
+                "abdominal": {
+                    "findings": "Soft, nondistended abdomen. Mild tenderness to palpation of right lower quadrant, without rebound or guarding.",
+                    "signs": {
+                        "obturator_sign": "Positive",
+                        "psoas_sign": "Positive",
+                        "rovsign_sign": "Negative"
+                    }
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

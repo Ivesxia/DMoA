@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urine culture",
+            "date": "Not specified",
+            "findings": "Positive for ESCHERICHIA COLI",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is fluid-filled and dilated up to 1.5 cm, with wall thickening and mucosal hyperenhancement and surrounding fat stranding, consistent with appendicitis",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

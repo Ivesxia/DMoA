@@ -1,0 +1,54 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.3",
+                "blood_pressure": "170/92",
+                "heart_rate": "66",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD",
+                "heent": "AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, MMM, good dentition",
+                "neck": "nontender supple neck, no LAD, no JVD",
+                "cardiac": "RRR, S1/S2, no murmurs, gallops, or rubs",
+                "lung": "CTAB, no wheezes, rales, rhonchi, breathing comfortably without use of accessory muscles",
+                "abdomen": "nondistended, +BS, nontender in all quadrants, no rebound/guarding, no hepatosplenomegaly",
+                "extremities": "no cyanosis, clubbing or edema, moving all 4 extremities with purpose",
+                "pulses": "2+ DP pulses bilaterally",
+                "neuro": "CN II-XII intact",
+                "skin": "warm and well perfused, no excoriations or lesions, no rashes"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8",
+                "blood_pressure": "116/75",
+                "heart_rate": "69",
+                "respiratory_rate": "15",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Vital signs remained stable during admission."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "ultrasound_findings": {
+                    "liver": "Hepatic parenchyma within normal limits; smooth contour, no focal mass, no ascites.",
+                    "bile_ducts": "No intrahepatic biliary dilation; CHD measured 5 mm.",
+                    "gallbladder": "Contains multiple stones with wall thickening up to 5 mm, no abnormal luminal distension.",
+                    "pancreas": "Within normal limits, no masses or ductal dilation.",
+                    "spleen": "Normal echogenicity, 9.8 cm.",
+                    "kidneys": "No evidence of hydronephrosis."
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

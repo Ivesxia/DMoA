@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder is filled with numerous shadowing gallstones, with edematous wall thickening up to approximately 1 cm; mild intrahepatic biliary ductal prominence; no ascites.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Successful ultrasound-guided placement of pigtail catheter into the gallbladder",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

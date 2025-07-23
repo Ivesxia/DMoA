@@ -1,0 +1,55 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.9",
+                "heart_rate": "77",
+                "blood_pressure": "140/70",
+                "respiratory_rate": "20",
+                "oxygen_saturation": "98%",
+                "date_recorded": "Not specified"
+            },
+            "relevant_findings": {
+                "temperature": "97.7",
+                "blood_pressure": "171/51",
+                "heart_rate": "81",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "98% on RA",
+                "abdominal_exam": "soft, epigastric and left sided abdominal tenderness to palpation, non-distended, bowel sounds present, no rebound tenderness or guarding",
+                "extremities_exam": "Warm, well perfused, 2+ pulses, left great toe metatarsal redness, warmth and swelling, toe is tender to palpation",
+                "date_recorded": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9",
+                "heart_rate": "79",
+                "blood_pressure": "138/55",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "97% room air",
+                "date_recorded": "Not specified"
+            },
+            "relevant_findings": "continued epigastric and left sided abdominal pain, denies fever, chills, nausea, vomiting, diarrhea, and complains of left toe pain redness and swelling.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified",
+                "date_recorded": "Not specified"
+            },
+            "relevant_findings": {
+                "exam": "Physical exam findings show bibasilar rales in the lungs, regular heart rate and rhythm with normal S1 & S2, and no murmurs, rubs, or gallops.",
+                "date_recorded": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

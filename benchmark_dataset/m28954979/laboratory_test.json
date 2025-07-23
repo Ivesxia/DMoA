@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Phlegmonous soft tissue mass in the right to mid pelvis measuring 7.2 x 5.1 cm, with a hypoenhancing central component and hyperenhancing rim. Significant inflammatory changes and fat stranding surrounding the mass, with numerous regional reactive nodes. The liver is homogeneous without focal lesions and there is a likely cyst in the left kidney.",
+            "changes_over_time": "Mass size increased from 6.7 x 4.7 cm to 7.2 x 5.1 cm."
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Test",
+            "date": "Not specified",
+            "findings": "8.8 mg/dL, which is within the normal range (8.4-10.3 mg/dL).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

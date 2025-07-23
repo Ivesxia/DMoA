@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Cardiomediastinal silhouette is unchanged. The pulmonary vascularity is stable. A small amount of right pleural scarring/effusion is noted. Aeration of the left lung base and small left pleural effusion have resolved. Flattening of the diaphragms is consistent with underlying obstructive pulmonary disease. Rib and right shoulder osseous deformities are unchanged.",
+            "changes_over_time": "Aeration of the left lung base and small left pleural effusion have resolved."
+        }
+    ]
+}

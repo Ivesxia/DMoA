@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient developed abdominal pain 10 days ago, which has been constant and radiates to her back. She has also experienced nausea and anorexia. The pain was not relieved by Tylenol. She has had shortness of breath accompanying the pain, and noted dark urine but no changes in her stool. She has chills but has not experienced any fevers.",
+        "past_medical_history": "Hypertension, poorly controlled; possible chronic kidney disease; prior cholecystectomy; prior hysterectomy for benign mass; prior abnormal pap smears.",
+        "family_history": "Mother died in early old age; father still alive, age unspecified, recently diagnosed with cancer.",
+        "social_history": "The patient was taking protein shakes, substituting for one meal a day for weight loss, resulting in a 7 lbs weight loss. She has intermittent headaches."
+    }
+}

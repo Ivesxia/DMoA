@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bronchoscopy",
+            "date": "Not specified",
+            "findings": "Diffuse tracheobronchitis with floppy airways; transluminal surface area dropped off greater than 50% with simple expiratory maneuvers and nearly 90% with a forced maneuver without cough.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Cardiomediastinal silhouette unchanged; pulmonary vascularity stable. A small amount of right pleural scarring/effusion noted. Aeration of the left lung base and small left pleural effusion have resolved. Flattening of the diaphragms consistent with underlying obstructive pulmonary disease. Rib and right shoulder osseous deformities unchanged.",
+            "changes_over_time": "A small left pleural effusion has resolved since previous examinations."
+        },
+        {
+            "procedure_name": "Laboratory Test (specific test not named)",
+            "date": "Not specified",
+            "findings": "0.5%, normal range 1.2%-3.2%.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

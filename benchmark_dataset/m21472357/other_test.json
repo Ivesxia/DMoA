@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT Abdomen & Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "The appendix is fluid filled, measuring up to 1.4 cm, and has a hyperemic wall with adjacent periappendiceal stranding. There are inflamed adjacent terminal ileal loops. The loops of small bowel demonstrate diffuse dilatation and are fluid filled measuring up to approximately 3 cm. Mild fatty proliferation within the submucosa of the large bowel is noted. There is a small amount of pelvic free fluid. No enlarged lymph nodes are present, only a few scattered reactive nodes within the right lower quadrant.",
+            "changes_over_time": "Unchanged 5 mm hypodensity in the spleen from a prior study. Diffuse degenerative changes and scoliosis in the lumbar spine noted."
+        },
+        {
+            "procedure_name": "Physical Examination",
+            "date": "Not specified",
+            "findings": "Right lower quadrant tenderness with rebound, no guarding or rigidity; tachypneic; normal cardiovascular exam with regular rate and rhythm; otherwise normal physical examination.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

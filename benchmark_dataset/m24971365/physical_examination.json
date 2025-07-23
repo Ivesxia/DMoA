@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2",
+                "heart_rate": "118 bpm",
+                "blood_pressure": "116/81 mmHg",
+                "respiratory_rate": "20",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": {
+                "general": "AOx3, NAD, sitting upright in bed",
+                "heent": "NCAT, EOMI, MMM",
+                "cardiovascular": "Tachycardic",
+                "respiratory": "No respiratory distress on RA",
+                "abdominal": "Soft, nondistended. +TTP RLQ. No rebound tenderness or guarding",
+                "extremities": "No peripheral edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

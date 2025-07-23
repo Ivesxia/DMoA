@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Afebrile initially, peaked at 101.5 rectally",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "NAD, interactive but inconsistent in answering questions",
+                "eyes": "EOMI, no scleral icterus",
+                "HENT": "NCAT, trachea midline, hard of hearing",
+                "cardiovascular": "RRR, S1-S2, holosystolic murmur, no edema",
+                "lungs": "CTA bilaterally, moving air well and symmetrically",
+                "GI": "Soft, non-tender, non-distended, normal bowel sounds",
+                "musculoskeletal": "Intact ROM, strength bilaterally",
+                "neurological": "Moving all extremities, oriented to self only",
+                "skin": "No rash or ecchymosis",
+                "psychological": "Congruent affect, judgement hard to assess due to dementia"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

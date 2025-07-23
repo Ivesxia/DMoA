@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Dysuria and lower abdominal pain.",
+        "history_of_present_illness": "Symptoms began 1.5 weeks ago with foul-smelling, 'bubbly' urine, new onset diarrhea, and vomiting. Abdominal pain is chronic but has become more severe. The patient has experienced significant flatus and decreased oral intake during this period. Symptoms are common with previous UTIs and gastroparesis flares.",
+        "past_medical_history": "1. Type 2 Diabetes Mellitus (on insulin, last HbA1c 7.6) with diabetic nephropathy, gastroparesis, and neurogenic bladder; 2. Coronary artery disease (status post CABG); 3. Hypertension; 4. Hypercholesterolemia; 5. Heart failure with preserved ejection fraction (HFpEF); 6. Recurrent urinary tract infections (UTIs) with a history of polymicrobial infections; 7. Previous cystoscopy and urodynamic study indicating incomplete bladder emptying; 8. Depression; 9. History of gastrointestinal bleeding; 10. Low back pain due to herniated disk.",
+        "family_history": "No family history of immunodeficiency, bladder issues, or recurrent UTIs.",
+        "social_history": "Not specified."
+    }
+}

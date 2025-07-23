@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Dilated appendix measuring up to 9 cm with surrounding fat stranding. No appendicolith and no evidence of perforation. Liver, pancreas, spleen, kidneys, gallbladder, adrenals, and visualized loops of small bowel appear normal. A cyst in the left mid pole of the kidney and a right adnexal cyst measuring 2.4 cm are noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "1.0 mmol/L (reference range: 0.5 - 2.0 mmol/L), within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

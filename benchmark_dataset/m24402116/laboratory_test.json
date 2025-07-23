@@ -1,0 +1,27 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Homogenous attenuation throughout. Subcentimeter hypodensity in segment VII, too small to characterize by CT. No evidence of biliary dilatation.",
+                "pancreas": "Normal attenuation throughout, no focal lesions or ductal dilatation.",
+                "spleen": "Normal size and attenuation throughout, no focal lesions.",
+                "adrenals": "Normal in size and shape.",
+                "kidneys": "Normal and symmetric size with normal nephrogram, no focal lesions or hydronephrosis.",
+                "gastrointestinal": "Small hiatal hernia, normal caliber small bowel, colon, and rectum. Appendix dilated to 10 mm, fluid-filled, with hyperemic wall and minimal surrounding fat stranding.",
+                "urinary bladder": "Unremarkable.",
+                "vascular": "Moderate atherosclerotic disease noted.",
+                "bones": "No worrisome osseous lesions or acute fracture.",
+                "soft tissues": "Calcified granulomas overlying the gluteal region bilaterally."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

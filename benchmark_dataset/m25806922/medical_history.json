@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric pain",
+        "history_of_present_illness": "The epigastric pain reportedly began approximately ___ ago. The patient has experienced approximately 3 episodes of 'severe' pain over the past 10 days. Symptoms typically worsen at night and after meals, with intermittent nausea and vomiting. She denied fever/chills, diarrhea, sick contacts, dysphagia, heartburn, dysuria, hematochezia/melena. The patient was seen by her PCP in ___ and prescribed prilosec 20mg daily for suspected GERD, which mildly improved symptoms. Most recently, she experienced an acute onset of severe pain resembling previous episodes.",
+        "past_medical_history": "History of pyelonephritis, history of vasovagal syncope, history of hyperlipidemia, history of melanoma, history of plantar fasciitis, history of sinusitis, history of seasonal allergies, history of depression.",
+        "family_history": "Father living with a history of prostate cancer, paranoid personality disorder, diabetes (resolved with weight loss), and CABG x3 ___ years ago. Mother living, recently diagnosed with diabetes and has a history of factor V Leiden. One brother with a history of squamous cell carcinoma on the toe, hyperlipidemia, and hypertension. A deceased brother who died at age ___ months of a 'bad heart.'",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric and RUQ abdominal pain",
+        "history_of_present_illness": "The pain was of sudden onset shortly after eating a small salad for dinner. It was described as throbbing, constant, and associated with distension, bloating, reflux, nausea, and one episode of vomiting, with night time awakening. Symptoms worsened, leading the patient to spend a day in bed due to pain.",
+        "past_medical_history": "Depression, Anxiety, Hypertension (HTN), Gastroesophageal Reflux Disease (GERD), Hyperlipidemia (HPL), Obstructive Sleep Apnea (OSA) on CPAP, Asthma (never intubated)",
+        "family_history": "Father had prostate cancer and COPD; mother had a stroke",
+        "social_history": "Not specified"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Minimal left basilar plate-like atelectasis is noted. The lungs are otherwise clear without evidence of pneumonia, pleural effusion, or pneumothorax. Cardiomediastinal silhouette is unremarkable aside from unfolded thoracic aorta. Visualized osseous structures are intact.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

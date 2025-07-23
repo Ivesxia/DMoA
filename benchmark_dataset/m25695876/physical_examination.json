@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "heart_rate": "74 bpm",
+                "blood_pressure": "143/57 mmHg",
+                "respiratory_rate": "15 breaths/min",
+                "oxygen_saturation": "93% on 2L NC"
+            },
+            "relevant_findings": {
+                "general": "A&Ox3, perseverating on antibiotic prescriptions, cooperative, NAD",
+                "heent": "No scleral icterus, mucus membranes dry",
+                "cardiovascular": "RRR, +systolic murmur",
+                "pulmonary": "Diminished bilaterally",
+                "abdominal": "Softly distended, no peritoneal signs, focal tenderness to deep palpation in LLQ, palpable stool-filled colon",
+                "digital_rectal_exam": "Normal tone, +external hemorrhoids; hard stool in the rectal vault. No gross blood but occult positive.",
+                "extremities": "Trace bilateral edema. Warm."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

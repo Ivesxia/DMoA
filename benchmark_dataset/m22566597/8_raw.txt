@@ -1,0 +1,44 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "IV morphine",
+      "start_date": "2023-10-04",  // Assuming today's date as admission date
+      "end_date": "Not specified",
+      "dosage_or_details": "10 mg IV",
+      "treatment_response": "Patient has been pain free and has not had any nausea since receiving IV morphine."
+    },
+    {
+      "treatment_type": "hydration",
+      "specific_treatment": "IV NS",
+      "start_date": "2023-10-04",  // Assuming today's date as admission date
+      "end_date": "Not specified",
+      "dosage_or_details": "3L IV",
+      "treatment_response": "Not specified"
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2023-10-04",
+      "event": "Patient presented with abdominal pain, nausea, and vomiting."
+    },
+    {
+      "date": "2023-10-04",
+      "event": "Patient received IV morphine at 4AM."
+    },
+    {
+      "date": "2023-10-04",
+      "event": "Patient received 3L IV NS for hydration."
+    },
+    {
+      "date": "2023-10-04",
+      "event": "Patient reported being pain free and not experiencing nausea after IV morphine."
+    },
+    {
+      "date": "2023-10-04",
+      "event": "Patient has been NPO since presentation to the ED."
+    }
+  ]
+}
+```

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits. No evidence of pleural or pericardial effusion. Tiny subcentimeter hypodensity in segment 7 of the liver, too small to fully characterize but likely a biliary hamartoma or hepatic cyst. Normal pancreas without evidence of focal lesions or pancreatic ductal dilatation. Normal spleen, adrenal glands, kidneys, stomach, small bowel, colon, and rectum. Fluid-filled dilatation of the appendix with wall thickening measuring up to 1.2 cm, adjacent mild fat stranding compatible with acute appendicitis. Several appendicoliths noted in proximal appendix. No evidence of perforation or abscess formation. No retroperitoneal or mesenteric lymphadenopathy. No abdominal aortic aneurysm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "GRAM NEGATIVE ROD(S).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "Not specified",
+            "findings": "3.0 mg/dL. Reference range: 2.7 - 4.5 mg/dL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

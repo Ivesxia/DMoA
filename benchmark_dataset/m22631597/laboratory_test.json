@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "HCT was found to be 27, down from baseline of 32.",
+            "changes_over_time": "Decreasing HCT levels over time."
+        },
+        {
+            "procedure_name": "Creatinine Level Test",
+            "date": "Not specified",
+            "findings": "Creatinine has increased from baseline 1.3 to 2.3, and then decreased to 1.8 on repeat.",
+            "changes_over_time": "Rising creatinine levels from 1.3 to 2.3, then decreased to 1.8."
+        },
+        {
+            "procedure_name": "Monoclonal Protein Level Test",
+            "date": "Not specified",
+            "findings": "Monoclonal IgG kappa at 950 mg/dl, up from 700 mg/dl.",
+            "changes_over_time": "Rising monoclonal IgG levels over time."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Positive proteinuria detected.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

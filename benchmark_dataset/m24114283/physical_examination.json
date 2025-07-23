@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "172/85 mmHg",
+                "pulse": "76 bpm",
+                "oxygen_saturation": "99% on RA",
+                "temperature": "96.9 °F",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "appears comfortable lying flat in bed, pleasant",
+                "heent": "mildly icteric sclerae, dry mucosa, poor dentition, OP clear",
+                "neck": "no LAD",
+                "cardiovascular": "RRR, no murmurs or rubs appreciated",
+                "lungs": "CTA B/L with good inspiratory effort",
+                "abdomen": "soft, slightly distended, NABS, TTP in RUQ, no rebound or guarding",
+                "extremities": "warm, dry, DP pulses full B/L",
+                "neurological": "CN II-XII grossly intact, no focal deficits, no dysarthria, no asterixis, muscle strength Not specified",
+                "skin": "dry, no rashes appreciated"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

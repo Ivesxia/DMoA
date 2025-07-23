@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lungs": "Lung bases are clear. No pleural effusion.",
+                "hepatobiliary": {
+                    "liver": "Homogenous attenuation throughout, no focal lesions.",
+                    "biliary": "No intrahepatic or extrahepatic biliary dilatation.",
+                    "gallbladder": "Surgically absent."
+                },
+                "pancreas": {
+                    "fatty_atrophy": "Present in the pancreatic head.",
+                    "cystic_lesion": "2.5 cm cystic lesion in the pancreatic head, unchanged."
+                },
+                "spleen": "1.7 and 1.0 cm hypodense lesions, unchanged, likely cysts.",
+                "adrenals": "Normal in size and shape.",
+                "urinary": "Normal symmetric size, no focal renal lesions or hydronephrosis.",
+                "gastrointestinal": {
+                    "stomach": "Unremarkable.",
+                    "small_bowel": "Normal caliber, wall thickness, and enhancement.",
+                    "sigmoid_colon": "Previously seen mild fat stranding resolved, multiple diverticula noted, areas of mild wall thickening suggestive of chronic diverticular changes, no active colitis."
+                },
+                "pelvis": "Unremarkable urinary bladder and distal ureters, no free fluid.",
+                "reproductive_organs": "Uterus unremarkable.",
+                "lymph_nodes": "No lymphadenopathy.",
+                "vascular": "No abdominal aortic aneurysm, mild atherosclerotic disease noted.",
+                "bones": "No worrisome osseous lesions or acute fracture, compression deformities of L1 and T11 vertebral bodies unchanged.",
+                "soft_tissues": "Coarse calcification in the right breast, multiple injection granulomas, small foci of subcutaneous gas likely related to injections."
+            },
+            "changes_over_time": {
+                "pancreas": "Cystic lesion in the pancreatic head unchanged.",
+                "spleen": "Hypodense lesions unchanged, likely cysts.",
+                "sigmoid_colon": "Mild fat stranding previously noted appears resolved.",
+                "bones": "Compression deformities of the L1 and T11 vertebral bodies unchanged."
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test for unspecified item",
+            "date": "Not specified",
+            "findings": "NEG.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated, measuring up to 1.2 cm in diameter with a thickened wall and possible very minimal adjacent stranding.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

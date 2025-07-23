@@ -1,0 +1,29 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT-guided left upper quadrant mass biopsy",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI (ABDOMEN & PELVIS) W&W/O CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "soft_tissues": "8.7 x 6.2 x 7.6 cm well-circumscribed, lobulated, predominantly T2 hyperintense mass with hairline thin T2 hypointense septations. Mild delayed enhancement.",
+                "liver": "Homogeneous in signal characteristics, no solid or cystic lesions.",
+                "biliary": "No intra- or extra-hepatic duct dilatation.",
+                "pancreas": "Normal bulk, no focal lesion or ductal abnormality.",
+                "spleen": "Normal in size and signal characteristics.",
+                "adrenal_glands": "Unremarkable.",
+                "kidneys": "Normal in size and signal characteristics, no hydronephrosis.",
+                "gastrointestinal_tract": "Fluid filled, dilated appendix.",
+                "pelvis": "Free fluid in the pelvis.",
+                "lymph_nodes": "No significant lymphadenopathy.",
+                "vasculature": "Patent without significant areas of narrowing or dilatation.",
+                "osseous_and_soft_tissue_structures": "Bone marrow demonstrates normal signal characteristics."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

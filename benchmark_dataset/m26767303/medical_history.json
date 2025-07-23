@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Mr. ___ began experiencing crampy umbilical pain at about 22:30 last night. He felt the urge to have a bowel movement but was unable to. After returning home around 03:30 this morning, he took a warm bath with no relief. Over the next few hours, the pain migrated to the right lower quadrant and increased in severity, with mild nausea but no vomiting. He had a small normal bowel movement with no change in symptoms and has had no flatus since. He presented to the emergency department around 9 AM, reporting decreased appetite and that pain worsens with movement.",
+        "past_medical_history": "Type 2 Diabetes Mellitus, past laparoscopic umbilical herniorrhaphy, wisdom teeth removal",
+        "family_history": "Father has a history of congestive heart failure, uncle with liver metastasis",
+        "social_history": "Not specified"
+    }
+}

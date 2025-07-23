@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Dilated fluid-filled appendix measuring up to 10 mm with mucosal hyperenhancement, periappendiceal fat stranding, consistent with acute appendicitis. Mild circumferential bladder wall thickening raises the possibility of lower urinary tract infection.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

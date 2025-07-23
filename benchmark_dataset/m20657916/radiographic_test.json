@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD W&W/O C",
+            "date": "Not specified",
+            "findings": "There is a small pericardial effusion. Moderate-sized left and small right pleural effusion with left lower lobe collapse, slightly improved on the right side and grossly stable on the left side. Liver is fatty. Gallstones are present. The spleen is severely enlarged measuring up to 20 cm in length, previously measured 18 cm. Bilateral renal cystic lesions mostly represent simple cysts with the largest measuring 4.4 cm stable since prior exam. Interval development of multiple fluid collections surrounding the pancreas extending into the pericolic gutters. The pancreas shows areas of lack of enhancement compatible with pancreatic necrosis. New focus of air in the nondependent portion of the gallbladder. Small amount of perihepatic ascites. Multiple intra-abdominal, peripancreatic and retroperitoneal lymph nodes. No evidence of bowel obstruction.",
+            "changes_over_time": "Left lower lobe collapse slightly improved on the right side and grossly stable on the left side as compared to prior study. Spleen increased in size from 18 cm to 20 cm. Focus of air in the nondependent portion of the gallbladder is new since prior exam."
+        }
+    ]
+}

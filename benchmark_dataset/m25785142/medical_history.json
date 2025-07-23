@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "RUQ pain",
+        "history_of_present_illness": "The patient reports that his abdominal pain first started yesterday, approximately 1 hour after eating, with an episode of epigastric and RUQ abdominal pain lasting about 10 minutes before resolving spontaneously. This morning, he had another episode of pain that lasted about 10 minutes and resolved. This afternoon, he experienced a third episode, but the pain did not resolve and was unbearable, causing him to leave a concert early. There were no associated nausea or vomiting and he denies diarrhea or constipation. He did experience chills.",
+        "past_medical_history": "T2DM, HTN, Heart Disease, Hypercholesterolemia",
+        "family_history": "Father passed away from prostate cancer. Diabetes runs in the family with multiple family members, including mother, brother, and grandmother, having diabetes.",
+        "social_history": "Not specified"
+    }
+}

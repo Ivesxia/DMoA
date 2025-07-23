@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Partially imaged lung bases are clear with no pleural effusion. A sub cm hypodensity in the right lobe of the liver, liver enhances homogeneously without concerning lesions or biliary dilatation. Stomach mildly distended with ingested material. Several loops of small bowel distended with fluid without obstruction. Appendix fluid-filled and dilated to 1 cm with wall thickening and adjacent fat stranding. Small amount of free fluid along the distal appendix may represent perforation. Bladder, terminal ureters, and uterus within normal limits. Well-circumscribed bilateral intermediate density adnexal masses, likely mild complex ovarian cysts, measuring 3.5 cm on the left and 3.3 cm on the right. Degenerative changes present throughout the mid to spine without evidence for concerning osteolytic or sclerotic lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

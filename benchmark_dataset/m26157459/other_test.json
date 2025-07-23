@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EGD",
+            "date": "Not specified",
+            "findings": "Squamous epithelium within normal limits at the GE junction. Gastric mucosa with mild acute and chronic inflammation and regenerative changes. Antral mucosa with mild chronic inflammation. No bacteria.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Transverse colon and rectal adenoma polyp.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Gallbladder appears distended with small amount of perihepatic free fluid. Subtle hyperemia of the adjacent hepatic parenchyma noted. Main portal vein patent. Normal spleen, pancreas, adrenals, and kidneys. No concerning liver lesions or biliary ductal dilation. No signs of ileus or obstruction in small bowel.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

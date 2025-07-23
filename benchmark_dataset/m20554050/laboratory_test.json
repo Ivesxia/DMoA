@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "No Growth Culture",
+            "date": "Not specified",
+            "findings": "0.8 mmol/L, within reference range (0.5 - 2.0 mmol/L).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "13 mm appendix with hyperemic wall, surrounded by inflammatory changes/fat stranding; no evidence of free air, abscess, or appendiceal rupture.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

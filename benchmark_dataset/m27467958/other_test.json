@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Biopsies revealed fibrosis, but no evidence of a tumor.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Angiogram",
+            "date": "Not specified",
+            "findings": "Noted some B hepatic artery stenosis.",
+            "changes_over_time": "No intervention was performed at that time."
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

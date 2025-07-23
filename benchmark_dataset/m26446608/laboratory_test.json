@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC 10.8 (elevated).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild periportal edema, dilated, fluid-filled appendix measuring up to 8 mm, possibly obstructing appendicolith seen in proximal appendix.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

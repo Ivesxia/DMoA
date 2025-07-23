@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laparoscopic appendectomy",
+            "date": "Not specified",
+            "findings": "Hyperemic and enlarged retrocecal appendix up to 12 mm containing fluid and a few foci of air; inflammation associated with a small amount of fluid in the right inferior edge of the peritoneal cavity and mild thickening of adjacent fascial planes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "No overt evidence of abscess formation or perforation; liver demonstrates trace perifalciform fatty infiltration; retrocecal appendix is hyperemic and enlarged, with inflammation and fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gram stain",
+            "date": "Not specified",
+            "findings": "GRAM NEGATIVE ROD(S).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopic ultrasound",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": {
+                "Lower Thorax": "Limited evaluation notable for minimal right lower lobe atelectasis. No pleural effusion.",
+                "Liver": "Homogeneous in signal intensity without suspicious mass. Few scattered arterially hyperenhancing foci seen, likely transient hepatic intensity differences. No ascites.",
+                "Biliary": "Moderately dilated intra and extrahepatic biliary ducts as well as pancreatic duct which smoothly tapers towards the ampulla, consistent with ampullary stenosis. No enhancing mass.",
+                "Pancreas": "Homogeneous in signal intensity without suspicious mass. No pancreatic duct dilatation.",
+                "Spleen": "Normal in size without suspicious mass.",
+                "Adrenal Glands": "Unremarkable.",
+                "Kidneys": "Bilateral subcentimeter renal cysts noted. Otherwise homogeneous in signal intensity without suspicious mass.",
+                "Gastrointestinal Tract": "Distal esophagus, stomach, visualized small and large bowel are unremarkable. No obstruction.",
+                "Lymph Nodes": "Retroperitoneal and mesenteric lymph nodes are nonenlarged.",
+                "Vasculature": "Moderate atherosclerotic disease noted.",
+                "Osseous and Soft Tissue Structures": "No suspicious osseous lesions found."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

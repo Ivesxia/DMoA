@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT PELVIS W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Dilated appendix measuring up to 7 mm with surrounding fat stranding and thickening of the base of the cecum. No fluid collection or abscess adjacent to the appendix. No free air. Visualized small and large bowel are normal. Urinary bladder and reproductive organs are unremarkable. No pelvic lymphadenopathy or free fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The liver is of normal signal throughout all sequences. The gallbladder is within normal limits. There is no intra- or extra-hepatic biliary dilatation. The CBD measures 3 mm and there are no filling defects within it. The pancreatic duct is of normal caliber. No anomalies are seen regarding the common bile duct and the pancreatic duct. Thickening of the tail of the pancreas with heterogeneously higher signal appearance on the T2-weighted sequence in that area and heterogeneous enhancement consistent with focal changes of the patient's known condition. No cysts or fluid are detected. Minimal fat stranding is seen surrounding the pancreatic tail. The adrenals, the spleen, and the kidneys are within normal limits. The visualized bowel loops are of no gross pathology. The hepatic arteries, the portal and hepatic veins are of normal caliber and morphology. No lymphadenopathy is observed.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

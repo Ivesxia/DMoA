@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.8°F",
+                "heart_rate": "70 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "blood_pressure": "129/64 mmHg",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "Tired-appearing, ill-appearing male, minimally verbal.",
+                "abdomen": "Tenderness in left lower quadrant (LLQ), non-distended, normal bowel sounds.",
+                "lungs": "Coughing, transmitted upper airway sounds, difficulty clearing secretions.",
+                "skin": "Dark pigmented patches in bilateral axillas with excoriations.",
+                "neurologic": "Difficult to assess due to minimal verbal ability."
+            },
+            "changes_over_time": "Patient was initially noted to have significant abdominal tenderness and poor oral intake. There was an improvement in tenderness upon re-evaluation."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4°F",
+                "heart_rate": "103 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "blood_pressure": "103/61 mmHg",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "Ill appearing male, minimally verbal, able to follow simple commands.",
+                "abdomen": "Non-tender to palpation, normal bowel sounds, non-distended.",
+                "lungs": "Non-labored respirations, loud upper airway sounds with no crackles or wheezes.",
+                "extremities": "Contractures in right upper and lower extremities are noted."
+            },
+            "changes_over_time": "Patient's abdominal tenderness decreased from initially noted tenderness in LLQ to non-tender status. Neurological assessment improved as patient was able to follow commands."
+        }
+    ]
+}

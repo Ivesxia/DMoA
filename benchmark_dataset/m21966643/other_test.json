@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic consistent with fatty infiltration. No intra- or extra-hepatic biliary ductal dilatation; common bile duct measuring 4 mm. The main portal vein is patent with normal hepatopetal flow. The gallbladder is normal in appearance without intraluminal stones, and there is no pericholecystic fluid or wall thickening. Negative sonographic ___ sign. No right kidney hydronephrosis. No right upper quadrant ascites present.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase Test",
+            "date": "Not specified",
+            "findings": "Lipase over ___.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

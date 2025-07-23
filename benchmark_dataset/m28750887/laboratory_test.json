@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "A non-compressible blind-ending tubular structure measuring 11 mm with mild wall hyperemia arising from the cecum below the ileocecal valve. Trace adjacent free fluid is seen. Increased adjacent echogenicity suggests surrounding fat stranding.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbial Culture",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

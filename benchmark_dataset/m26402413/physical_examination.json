@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "blood_pressure": "131/73 mmHg",
+                "heart_rate": "91 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "96%",
+                "oxygen_delivery": "3 L"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "CV": "Regular rate, No M/G/R",
+                "pulmonary": "Breathing comfortably on room air, no audible wheezing",
+                "abdominal": "Soft, nondistended, nontender, no rebound or guarding, no palpable masses, incisions with steri strips with some sanguineous saturation, JP drain sanguineous",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

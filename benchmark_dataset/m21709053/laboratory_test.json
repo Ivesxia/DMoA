@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is mildly enlarged measuring 7-8 mm with slightly thickened walls and mild mucosal hyperenhancement, but no adjacent fat stranding is identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Chemistry",
+            "date": "Not specified",
+            "findings": "0.9 mmol/L (specific lab test result not defined).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

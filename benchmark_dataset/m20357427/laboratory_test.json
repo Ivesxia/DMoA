@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Hb 16",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase >3000",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "K 2.8",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Feces test for C. difficile toxin A & B",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA (Reference Range-Negative)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ABG",
+            "date": "Not specified",
+            "findings": "ABG post-intubation: 7.39/34/102",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "Reduced effusions seen bilaterally, left greater than right, with some left basilar atelectasis and no patchy consolidation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

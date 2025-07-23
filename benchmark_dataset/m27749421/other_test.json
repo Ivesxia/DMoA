@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP with sphincterotomy",
+            "date": "Not specified",
+            "findings": "Stones were noted in the gallbladder, but no evidence of obstruction. Slight sludge was extracted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of liver or gallbladder",
+            "date": "Not specified",
+            "findings": "Several shadowing stones identified in the gallbladder, the largest measuring 1.8 cm and appearing to be lodged in the neck of the gallbladder. No evidence of focal lesions or ductal abnormality. No gallbladder wall thickening or pericholecystic fluid. Common bile duct measures 7 mm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

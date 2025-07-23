@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.0°F",
+                "heart_rate": "76 bpm",
+                "blood_pressure": "158/59 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "heent": "Normocephalic, atraumatic",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm, Normal first and second heart sounds",
+                "abdominal": "Soft, Nondistended, maximally tender in the right lower quadrant",
+                "gu_flank": "No costovertebral angle tenderness",
+                "ext_back": "No cyanosis, clubbing or edema",
+                "skin": "No rash, Warm and dry",
+                "neuro": "Speech fluent",
+                "psych": "Normal mood, Normal mentation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

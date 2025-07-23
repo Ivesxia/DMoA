@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver demonstrates homogenous attenuation throughout with no evidence of focal lesions. The common bile duct is mildly dilated, likely associated with cholecystectomy. The pancreas is atrophic without focal lesion or pancreatic ductal dilatation. The kidneys are normal and symmetric with no hydronephrosis. Subcentimeter hypoattenuating lesions in the left kidney are likely cysts. Interval improvement of pericolonic fat stranding with some adjacent mild residual soft tissue thickening and extraluminal gas persists but has improved. Diverticulosis of the sigmoid colon is again demonstrated. No significant changes are noted in the lymph nodes or bones.",
+            "changes_over_time": "Interval improvement of pericolonic fat stranding, some adjacent mild residual soft tissue thickening and extraluminal gas has improved."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

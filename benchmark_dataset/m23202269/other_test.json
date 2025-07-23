@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Negative ECG pattern.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic, compatible with fatty infiltration. No focal hepatic lesion is identified. The main portal vein is patent with hepatopetal flow. The gallbladder is minimally distended, without evidence of gallstones, gallbladder wall edema, or sonographic sign. A trace amount of pericholecystic fluid is nonspecific. No intra- or extra-hepatic biliary ductal dilatation with the CBD measuring 6 mm. The pancreas is poorly visualized due to overlying bowel gas.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

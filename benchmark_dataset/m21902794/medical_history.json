@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Malaise, nausea, and vomiting.",
+        "history_of_present_illness": "Patient was transferred with malaise, nausea, and vomiting. Initially stable vitals in the ED, then spiked a temperature to 101.5°F and vomited again. Exam noted RUQ pain.",
+        "past_medical_history": "1. Alzheimer's dementia.  2. Recent stroke.  3. Hypertension.  4. Spinal stenosis.  5. Asthma.  6. GI bleed.  7. Anemia.  8. GERD.  9. Colon polyps.  10. Unsteady gait.  11. Osteoarthritis.  12. Question history of COPD.  13. Diastolic CHF.  14. History of depression.",
+        "family_history": "No biliary disease.",
+        "social_history": "Not specified."
+    }
+}

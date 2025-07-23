@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound (RUQ U/S)",
+            "date": "Not specified",
+            "findings": "A tiny stone seen within segment 2 of the duodenum likely represents a recently passed gallstone. Peripancreatic fat stranding is compatible with pancreatitis. Overall picture is compatible with gallstone pancreatitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine Test",
+            "date": "During admission",
+            "findings": "Initial creatinine level was 2.5, which increased to 2.7.",
+            "changes_over_time": "Creatinine levels increased from 2.5 to 2.7 during admission."
+        },
+        {
+            "procedure_name": "Lactate Test",
+            "date": "During admission",
+            "findings": "Lactate levels were 2.2 upon initial assessment and increased to 3.0.",
+            "changes_over_time": "Lactate levels increased from 2.2 to 3.0 during admission."
+        },
+        {
+            "procedure_name": "WBC Count",
+            "date": "During admission",
+            "findings": "Initial WBC count was 13.9, which increased to 15.3.",
+            "changes_over_time": "WBC count increased from 13.9 to 15.3 during admission."
+        },
+        {
+            "procedure_name": "Beta-hydroxybutyrate Test",
+            "date": "Not specified",
+            "findings": "Beta-hydroxybutyrate level was 1.87.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

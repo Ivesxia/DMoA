@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.4 °F",
+                "heart_rate": "81 bpm",
+                "blood_pressure": "114/73 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "level_of_consciousness": "AOx3",
+                "general_appearance": "NAD",
+                "cardiovascular": "RRR, S1S2",
+                "respiratory": "Normal respiratory effort",
+                "abdominal": "Slightly distended, tender to palpation in RUQ, Ext WWP without edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

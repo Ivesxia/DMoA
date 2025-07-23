@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute abdominal pain.",
+        "history_of_present_illness": "The pain began last night around midnight and was accompanied by nausea. The patient had one episode of emesis and experienced subjective chills without fever. She was unable to tolerate food and drink today due to the abdominal pain, prompting her to seek care at the emergency department.",
+        "past_medical_history": "Type 2 diabetes mellitus with retinopathy, congestive heart failure complicated by left mural thrombus, non-ischemic cardiomyopathy, left breast cancer (DCIS, status post lumpectomy and chemotherapy), cutaneous sarcoidosis, chronic kidney disease stage IV, hypercholesterolemia, hypothyroidism, sleep apnea on CPAP, osteoarthritis, depression, and anemia.",
+        "family_history": "No family history of early myocardial infarction, arrhythmia, cardiomyopathies, or sudden cardiac death.",
+        "social_history": "Not specified."
+    }
+}

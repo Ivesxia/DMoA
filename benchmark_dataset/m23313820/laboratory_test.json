@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Electrolyte Panel",
+            "date": "Not specified",
+            "findings": "Potassium level is 6.7 mEq/L, which is outside the normal range (ref range 3.5-5.3 mEq/L).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound (Complete Study)",
+            "date": "Not specified",
+            "findings": "Liver normal echogenicity, no focal hepatic lesions, normal common bile duct (2 mm), gallbladder mildly distended with cholelithiasis (large impacted gallstone 1.5 cm in neck, smaller mobile 6-mm stone), gallbladder wall normal thickness, no pericholecystic fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

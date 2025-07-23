@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.3 °F",
+                "blood_pressure": "134/64 mmHg",
+                "heart_rate": "81 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well appearing, pleasant female in no acute distress.",
+                "HEENT": "Sclerae anicteric. O-P intact.",
+                "neck": "Supple. No lymphadenopathy.",
+                "lungs": "Clear to auscultation bilaterally.",
+                "cardiac": "Regular rate and rhythm; normal S1/S2 without murmurs, clicks, or rubs.",
+                "abdomen": "Normoactive bowel sounds x3. Soft, non-tender, non-distended.",
+                "extremities": "No cyanosis, clubbing, or edema.",
+                "neurological": "Alert and oriented x3. Non-focal, grossly intact.",
+                "skin": "Intact."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain for 5-6 days.",
+        "history_of_present_illness": "Patient reported abdominal pain that began 5-6 days prior to presentation. The pain is described as constant, located in the middle of the abdomen extending to the left lower quadrant, and it worsens when sitting up. The patient also reports experiencing diarrhea twice a day and decreased appetite.",
+        "past_medical_history": "Hypothyroidism, history of DVT, recent diagnosis of DVT this month, and total thyroidectomy.",
+        "family_history": "Parents with hypertension.",
+        "social_history": "Not specified."
+    }
+}

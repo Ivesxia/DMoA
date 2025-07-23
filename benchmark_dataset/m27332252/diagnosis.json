@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Cholecystitis",
+        "differential_diagnosis": "Pancreatitis",
+        "diagnostic_reasoning": "The patient presented with acute epigastric abdominal pain and underwent MRCP which revealed multiple gallstones in the gallbladder and abnormal T2 signal prolongation compatible with pancreatitis. However, the absence of cholangitis or choledocholithiasis helped confirm the diagnosis of cholecystitis."
+    }
+}

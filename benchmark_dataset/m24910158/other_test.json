@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopy",
+            "date": "Not specified",
+            "findings": "Irregular Z line, erythema and friability at the GE junction consistent with esophagitis; erythema and friability in the stomach compatible with gastritis; erythema and friability in the duodenal bulb compatible with duodenitis; otherwise normal EGD to third part of the duodenum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Focal inflammatory changes in the right lower quadrant abutting the lateral aspect of the ascending colon and cecum; underlying colon notable for focal wall thickening and a prominent fecolith within its lumen; possible diverticulum noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

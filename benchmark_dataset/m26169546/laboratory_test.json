@@ -1,0 +1,47 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "echogenicity": "homogeneous",
+                    "focal_masses": "none",
+                    "portal_vein": "patent with hepatopetal flow",
+                    "ascites": "none"
+                },
+                "bile_ducts": {
+                    "intrahepatic_dilation": "none",
+                    "CBD_measurement": "4 mm"
+                },
+                "gallbladder": {
+                    "status": "distended",
+                    "contents": "sludge and stones",
+                    "impacted_stone_location": "gallbladder neck",
+                    "wall_thickness": "1.0 cm",
+                    "mural_edema": "present"
+                },
+                "pancreas": {
+                    "head": "within normal limits",
+                    "body": "within normal limits",
+                    "tail": "within normal limits",
+                    "ductal_dilatation": "none",
+                    "previous_cyst": "not clearly visualized"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ESCHERICHIA COLI, STREPTOCOCCUS ANGINOSUS (MILLERI) GROUP",
+            "date": "Not specified",
+            "findings": {
+                "result": "3.3 mg/dL",
+                "reference_range": {
+                    "lower": "2.7 mg/dL",
+                    "upper": "4.5 mg/dL"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

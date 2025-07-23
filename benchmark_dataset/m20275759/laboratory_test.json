@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver function test",
+            "date": "Not specified",
+            "findings": "ALT 201, AST 311, AP 173, Tbili 1.1, Lipase 288; ALT and AST are above normal range (ALT normal range 7-56 IU/L, AST normal range 10-40 IU/L), AP is within normal range (normal range 44-147 IU/L), Tbili is within normal range (normal range 0.1-1.2 mg/dL), Lipase is above normal range (normal range 0-160 IU/L)",
+            "changes_over_time": "Improving LFTs; no precise values or dates for previous tests provided."
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild left intrahepatic biliary dilation stable from prior CT, gallbladder distended with circumferential wall thickening, hyperemia, and substantial surrounding fat stranding compatible with acute cholecystitis, small amount of perihepatic fluid present.",
+            "changes_over_time": "Mild left intrahepatic biliary dilation stable from prior CT."
+        }
+    ]
+}

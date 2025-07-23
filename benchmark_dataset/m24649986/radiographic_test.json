@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ABDOMEN (SUPINE & ERECT)",
+            "date": "Not specified",
+            "findings": "Dilatation of small bowel loops measuring up to 4.3 cm positioned centrally in the abdomen. Air is noted in the cecum and the rectum. Remainder of the large bowel appears collapsed. Findings are concerning for a small-bowel obstruction.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

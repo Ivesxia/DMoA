@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Identified H. pylori infection.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder contains many shadowing stones; echogenic foci in the gallbladder wall likely represent adenomyomatosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

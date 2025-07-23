@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT CHEST W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The thyroid gland is enlarged with a 2.8 x 3.4 cm hypodense left thyroid nodule. The trachea is displaced to the right and mildly narrowed. No axillary lymphadenopathy or pathologically enlarged supraclavicular lymph node. No pathologically enlarged mediastinal lymph nodes. The esophagus is normal. No hilar lymphadenopathy. The heart is normal in size, with no significant pericardial effusion. The lung parenchyma is clear without focal consolidation, with anterior right upper and middle lobe subpleural changes possibly due to prior radiation therapy and mild centrilobular emphysema. The airways are patent to the subsegmental level. The main pulmonary artery is mildly enlarged measuring 3.4 cm in diameter. No concerning osseous lesion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

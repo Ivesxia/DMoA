@@ -1,0 +1,42 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "chest": "The bases of the lungs demonstrate atelectasis.",
+                "abdomen": {
+                    "liver": "Homogeneous in attenuation with no focal lesion identified.",
+                    "gallbladder": "Without radiopaque cholelithiasis.",
+                    "common_bile_duct": "Prominent measuring 9 mm.",
+                    "pancreas": "Without pancreatic duct dilatation and no focal lesion identified.",
+                    "spleen": "Normal in size with an accessory spleen incidentally noted.",
+                    "adrenal_glands": "Within normal limits and without nodularity.",
+                    "kidneys": "Present symmetric nephrograms and excretion of contrast.",
+                    "left_kidney": {
+                        "cyst": "8.6 x 6.6 cm hypodensity most compatible with a simple cyst."
+                    },
+                    "left_ureter": {
+                        "dilation": "Dilated with surrounding inflammatory changes.",
+                        "stone": "7.6 x 8.3 mm high density focus at the left ureteropelvic junction, thought to represent a stone."
+                    },
+                    "duodenal_diverticulum": "Approximately 3.0 x 3.3 cm extending from the second portion.",
+                    "sigmoid_colon": {
+                        "diverticula": "Scattered throughout the colon.",
+                        "bowel_wall_thickening": "15 cm loop with surrounding inflammatory changes.",
+                        "fluid_collection": "1.3 x 2.6 cm adjacent fluid collection."
+                    },
+                    "abdominal_aorta": "Normal in caliber without aneurysmal dilatation.",
+                    "lymph_nodes": "Scattered retroperitoneal and mesenteric nodes seen which do not meet CT size criteria for pathology."
+                },
+                "pelvis": {
+                    "bladder": "Moderately well distended and unremarkable.",
+                    "prostate_gland": "Within normal limits.",
+                    "inguinal_areas": "Small fat containing bilateral inguinal hernias noted."
+                },
+                "lesions": "No suspicious lytic or blastic lesion is identified."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

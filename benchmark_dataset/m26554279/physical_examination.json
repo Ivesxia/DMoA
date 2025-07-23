@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "70 bpm",
+                "blood_pressure": "119/82 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "Pleasant, with no acute distress.",
+                "HEENT": "No scleral icterus.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, rubs, or gallops.",
+                "pulmonary": "Clear to auscultation bilaterally.",
+                "abdominal": "Minimal right lower quadrant tenderness to deep palpation.",
+                "extremities": "Warm, no cyanosis, clubbing, or edema."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

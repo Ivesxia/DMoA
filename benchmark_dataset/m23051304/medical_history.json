@@ -1,0 +1,22 @@
+{
+    "medical_history": {
+        "chief_complaint": "Pleuritic chest pain with suspicion of gallbladder pathology.",
+        "history_of_present_illness": "Symptoms began one week ago with what was thought to be a stomach bug, followed by the onset of pleuritic chest pain which increased in severity the night prior to admission.",
+        "past_medical_history": {
+            "chronic_conditions": [
+                "Chronic leg pain",
+                "History of pleurisy",
+                "Migraines"
+            ],
+            "past_surgeries": [
+                "Gastric bypass",
+                "Tummy tuck",
+                "Ankle surgery for broken ankle",
+                "LEEP",
+                "Bone spurs removed"
+            ]
+        },
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

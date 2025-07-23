@@ -1,0 +1,10 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "3.5 mg/dL (reference range: 2.7 - 4.5 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

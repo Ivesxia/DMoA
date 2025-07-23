@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "The lung volumes are low. There is mild elevation of the right hemidiaphragm, with interposition of colon between the diaphragm and the right abdominal wall. Mild bilateral areas of atelectasis but no evidence of pneumonia. No pneumothorax, no pleural effusions. Normal size of the cardiac silhouette.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT chest/neck with contrast",
+            "date": "Not specified",
+            "findings": "No acute abnormalities in either the neck or chest (0.8 cm hypodensity in the inferior right lobe of the thyroid).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

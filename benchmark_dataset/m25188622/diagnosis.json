@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient's history of migrating abdominal pain, coupled with severe tenderness in the right lower quadrant and imaging studies showing a dilated appendix with hyperemic wall and adjacent inflammatory changes, strongly support the diagnosis of acute appendicitis. The absence of bowel obstruction and normal findings in other abdominal organs on the CT scan further reinforces this diagnosis."
+    }
+}

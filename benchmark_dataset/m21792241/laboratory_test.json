@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild bibasilar atelectasis, normal liver, pancreas, spleen, adrenal glands, and kidneys. Distended small-bowel loops with a small partially rim enhancing fluid collection adjacent to the appendiceal stump measuring 3.1 x 2.5 cm and another small collection with adjacent surgical material measuring 3.4 x 2.1 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "ESCHERICHIA COLI, MIXED BACTERIAL FLORA",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

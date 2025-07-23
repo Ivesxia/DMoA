@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized lung bases are free of nodules, consolidations, or effusions. The liver enhances homogeneously without any focal lesions. The gallbladder is normal. The pancreas, spleen, and adrenal glands are normal. Kidneys enhance and excrete contrast symmetrically. There is no ascites. There is no mesenteric or retroperitoneal adenopathy. The stomach is dilated and filled with contrast, which only minimally passes into the small bowel. There is no small or large bowel dilatation. The appendix is dilated up to 14 mm with moderate surrounding periappendiceal fat stranding. A single locule of air is seen within the lumen of the appendix. No free air or fluid collection is identified. Free fluid in the pelvis may be physiologic or be related to inflammation. The bladder, uterus, and adnexa are unremarkable. No inguinal or pelvic adenopathy is present. There are no fractures, malalignment, or degenerative disease.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

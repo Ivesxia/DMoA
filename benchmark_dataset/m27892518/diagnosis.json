@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with right lower quadrant/flank abdominal pain, which localized over time, accompanied by mild nausea. A CT scan revealed an enlarged and fluid-filled appendix with fecal material and surrounding inflammatory fat stranding, consistent with appendicitis."
+    }
+}

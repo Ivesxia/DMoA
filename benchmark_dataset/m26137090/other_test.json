@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Nucleic acid amplification assay for C. difficile",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest examination (portable AP)",
+            "date": "Not specified",
+            "findings": "Left pleural effusion and left basilar opacities are not significantly changed from prior. Opacities at the right base are improved compared to prior. Previously seen right perihilar opacity also appears improved.",
+            "changes_over_time": "Improved right base opacities and right perihilar opacity compared to prior."
+        }
+    ]
+}

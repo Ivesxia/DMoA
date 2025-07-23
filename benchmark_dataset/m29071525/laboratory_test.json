@@ -1,0 +1,48 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "echogenicity": "diffusely echogenic",
+                    "contour": "smooth",
+                    "focal_mass": "no focal liver mass",
+                    "portal_vein": "patent with hepatopetal flow",
+                    "ascites": "no ascites"
+                },
+                "bile_ducts": "no intrahepatic biliary dilation",
+                "chd": "2 mm",
+                "gallbladder": {
+                    "distension": "no gallbladder distension",
+                    "wall": "diffusely thickened",
+                    "tiny_focus": "hyperechoic tiny focus could represent a very small adherent stone measuring less than 5 mm",
+                    "pericholecystic_edema": "no pericholecystic edema"
+                },
+                "pancreas": {
+                    "head_and_body": "within normal limits",
+                    "tail": "not visualized due to the presence of gas"
+                },
+                "spleen": {
+                    "echogenicity": "normal",
+                    "length": "9.6 cm"
+                },
+                "kidneys": "limited views show no hydronephrosis",
+                "retroperitoneum": "visualized portions of aorta and IVC are within normal limits"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Test",
+            "date": "Not specified",
+            "findings": {
+                "value": "9.1 mg/dL",
+                "ref_range": {
+                    "lower": 8.4,
+                    "upper": 10.3
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

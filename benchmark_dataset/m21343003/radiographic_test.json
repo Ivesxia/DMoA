@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "multifocal pneumonia in the right lung and probable small right pleural effusion",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is echogenic and coarse with no evidence of focal lesions. No evidence of intra or extrahepatic biliary dilatation. The gallbladder is distended without evidence of stones or gallbladder wall thickening. Small amount of pericholecystic fluid. The pancreas is unremarkable. The spleen measures 11.3 cm. Small amount of perihepatic ascites.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

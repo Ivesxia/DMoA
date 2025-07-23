@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The lung bases are clear. There is no pleural or pericardial effusion. The liver, spleen, pancreas, gallbladder, and adrenals are normal. The kidneys demonstrate symmetric contrast enhancement and brisk bilateral excretion. The stomach is collapsed. Loops of small bowel are normal in caliber and enhancement. The small bowel mesentery appears normal. There is no intraperitoneal free fluid or free air. The appendix is draped over the spine and iliac vessels and measures up to 1 cm and is fluid filled with a hyper-enhancing wall consistent with inflammatory changes. There is surrounding inflammatory change. The bladder is normal in appearance. The uterus and adnexa are unremarkable. The colon is normal-appearing. There is no pelvic sidewall lymph node enlargement. Bone windows demonstrate no concerning lytic or blastic osseous lesion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

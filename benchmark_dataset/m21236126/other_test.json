@@ -1,0 +1,35 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "+S3 gallop; regular rhythm, +PACs, normal rate, no murmurs/rubs/gallops",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Diffusely echogenic, smooth contour, no focal liver mass, patent main portal vein with hepatopetal flow, no ascites.",
+                "bile_ducts": "No intrahepatic biliary dilation, CHD measures 4 mm.",
+                "gallbladder": "Large stone in gallbladder measuring 3.0 x 2.8 x 2.1 cm.",
+                "pancreas": "Partially visualized and unremarkable.",
+                "spleen": "Enlarged measuring 14.1 cm in length.",
+                "kidneys": "No hydronephrosis."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "D-dimer test",
+            "date": "Not specified",
+            "findings": "D-dimer 476",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

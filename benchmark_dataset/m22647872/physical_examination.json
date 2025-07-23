@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "blood_pressure": "137/82 mmHg",
+                "heart_rate": "70 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96%",
+                "oxygen_delivery": "Room air"
+            },
+            "relevant_findings": {
+                "general": "Cooperative. No acute distress.",
+                "HEENT": "Moist oral mucosa.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/rubs/gallops noted.",
+                "respiratory": "Clear to auscultation bilaterally.",
+                "abdominal": "Soft, slightly tender epigastrically, non-distended, bowel sounds present.",
+                "extremities": "No edema.",
+                "skin": "No rashes or lesions.",
+                "neurological": "Non-focal.",
+                "psychological": "Appropriate."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

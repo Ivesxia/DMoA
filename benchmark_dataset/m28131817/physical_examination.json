@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.8°F",
+                "heart_rate": "101 bpm",
+                "blood_pressure": "166/97 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "HEENT": "Normocephalic, atraumatic, Pupils equal, round and reactive to light, Oropharynx within normal limits",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm, Normal first and second heart sounds",
+                "abdominal": "Right greater than left lower quadrant pain",
+                "GU/flank": "Minimal right CVAT",
+                "extremities/back": "No cyanosis, clubbing or edema",
+                "skin": "No rash, Warm and dry",
+                "neuro": "Speech fluent"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

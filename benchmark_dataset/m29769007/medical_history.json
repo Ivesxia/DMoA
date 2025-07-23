@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right lower quadrant abdominal pain",
+        "history_of_present_illness": "The pain started two days ago, initially diffuse but now localized primarily in the right lower quadrant, escalating in severity. Associated symptoms include nausea, malaise, anorexia, chills, and bloating.",
+        "past_medical_history": "Systemic lupus erythematosus (SLE), migraine headaches, submandibular stones, hypothyroidism",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

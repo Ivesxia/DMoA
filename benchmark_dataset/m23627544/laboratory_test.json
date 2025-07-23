@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "US APPENDIX",
+            "date": "Not specified",
+            "findings": "No intrauterine pregnancy; the uterus is normal. Right ovary has a 3.6 x 2.7 x 3.6 cm hemorrhagic cyst, previously measuring 4.2 x 2.8 x 3.8 cm. No evidence of torsion. Left ovary is unchanged, with a 2.0 cm isoechoic structure. The appendix appears normal with a small amount of fluid surrounding it.",
+            "changes_over_time": "The right ovary's hemorrhagic cyst size decreased from 4.2 x 2.8 x 3.8 cm to 3.6 x 2.7 x 3.6 cm."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "PSEUDOMONAS AERUGINOSA, MIXED BACTERIAL FLORA",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

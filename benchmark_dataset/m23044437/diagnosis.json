@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The CT scan of the abdomen and pelvis identified the appendix as abnormal, measuring up to 11 mm with periappendiceal fat stranding and absence of contrast opacification, indicative of acute uncomplicated appendicitis. No free air or fluid collection was observed to suggest perforation."
+    }
+}

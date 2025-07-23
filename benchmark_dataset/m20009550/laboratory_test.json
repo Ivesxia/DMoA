@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis (UA)",
+            "date": "Not specified",
+            "findings": "Positive for mixed bacterial flora (>= 3 colony types), consistent with skin and/or genital contamination.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "No leukocytosis noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen/Pelvis",
+            "date": "Not specified",
+            "findings": "Significant for small hiatal hernia, but no other noted abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP Biliary & Pancreas",
+            "date": "Not specified",
+            "findings": "Demonstrates good opacification of the intra- and extra-hepatic biliary ducts, mild ductal dilatation of the dorsal duct. Findings are consistent with pancreatic divisum.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Dizziness and nausea/vomiting for two days.",
+        "history_of_present_illness": "Patient experienced dizziness and nausea/vomiting for the past two days, with several dozen episodes of non-sour, food-like vomiting. Dizziness occurs mainly with positional changes. Patient has been limiting water intake to 32 ounces/day to avoid fluid overload. Reports abdominal burning pain for several weeks with sudden onset, improved with omeprazole. Nausea is slightly better than prior but abdominal pain is significant, worse in the right upper quadrant and epigastric region, radiating to the back, exacerbated by food.",
+        "past_medical_history": "ESRD on hemodialysis, CAD post myocardial infarction, type 2 diabetes with neuropathy, GERD, hypertension, hypercholesterolemia, atrial fibrillation, COPD, BPH, diverticulosis, IBS.",
+        "family_history": "Father had AAA; brother had MI and bladder cancer.",
+        "social_history": "Social drinker, no recreational drug use; last consumed alcohol was 1-2 weeks prior."
+    }
+}

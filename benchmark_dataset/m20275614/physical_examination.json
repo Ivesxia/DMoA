@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "heart_rate": "92 bpm",
+                "blood_pressure": "139/72 mmHg",
+                "respiratory_rate": "15",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general": "NAD",
+                "cardiovascular": "RRR",
+                "abdominal": "S, TTP RLQ",
+                "extremities": "No c/c/e"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

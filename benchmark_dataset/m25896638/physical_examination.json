@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.3°F",
+                "heart_rate": "113 bpm",
+                "blood_pressure": "160/63 mmHg",
+                "respiratory_rate": "24 breaths/min",
+                "SPO2": "96% on 2L NC"
+            },
+            "relevant_findings": "Mild tenderness of medial joint line of left knee. Faint inspiratory rales in left lower lung field. Faint inspiratory wheezing in upper lung fields bilaterally.",
+            "changes_over_time": "Patient was afebrile and tachycardia resolved; there was improvement in respiratory status with adequate air movement noted."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.5°F",
+                "heart_rate": "92 bpm",
+                "blood_pressure": "153/63 mmHg",
+                "respiratory_rate": "23 breaths/min",
+                "SPO2": "96% on room air"
+            },
+            "relevant_findings": "Soft, non-tender, non-distended abdomen with present bowel sounds. No organomegaly. No rebound or guarding. No CVA tenderness to percussion.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "heart_rate": "76 bpm",
+                "blood_pressure": "115/53 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "SPO2": "93% on room air"
+            },
+            "relevant_findings": "Alert, oriented, in no acute distress. CN II-XII intact. No clubbing, cyanosis, or edema in extremities.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

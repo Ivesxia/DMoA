@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.8°F",
+                "heart_rate": "60 bpm",
+                "blood_pressure": "159/97 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "constitutional": "uncomfortable, unable to remain still",
+                "HEENT": "Normocephalic, atraumatic, Extraocular muscles intact, Pupils equal, round and reactive to light",
+                "chest": "Clear to auscultation, no chest wall tenderness to palpation",
+                "cardiovascular": "Regular Rate and Rhythm, Normal first and second heart sounds",
+                "abdominal": "Soft, Nondistended, RUQ tenderness to palpation",
+                "extremities": "No cyanosis, clubbing or edema",
+                "skin": "No rash, Warm and dry",
+                "neurological": "Speech fluent",
+                "psychological": "Normal mentation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

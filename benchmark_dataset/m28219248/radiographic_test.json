@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The lung bases are clear without consolidation or pleural effusion. There is mild dependent atelectasis. Evaluation of solid organs is limited in the absence of IV contrast, but liver, pancreas, spleen, adrenal glands, stomach, and duodenum are unremarkable. The kidneys are symmetric without hydronephrosis or renal stones. No free air or free fluid in the abdomen. No mesenteric or retroperitoneal lymphadenopathy by size criteria. There are extensive inflammatory changes surrounding the sigmoid colon which have undergone considerable interval improvement, with only very mild residual mesenteric fat stranding. No fluid collection to indicate abscess formation. Moderate diverticulosis is noted, with no new focus of inflammatory change. Urinary bladder, uterus, adnexae, and rectum are unremarkable. No free air or free fluid in the pelvis. No pelvic or inguinal lymphadenopathy by size criteria. No fracture or worrisome bony lesion.",
+            "changes_over_time": "The extensive inflammatory changes surrounding the sigmoid colon noted on the prior study have undergone considerable interval improvement, with only very mild residual mesenteric fat stranding. No new focus of inflammatory change."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.0°F",
+                "pulse": "73 bpm",
+                "blood_pressure": "141/82 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "O2_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD, well-appearing male",
+                "cardiovascular": "Heart RRR (regular rate and rhythm)",
+                "respiratory": "Lungs CTA (clear to auscultation) bilaterally",
+                "abdominal": "Abdomen soft, nondistended, tender to palpation in RLQ, no masses palpable, negative Rovsing's, obturator, and psoas signs",
+                "edema": "No edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

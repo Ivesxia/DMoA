@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits. The liver demonstrates homogenous attenuation, no focal lesions, and no biliary dilatation. The pancreas is unremarkable, as well as the spleen, adrenal glands, kidneys, urinary bladder, and distal ureters. Multiple diverticula present in the colon, with a diverticulum in the sigmoid colon showing surrounding fat stranding and wall thickening. An approximately 1.1 x 0.9 cm intramural hypodensity consistent with a small intramural abscess is noted. No drainable fluid collections or extraluminal air. Schmorl's node along the superior endplate of L1 is noted with mild anterior compression, findings appear chronic. Small umbilical hernia containing fat is observed.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Tests (LFTs)",
+            "date": "Not specified",
+            "findings": [
+                {
+                    "date": "Not specified",
+                    "Tbili": 0.9,
+                    "ALP": 385,
+                    "AST": 217,
+                    "ALT": 202
+                },
+                {
+                    "date": "Not specified",
+                    "Tbili": 1.2,
+                    "ALP": 275,
+                    "AST": 278,
+                    "ALT": 232
+                },
+                {
+                    "date": "Not specified",
+                    "Tbili": 1.4,
+                    "ALP": 410,
+                    "AST": 400,
+                    "ALT": 316
+                },
+                {
+                    "date": "Not specified",
+                    "Tbili": 1.9,
+                    "ALP": 432,
+                    "AST": 509,
+                    "ALT": 395
+                }
+            ],
+            "changes_over_time": "Rising hepatic/cholestatic indices as indicated by increasing Tbili, ALP, AST, and ALT levels."
+        },
+        {
+            "procedure_name": "Creatinine Test",
+            "date": "Not specified",
+            "findings": "Cr 1.7, outside normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Renal Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "right_kidney_size": "9.9 cm",
+                "left_kidney_size": "10.2 cm",
+                "mass": "No",
+                "stone": "No",
+                "hydronephrosis": "No",
+                "bladder": "Minimally to mildly distended but grossly unremarkable",
+                "Doppler_exam": {
+                    "arterial_waveforms": "Sharp upstrokes in bilateral main renal arteries",
+                    "normal_venous_flow": "Yes",
+                    "resistive_indices": {
+                        "right_kidney": "0.68-0.71",
+                        "left_kidney": "0.69-0.7"
+                    }
+                }
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

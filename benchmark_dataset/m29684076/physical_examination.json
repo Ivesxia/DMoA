@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.2°F",
+                "heart_rate": "111 bpm",
+                "blood_pressure": "115/78 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress.",
+                "HEENT": "No scleral icterus.",
+                "CV": "Regular rate and rhythm.",
+                "pulmonary": "Clear to auscultation bilaterally.",
+                "abdominal": "Soft, nondistended, tenderness to palpation in the right lower quadrant, no rebound or rigidity, no palpable masses.",
+                "extremities": "No edema, warm and well perfused."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

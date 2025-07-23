@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4 °F",
+                "heart_rate": "96 bpm",
+                "blood_pressure": "139/78 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "pain_score": "7",
+                "general_condition": "No acute distress (NAD)",
+                "lung_exam": "Clear to auscultation bilaterally (CTAB)",
+                "heart_exam": "Regular rate and rhythm (RRR)",
+                "abdominal_exam": "Softly distended, tenderness to palpation (TTP) in right lower quadrant (RLQ) and right mid quadrant, no overt peritoneal signs but positive guarding",
+                "perfusion": "Extremities warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

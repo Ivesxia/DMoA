@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "blood_pressure": "137/81 mmHg",
+                "heart_rate": "48 bpm",
+                "respiratory_rate": "24 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Middle-aged female, uncomfortable appearing, tachypneic.",
+                "HEENT": "MMM, no scleral icterus, PERRL, EOMI. JVD to jaw.",
+                "cardiovascular": "RRR, normal S1, S2. +S3 with mechanical mitral sound.",
+                "pulmonary": "Rales in bases bilaterally; decreased BS bilaterally, no wheeze or rhonchi.",
+                "abdominal": "Soft, non-distended, RUQ tenderness to palpation + Murphy's sign. No appreciable ascites.",
+                "gastrointestinal": "No foley.",
+                "extremities": "2+ pitting edema to knee bilaterally.",
+                "skin": "No rash.",
+                "neurological": "Cranial nerves II-XII intact, strength in upper extremities grossly normal, normal sensation to touch in upper extremities."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

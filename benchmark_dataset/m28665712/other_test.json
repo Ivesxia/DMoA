@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABDOMEN",
+            "date": "Not specified",
+            "findings": "Gallbladder is inflamed, compatible with known gangrenous cholecystitis. Left-sided pneumobilia is consistent with recent ERCP. A calcified granuloma is noted at the right lung base. No obstructive features were noted in the gastrointestinal tract.",
+            "changes_over_time": "Overall similar compared to the recent CT performed on Not specified."
+        },
+        {
+            "procedure_name": "EKG",
+            "date": "Not specified",
+            "findings": "Profound hypokalemia, although asymptomatic without EKG changes.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

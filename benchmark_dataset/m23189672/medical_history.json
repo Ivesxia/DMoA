@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Fever, shaking chills, and a syncopal episode.",
+        "history_of_present_illness": "Mr. ___ had a fever and chills one night prior to admission. This morning, while in the shower, he felt cold and dizzy and fell, hitting his head. He was found to have low blood pressure (80/54) and a heart rate of 60. His blood sugar was 110. During the transfer to the floor, he denied chills or fever.",
+        "past_medical_history": "Type 2 diabetes mellitus, coronary artery disease status post CABG x 4, pancreatic neuroendocrine tumor, hyperlipidemia, exercise-induced asthma, left shoulder issues, zoster, gout, and iron deficiency anemia.",
+        "family_history": "One uncle with hepatoma of uncertain etiology, another uncle with a history of lymphoma.",
+        "social_history": "Not specified."
+    }
+}

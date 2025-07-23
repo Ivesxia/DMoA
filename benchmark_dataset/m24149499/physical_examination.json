@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5 F",
+                "blood_pressure": "106/53 mmHg",
+                "heart_rate": "62 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "95% on RA"
+            },
+            "relevant_findings": {
+                "general": "Patient comfortable, lying in bed in no distress, no dyspnea",
+                "heent": "No JVD (approx 7cm > RA), mmm, no scleral icterus",
+                "cardiovascular": "Regular, S1S2, no murmurs, no rub",
+                "lungs": "Rales bibasilar, no rhonchi",
+                "abdominal": "Moderately distended, slightly hypoactive but present bowel sounds, diffuse upper quadrant tenderness without rebound",
+                "neurologic": "Alert and oriented, fluent speech, no tremor. Able to sit up independently in bed",
+                "skin_lower_extremities": "Trace pitting edema bilateral legs, warm and well-perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

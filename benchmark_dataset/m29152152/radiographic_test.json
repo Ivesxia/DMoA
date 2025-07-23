@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Pelvic ultrasound",
+            "date": "Not specified",
+            "findings": "Transabdominal ultrasound demonstrates the uterus measuring 7.3 x 6.0 x 6.2 cm with a 4.5 x 3.5 x 4.1 cm fibroid within the fundus. The endometrium measures 4 mm in thickness with no abnormal vascularity. A dilated tubular structure in the right adnexa measuring 3.8 x 2.4 x 4.7 cm without internal debris or echogenicity. The right ovary is normal, and the left ovary is not visualized.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

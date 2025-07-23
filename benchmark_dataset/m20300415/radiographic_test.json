@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild bibasilar atelectasis, no pleural effusions, nodules, or other opacities at the lung bases; multiple gallstones with one stone at the cystic duct ostium; mildly thickened gallbladder wall; no pericholecystic inflammatory stranding; liver, stomach, bowel, spleen, pancreas, kidneys, adrenal glands within normal limits; incidental retroaortic left renal vein; atherosclerotic changes in abdominal aorta; no free fluid or free air in abdomen or pelvis; rectum, sigmoid colon, and prostate within normal limits; small bilateral fat-containing inguinal hernias; calcification in rectovesicular pouch; no suspicious bony lesions; multilevel degenerative changes in lumbar spine.",
+            "changes_over_time": "Schmorl's nodes at L2 and L4 appear unchanged."
+        }
+    ]
+}

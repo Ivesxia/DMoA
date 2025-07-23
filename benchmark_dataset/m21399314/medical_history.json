@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain primarily in the epigastrium, nausea, and dry heaving.",
+        "history_of_present_illness": "The patient developed abdominal pain yesterday afternoon, which continued to worsen throughout the evening. She experienced similar symptoms about __ weeks ago, but that episode did not last as long and was without fever. After the previous episode, the patient has not felt quite the same.",
+        "past_medical_history": "Hypertension, anxiety, gout, possible heart murmur, palpitations.",
+        "family_history": "No history of GI malignancy.",
+        "social_history": "Not specified."
+    }
+}

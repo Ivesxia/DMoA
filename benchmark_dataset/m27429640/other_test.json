@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Physical Examination",
+            "date": "Not specified",
+            "findings": "Patient is alert and oriented, with vital signs of 98.3°F, pulse 84, blood pressure 124/76, respiratory rate 18, and oxygen saturation 99% on room air. Positive tenderness to palpation in the right lower quadrant, positive Rovsing's sign, positive obturator and psoas signs, no guarding, and no rebound tenderness.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Abdominal CT showed fluid-filled appendix up to 1.2 cm with hyperemic wall and surrounding inflammatory changes; no perforation or fluid collection noted. Other findings included dependent atelectasis at lung bases, several small liver hypodensities likely representing simple cysts, and moderate fecal loading in the large bowel.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

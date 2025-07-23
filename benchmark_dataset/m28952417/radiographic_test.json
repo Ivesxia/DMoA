@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Three pulmonary nodules are seen in the right lung base, with the largest perifissural nodule measuring 6 mm. Mild subsegmental atelectasis without pleural effusions. Small hiatal hernia. The appendix is significantly dilated, measuring up to a maximum of 15 mm and is fluid filled, with an 8-mm appendicolith at the base. Extensive fat stranding surrounding the appendix. Multiple prominent mesenteric lymph nodes in the right lower quadrant. No bowel obstruction. The urinary bladder, distal ureters, uterus, adnexa, sigmoid colon, and rectum are unremarkable. Scattered diverticulosis of the sigmoid colon is present without evidence of acute diverticulitis. Fluid-density lesion within the right sacrum may represent a Tarlov's cyst.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

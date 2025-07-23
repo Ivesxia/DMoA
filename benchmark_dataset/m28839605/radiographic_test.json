@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Pericholecystic fluid surrounding the gallbladder, multiple gallstones within the gallbladder, gallbladder wall not thickened and enhances normally post-contrast, cystic change and thickening of the fundus of the gallbladder consistent with adenomyomatosis, no intra or extrahepatic duct dilatation, no filling defects within the biliary tree, normal pancreas, no peripancreatic fat stranding, wedge-shaped enhancement within segment VII of the liver surrounding a small cyst without persistent enhancement on delayed phase, multiple subcentimeter T2 hyperintense lesions in the liver likely representing small cysts, multiple peripelvic and simple cysts within both kidneys, otherwise unremarkable kidneys, 3.9 cm diverticulum arising from the third part of the duodenum, 0.6 cm lymph node at the porta hepatis, 0.5 cm lymph node adjacent to the falciform ligament, bibasal atelectasis in the lung bases, scoliosis of the upper lumbar spine, normal bone marrow signal, no destructive osseous lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

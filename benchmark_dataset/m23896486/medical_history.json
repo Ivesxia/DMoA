@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient reports onset of mild, cramping epigastric pain 2 days ago, which transitioned to the right lower quadrant. Pain is exacerbated with certain movements and after meals. Patient has to sit up to elicit the pain. Pain has been present for 48 hours.",
+        "past_medical_history": "Macular degeneration, Asthma",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

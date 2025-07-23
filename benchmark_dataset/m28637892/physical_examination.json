@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "65 bpm",
+                "blood_pressure": "128-155/60-70 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "pleasant, NAD",
+                "eyes": "EOMI, anicteric",
+                "ENT": "o/p clear, mm dry",
+                "neck": "no JVD, no bruits",
+                "cardiovascular": "RRR, no m, nl S1, S2",
+                "respiratory": "CTAB, slight bibasilar crackles, no wheezes",
+                "abdominal": "soft, nontender on exam, nondistended, +BS, no HSM",
+                "lymphatic": "no cervical, axillary, inguinal LAD",
+                "extremities": "no edema, good peripheral pulses, no cyanosis",
+                "neurological": "A&OX3, CN II-XII intact, normal gait, strength equal b/l, intact sensation, reflexes 2+",
+                "skin": "warm, no rashes",
+                "psychological": "appropriate"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "67/46",
+                "heart_rate": "Not specified",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Intubated",
+                "eyes": "No scleral icterus, pupils minimally responsive",
+                "cardiovascular": "Regular rate and rhythm, no murmur/rubs/gallops",
+                "respiratory": "Diffusely rhonchorous",
+                "gastrointestinal": "Soft, non-distended",
+                "extremities": "Extremities cool, no edema",
+                "neurological": "Does not respond to commands, does not withdraw to pain"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

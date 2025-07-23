@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Liver is of normal echogenicity without any focal lesions or intra or extrahepatic biliary dilatation. Common bile duct measures 5 mm. Portal vein is patent with normal hepatopetal flow. A shadowing gallstone is present that is lodged within the neck. No gallbladder wall edema. A trace amount of perihepatic ascites is noted. Pancreas, spleen and left kidney were unable to be visualized. Limited views of the right kidney demonstrate no hydronephrosis. IVC is unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

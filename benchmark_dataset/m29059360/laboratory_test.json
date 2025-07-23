@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver appears normal in echotexture with no focal liver lesions identified. The common bile duct measures 0.3 cm and is within normal limits. The gallbladder appears contracted about multiple gallstones, with diffuse gallbladder wall thickening measuring up to 7 mm and gallbladder wall edema, which is persistent but slightly improved compared to the prior US. No evidence of pericholecystic fluid. The main portal vein is patent. No free fluid.",
+            "changes_over_time": "Gallbladder wall edema is persistent but slightly improved compared to the prior US."
+        },
+        {
+            "procedure_name": "Laboratory culture",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Biochemical test",
+            "date": "Not specified",
+            "findings": "1.7 mmol/L (specific test not mentioned with reference range of 0.5 - 2.0 mmol/L).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

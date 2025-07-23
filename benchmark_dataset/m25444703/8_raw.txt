@@ -1,0 +1,28 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "surgery",
+      "specific_treatment": "endoscopic ultrasound with fine needle aspiration",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Not specified"
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2023-03-01",  // The exact date is not provided. Assuming "2023-03-01" for illustration; please adjust to the actual treatment initiation date if known.
+      "event": "acute onset of sharp epigastric pain reported"
+    },
+    {
+      "date": "2023-03-01",  // Same assumption as above for surgeries.
+      "event": "surgery: endoscopic ultrasound with fine needle aspiration performed"
+    },
+    {
+      "date": "2023-03-03",  // Assuming next imaging date in absence of specific dates.
+      "event": "CT abdomen performed, findings noted large heterogeneously lesion in pancreatic head"
+    }
+  ]
+}
+```

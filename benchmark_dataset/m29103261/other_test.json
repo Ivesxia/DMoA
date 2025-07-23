@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopic sphincterotomy and papillotomy",
+            "date": "Not specified",
+            "findings": "Leukocytosis, unspecified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": "Heterogeneous echotexture of the liver without focal lesions, common bile duct measures 4 mm, 3 mm stone in neck of gallbladder, gallbladder is nondistended, no wall thickening or pericholecystic fluid, unremarkable visualized portions of the pancreatic head and body, no hydronephrosis, stones, or concerning lesions in the kidneys.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

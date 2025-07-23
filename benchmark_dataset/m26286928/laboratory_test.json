@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The gallbladder is non-distended; however, there is extensive gallbladder wall edema and thickening up to 15 mm. There is cholelithiasis. The liver demonstrates normal echotexture without focal liver lesions. No intrahepatic biliary dilatation is present. The CBD is not dilated measuring up to 4 mm. The portal vein is patent with hepatopetal flow. No significant free fluid is seen. The pancreas is not well visualized. Limited views of the right kidney are unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "8.3 mg/dL (normal range 8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

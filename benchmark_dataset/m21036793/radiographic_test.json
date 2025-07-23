@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "The lungs are clear. There is no focal consolidation or pneumothorax. There is no vascular congestion or pleural effusions. Cardiomediastinal and hilar contours are within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

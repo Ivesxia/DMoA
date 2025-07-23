@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "93 bpm",
+                "blood_pressure": "147/90 mmHg",
+                "respiratory_rate": "18 bpm"
+            },
+            "relevant_findings": {
+                "general": "Alert & oriented, very anxious and tearful",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/gallops/rubs",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes/rhonchi/rales",
+                "abdominal": "Soft, nondistended, acutely tender to palpation in RLQ, no rebound or guarding, no palpable masses",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "Danazol",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "100 mg once a week for long-term symptom control; 200 mg the day before surgery.",
+      "treatment_response": "No significant events were reported until discharge; patient experienced edema alternating between feet every 10 days, resolving by week 8."
+    },
+    {
+      "treatment_type": "transfusion",
+      "specific_treatment": "Fresh Frozen Plasma (FFP)",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "3 pints transfused during surgery.",
+      "treatment_response": "No special events detected until discharge."
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2023-XX-XX", // Not specified
+      "event": "Surgery scheduled for total laparoscopic hysterectomy."
+    },
+    {
+      "date": "2023-XX-XX", // Day before surgery
+      "event": "Patient treated with 200 mg of danazol."
+    },
+    {
+      "date": "2023-XX-XX", // Date of surgery
+      "event": "Surgery performed; 3 pints of FFP transfused."
+    },
+    {
+      "date": "2023-XX-XX", // Day after surgery
+      "event": "Patient stayed at sub-intensive care unit for monitoring."
+    },
+    {
+      "date": "2023-XX-XX", // 4 days after surgery
+      "event": "Patient discharged."
+    },
+    {
+      "date": "2023-XX-XX", // 1 week after discharge
+      "event": "Outpatient clinic visit; no significant event reported."
+    },
+    {
+      "date": "2023-XX-XX", // 4 weeks after discharge
+      "event": "Second outpatient visit; patient complained of edema alternating between left and right feet every 10 days."
+    },
+    {
+      "date": "2023-XX-XX", // 8 weeks after discharge
+      "event": "Patient reported no longer experiencing edema."
+    }
+  ]
+}
+```

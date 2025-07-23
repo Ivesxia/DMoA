@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MR FUNCTIONAL BRAIN BY PHYS/PSYCH",
+            "date": "Not specified",
+            "findings": "Increased FLAIR signal and T2 signal in the left frontal lobe with an oval cystic component measuring 18 mm in AP dimension and 10 mm in transverse dimension. Very faint enhancement just medial to the cystic component. Several scattered FLAIR hyperintense foci in the subcortical white matter suggest sequela of chronic small vessel ischemic disease. Major intracranial arteries and venous sinuses appear patent. Decreased relative cerebral blood volume in the left frontal abnormality. No significant hyperperfusion noted on the ASL sequence. MR spectroscopy shows uniformly decreased NAA in the adjacent area of FLAIR signal abnormality, no definite tumoral spectrum, choline and creatinine peaks are roughly the same in the abnormal and normal areas.",
+            "changes_over_time": "Compared to prior, the findings appear similar."
+        },
+        {
+            "procedure_name": "Leukocytosis, unspecified",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

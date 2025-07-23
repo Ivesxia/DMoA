@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The CT abdomen and pelvis showed a dilated appendix measuring 9 mm, fluid-filled and slightly hyperemic, indicating appendicitis."
+    }
+}

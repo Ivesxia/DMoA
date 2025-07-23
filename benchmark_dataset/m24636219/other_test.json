@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Two attempts failed to remove obstructing gallstone.",
+            "changes_over_time": "Failed attempts to remove stone."
+        },
+        {
+            "procedure_name": "Laparoscopic cholecystectomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Illumigene DNA amplification assay",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

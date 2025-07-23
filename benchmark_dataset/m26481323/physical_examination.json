@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "62 bpm",
+                "blood_pressure": "125/71 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "AAOx3, uncomfortable",
+                "cardiovascular": "RRR",
+                "respiratory": "CTAB",
+                "abdominal": "mildly firm throughout, right sided tenderness, worse in RMQ",
+                "extremities": "no edema, extrem warm",
+                "rectal": "no masses, no blood"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

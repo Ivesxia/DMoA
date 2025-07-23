@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "BUN",
+            "date": "Not specified",
+            "findings": "BUN 34 mg/dL (elevated, normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Creatinine 1.7 mg/dL (elevated, normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate 2.1 mmol/L (elevated, normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "Hgb 10.5 g/dL (low, normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "HCT 32.9% (low, normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "White Blood Cell Count",
+            "date": "Not specified",
+            "findings": "WBC 9.0 x10^9/L (normal, normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "UA with small leukocytes, protein present, no bacteria",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Residual 7 mm nonobstructing stone in lower pole of the left kidney, unchanged 4.2 cm hypodense lesion (possible cyst) in the interpolar region of the right kidney.",
+            "changes_over_time": "Previous stone in the distal right ureter has passed with interval resolution of the right-sided hydronephrosis."
+        }
+    ]
+}

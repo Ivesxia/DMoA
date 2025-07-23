@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right lower quadrant pain",
+        "history_of_present_illness": "Patient initially started having pain two days prior to ER visit, which he thought was related to his celiac disease. He experienced mild improvement after inducing vomiting. The pain worsened this morning, prompting the ER visit. He noted chills but no fevers and had no appetite the day prior to admission.",
+        "past_medical_history": "Celiac disease",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

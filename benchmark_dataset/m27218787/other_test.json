@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laparoscopic Appendectomy",
+            "date": "Not specified",
+            "findings": "Appendix was dilated measuring up to 10 mm with hyperemic walls filled with negative Volumen contrast proximal to an appendicolith. Decompressed appendix tip distally observed. No evidence of appendiceal wall rupture, periappendiceal fluid, phlegmonous changes or discrete abscess formation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal CT with contrast",
+            "date": "Not specified",
+            "findings": "Lower chest, hepatobiliary, pancreas, spleen, adrenal glands, urinary tract, gastrointestinal tract, reproductive organs, lymph nodes, vascular structures, and bones were all normal. Presence of a dilated appendix with appendicolith, but no signs of rupture or abscess.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

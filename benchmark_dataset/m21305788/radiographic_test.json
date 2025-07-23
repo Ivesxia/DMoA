@@ -1,0 +1,30 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Visualized lung fields are within normal limits. There is no evidence of pleural or pericardial effusion.",
+                "abdominal": {
+                    "hepatobiliary": "The liver demonstrates homogenous attenuation throughout. There is no evidence of focal lesions. There is no evidence of intrahepatic or extrahepatic biliary dilatation. The gallbladder is within normal limits.",
+                    "pancreas": "The pancreas has normal attenuation throughout, without evidence of focal lesions or pancreatic ductal dilatation. There is no peripancreatic stranding.",
+                    "spleen": "The spleen shows normal size and attenuation throughout, without evidence of focal lesions.",
+                    "adrenals": "The left adrenal gland is normal in size and shape. There is stable subcentimeter right adrenal nodule, unchanged since previous imaging and statistically likely an adenoma.",
+                    "urinary": "The kidneys are of normal and symmetric size with normal nephrogram. There is no evidence of focal renal lesions or hydronephrosis. There is a nonobstructing 6 mm stone in the right kidney, unchanged. There is no perinephric abnormality.",
+                    "gastrointestinal": "There is a small hiatal hernia. The stomach is unremarkable. Small bowel loops demonstrate normal caliber, wall thickness, and enhancement throughout. The colon and rectum are within normal limits. The appendix is dilated up to 10 mm and fluid filled, with new surrounding mild fat stranding, and an appendicolith at its base, consistent with early uncomplicated appendicitis.",
+                    "pelvis": "The urinary bladder and distal ureters are unremarkable. There is no free fluid in the pelvis.",
+                    "reproductive_organs": "The prostate contains central calcifications, unchanged. The seminal vesicles are unremarkable.",
+                    "lymph_nodes": "There is no retroperitoneal or mesenteric lymphadenopathy. There is no pelvic or inguinal lymphadenopathy.",
+                    "vascular": "There is no abdominal aortic aneurysm. Moderate atherosclerotic disease is noted.",
+                    "bones": "There are mild degenerative changes in the lumbar spine. There is no evidence of worrisome osseous lesions or acute fracture.",
+                    "soft_tissues": "The abdominal and pelvic wall is within normal limits."
+                }
+            },
+            "changes_over_time": {
+                "adrenals": "There is stable subcentimeter right adrenal nodule, unchanged since previous imaging.",
+                "urinary": "There is a nonobstructing 6 mm stone in the right kidney, unchanged.",
+                "appendix": "The appendix is dilated and fluid filled with new surrounding mild fat stranding, consistent with early uncomplicated appendicitis."
+            }
+        }
+    ]
+}

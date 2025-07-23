@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "blood_pressure": "180/97 mmHg",
+                "heart_rate": "78 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "blood_pressure": "171/91 mmHg",
+                "heart_rate": "74 bpm",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": "Patient is alert, oriented, in no acute distress. HEENT: Sclera anicteric, dry mucous membranes, oropharynx clear. Lungs clear to auscultation bilaterally. Cardiovascular: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, or gallops. Abdomen: Moderately firm, non-tender, moderately distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly. Extremities: Warm, well perfused, 2+ pulses, no clubbing or cyanosis.",
+            "changes_over_time": "Patient felt much better post-transfer and was able to eat a sandwich for the first time since presentation."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Ultrasound of the abdomen: The liver is homogeneous, main portal vein patent, intrahepatic bile ducts normal, gallbladder unremarkable, pancreas grossly unremarkable, kidneys normal size with a parenchymal scar in the right kidney.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

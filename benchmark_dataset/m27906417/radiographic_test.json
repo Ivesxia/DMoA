@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "Cardiomediastinal contours are normal. The lungs are clear. There is no pneumothorax or pleural effusion. The osseous structures are unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

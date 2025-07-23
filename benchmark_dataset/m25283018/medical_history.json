@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain in the right upper quadrant.",
+        "history_of_present_illness": "Patient presented with sharp right upper quadrant pain that started today. He had a similar presentation two weeks ago, after which surgery was not performed. The patient reports having nausea and vomiting and denies any fevers or chills.",
+        "past_medical_history": "1) Coronary artery disease (CAD) 2) Hypertension 3) Atrial fibrillation (no Coumadin) 4) Pernicious anemia 5) Depression",
+        "family_history": "Paternal family significant for early CAD. Maternal history significant for diabetes and hypertension.",
+        "social_history": "Not specified."
+    }
+}

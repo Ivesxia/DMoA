@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Clear lung bases bilaterally, liver contains two sub-cm scattered hypodensities, multiple hypoattenuating bilateral renal lesions, inflamed cecal diverticulum with surrounding pericolonic fat stranding and thickening of the lateroconal fascia, appendix normal in size with mildly thickened walls and minimal adjacent stranding. No intra- or extra-biliary duct dilatation, normal pancreas and spleen, no free fluid or free air in the abdomen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

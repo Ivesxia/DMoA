@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1F",
+                "blood_pressure": "113/91 mmHg",
+                "heart_rate": "95 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "overall_assessment": "Patient is comfortable, pleasant, and in no acute distress.",
+                "peripheral_perfusion": "Normal peripheral perfusion",
+                "respiratory_effort": "Non-labored respirations",
+                "abdominal_exam": {
+                    "description": "Abdomen is soft, non-distended, and mildly tender in the RLQ.",
+                    "guarding": "No guarding"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

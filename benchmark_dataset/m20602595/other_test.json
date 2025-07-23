@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PTT",
+            "date": "Not specified",
+            "findings": "14.8 sec",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Stable mild intrahepatic biliary dilatation, bibasilar dependent atelectasis, inflammation extending inferomedially from the cecal tip into the pelvis, suggestive of complicated appendicitis with contained perforation, interval resolution of much of previously seen para-aortic fluid.",
+            "changes_over_time": "A small amount of low-density fluid within the deep pelvis appears decreased in amount as compared to previous imaging."
+        }
+    ]
+}

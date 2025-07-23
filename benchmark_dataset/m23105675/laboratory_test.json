@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "With exception of a calcified granuloma in the left lung base, the lung bases are clear. The liver enhances homogeneously, without focal lesions or intrahepatic biliary duct dilatation. The gallbladder is unremarkable and the portal vein is patent. The kidneys show symmetric nephrograms and excretion of contrast. Multiple bilateral renal hypodensities are too small to characterize but statistically likely simple cysts. No solid renal lesion is identified. The small and large bowel are within normal limits, and the appendix is 1.0 cm in caliber, fluid filled with mucosal enhancement and peripheral stranding compatible with acute appendicitis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

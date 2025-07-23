@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "81 bpm",
+                "blood_pressure": "159/65 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well appearing, Awake, Alert, and oriented x3, No acute distress.",
+                "HEENT": "No scleral icterus, midline trachea, neck supple.",
+                "cardiovascular": "Regular rate and rhythm.",
+                "pulmonary": "Breathing unlabored on room air.",
+                "abdominal": "Soft, obese, tender to palpation in the right and left lower quadrants with guarding, without rigidity or rebound tenderness.",
+                "extremities": "Warm and well perfused, no edema."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

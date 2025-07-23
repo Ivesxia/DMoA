@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRI ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized hepatic parenchyma is normal in signal intensity without focal liver lesion. No intra- or extra-hepatic biliary dilatation. No gallstones in the gallbladder. Spleen normal in size. Pancreas homogeneous in signal intensity. No evidence for hydronephrosis or hydroureter in both adrenal glands and kidneys. No retroperitoneal masses or adenopathy. In the right lower quadrant, a retrocecal appendix measures approximately 9 mm in diameter at its tip with associated periappendiceal inflammatory stranding and restricted diffusion, consistent with appendicitis. No gross fetal abnormality identified, uterus retroflexed with a closed cervical os measuring 3.5 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial cultures",
+            "date": "Not specified",
+            "findings": "Mixed bacterial flora (>= 3 colony types), consistent with skin and/or genital contamination.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The liver parenchyma appears normal on T1-weighted sequences. There is no focal intrahepatic mass or intrahepatic bile duct dilation. Cholelithiasis is present. The CBD is normal in caliber. No ductal stones are detected. The pancreas appears normal, demonstrating a normal main duct. The adrenal glands, kidneys, stomach, and intra-abdominal loops of small and large bowel are normal. The spleen is mildly enlarged, measuring 15.6 cm. There is no mesenteric or retroperitoneal lymphadenopathy, and no free fluid. There are no bony lesions concerning for malignancy or infection. A collection of Tarlov's cysts overlies the mid sacrum.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

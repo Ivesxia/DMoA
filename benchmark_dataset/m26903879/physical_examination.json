@@ -1,0 +1,35 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "71 bpm",
+                "blood_pressure": "114/56 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Well appearing, no acute distress, awake, alert, appropriate, and oriented x 3.",
+                "skin": "Warm to touch, no apparent rashes.",
+                "HEENT": "No conjunctival pallor, OP clear.",
+                "cardiovascular": "RRR, no audible m/r/g.",
+                "lungs": "Clear to auscultation.",
+                "abdomen": "Soft, non-distended, mild RUQ and LLQ pain. BS: wnl, no r/g.",
+                "extremities": "No C/C/E.",
+                "neurological": "Strength and sensation intact bilaterally."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "75 bpm",
+                "blood_pressure": "111/50 mmHg",
+                "respiratory_rate": "20 breaths/min"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 99.8°F, Heart Rate: 89 bpm, Blood Pressure: 114/55 mmHg, Respiratory Rate: 17 breaths/min",
+            "relevant_findings": "General: Alert & oriented, mild distress, lying supine in bed; HEENT: No scleral icterus, mucus membranes dry; CV: Regular rate and rhythm, No murmurs/gallops/rubs; PULM: No respiratory distress; ABD: Soft, mildly distended, very tender in right lower quadrant with positive McBurney's, psoas, and Rovsing's signs, guarding present, no rebound, no palpable masses; Extremities: No edema, warm and well perfused.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Progressive abdominal pain",
+        "history_of_present_illness": "Pain started at 0300 and was initially periumbilical, then moved to the right upper quadrant (RUQ) and right lower quadrant (RLQ). The pain has gradually worsened throughout the day and is associated with nausea but no vomiting.",
+        "past_medical_history": "GERD, chronic low back pain related to past injury, thyroid nodule being followed by endocrine.",
+        "family_history": "Non-contributory",
+        "social_history": "Denies recent steroid use, history of smoking, or NSAID use. Currently using pain medication for chronic low back pain related to an injury."
+    }
+}

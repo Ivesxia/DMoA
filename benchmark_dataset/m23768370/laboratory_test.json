@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "CT of the abdomen shows a dilated appendix measuring up to 13 mm and fluid filled, with no periappendiceal fat stranding. No evidence of perforation or abscess formation. The kidney, liver, gallbladder, pancreas, spleen, and adrenal glands are normal. No free air or fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test (not explicitly named)",
+            "date": "Not specified",
+            "findings": "14.0 mg/dL, within normal range (ref range 6.0 - 20.0 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

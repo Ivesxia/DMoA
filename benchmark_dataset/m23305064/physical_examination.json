@@ -1,0 +1,47 @@
+{
+    "physical_examinations": [
+        {
+            "date": "0904",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "blood_pressure": "125/80 mmHg",
+                "heart_rate": "85 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96%",
+                "oxygen_delivery": "Room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and in no apparent distress",
+                "eyes": "Anicteric, pupils equally round",
+                "ent": "Ears and nose without visible erythema, masses, or trauma; oropharynx without visible lesion, erythema or exudate",
+                "cardiovascular": "Heart regular, no murmur, no S3, no S4. No JVD.",
+                "respiratory": "Lungs clear to auscultation with good air movement bilaterally; breathing is non-labored.",
+                "gastrointestinal": "Abdomen soft, ++ tender in epigastrium, RUQ with some rebound tenderness, no guarding. +BS.",
+                "genitourinary": "No suprapubic fullness or tenderness to palpation.",
+                "musculoskeletal": "Neck supple, moves all extremities, strength grossly full and symmetric bilaterally in all limbs.",
+                "skin": "No rashes or ulcerations noted.",
+                "neurological": "Alert, oriented, face symmetric, gaze conjugate with EOMI, speech fluent, moves all limbs, sensation to light touch grossly intact throughout.",
+                "psychological": "Pleasant, appropriate affect."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "blood_pressure": "131/84 mmHg",
+                "heart_rate": "89 bpm",
+                "respiratory_rate": "17 breaths/min",
+                "oxygen_saturation": "95%",
+                "oxygen_delivery": "Room air"
+            },
+            "relevant_findings": {
+                "heent": "PERRL, EOMI, nares patent, mucus membranes pink/moist.",
+                "cardiovascular": "RRR.",
+                "pulmonary": "Clear bilaterally.",
+                "abdominal": "Soft, obese, non-tender; active bowel sounds; multiple laparoscopic incisions well approximated with dermabond."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

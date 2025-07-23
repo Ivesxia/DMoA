@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated up to 15 mm and contains gas. A possible appendicolith is in the region of the appendiceal neck, with no surrounding inflammatory stranding. No intraperitoneal free fluid or free air. The colon is unremarkable. The bladder and prostate are normal in appearance.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRSA culture",
+            "date": "Not specified",
+            "findings": "No MRSA isolated.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

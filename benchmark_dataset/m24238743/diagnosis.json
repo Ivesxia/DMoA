@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with crampy abdominal pain that migrated to the right lower quadrant (RLQ), accompanied by diarrhea and vomiting. Physical examination revealed tenderness in the RLQ. CT imaging indicated a dilated, fluid-filled appendix with a hyperenhancing wall and an obstructing appendicolith, confirming the diagnosis of acute appendicitis."
+    }
+}

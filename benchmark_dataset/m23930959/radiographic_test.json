@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Heart size is normal. Aside from mild pulmonary vascular congestion, the hilar and mediastinal contours are normal. No focal consolidations concerning for pneumonia are identified. There is a small left pleural effusion. There is no evidence of pneumothorax.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

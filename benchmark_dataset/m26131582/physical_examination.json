@@ -1,0 +1,44 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "140s/80s",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "sitting up, appears well",
+                "eyes": "EOMI, PERRLA",
+                "HEENT": "supple neck",
+                "cardiovascular": "RRR with no MRG",
+                "respiratory": "CTA with decreased at base, crackles bilaterally L>R",
+                "gastrointestinal": "tender to light palpation over right upper and mid epigastric region, + rebound, + guarding",
+                "skin": "no rashes, edema",
+                "neurological": "AOx3, moving all extremities with purpose"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Discharge",
+            "vital_signs": {
+                "temperature": "98.3F",
+                "heart_rate": "78",
+                "blood_pressure": "144/75",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "95% RA"
+            },
+            "relevant_findings": {
+                "general": "sitting up, appears well",
+                "HEENT": "soft, trachea midline",
+                "cardiovascular": "RRR, no m/r/g",
+                "respiratory": "CTA",
+                "gastrointestinal": "bowel sounds present. Abd soft, mildly distended, NT",
+                "skin": "no rashes or edema. All extremities warm and well-perfused"
+            },
+            "changes_over_time": "Initial examination showed tenderness and guarding in the abdomen which improved by discharge as the abdomen was soft and mildly distended."
+        }
+    ]
+}

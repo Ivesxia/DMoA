@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4 °F",
+                "heart_rate": "60 bpm",
+                "blood_pressure": "127/65 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "NAD, alert and oriented x3",
+                "HEENT": "Oropharynx clear",
+                "cardiovascular": "RRR, normal S1 + S2",
+                "pulmonary": "Nonlabored and regular respirations, clear",
+                "abdominal": "Soft, no distention, minimally tender",
+                "extremities": "Warm, well perfused, 2+ DP pulses, no lower extremity edema",
+                "wound": "DCI"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

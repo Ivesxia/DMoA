@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is heterogeneous in echotexture without any focal lesions or intra or extrahepatic biliary dilatation. The common bile duct measures 4 mm. The portal vein is patent with normal hepatopetal flow. There is a 3 mm stone within the neck of the gallbladder seen on decubitus imaging; however, the gallbladder is nondistended, there is no wall thickening or pericholecystic fluid to suggest cholecystitis. The visualized portions of the pancreatic head and body are unremarkable. The tail is obscured due to bowel gas. The right kidney measures 9.7 cm and the left kidney 9.0 cm. There is no hydronephrosis, stones or concerning lesions. The spleen is not enlarged. Aorta and IVC are unremarkable. There is no free fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

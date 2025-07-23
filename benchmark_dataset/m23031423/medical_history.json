@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Shortness of breath (SOB) and increasing fatigue",
+        "history_of_present_illness": "Symptoms of shortness of breath and increasing fatigue have been present since last hospitalization, during which the patient was hospitalized for volume overload and diuresed 40 pounds. Cardiac catheterization showed severe coronary artery disease (CAD).",
+        "past_medical_history": "Aortic stenosis (AS), mitral regurgitation (MR), coronary artery disease (CAD), hypertension (HTN), hypercholesterolemia (^chol), peripheral vascular disease (PVD), bilateral shoulder osteoarthritis (OA), left shoulder bursitis, congestive heart failure (CHF), atrial fibrillation (Afib). Previous surgeries include right total hip replacement (THR), renal lithotripsy, and tonsillectomy.",
+        "family_history": "Father with myocardial infarction (MI); son with pacemaker.",
+        "social_history": "Not specified."
+    }
+}

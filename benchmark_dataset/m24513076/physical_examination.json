@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "heart_rate": "83 bpm",
+                "blood_pressure": "127/82 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "In no acute distress, but appears tired",
+                "HEENT": "Sclera anicteric, mucous membranes dry, nares clear, trachea at midline",
+                "CV": "Regular rate, rhythm. No appreciable murmurs, rubs, gallops",
+                "Pulm": "Clear to auscultation bilaterally",
+                "Abd": "Focally tender at ___, negative Rosving's.",
+                "MSK": "Warm, well perfused. No CVA tenderness bilaterally",
+                "Neuro": "Alert, oriented to person, place, time"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

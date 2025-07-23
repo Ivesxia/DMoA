@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "A triangular 5-mm opacity at the left lung base likely representing an intrapulmonary lymph node; lungs are otherwise unremarkable without pleural effusion. The appendix is likely represented by a tubular structure in the right lower quadrant and is enlarged up to 1 cm, with no definite periappendiceal stranding or fluid collection. No free air or fluid in the abdomen. No mesenteric or retroperitoneal lymphadenopathy. Normal liver, gallbladder, pancreas, spleen, bilateral adrenal glands, kidneys, urinary bladder, distal ureters, seminal vesicles, prostate, sigmoid colon, and rectum.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

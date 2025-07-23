@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Pain started one day ago; initially diffuse but now localized to the right lower quadrant.",
+        "past_medical_history": "None",
+        "family_history": "Non-contributory",
+        "social_history": "Not specified"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is distended, measures 11 cm, fluid-filled, and with enhancing wall and fat stranding. No focal lung consolidation, no pleural effusion, no pericardial effusion. Liver enhances homogeneously; no biliary duct dilatation. Spleen, pancreas, and kidneys are unremarkable. No lymphadenopathy. Free fluid in the pelvis. Focal wall thickening in small bowel distal ileum.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

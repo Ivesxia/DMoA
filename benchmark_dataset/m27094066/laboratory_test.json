@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level: 582 U/L (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CBC (Complete Blood Count)",
+            "date": "Not specified",
+            "findings": "Thrombocytopenia: 3.4 K/uL (below normal range: 4.0-11.0 K/uL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal Ultrasound",
+            "date": "Not specified",
+            "findings": "Liver echotexture homogeneous, normal portal vein flow, gallbladder unremarkable, common duct not dilated, kidneys normal size (right: 11.3 cm, left: 11.4 cm), no hydronephrosis or stones, pancreas head and body unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

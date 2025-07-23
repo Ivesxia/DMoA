@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "There is minimal bibasilar atelectasis, but no pleural effusion. A small hiatal hernia is noted. The liver enhances homogeneously without focal lesions. There are several gallstones in the gallbladder, one of which is in the gallbladder neck. There is mild gallbladder wall edema, but no fat stranding around the gallbladder fossa. The gallbladder is mildly distended. The spleen, pancreas, adrenal glands, and kidneys are normal. There is prompt excretion of IV contrast into the collecting system. There is no hydronephrosis. The stomach, duodenum, and loops of small bowel are normal. There is no free air, fluid, or lymphadenopathy in the intra-abdominal cavity. Additionally, there is a small amount of free fluid in the deep pelvis and right lower quadrant adjacent to the right adnexa. The appendix is normal and patent. The colon and uterus are normal. The urinary bladder is normally distended without focal abnormality. There are no suspicious lytic or sclerotic lesions for metastatic disease with mild multilevel degenerative changes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "317.0 IU/L with reference range 0.0 - 100.0 IU/L. NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

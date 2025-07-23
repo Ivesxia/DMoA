@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC",
+            "date": "Not specified",
+            "findings": "WBC count of 18.7 (Elevated, normal range is typically 4.0 - 11.0 x 10^9/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "6 months prior to admission",
+            "findings": "Showed only diverticulosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endoscopy",
+            "date": "6 months prior to admission",
+            "findings": "Unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

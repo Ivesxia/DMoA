@@ -1,0 +1,47 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung_fields": "Mild dependent bibasilar atelectasis",
+                "liver": "Homogenous attenuation, no focal lesions, no biliary dilatation",
+                "gallbladder": "Within normal limits",
+                "pancreas": "Normal attenuation, no focal lesions",
+                "spleen": "Normal size and attenuation",
+                "adrenals": "Normal in size and shape",
+                "kidneys": "Normal and symmetric size, normal nephrogram",
+                "gastrointestinal": {
+                    "stomach": "Unremarkable",
+                    "small_bowel": "Normal caliber, wall thickness, and enhancement",
+                    "colon_and_rectum": "Within normal limits",
+                    "appendix": "Dilated, measuring up to 10 mm, with mural hyperenhancement and periappendiceal fat stranding"
+                },
+                "urinary_bladder": "Unremarkable",
+                "reproductive_organs": "Prostate and seminal vesicles are normal",
+                "lymph_nodes": "No lymphadenopathy",
+                "vascular": "No abdominal aortic aneurysm",
+                "bones": "Right L5 spondylolysis, no evidence of worrisome osseous lesions",
+                "soft_tissues": "Within normal limits"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": {
+                "culture_result": "NO GROWTH"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test for Creatinine",
+            "date": "Not specified",
+            "findings": {
+                "creatinine": "9.0 mg/dL",
+                "reference_range": "8.4 - 10.3 mg/dL"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

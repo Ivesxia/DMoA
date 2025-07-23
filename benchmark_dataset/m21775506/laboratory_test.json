@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "WBC 7.7, Hb 14.4, Plt 211 (all within normal ranges)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "ALT 139 (elevated), AST 177 (elevated), Tbili 1.9 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 817 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Cr 0.8 (within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate 1.0 (within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "No intra or extrahepatic biliary dilatation; gallstones present in the gallbladder; mild gallbladder wall edema; pancreatic head slightly prominent with mild acute interstitial edema. No suspicious focal liver lesion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Uneventful, 5 polyps removed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic cholecystectomy",
+            "date": "Not specified",
+            "findings": "Other postprocedural status.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Heart mildly enlarged, mild pulmonary vascular congestion. No focal consolidation, pleural effusion or pneumothorax.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

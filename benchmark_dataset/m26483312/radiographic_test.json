@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Renal Ultrasound",
+            "date": "Not specified",
+            "findings": "The right kidney measures 9.1 cm in length. The left kidney measures 10.3 cm in length. There is no hydronephrosis on either side. Cortical echotexture is within normal limits. There is a simple cyst in the mid portion of the left kidney measuring 1.3 x 1.4 x 1.1 cm. A smaller cyst is noted in the upper pole measuring approximately 1 x 0.7 x 0.9 cm. The kidneys are otherwise unremarkable. The bladder appears within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

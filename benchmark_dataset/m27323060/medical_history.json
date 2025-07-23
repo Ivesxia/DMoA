@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Elevated temperature and tachycardia/hypotension in the setting of a PRBC transfusion.",
+        "history_of_present_illness": "Mr. ___ reports feeling poorly with significant fatigue and weakness over the two days prior to admission, which he says is similar to how he feels prior to needing an infusion. He had a maximum temperature of 99.9 halfway through the first of two planned PRBC transfusions, although he felt no changes in any symptoms at that time. He has also had mild dysuria for the last month and alternates between constipation and diarrhea, which has been worse over the last month.",
+        "past_medical_history": "Hypertension, Depression, Atrial fibrillation, BPH, recent C. difficile colitis.",
+        "family_history": "Hypertension in mother, father, older brother with diabetes mellitus. Father died of myocardial infarction. No known cancer history in the family.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC 13.2 (75.4% PMNs)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Cr 0.9",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "AST 41, ALT 65, AP 172, HCO3 20",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis",
+            "date": "Not specified",
+            "findings": "Prominent diverticula with surrounding inflammation and thickening of the sigmoid colon consistent with diverticulitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Normal urinalysis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Not specified",
+            "findings": "No VRE isolated.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

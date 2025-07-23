@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2 F",
+                "heart_rate": "160 bpm",
+                "blood_pressure": "160/67 mmHg",
+                "respiratory_rate": "18 rpm",
+                "oxygen_saturation": "100% on RA"
+            },
+            "relevant_findings": {
+                "general": "Well appearing elderly woman in NAD",
+                "eyes": "extra-ocular movements intact, pupils equal round, reactive to light, sclera anicteric, not injected, no exudates; right eye covered with clear patch",
+                "ENT": "mucous membranes moist, no ulcerations or exudates",
+                "neck": "no thyromegaly, JVD flat",
+                "cardiovascular": "regular rate and rhythm, normal S1, S2, no murmurs, rubs or gallops",
+                "respiratory": "clear to auscultation bilaterally, no wheezes, rales or rhonchi",
+                "abdomen": "multiple well healed surgical incisions, soft, diffusely tender to palpation with guarding but no rebound, slightly distended, no hepatosplenomegaly, bowel sounds present",
+                "extremities": "no cyanosis, clubbing, edema, joint swelling",
+                "neurological": "alert and oriented x3, cranial nerves II-XII intact, normal attention, sensation normal, asterixis absent, speech fluent, DTR's 2+ bilaterally",
+                "integument": "warm, moist, no ulceration, bilateral lower extremities with patchy hyperpigmentation",
+                "psychiatric": "appropriate, pleasant, not anxious",
+                "hematologic": "no cervical or supraclavicular lymphadenopathy"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

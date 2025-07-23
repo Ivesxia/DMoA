@@ -1,0 +1,35 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "Not specified",
+            "findings": "Showing excess blasts and cytogenetic findings of translocation 3;5 and +WT-1 mutation, consistent with myelodysplastic syndrome.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Rapid Heme Panel",
+            "date": "Not specified",
+            "findings": "Evidence of WT1 amplification.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of Abdomen",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Suggestion of mild diffuse fatty liver. Contour of the liver is smooth. No focal liver mass.",
+                "bile_ducts": "No intrahepatic biliary dilation. Common hepatic duct measures 4 mm; distal common bile duct measures 1.0 cm.",
+                "gallbladder": "Stones and biliary sludge in the distended gallbladder with wall edema. Gallbladder wall thickening and edema measuring 0.3 cm to 0.4 cm.",
+                "pancreas": "Imaged portion appears within normal limits.",
+                "spleen": "Normal echogenicity, measuring 12.6 cm.",
+                "kidneys": "Right kidney measures 12 cm; left kidney measures 12 cm. No evidence of hydronephrosis."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbiological Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

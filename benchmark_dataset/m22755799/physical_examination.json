@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Temperature": "97.5 °F",
+                "Heart Rate": "105 bpm",
+                "Respiratory Rate": "18 breaths/min",
+                "Blood Pressure": "94/43 mmHg",
+                "Oxygen Saturation": "96%"
+            },
+            "relevant_findings": {
+                "General": "Nontoxic appearing in NAD, obese",
+                "HEENT": "Normocephalic, atraumatic, MMM",
+                "Lungs": "No increased work of breathing",
+                "Heart": "Mildly tachycardic, regular",
+                "Abdomen": "Obese, diffusely tender to palpation with involuntary guarding, palpable umbilical bulge with mild overlying erythema that is TTP but reducible, reducible epigastric bulge that is non-tender. Well-healed right paramedian incision.",
+                "Neuro": "AAOx3, moving all extremities"
+            },
+            "changes_over_time": "Significant worsening of abdominal pain noted; previous symptoms showed partial resolution before escalation."
+        }
+    ]
+}

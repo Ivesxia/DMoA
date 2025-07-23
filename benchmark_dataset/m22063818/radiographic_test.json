@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "4 mm oblong pulmonary nodule, stable since ___, though new since ___ (2:5). Mild ground-glass opacities in the right lower lobe likely represent atelectasis. No pleural effusion. Enlarged heart. Rim enhancing, centrally hypo-dense lesion measuring 1.9 x 1.6 cm near gallbladder fossa in segment IV B. Multiple subcentimeter hypodensities in the liver. 2.6 cm cyst in hepatic segment 7 unchanged from prior exams. No evidence of intrahepatic or extrahepatic biliary dilatation. Diverticulosis of the sigmoid colon with thickening of the sigmoid colon and stranding around inflamed diverticula. Air tracking superiorly with evidence of bowel wall defect in the superior aspect of inflamed sigmoid colon. Normal pancreas, spleen, kidney, urinary bladder, and distal ureters. Fibroid uterus with multiple fibroids. No lymphadenopathy. Mild atherosclerotic disease noted. Grade 1 anterolisthesis of L5 on S1.",
+            "changes_over_time": "The 4 mm pulmonary nodule is stable since ___, the lesion in segment IV B was previously not imaged. The 2.6 cm cyst in hepatic segment 7 is unchanged from prior exams."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "CT of the abdomen and pelvis shows no focal lesion or intrahepatic biliary dilatation in the liver, no stones or wall edema in the gallbladder, normal spleen and adrenal glands, kidneys enhancing and excreting contrast symmetrically, multiple well-circumscribed fluid densities in the left kidney (largest 5.5 cm), normal appearing pancreas, unusual looping pattern of the small intestine without obstruction, and significant fecal burden in the large intestine.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for Thrombocytopenia",
+            "date": "Not specified",
+            "findings": "Thrombocytopenia with a platelet level of 1.9 mg/dL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

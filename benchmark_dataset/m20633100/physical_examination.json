@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "heart_rate": "62 bpm",
+                "blood_pressure": "140/82 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, AAOx3, uncomfortable",
+                "HEENT": "PERRLA, EOMI, anicteric",
+                "chest": "RRR, + murmur, b/l wheezes",
+                "abdominal": "Soft, obese, tender to palpation at RUQ, no rebound/guarding",
+                "extremities": "Trace b/l edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

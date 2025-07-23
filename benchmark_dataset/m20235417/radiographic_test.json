@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Trace of ascites is seen in the perihepatic and perisplenic areas. Large spleen is also noted similar to the previous examination.",
+            "changes_over_time": "The large spleen is noted similar to the previous examination."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Hypodense 0.8 cm lesion in the periphery of the right lobe may represent a hemangioma; subtle hypoenhancement of the left renal parenchyma raises concern for superinfection; colonic diverticulosis present with a large diverticulum arising from the mid sigmoid colon containing fecal material and gas; colovesicular fistula noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

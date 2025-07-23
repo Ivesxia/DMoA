@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.0°F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "108/61 mmHg",
+                "respiratory_rate": "17 breaths/min",
+                "oxygen_saturation": "94%"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert, responsive.",
+                "respiratory": "Unlabored breathing, regular rate and rhythm.",
+                "abdominal": "Soft, nondistended, gravid, with tenderness in the RUQ and RLQ, non-rigid, no rebound, no guarding.",
+                "extremities": "Warm and well perfused."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

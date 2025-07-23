@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The diameter of the appendix measures up to 11 mm. The tip of the appendix is distended with fluid, with a hyperenhancing wall and surrounding fat stranding. An obstructing appendicolith is noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Blood Test",
+            "date": "Not specified",
+            "findings": "9.4 mg/dL, within normal ranges (Ref range: 8.4 - 10.3).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

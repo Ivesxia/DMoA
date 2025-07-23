@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Elevated lipase to 1045 (normal range not provided)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "WBC",
+            "date": "Not specified",
+            "findings": "Elevated WBC to 32 (normal range not provided)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bilirubin and Transaminases",
+            "date": "Not specified",
+            "findings": "Normal transaminases and bilirubin (exact values not provided)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Calcium Levels",
+            "date": "Not specified",
+            "findings": "Hypercalcemia (exact value not provided)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-Ray",
+            "date": "Not specified",
+            "findings": "CXR without evidence of pneumonia (PNA)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

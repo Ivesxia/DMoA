@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": "Not specified",
+            "relevant_findings": "General: NAD, AAOx3; CV: RRR, no m/r/g; Resp: CTAB; Abdomen: soft, nondistended, tender to palpation in upper quadrants bilaterally; Extremities: wwp",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

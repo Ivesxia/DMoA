@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Increased opacification in the retrocardiac region with poor definition of the hemidiaphragm and blunting of the costophrenic angle. This is consistent with left lower lobe volume loss and small pleural effusion. Right lung is clear and there is no evidence of vascular congestion.",
+            "changes_over_time": "In comparison with the study of ___, there is increased opacification in the retrocardiac region."
+        }
+    ]
+}

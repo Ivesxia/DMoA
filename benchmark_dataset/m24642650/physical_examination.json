@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.4 °F",
+                "heart_rate": "73 bpm",
+                "blood_pressure": "118/79 mmHg",
+                "respiratory_rate": "18 bpm"
+            },
+            "relevant_findings": "NAD/A&O CTAB RRR Abd soft, minimally tender",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

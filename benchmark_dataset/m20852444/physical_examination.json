@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.0 °F",
+                "heart_rate": "63 bpm",
+                "blood_pressure": "122/67 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "young man, in no acute distress, sitting comfortably",
+                "pulmonary": "clear to auscultation bilaterally",
+                "cardiac": "regular rate and rhythm, normal S1 and S2, no murmurs or gallops",
+                "abdominal": "soft, tender to palpation in the right lower quadrant, no rebound or guarding, negative Rovsing's, Psoas, and obturator signs"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild bibasilar atelectasis and subpleural bullae, centrilobular emphysema at the lung bases. No focal hepatic lesions. Normal gallbladder. No intra- or extra-hepatic biliary duct dilatation. Pancreas and spleen show no acute pathology. Spleen is borderline enlarged (12.5 cm). Hypoattenuating lesion at the upper pole of the right kidney (8 mm), likely a simple cyst. Additional smaller hypoattenuating lesion at the left kidney, also likely a simple cyst. No retroperitoneal or mesenteric lymphadenopathy. Portal venous, systemic venous and systemic arterial system of the abdomen and pelvis are normal. No free air or free fluid in the abdomen and pelvis. Normal esophagus and small bowel. A 3.5 x 2.5 x 2.5 cm hypoattenuating, rim-enhancing lesion in the descending colon in the left lower quadrant suggests focal diverticulitis with abscess formation. No evidence of macro-perforation or free air. Normal urinary bladder and uterus. No free air or free fluid in the pelvis. No pelvic lymphadenopathy. Dermoid at the left ovary. No evidence of adnexal pathology. No suspicious lytic or sclerotic bony lesions.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Yeast Test",
+            "date": "Not specified",
+            "findings": "YEAST",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

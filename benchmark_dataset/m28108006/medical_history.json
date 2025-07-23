@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient developed abdominal pain about 3 days ago, described as a central fullness radiating through to her sides. The pain has been gradual in onset and has persisted for 3 days. The patient also experiences some nausea without vomiting. There are no fevers or chills and normal bowel movements without blood.",
+        "past_medical_history": "Hypertension (HTN), Psychiatric conditions",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

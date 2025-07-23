@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Central abdominal pain",
+        "history_of_present_illness": "Patient woke up with central abdominal pain at 3 am, which progressively worsened. The pain did not improve with eating or taking Tums and was associated with severe tenderness in the right lower quadrant. There were no associated symptoms such as nausea, vomiting, or diarrhea, and no preexisting gastrointestinal or genitourinary symptoms.",
+        "past_medical_history": "Recent wisdom teeth extraction.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

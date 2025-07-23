@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "125 (normal: 10 during previous admission)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "10.2 (normal range unspecified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP W/SECRETIN (ABD W&W/O C)",
+            "date": "Not specified",
+            "findings": "Several subcentimeter cysts in the liver; Pancreatic duct not dilated; No focal mass; Slight increase in fluid surrounding the caudate lobe compared to prior studies.",
+            "changes_over_time": "Slight increase in the fluid compared to prior studies; somewhat distended jejunal pancreaticobiliary limb unchanged over multiple studies."
+        }
+    ]
+}

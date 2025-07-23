@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain, diagnosed as acute appendicitis.",
+        "history_of_present_illness": "The pain began approximately 36 hours ago, starting as dull and moderate in severity. It worsened over the day to severe intensity and migrated to the right lower quadrant (RLQ). The patient experienced nausea but did not vomit, and had loose, non-bloody stools without diarrhea.",
+        "past_medical_history": "Past Medical History: none; Previous Surgery: spinal fusion, years ago.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

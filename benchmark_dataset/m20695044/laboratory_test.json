@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test (LFT)",
+            "date": "Not specified",
+            "findings": "Elevated LFTs",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis without Contrast",
+            "date": "Not specified",
+            "findings": "Steatohepatitis noted, pancreatic duct dilated, area of fullness at the head of the pancreas, no evidence of focal lesions within the limitations of an unenhanced scan.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Basic Metabolic Panel",
+            "date": "Not specified",
+            "findings": "Albumin level 4.0 g/dL (Normal range: 3.5 - 5.2 g/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

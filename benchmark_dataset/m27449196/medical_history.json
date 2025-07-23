@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain for the past day.",
+        "history_of_present_illness": "Pain started last evening after dinner in the RUQ and migrated to RLQ over the course of the evening. The patient has experienced some nausea but no vomiting or diarrhea. There were no fevers or chills.",
+        "past_medical_history": "Asthma, type 2 diabetes mellitus, chronic sinusitis, moderate persistent asthma, osteoarthritis, obstructive sleep apnea, hypertension, obesity, hemorrhoids, fibromyalgia, GERD, history of tubal ligation, history of cholecystectomy.",
+        "family_history": "Asthma in multiple family members; denies any history of diabetes mellitus, coronary artery disease, cerebrovascular accident; uncle deceased due to myocardial infarction.",
+        "social_history": "Not specified."
+    }
+}

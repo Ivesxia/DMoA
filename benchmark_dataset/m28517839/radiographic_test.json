@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The lung bases are clear. Small hypodensities in the liver possibly representing cysts or biliary hamartomas. No concerning focal liver lesions or intra or extrahepatic biliary dilatation. The portal vein is patent. The gallbladder, pancreas, spleen and adrenal glands are unremarkable. The kidneys enhance and excrete contrast symmetrically without evidence of hydronephrosis or focal lesions. The stomach, small and intra-abdominal large bowel are unremarkable. No free fluid, free air or lymphadenopathy within the upper abdomen. A small fat containing umbilical hernia is present. There is a large amount of mesenteric fat stranding in the right lower quadrant surrounding a decompressed appendix with foci of extraluminal air concerning for perforated appendicitis. No definite abscess or fluid collection. Sigmoid diverticulosis is noted. No lymphadenopathy within the pelvis. No concerning osseous lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

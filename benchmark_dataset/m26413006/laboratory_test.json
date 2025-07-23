@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC count",
+            "date": "Not specified",
+            "findings": "10.1 (reference range 8.4 - 10.3) - within normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix dilated at the distal tip up to 1.0 cm with fluid-filled appearance, moderate adjacent mesenteric stranding, and a punctate focus consistent with appendicolith.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

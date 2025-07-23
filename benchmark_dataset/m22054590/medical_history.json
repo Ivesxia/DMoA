@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right sided abdominal pain, epigastric pain, nausea.",
+        "history_of_present_illness": "Symptoms are constant, moderate in severity, and have lasted for 24 hours. There is no history of similar symptoms.",
+        "past_medical_history": "1. Angina: Poor exercise tolerance limited by exertional dyspnea. New, mild reversible defect of the inferior wall. 2. Echo shows moderate PA systolic hypertension, EF 75%. 3. Fibromyalgia. 4. COPD: questionable. 5. Asthma: on advair, albuterol, singulair and ipratropium. 6. Bipolar disorder: on zoloft, lamotrigine, seroquel. 7. Binge eating disorder: on metformin, A1C never >7. 8. PTSD. 9. Osteoarthritis of hips and knees: on vicodin TID. 10. GERD. 11. Hypothyroidism. 12. DM type II: on metformin. 13. Hyperlipidemia: on simvastatin. 14. Anemia: on iron. 15. Obesity: BMI 44.4. 16. OSA: recommended home CPAP. 17. Migraines. 18. Unspecified malformation on imaging of brain.",
+        "family_history": "Positive for asthma in mother, sister, brother, and all three children. Family history of osteoarthritis (father, daughter) and bipolar disorder (all three children and granddaughter). Patient's son has lymphoma and is status post chemotherapy.",
+        "social_history": "Not specified."
+    }
+}

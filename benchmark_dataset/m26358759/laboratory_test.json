@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 1541 (outside normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HCO3",
+            "date": "Not specified",
+            "findings": "HCO3 21, anion gap 15 (normal)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC 12.1K (outside normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PT (Prothrombin Time)",
+            "date": "Not specified",
+            "findings": "PT 26.6 sec (outside normal range; reference range 25.0-36.5 sec)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR Abdomen with and without contrast)",
+            "date": "Not specified",
+            "findings": "The liver shows diffuse hepatic steatosis with no evidence of cholelithiasis or cholecystitis. Pancreatic divisum noted but no parenchymal edema or necrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Test",
+            "date": "Not specified",
+            "findings": "Trace ketones",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "There is a 15 mm non mobile stone within the gallbladder neck, with associated gallbladder distention, gallbladder wall edema and positive ___ sign. An additional stone is seen in the gallbladder fundus. The liver shows no evidence of focal lesions or textural abnormality. No evidence of intrahepatic or extrahepatic biliary dilatation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

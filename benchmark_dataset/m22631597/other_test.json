@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Circumferential thickening of much of the distal sigmoid with focal areas of extraluminal low attenuation, probably representing a small abscess and localized free air, indicating a small contained microperforation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Systolic ejection murmur observed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "Elevated IgG kappa level at 950 mg/dl, up from 700 mg/dl.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

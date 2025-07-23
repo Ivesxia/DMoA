@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7 °F",
+                "heart_rate": "58 bpm",
+                "blood_pressure": "151/88 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, no acute distress",
+                "HEENT": "Sclerae anicteric, dry mucous membranes, PERRL",
+                "neck": "Supple, JVP not elevated, no LAD",
+                "cardiovascular": "Bradycardic, II/VI systolic murmur heard across precordium",
+                "lungs": "Clear to auscultation bilaterally, no wheezes, rales, rhonchi",
+                "abdomen": "Soft, epigastric tenderness and chest wall tenderness to palpation; no rebound or guarding; well-healed abdominal incisions",
+                "genitourinary": "No foley",
+                "extremities": "Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema",
+                "neurological": "CNII-XII grossly intact; moving all four extremities; sensation intact"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8 °F",
+                "heart_rate": "58 bpm",
+                "blood_pressure": "124/71 mmHg",
+                "respiratory_rate": "15 breaths/min"
+            },
+            "relevant_findings": "Overall pain has improved; continues to report epigastric pain, associated with nausea; no BRBPR or melena.",
+            "changes_over_time": "Pain has improved since admission."
+        }
+    ]
+}

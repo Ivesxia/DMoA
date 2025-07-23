@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98",
+                "heart_rate": "Not specified",
+                "blood_pressure": "20",
+                "respiratory_rate": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "A&O3, NAD",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "CV": "RRR, No M/G/R",
+                "pulmonary": "Clear to auscultation b/l, No W/R/R",
+                "abdomen": "tense abdomen, voluntary guarding, tender to palpation in the Right side of the abdomen, RLQ, right mid-abdomen, RUQ, and R CVA tenderness",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

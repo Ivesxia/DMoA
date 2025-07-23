@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "101.2°F",
+                "heart_rate": "133 bpm",
+                "blood_pressure": "123/92 mmHg",
+                "respiratory_rate": "20"
+            },
+            "relevant_findings": {
+                "constitutional": "No acute distress",
+                "HEENT": "Normocephalic, atraumatic",
+                "neck": "supple",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm",
+                "abdominal": "Soft, +++RLQ tenderness, no CVAT",
+                "extremities/back": "No cyanosis, clubbing or edema",
+                "skin": "Warm and dry",
+                "neuro": "Speech fluent",
+                "psych": "Normal mentation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

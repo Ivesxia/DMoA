@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in echotexture. The common bile duct measures 3 mm. There is a 1.1 cm echogenic focus in the left lobe of the liver that may represent a hemangioma. The gallbladder is mildly distended and contains sludge, some of which layers and may be small stones. There is no gallbladder wall thickening or pericholecystic fluid. The pancreas is not clearly visualized due to overlying bowel gas. The right kidney is normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT abdomen",
+            "date": "Not specified",
+            "findings": "Sludge in the gallbladder.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

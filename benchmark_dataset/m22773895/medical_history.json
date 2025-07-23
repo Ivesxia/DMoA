@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Lower abdominal pain for the last 8 days.",
+        "history_of_present_illness": "The pain is constant and has not changed in character over the last 8 days. It is associated with nausea and anorexia, with chills but no fevers, vomiting, or diarrhea. The patient has constipation, with the last bowel movement yesterday. This is the first occurrence of such pain, and the patient denies the use of NSAIDs.",
+        "past_medical_history": "Colonoscopy one year ago, significant for a benign polyp.",
+        "family_history": "Noncontributory.",
+        "social_history": "Not specified."
+    }
+}

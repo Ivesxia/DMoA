@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "cholecystitis, pancreatitis, pancreatic insufficiency, acute kidney injury, ileus, coagulopathy, anemia",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with severe abdominal pain and had previous imaging and lab results indicating pancreatitis and cholelithiasis. Elevated lipase levels and imaging findings supported the diagnosis of pancreatitis. Clinical history and physical examination revealed significant abdominal pain without signs of infection (normal WBC), leading to the final diagnosis of multiple concurrent abdominal conditions."
+    }
+}

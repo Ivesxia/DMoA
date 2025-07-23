@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PCR test",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria Gonorrhoeae by PCR.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT abdomen with contrast",
+            "date": "Not specified",
+            "findings": "The appendix is dilated measuring up to 8 mm, is fluid filled, and demonstrates mild increased wall enhancement. Mild periappendiceal stranding. No free air or free fluid within the abdomen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

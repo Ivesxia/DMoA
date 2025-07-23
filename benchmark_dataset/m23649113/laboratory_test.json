@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Transaminase and Lactic Acid Dehydrogenase (LDH) Levels",
+            "date": "Not specified",
+            "findings": "44.0 IU/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Liver appears within normal limits, gallbladder contains multiple gallstones with pericholecystic fluid; CBD measures 5 mm. No significant dilation or wall thickening of gallbladder.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7 °F",
+                "blood_pressure": "108/56 mmHg",
+                "heart_rate": "82 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "general": "NAD, alert, oriented x 3, resting comfortably in bed",
+                "heent": "PERRL, anicteric sclera",
+                "cardiovascular": "RRR",
+                "respiratory": "CTA bilaterally, no increased work of breathing",
+                "abdominal": "abdomen soft, non-tender, not distended, bile drain draining green fluid, umbilical hernia that is reducible and non-tender",
+                "extremities": "warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

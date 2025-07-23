@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "diverticulitis",
+        "differential_diagnosis": "acute appendicitis",
+        "diagnostic_reasoning": "The patient presented with gradual onset of abdominal pain that initially was generalized but localized to the left upper quadrant (LUQ) and right lower quadrant (RLQ), particularly severe in the RLQ. A CT scan showed inflammatory fat stranding around the cecum associated with a hyperdense diverticula, indicating diverticulitis. The appendix was normal, which helped exclude acute appendicitis despite it being initially suspected."
+    }
+}

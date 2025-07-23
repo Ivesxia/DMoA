@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP with biopsy and biliary stent placement",
+            "date": "Not specified",
+            "findings": "Common bile duct was cannulated and stented with a plastic stent. Biopsies and brushings were taken, which showed a well-differentiated neuroendocrine tumor.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT abdomen",
+            "date": "Not specified",
+            "findings": "3.6 cm ill-defined arterially hypo-enhancing lesion at the pancreaticoduodenal groove concerning for cancer. Note of lymph node involvement including a 5-cm necrotic common hepatic lymph node.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "Common bile duct is dilated in the region of the porta hepatis measuring approximately 7 mm. A stent is identified in the common bile duct. A 3.4 x 3.3 x 2.5 cm hypoechoic mass corresponding to a necrotic lymph node.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

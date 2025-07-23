@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Transaminitis, leukocyte shift (L shift) observed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bilirubin",
+            "date": "Not specified",
+            "findings": "Total bilirubin (tbili) of 6.8 mg/dL, which is outside the normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level of 401 U/L, which is outside the normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

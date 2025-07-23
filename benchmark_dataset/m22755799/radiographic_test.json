@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CTA CHEST",
+            "date": "Not specified",
+            "findings": "The aorta and its major branch vessels are patent, with no evidence of stenosis, occlusion, dissection, or aneurysmal formation. The pulmonary arteries are well opacified to the subsegmental level, with no evidence of filling defect within the main, right, left, lobar, segmental or subsegmental pulmonary arteries. Small bilateral pleural effusions, left greater than right. Subsegmental atelectatic changes at both lung bases. No evidence of focal consolidation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

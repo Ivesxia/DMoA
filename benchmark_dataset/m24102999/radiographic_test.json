@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT abdomen",
+            "date": "Not specified",
+            "findings": "Dependent change seen at the visualized lung bases. The gallbladder appeared distended; there is no evidence of pericholecystic fluid. The common duct appears dilated measuring upwards of 9 mm. Prominent pancreatic duct is also noted, measuring upwards of 3 mm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "The biliary tree appears unremarkable. Sludge was successfully extracted using balloon catheterization.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

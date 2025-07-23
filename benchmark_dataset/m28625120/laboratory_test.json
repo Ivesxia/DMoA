@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated to approximately 13 mm with wall thickening, mucosal hyperenhancement, adjacent fat stranding, an adjacent free fluid. There is no rim enhancing collection to suggest abscess. There is also wall thickening of the adjacent cecum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "The segment IV lesion measures approximately 9 mm. Segment VII lesions measure 7 mm and 10 mm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Kidney Ultrasound",
+            "date": "Not specified",
+            "findings": "A hypoattenuating lesion in the right kidney is too small to completely characterize, but statistically likely a simple cyst.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

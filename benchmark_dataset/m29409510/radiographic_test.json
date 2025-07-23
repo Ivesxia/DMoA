@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Minor dependent changes at each lung base, left greater than right. Lesion along the anterior margin of the left lateral segments of the liver measuring 17 mm, probable hemangioma. Hypodense lesion measuring 19 mm along the posterior right lobe of the liver may also represent a hemangioma. No biliary dilatation. Gall bladder normal. Pancreas unremarkable. Spleen normal. No evidence for stones or hydronephrosis. Lesion with bulk fat in the mid-upper pole of the right kidney measuring up to 18 mm, consistent with small angiomyolipoma. Very small hiatal hernia. Mild distension of small bowel leading to a collapsed ileum with wall thickening up to 7 mm diameter. Appendix terminates in fluid collection in the right lower quadrant measuring up to 37 x 33 mm containing air and fluid. Small bowel wall thickening due to regional peritonitis. Slight reactive bladder wall thickening. Atherosclerotic changes moderate. Bones demineralized with moderate compression deformity of the L2 vertebral body, likely chronic.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

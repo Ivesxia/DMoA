@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Salmonella and Shigella Testing",
+            "date": "Not specified",
+            "findings": "NO SALMONELLA OR SHIGELLA FOUND.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild bibasilar atelectasis; trace bilateral pleural effusions; normal liver, pancreas with minimal perihilar pancreatic haziness; normal spleen and adrenal glands; normal kidneys; unremarkable gastrointestinal and reproductive organs; no lymphadenopathy; mild atherosclerotic disease; unchanged chronic posterior right eleventh rib fractures and grade ___ anterolisthesis of L5 on S1 with fusion of L5 and S1; diffuse stranding throughout the subcutaneous and intra-abdominal fat reflecting a degree of anasarca.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with abdominal pain, nausea, vomiting, and tenderness in the right lower quadrant (RLQ). CT imaging revealed a dilated appendix measuring up to 1 cm with adjacent fat stranding and an appendicolith, consistent with appendicitis. There was no evidence of perforation or abscess."
+    }
+}

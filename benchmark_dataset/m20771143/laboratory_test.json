@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound (Liver or Gallbladder US)",
+            "date": "Not specified",
+            "findings": "The liver appears normal in size and echotexture. No concerning focal liver lesions seen. The portal vein is patent with normal flow. No evidence of ascites. Three freely mobile gallstones within the lumen of the gallbladder measuring 1.7 cm, 1.6 cm, and 1.0 cm. The gallbladder is nondistended with a thin wall, without pericholecystic fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lab Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Test",
+            "date": "Not specified",
+            "findings": "18.0 mg/dL (reference range 6.0 - 20.0 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

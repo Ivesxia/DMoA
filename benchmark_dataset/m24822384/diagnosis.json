@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute diverticulitis",
+        "differential_diagnosis": "Appendicitis",
+        "diagnostic_reasoning": "The patient presented with right lower quadrant (RLQ) pain which was initially evaluated for possible appendicitis based on CT findings. However, the presence of wall thickening and fat stranding centered around the cecum in the CT evaluation, along with the absence of macro perforation or abscess, supports a diagnosis of acute diverticulitis instead."
+    }
+}

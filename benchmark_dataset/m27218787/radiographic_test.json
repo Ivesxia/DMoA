@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The imaging shows a dilated appendix measuring up to 10 mm with hyperemic walls filled with negative Volumen contrast proximal to an appendicolith. No evidence of appendiceal wall rupture, periappendiceal fluid, phlegmonous changes or discrete abscess formation. Other abdominal and pelvic organs are within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "151/73 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD",
+                "heent": "No scleral icterus, mucus membranes moist",
+                "cardiovascular": "RRR, No M/G/R",
+                "pulmonary": "Clear to auscultation b/l, No W/R/R",
+                "abdominal": "Soft, nondistended, nontender",
+                "extremities": "No ___ edema, ___ warm and well perfused",
+                "skin": "diffuse urticarial rash"
+            },
+            "changes_over_time": "Urticarial rash developed in the past 24 hours."
+        }
+    ]
+}

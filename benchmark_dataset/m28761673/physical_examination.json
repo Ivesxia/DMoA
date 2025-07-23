@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 97.4°F, Heart Rate: 82 bpm, Blood Pressure: 99/67 mmHg, Respiratory Rate: 18 breaths/min, O2 Saturation: 99% on room air",
+            "relevant_findings": "Constitutional: NAD; HEENT: eyes anicteric, blind in left eye per baseline and cloudy left eye, normal hearing; nose unremarkable; MMM without exudate; Cardiovascular: Regular rate and rhythm, no murmurs; Respiratory: Clear to auscultation bilaterally; Gastrointestinal: Mild tenderness to palpation in left lower quadrant without rebound, minimal tenderness to palpation in left upper quadrant, normal abdominal sounds; Genitourinary: no Foley; Musculoskeletal: no obvious synovitis; Extremities: warm, well perfused, negative edema in bilateral lower extremities; Skin: no rash grossly visible; Neurological: Alert and oriented grossly, deep tendon reflexes intact, symmetric in upper and lower extremities, no facial droop; Psych: normal affect, pleasant.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

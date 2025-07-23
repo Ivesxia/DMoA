@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Bilateral pleural effusions appear increased. Minimal compressive atelectasis is noted bilaterally. The liver demonstrates homogeneous attenuation with no focal lesions or biliary dilatation. The gallbladder is surgically absent. There is a large peripancreatic partially walled off fluid collection measuring 11.6 x 6.3 cm with peripheral rim enhancement. Previously noted stones within the pancreas are no longer seen. No pancreatic ductal dilatation, single area of free air in the anterior mesentery without perforation. Normal spleen, adrenal glands, kidneys, and gastrointestinal tract. Reactive mesenteric and retroperitoneal lymph nodes are noted. No evidence of worrisome osseous lesions or acute fracture.",
+            "changes_over_time": "Bilateral pleural effusions appear increased since the last CT. The gallbladder is surgically absent since the last CT. Previously noted stones within the pancreas are no longer seen."
+        }
+    ]
+}

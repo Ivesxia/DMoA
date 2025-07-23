@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain, nausea, and vomiting for the past 2 days.",
+        "history_of_present_illness": "Symptoms began 2 days ago after the patient underwent a laparoscopic cholecystectomy. Initially, the patient did well post-operatively with no abdominal pain, nausea, or vomiting. After starting a more aggressive bowel regimen, she had a bowel movement but subsequently developed epigastric and RUQ abdominal pain, along with nausea and vomiting. Emesis is non-bloody and non-bilious. The patient reports poor appetite and has had liquids but no solid food. No fevers or chills are present.",
+        "past_medical_history": "History of gallbladder polyps diagnosed via imaging, history of biliary colic.",
+        "family_history": "Mother had adenocarcinoma of the spine/pelvis; uncle had hypertension; aunts had hypertension.",
+        "social_history": "Not specified."
+    }
+}

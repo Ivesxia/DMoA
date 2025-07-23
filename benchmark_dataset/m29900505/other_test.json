@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABDOMEN WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is fluid-filled measuring up to 1 cm with wall edema. There is periappendiceal fluid. Findings are compatible with acute appendicitis. No free air in the abdomen. The remainder of the large bowel is unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "There is a small amount of free fluid around the tip of the appendix. The urinary bladder, distal ureters, seminal vesicles, prostate, sigmoid colon, and rectum are unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Physical Examination",
+            "date": "Not specified",
+            "findings": "Localized tenderness in RLQ, non-distended abdomen. Guarding and rebound tenderness present. No edema in extremities; distal pulses palpable +2.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

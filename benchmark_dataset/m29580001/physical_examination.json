@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8",
+                "heart_rate": "76",
+                "blood_pressure": "138/90",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": "RUQ abdominal pain and left sided chest pain radiating to the left arm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1",
+                "heart_rate": "66",
+                "blood_pressure": "142/91",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": "Ongoing RUQ abdominal pain.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "97.7",
+                "heart_rate": "61",
+                "blood_pressure": "117/81",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": "Tender to palpation in RUQ, RLQ, and epigastrium; nondistended abdomen; +BS; no rebound/guarding; no hepatosplenomegaly.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

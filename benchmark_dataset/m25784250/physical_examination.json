@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8 °F",
+                "heart_rate": "60 bpm",
+                "blood_pressure": "95/49 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD",
+                "HEENT": "No scleral icterus, mucous membranes moist",
+                "cardiovascular": "RRR, No M/G/R",
+                "pulmonary": "Clear to auscultation bilaterally, No W/R/R",
+                "abdomen": "Soft, nondistended, moderate tenderness to palpation in the deep RLQ. No rebound or guarding. Normoactive bowel sounds, no palpable masses.",
+                "DRE": "Normal tone, no gross or occult blood",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Measurement of some biomarker",
+            "date": "Not specified",
+            "findings": "4.7 ng/mL (reference range 5.0 - 20.0 ng/mL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "The cardiac, mediastinal and hilar contours appear unremarkable. Both lungs are clear with no focal consolidation, pleural effusion or pneumothorax.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

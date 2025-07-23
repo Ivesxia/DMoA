@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient presents with a 3-day history of abdominal pain, worsening progressively over time. The pain is located in the lower quadrants of the abdomen and became significantly worse this morning, prompting the visit to the emergency department. No association with nausea, emesis, changes in bowel habits, fevers, or chills.",
+        "past_medical_history": "Hypertension",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

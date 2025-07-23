@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver demonstrates increased echogenicity consistent with hepatic steatosis. There is no intrahepatic biliary dilatation or focal masses. Gallbladder demonstrates the morphology consistent adenomyomatosis. Common bile duct is not dilated, measuring about 3 mm. There is a right pleural effusion. Main portal vein is patent and demonstrates hepatopetal flow. The right kidney measures 11.2 cm without hydronephrosis or nephrolithiasis. The left kidney measures 11.4 cm without hydronephrosis or nephrolithiasis. Spleen is normal in size, measuring 10 cm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

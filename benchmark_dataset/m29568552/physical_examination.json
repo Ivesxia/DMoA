@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.4°F",
+                "heart_rate": "110 bpm",
+                "blood_pressure": "136/99 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "HEENT": "Normocephalic, atraumatic",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm",
+                "abdominal": "Tenderness to palpation in lower abdomen",
+                "pelvic": {
+                    "cervical_motion_tenderness": "No",
+                    "lesions": "No lesions",
+                    "right_adnexal_tenderness": "Mild",
+                    "discharge": "Scant thick yellow"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain and left leg pain.",
+        "history_of_present_illness": "The abdominal pain and left leg pain woke the patient up from sleep. The left leg pain has been chronic and attributed to chemotherapy side effects, while the abdominal pain is newly onset, described as epigastric, non-radiating, and feeling like 'pins and needles.' Denies nausea, vomiting, chest pain, shortness of breath, or any fever, chills, or weight loss.",
+        "past_medical_history": "Right breast cancer, status post lumpectomy, chemotherapy, and radiation treatment; chronic neuropathy attributed to chemotherapy; anxiety; history of pulmonary embolism; laparoscopic cholecystectomy.",
+        "family_history": "Strong maternal history of gallstones. Mother had breast cancer but no significant family history of breast or ovarian cancer, liver, gallbladder, or pancreatic cancer.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Leukocytosis to 16.6k",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests (LFTs)",
+            "date": "Not specified",
+            "findings": "Biliary obstructive pattern - Tbil 2.1, Direct: 1.6, AST: 91, ALT: 47, Alphos: 196",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 3.824",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Fluid density structure in hepatic segment V measuring up to 4.6 cm, moderate intrahepatic biliary ductal dilation, common bile duct dilation to 1.9 cm with choledocholithiasis, irregular and edematous gallbladder wall, and possible perforation.",
+            "changes_over_time": "The fluid density structure was previously characterized as a cyst on MRI and is minimally changed."
+        }
+    ]
+}

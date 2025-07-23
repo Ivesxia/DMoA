@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "A subcentimeter hypodensity in the right hepatic lobe likely represents a sclerosed hemangioma. A subcentimeter hyperenhancing focus in the left hepatic lobe likely represents a flash filling hemangioma. The appendix is dilated up to 9 mm and fluid-filled with thickened wall and mild periappendiceal fat stranding. No appendicolith identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbial Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation Test",
+            "date": "Not specified",
+            "findings": "30.8 sec",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

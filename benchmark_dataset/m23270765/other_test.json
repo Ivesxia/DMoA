@@ -1,0 +1,47 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Nonspecific abnormal electrocardiogram.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI Abdomen w/o & w/ Contrast",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Normal in signal intensity, without concerning focal liver lesions.",
+                "biliary_tract": {
+                    "liver": {
+                        "lesion": "15 x 10 mm T2 hyperintense lesion consistent with biliary hamartoma.",
+                        "dilation": "Mild intra and extra hepatic biliary dilatation, with CBD measuring 7 mm."
+                    },
+                    "gallbladder": {
+                        "distension": "Gallbladder is distended.",
+                        "wall_edema": "Mild gallbladder wall edema.",
+                        "pericholecystic_fluid": "Pericholecystic fluid present.",
+                        "gallstones": "No gallstones identified."
+                    }
+                },
+                "pancreas": {
+                    "signal": "Diffusely low signal on the pre-contrast T1-weighted images.",
+                    "restricted_diffusion": "Restricted diffusion seen within the pancreatic head and neck.",
+                    "lobulation": "Focal lobulation of pancreas, insinuating between the first and second portion of duodenum.",
+                    "duct": "Main pancreatic duct mildly dilated measuring 4 mm."
+                },
+                "duodenum": {
+                    "wall_edema": "Marked duodenal wall edema involving the first and second portions.",
+                    "inflammation": "Soft tissue inflammation seen along the medial and lateral aspects."
+                },
+                "reactive_lymph_nodes": "Few reactive lymph nodes seen in the porta hepatis.",
+                "adrenal": {
+                    "nodule": "12-mm left adrenal nodule consistent with an adrenal adenoma.",
+                    "right_adrenal_and_left_kidney": "Unremarkable."
+                },
+                "spleen": "Normal size with a small contour abnormality consistent with an old infarct.",
+                "pleural_effusions": "Trace bilateral pleural effusions."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

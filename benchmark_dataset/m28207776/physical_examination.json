@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "79 bpm",
+                "blood_pressure": "124/67 mmHg",
+                "respiratory_rate": "12 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD (No acute distress)",
+                "cardiovascular": "RRR (regular rate and rhythm)",
+                "pulmonary": "CTA b/l (clear to auscultation bilaterally)",
+                "abdominal": "Soft, nondistended, focally tender most in RLQ, slightly tender in LLQ, no rebound, guarding, or rigidity",
+                "extremities": "No edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

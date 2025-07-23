@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "38.2C",
+                "heart_rate": "98 bpm",
+                "blood_pressure": "105/71 mmHg",
+                "respiratory_rate": "14 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No acute distress.",
+                "cardiovascular": "Regular rate and rhythm (RRR).",
+                "respiratory": "Clear to auscultation bilaterally (CTA).",
+                "abdominal": "Minimally distended, soft, tender focally in right lower quadrant (RLQ), no rebound, no guarding."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

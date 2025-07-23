@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver is diffusely hypoattenuating, compatible with hepatic steatosis. At least one radiopaque gallstone in the neck of the gallbladder. The gallbladder is mildly distended without gallbladder wall thickening, edema or pericholecystic fluid. A duplex right kidney with a duplicated collecting system. A subcentimeter hypodensity in the lower pole of the left kidney likely represents a renal cyst. Tubular, fluid-filled and rim-enhancing structure in the right lower quadrant measuring 14 mm, thought to represent dilation of the appendiceal tip. No free air or ascites.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

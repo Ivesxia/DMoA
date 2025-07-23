@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopic sphincterotomy and papillotomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "The heart size is mildly enlarged. There is new infiltrate in the left lower lobe obscuring the left hemidiaphragm and a new small left effusion. There is minimal pulmonary vascular redistribution.",
+            "changes_over_time": "Compared to the finding on the prior study, the left lower lobe is much worse."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Liver is normal in size with no evidence of signal dropout. No focal hepatic lesions. Biliary tree shows no intrahepatic or extrahepatic biliary ductal dilatation. Pancreas normal in signal intensity without ductal dilatation or lesions. Kidneys show normal size with T2 hyperintense cysts. Mild left pelvicaliectasis noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Bradycardic, II/VI systolic murmur heard across precordium.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

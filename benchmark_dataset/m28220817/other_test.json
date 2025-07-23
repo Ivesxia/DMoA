@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "Not specified",
+            "findings": "Progressively hypo-cellular marrow with decreased megakaryocytes, findings consistent with either hypo-plastic MDS vs aplastic anemia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Tachycardic at 122 bpm.",
+            "changes_over_time": "Improved pain, tachycardia and fever after treatment."
+        },
+        {
+            "procedure_name": "IVIG (Intravenous Immunoglobulin)",
+            "date": "Not specified",
+            "findings": "Minimal to no response to HLA matched PLT, but able to respond to cross-matched PLTs.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Mild to moderate cardiomegaly, calcified aorta, minimal patchy opacity at right lung base.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

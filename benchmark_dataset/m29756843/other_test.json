@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Stress Echo",
+            "date": "Not specified",
+            "findings": "Negative for stress-related issues, however, sinus tachycardia developed to 150's immediately following the procedure.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Likely sinus tachycardia after adenosine administration.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF Test",
+            "date": "Not specified",
+            "findings": "Not applicable as CSF test was not performed.",
+            "changes_over_time": "Not applicable"
+        },
+        {
+            "procedure_name": "CT Abdomen without Contrast",
+            "date": "Not specified",
+            "findings": "Multiple new pulmonary nodules and evidence of diverticulitis with wall thickening in the sigmoid colon.",
+            "changes_over_time": "Pulmonary nodules are new since prior study."
+        }
+    ]
+}

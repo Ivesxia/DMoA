@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "blood_pressure": "132/88 mmHg",
+                "heart_rate": "68 bpm",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": [
+                "Well-nourished, in no acute distress",
+                "Anicteric, oral pharynx clear and moist, no lesions",
+                "Neck supple without lymphadenopathy or meningismus",
+                "Lungs clear to auscultation throughout without wheeze, rales, or rhonchi",
+                "Normal heart sounds (S1, S2), no murmurs, rubs or gallops, normal PMI",
+                "Abdomen soft, active bowel sounds, tender right upper quadrant without palpable mass, no rebound or guarding",
+                "Extremities without edema, clubbing, or cyanosis",
+                "Skin without rash",
+                "Joints without tenderness or effusions",
+                "Neuro - normal fluent speech and cognition, normal strength, alert & oriented x 3",
+                "Psych - pleasant, calm"
+            ],
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

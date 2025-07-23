@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C. difficile toxin A & B test",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal Ultrasound",
+            "date": "Not specified",
+            "findings": "No focal or textural hepatic abnormalities identified. No intra- or extra-hepatic biliary ductal dilatation. Gallbladder moderately distended with a small amount of sludge. No wall thickening or cholelithiasis. Small amount of pericholecystic fluid observed. Common bile duct measures approximately 3-4 mm. Right kidney measures 11.5 cm with no hydronephrosis, stone, or renal mass identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

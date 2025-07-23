@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "6.0 ng/mL (Reference range: 0.0 - 10.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiograph",
+            "date": "Not specified",
+            "findings": "Multiple loops of mildly dilated large and small bowel with multiple air-fluid levels. No evidence of free air or pneumatosis.",
+            "changes_over_time": "Study is relatively unchanged compared to previous radiograph."
+        }
+    ]
+}

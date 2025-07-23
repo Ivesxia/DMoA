@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver demonstrates no focal or textural abnormalities. The main portal vein is patent with normal hepatopetal flow. No intrahepatic or extrahepatic biliary ductal dilation is seen. The common bile duct measuring 5 mm in diameter. The gallbladder is normal in appearance without evidence of gallstones or gallbladder wall thickening. The spleen is not enlarged, measuring 10 cm. There is trace perisplenic fluid. The visualized head, neck and body of the pancreas are unremarkable. The tail of the pancreas is obscured by overlying bowel gas and cannot be evaluated. The right kidney measures 11.9 cm in length and the left kidney measures 11.6 cm. No hydronephrosis or stones are detected in either kidney. There is a 1.1 x 0.9 x 0.7 cm avascular solid lesion, which is intimately associated with the upper pole of the left kidney, not seen on the prior ultrasound.",
+            "changes_over_time": "The avascular solid lesion associated with the upper pole of the left kidney was not seen on the prior ultrasound."
+        }
+    ]
+}

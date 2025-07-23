@@ -1,0 +1,29 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Mild bibasilar atelectasis; trace bilateral pleural effusions.",
+                "abdominal": "2.7 cm left crural ovoid hypodense structure; appendix dilated up to 9 mm and appears hyperemic with surrounding inflammation.",
+                "hepatobiliary": "Normal liver; no focal lesions.",
+                "pancreas": "Normal attenuation; no focal lesions.",
+                "spleen": "Normal size and attenuation; 1.1 cm accessory spleen similar to prior.",
+                "adrenals": "Normal size and shape.",
+                "urinary": "Normal symmetric kidneys; innumerable ovoid hypodensities bilaterally.",
+                "gastrointestinal": "Small bowel normal; diverticulosis in sigmoid colon; rectum with focal wall thickening.",
+                "pelvis": "No free fluid.",
+                "reproductive_organs": "Uterus unremarkable.",
+                "lymph_nodes": "No retroperitoneal lymphadenopathy.",
+                "vascular": "No abdominal aortic aneurysm; extensive atherosclerotic disease.",
+                "bones": "No evidence of worrisome osseous lesions.",
+                "soft_tissues": "Abdominal and pelvic wall within normal limits."
+            },
+            "changes_over_time": {
+                "appendix": "Measured 5 mm on prior imaging, now dilated up to 9 mm with increased hyperemia.",
+                "spleen": "1.1 cm accessory spleen similar to prior.",
+                "kidneys": "Innumerable ovoid hypodensities bilaterally similar to prior."
+            }
+        }
+    ]
+}

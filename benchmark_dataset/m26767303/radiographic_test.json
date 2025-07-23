@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized lung fields are within normal limits. There is probable hepatic steatosis. The spleen is enlarged, measuring 16.9 cm in length. The appendix is dilated up to 1.1 cm and fluid-filled with mucosal hyperenhancement and periappendiceal inflammation, suggesting appendicitis. No focal fluid collection or free air. Multiple prominent subcentimeter nodes are seen about the right ileocolic mesentery.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

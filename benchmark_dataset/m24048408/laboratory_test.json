@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "2.3 mg/dL; 1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "The liver demonstrates no focal lesion. The portal vein is patent and shows hepatopetal flow. The CBD measures between 6 and 7 mm. The gallbladder is contracted around multiple stones with US finding of wall echo shadow complex. The wall is mildly thickened, measuring 8 mm. Trace pericholecystic fluid is demonstrated. No sonographic sign was elicited.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

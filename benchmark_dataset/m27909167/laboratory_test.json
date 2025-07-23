@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC count: 20.1 K/uL (Reference range: 4.0 - 11.0 K/uL) - Elevated",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix dilated, measuring up to 9 mm, fluid-filled with surrounding fat stranding; no free fluid, free air or drainable fluid collection.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

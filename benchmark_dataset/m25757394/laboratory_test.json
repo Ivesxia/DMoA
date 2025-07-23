@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is fluid-filled and dilated along its mid-distal portion, measuring up to 8 mm. Minimal periappendiceal fat haziness. There is no periappendiceal fluid collection or evidence of perforation. No free fluid or free air is seen in the abdomen. The visualized portions of the lung bases are clear. The liver, gallbladder, spleen, pancreas, adrenal glands, and kidneys are normal. The stomach, small bowel, and colon are normal. No pathologically enlarged abdominal or pelvic lymph nodes are seen.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

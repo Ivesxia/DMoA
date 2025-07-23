@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ABD SUPINE & LAT DECUB",
+            "date": "Not specified",
+            "findings": "Small bowel loops contain gas and appear less distended compared to the prior study. Contrast is visible within the cecum and transverse colon. More contrast has passed to the transverse colon since the last study. No intraperitoneal air is noted.",
+            "changes_over_time": "Small bowel loops are less distended compared to the prior study, and more contrast has passed to the transverse colon since the last study."
+        }
+    ]
+}

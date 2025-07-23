@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "126/58 mmHg",
+                "respiratory_rate": "28 breaths/min",
+                "oxygen_saturation": "99% on 6L"
+            },
+            "relevant_findings": {
+                "general": "Alert, no acute distress",
+                "heent": "Sclera anicteric, dry MM, oropharynx clear",
+                "neck": "Supple, JVP not elevated, no LAD",
+                "lungs": "Decreased at the bases, otherwise clear to auscultation bilaterally, no wheezes, rales, or rhonchi",
+                "cardiovascular": "Regular rate and rhythm, normal S1 S2, no murmurs, rubs, or gallops",
+                "abdomen": "Firm abdomen, tender diffusely most notably in the epigastrum and LUQ, no bowel sounds, evidence of guarding and rebound tenderness",
+                "extremities": "Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.4°F",
+                "heart_rate": "94 bpm",
+                "blood_pressure": "153/65 mmHg",
+                "respiratory_rate": "24 breaths/min",
+                "oxygen_saturation": "92% on 6L NC"
+            },
+            "relevant_findings": {
+                "mental_status": "Somnolent and unable to provide history, significantly different from baseline",
+                "peripheral_edema": "Baseline peripheral edema, which is much improved currently",
+                "vomiting": "Episode of vomiting with complaint of abdominal pain"
+            },
+            "changes_over_time": "Her mental status changed significantly from her baseline due to acute illness; peripheral edema improved."
+        }
+    ]
+}

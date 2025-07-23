@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "66 bpm",
+                "blood_pressure": "119/82 mmHg",
+                "respiratory_rate": "19 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "No apparent distress",
+                "heart": "Regular rate and rhythm",
+                "lungs": "Clear to auscultation bilaterally",
+                "abdomen": "Soft, non-distended, tender to palpation in the epigastric area greater than right upper quadrant, no rebound, no guarding, negative sign, no masses",
+                "extremities": "No edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

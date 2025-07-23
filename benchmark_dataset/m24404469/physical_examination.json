@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.5 °F",
+                "blood_pressure": "102/63 mmHg",
+                "heart_rate": "72 bpm",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "100% on 4L; 93% RA"
+            },
+            "relevant_findings": {
+                "general": "Mildly agitated, otherwise NAD",
+                "HEENT": "NCAT, EOMI, sclera anicteric",
+                "neck": "Supple, JVP with prominent JVP, approx 9-10 cm",
+                "chest": "Few course inspiratory sounds, relatively clear otherwise. No rales present at bases. Positive for spider angioma.",
+                "cardiovascular": "RRR, normal S1/S2. III/VI systolic murmur, loudest at LSB",
+                "abdomen": "Moderately distended, positive bowel sounds. Soft, completely non-tender to deep palpation throughout. No hepatosplenomegaly.",
+                "extremities": "No skin tenting, no edema"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "82/44 mmHg",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "17 bpm",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": "One episode of hypotension with SBP 85 on arrival to ED, fluid responsive, normotensive since.",
+            "changes_over_time": "Normal blood pressure throughout ED course after receiving 3L NS."
+        }
+    ]
+}

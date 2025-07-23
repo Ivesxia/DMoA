@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Abdominal pain for 30 hours, starting around the umbilical area and migrating to the right lower quadrant. Fatigue developed 2 days ago, associated with weakness and headache. Nausea occurred when he ate yesterday, but no vomiting. He experienced a fever of 101 at home. Reports anxiety and some shortness of breath, with constipation noted.",
+        "past_medical_history": "Anxiety, urinary incontinence",
+        "family_history": "Aunt with inflammatory bowel disease (IBD)",
+        "social_history": "Not specified"
+    }
+}

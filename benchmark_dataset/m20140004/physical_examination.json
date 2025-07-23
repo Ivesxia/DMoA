@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2 °F",
+                "blood_pressure": "101/61 mmHg",
+                "heart_rate": "64 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "95%"
+            },
+            "relevant_findings": {
+                "general": "A&Ox3, NAD, resting comfortably",
+                "HEENT": "NCAT, EOMI, sclera anicteric",
+                "cardiovascular": "RRR",
+                "pulmonary": "no respiratory distress",
+                "abdominal": "soft, nontender, ND, no rebound or guarding",
+                "extremities": "warm, well-perfused, no edema",
+                "psychological": "normal insight, memory, and mood"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

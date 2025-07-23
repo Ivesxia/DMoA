@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urine culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound - Liver or Gallbladder",
+            "date": "Not specified",
+            "findings": "Hepatic parenchyma appears within normal limits; liver contour smooth; no focal liver mass; main portal vein patent with hepatopetal flow; no ascites. Common bile duct mildly dilated (8 mm); cholelithiasis; gallbladder wall thickening and edema; edema within the gallbladder fossa; pancreas not well visualized; normal spleen (11.3 cm); no hydronephrosis in right kidney.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

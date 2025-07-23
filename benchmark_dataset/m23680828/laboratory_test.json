@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "Mixed bacterial flora",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Estimated GFR Calculation",
+            "date": "Not specified",
+            "findings": "Estimated GFR > 75 (mL/min/1.73 m2), indicating normal kidney function.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

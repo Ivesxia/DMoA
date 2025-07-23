@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EGD",
+            "date": "Not specified.",
+            "findings": "Post procedure, the patient noted a fever to 101.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Endoscopic excision or destruction of lesion of duodenum",
+            "date": "Not specified.",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified.",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified.",
+            "findings": "Bx demonstrated desmoid type fibromatosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI pelvis",
+            "date": "Not specified.",
+            "findings": "MRI w/ multiple lesions consistent with desmoid tumors.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

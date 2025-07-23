@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields within normal limits; no pleural or pericardial effusion. Liver shows homogenous attenuation; no focal lesions. Common bile duct mildly dilated. Pancreas atrophic without focal lesion. Normal spleen size and attenuation. Kidneys normal with subcentimeter hypoattenuating lesions likely cysts. Interval improvement of pericolonic fat stranding; mild residual soft tissue thickening and extraluminal gas persists; diverticulosis of the sigmoid colon demonstrated. No fluid collection or free air. No mesenteric lymphadenopathy; stable subcentimeter para-aortic lymph nodes. No abdominal aortic aneurysm or atherosclerotic disease. Mild degenerative changes of the thoracolumbar spine; rounded sacral lesion possibly hemangioma, unchanged.",
+            "changes_over_time": "Interval improvement of pericolonic fat stranding; some adjacent mild residual soft tissue thickening and extraluminal gas persists; no new fluid collection or free air."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits. No evidence of pleural or pericardial effusion. Liver demonstrates homogenous attenuation without focal lesions. No intrahepatic or extrahepatic biliary dilatation. Gallbladder is normal. The pancreas is normal without focal lesions or pancreatic ductal dilatation. Spleen shows normal size and attenuation without focal lesions. Right adrenal gland is normal; left adrenal gland is pancake in appearance. Single right kidney is large and measures up to 13 cm with a nephrogram, no suspicious renal lesions or hydronephrosis. Post-surgical notes indicate a percutaneous drainage catheter adjacent to the posterior cecum with a small fluid collection in the right paracolic gutter measuring about 1.5 x 0.6 x 3.0 cm and a new organized fluid collection in the posterior pelvis measuring approximately 4.8 x 2.3 x 1.8 cm. Postsurgical fluid and stranding are present about the cecum. Hyperenhancement of the bladder wall is likely reactive. No lymphadenopathy or abdominal aortic aneurysm is noted. No evidence of osseous lesions or acute fracture.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

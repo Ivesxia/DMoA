@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Trace right pleural effusion and dependent right lower lobe atelectasis. A wedge-shaped area of relative hypoattenuation in the right hepatic lobe, segment VII, likely due to transient hepatic attenuation difference. Large exophytic 9.7 cm simple cyst in the left hepatic lobe, unchanged from prior. Other liver hypodensities unchanged and likely represent hepatic cysts. No evidence of intrahepatic biliary dilatation, mildly prominent CBD unchanged from prior. Gallbladder contains gallstones without wall thickening or surrounding inflammation. Normal pancreas and spleen. Kidneys normal in size and shape with normal nephrogram; subcentimeter hypodensities unchanged. Status post appendicectomy, with some residual fat stranding and small interloop fluid collection. Distended small bowel with collapsed distal segments. New 8.5 x 7.4 x 5.4 cm fluid collection in the pelvis with peritoneal enhancement. Fibroid uterus and bilateral adnexa unchanged. No abdominal or pelvic lymphadenopathy.",
+            "changes_over_time": "Changes noted in the CT findings: a new fluid collection in the cul-de-sac compared to prior imaging, and a 9.7 cm simple cyst in the left hepatic lobe remains unchanged."
+        },
+        {
+            "procedure_name": "Laboratory examination for Polymorphonuclear leukocytes",
+            "date": "Not specified",
+            "findings": "1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Coagulation test (PT/INR)",
+            "date": "Not specified",
+            "findings": "PT: 12.8 sec (within normal range).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

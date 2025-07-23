@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated up to 10 mm in diameter with an enhancing wall, intraluminal fluid, and slight surrounding fat stranding, most consistent with acute appendicitis. Liver, gallbladder, pancreas, spleen, and adrenal glands appear within normal limits. The stomach, small and large bowel appear within normal limits. Prostate, seminal vesicles, distal ureters, and bladder appear within normal range. Major mesenteric arteries and veins appear patent. No enlarged lymph nodes or ascites.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation test",
+            "date": "Not specified",
+            "findings": "33.7 sec (within reference range: 25.0 - 36.5 sec)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

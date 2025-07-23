@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "heart_rate": "52 bpm",
+                "blood_pressure": "98/58 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% RA"
+            },
+            "relevant_findings": {
+                "cardiovascular": "Regular rate and rhythm (RRR)",
+                "pulmonary": "Clear to auscultation bilaterally (CTA-B)",
+                "abdominal": "Soft, non-tender, non-distended; dressings in place, clean, dry, and intact",
+                "extremities": "No peripheral edema, palpable distal pulses"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

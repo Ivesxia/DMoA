@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "initial": {
+                    "temperature": "97.9°F",
+                    "heart_rate": "63 bpm",
+                    "blood_pressure": "138/67 mmHg",
+                    "respiratory_rate": "16",
+                    "spO2": "100% RA"
+                },
+                "prior_to_transfer": {
+                    "temperature": "100.3°F",
+                    "heart_rate": "85 bpm",
+                    "blood_pressure": "125/74 mmHg",
+                    "respiratory_rate": "18",
+                    "spO2": "96% RA"
+                }
+            },
+            "relevant_findings": {
+                "vital_signs": {
+                    "initial": "Vital signs suggest a stable, yet concerning physiologic state considering the elevated temperatures and fluctuating heart rate.",
+                    "prior_to_transfer": "Prior to transfer, there is slight elevation in temperature and heart rate."
+                },
+                "physical_examination": {
+                    "general": "Well appearing obese man in obvious discomfort.",
+                    "heent": "PERRL, EOMI, MMM, sclera anicteric.",
+                    "cardiac": "RRR, normal S1/S2, no murmurs or gallop.",
+                    "pulmonary": "CTAB, no wheeze or crackles.",
+                    "abdomen": "Obese, mildly distended, soft, moderate tenderness in bilateral lower quadrants and severe tenderness in RUQ.",
+                    "extremities": "WWP, no edema.",
+                    "skin": "Mild scattered discrete erythematous papules over trunk and extremities with scratch marks noted from chickens."
+                }
+            },
+            "changes_over_time": "Vital signs showed a minor increase in temperature and heart rate prior to transfer. No significant changes in physical examination findings documented over the course."
+        }
+    ]
+}

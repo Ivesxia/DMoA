@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Percutaneous drainage",
+            "date": "Not specified",
+            "findings": "Managed duodenal stump leak.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Concern for pneumobilia or pneumoperitoneum.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

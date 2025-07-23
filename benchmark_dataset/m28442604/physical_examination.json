@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.4°F",
+                "heart_rate": "78 bpm",
+                "blood_pressure": "148/69 mmHg",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "Not assessed (NAD)",
+                "cardiovascular": "Regular rate and rhythm (RRR)",
+                "lungs": "Clear to auscultation bilaterally (CTAB)",
+                "abdomen": "Soft, non-distended, right lower quadrant tenderness to palpation (rlq ttp), no rebound tenderness",
+                "rectal": "Guaiac negative",
+                "extremities": "2+ pulses, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

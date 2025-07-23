@@ -1,0 +1,31 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified.",
+            "findings": {
+                "abdominal findings": {
+                    "liver": "homogeneous attenuation throughout, no focal lesions.",
+                    "gallbladder": "distended, contains gallstones without wall thickening.",
+                    "pancreas": "normal attenuation throughout, no focal lesions.",
+                    "spleen": "normal size and attenuation throughout, no focal lesions.",
+                    "kidneys": "atrophic though symmetric in size bilaterally, no focal renal lesions.",
+                    "additional findings": "no hydronephrosis, no nephrolithiasis, no perinephric abnormality."
+                }
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinary Filtration",
+            "date": "Not specified.",
+            "findings": {
+                "results": {
+                    "value": "15.0 ug/mL",
+                    "description": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+                    "reference_range": "10.0 - 20.0"
+                }
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

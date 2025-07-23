@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Limited visualization of the right upper quadrant demonstrates relatively distended gallbladder with presence of a large calculus and sludge.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

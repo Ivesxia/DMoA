@@ -1,0 +1,45 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver function test (ALT, AST, Alk Phos, Tbili)",
+            "date": "Not specified",
+            "findings": {
+                "ALT": 685,
+                "AST": 587,
+                "Alk Phos": 196,
+                "Tbili": 2.6
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver function test (ALT, AST, Alk Phos, Tbili)",
+            "date": "Not specified",
+            "findings": {
+                "ALT": 671,
+                "AST": 520,
+                "Alk Phos": 220,
+                "Tbili": 1.1,
+                "WBC": 7.5,
+                "Hb": 13.7
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": {
+                "lipase": 1660
+            },
+            "changes_over_time": "Decreased to 1126"
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": {
+                "Hepatic steatosis": "Fat fraction of 24%",
+                "Calcium in CBD": "4 mm calculus in distal CBD with proximal bile duct dilatation of up to 13 mm"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

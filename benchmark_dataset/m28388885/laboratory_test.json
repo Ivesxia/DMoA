@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Test for Blood Glucose",
+            "date": "Not specified",
+            "findings": "132.0 mg/dL (Normal range: 70.0 - 100.0 mg/dL; Outside normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Subhepatic fluid collection measures 4.6 x 3.1 cm, unchanged from prior exam. Central intrahepatic biliary ductal dilatation is minimally decreased from prior. Pneumobilia persists and is unchanged from previous exam. Residual air within the pancreatic duct at the site of prior stent placement, unchanged.",
+            "changes_over_time": "Subhepatic fluid collection appears unchanged from prior exam; central intrahepatic biliary ductal dilatation is minimally decreased; fat stranding and possible edema along the pancreatic neck and proximal body unchanged."
+        }
+    ]
+}

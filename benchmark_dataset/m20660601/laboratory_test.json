@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "WBC count elevated at 16.2 (normal range not specified).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Positive nitrites, ___ RBCs, ___ WBCs, 3+ bacteria, and 2+ epithelial cells.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "C. difficile PCR",
+            "date": "Not specified",
+            "findings": "Negative (reference range - Negative).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chemistry Panel",
+            "date": "Not specified",
+            "findings": "Creatinine level 132.0 mg/dL (reference range unspecified; indicated baseline 1.4-1.6).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

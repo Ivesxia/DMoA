@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric pain",
+        "history_of_present_illness": "Onset of epigastric pain occurred at 1 PM on the day of presentation, which lasted for 1 day. The patient describes regular gallbladder attacks occurring 3 hours after eating, lasting 1.5 hours, sharp in nature, usually associated with emesis. This episode started an hour after eating and persisted without associated emesis. Symptoms first started in early ___, occurred twice monthly with varying intensity, improving until ___. Pain typically radiates to the back, lasts hours. Pain was ___ on this occasion but less severe than typical episodes.",
+        "past_medical_history": "hx of gallstones, hiatal hernia, hypertension, hypothyroidism",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

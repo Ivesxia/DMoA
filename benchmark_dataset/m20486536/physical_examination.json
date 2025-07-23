@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "85 bpm",
+                "blood_pressure": "139/73 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "young male in NAD lying in bed",
+                "cardiovascular": "RRR, no m/r/g",
+                "respiratory": "CTAB, no r/r/w",
+                "abdominal": "soft, mildly suprapubic tenderness, greatest in the RLQ. No change in pain with right leg lift. No pain on palpation of LLQ.",
+                "neurological": "motor and sensory grossly intact, moving all extremities.",
+                "extremities": "+DPP, WWP"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

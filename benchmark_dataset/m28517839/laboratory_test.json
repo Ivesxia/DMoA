@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "CT abdomen shows small hypodensities in the liver that may represent cysts or biliary hamartomas; no concerning focal liver lesions or intra or extrahepatic biliary dilatation. The kidneys enhance and excrete contrast symmetrically without evidence of hydronephrosis or focal lesions. CT pelvis shows a large amount of mesenteric fat stranding in the right lower quadrant surrounding a decompressed appendix with foci of extraluminal air concerning for perforated appendicitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for creatinine",
+            "date": "Not specified",
+            "findings": "Creatinine level is 2.5 mg/dL, which is below the normal range (ref range: 2.7 - 4.5 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

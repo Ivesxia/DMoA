@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Diffuse periumbilical abdominal pain with nausea and vomiting for 4 days.",
+        "history_of_present_illness": "The patient presents with diffuse periumbilical abdominal pain that radiates to the back, which began 4 days ago. Initially, the pain improved with movement, but has since changed to improve with keeping still. The patient describes the pain as feeling like a big ball. No weight loss, fever, or chills noted.",
+        "past_medical_history": "Diabetes mellitus for unspecified years with an HgbA1C of 8.3%. History of right-sided breast cancer treated with partial mastectomy and axillary lymph node dissection, radiation therapy, and chemotherapy. Recently diagnosed left-sided invasive lobular carcinoma grade 2.",
+        "family_history": "Her mother has postmenopausal breast cancer and is currently doing well; her maternal grandmother also had breast cancer, details on onset are unspecified, and she died from breast cancer at age unspecified. No family history of GI/biliary/pancreatic ailments.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "heart_rate": "120 bpm",
+                "blood_pressure": "125/78 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "O2_saturation": "100%"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "HEENT": "Normocephalic, atraumatic; Pupils equal, round and reactive to light; Extraocular muscles intact; Oropharynx within normal limits",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular rate and rhythm; Normal first and second heart sounds",
+                "abdominal": "Soft; + LLQ tenderness; negative Murphy's sign; no RLQ tenderness",
+                "extremities/back": "No cyanosis, clubbing, or edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

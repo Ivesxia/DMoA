@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Percutaneous abdominal drainage",
+            "date": "Not specified",
+            "findings": "1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Post-procedure CT demonstrated marked interval collapse in the size of the fluid collection. A moderate-sized hematoma was noted in the right piriformis muscle, with no change in size noted on final CT."
+        },
+        {
+            "procedure_name": "CT Peritoneal Drain Excluding Appendiceal",
+            "date": "Not specified",
+            "findings": "Preprocedure CT scan demonstrated several fluid collections, with the largest in the deep pelvis anterior to the rectum.",
+            "changes_over_time": "Post-procedure limited CT confirmed the pigtail catheter was well located within the pelvic collection, with marked interval collapse."
+        },
+        {
+            "procedure_name": "Aspiration of fluid",
+            "date": "Not specified",
+            "findings": "Approximately 10 cc of serous fluid was aspirated and sent for microbiology analysis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "89 bpm",
+                "blood_pressure": "122/80 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "baseline": {
+                    "general": "Alert, oriented, no acute distress",
+                    "HEENT": "Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL",
+                    "neck": "Supple, no LAD",
+                    "cardiovascular": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+                    "lungs": "Clear to auscultation bilaterally, no wheezes, rales, rhonchi",
+                    "abdomen": "Soft, tender in the LLQ, no rebound",
+                    "neurology": "CNII-XII intact, moves all extremities antigravity"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "127/72 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "abdomen": "Soft, tender in the LLQ, no rebound"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

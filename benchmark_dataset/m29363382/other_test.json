@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Physical Exam",
+            "date": "Not specified",
+            "findings": "Patient is alert and oriented times three. No scleral icterus, oropharynx clear. Heart sounds are regular. Lungs are clear to auscultation bilaterally. Abdomen is soft, non-distended, focally tender in the right lower quadrant with positive Rovsing's sign and no rebound tenderness. Well-healed surgical scar noted. Extremities have no edema and are warm with palpable dorsalis pedis pulses bilaterally.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy (No Growth Result)",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

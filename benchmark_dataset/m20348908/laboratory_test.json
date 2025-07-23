@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified.",
+            "findings": "The kidneys enhance symmetrically with several tiny cortical hypodensities, too small to characterize. No hydronephrosis or signs of pyelonephritis. Colonic diverticulosis is noted. There is marked inflammation surrounding the sigmoid colon which is diffusely thickened. A pocket of extraluminal gas is noted along the mid sigmoid mesocolon concerning for perforated diverticulitis. There is trace associated free fluid.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified.",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.4 °F",
+                "heart_rate": "106 bpm",
+                "blood_pressure": "125/71 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": "Alert/Oriented x 3. No acute distress. Regular rate and rhythm. No murmurs. Clear to auscultation bilaterally. Abdomen soft, non-distended, with right upper quadrant tenderness, mild guarding, no rebound tenderness, guaiac negative, no hernias, no lower extremity edema.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

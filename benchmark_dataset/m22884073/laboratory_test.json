@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "White Blood Cell Count (WBC)",
+            "date": "Not specified",
+            "findings": "WBC count was 7.9 (value within normal range).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Blind-ending fluid filled tubular structure in the right lower quadrant measuring 9-10 mm, with hyperemia and surrounding edema. Shadowing appendicolith seen in its mid portion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

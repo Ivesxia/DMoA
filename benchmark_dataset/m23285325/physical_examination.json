@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4 °F",
+                "heart_rate": "84 bpm",
+                "blood_pressure": "154/80 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "lying on left side, awake and alert, mild uncomfortable",
+                "HEENT": "dry mucus membranes",
+                "neck": "no cervical lymphadenopathy",
+                "CV": "S1, S2 regular rhythm, normal rate",
+                "lungs": "clear to auscultation bilaterally, unlabored respirations",
+                "abdomen": "soft, mild tenderness to palpation in epigastric area, no rebound, no guarding",
+                "GU": "no foley",
+                "extremities": "no edema",
+                "neuro": "alert, oriented to self, hospital, date, speech fluent, tongue midline"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

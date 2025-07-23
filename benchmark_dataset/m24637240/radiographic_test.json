@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The lung bases are clear. The heart is normal in size. There is no pericardial effusion. The liver is homogeneous in attenuation. There are no focal hepatic lesions. The gallbladder, spleen, adrenal glands, and pancreas are normal. There is a small amount of free fluid within the pelvis. There is no free air. There is a 1.3 cm round calcification within the central pelvis with surrounding ill-defined fluid, phlegmonous change, and enhancement, which tracks to the cecum, suggestive of perforated appendicitis with an appendicolith. There is an associated ill-defined fluid collection measuring 3.1 x 4 x 3.9 cm (AP x TV x CC). The terminal ileum is decompressed and there may be associated wall thickening. Air-fluid levels are noted within the small bowel with extensive intraluminal fluid also seen. The bilateral kidneys demonstrate symmetric nephrograms, without evidence of hydronephrosis. The bladder is mostly decompressed. The prostate gland is normal. The abdominal aorta is unremarkable. There is no retroperitoneal or inguinal adenopathy. There are mildly prominent nonspecific mesenteric nodes, which are likely reactive. There is no acute osseous abnormality.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

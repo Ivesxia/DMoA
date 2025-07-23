@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Lower abdominal pain",
+        "history_of_present_illness": "Symptoms began about a week and a half ago, starting with mild symptoms and gradually developing into cramping lower abdominal pain rated at ___ out of 10, accompanied by watery diarrhea. Over a few days, his appetite decreased and he experienced about 3 watery bowel movements per day. Diarrhea improved, but abdominal pain persisted, along with nausea and nonbloody vomiting. Patient lost approximately 20 pounds over the past 2 weeks. Pain severity increased to ___ on the day of admission, prompting treatment.",
+        "past_medical_history": "Type 1 diabetes, hypertension, hyperlipidemia, pancreas transplant, compound fracture of lower extremity",
+        "family_history": "Not specified",
+        "social_history": "Works as a ___ and is occasionally exposed to other people's excrement; no other lifestyle factors mentioned."
+    }
+}

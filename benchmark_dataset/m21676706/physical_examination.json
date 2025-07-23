@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.7 °F",
+                "heart_rate": "81 bpm",
+                "blood_pressure": "113/58 mmHg",
+                "respiratory_rate": "19 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "No acute distress (NAD)",
+                "cardiac": "Regular rate and rhythm (RRR), no murmurs, rubs, or gallops (M/R/G)",
+                "lungs": "Clear to auscultation bilaterally (CTAB)",
+                "abdomen": "Soft, mildly distended, tenderness to palpation in bilateral lower quadrants, more so on the right",
+                "extremities": "Warm, well-perfused (WWP)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

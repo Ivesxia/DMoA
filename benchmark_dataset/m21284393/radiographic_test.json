@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Dependent atelectasis in the lung bases bilaterally, no effusion, lung masses or nodules. Multiple small hypoattenuating foci in the liver likely benign cysts or hemangiomas. No intra- or extra-hepatic biliary ductal dilatation. Normal gallbladder. No gallstones or wall thickening. Unremarkable pancreas, adrenal glands, and kidneys. Small area of heterogeneous attenuation in the spleen. Small non-pathologically enlarged lymph nodes at porta hepatis. No pathologic mesenteric or retroperitoneal adenopathy. Atherosclerotic calcifications in the aorta; major mesenteric vessels and portal vein are patent. Abnormal multiple loops of distal small bowel with adjacent mesenteric stranding and cortical thickening. Enlarged appendix measuring up to 15 mm with associated periappendiceal fat stranding and fluid in the paracolic gutter; no organized fluid collection or evidence of perforation. Wall thickening in the cecum at the base of appendix. Small amount of free fluid in the pelvis; normal distal ureters and bladder. No suspicious osseous lesions, mild degenerative change in the thoracolumbar spine.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

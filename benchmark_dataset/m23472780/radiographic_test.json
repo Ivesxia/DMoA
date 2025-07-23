@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is fluid-filled, dilated up to 1.5 cm, with mucosal hyperemia and surrounding inflammatory changes consistent with appendicitis. Mild central biliary ductal dilatation noted. No obstructing lesion identified. Scattered retroperitoneal nodes noted which do not meet strict CT size criteria for pathology.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

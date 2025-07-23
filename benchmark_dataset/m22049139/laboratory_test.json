@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": "The liver shows no focal or textural abnormalities. The gallbladder is distended with wall edema (approximately 4 mm thickness). Pericholecystic fluid is present. There are three intraluminal gallstones (two mobile, one immobile in the gallbladder neck). The common bile duct is not dilated (3 mm in diameter). The spleen appears normal (10 cm). Limited views of the bilateral kidneys show small parapelvic cyst in the left kidney.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test (unnamed)",
+            "date": "Not specified",
+            "findings": "3.2 mg/dL, within normal range (ref range: 2.7 - 4.5 mg/dL) with 'No Growth' reported.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

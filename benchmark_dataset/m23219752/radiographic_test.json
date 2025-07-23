@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Multiple small stones and possibly polyps within the gallbladder, gallbladder distension, wall edema (9mm), minimal pericholecystic fluid, and a positive sonographic sign. Liver demonstrates homogeneous echogenicity without focal lesion, main portal vein is patent, and spleen is unremarkable measuring 12 cm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

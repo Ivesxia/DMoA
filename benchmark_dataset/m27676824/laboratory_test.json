@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is hyperemic, fluid-filled and dilated measuring up to 11 mm in diameter with periappendiceal fluid and inflammation. A hypodensity in the left lobe of the liver measuring 6 mm, likely a simple cyst. A 2.5 x 1.5 x 2.7 cm lesion in the right adrenal gland. Pelvic free fluid noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test for Hypothyroidism",
+            "date": "Not specified",
+            "findings": "NEG. (Negative)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

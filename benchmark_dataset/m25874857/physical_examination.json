@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.1°F",
+                "blood_pressure": "116/85 mmHg",
+                "heart_rate": "80 bpm",
+                "respiratory_rate": "12 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Contracted, non-verbal, winces to touch.",
+                "heent": "Normocephalic, atraumatic. Will not open eyes to command, squeezes them shut.",
+                "cardiac": "Regular rhythm, normal rate. Systolic ejection murmur at the RUSB, non-radiating.",
+                "lungs": "Good air movement bilaterally, no crackles or wheezes.",
+                "abdomen": "Voluntary guarding, NABS, tube is C/D/I.",
+                "extremities": "No edema or calf pain, 2+ dorsalis pedis/posterior tibial pulses."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "blood_pressure": "138/112 mmHg",
+                "heart_rate": "80 bpm",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Not specified",
+                "heent": "Not specified",
+                "cardiac": "Not specified",
+                "lungs": "Not specified",
+                "abdomen": "Soft and non-tender.",
+                "extremities": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

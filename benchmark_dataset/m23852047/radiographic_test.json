@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder is distended with shadowing stones and sludge along with a 6 mm obstructing stone at the gallbladder neck/cystic duct. There is equivocal prominence of the gallbladder wall measuring 3 mm. Evidence of a common bile duct stent with greater dilatation of the proximal common bile duct measuring 10 mm and prominence of the common hepatic duct measuring 4 mm.",
+            "changes_over_time": "Previously demonstrated hemangiomas are better characterized on recent abdominal ultrasound. Greater dilatation of the proximal common bile duct compared to earlier assessments raises concern for stent malfunction."
+        }
+    ]
+}

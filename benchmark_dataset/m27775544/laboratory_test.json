@@ -1,0 +1,27 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Salmonella and Shigella Testing",
+            "date": "Not specified",
+            "findings": "NO SALMONELLA OR SHIGELLA FOUND.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "Liver": "Fatty but without focal lesions or intrahepatic biliary duct dilatation.",
+                "Pancreas": "Fatty infiltration without focal lesions or peripancreatic stranding or fluid collection.",
+                "Spleen": "Homogeneous and normal in size.",
+                "Adrenals": "Unremarkable.",
+                "Kidneys": "Several small hypodense lesions in the left kidney, otherwise enhance symmetrically and excrete contrast without evidence of hydronephrosis or masses.",
+                "GI Tract": "Numerous diverticuli in the sigmoid colon with minimal surrounding fat stranding. No fluid collection or local free air; the remainder of the colon is non-dilated.",
+                "Vascular": "Moderate atherosclerotic calcifications with the aorta of normal caliber.",
+                "Retroperitoneum and Abdomen": "No retroperitoneal or mesenteric lymph node enlargement, ascites, free air or abdominal wall hernias.",
+                "Pelvic CT": "No pelvic wall or inguinal lymph node enlargement and no pelvic free fluid.",
+                "Osseous Structures": "No lytic or blastic lesion suspicious for malignancy."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

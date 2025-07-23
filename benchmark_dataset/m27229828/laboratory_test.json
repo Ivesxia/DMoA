@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood test for creatinine",
+            "date": "Not specified",
+            "findings": "Creatinine level is 12.0 mg/dL, which is within the normal range (ref range: 6.0 - 20.0 mg/dL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Mildly inflamed appendix measuring 10 mm; no hydronephrosis or hydroureter; splenule detected; normal liver and kidney function.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

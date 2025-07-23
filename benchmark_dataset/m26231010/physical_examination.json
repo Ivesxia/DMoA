@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "blood_pressure": "140/82 mmHg",
+                "heart_rate": "71 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on RA"
+            },
+            "relevant_findings": {
+                "general": "In NAD.",
+                "HEENT": "PERRL, EOMI. No scleral icterus. Bilateral mild conjunctival injection. Mucous membranes moist. No oral ulcers.",
+                "neck": "Supple, no LAD.",
+                "lungs": "CTA bilaterally, no wheezes, rales, rhonchi. Normal respiratory effort.",
+                "cardiovascular": "RRR, no murmurs, rubs, gallops.",
+                "abdomen": "Soft, mild mid abdominal tenderness, ND, NABS, no HSM. No rebound or guarding.",
+                "extremities": "Warm and well perfused, no cyanosis, clubbing, edema.",
+                "neurological": "Alert and oriented X 3, face symmetric, moves all extremities, full strength in legs, no pronator drift.",
+                "skin": "No rashes or ulcers.",
+                "psychiatric": "Anxious.",
+                "GU": "Deferred."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

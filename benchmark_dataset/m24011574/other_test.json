@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Percutaneous aspiration of gallbladder",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of liver or gallbladder",
+            "date": "Not specified",
+            "findings": "Gallbladder is moderately distended and contains sludge and small stones. There is a trace of pericholecystic fluid, although no wall edema is noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

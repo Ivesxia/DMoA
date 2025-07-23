@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The echogenicity of the liver is heterogeneous. There is no evidence of focal hepatic lesions. There is no evidence of intrahepatic or extrahepatic biliary dilatation. The gallbladder is normal without evidence of stones or gallbladder wall thickening. The CBD measures 3 mm, there is no evidence of choledocholithiasis. The spleen measures 8.3 cm and has homogeneous echotexture. Representative images of the right and left kidney are within normal limits without masses, hydronephrosis or stones. Visualized aorta is of normal caliber. There is no ascites.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

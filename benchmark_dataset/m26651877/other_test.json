@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Physical Exam",
+            "date": "Not specified.",
+            "findings": "Tender to palpation at epigastrium and right side of abdomen, especially at RLQ. Rebound tenderness and tender to percussion over RLQ. No guarding. Negative signs for Rovsing's, Psoas, and Obturator signs. No palpable masses.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified.",
+            "findings": "Fluid-filled blind-ending structure in the right lower quadrant measuring 11 mm in diameter with mucosal hyperenhancement and surrounding inflammatory fat stranding. No oral contrast seen within the appendix. No evidence of obstruction or free fluid/air identified in the abdomen/pelvis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

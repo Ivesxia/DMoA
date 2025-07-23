@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "biopsy",
+            "date": "Not specified",
+            "findings": "Inactive gastritis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "Cholelithiasis without gallbladder wall thickening; normal hepatic parenchyma; no focal liver mass; no intrahepatic biliary dilation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

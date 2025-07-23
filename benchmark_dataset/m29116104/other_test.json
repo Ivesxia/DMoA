@@ -1,0 +1,10 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder is incompletely distended with multiple gallstones and positive ___ sign on exam. There is no gallbladder wall thickening or pericholecystic fluid, and the common bile duct is not distended at 3 mm. Incidentally noted are multiple polyps throughout the gallbladder. The liver is normal in echotexture with no focal lesions. There is no intra- or extra-hepatic biliary ductal dilatation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

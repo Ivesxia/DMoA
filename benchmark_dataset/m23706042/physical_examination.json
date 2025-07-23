@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.0°F",
+                "heart_rate": "56 bpm",
+                "blood_pressure": "124/82 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "overall well-appearing, NAD",
+                "HEENT": "NC/AT, EOMI, no scleral icterus",
+                "respiratory": "breathing comfortably on room air, no distress",
+                "cardiovascular": "RRR",
+                "abdominal": "Soft, non-distended, mild tenderness to deep palpation in the RLQ without rebound/guarding",
+                "extremities": "warm and well-perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.2°F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "NAD/A&Ox3",
+                "lungs": "CTAB",
+                "heart": "RRR",
+                "abdomen": "soft, minimally tender, nondistended",
+                "wound": "CDI"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

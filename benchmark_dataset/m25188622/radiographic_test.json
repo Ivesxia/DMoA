@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Minimal dependent atelectasis in the lung bases, normal heart size with no pericardial effusion, normal liver, spleen, adrenals, pancreas, kidneys, cholelithiasis without pericholecystic fluid, no bowel obstruction, unremarkable abdominal aorta and iliac vessels, no lymphadenopathy. The appendix is dilated with hyperemic wall measuring up to 12 mm with adjacent extensive inflammatory changes and small amount of fluid, minimal cecal wall thickening, unremarkable uterus, a cystic lesion in the right adnexa likely representing an ovarian cyst, a round fatty lesion adjacent to the sigmoid colon, moderately collapsed urinary bladder with small amount of contrast material, and a 1.3 cm hypodense round midline structure at the urethra-vagina location. No fractures identified, sclerotic appearance of the left sacrum possibly degenerative, osteophyte formation at right sacroiliac joint likely degenerative, and mild degenerative changes of visualized spine.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

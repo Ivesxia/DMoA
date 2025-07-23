@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "abdomen": {
+                    "appendix": "Dilated up to 1.4 cm with a calcified appendicolith at the base, significant fat stranding surrounding the appendix.",
+                    "liver": "Homogeneous, without focal lesions.",
+                    "gallbladder": "Unremarkable with a punctate calcified gallstone noted.",
+                    "pancreas": "Within normal limits.",
+                    "spleen": "Within normal limits.",
+                    "adrenal glands": "Within normal limits.",
+                    "kidneys": "No focal lesions, no hydronephrosis bilaterally.",
+                    "small bowel and colon": "Within normal limits, no evidence of wall thickening or dilatation.",
+                    "aorta": "Normal in caliber.",
+                    "lymph nodes": "Not enlarged by CT size criteria.",
+                    "ascites": "None.",
+                    "abdominal free air": "None.",
+                    "abdominal wall hernia": "None."
+                },
+                "pelvis": {
+                    "urinary bladder": "Unremarkable.",
+                    "pelvic lymphadenopathy": "None.",
+                    "pelvic free fluid": "None.",
+                    "prostate": "Enlarged with a transverse diameter of 5.8 cm.",
+                    "umbilical hernia": "Small fat-containing noted."
+                },
+                "osseous structures": "No lytic or blastic lesions concerning for malignancy; degenerative changes noted in thoracic and lumbar spine."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

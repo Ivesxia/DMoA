@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver demonstrates mildly increased echogenicity, suggesting mild fatty infiltration. The gallbladder contains a large stone measuring 21 mm. No evidence of gallbladder wall thickening or pericholecystic fluid is seen. The gallbladder has a folded appearance at the fundus. No intra- or extra-hepatic biliary ductal dilatation, the common duct measuring 3 mm. The pancreas is not visualized due to overlying bowel gas. No hydronephrosis in the right kidney. No free fluid in the right upper quadrant.",
+            "changes_over_time": "The stone does not move from the neck of the gallbladder despite repositioning. Previous studies may suggest prior presence of similar findings, but specific changes over time are not detailed."
+        }
+    ]
+}

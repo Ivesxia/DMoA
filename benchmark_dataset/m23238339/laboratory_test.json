@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic with a smooth contour. No focal liver mass, the main portal vein is patent with hepatopetal flow, and no ascites noted. There is no intrahepatic biliary dilation. The gallbladder contains a few gallstones with marked wall thickening and wall edema but is not abnormally distended. Pancreas appears within normal limits, spleen is normal with a length of 9.9 cm, and kidneys have simple cysts up to 4.4 cm. Right kidney measures 11.7 cm and left kidney measures 11.6 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Examination (valuestr)",
+            "date": "Not specified",
+            "findings": "No polymorphonuclear leukocytes seen. No microorganisms seen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Examination (valuestr_y)",
+            "date": "Not specified",
+            "findings": "No polymorphonuclear leukocytes seen. No microorganisms seen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolyte Panel (valuestr_x)",
+            "date": "Not specified",
+            "findings": "0.0 mEq/L",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

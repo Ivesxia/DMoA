@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "blood_pressure": "152/77 mmHg",
+                "heart_rate": "109 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "95%"
+            },
+            "relevant_findings": {
+                "general": "slightly diaphoretic, tachycardic, uncomfortable appearing",
+                "head": "normocephalic and atraumatic",
+                "eyes": "PERRL, EOMi",
+                "lungs": "CTAB",
+                "cardiac": "RRR, no murmur",
+                "abdomen": "soft, tender RUQ and epigastrium",
+                "GU": "no CVA tenderness",
+                "musculoskeletal": "no obvious deformities of limbs",
+                "extremities": "no edema",
+                "neurologic": "awake, alert, moves all extremities, speech fluent",
+                "dermatologic": "skin is warm and dry, no jaundice"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "There is a 3-mm ground-glass nodule in the posterior basal segment of the right lower lobe. Trace simple bilateral pleural effusions are present, left greater than right, with associated compressive atelectasis. The heart is mildly enlarged, without pericardial effusion. Dense calcifications are noted in the posterior descending and left circumflex arteries. There is mild pancreatic enlargement and hypoenhancement, particularly within the head and neck. Mild fat stranding is seen surrounding the pancreatic tail. There is a 1-cm hypodensity in the distal pancreatic body. No peripancreatic fluid collections are present. Prominent retroperitoneal lymph nodes measure up to 7-9 mm in the left para-aortic region. The native kidneys are atrophic, with a 3-cm non-obstructing stone in the left lower pole. There is slight hypoenhancement and trace surrounding edema of the renal transplant. Air-fluid levels noted in a prominent stomach and a small diverticulum arising from the first portion of the duodenum. Jejunal loops are diffusely fluid filled, representing focal ileus in sentinel loops. Posterior fusion hardware and disc prostheses are seen at the L3 through L5 levels.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

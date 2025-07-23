@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Worsening right lower quadrant abdominal pain.",
+        "history_of_present_illness": "The patient states that his pain started 7 days ago and has been intermittent but worsening over the course of the week.",
+        "past_medical_history": "GERD, Hypothyroid, Depression",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

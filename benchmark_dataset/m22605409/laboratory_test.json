@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ova and Parasites Examination",
+            "date": "Not specified",
+            "findings": "NO OVA AND PARASITES SEEN. This test does not reliably detect Cryptosporidium, Cyclospora or Microsporidium. While most cases of Giardia are detected by routine O+P, the Giardia antigen test may enhance detection when organisms are rare.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The right renal pelvis and ureter are minimally larger than on the prior study, with slightly slower egress of contrast through the ureter than on the left. Bilaterally, renal cortical thinning is unchanged and consistent with scarring, possibly from prior infection. No free air or fluid in the abdomen. The ostomy in the right lower quadrant is stable.",
+            "changes_over_time": "The right renal pelvis and ureter are minimally larger than on the prior study compared to the previous imaging, indicating a change in size. The diverticulum has remained stable in appearance since the last examination."
+        }
+    ]
+}

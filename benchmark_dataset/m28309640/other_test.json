@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Pulmonary Function Test (Spirometry)",
+            "date": "Not specified",
+            "findings": "FVC 45%, FEV1 29%, FEV1/FVC 65%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CHest X-ray (Pre-op PA & LAT)",
+            "date": "Not specified",
+            "findings": "Hyperexpansion of the lungs consistent with emphysema. Mild cardiomegaly without significant vascular congestion. There is no focal consolidation, pneumothorax, or pleural effusion. The cardiomediastinal silhouette and the hila are unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

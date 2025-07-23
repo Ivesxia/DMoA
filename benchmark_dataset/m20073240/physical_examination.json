@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9 F",
+                "heart_rate": "86 bpm",
+                "blood_pressure": "136/87 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, resting comfortably in bed",
+                "heent": "Mucous membranes moist, pupils equal, round, reactive to light",
+                "cardiovascular": "Regular rate and rhythm, normal S1/S2, no murmurs, rubs, or gallops",
+                "respiratory": "Clear to auscultation bilaterally, no wheezes, rales, or rhonchi",
+                "abdominal": "Soft, mild appropriate tenderness to palpation over incisions, non-distended, positive bowel sounds, no rebound or guarding",
+                "wound": "Abdominal laparoscopic incisions clean, dry, intact",
+                "extremities": "Warm, well-perfused, no cyanosis, clubbing, or edema",
+                "neurological": "Alert and oriented to person, place, and time, cranial nerves II-XII grossly intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

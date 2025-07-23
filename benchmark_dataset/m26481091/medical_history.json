@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute epigastric pain",
+        "history_of_present_illness": "The pain started abruptly at 2:30 AM and is constant, worsening, occasionally radiating to the left chest. The patient reports two prior episodes of similar pain associated with nausea and vomiting.",
+        "past_medical_history": "2 episodes of prior epigastric pain; underwent EGD which showed normal mucosa with irregular Z-line in the GE junction. Prescribed omeprazole for epigastric pain.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

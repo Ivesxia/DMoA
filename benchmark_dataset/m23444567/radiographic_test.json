@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Liver parenchyma appears within normal limits; no focal liver mass; main portal vein patent; no ascites; no intrahepatic biliary dilation; CBD measures 7.2 mm; 5 mm stone in gallbladder neck; several additional stones adjacent to neck; gallbladder wall mildly thickened (up to 4 mm); gallbladder not distended; no pericholecystic fluid; adenomyomatosis suggested.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

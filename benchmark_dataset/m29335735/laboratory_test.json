@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated up to 14 mm with moderate surrounding periappendiceal fat stranding. A single locule of air is seen within the lumen of the appendix. No free air or fluid collection is identified. Free fluid in the pelvis may be physiologic or related to inflammation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

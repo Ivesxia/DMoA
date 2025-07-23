@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis",
+        "differential_diagnosis": "Umbilical hernia",
+        "diagnostic_reasoning": "The patient presented with persistent right-sided abdominal pain, which was confirmed by CT scan showing an enlarged appendix (approximate 8mm) with hyperemia and adjacent inflammation, indicating appendicitis. Pelvic examination was unremarkable, ruling out gynecological causes, and imaging also identified a small umbilical hernia containing fat."
+    }
+}

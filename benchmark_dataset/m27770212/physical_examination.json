@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "blood_pressure": "127/76 mmHg",
+                "heart_rate": "69 bpm",
+                "respiratory_rate": "17 breaths/min",
+                "oxygen_saturation": "96%",
+                "oxygen_delivery": "Room Air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "cardiovascular": "Regular rate and rhythm, no murmur",
+                "respiratory": "Breaths unlabored, no intercostal work of breathing",
+                "abdominal": "Soft, tender mid-abdomen around gastric drain site, no rebound or guarding",
+                "wound": "Incisions clean, dry, intact",
+                "extremities": "Warm, no tenderness, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

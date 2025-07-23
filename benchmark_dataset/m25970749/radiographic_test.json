@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT) Radiograph",
+            "date": "Not specified",
+            "findings": "Consolidation at the right lung base; subsegmental atelectasis in the lingula; no pneumothorax or pleural effusion; normal cardiomediastinal silhouette; prominent aortic knob and tortuous descending aortic contour; normal pulmonary vasculature and hilar contours; bones grossly intact.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

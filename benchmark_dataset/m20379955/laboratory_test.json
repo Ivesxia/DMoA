@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "No MRSA isolation test",
+            "date": "Not specified",
+            "findings": "No MRSA isolated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "Tubular structure in RLQ at the area of patient's pain, suspicious for appendicitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RUQ ultrasound",
+            "date": "Not specified",
+            "findings": "No evidence of cholecystitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Non-stress test (NST)",
+            "date": "Not specified",
+            "findings": "Baseline 125, positive accelerations, moderate variability, no decelerations.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

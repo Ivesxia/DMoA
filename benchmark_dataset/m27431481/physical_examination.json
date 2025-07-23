@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2°F",
+                "heart_rate": "102 bpm",
+                "blood_pressure": "141/91 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented to person, place, and time with discomfort noted.",
+                "HEENT": "Normocephalic/atraumatic, extraocular movements intact.",
+                "cardiovascular": "Regular rate and rhythm without murmurs, rubs, or gallops.",
+                "respiratory": "Clear to auscultation bilaterally, normal work of breathing.",
+                "abdominal": "Soft, tenderness to palpation in the right upper quadrant and epigastrium.",
+                "extremities": "Warm, well-perfused without edema.",
+                "neurological": "Without focal deficits.",
+                "psychiatric": "Normal mood with appropriate affect."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

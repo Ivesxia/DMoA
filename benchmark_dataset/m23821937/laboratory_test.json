@@ -1,0 +1,10 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood glucose",
+            "date": "Not specified",
+            "findings": "3.2 mg/dL (normal range 2.7 - 4.5 mg/dL). Result is within normal range.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

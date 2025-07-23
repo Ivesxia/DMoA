@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix appears dilated, fluid-filled with hyperemic wall measuring up to 9 mm in maximum diameter. There is extensive inflammation and periappendiceal phlegmon formation measuring 4.4 x 3.5 cm. Small locule of gas is noted within this phlegmon. There is extensive bowel wall thickening of the cecum and terminal ileum, likely reactive in nature. Numerous mesenteric lymph nodes are also noted, likely reactive. There is no drainable abscess formation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

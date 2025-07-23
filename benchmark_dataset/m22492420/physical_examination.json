@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.5°F",
+                "heart_rate": "134 bpm",
+                "blood_pressure": "134/72 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "NAD (no apparent distress)",
+                "cardiovascular": "RRR (regular rate and rhythm)",
+                "respiratory": "Clear to auscultation",
+                "abdominal": "Soft, nondistended, tender to palpation in LLQ and RLQ, positive obturator sign, negative psoas sign, no masses or hernias noted",
+                "extremities": "No cyanosis, clubbing, or edema"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "CT Findings": "The appendix is distended up to 1.4 cm thick with adjacent fatty stranding consistent with acute appendicitis. No drainable collection or abscess. The colon, small bowel and stomach are unremarkable."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

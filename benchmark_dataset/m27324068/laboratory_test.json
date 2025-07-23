@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": {
+                "Total Bilirubin": "5.4",
+                "Direct Bilirubin": "3.9",
+                "Alkaline Phosphatase": "89",
+                "AST": "243",
+                "ALT": "312",
+                "ref_ranges": {
+                    "Total Bilirubin": "Not specified",
+                    "Direct Bilirubin": "Not specified",
+                    "Alkaline Phosphatase": "Not specified",
+                    "AST": "Not specified",
+                    "ALT": "Not specified"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": {
+                "Liver": "Normal in contour, no steatosis, no cirrhosis.",
+                "Gallbladder": "Mild gallbladder wall thickening, mild pericholecystic fat stranding.",
+                "CBD": "Mildly prominent proximally (7 mm), tapers normally.",
+                "Pancreas": "Normal bulk, mild prominence of the main pancreatic duct (up to 6 mm)."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

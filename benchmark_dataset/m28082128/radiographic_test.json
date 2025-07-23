@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI (ABDOMEN & PELVIS) W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The lung bases are grossly clear. No pleural or pericardial effusion. The liver is normal in signal intensity and morphology with no focal lesion. No intra or extrahepatic biliary ductal dilatation, gallbladder is normal. The pancreas is normal in signal intensity and morphology without focal lesion. The spleen is normal in size without focal lesion. Bilateral adrenal glands are normal. Bilateral kidneys are normal without focal lesion or hydronephrosis. The stomach is unremarkable. Loops of large and small bowel are normal in caliber. The appendix is identified with an appendicolith near the appendiceal base, dilated and fluid-filled measuring up to 1.4 cm in greatest diameter with surrounding fat stranding. No associated fluid collection or MRI evidence of extraluminal gas to suggest perforation. No lymphadenopathy by imaging criteria. Unremarkable vasculature, and no suspicious osseous lesion or focal abnormality.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

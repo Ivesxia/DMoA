@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.8°F",
+                "heart_rate": "66 bpm",
+                "blood_pressure": "142/81 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing, in no acute distress",
+                "HEENT": "Normocephalic, atraumatic, pupils equal, round and reactive to light, extraocular muscles intact",
+                "oropharynx": "Within normal limits",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular rate and rhythm, normal first and second heart sounds",
+                "abdominal": "Obese, soft, mildly distended, large reducible ventral hernia mildly tender to palpation in the epigastrium",
+                "extremities": "No cyanosis, clubbing, or edema; 2+ radial and DP pulses bilaterally; digits warm and well-perfused",
+                "skin": "No rash, warm and dry",
+                "neurological": "Speech fluent, moving all extremities, gait intact",
+                "psychological": "Normal mood, normal mentation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

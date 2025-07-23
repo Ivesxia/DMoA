@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "Focal wall thickening and pericolonic inflammatory change surrounding the upper sigmoid colon, centered around several diverticulae, most consistent with contained local microperforation; small hypodense focus containing a tiny locule of gas measuring roughly 1 x 1 cm. Marked wall thickening in the adjacent loops of small bowel, with interloop inflammatory fat stranding.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

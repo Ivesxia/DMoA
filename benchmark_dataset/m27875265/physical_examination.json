@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.0°F",
+                "pulse": "71 bpm",
+                "blood_pressure": "169/74 mmHg",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "93% on RA, 98% on 2L NC"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing in NAD.",
+                "HEENT": "Sclera anicteric. Oropharynx clear without lesions.",
+                "neck": "Supple with no thyromegaly or lymphadenopathy.",
+                "chest": "Normal respirations and breathing comfortably on room air. Dullness to percussion at right base. Lungs otherwise clear.",
+                "cardiovascular": "PMI normal size and not displaced. Regular rhythm. Normal S1, S2. No murmurs or gallops. JVP 6 cm. No ankle edema.",
+                "abdomen": "Normal bowel sounds. Mild epigastric tenderness.",
+                "neurological": "Alert, oriented x3. Good fund of knowledge."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

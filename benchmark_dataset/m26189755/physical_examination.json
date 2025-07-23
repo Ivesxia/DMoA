@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "T97.2",
+                "heart_rate": "HR74",
+                "blood_pressure": "BP119/61",
+                "respiratory_rate": "RR16"
+            },
+            "relevant_findings": {
+                "general": "uncomfortable appearing woman laying in fetal position, NAD",
+                "HEENT": "MM dry, no scleral icterus",
+                "CV": "RRR",
+                "lungs": "CTAB",
+                "abdomen": "soft, ND, tender RLQ without rebound or guarding",
+                "rectal": "stool in vault, guaiac neg",
+                "extremities": "no c/c/e"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

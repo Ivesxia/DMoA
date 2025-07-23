@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "heart_rate": "59 bpm",
+                "blood_pressure": "155/80 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Acutely ill female lying in bed in no acute distress.",
+                "abdominal": "Soft, nondistended, nontender in all quadrants, positive bowel sounds, no rebound or guarding, no hepatosplenomegaly.",
+                "skin": "Warm and well perfused, no excoriations or lesions, no rashes.",
+                "extremities": "No cyanosis, clubbing, or edema, moving all 4 extremities with purpose."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

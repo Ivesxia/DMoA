@@ -1,0 +1,45 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5 F",
+                "blood_pressure": "91/54 mmHg",
+                "heart_rate": "72 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "Thin but not malnourished appearing, alert, oriented, no acute distress",
+                "HEENT": "Sclera anicteric, MM dry, oropharynx clear",
+                "Neck": "Supple, JVP not elevated, no LAD",
+                "Lungs": "Clear to auscultation bilaterally, no wheezes, rales, ronchi",
+                "Cardiovascular": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+                "Abdomen": "Soft, TTP throughout, worse in epigastrium, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly",
+                "Extremities": "Warm, well perfused, no clubbing, cyanosis or edema",
+                "Skin": "No lesions or ecchymoses",
+                "Neurological": "AAOx3, CNs intact, strength and sensation grossly intact",
+                "Psychiatric": "Pleasant, appropriate"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7 F",
+                "blood_pressure": "100/65 mmHg",
+                "heart_rate": "86 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": "Ongoing abdominal pain reported.",
+            "changes_over_time": "Reported progression of abdominal pain from initial visit."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Obvious signs of systemic inflammatory response such as ongoing abdominal pain and symptoms of acute pancreatitis.",
+            "changes_over_time": "Increased pain severity reported over course of hospitalization."
+        }
+    ]
+}

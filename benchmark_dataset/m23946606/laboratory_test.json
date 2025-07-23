@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC 13.9 (90.9%N), Hgb 15, Plt 248",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Chemistry",
+            "date": "Not specified",
+            "findings": "Na 132, Cr 1.9, K 4.8, ALT 75, AST 47, AP 89, Lipase 796, Tbili 0.6, lactate 3.8",
+            "changes_over_time": "Lactate decreased from 3.8 to 1.8"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "4 WBCs, no bacteria, 18 RBCs",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Hepatic steatosis, mild infiltration about the pancreatic head, inflammatory changes affecting the bulb through the third portion, spleen mildly enlarged (16 cm), 5 mm cyst in right kidney",
+            "changes_over_time": "These findings appear new since the very recent prior study"
+        }
+    ]
+}

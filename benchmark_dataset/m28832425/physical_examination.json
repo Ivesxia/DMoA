@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "101 bpm",
+                "blood_pressure": "122/70 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, nontoxic, comfortable",
+                "HEENT": "NC/AT, PERRLA, EOMI, sclerae anicteric, dry mucous membranes, OP clear",
+                "neck": "supple, no LAD",
+                "heart": "RRR, nl S1-S2, no m/r/g",
+                "lungs": "CTAB, no r/rh/wh, good air movement, resp unlabored, no accessory muscle use",
+                "abdomen": "hyperactive BS, soft, + distended, tympanic to percussion, TTP in the RUQ, no masses palpable, no rebound/guarding",
+                "GU/flank": "No costovertebral angle tenderness",
+                "extremities": "decreased cap refill, no c/c/e, 2+ peripheral pulses (radials, DPs)",
+                "skin": "no rashes or lesions",
+                "neuro": "awake, A&Ox3, CNs II-XII grossly intact, muscle strength ___ throughout, sensation grossly intact throughout"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

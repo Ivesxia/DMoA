@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9",
+                "blood_pressure": "151/93",
+                "heart_rate": "119",
+                "respiratory_rate": "22",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "in acute distress from pain",
+                "heent": "sclera anicteric, EOMI",
+                "neck": "supple, no adenopathy",
+                "cardiovascular": "tachycardic, regular rhythm, normal S1 and S2, no m/r/g appreciated",
+                "lungs": "equal fremitus, equal percussion throughout lung fields, clear to auscultation bilaterally without adventitious sounds",
+                "abdomen": "hypoactive BS, nondistended, multiple surgical scars noted without evidence of erythema or induration, + tenderness to percussion and palpation with intermittent rebound tenderness and guarding diffusely throughout abdomen",
+                "gu": "no foley",
+                "extremities": "warm and well perfused, 2+ DP pulses, no edema",
+                "neurologic": "grossly intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

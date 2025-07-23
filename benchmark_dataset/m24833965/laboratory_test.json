@@ -1,0 +1,31 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "pulmonary_nodule": "3-mm pulmonary nodule in the left lung base",
+                "lung_bases": "clear without pleural effusions",
+                "heart": "normal in size without pericardial effusion",
+                "liver": "homogeneous enhancement without suspicious focal lesions",
+                "gallbladder": "mildly distended, no gallbladder wall edema or pericholecystic fluid collection",
+                "spleen": "unremarkable",
+                "pancreas": "enhances homogeneously without ductal dilatation or peripancreatic fluid collection",
+                "adrenal_glands": "normal",
+                "kidneys": "enhance and excrete contrast symmetrically without hydronephrosis or renal masses",
+                "appendix": "fluid filled and dilated to 15 mm, hyperemic wall",
+                "fluid_in_abdomen": "trace amount seen, no evidence of perforation or abscess formation",
+                "bowel_loops": "normal in caliber, no bowel wall thickening or obstruction",
+                "intra_abdominal_aorta": "normal in caliber and appears patent",
+                "pelvis": "bladder, distal ureters, rectum and uterus unremarkable, post-surgical changes related to recent C-section noted"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient reports that his pain began last night and has been waxing and waning in intensity since that time. He has had 9 hours of abdominal pain. He has taken tylenol with minimal relief. Accompanied by nausea, no vomiting or diarrhea reported, but has had 3 soft bowel movements since his pain began.",
+        "past_medical_history": "Appendectomy, Right inguinal hernia repair",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

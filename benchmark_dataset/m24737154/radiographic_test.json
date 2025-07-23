@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized lung bases are clear with no focal consolidation, pleural effusion or pneumothorax. The appendix is distended measuring 10 mm and is fluid filled with hyperemic mucosal wall. There is surrounding fat stranding and minimal periappendiceal free fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

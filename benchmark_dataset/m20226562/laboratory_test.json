@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound of the liver or gallbladder",
+            "date": "Not specified",
+            "findings": "The liver is normal in echogenicity, without focal lesions. There is normal hepatopetal flow in the portal vein. The common duct measures 5 mm. The gallbladder is markedly distended, with a small amount of layering sludge and adherent stones at the fundus. There is circumferential gallbladder wall edema, measuring up to 6 mm. A trace amount of pericholecystic fluid is noted at the fundus. The pancreatic head and body are normal, and the tail is not well visualized due to shadowing bowel gas. The pancreatic duct is nondilated at 3 mm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bilirubin test",
+            "date": "Not specified",
+            "findings": "NEG mg/dL",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Fecal test for C. difficile toxin",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "6 months ago",
+            "findings": "Showed diverticulosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

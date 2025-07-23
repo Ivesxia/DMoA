@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "RLQ pain",
+        "history_of_present_illness": "Patient reports RLQ pain that has been occurring since an unspecified time, with symptoms that wax and wane. The pain is aggravated by food but not by movement. Patient also experiences chills, feels gassy, and has been having bowel movements.",
+        "past_medical_history": "Hypothyroidism, anemia, history of umbilical hernia repair, and supracervical hysterectomy due to heavy irregular uterine bleeding.",
+        "family_history": "Positive for diabetes and asthma.",
+        "social_history": "Not specified."
+    }
+}

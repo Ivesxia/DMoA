@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated to 11 mm with a thickened hyperemic wall and surrounding stranding, consistent with acute appendicitis. A 10 mm appendicolith seen at the base of the appendix. No abscess or extraluminal air is seen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation Time",
+            "date": "Not specified",
+            "findings": "28.6 sec, within normal range (ref range: 25.0 - 36.5 sec).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

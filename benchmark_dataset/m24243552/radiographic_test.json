@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified.",
+            "findings": "The liver demonstrates no focal or textural abnormality. Shadowing stones are seen within the gallbladder without gallbladder dilatation, wall edema, or pericholecystic fluid. The common duct is not dilated, measuring 3 mm. The spleen is normal measuring 7.8 cm.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

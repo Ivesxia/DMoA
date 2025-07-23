@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "The lungs are clear without pleural effusions, pneumothorax or focal airspace consolidations. The cardiomediastinal silhouette, hilar contours and pulmonary vasculature are normal. The osseous structures are grossly unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

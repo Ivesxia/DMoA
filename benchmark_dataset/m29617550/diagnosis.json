@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Pancreatitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with pain and is a known case of chronic aspiration pneumonia post-PEG, which may be related to pancreatitis. Laboratory findings showed elevated WBC with left shift, indicating inflammation or infection, which along with the ultrasound findings supports the diagnosis of pancreatitis."
+    }
+}

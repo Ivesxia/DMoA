@@ -1,0 +1,26 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "No confluent airspace consolidation. No pleural effusions. Minor atelectasis in the right lung base.",
+                "abdomen": {
+                    "hepatobiliary": "The liver demonstrates homogenous attenuation throughout. No focal lesions or biliary dilatation. Gallbladder is normal.",
+                    "pancreas": "Normal attenuation, no focal lesions or ductal dilatation.",
+                    "spleen": "Normal size and attenuation, no focal lesions.",
+                    "adrenals": "Normal in size and shape.",
+                    "urinary": "Normal symmetric kidneys, small simple right renal cyst.",
+                    "gastrointestinal": "Markedly dilated small bowel loops with air-fluid levels and two new transition points. Marked thickening of the distal ileal wall.",
+                    "pelvis": "At least 2 rim enhancing collections in the pelvis, larger in left hemipelvis measuring 87 x 41 mm, smaller in right hemipelvis measuring 27 x 21 mm.",
+                    "reproductive_organs": "Unremarkable.",
+                    "lymph_nodes": "Reactive mesenteric and retroperitoneal lymph nodes.",
+                    "vascular": "No abdominal aortic aneurysm, mild atherosclerotic disease.",
+                    "bones": "No evidence of worrisome osseous lesions or acute fracture.",
+                    "soft_tissues": "Abdominal and pelvic wall is within normal limits."
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

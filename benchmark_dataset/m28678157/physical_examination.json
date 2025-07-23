@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8 °F",
+                "blood_pressure": "125/83 mmHg",
+                "heart_rate": "60 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "Nontoxic, comfortable at rest, eating",
+                "HEENT": "EOMI, PERRL",
+                "neck": "Supple",
+                "cardiac": "RRR, no gallops/rubs/murmurs",
+                "pulmonary": "Clear to auscultation bilaterally",
+                "abdomen": "Bowel sounds present, nondistended, no guarding, no rigidity, tender to palpation periumbically, tender to palpation of left mid-low abdomen",
+                "extremities": "2+ peripheral and radial pulses, warm, dry, no edema",
+                "neurologic": "Grossly moving all extremities",
+                "psychiatric": "Pleasant mood and affect",
+                "skin": "No concerning skin lesions"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

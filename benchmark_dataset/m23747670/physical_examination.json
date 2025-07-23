@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "68 bpm",
+                "blood_pressure": "191/78 mmHg",
+                "respiratory_rate": "25 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x 3, speaking.",
+                "cardiovascular": "Regular rate and rhythm",
+                "chest": "Decreased breath sounds bilaterally, otherwise clear to auscultation.",
+                "abdomen": "Positive bowel sounds, non-distended, right upper quadrant tenderness, guarding, positive Murphy's sign, no costovertebral angle tenderness.",
+                "extremities": "2+ peripheral edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

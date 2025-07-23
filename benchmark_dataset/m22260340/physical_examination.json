@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "106/66 mmHg",
+                "respiratory_rate": "15 rpm",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "CV": "RRR, No M/G/R",
+                "Pulmonary": "Clear to auscultation bilaterally, No W/R/R",
+                "Abdomen": "Soft, nondistended, TTP in RUQ with firm palpable mass at liver edge, no rebound or guarding, normoactive bowel sounds",
+                "Extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

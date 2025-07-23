@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CTA CHEST",
+            "date": "Not specified",
+            "findings": "Pulmonary vasculature is well opacified without filling defect; heart, pericardium, and great vessels are normal; no lymphadenopathy, pleural effusion, or pneumothorax; bibasilar atelectasis; multiple pulmonary nodules <0.3 cm; unchanged biliary drainage catheter; mild-to-moderate biliary dilatation.",
+            "changes_over_time": "Unchanged percutaneous transhepatic biliary drainage catheter and unchanged mild-to-moderate intra and extrahepatic biliary dilatation."
+        }
+    ]
+}

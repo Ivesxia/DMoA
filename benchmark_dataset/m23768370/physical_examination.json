@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "115/70 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": "General: NAD, AAOx3; HEENT: anicteric; Cardiovascular: RRR; Pulmonary: unlabored; Abdominal: soft, RLQ TTP, nondistended; Extremities: no edema.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

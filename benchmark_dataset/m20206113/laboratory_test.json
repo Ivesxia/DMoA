@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CTU (ABD/PEL) W/&W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is diffusely enlarged, measuring 11 mm, fluid filled with enhancement of the wall, and adjacent fat stranding. No periappendiceal abscess or evidence of perforation is noted. There is dense intraluminal material within the cecum and terminal ileum. There is a small amount of mildly complex free fluid in the pelvis. Prominent perirectal lymph node measuring 19 x 16 mm. No intra- or extra-hepatic biliary duct dilatation, normal liver, gallbladder, and spleen. Kidneys enhance symmetrically with no hydronephrosis or hydroureter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Examination for Value",
+            "date": "Not specified",
+            "findings": "1.5 (ref range: 0.9 - 1.1), which is outside the normal range.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver demonstrates normal echotexture without focal lesions. The main portal vein is patent with hepatopetal flow. There is no intra- or extra-hepatic biliary ductal dilatation. Visualized portions of the pancreas are unremarkable. Visualized portions of the inferior vena cava are unremarkable. No right hydronephrosis is demonstrated. There is a 17 mm non-mobile calculus in the region of the gallbladder neck. The gallbladder is minimally distended with mild wall thickening. There is a positive sonographic ___ sign. The gallbladder also contains a small amount of layering echogenic material. No pericholecystic fluid is seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

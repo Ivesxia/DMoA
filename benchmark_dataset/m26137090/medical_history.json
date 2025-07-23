@@ -1,0 +1,18 @@
+{
+    "medical_history": {
+        "chief_complaint": "Severe abdominal pain after injury operating a mechanical tractor.",
+        "history_of_present_illness": "Pain started after the vehicle stopped unexpectedly, causing the abdomen to impact hard against the armrest. The pain increased in severity over the day and was constant, only partially alleviated by lying on his back. The patient reported nausea, vomiting (without hematemesis), and diaphoresis. Last bowel movement was yesterday at 6pm.",
+        "past_medical_history": "Lumbar disc injury, treated with daily methadone.",
+        "family_history": {
+            "father": {
+                "conditions": [
+                    "diabetes (controlled by diet)",
+                    "prostate cancer (treated surgically)"
+                ]
+            },
+            "mother": "Alive and healthy",
+            "sister": "Gall bladder removal"
+        },
+        "social_history": "Not specified."
+    }
+}

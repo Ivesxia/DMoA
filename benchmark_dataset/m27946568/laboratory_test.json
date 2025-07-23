@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory examination for polymorphonuclear leukocytes and microorganisms",
+            "date": "Not specified",
+            "findings": "0.4 mg/dL; NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CTA Chest",
+            "date": "Not specified",
+            "findings": "Moderate pleural effusion on the right, small on the left. Bibasilar, right greater than left, atelectasis. Trace pericardial effusion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

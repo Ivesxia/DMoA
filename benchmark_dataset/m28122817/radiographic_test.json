@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Decrease in size of the bilateral pleural effusions with some residual compressive atelectasis noted in the lower lobes. Normal hepatic parenchymal signal intensity without focal liver lesion. Patchy region of arterial hyperenhancement at the dome of the liver. Gallstones and layering sludge within the gallbladder. Patchy heterogeneous signal intensity within the head of the pancreas consistent with inflamed tissue and possibly necrotic tissue, measuring approximately 2.5 cm, associated with a smaller sheet-like complex collection. Smooth and regular narrowing of the pancreatic duct and common bile duct with no upstream dilation. Decreased peripancreatic edema and inflammatory stranding when compared to prior imaging. No pancreatic pseudocyst. Unremarkable adrenal glands and kidneys.",
+            "changes_over_time": "Less edematous pancreatic parenchyma compared to prior MRCP and substantially decreased amount of peripancreatic edema and inflammatory stranding when compared to prior imaging. New gastro-epiploic collaterals noted, as compared to prior imaging."
+        }
+    ]
+}

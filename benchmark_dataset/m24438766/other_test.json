@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "4+ - POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Drainage of Abdominal Abscesses",
+            "date": "Not specified",
+            "findings": "Interval placement of a right anterolateral approach percutaneous pigtail drain, which terminates in the right lower quadrant, at the site of previously seen fluid, which is reduced in volume.",
+            "changes_over_time": "There has been interval evolution of a multi-lobulated, rim-enhancing fluid collection spanning the right hemipelvis, with improved small volume abdominopelvic ascites."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC of 16.4; leukocytosis noted",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Multiple gallstones and gallbladder sludge identified; irregular gallbladder wall contour with pericholecystic fluid; gallbladder wall thickened up to 6 mm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

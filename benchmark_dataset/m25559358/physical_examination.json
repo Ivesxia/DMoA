@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": 64,
+                "blood_pressure": "109/67",
+                "respiratory_rate": 20,
+                "temperature": "98 RA"
+            },
+            "relevant_findings": {
+                "general": "thin female, in moderate distress, no icterus, left lateral decubitus position",
+                "heent": "NC/AT, EOMI, PERRLA bilat., dry MM, without cervical LAD",
+                "cardiovascular": "RRR without m/g/r, no JVD, no bruits",
+                "lungs": "CTA bilat.",
+                "abdomen": "no BS, firm/rigid, ND, tender at bilateral lower quadrants and lower mid-abdomen, no masses",
+                "extremities": "warm feet, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

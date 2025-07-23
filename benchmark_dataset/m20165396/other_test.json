@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RHC/swan for tailored therapy",
+            "date": "Not specified",
+            "findings": "Confirmed features of low cardiac output.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Tracheostomy placement",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Recheck of hemoglobin levels",
+            "date": "Not specified",
+            "findings": "Hgb was 6.2/18.6 (rechecked 6.___/18.3).",
+            "changes_over_time": "Initial drop in hemoglobin with resolution and stabilization after blood transfusion."
+        }
+    ]
+}

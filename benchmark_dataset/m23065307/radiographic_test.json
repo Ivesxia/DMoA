@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Small bilateral pleural effusions are new. A small pericardial effusion has minimally increased since the prior study. Multiple hypoenhancing liver metastases are slightly larger than the recent prior study. The largest mass in segment VII of the liver now measures 42 x 29 mm (previously 35 x 23 mm), and a mass in segment V of the liver now measures 47 x 46 mm (previously 44 x 39 mm). The pancreas appears mildly enlarged with mild peripancreatic fat stranding. Both kidneys enhance and excrete contrast symmetrically without hydronephrosis. An ill-defined lytic lesion in the right iliac bone is unchanged.",
+            "changes_over_time": "Multiple liver metastases appear slightly larger compared to the recent prior study."
+        }
+    ]
+}

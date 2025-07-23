@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Minimal dependent bibasilar atelectasis; no pleural or pericardial effusion; unremarkable liver, gallbladder, pancreas, spleen, and bilateral adrenal glands; tiny hypodensity within the spleen (2:17) too small to characterize; kidneys with symmetric enhancement and prompt contrast excretion; multiple tiny hypodensities bilaterally in the kidneys; a 13mm intermediate density lesion in the mid pole of the right kidney; appendix minimally dilated up to 7-8 mm with fluid in the tip and small amount of surrounding stranding; small amount of atherosclerotic calcification in aorta; no mesenteric or retroperitoneal lymphadenopathy; rectum, sigmoid colon, bladder, and prostate are unremarkable; no free fluid and no pelvic or inguinal lymphadenopathy; no suspicious sclerotic or lytic lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

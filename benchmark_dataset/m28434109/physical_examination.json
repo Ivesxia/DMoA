@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "heart_rate": "90 bpm",
+                "blood_pressure": "150/80 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on Room Air"
+            },
+            "relevant_findings": {
+                "general": "NAD/AOx3",
+                "pulmonary": "no distress",
+                "abdominal": "S/ND/TTP mid abdomen and lower abdomen R>>L. +Psoas sign, +Rovsing sign. No rebound, no guarding."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

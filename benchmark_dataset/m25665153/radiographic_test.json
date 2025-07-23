@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized lung bases are clear. The liver enhances normally and there are no focal liver lesions. There is no intrahepatic biliary duct dilatation. The gallbladder is normal. The spleen is normal. The pancreas is normal. The adrenal glands are normal. The kidneys enhance symmetrically and excrete contrast symmetrically. No bowel obstruction is seen. There are scattered diverticula in the transverse and descending colon. There is no evidence of diverticulitis. The appendix is enlarged with hyperemic walls and surrounding fat stranding consistent with acute appendicitis. There is no extraluminal air or abscess. The appendix measures up to 1 cm in diameter. There is a 3-cm cystic structure in the right adnexa that is unchanged in appearance and size compared to CT abdomen and pelvis on an unspecified date. The left adnexa is unremarkable. There is an IUD in appropriate position within the uterus. There is no pelvic or inguinal lymphadenopathy. There is no evidence of free fluid. The intra-abdominal and intrapelvic vasculature is patent. The bones are unremarkable.",
+            "changes_over_time": "A 3-cm cystic structure in the right adnexa is unchanged in appearance and size compared to a previous CT abdomen and pelvis."
+        }
+    ]
+}

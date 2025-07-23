@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "8.7 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Physical Examination",
+            "date": "Not specified",
+            "findings": "Tenderness right lower quadrant with a positive Rovsing sign. No cyanosis, clubbing or edema.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "The heart is normal in size. The lung fields are clear without any pleural effusions or pneumothorax.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

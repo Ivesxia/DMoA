@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "blood_pressure": "132/85 mmHg",
+                "heart_rate": "84 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "general": "NAD, AAOx3",
+                "cardiovascular": "RRR, no murmur",
+                "respiratory": "breaths unlabored, CTAB, no wheezing, no rales",
+                "abdomen": "soft, distended, appropriately tender, no rebound/guarding",
+                "wound": "incisions covered with steri-strips, umbilical dressing slightly saturated with sero/sang fluid",
+                "extremities": "warm, no tenderness, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

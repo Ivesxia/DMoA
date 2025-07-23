@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "94 bpm",
+                "blood_pressure": "135/73 mmHg",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "96% RA"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD",
+                "HEENT": "mucous membranes moist",
+                "cardiovascular": "RRR (sinus)",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes/rales",
+                "abdominal": "Soft, nondistended, extremely tender to palpation lower abdomen, worst in RLQ with voluntary guarding, no rebound, no palpable masses/hernias, well-healed port site scars, well-healed lower abdominal transverse and vertical midline scars",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

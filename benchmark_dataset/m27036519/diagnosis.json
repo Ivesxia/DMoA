@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "Patient presented with characteristic symptoms of acute appendicitis: constant crampy abdominal pain that began in the periumbilical area and localized to the right lower quadrant, accompanied by nausea and vomiting. CT imaging showed a fluid dilated, hyperemic structure in the right lower quadrant consistent with appendicitis, with no evidence of abscess formation or other complicating factors."
+    }
+}

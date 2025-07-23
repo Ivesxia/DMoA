@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ABDOMEN US (COMPLETE STUDY)",
+            "date": "Not specified.",
+            "findings": "The gallbladder is distended and a sludge level is noted. There is interval development of gallbladder wall thickening. A stone is impacted within the neck of the gallbladder. Findings are concerning for acute cholecystitis. The liver appears normal aside from note made of pneumobilia. A CBD stent is in place. There is no ascites. The pancreas is suboptimally assessed. The main portal vein is patent with hepatopetal flow. Small lymph nodes are noted in the porta hepatis region. There is a small cyst in the liver adjacent to the gallbladder fossa.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Laboratory test for white blood cell count (WBC)",
+            "date": "Not specified.",
+            "findings": "WBC increased to 20K after administration of neupogen.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Gallbladder aspirate examination",
+            "date": "Not specified.",
+            "findings": "2+ (1-5 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Gallbladder aspirate analysis",
+            "date": "Not specified.",
+            "findings": "9.1 ug/mL.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

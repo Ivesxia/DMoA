@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "heart_rate": "61 bpm",
+                "blood_pressure": "166/103 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "pleasant, well-appearing, no distress",
+                "HEENT": "anicteric sclerae",
+                "cardiovascular": "RRR, normal S1, S2, II/VI systolic murmur best heard at the apex, no radiation",
+                "pulmonary": "lungs clear to auscultation bilaterally",
+                "abdomen": "soft, mild tenderness in epigastrium, no rebound or guarding",
+                "extremities": "2+ radial pulses, no clubbing or edema",
+                "skin": "no telangiectasias or palmar erythema",
+                "neurological": "CNs intact, no gross motor deficits",
+                "psychological": "appropriate"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "52 bpm",
+                "blood_pressure": "154/82 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Vital signs show a decrease in heart rate from 61 bpm to 52 bpm."
+        }
+    ]
+}

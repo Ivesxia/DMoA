@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBCs elevated to 13.3 (normal range not specified).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood glucose",
+            "date": "Not specified",
+            "findings": "Blood sugar on arrival to ED was 555.",
+            "changes_over_time": "Improvement in sugars/electrolytes reported after treatment."
+        },
+        {
+            "procedure_name": "PT/INR",
+            "date": "Not specified",
+            "findings": "PT of 34.3 sec (normal range 25.0 - 36.5 sec).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

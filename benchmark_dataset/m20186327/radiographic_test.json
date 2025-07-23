@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "A left chest wall single lead pacemaker is present. The lungs are hyperexpanded with emphysematous changes seen most prominent in the upper lobes. Retrocardiac opacities are new since prior and could reflect atelectasis or pneumonia. There is no pneumothorax. Biapical pleuroparenchymal thickening is again seen. Small bilateral pleural effusions are suspected. The size of the cardiac silhouette is unchanged. There is no evidence of free air below the diaphragm.",
+            "changes_over_time": "Retrocardiac opacities are new since prior."
+        }
+    ]
+}

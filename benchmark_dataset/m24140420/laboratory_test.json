@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION. Result value: 25.1 sec.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of Liver or Gallbladder",
+            "date": "Not specified",
+            "findings": "Cholelithiasis, with equivocal sonographic evidence of gallbladder issues. The gallbladder is distended, and the CBD is enlarged.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

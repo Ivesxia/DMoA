@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT-guided percutaneous left lower quadrant abscess drainage",
+            "date": "Not specified",
+            "findings": "5.2 x 4.5 cm left lower quadrant abscess containing gas and fluid adjacent to the sigmoid colon. The sigmoid colon wall is thickened. Inflammatory changes involve the surrounding fat.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gram stain and culture",
+            "date": "Not specified",
+            "findings": "BACTEROIDES FRAGILIS GROUP detected; reference range is 10.4 - 13.4.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

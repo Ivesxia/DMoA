@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Chest pain",
+        "history_of_present_illness": "Gradual onset of substernal chest pain, initially with cutting/tearing sensation and concern for pain radiating to the back, but later evaluated as more mild. Associated symptoms included nausea, vomiting, and epigastric pain. Upon further evaluation, chest pain and back pain resolved, but abdominal pain in RUQ and RLQ developed.",
+        "past_medical_history": "Diastolic Congestive Heart Failure (LVEF>55%), Atrial Fibrillation (s/p cardioversion, back in AFib), Chronic Kidney Disease (baseline Cr 2.0-2.6, eGFR<30), Type II Diabetes Mellitus (on oral medications only), Peripheral Artery Disease, Right Renal Artery Stenosis (90% on angiography), Hypertension, Hyperthyroidism, External Hemorrhoids, Gallbladder Stent, History of falls and syncope.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

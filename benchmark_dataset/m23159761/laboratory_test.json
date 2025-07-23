@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bilirubin Level",
+            "date": "Not specified",
+            "findings": "8.2 mg/dL, which is within the normal range (8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Moderate cardiomegaly with areas of atelectasis at both lung bases. Minimal fluid overload is present. No pneumonia, no pneumothorax.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

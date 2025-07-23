@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Heart size is normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "No asterixis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "US abdomen",
+            "date": "Not specified",
+            "findings": "No definite findings to explain patient's symptoms. The liver is cirrhotic, as before. Known hepatic masses are poorly visualized. Splenomegaly.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT chest",
+            "date": "Not specified",
+            "findings": "Aorta and pulmonary arteries are unchanged in appearance including mild dilatation of ascending aorta. Small amount of right pleural effusion most likely is a sequela of substantial ascites, although new since the previous examination.",
+            "changes_over_time": "Small amount of right pleural effusion is new since the previous examination."
+        }
+    ]
+}

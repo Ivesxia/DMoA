@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "RUQ pain",
+        "history_of_present_illness": "Patient's pain began last week but was attributed to constipation. Since then patient has had worsening pain with movement, ongoing for 1 week.",
+        "past_medical_history": "Significant for hypertension, diabetes mellitus type 2, prostate cancer, and GERD.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

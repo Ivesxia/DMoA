@@ -1,0 +1,60 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7",
+                "heart_rate": "83",
+                "blood_pressure": "130/77",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": "Exam was unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "ADMISSION",
+            "vital_signs": {
+                "temperature": "98.3",
+                "heart_rate": "80",
+                "blood_pressure": "141/81",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "Pleasant, well-appearing, in no apparent distress.",
+                "HEENT": "Normocephalic, atraumatic, no conjunctival pallor or scleral icterus, PERRLA, EOMI, OP clear.",
+                "neck": "Supple, no LAD, no thyromegaly, JVP flat.",
+                "cardiac": "RRR, normal S1/S2, no murmurs rubs or gallops.",
+                "pulmonary": "Clear to auscultation bilaterally, without wheezes or rhonchi.",
+                "abdomen": "Normal bowel sounds, soft, non-tender, non-distended, no organomegaly.",
+                "extremities": "Warm, well-perfused, no cyanosis, clubbing or edema.",
+                "skin": "Without rash.",
+                "neurologic": "A&Ox3, CN II-XII grossly normal, normal sensation, with strength normal throughout."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "TRANSFER",
+            "vital_signs": {
+                "temperature": "98.0",
+                "heart_rate": "Not specified",
+                "blood_pressure": "115/78",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": {
+                "general": "Well appearing, NAD.",
+                "HEENT": "Anicteric sclera, EOMI, MOM, OP clear.",
+                "neck": "Supple, non-tender, no LAD, no JVD.",
+                "cardiac": "RRR, normal S1/S2, no M/R/G.",
+                "pulmonary": "NLB on RA, CTAB.",
+                "abdomen": "Soft, non-tender, non-distended, negative Murphy sign, no RUQ tenderness, no HSM, normal bowel sounds.",
+                "extremities": "WWP, no cyanosis or pitting edema.",
+                "skin": "Without rash.",
+                "neurologic": "A&O, SILT, MAE."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

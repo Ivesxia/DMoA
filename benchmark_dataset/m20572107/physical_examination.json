@@ -1,0 +1,49 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7",
+                "heart_rate": "67",
+                "blood_pressure": "139/70",
+                "respiratory_rate": "19",
+                "oxygen_saturation": "95% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, mild distress",
+                "heent": "Sclera anicteric, MMM",
+                "lungs": "Clear to auscultation bilaterally, no wheezes, rales, rhonchi",
+                "cardiovascular": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+                "abdomen": "Soft, mildly diffusely TTP, mildly distended, bowel sounds present, no guarding or rebound tenderness, neg ___ sign",
+                "extremities": "Warm, well perfused, no cyanosis or edema",
+                "skin": "Without rashes or lesions",
+                "neurological": "A&Ox3. Grossly intact"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "ED",
+            "vital_signs": {
+                "temperature": "98.6",
+                "heart_rate": "78",
+                "blood_pressure": "146/57",
+                "respiratory_rate": "20",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": "Exam notable for mild diffuse tenderness; equivocal guaiac light brown stool, mentating well",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Prior to transfer",
+            "vital_signs": {
+                "temperature": "98.6",
+                "heart_rate": "70",
+                "blood_pressure": "140/55",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

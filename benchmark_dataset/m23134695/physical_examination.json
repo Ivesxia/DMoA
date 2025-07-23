@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.7 °F",
+                "heart_rate": "84 bpm",
+                "blood_pressure": "147/88 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "alert, oriented to self, place and time. Not in any distress.",
+                "HEENT": "moist mucous membranes, no cervical lymphadenopathy",
+                "chest": "no crackles, bilateral breath sounds present",
+                "heart": "normal rate and rhythm",
+                "abdomen": "soft, nondistended. Very mild tenderness around the incision sites and in the RUQ to deep palpation. No rebound.",
+                "incisions": "clean, dry, intact with steristrips in place",
+                "extremities": "without edema, palpable pedal pulses",
+                "activity": "ad lib, unassisted"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

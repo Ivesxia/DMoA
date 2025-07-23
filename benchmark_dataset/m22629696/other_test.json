@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar Puncture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "Dilated and fluid-filled retrocecal appendix, measuring up to 11 mm in diameter, with trace surrounding inflammatory stranding. No significant wall thickening or abnormal enhancement, and no visualized appendicolith.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

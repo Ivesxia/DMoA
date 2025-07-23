@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laparoscopic appendectomy",
+            "date": "Not specified",
+            "findings": "Marked dilatation of a fluid-filled appendix, measuring up to 11 mm in diameter; a 4-mm appendicolith seen within the mid appendix; periappendiceal fat stranding without fluid collection or evidence of perforation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Minimal left basilar atelectasis, tiny hypodensity within hepatic segment VII likely a simple cyst; unremarkable liver, gallbladder, spleen, pancreas, adrenal glands, and left kidney; small hypodensity in right upper pole renal area uncharacterized; stomach, small bowel, and colon grossly unremarkable; small quantity of free fluid in pelvis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "35.8 sec.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

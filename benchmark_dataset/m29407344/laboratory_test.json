@@ -1,0 +1,21 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "1.8 mg/dL (within normal range: 1.6 - 2.6 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Hepatic contour slightly nodular, no focal liver mass, patent main portal vein with hepatopetal flow, and trace perihepatic free fluid.",
+                "bile_ducts": "No intrahepatic biliary dilation, CBD measures 8 mm.",
+                "gallbladder": "Mobile gallstone in gallbladder body, gallbladder is nondistended, minimal gallbladder wall thickening (5 mm), and small pericholecystic fluid.",
+                "pancreas": "Appears within normal limits, without masses or ductal dilation."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

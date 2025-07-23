@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT CHEST W/CONTRAST",
+            "date": "Not specified",
+            "findings": "No supraclavicular, axillary, mediastinal, or hilar lymphadenopathy identified. Heart size is normal without pericardial effusion. Minimal biapical scarring with mild associated bronchiectasis. Remainder of lungs clear. No pleural effusion or pneumothorax. Moderate intrahepatic biliary ductal dilatation with significant extrahepatic biliary dilatation. Common bile duct measuring up to 1.5 cm without filling defect. Gallbladder moderately filled without wall edema or pericholecystic fluid. Slightly hyperdense material within gallbladder, possibly non-radiopaque stones or sludge. Pancreas slightly edematous with minimal inflammatory change. Multiple hypodensities in spleen, possibly simple cysts. Trace free fluid in pelvis. Minimal atherosclerotic changes in abdominal aorta. L2 and T12 vertebrae demonstrate thickened trabeculae consistent with hemangiomas. No concerning lytic or blastic lesions evident.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

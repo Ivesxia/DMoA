@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "98.3 °F",
+                "blood_pressure": "150/60 mmHg",
+                "heart_rate": "79 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% on RA"
+            },
+            "relevant_findings": {
+                "general": "Pleasant elder female sitting at edge of bed, engaged, comfortable, NAD",
+                "HEENT": "NCAT, EOMI, PERRLA, anicteric sclera, clear OP, MMM",
+                "cardiovascular": "RRR, no r/g/m",
+                "chest": "CTAB, no w/r/r",
+                "gastrointestinal": "Epigastric and RUQ pain with moderate palpation. Abd soft, obese, +BS",
+                "musculoskeletal": "No kyphosis. No synovitis.",
+                "skin": "No rash. No jaundice.",
+                "neurological": "AAOx3. R nasolabial flattening at rest and with activation (patient says this is chronic for her). CN otherwise intact. ___ strength all extremities.",
+                "psychological": "Full range of affect"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Transfer",
+            "vital_signs": {
+                "temperature": "98.0 °F",
+                "blood_pressure": "123/82 mmHg",
+                "heart_rate": "54 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "95% RA"
+            },
+            "relevant_findings": "Patient is comfortable, engaged. Endorses mild upper abdominal pain. Denies HA, vision change, cough, congestion, chest pain, shortness of breath, palpitations, nausea, vomiting, diarrhea, constipation, urinary frequency or pain with urination, pains of the muscle or joints, new rashes or lesions, joint swelling, change in weight, appetite or mood.",
+            "changes_over_time": "Heart rate decreased from 79 bpm on admission to 54 bpm on transfer."
+        }
+    ]
+}

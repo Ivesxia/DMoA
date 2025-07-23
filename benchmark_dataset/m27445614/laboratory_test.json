@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urine culture",
+            "date": "Not specified",
+            "findings": "ESCHERICHIA COLI detected.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or gallbladder ultrasound",
+            "date": "Not specified",
+            "findings": "Gallbladder is markedly abnormal, with extensive mural edema and a focal fluid collection measuring approximately 2.2 x 1.4 cm, suggestive of a perforated gallbladder with a small subhepatic/pericholecystic collection. The lumen is not markedly distended, but has slightly increased in distention compared to the previous examination.",
+            "changes_over_time": "The degree of gallbladder lumen distention has increased slightly compared to the previous examination."
+        }
+    ]
+}

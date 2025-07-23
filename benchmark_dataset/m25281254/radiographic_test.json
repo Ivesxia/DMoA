@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": {
+                "lower_thorax": "The lung bases are clear. No pleural pericardial effusion.",
+                "liver": "Homogeneous signal of the liver parenchyma. Signal drop on opposed phase gradient echo images consistent with hepatic steatosis with a fat fraction of 10%. No focal liver lesions. Contrast enhanced sequences are limited by extensive motion artifact.",
+                "biliary": "Cholelithiasis with a single 26 mm gallstone within the gallbladder. No gallbladder wall thickening or pericholecystic fluid. No intra or extrahepatic biliary ductal dilatation. Common bile duct measures up to 5 mm in diameter. No evidence of choledocholithiasis.",
+                "pancreas": "Evaluation of the pancreas is limited by extensive motion artifact. However, there is normal T1 signal of the pancreas. No pancreatic ductal dilatation or peripancreatic stranding.",
+                "spleen": "Spleen is normal in size.",
+                "adrenal_glands": "The adrenal glands are normal in size and morphology.",
+                "kidneys": "Kidneys are unremarkable. No hydronephrosis.",
+                "gastrointestinal_tract": "The stomach is unremarkable. Imaged small and large bowel are normal in caliber.",
+                "lymph_nodes": "No retroperitoneal or mesenteric adenopathy.",
+                "vasculature": "The abdominal aorta is normal in caliber. Hepatic arterial anatomy is conventional. The hepatic and portal venous systems are patent.",
+                "osseous_and_soft_tissue_structures": "No suspicious osseous or soft tissue lesion."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

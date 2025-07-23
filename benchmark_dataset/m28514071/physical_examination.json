@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "Temperature": "98.0 F",
+                "Heart Rate": "60 bpm",
+                "Blood Pressure": "90/46 mmHg",
+                "Respiratory Rate": "16 breaths/min",
+                "Oxygen Saturation": "97% RA"
+            },
+            "relevant_findings": {
+                "General": "awake, alert, appears fatigued",
+                "HEENT": "Normocephalic and atraumatic, extraocular muscles intact, anicteric",
+                "Heart": "Regular rate and rhythm, no murmurs, gallops, or rubs",
+                "Lungs": "clear to auscultation bilaterally, normal excursion, no respiratory distress",
+                "Back": "no vertebral tenderness, no costovertebral tenderness",
+                "Abdomen": "soft, slight left lower quadrant tenderness, nondistended, slight mass appreciated in left lower quadrant",
+                "Pelvis": "deferred",
+                "Neuro": "strength intact/symmetric, sensation intact/symmetric",
+                "Extremities": "WWP, no CCE, no tenderness, 2+ B",
+                "Skin": "no rashes/lesions/ulcers",
+                "Psychiatric": "normal judgment/insight, normal memory, normal mood/affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

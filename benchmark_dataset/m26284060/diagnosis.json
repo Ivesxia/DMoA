@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Mild pancreatitis",
+        "differential_diagnosis": "Chest pain, ruled out for acute coronary syndrome; Thrombocytopenia; Abnormal Liver function tests",
+        "diagnostic_reasoning": "The patient presented with chest pain and symptoms consistent with pancreatitis, including nausea and vomiting. Laboratory tests demonstrated elevated lipase levels indicative of pancreatitis, along with abnormal liver function tests. Cardiology consult determined low suspicion for acute coronary syndrome based on the presentation and results."
+    }
+}

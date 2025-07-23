@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 98.6°F, Heart Rate: 100 bpm, Blood Pressure: 126/81 mmHg, Respiratory Rate: 16 breaths/min, Oxygen Saturation: 100% on room air",
+            "relevant_findings": "General Appearance: Alert, cooperative, knitting in bed, no acute distress. Abdomen: Soft, nondistended, positive rebound tenderness in right lower quadrant, no masses, no hernias, some voluntary guarding.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

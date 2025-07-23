@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "101.4°F",
+                "blood_pressure": "194/110 mmHg",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Comfortable, lying in bed",
+                "eyes": "No icterus",
+                "ent": "Dry MM",
+                "cardiovascular": "Regular; no murmurs; PMI not palpable",
+                "pulmonary": "Clear; no crackles",
+                "abdominal": "Soft; mildly tender in epigastrum with no rebound or guarding; no RUQ tenderness",
+                "skin": "No jaundice",
+                "musculoskeletal": "Full strength throughout",
+                "neurological": "Alert, oriented x3",
+                "psychological": "Calm, appropriate"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

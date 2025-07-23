@@ -1,0 +1,48 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.4",
+                "heart_rate": "92",
+                "blood_pressure": "116/62",
+                "respiratory_rate": "27",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "general": "Appears well and in NAD, sitting up in bed",
+                "HEENT": "PERRLA, EOMI, anicteric, MMM, OP dry",
+                "cardiovascular": "RRR, S1 and S2, no m/r/g",
+                "lungs": "CTAB, no w/r/r",
+                "abdomen": "Soft, ND. TTP in RUQ to light palpation. Well healed surgical scar in midline",
+                "extremities": "No gross deformity or edema",
+                "neurological": "Awake, alert and oriented. Moving all extremities"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.7",
+                "heart_rate": "94",
+                "blood_pressure": "89/49",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "95% on 4L NC"
+            },
+            "relevant_findings": "Tenderness in LUQ and RUQ on exam. RUQ ultrasound showed CBD borderline dilated at 6 mm. Amylase and LFTs elevated. Troponin 7.8.",
+            "changes_over_time": "Patient initially presented with mid-epigastric abdominal pain described as a dull, aching sensation which persisted for 4 hours."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.4",
+                "heart_rate": "116",
+                "blood_pressure": "92",
+                "respiratory_rate": "27",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": "Not c/o any pain. Notably had left shoulder and arm burning pain 2 days PTA that resolved spontaneously.",
+            "changes_over_time": "Initial pain resolved; stable condition noted in MICU."
+        }
+    ]
+}

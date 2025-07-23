@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Gallstones and sludge layer dependently in the gallbladder. The gallbladder is distended. No pericholecystic fluid or wall edema. The patient is maximally focally tender with ultrasound pressure over the gallbladder, consistent with a positive sonographic Murphy sign.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

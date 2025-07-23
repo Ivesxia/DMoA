@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.6°F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "159/100 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x 3, no acute distress",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "Clear to auscultation",
+                "abdominal": "Soft, tenderness to palpation in RUQ/epigastrium, guarding present, no rebound tenderness, bowel sounds present, non-distended",
+                "extremities": "No edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

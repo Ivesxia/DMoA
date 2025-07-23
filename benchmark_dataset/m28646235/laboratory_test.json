@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate level of 3.7",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sodium (Na)",
+            "date": "Not specified",
+            "findings": "Sodium level of 131",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ALT",
+            "date": "Not specified",
+            "findings": "ALT level of 55",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "AST",
+            "date": "Not specified",
+            "findings": "AST level of 90",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC 4.7, Hct 29.6, ANC 4260",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis (UA)",
+            "date": "Not specified",
+            "findings": "1 WBC, few bacteria, >1000 glucose",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RUQ Ultrasound",
+            "date": "Not specified",
+            "findings": "Fatty liver noted",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray (CXR)",
+            "date": "Not specified",
+            "findings": "No signs of pneumonia",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

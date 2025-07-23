@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Sharp chest pain for a few hours associated with RUQ/epigastric abdominal pain.",
+        "history_of_present_illness": "The sharp chest pain began while the patient was in the park with his grandson. It is different from his chronic chest pain which worsens with exertion. The intensity is more severe than usual and is associated with lightheadedness and an episode of syncope earlier the same day.",
+        "past_medical_history": "Alcohol abuse, Cirrhosis complicated by Grade 1 esophageal varices, Hepatitis C, Gastritis, GERD, Colonic angiectasias, Hypertension, Atypical chest pain, Chronic anemia, Exploratory laparotomy.",
+        "family_history": "Father had a history of Diabetes Mellitus, Hypertension, and 3 Myocardial Infarctions (died of MI). Mother had a history of Diabetes Mellitus, Hypertension, breast cancer, and died of colon cancer.",
+        "social_history": "Reports drinking brandy every night, last drink around ___ pm."
+    }
+}

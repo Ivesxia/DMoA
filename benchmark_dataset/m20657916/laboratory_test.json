@@ -1,0 +1,35 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Stool assay for C. difficile toxin A & B",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD W&W/O C",
+            "date": "Not specified",
+            "findings": {
+                "pericardial_effusion": "small",
+                "pleural_effusion": {
+                    "left": "moderate-sized",
+                    "right": "small"
+                },
+                "lung": "left lower lobe collapse, improved on the right side, grossly stable on the left side compared to prior study.",
+                "liver": "fatty, otherwise unremarkable",
+                "spleen": "severely enlarged measuring up to 20 cm (previously 18 cm)",
+                "kidneys": "both in normal anatomic location with symmetric enhancement, bilateral renal cysts",
+                "gallbladder": "contains numerous gallstones with air noted (new since prior exam)",
+                "pancreas": "areas of lack of enhancement compatible with pancreatic necrosis, multiple fluid collections surrounding the pancreas",
+                "bowel": "no evidence of bowel obstruction",
+                "pelvic_fluid": "small amount of free pelvic fluid",
+                "prostate": "mildly enlarged measuring 5.3 cm in transverse diameter"
+            },
+            "changes_over_time": {
+                "spleen": "increased from 18 cm to 20 cm",
+                "gallbladder": "presence of air in gallbladder noted as new since prior exam",
+                "renal cysts": "largest cyst remained stable at 4.4 cm"
+            }
+        }
+    ]
+}

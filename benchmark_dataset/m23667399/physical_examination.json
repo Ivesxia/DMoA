@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "100°F Tmax, 98.6°F Tcurr",
+                "heart_rate": "92 bpm",
+                "blood_pressure": "123/54 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD",
+                "cardiovascular": "RRR",
+                "pulmonary": "Clear to auscultation b/l",
+                "abdominal": "Soft, moderately tender in RLQ, non-distended. Lower midline hysterectomy scar.",
+                "extremities": "No edema, warm and well perfused."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

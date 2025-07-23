@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The bases of the lungs are clear. There is a trace pericardial effusion likely physiologic. Cholelithiasis is present without evidence of cholecystitis. The native kidneys are atrophic. A renal transplant is noted in the left lower quadrant with no evidence of hydronephrosis or stones. The small and large bowel are normal in caliber without evidence of obstruction. In the sigmoid colon, there is a prominent diverticula with surrounding inflammation and thickening of the sigmoid colon consistent with diverticulitis. The appendix is visualized with no evidence of appendicitis. There are shotty periaortic lymph nodes likely reactive. No ascites, free air or abdominal wall hernia is noted. The urinary bladder is unremarkable. There is a partially calcified soft tissue density structure in the right pelvis likely representing the patient's prior renal transplant and unchanged compared to previous studies. There is a small amount of simple free fluid in the pelvis. No lytic or sclerotic lesions suspicious for malignancy are present.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

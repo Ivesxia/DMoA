@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9°F",
+                "heart_rate": "68 bpm",
+                "blood_pressure": "130/57 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress (NAD)",
+                "cardiovascular": "Regular rate and rhythm (RRR)",
+                "abdominal": "Soft, tender to palpation in right lower quadrant (TTP RLQ)",
+                "extremities": "No cyanosis, clubbing, or edema (c/c/e)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

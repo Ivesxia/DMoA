@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Several calculi are identified within the lumen of the gallbladder, the largest measuring 1.0 cm x 0.9 cm. A 1.0 cm x 1.2 cm calculus is seen impacted within the gallbladder neck/cystic duct. Mild generalized mural thickening of the gallbladder wall is present. Small amount of pericholecystic fluid and stranding is identified. The common bile duct is normal in caliber; no intraluminal filling defects to suggest choledocholithiasis. A small amount of free fluid is seen in the perihepatic and perisplenic areas. The liver shows heterogeneous enhancement on arterial phase imaging, resolving on portal venous phase. A tiny cortical cyst is identified at the mid pole of the left kidney measuring 0.6 cm x 0.5 cm. No other focal lesion is seen in the left kidney; the right kidney is normal. The adrenal glands and major blood vessels are normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

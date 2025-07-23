@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laparoscopic appendectomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is fluid-filled and dilated measuring 1.1 cm, with wall thickening and associated stranding of the surrounding mesentery, compatible with appendicitis. Appendicolith is noted within the appendix. No evidence of free fluid or perforation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

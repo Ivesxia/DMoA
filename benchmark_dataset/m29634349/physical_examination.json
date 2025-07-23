@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "95 bpm",
+                "blood_pressure": "126/81 mmHg",
+                "respiratory_rate": "16 breaths/minute",
+                "oxygen_saturation": "100% room air"
+            },
+            "relevant_findings": {
+                "Constitutional": "Comfortable",
+                "HEENT": "Extraocular muscles intact, Mucous membranes moist",
+                "Chest": "Clear to auscultation",
+                "Cardiovascular": "Normal first and second heart sounds",
+                "Abdominal": "Mild right upper quadrant tenderness",
+                "GU/Flank": "No costovertebral angle tenderness",
+                "Extr/Back": "No edema",
+                "Skin": "Warm and dry",
+                "Neuro": "Speech fluent",
+                "Psych": "Normal mood"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

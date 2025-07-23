@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Lungs are clear at the lung bases, without consolidation or pleural effusion. Heart is normal in size, without pericardial effusion. Liver, gallbladder, pancreas, spleen, adrenal glands, stomach, and duodenum are unremarkable. The right renal pelvis and ureter are minimally larger than on the prior study, with slightly slower egress of contrast through the ureter than on the left. Renal cortical thinning is unchanged and consistent with scarring. No free air or fluid in the abdomen. A large diverticulum is stable, with no change in size or contents since the last study. The uterus demonstrates multiple fibroids. No fracture or bony lesions noted.",
+            "changes_over_time": "The right renal pelvis and ureter are minimally larger than on the prior study, with slightly slower egress of contrast than on the left. Renal cortical thinning is unchanged. The large diverticulum shows no change in size, position, and contents since the last study."
+        }
+    ]
+}

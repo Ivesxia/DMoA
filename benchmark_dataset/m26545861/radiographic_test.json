@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits. There is no evidence of pleural or pericardial effusion. The liver demonstrates homogenous attenuation throughout with no focal lesions. The gallbladder is within normal limits. The pancreas has normal attenuation with no focal lesions. The spleen shows normal size and attenuation. The right and left adrenal glands are normal. The kidneys are of normal and symmetric size. The stomach is unremarkable, and the small bowel loops demonstrate normal findings. The colon and rectum are within normal limits. The appendix is fluid-filled and enlarged, measuring 9 mm compatible with appendicitis. There is a small amount of simple appearing free fluid in the pelvis. No drainable fluid collections or extraluminal gas are visualized. The urinary bladder and distal ureters are unremarkable. There is no lymphadenopathy noted. There is no abdominal aortic aneurysm, and mild atherosclerotic disease is noted. There is 1 cm lucency in the left medial iliac that is well-defined without cortical destruction.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

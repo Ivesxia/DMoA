@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopic retrograde cholangiopancreatography",
+            "date": "Not specified",
+            "findings": "Biliary dilatation without clear focus of obstruction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of the right upper quadrant",
+            "date": "Not specified",
+            "findings": "Intra- and extrahepatic biliary dilatation with common bile duct measuring 19.8mm.",
+            "changes_over_time": "The common bile duct size increased from 15mm previously."
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Atrial fibrillation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not performed.",
+            "changes_over_time": "Not applicable."
+        }
+    ]
+}

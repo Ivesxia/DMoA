@@ -1,0 +1,39 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "LOWER_CHEST": "Bibasilar atelectasis. No large pleural effusion or pericardial effusion. Coronary artery calcifications are moderate.",
+                "ABDOMEN": {
+                    "HEPATOBILIARY": "The liver demonstrates homogenous attenuation with no evidence of focal lesions or biliary dilatation. The gallbladder is surgically absent.",
+                    "PANCREAS": {
+                        "size_change": "Hypodense cystic lesion in the proximal pancreatic body increased from 0.6 x 0.7 cm to 1.1 x 1.5 cm.",
+                        "associated_finding": "Soft tissue stranding about the pancreatic head and body. No pancreatic ductal dilatation."
+                    },
+                    "SPLEEN": {
+                        "size": "Normal size.",
+                        "change": "Subtle peripheral hypodensity likely reflects a prior infarct, new from the prior exam."
+                    },
+                    "ADRENALS": {
+                        "right_adrenal": "Normal in size and shape.",
+                        "left_adrenal": "1.3 x 1.3 cm nodule unchanged compared to prior exam, previously characterized as an adrenal adenoma."
+                    },
+                    "URINARY": "Mild right renal cortical scarring; multiple bilateral renal cystic structures measuring up to 2.6 x 2.4 cm in the right upper pole kidney. No evidence of focal renal lesions or hydronephrosis.",
+                    "GASTROINTESTINAL": "Unremarkable stomach; small bowel loops normal; colon and rectum normal; appendix not visualized, no signs of appendicitis.",
+                    "PELVIS": "Urinary bladder and distal ureters unremarkable; no free fluid.",
+                    "REPRODUCTIVE_ORGANS": "Unremarkable.",
+                    "LYMPH_NODES": "No lymphadenopathy noted.",
+                    "VASULAR": "No abdominal aortic aneurysm; extensive atherosclerotic disease.",
+                    "BONES": "No evidence of acute fracture.",
+                    "SOFT_TISSUES": "Abdominal and pelvic wall within normal limits."
+                }
+            },
+            "changes_over_time": {
+                "PANCREAS": "Cystic lesion increased in size.",
+                "SPLEEN": "Peripheral hypodensity is new from prior exam.",
+                "ADRENALS": "Left adrenal nodule unchanged."
+            }
+        }
+    ]
+}

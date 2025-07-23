@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric pain described as burning, sharp, and constant for 5 days.",
+        "history_of_present_illness": "The patient was in her usual state of health until 5 days ago when she developed epigastric pain. She delayed seeking medical attention due to family obligations and ultimately sought care today after the pain persisted. The pain was self-limited and resolved within a day about 2 weeks ago. She denies nausea, experienced one episode of non-bilious vomiting several days ago, and has had limited oral intake but was able to drink water. Urination is adequate with no concentration issues. No fever or chills present.",
+        "past_medical_history": "Hypertension, hypercholesterolemia, migraines. Past surgical history includes laser surgery for cervical dysplasia.",
+        "family_history": "Family history of gallstones (mother and father), coronary artery disease (father), osteoporosis (mother).",
+        "social_history": "Not specified."
+    }
+}

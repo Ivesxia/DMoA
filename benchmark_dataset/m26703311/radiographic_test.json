@@ -1,0 +1,33 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung_bases": "Trace bilateral pleural effusions and bibasilar atelectasis. No focal consolidation or discrete pulmonary nodule. A calcified lymph node in the right hilum is likely due to prior granulomatous disease. Heart size is normal. No pericardial effusion.",
+                "abdomen": {
+                    "liver": "Normal in shape and contour. No focal hepatic lesions.",
+                    "biliary": "No intra- or extra-hepatic biliary duct dilation.",
+                    "gallbladder": "Not distended. Normal in appearance.",
+                    "spleen": "Normal in size. No focal splenic lesions.",
+                    "pancreas": "Unremarkable. No surrounding inflammatory changes.",
+                    "adrenal_glands": "Normal.",
+                    "kidneys": "Normal. No focal renal masses. No perinephric stranding or fluid collection. No hydronephrosis.",
+                    "stomach_and_duodenum": "Normal.",
+                    "distal_ileum": "Mild wall thickening, likely due to secondary inflammatory changes.",
+                    "vascular": "Normal in course and caliber. No filling defects. No significant atherosclerosis. No free air."
+                },
+                "pelvis": {
+                    "large_bowel": "Mostly collapsed and filled with fluid.",
+                    "diverticulosis": "Without evidence of diverticulitis.",
+                    "appendix": "Fluid-filled appendix that measures 11 mm. There is significant stranding in the right lower quadrant. Tiny amount of free fluid. No perforation of the appendix. Stranding in the right lower quadrant causing mild wall thickening of the cecum and surrounding small bowel.",
+                    "bladder": "Unremarkable.",
+                    "prostate": "Enlarged.",
+                    "lymphadenopathy": "No pelvic or inguinal lymphadenopathy."
+                },
+                "bones": "No concerning lytic or sclerotic osseous lesions. Degenerative changes noted in the lumbar spine."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

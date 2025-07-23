@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Initially elevated lipase at 6759, later decreased to 550.",
+            "changes_over_time": "Elevated lipase levels decreased from 6759 to 550 with significant symptom relief."
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Reveal multiple small filling defects in the lower third of the CBD; three small stones were removed. Mild irregularity at the origin of the pancreatic duct.",
+            "changes_over_time": "Comparison is made with prior MRCP, but no specific previous findings outlined for comparison."
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

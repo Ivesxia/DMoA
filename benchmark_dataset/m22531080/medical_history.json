@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient presents with 3 days of abdominal pain that began with an acute onset of malaise, fevers, and chills. Initially, the pain was vague and located mid-abdomen but migrated to the right lower quadrant (RLQ) and intensified in the past day. Fevers and chills resolved 2 days prior without intervention, but the pain persisted and worsened. Associated symptoms include nausea and a decrease in appetite; there was no vomiting. The patient has been passing flatus and experienced normal bowel movements, most recently 2 days ago.",
+        "past_medical_history": "None",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

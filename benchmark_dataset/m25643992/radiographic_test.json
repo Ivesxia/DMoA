@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Mild bilateral pleural effusions, subtle right upper lobe opacity possibly representing early pneumonia, moderate cardiomegaly without evidence of pulmonary edema, mild retrocardiac atelectasis.",
+            "changes_over_time": "Lung volumes have further decreased compared to the previous radiograph."
+        }
+    ]
+}

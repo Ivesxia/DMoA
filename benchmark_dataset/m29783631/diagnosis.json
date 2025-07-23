@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with right lower quadrant pain, nausea, vomiting, and diarrhea. Physical examination revealed tenderness to palpation in the right lower quadrant with rebound tenderness, but without guarding. The ultrasound showed no discrete abnormalities and the appendix was not visualized, which can be consistent with acute appendicitis despite the lack of visualization. The clinical presentation and examination findings strongly suggested acute appendicitis as the final diagnosis."
+    }
+}

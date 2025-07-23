@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Irregular, tachycardic",
+            "changes_over_time": "Afib with RVR broke with the diltiazem gtt"
+        },
+        {
+            "procedure_name": "Ultrasound-guided drainage of gall bladder abscess",
+            "date": "Not specified",
+            "findings": "Significant abnormal findings related to perforated cholecystitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CTA",
+            "date": "Not specified",
+            "findings": "Negative for PE, showed numerous lung and liver lesions and an air-filled structure at the anterior border of the liver.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RUQ ultrasound",
+            "date": "Not specified",
+            "findings": "CBD dilated to 8-11mm and an incompletely characterized air-filled structure at the anterior border of the liver.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

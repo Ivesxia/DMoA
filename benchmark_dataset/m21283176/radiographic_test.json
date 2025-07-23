@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in echotexture with 2 adjacent likely segment VI 1.0- and 1.1-cm echogenic lesions consistent with hemangiomata. The gallbladder is distended with mural edema, pericholecystic fluid, mural hyperemia and multiple gallstones with a positive sonographic sign consistent with acute cholecystitis. The main portal vein is patent with hepatopetal flow. The spleen is normal measuring 8.4 cm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

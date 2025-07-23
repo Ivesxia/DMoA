@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "tachycardic",
+                "oxygen_saturation": "98% on 2L",
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "NAD",
+                "HEENT": "EOMI, MMM, no scleral icterus",
+                "cardiovascular": "tachycardic",
+                "pulmonary": "non-labored breathing",
+                "abdominal": "soft, non-distended, focally TTP in RUQ",
+                "extremities": "WWP, no edema, no calf tenderness or swelling",
+                "neurological": "A&Ox3",
+                "psychological": "appropriate mood, appropriate affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

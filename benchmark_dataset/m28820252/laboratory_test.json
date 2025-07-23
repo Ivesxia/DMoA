@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC count",
+            "date": "Not specified",
+            "findings": "WBC 7.3 (normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate 1.7 (normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis (U/A)",
+            "date": "Not specified",
+            "findings": "Negative U/A",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Polymorphonuclear leukocytes",
+            "date": "Not specified",
+            "findings": "1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "New small left pleural effusion with adjacent atelectasis; normal liver, pancreas, spleen, adrenal glands, kidneys; minor issues noted in small bowel; absence of appendix; rim enhancing fluid collection in the deep pelvis measures 4.0 x 2.7 x 2.6 cm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

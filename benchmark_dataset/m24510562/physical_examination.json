@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "450/13",
+                "heart_rate": "tachycardic",
+                "respiratory_rate": "26",
+                "oxygen_saturation": "93% CMV 50%",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "neurological": "Awake responsive to questions/follows commands",
+                "cardiovascular": "Tachycardic, no murmurs/rubs/gallops",
+                "pulmonary": "Intubated, clear breath sounds bilaterally",
+                "gastrointestinal": "+Bowel sounds, midline incision c/d/i, dusky sunken appearing colostomy",
+                "extremities": "Peripheral edema palpable DP, radial pulses"
+            },
+            "changes_over_time": {
+                "pulmonary": "Left lower lung collapse has minimally worsened over last 24 hours, with small-to-moderate left pleural effusion and small right pleural effusions unchanged."
+            }
+        }
+    ]
+}

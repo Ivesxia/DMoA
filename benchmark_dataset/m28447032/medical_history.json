@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric abdominal pain.",
+        "history_of_present_illness": "Patient experienced sharp, burning pain in a band-like distribution in the epigastrium radiating to the back. Similar episodes began approximately ___ year ago, usually preceding ingestion of rich, fatty foods. She has had RUQUS that were negative for gallstones, sludge, or cholecystitis. Denies any fevers, nausea, vomiting, diarrhea, chills, or sweats. Reports more infrequent, smaller volume BMs, which can be very dark or very light. The last BM was in ED; no recollection of whether it floated. Weight gain of approximately 30 lbs reported since ___. Noted non-adherence to a strict diet during holidays, abnormal for her.",
+        "past_medical_history": "Asthma, migraine (visual auras), mitral valve prolapse (asymptomatic), anxiety, depression, supraventricular tachycardia (SVT), gastroesophageal reflux disease (GERD), umbilical hernia repair (childhood), tracheostomy (childhood), bilateral lumpectomies (benign), sinus surgery/rhinoplasty.",
+        "family_history": "Mother diagnosed with breast cancer in ___. Still in good health. Father died in ___. Had hemochromatosis, hepatitis C, cirrhosis.",
+        "social_history": "Not specified."
+    }
+}

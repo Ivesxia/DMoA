@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.4",
+                "heart_rate": "113",
+                "blood_pressure": "122/84",
+                "respiratory_rate": "19",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "general": "NAD",
+                "lungs": "CTAB",
+                "cardiovascular": "RRR",
+                "abdominal": {
+                    "findings": "obese, distended, tender to palpation in the LLQ/suprapubic region",
+                    "rebound": "negative",
+                    "guarding": "negative"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

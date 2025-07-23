@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Mixed Bacterial Flora Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test (bilirubin)",
+            "date": "Not specified",
+            "findings": "0.9 mg/dL (within normal range of 0.5 to 1.2 mg/dL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Lungs are expanded. There is no focal consolidation, pleural effusion, or pneumothorax. Cardiomediastinal silhouette is within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

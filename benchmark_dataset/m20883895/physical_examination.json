@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.0 °F",
+                "heart_rate": "99 bpm",
+                "blood_pressure": "121/75 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "well appearing female in NAD",
+                "HEENT": "PEERLA, OP Clear",
+                "neck": "no JVD",
+                "cardiac": "RRR, clear S1/S2",
+                "pulmonary": "clear to auscultation bilat",
+                "abdominal": "+BS, non-distended and soft abdomen with tenderness to light palpation in the epigastric and RLQ. Pt guards to deep palpation in RLQ. Pos psoas sign.",
+                "extremities": "warm, well perfused with +DP, no c/c/e",
+                "neuro": "AxO3 answers questions appropriately"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

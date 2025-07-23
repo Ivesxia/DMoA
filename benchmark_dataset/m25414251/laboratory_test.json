@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "There has been some interval improvement in the aeration in the left lower lobe, but there is still a wedge-like area of volume loss/infiltrate in the left lower lung and similar area in the right lower lung.",
+            "changes_over_time": "Improvement in aeration in the left lower lobe; persistence of the wedge-like area of volume loss/infiltrate."
+        }
+    ]
+}

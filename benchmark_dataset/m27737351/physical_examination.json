@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "blood_pressure": "145/99 mmHg",
+                "heart_rate": "106 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, no acute distress",
+                "HEENT": "Sclera anicteric, MMM, oropharynx clear",
+                "neck": "Supple, JVP not elevated, no LAD",
+                "lungs": "Clear to auscultation bilaterally, no wheezes, rales, ronchi",
+                "CV": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+                "abdomen": "Tender to palpation in bilateral lower quadrant. No peritoneal signs. Soft, non-distended, bowel sounds present, no guarding, no organomegaly",
+                "GU": "No foley",
+                "extremities": "Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

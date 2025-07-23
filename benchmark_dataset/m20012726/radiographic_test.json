@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is a 5 mm echogenic lesion in the right lobe of the liver, likely a tiny hemangioma. The bile ducts show no intrahepatic biliary dilation with the CHD measuring 4 mm. The gallbladder contains many shadowing stones with echogenic foci in the gallbladder wall, suggestive of adenomyomatosis. There is no gallbladder wall thickening or distention.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

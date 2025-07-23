@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "122 bpm",
+                "blood_pressure": "112/62 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "GENERAL": "Uncomfortable female writing in pain.",
+                "HEENT": "Pinpoint pupils b/l.",
+                "NECK": "Supple.",
+                "CARDIOVASCULAR": "S1S2 tachycardia, regular rhythm, no murmurs/rubs/gallops.",
+                "RESPIRATORY": "B/l auscultation clear, no wheezes/crackles/rubs.",
+                "ABDOMEN": "Hypoactive but present bowel sounds, soft, + epigastric and RUQ tenderness, no guarding or rebound.",
+                "BACK": "No spinal tenderness.",
+                "GENITOURINARY": "Not specified.",
+                "EXTREMITIES": "No cyanosis/clubbing/edema, 2+ pulses.",
+                "DERMATOLOGIC": "No rash.",
+                "NEUROLOGIC": "Face symmetric, speech fluent.",
+                "PSYCHIATRIC": "Calm, cooperative."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

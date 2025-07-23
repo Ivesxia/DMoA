@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2 °F",
+                "heart_rate": "60 bpm",
+                "blood_pressure": "111/50 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress",
+                "HEENT": "No scleral icterus, mucous membranes moist",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/gallops/rubs",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes/rhonchi",
+                "abdominal": "Soft, nondistended, mid abdominal tenderness with focal peritonitis",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Initial abdominal exam showed mid abdominal tenderness with focal peritonitis; later exam reported abdomen as soft and nontender with wounds healing well."
+        }
+    ]
+}

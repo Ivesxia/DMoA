@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient presents with several days of constant stabbing epigastric pain, described as 'several days duration.' Initial description included 'chest pain,' but consistently pointed to the epigastric area. No alleviating or exacerbating factors noted, though morphine in the ED significantly helped the pain. Associated symptoms include nausea for several days, one episode of emesis in the ED, and anorexia for 2 days with minimal oral intake.",
+        "past_medical_history": "CVA, hypertension, hyperlipidemia, obesity, depression, glaucoma, upper gastrointestinal bleeding, H. pylori gastritis, uterine prolapse and leiomyoma, iron deficiency anemia, chronic atrial fibrillation, C. difficile colitis, congestive heart failure with EF 40%.",
+        "family_history": "Mother with gum cancer. No known heart disease reported.",
+        "social_history": "Not specified."
+    }
+}

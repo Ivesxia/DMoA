@@ -1,0 +1,48 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "102 bpm",
+                "blood_pressure": "140/69 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "saturation": "93% on room air"
+            },
+            "relevant_findings": {
+                "general": "Uncomfortable appearing",
+                "neurological": "PERRLA, EOMI",
+                "cardiovascular": "Regular rhythm, no murmurs/rubs/gallops",
+                "pulmonary": "Clear to auscultation bilaterally",
+                "abdominal": {
+                    "firmness": "firm with voluntary guarding",
+                    "tenderness": "tender to palpation in the right upper quadrant",
+                    "rebound tenderness": "none"
+                },
+                "extremities": "Warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "ultrasound_findings": {
+                    "liver": "Diffusely echogenic consistent with fatty infiltration",
+                    "gallbladder": {
+                        "stones": "Intraluminal stones at the neck",
+                        "distention": "Distended with wall thickening and edema",
+                        "pericholecystic_fluid": "Small amount present"
+                    },
+                    "spleen": "Mildly enlarged measuring 14 cm",
+                    "kidneys": {
+                        "left_kidney": "12.1 cm, no mass or stone",
+                        "right_kidney": "11.5 cm, no mass or stone"
+                    },
+                    "ascites": "No intra-abdominal ascites"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

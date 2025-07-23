@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute onset mid-abdomen pain associated with episodes of non-bloody, non-bilious vomiting and chills.",
+        "history_of_present_illness": "Symptoms began at 9 PM after eating a veggie burger 3 hours prior. Episodes of similar abdominal pain have occurred intermittently over the past few months, lasting about ___ minutes each, with the last episode occurring approximately 3 weeks ago.",
+        "past_medical_history": "History of CAD status post RCA stent x2, hypertension, hyperlipidemia.",
+        "family_history": "Father died at age ___. Two brothers have had CABG at ages ___ and ___.",
+        "social_history": "Denies alcohol consumption for over ___ years; previously a binge drinker for a ten-year period."
+    }
+}

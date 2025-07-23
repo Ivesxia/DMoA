@@ -1,0 +1,28 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "surgery",
+      "specific_treatment": "laparoscopic appendectomy",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Not specified"
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "Not specified",
+      "event": "Patient presented with abdominal pain, vomiting, and diarrhea.",
+    },
+    {
+      "date": "Not specified",
+      "event": "CT abdomen and pelvis with contrast performed, indicating evidence of acute appendicitis.",
+    },
+    {
+      "date": "Not specified",
+      "event": "Laparoscopic appendectomy performed."
+    }
+  ]
+}
+```

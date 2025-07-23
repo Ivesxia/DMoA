@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Severe abdominal pain",
+        "history_of_present_illness": "The patient presented 2 hours after EGD and polypectomy of duodenal ulcer. Shortly after eating a meal, the patient became nauseous with severe abdominal pain and vomiting once. The pain is described as sharp and diffuse throughout the abdomen.",
+        "past_medical_history": "___ syndrome",
+        "family_history": "Mother's side has ___ syndrome; Father has ___",
+        "social_history": "Not specified"
+    }
+}

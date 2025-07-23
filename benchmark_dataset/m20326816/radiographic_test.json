@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Several well-circumscribed echogenic round lesions in both lobes of the liver, largest measuring 1.6 x 1.3 x 1.2 cm in the right lobe. No internal vascularity observed. No intra- or extra-hepatic bile duct dilation. Common bile duct measures 3 mm. Main portal vein is patent with hepatopetal flow. Gallbladder is unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT A/P",
+            "date": "Not specified",
+            "findings": "Wall thickening of sigmoid colon and wall thickening/possible nodular mass involving the bladder adjacent to the sigmoid colon.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI abd/pelvis",
+            "date": "Not specified",
+            "findings": "Marked thickening and soft tissue signal involving the sigmoid colon, measuring 8.3x5.0cm. 0.6cm necrotic LN in the sigmoid mesentery noted. Lesion extends to the left side of the bladder measuring 6.8x5.4cm. Large lesion in left hepatic lobe measuring 8.2x6.5cm. Suspicious nonenhancing portal vein branch.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

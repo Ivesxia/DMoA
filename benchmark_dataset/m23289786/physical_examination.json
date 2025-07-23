@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "95 bpm",
+                "blood_pressure": "122/73 mmHg",
+                "respiratory_rate": "18 bpm"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress.",
+                "HEENT": "No scleral icterus, mucous membranes moist.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, gallops, or rubs.",
+                "abdomen": "Soft, nondistended. Mild diffuse tenderness in all four quadrants. No rebound or guarding, normoactive bowel sounds, no palpable masses. Equivocal sign."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

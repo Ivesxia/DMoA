@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Blind-ending noncompressible loop of bowel with bowel wall edema and surrounding induration. Trace surrounding fluid without a definite abscess or evidence of perforation. Echogenic material fills the appendix with an appendicolith noted proximally.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

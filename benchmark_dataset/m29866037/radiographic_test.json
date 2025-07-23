@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized lung bases demonstrate minimal dependent atelectatic changes. The appendix is borderline in size measuring 7.0 to 8.0 mm, with no significant surrounding fat stranding but a potentially hyperemic wall with trace fluid. Oral contrast reached the ileum but not the cecum and appendix, limiting evaluation. Minimal wall thickening involving the jejunum with mild mesenteric hyperemia raises suspicion for possible inflammatory process. Other abdominal organs are within normal limits, with no free fluid or free air detected.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

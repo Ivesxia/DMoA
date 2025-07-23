@@ -1,0 +1,50 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.3°F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "120/58 mmHg",
+                "respiratory_rate": "16 bpm",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "Chronically ill man in NAD, appropriate.",
+                "HEENT": "+ scleral icterus, MMM, no thrush, EOMI.",
+                "neck": "No JVD.",
+                "heart": "RRR, systolic non-radiating murmur best heard at LLSB/apex.",
+                "lungs": "Bibasilar crackles, o/w CTAB.",
+                "abdomen": "Tenderness, worse with inspiration. No rebound. No fluid wave. +BS.",
+                "extremities": "WWP, no c/c/e, 2+ peripheral pulses.",
+                "skin": "Jaundice. No rashes or lesions.",
+                "neuro": "Awake, A&Ox3, no asterexis. CNs II-XII grossly intact."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.6°F",
+                "heart_rate": "91 bpm",
+                "blood_pressure": "120/68 mmHg",
+                "respiratory_rate": "16 bpm",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Small amount of ascites, vague abdominal pain.",
+            "changes_over_time": "No other significant changes reported."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.4°F",
+                "heart_rate": "90 bpm",
+                "blood_pressure": "122/66 mmHg",
+                "respiratory_rate": "16 bpm",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

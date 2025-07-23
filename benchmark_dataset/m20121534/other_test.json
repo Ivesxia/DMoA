@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder is distended with a positive sonographic sign noted on exam. There is cholelithiasis as well as trace pericholecystic fluid. The gallbladder wall measures 4 mm in thickness. There is no intrahepatic biliary ductal dilatation. The common bile duct is prominent, measuring 7 mm. No focal liver lesions are visualized. The pancreas is unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic cholecystectomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

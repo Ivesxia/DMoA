@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The liver is diffusely high in signal intensity on T2 weighted images, suggesting edema (e.g., hepatitis). Gallstones are seen within the neck of the gallbladder. Gallbladder wall edema noted, but no pericholecystic hyperemia. The common bile duct measures 3 mm with no dilatation. The pancreas shows normal intensity except for a 4mm cyst in the pancreatic head. A heterogeneously T1 hyperintense lesion in the lower pole of the left kidney measures up to 2.2 cm, likely a hemorrhagic cyst.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cholesterol Test",
+            "date": "Not specified",
+            "findings": "Cholesterol level is 1.6 mg/dL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Coarsened hepatic parenchyma, smooth liver contour, no focal liver mass, patent main portal vein with hepatopetal flow, no intrahepatic biliary dilation, 5 mm common hepatic duct, several stones and layering sludge in minimally distended gallbladder, small amount of pericholecystic fluid without significant wall edema, pancreas not well visualized due to bowel gas, aorta and IVC not visualized due to technical limitations.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "No signs of pneumonia.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

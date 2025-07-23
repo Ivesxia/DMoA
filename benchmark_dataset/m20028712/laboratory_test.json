@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The gallbladder is distended, with gallbladder wall thickening and pericholecystic fat stranding. Discontinuity of the gallbladder wall laterally with an adjacent pericholecystic collection is seen along the inferior margin of the liver, compatible with perforation and a contained collection. Several gallstones are seen within the gallbladder, including one within the gallbladder neck. Mild periportal edema. A subcentimeter hepatic hypodensity within segment VII is too small to characterize, likely a cyst. Mild left basilar atelectasis. Trace right pleural effusion with associated atelectasis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "BACTEROIDES FRAGILIS GROUP, PREVOTELLA SPECIES",
+            "date": "Not specified",
+            "findings": "170.0 IU/L (reference range: 94.0 - 250.0 IU/L)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

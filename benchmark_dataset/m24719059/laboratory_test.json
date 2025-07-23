@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Grayscale imaging shows a moderately distended gallbladder containing layering echogenic material consistent with sludge. No thickening of the gallbladder wall. No definite gallstones identified. Trace perihepatic fluid present. Mild intrahepatic ductal dilation; common duct measures 1.1 cm in diameter. No evidence of choledocholithiasis. Discrete hyperechoic shadowing foci within the fundus of the gallbladder may represent gallbladder polyps, measuring approximately 2 mm. No focal liver lesion seen. Right kidney shows no hydronephrosis. Pancreatic duct measures 3 mm in diameter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PREVOTELLA SPECIES CULTURE",
+            "date": "Not specified",
+            "findings": "Results indicate presence of PREVOTELLA SPECIES.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LIVER FUNCTION TEST",
+            "date": "Not specified",
+            "findings": "Results indicate 25.0 IU/L.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

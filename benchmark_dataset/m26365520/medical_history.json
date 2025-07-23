@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Abdominal pain started yesterday, initially diffuse but today more localized to the right upper quadrant (RUQ). The patient also experienced nausea and decreased appetite, with loose bowel movements yesterday. No vomiting, fever, or dysuria reported.",
+        "past_medical_history": "Past medical history is notable for sinus surgery; otherwise, no significant medical history reported.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

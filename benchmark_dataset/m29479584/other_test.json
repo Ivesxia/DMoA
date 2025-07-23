@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABDOMEN WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Bibasilar atelectasis is mild in the visualized lung bases. No pleural effusion. Sizeable hiatal hernia with food content in the sac. Interval decrease of previous CBD dilatation. 12-mm partly exophytic left lower pole renal cyst noted. No free air, fluid or lymphadenopathy in the abdomen.",
+            "changes_over_time": "Interval decrease of previous CBD dilatation."
+        },
+        {
+            "procedure_name": "CT PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Intermediate attenuating fluid collection with rim enhancement in the pre-sacral area, measuring 20 x 82 mm, compatible with an abscess. Suture line noted in the rectal vault post-sigmoid colectomy. Tiny pocket of mixed gas and fluid seen underneath the incision site, non-specific, could represent resolving hematoma or tiny abscess.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

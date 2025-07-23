@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified.",
+            "findings": "Minimal atelectasis noted at the right lung base. Multiple tiny layering gallstones in the gallbladder. No evidence of intrahepatic biliary dilatation. T2 bright nonenhancing focus in segment II of the liver, which may represent focal ectasia of the biliary tree or hepatic cysts. Choledocholithiasis with a 3mm stone in the distal common bile duct without upstream biliary dilation. The pancreas enhances normally with no evidence of abnormalities. No pancreatic ductal dilatation, cysts, or masses. No free fluid. Spleen and both adrenal glands unremarkable. Two haemorrhagic cysts in the kidneys (4mm in the left kidney, 6mm in the right kidney). No worrisome renal masses or hydronephrosis. Bilateral (Tarlov) perineural cysts identified at the T10/T11 vertebral level.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

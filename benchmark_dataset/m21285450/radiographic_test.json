@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "No free air under the diaphragms. The cardiac silhouette is top normal. The mediastinal and hilar contours are within normal limits. Lungs are clear without focal consolidation. The pulmonary vascularity is not engorged. No pleural effusion or pneumothorax is seen. There are no acute osseous findings.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "78 bpm",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "NAD (No Acute Distress)",
+                "cardiovascular": "RRR (Regular Rate and Rhythm)",
+                "abdominal": "Soft, Tenderness to Palpation in Right Lower Quadrant",
+                "extremities": "No cyanosis/clubbing/edema"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "appendix": "Enlarged at 9 mm with wall hyperenhancement and surrounding mild fat stranding, no perforation evident."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

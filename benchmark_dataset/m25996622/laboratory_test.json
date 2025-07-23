@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "PCR for Neisseria Gonorrhoeae",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria Gonorrhoeae by PCR.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild hypoventilatory changes at the dependent portions of the lung bases; No focal consolidation or effusion; Circular calcification in the inferior aspect of the cecum measuring 1.1 cm consistent with appendicoliths; Tubular rim enhancing structure distal measuring 1.8 cm fluid-filled with mild inflammatory changes; Focal cecal wall thickening noted; Small cyst within the left adnexa measuring 1.9 x 1.8 cm likely physiologic.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

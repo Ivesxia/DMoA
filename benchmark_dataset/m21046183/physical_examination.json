@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "heart_rate": "71 bpm",
+                "blood_pressure": "123/71 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "AOx3, NAD",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "cardiovascular": "RRR, No M/G/R",
+                "pulmonary": "Clear to auscultation b/l, No W/R/R",
+                "abdominal": "RLQ tenderness, no rebound/guarding, soft, nondistended, positive Rovsing's sign, negative psoas sign",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

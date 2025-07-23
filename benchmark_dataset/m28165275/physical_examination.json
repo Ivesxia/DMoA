@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7 F",
+                "blood_pressure": "116/80 mmHg",
+                "heart_rate": "66 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": {
+                "general": "well-appearing man in NAD, slightly uncomfortable, appropriate",
+                "heent": "NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear",
+                "neck": "supple, no thyromegaly, no JVD, no carotid bruits",
+                "lungs": "CTA bilat, no r/rh/wh, good air movement, resp unlabored, no accessory muscle use",
+                "heart": "PMI non-displaced, RRR, no MRG, nl S1-S2",
+                "abdomen": "hypoactive BS, soft/ND, tender mostly in epigastric region, also laterally on R side, negative ___, no masses or HSM, no rebound/guarding",
+                "extremities": "WWP, no c/c/e, 2+ peripheral pulses (radials, DPs)",
+                "skin": "no rashes or lesions",
+                "lymph": "no cervical, axillary, or inguinal LAD",
+                "neuro": "awake, A&Ox3, moving all extremities"
+            },
+            "changes_over_time": "Current pain is much decreased from yesterday although it is still present."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1 F",
+                "blood_pressure": "127/86 mmHg",
+                "heart_rate": "88 bpm",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

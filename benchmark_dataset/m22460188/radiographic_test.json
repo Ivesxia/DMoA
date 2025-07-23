@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix demonstrates wall thickening, periappendiceal stranding, and dilation to 14 mm. There is marked restricted diffusion associated with the appendix. There is free fluid around the appendix, the cecal tip, and within the pelvis. An adjacent ileocecal lymph node measures up to 9 mm. The ovaries demonstrate normal follicular change. The right ovary measures 1.8 x 3.0 cm. The left ovary measures approximately 3.2 x 1.4 cm. The uterus has an intrauterine pregnancy with an anterior placenta. Hypointensity within the posterior myometrium likely relates to a contraction. The liver, adrenal glands and spleen are not visualized in their entirety. The gallbladder, pancreas, and kidneys are within normal limits. There is no hydronephrosis. The bladder is grossly unremarkable. The visualized osseous structures demonstrate normal bone marrow signal intensity.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

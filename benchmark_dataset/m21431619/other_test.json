@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT GUIDED PLACEMENT OF PIGTAIL CATHETER",
+            "date": "Not specified",
+            "findings": "Significant fat stranding around the cecum and free fluid in the right lower quadrant. A rim enhancing 6.4 x 4.7 cm fluid collection containing multiple extraluminal foci of air is consistent with an abscess in the setting of a perforated appendix.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Cardiomegaly with left ventricular enlargement, right basilar atelectasis, small pleural effusion, stable 9.2 mm hypodensity likely a hemangioma, stable 11 mm hypodensity likely a hepatic cyst, normal pancreas and spleen, unchanged cortical irregularity at the inferior pole of the right kidney, significant fat stranding around the cecum, and a rim enhancing fluid collection consistent with an abscess.",
+            "changes_over_time": "Area of cortical irregularity on the right kidney is unchanged since previous CT."
+        }
+    ]
+}

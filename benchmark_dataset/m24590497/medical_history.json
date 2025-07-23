@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Left-sided neck pain and fever",
+        "history_of_present_illness": "The patient presents with 3 days of left-sided neck pain that started at the base of the left skull and shoots forward. The pain is constant with a throbbing quality and became severe enough to prompt her to visit the ED. The pain worsens with left head rotation and deep exhalation. No aggravating factors were identified, and she denies any injuries. Additionally, she has experienced a few episodes of diarrhea, which is a new symptom. She initially thought the pain might be related to a prior episode of torticollis but indicates this pain is distinctly different.",
+        "past_medical_history": "History of torticollis a few years ago, seasonal and food allergies",
+        "family_history": "No neurological history",
+        "social_history": "Not specified"
+    }
+}

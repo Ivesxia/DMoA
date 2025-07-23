@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "58 bpm",
+                "blood_pressure": "142/89 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "constitutional": "Uncomfortable",
+                "HEENT": "Normocephalic, atraumatic, Pupils equal, round and reactive to light",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm, Normal first and second heart sounds",
+                "abdominal": "Nontender, Nondistended, Soft",
+                "GU/flank": "No costovertebral angle tenderness"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

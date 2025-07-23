@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder is distended with multiple, shadowing stones. One stone at the neck of the gallbladder did not move with decubitus positioning. No pericholecystic fluid. The gallbladder wall measures 4-5 mm in thickness. The hepatic parenchyma is hyperechoic with area of sparing adjacent to the gallbladder fossa. No focal liver mass. No intrahepatic biliary dilation. CBD measures 3 mm. Normal echogenicity of the spleen, kidneys, and pancreas.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

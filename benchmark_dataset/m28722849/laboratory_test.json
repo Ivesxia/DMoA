@@ -1,0 +1,37 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "overall": "Mild bibasilar atelectasis noted.",
+                "heart": "Normal in size and without pericardial effusion.",
+                "abdominal": {
+                    "liver": "Enhances homogeneously without focal lesions.",
+                    "portal_venous_system": "Patent.",
+                    "biliary_system": "No intrahepatic or extrahepatic biliary dilatation.",
+                    "gallbladder_panc_spleen_adrenals": "Within normal limits.",
+                    "kidneys": "Enhance symmetrically and excrete contrast normally without evidence of hydronephrosis or solid renal mass.",
+                    "appendix": "Retrocecal, fluid-filled and dilated to 12 mm with associated mucosal hyperemia.",
+                    "fat_stranding": "Significant adjacent fat stranding compatible with appendicitis.",
+                    "peritoneum": "No evidence of frank pneumoperitoneum or organized fluid collection.",
+                    "bowel": "Stomach, duodenum, and intra-abdominal loops of small and large bowel are normal in caliber without evidence of wall thickening or obstruction.",
+                    "lymph_nodes": "No pathologically enlarged retroperitoneal lymph nodes seen.",
+                    "aorta": "Normal in caliber throughout.",
+                    "celiac_sma": "Patent.",
+                    "bladder_rectum_sigmoid_colon": "Within normal limits."
+                },
+                "bones": "No osseous destructive lesions concerning for malignancy detected."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Quantitative culture",
+            "date": "Not specified",
+            "findings": {
+                "results": "<10,000 organisms/ml"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

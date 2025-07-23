@@ -1,0 +1,25 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": {
+                "Lower Thorax": "The lung bases are clear. The heart size is normal and there is no pericardial or pleural effusion.",
+                "Liver": "The liver is normal in contour and signal intensity without focal lesions.",
+                "Biliary": "Mild dilatation of the left hepatic and right anterior biliary tree is stable. The common bile duct measures up to 1.0 cm, which is unchanged.",
+                "Pancreas": "The pancreas is normal in size. There is some loss of signal intensity on the T1-weighted images in the uncinate process with persistent enhancement on the delayed phase images and very mildly increased T2 signal.",
+                "Spleen": "The spleen is normal in size and signal intensity.",
+                "Adrenal Glands": "The adrenal glands are unremarkable.",
+                "Kidneys": "Multiple rounded T2 hyperintense lesions in the kidneys bilaterally consistent with simple cysts.",
+                "Gastrointestinal Tract": "Status post partial gastrectomy with expected postsurgical anatomy. A small hiatal hernia is noted. A large duodenum diverticulum is unchanged.",
+                "Lymph Nodes": "No mesenteric or retroperitoneal lymphadenopathy.",
+                "Vasculature": "The arterial anatomy is conventional. There is no aneurysmal dilatation or flow-limiting stenosis of the visualized great vessels of the abdomen.",
+                "Osseous and Soft Tissue Structures": "Multiple T2 hyperintense lesions within the mid thoracic spine consistent with hemangiomas. No osseous lesions are worrisome for infection or malignancy."
+            },
+            "changes_over_time": {
+                "Biliary": "Mild dilatation is stable from a previous unspecified date. The common bile duct measurement is unchanged from a previous unspecified date.",
+                "Gastrointestinal Tract": "The large duodenum diverticulum is unchanged from a previous unspecified date."
+            }
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Portable chest X-ray",
+            "date": "Not specified",
+            "findings": "The tip of the right central line is in the region of the cavoatrial junction. There are somewhat low lung volumes. There is no consolidation. There is no pneumothorax. There are no large pleural effusions. There may be increased right paratracheal soft tissue, versus oblique positioning.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "Not specified",
+            "findings": "48% blasts on aspirate, 28% blasts on repeat biopsy, no leukemia on further repeat biopsy.",
+            "changes_over_time": "Progression of blast percentage from 48% to 28%, followed by no evidence of leukemia."
+        },
+        {
+            "procedure_name": "Percutaneous Cholecystostomy",
+            "date": "Not specified",
+            "findings": "Gallbladder contains a percutaneous pigtail catheter. New high-density material within the lumen of the gallbladder compared to prior CT.",
+            "changes_over_time": "New findings of high-density material in the gallbladder lumen compared to a CT from 2 days ago."
+        },
+        {
+            "procedure_name": "Urine Analysis",
+            "date": "Not specified",
+            "findings": "UA without evidence of infection.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transfusion",
+            "date": "Not specified",
+            "findings": "Improvement in SBP into the low 100s.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

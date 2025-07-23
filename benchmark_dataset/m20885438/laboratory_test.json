@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase elevated to 150, which is above the normal range (Ref range: 94.0 - 250.0).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Small bilateral dependent pleural effusions noted; a 4 mm hypodensity within the right lobe of the liver likely represents a cyst; small amount of free perihepatic fluid and periportal edema observed; otherwise no focal liver lesions or abnormalities detected.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Salmonella/Shigella Testing",
+            "date": "Not specified",
+            "findings": "NO SALMONELLA OR SHIGELLA FOUND.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

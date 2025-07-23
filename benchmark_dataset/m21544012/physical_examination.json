@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4°F",
+                "heart_rate": "51 bpm",
+                "blood_pressure": "131/65 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "Mildly ill-appearing.",
+                "HEENT": "PERRL.",
+                "cardiovascular": "RRR. Normal S1 and S2. No M/R/G.",
+                "pulmonary": "CTA bilaterally.",
+                "abdominal": "Soft. Moderate tenderness in the epigastrium and right lower quadrants. No rebound or guarding.",
+                "extremities": "No edema."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

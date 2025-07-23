@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Evaluation and treatment of abdominal pain, weight loss, and gallstones.",
+        "history_of_present_illness": "Symptoms began approximately 1 month ago. The patient initially presented with chest pain and shortness of breath, described as pressure from the abdomen. Over the month, abdominal pain localized to the right upper quadrant (RUQ) has increased in severity, varying from pressure-like to sharp pain. Pain improves with lying still and worsens with movement, coughing, sneezing, and eating. The patient has lost 10 pounds in the past month due to decreased intake.",
+        "past_medical_history": "Alcoholic cirrhosis, insulin-dependent diabetes mellitus (IDDM), chronic kidney disease (CKD), gastroesophageal reflux disease (GERD), hypothyroidism, coronary artery disease (CAD) status post-stent, stroke with no residual deficits.",
+        "family_history": "Multiple members with cervical cancer (mother), cancer (unknown type, grandfather), and a cousin with a history of pancreatic cancer.",
+        "social_history": "Not specified."
+    }
+}

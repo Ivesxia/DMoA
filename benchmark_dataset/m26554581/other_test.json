@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Physical Examination",
+            "date": "Not specified",
+            "findings": "Somnolent, abdomen soft and distended, tenderness to palpation with rebound and guarding, well healed left flank incision.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Portable Abdomen Radiograph",
+            "date": "Not specified",
+            "findings": "Moderate volume of stool throughout nondilated colon, no small bowel dilatation, lateral bulge of the left abdominal wall, 4.1 cm exophytic peripherally calcified mass arising from the upper pole of the right kidney, arterial calcifications, mild degenerative change spine.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The examination is significantly limited by extensive overlying soft tissues. No gross intrahepatic biliary ductal dilatation is seen. There is diffusely increased hepatic echogenicity. The proximal common duct is not visualized. Limited visualization of the pancreas. The spleen is grossly within normal limits, measuring 12.0 cm. The gallbladder is not well seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2 °F",
+                "blood_pressure": "150/90 mmHg",
+                "heart_rate": "78 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well developed, well nourished in no acute distress.",
+                "HEENT": "Sclerae anicteric. Oral pharynx intact; no exudate or lesions.",
+                "neck": "Supple. No lymphadenopathy.",
+                "lungs": "Clear to auscultation bilaterally.",
+                "cardiac": "Regular rate and rhythm; normal S1/S2 without murmurs, clicks, or rubs.",
+                "abdomen": "Drain patent/intact. Normoactive bowel sounds in all four quadrants. Soft, non-tender, non-distended.",
+                "extremities": "No cyanosis, clubbing, or edema.",
+                "skin": "Otherwise intact.",
+                "neurological": "Alert and oriented times three. Non-focal, grossly intact."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

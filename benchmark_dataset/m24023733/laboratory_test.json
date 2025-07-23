@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated and fluid filled measuring up to 1.3 cm with mucosal hyper enhancement and surrounding inflammation compatible with acute appendicitis. There is a 7 mm hypodensity in the upper pole of the left kidney and a smaller hypodense focus in the right kidney, both of which are too small to characterize by CT but statistically likely reflect cysts.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

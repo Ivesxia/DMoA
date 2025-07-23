@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The hepatic parenchyma appears within normal limits with a calcified granuloma in the left lobe measuring up to 0.8 cm, several simple cysts throughout the liver, a distended gallbladder containing sludge and stones located at the gallbladder neck, mild gallbladder wall thickening and edema, and no intrahepatic biliary dilation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

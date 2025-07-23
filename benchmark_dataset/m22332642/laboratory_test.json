@@ -1,0 +1,23 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Hepatic parenchyma within normal limits, smooth contour. An echogenic, round focus in the left hepatic lobe without demonstrable vascularity could be a hemangioma or focal fat.",
+                "bile_ducts": "Mild intrahepatic biliary dilation; CBD dilated at 8 mm with several obstructing common bile duct stones, largest measuring up to 1.3 cm.",
+                "gallbladder": "Markedly distended with numerous gallstones; gallbladder wall measures up to 3 mm.",
+                "pancreas": "Within normal limits, no masses or ductal dilation.",
+                "spleen": "Normal echogenicity, 9 cm.",
+                "kidneys": "Right kidney measures 9.5 cm, left kidney 9.7 cm; no hydronephrosis."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

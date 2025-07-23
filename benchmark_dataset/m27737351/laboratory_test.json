@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Diverticulosis is seen throughout the distal colon. In the left lower quadrant, there is thickening of the colon wall in the region of the visible diverticulosis with surrounding fat stranding. A few locules of gas are noted extra luminally within the area of fat stranding.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

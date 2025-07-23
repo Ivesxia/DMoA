@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Right upper lobe linear atelectasis. No pleural effusions. Mild hepatic steatosis. No focal lesion in the visualized liver. No ductal dilation. Unremarkable visualized gallbladder. No lesion or ductal dilation in pancreas. Partial fatty replacement of the dorsal aspect of the pancreatic head consistent with uneven lipomatosis. No splenomegaly. Accessory spleen near the inferior pole. 11 mm discrete right adrenal nodule consistent with a lipid rich adrenal adenoma. 22 mm right interpolar renal cyst, likely hemorrhagic. Mild perinephric fluid. Small hiatal hernia. Sigmoid diverticulosis. No adenopathy. Normal bone marrow signal. No soft tissue mass.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

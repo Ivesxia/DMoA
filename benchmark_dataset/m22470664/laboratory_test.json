@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver echotexture is normal, no focal intrahepatic lesion or intrahepatic bile duct dilation. The gallbladder is filled with numerous mobile stones and has a 9-mm gallbladder neck stone that is immobile. The gallbladder is not distended, wall not thickened, no pericholecystic fluid. Mild focal tenderness present. The IVC is normal, pancreatic views are normal, aorta normal in caliber, no ascites.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

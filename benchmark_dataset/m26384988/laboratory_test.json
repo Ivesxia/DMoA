@@ -1,0 +1,25 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Diffusely low homogenous attenuation throughout. No focal lesions.",
+                "gallbladder": "Contains gallstones without wall thickening or surrounding inflammation.",
+                "pancreas": "Normal attenuation throughout without focal lesions or pancreatic ductal dilatation.",
+                "spleen": "Normal size and attenuation throughout without focal lesions.",
+                "adrenals": "Normal in size and shape.",
+                "kidneys": "Normal and symmetric size with normal nephrogram. No focal renal lesions or hydronephrosis.",
+                "appendix": "Fluid-filled and dilated up to 1.0 cm with adjacent inflammation; contains several tiny appendicoliths.",
+                "general": "No pleural or pericardial effusion. No retroperitoneal or mesenteric lymphadenopathy. No free fluid in the pelvis."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Microbial Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

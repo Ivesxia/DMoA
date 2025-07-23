@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "drainage of pelvic fluid collection",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Demonstrated terminal ileitis with a normal appendix, and a subsequent scan showed a periappendiceal abscess with terminal ileitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PCR test for Chlamydia trachomatis",
+            "date": "Not specified",
+            "findings": "Negative for Chlamydia trachomatis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PICC line placement",
+            "date": "Not specified",
+            "findings": "No evidence of acute cardiopulmonary disease, left subclavian PICC line extended to the mid portion of the SVC.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

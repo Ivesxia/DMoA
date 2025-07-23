@@ -1,0 +1,44 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": {
+                "WBC": 2.3,
+                "HB": 4.3,
+                "PLT": "<5",
+                "status": "severely pancytopenic"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "Not specified",
+            "findings": {
+                "description": "hypo cellular marrow without evidence of leukemia or lymphoma",
+                "cytogenetics": "normal",
+                "MGS": "positive for TET2 mutation with VAF 18"
+            },
+            "changes_over_time": "Repeat BMBX showed persistent hypoplasia."
+        },
+        {
+            "procedure_name": "C. difficile PCR",
+            "date": "Not specified",
+            "findings": {
+                "result": "Negative",
+                "reference_range": "Negative"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI Abdomen without Contrast",
+            "date": "Not specified",
+            "findings": {
+                "pleural_effusion": "small right pleural effusion",
+                "liver": "normal in signal intensity and morphology",
+                "kidneys": "no hydronephrosis, simple cysts noted bilaterally"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

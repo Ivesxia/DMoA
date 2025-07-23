@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The transplant kidney measures 11.1 cm and is located in the left lower quadrant. There is no evidence of perinephric fluid collection or hydronephrosis or focal lesion. The main renal artery and segmental arteries in the transplanted kidney have appropriate arterial waveforms with normal resistive indices. Renal vein is patent with appropriate waveform.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

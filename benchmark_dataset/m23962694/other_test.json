@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Scans reveal a pigtail drainage catheter in place in the right lobe of the liver with a small residual pocket of complex fluid measuring approximately 2.4 x 4.4 x 4.0 cm. The remainder of the liver is normal with no other fluid collections or evidence of bile duct dilatation. The portal vein is patent with hepatopetal flow.",
+            "changes_over_time": "The residual pocket of fluid is much smaller than the abscess at the time of drainage, which measured approximately 6.3 x 11.4 cm."
+        },
+        {
+            "procedure_name": "Guided drainage of liver collection",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

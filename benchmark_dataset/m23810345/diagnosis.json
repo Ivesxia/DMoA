@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with abdominal pain, initially periumbilical and later localized in the right lower quadrant (RLQ). Physical examination revealed focal tenderness in the RLQ with positive focal rebound, suggesting appendicitis. A CT scan of the abdomen and pelvis helped exclude other conditions and confirmed the main diagnosis."
+    }
+}

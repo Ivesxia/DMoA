@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Temperature": "98.6°F",
+                "Heart Rate": "75 bpm",
+                "Blood Pressure": "117/71 mmHg",
+                "Respiratory Rate": "18 breaths/min"
+            },
+            "relevant_findings": "NAD (No Acute Distress), RRR (Regular Rate and Rhythm), abdomen soft, tender most at ___ but less so ___, no peripheral edema",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

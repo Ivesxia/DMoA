@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Some tortuosity of the descending aorta. The cardiomediastinal and hilar contours are otherwise within normal limits. Lungs are well expanded and clear. There is no focal consolidation, pleural effusion or pneumothorax.",
+            "changes_over_time": "As seen on prior chest radiograph, some tortuosity of the descending aorta."
+        }
+    ]
+}

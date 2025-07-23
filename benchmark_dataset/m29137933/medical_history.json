@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Severe left lower quadrant abdominal pain.",
+        "history_of_present_illness": "The pain began 3 days before transfer, initially dull and non-radiating. On the morning of admission, the patient felt a 'pop' followed by sharp, severe pain in the left lower quadrant that spread across the abdomen and did not relent. The patient experienced chills and had a maximum temperature of ___ F.",
+        "past_medical_history": "Dyslipidemia, GERD, anxiety, depression, morbid obesity.",
+        "family_history": "Not specified.",
+        "social_history": "Tobacco use disorder."
+    }
+}

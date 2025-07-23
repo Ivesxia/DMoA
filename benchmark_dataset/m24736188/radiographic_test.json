@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Unremarkable lung bases and imaged portion of the cardiac apex; liver enhances homogeneously with no focal liver lesions; patent portal vein; unremarkable gallbladder with no stones or signs of cholecystitis; unremarkable spleen, pancreas, and bilateral adrenals; kidneys enhance homogeneously with no hydronephrosis, stones, or masses; no mesenteric or retroperitoneal lymphadenopathy; unremarkable stomach and loops of small and large bowel; calcifications in the aorta; rectosigmoid colon with fat stranding and scattered diverticula; no drainable fluid collection or microperforation noted; unremarkable appendix; normal bladder and uterus; no pelvic or inguinal lymphadenopathy; no suspicious lytic or sclerotic lesions in bones.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

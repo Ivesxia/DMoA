@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Temperature": "98.0 F",
+                "Heart Rate": "50 bpm",
+                "Blood Pressure": "148/83 mmHg",
+                "Respiratory Rate": "16 breaths/min",
+                "Oxygen Saturation": "100%"
+            },
+            "relevant_findings": {
+                "Constitutional": "Uncomfortable in appearance",
+                "HEENT": "Pupils equal, round and reactive to light; Extraocular muscles intact; Oropharynx within normal limits",
+                "Chest": "Clear to auscultation",
+                "Cardiovascular": "Bradycardic, regular; No murmurs/rubs/gallops",
+                "Abdomen": "Soft; Negative Rovsing sign; Negative lateral psoas sign; Right lower quadrant rebound tenderness",
+                "GU/Flank": "No costovertebral angle tenderness",
+                "Extr/Back": "No cyanosis, clubbing or edema",
+                "Skin": "No rash; Warm and dry",
+                "Neuro": "Alert and oriented x3; Cranial Nerves II-XII intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

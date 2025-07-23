@@ -1,0 +1,32 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C. difficile test by Illumigene DNA amplification assay",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile. (Reference Range-Negative)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Moderate bilateral pleural effusions have increased compared with the prior study with associated dependent atelectasis. Moderate cardiomegaly is unchanged.",
+                "abdomen": {
+                    "liver": "Homogenous attenuation throughout. No evidence of focal lesions. Focal hypodensity likely transient perfusional abnormality or focal fatty infiltration.",
+                    "pancreas": "Mildly atrophied with cystic lesion in the pancreatic head unchanged. Main pancreatic duct mildly prominent without frank dilatation.",
+                    "spleen": "Normal size and attenuation. Scattered punctate calcifications likely from prior granulomatous disease.",
+                    "adrenals": "Normal in size and shape.",
+                    "urinary": "Multiple left-sided renal hypodensities similar to prior study including a septated left lower pole renal cystic lesion. Atrophy of right kidney likely related to renal artery stenosis.",
+                    "gastrointestinal": "Mild apparent wall thickening of distal colon likely related to volume overload.",
+                    "pelvis": "No free fluid.",
+                    "reproductive_organs": "Right adnexal cyst unchanged.",
+                    "lymph_nodes": "No retroperitoneal or mesenteric lymphadenopathy.",
+                    "vascular": "Extensive atherosclerotic plaque present. Nonocclusive thrombus of the IVC similar to prior study but less well-visualized.",
+                    "bones": "No evidence of worrisome lesions or acute fracture. Diffuse demineralization noted."
+                },
+                "soft_tissues": "Abdominal and pelvic wall within normal limits."
+            },
+            "changes_over_time": "Moderate bilateral pleural effusions have increased compared with the prior study. The pancreas's cystic lesion remains unchanged as does the right adnexal cyst. Atrophy of the right kidney and nonocclusive thrombus of the IVC are similar to previous studies."
+        }
+    ]
+}

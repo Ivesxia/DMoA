@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": "The gallbladder is tense with two large roughly 1.8 cm gallstones with surrounding sludge, wall thickening up to 5 mm, and trace perihepatic/pericholecystic fluid. The common bile duct is normal in caliber measuring 4 mm. There is no intra- or extra-hepatic biliary duct dilatation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

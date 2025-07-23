@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C. difficile toxin A & B test",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal radiograph",
+            "date": "Not specified",
+            "findings": "Increasing dilation of the air-filled loops of small bowel, with the largest measuring 5.7 cm. Several air-fluid levels seen on the upright image, suggestive of continued partial small bowel obstruction or possibly an ileus. No evidence of free air.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

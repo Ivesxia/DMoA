@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified.",
+            "findings": "Significant interval improvement in the right basal opacity with minimal residual airspace opacity. Prominence of the bilateral hila has slightly improved. Unchanged left lower lobe atelectasis. Probable mild cardiomegaly.",
+            "changes_over_time": "Significant interval improvement in the right basal opacity."
+        }
+    ]
+}

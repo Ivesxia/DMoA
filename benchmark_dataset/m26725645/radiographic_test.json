@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Very large hiatal hernia. Heart is upper limits of normal in size. Aorta is tortuous and diffusely calcified. Pulmonary vascularity is normal. Increased opacity overlying lower thoracic spine likely corresponds to bilateral small pleural effusions and adjacent atelectasis. Compression deformity at thoracolumbar junction appears similar to recent thoracic spine radiograph.",
+            "changes_over_time": "Compression deformity at thoracolumbar junction appears similar to recent thoracic spine radiograph."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Stable large hiatal hernia, bilateral renal cysts, severe atherosclerotic disease, and a normal liver/gallbladder/pancreas.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT c-spine",
+            "date": "Not specified",
+            "findings": "Multiple thoracolumbar compression fractures.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "RUQ ultrasound",
+            "date": "Not specified",
+            "findings": "No evidence of cholecystitis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

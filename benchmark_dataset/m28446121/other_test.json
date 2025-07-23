@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "Not specified",
+            "findings": "Initial bone marrow biopsy showed >40% blasts. Subsequent biopsy revealed acute myelofibrosis with panmyelosis, a rare form of acute leukemia versus acute megakaryoblastic leukemia, with pathology favoring acute myelofibrosis based on CD34 positive expression on blast cells.",
+            "changes_over_time": "Repeat bone marrow biopsy showed ~50% cellularity (previously 20%), 5% blasts by CD4 staining, with grade ___ fibrosis unchanged from previous."
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Percutaneous Cholecystostomy Tube/Drain Placement",
+            "date": "Not specified",
+            "findings": "Interval placement of a percutaneous biliary drain through anterolateral approach. The tip of the pigtail catheter coils within the gallbladder, which is partially collapsed and intact.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CSF Test",
+            "date": "Not specified",
+            "findings": "Not applicable.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "C. difficile toxin test",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA (Reference Range-Negative).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

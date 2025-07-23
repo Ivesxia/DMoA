@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "68 bpm",
+                "blood_pressure": "126/65 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general": "no acute distress, talkative, but uncomfortable",
+                "cardiovascular": "RRR, normal S1 and S2",
+                "pulmonary": "CTAB",
+                "abdominal": "non-distended, soft, tender in epigastrium and especially at RLQ; no rebound tenderness, positive obturator sign"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

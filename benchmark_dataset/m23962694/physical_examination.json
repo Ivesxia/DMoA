@@ -1,0 +1,49 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5",
+                "heart_rate": "90",
+                "blood_pressure": "140/73",
+                "respiratory_rate": "23",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general": "Well appearing, winces with movement of his lower extremities, tremor is noticeable, easily navigates his folder of paperwork.",
+                "HEENT": "NC/AT, EOMI, sclerae anicteric, MMM, sub-lingual jaundice.",
+                "neck": "Supple.",
+                "lungs": "CTA bilat, no r/rh/wh, good air movement, resp unlabored, no accessory muscle use.",
+                "heart": "Tachycardia, RRR, no MRG, nl S1-S2.",
+                "abdomen": "Normal bowel sounds, soft, non-tender, non-distended, no rebound or guarding, no masses.",
+                "extremities": "No edema, 2+ pulses radial and dp.",
+                "neuro": "Awake, A&Ox3, CNs II-XII grossly intact, muscle strength ___ throughout, sensation grossly intact throughout. Tremor."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.7",
+                "heart_rate": "112",
+                "blood_pressure": "131/63",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Prior to transfer, vitals showed an increase in heart rate and a decrease in blood pressure."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98",
+                "heart_rate": "86",
+                "blood_pressure": "143/60",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

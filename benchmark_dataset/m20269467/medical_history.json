@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute abdominal pain",
+        "history_of_present_illness": "Acute onset of abdominal pain over the past 6 hours, constant, located in epigastrium/RUQ, does not radiate.",
+        "past_medical_history": "History of hypertension (HTN), hypercholesterolemia, gout, arthritis, nephrolithiasis, basal cell carcinoma (face).",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

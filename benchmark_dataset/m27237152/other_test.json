@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT-guided percutaneous intraabdominal abscess drain placement",
+            "date": "Not specified",
+            "findings": "Fluid collection in the mid abdomen just below the level of the kidneys with a drainage catheter in satisfactory position.",
+            "changes_over_time": "The fluid collection continues to decrease in size. It measures 69 x 25 mm, previously measuring 92 x 37 mm. Multiple interloop fluid collections have also slightly decreased in size from prior imaging."
+        },
+        {
+            "procedure_name": "MRI (ABDOMEN & PELVIS) W&W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The diameter of the appendix remains at the upper limits of normal, measuring 7 mm, with fluid within the appendix and ongoing stranding in the right lower quadrant. No new fluid collections identified.",
+            "changes_over_time": "There are ill-defined inflammatory changes which are similar to prior imaging. Mild hyperenhancement of the wall of the small bowel and terminal ileum appeared, consistent with secondary inflammation and unchanged compared to previous imaging."
+        }
+    ]
+}

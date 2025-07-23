@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test (LFT)",
+            "date": "Not specified",
+            "findings": "Values at presentation were elevated, specific values not disclosed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bilirubin Test",
+            "date": "Not specified",
+            "findings": "9.5 mg/dL, which is within the normal range (ref range 8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-Ray",
+            "date": "Not specified",
+            "findings": "Upright PA and lateral views show tiny bilateral pleural effusions, enlarged cardiac silhouette unchanged from prior, extreme scoliosis, low left lung volumes consistent with previous left lobectomy, flattened diaphragms, no pneumothorax or focal consolidation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

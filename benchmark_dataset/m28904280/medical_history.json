@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain in right upper quadrant.",
+        "history_of_present_illness": "The patient experienced abdominal pain for 2 days, starting after eating hot dogs for dinner on the night prior to admission. The pain was described as crampy/achy and persistent, with one brief episode of relief during the morning of admission. The pain worsened after eating cereal, accompanied by several episodes of non-bloody, bilious emesis. Pain intensity increased from ___ to ___ after receiving IV dilaudid. No prior episodes of similar pain were reported.",
+        "past_medical_history": "Type 2 Diabetes Mellitus (DM2), Hypertension (HTN), Hyperlipidemia (HLD), Benign Prostatic Hyperplasia (BPH).",
+        "family_history": "Father with cerebrovascular accident (CVA), mother with colon cancer at age ___.",
+        "social_history": "Not specified."
+    }
+}

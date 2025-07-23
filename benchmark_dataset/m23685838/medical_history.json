@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute onset of abdominal pain.",
+        "history_of_present_illness": "The patient reports an acute onset of cramping pain in her right upper quadrant (RUQ) beginning around 11:00 a.m. after breakfast. Initially, the pain was mild in intensity but became increasingly severe throughout the day, with associated nausea but no vomiting. The patient experienced one normal bowel movement that morning, denies diarrhea, constipation, and has reported subjective chills.",
+        "past_medical_history": "Lichen Sclerosis, Eczema, Mild Asthma, Seasonal Allergies, GERD, s/p Right Breast Biopsy (Benign), s/p Hysterectomy for Adenomyosis, Fibromyalgia, IBS.",
+        "family_history": "No family history of pancreatic disease or gallstones. Father has a history of alcoholism. Mother died of CAD/CHF.",
+        "social_history": "The patient typically consumes alcoholic beverages, approximately ___ drinks per night. She reported having two martinis the night before admission. Denies any escalation of alcohol consumption and has no personal or family history of prior pancreatic pathology."
+    }
+}

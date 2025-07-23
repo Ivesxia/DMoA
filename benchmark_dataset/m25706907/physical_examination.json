@@ -1,0 +1,51 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "102.2°F",
+                "heart_rate": "126 bpm",
+                "blood_pressure": "113/71 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "Patient not in acute distress.",
+                "HEENT": "Anicteric sclera, pink conjunctiva, mucous membranes moist, good dentition, posterior oropharynx erythematous.",
+                "neck": "Nontender, supple neck, no lymphadenopathy.",
+                "cardiac": "Regular rate and rhythm, tachycardic.",
+                "lung": "Crackles at left base, clear to auscultation otherwise; distant breath sounds.",
+                "abdomen": "Nondistended, normal bowel sounds, nontender in all quadrants.",
+                "GU": "No ulcers or lesions on penis shaft or head; meatus clear; prostate examination refused.",
+                "extremities": "No cyanosis, clubbing or edema, moving all four extremities with purpose.",
+                "musculoskeletal": "No spinal tenderness, positive costovertebral angle tenderness left greater than right.",
+                "neurological": "Cranial nerves II-XII intact."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.6°F",
+                "heart_rate": "111 bpm",
+                "blood_pressure": "140/79 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.0°F",
+                "heart_rate": "98 bpm",
+                "blood_pressure": "141/73 mmHg",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Patient was observed overnight for tachycardia; vital signs showed improvement post initial observation."
+        }
+    ]
+}

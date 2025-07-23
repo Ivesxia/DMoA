@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ERCP BILIARY&PANCREAS BY GI UNIT",
+            "date": "Not specified",
+            "findings": "Normal course and caliber of the pancreatic duct. Normal course and caliber of the common bile duct, common hepatic duct, and right and left hepatic ducts with no evidence of filling defects. Some stool within the colon. Linear densities along the left spine likely due to vascular calcification.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

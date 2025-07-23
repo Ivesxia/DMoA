@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Aspiration of pancreatic cyst",
+            "date": "Not specified",
+            "findings": "Fluid sent off for CEA and amylase.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Several findings including: a 5-mm calcified granuloma, fibrotic changes, coronary artery calcifications, and unchanged lesions within the pancreas.",
+            "changes_over_time": "Compared to the prior study, there has been essential resolution of the marked bowel dilatation."
+        }
+    ]
+}

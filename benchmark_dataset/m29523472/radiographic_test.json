@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Fluid-filled appendix with wall thickening and hyperemia, measures 1.1 cm in largest diameter, compatible with acute appendicitis. No evidence of focal lesions in the liver, pancreas, spleen, or adrenal glands. No hydronephrosis or perinephric abnormality. Normal appearing stomach, small bowel, colon, and rectum. No free fluid in the pelvis. No retroperitoneal or mesenteric lymphadenopathy. No abdominal aortic aneurysm or osseous lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

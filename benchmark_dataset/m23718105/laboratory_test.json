@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is dilated measuring up to 14 mm with surrounding fat stranding. No extraluminal air or fluid collection is seen. Within the liver, several hypodensities measuring up to 11 mm in the hepatic dome are incompletely characterized. The right kidney contains a 10-mm hypodensity, most compatible with a simple cyst. The gallbladder is mildly distended without evidence of stones. Note of fluid-filled loops of large bowel extending from cecum to hepatic flexure.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Specimen Holding",
+            "date": "Not specified",
+            "findings": "Specimen to be held for 48 hours and then discarded.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

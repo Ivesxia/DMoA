@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Lungs are clear. Heart size is normal without pericardial effusion. Liver is homogeneous in attenuation without discrete masses or lesions. Gallbladder is contracted with a 1.1 cm gallstone. A small hiatal hernia is evident. In the right upper quadrant, there is a large 7.7 x 5.3 cm gas and fluid collection consistent with abscess from a ruptured appendix. At least one appendicolith is visualized. Prominent mesenteric lymph nodes are identified. The pancreas shows interdigitating fat but no concerning mass. Multiple rounded hypodensities are evident in the bilateral kidneys, consistent with simple renal cysts. The bladder is mildly distended and normal. Coarse calcifications are identified within the prostate. Atherosclerotic calcifications are evident throughout the abdominal aorta.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

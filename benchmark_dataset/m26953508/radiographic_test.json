@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Portable abdominal radiograph",
+            "date": "Not specified",
+            "findings": "Surgical staples and an abdominal drain are in place. There is minimal distention of the small bowel with multiple air-fluid levels. There is also retained contrast within the ascending colon. There is no free air or pneumatosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

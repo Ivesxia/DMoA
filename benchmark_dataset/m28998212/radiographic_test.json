@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Signs suggesting moderate fluid overload; size of cardiac silhouette unchanged; newly occurred parenchymal opacity at the medial bases of the right lung suggestive for developing pneumonia or aspiration; no other focal parenchymal opacities newly appeared; hilar and mediastinal contours unchanged.",
+            "changes_over_time": "Unchanged signs suggesting moderate fluid overload; size of cardiac silhouette unchanged; newly occurred parenchymal opacity at the medial bases of the right lung."
+        }
+    ]
+}

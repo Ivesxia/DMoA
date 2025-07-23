@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "54 bpm",
+                "blood_pressure": "116/44 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": "General: A&O x3, NAD. HEENT: AT, NC, sclera non icteric. Heart: RRR, normal S1, S2. Lungs: CTA B/L. Abdomen: soft, ND, diffuse discomfort to palpation. Extremities: no edema.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood glucose",
+            "date": "Not specified",
+            "findings": "Hyperglycemia to 1008 mg/dL; initial BG was 420 mg/dL in ED.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HCO3",
+            "date": "Not specified",
+            "findings": "10 mEq/L; Anion gap of 31.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "3.2 mg/dL; indicating acute renal failure (ARF).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CK",
+            "date": "5 am",
+            "findings": "45 U/L.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Troponin-I",
+            "date": "5 am",
+            "findings": "0.03 ng/mL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "WBC count (leukocytosis)",
+            "date": "Not specified",
+            "findings": "13.9 x 10^9/L.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "1373 U/L.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "Normal liver, gallbladder, and no hydronephrosis. A benign-appearing left interpolar renal cyst noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

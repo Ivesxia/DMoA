@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Numerous filling defects throughout the common duct, with moderate diffuse dilatation of the common duct measuring up to 1.5 cm. Placement of a plastic common bile duct stent observed, with residual filling defects adjacent to the stent, consistent with retained stones.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

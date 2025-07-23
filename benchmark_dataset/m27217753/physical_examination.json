@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2 °F",
+                "heart_rate": "79 bpm",
+                "blood_pressure": "123/72 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "cardiovascular": "Regular rate and rhythm",
+                "abdominal": "Soft, nondistended, tenderness to palpation in the right lower quadrant",
+                "extremities": "No cyanosis, clubbing, or edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

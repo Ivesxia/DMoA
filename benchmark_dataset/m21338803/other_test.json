@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "RRR",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is echogenic relative to the right kidney, consistent with fatty infiltration. There is no intra- or extra-hepatic biliary ductal dilation. The common duct measures 5 mm. The portal vein is patent, with forward flow. There are small layering gallstones within the gallbladder. Slight gallbladder wall edema is most likely inflammation secondary to ____. The head of the pancreas is normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

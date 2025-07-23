@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Cannulation of the common bile duct with subsequent opacification. At least one irregular filling defect just distal to the cystic duct insertion within the common bile duct. A second filling defect located more distally is also likely. The visualized portions of the intrahepatic ducts are unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

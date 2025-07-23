@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "PCR for Neisseria Gonorrhoeae",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria Gonorrhoeae by PCR.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is normal in echotexture without focal mass. No intra- or extra-hepatic biliary duct dilation. The common bile duct measures 4.0 mm. Normal hepatopetal flow within the main portal vein. Multiple small gallstones and gravel layering within the gallbladder. No gallbladder wall edema or pericholecystic fluid. The pancreas is not evaluated due to overlying bowel gas. No ascites seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

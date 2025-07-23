@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC 6.8 with 12% bands",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "ALT 993, AST 1215, tbili 1.93, ALP 303",
+            "changes_over_time": "AST/ALT changed to 873/826, tbili/ALP 3.1/289"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 2483",
+            "changes_over_time": "Lipase changed to 2304"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate 2.7",
+            "changes_over_time": "Lactate changed to 2.4"
+        },
+        {
+            "procedure_name": "Ultrasound (Liver or Gallbladder)",
+            "date": "Not specified",
+            "findings": "Intrahepatic biliary ductal dilation, CBD dilation up to 9 mm, two stones in the CBD (largest measuring 1.1 x 1.4 x 0.7 cm)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

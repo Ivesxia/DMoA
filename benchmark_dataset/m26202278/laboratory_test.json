@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Minimal dependent atelectasis in the left lower lobe. No evidence of pleural or pericardial effusion. A hypodense lesion measures 0.9 x 0.7 cm in segment 7, may represent a biliary hamartoma, cyst, or hemangioma. No evidence of biliary dilatation. The appendix is retrocecal position, fluid-filled, and dilated measuring a maximum diameter of 1.2 cm with adjacent fatty stranding. No adjacent fluid collection or extraluminal air.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial culture",
+            "date": "Not specified",
+            "findings": "Mixed bacterial flora (>= 3 colony types), consistent with skin and/or genital contamination.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation study",
+            "date": "Not specified",
+            "findings": "29.4 sec (specific test unspecified, possibly PT or aPTT).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

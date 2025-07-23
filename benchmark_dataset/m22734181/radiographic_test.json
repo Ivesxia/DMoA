@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CTA CHEST",
+            "date": "Not specified",
+            "findings": "Pulmonary vasculature is well opacified without filling defect indicating a pulmonary embolus. The thoracic aorta is normal in caliber without evidence of dissection or intramural hematoma. Coronary artery calcifications are present. A partially calcified soft tissue nodule in the right costophrenic fat is stable. Mild dependent atelectasis is noted. There is mild bronchial wall thickening in the lower lobes suggesting small airways disease. No consolidations or masses, no pleural effusion or pneumothorax.",
+            "changes_over_time": "A partially calcified soft tissue nodule in the right costophrenic fat is stable from prior imaging."
+        },
+        {
+            "procedure_name": "CT ABDOMEN/PELVIS",
+            "date": "Not specified",
+            "findings": "Edematous pancreas with stranding, no peripancreatic fluid collection, no additional acute process.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

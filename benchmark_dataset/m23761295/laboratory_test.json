@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Normal liver, pancreas, kidneys; evidence of inflammation in the right lower quadrant with appendix measuring up to 1.2 cm with surrounding fluid and edema; a 0.6-cm appendicolith at the base of the appendix.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.8°F",
+                "heart_rate": "104 bpm",
+                "blood_pressure": "141/90 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": "NAD, AAOx3, tachycardic, no murmurs appreciated, clear to auscultation, abdomen soft, non-distended, non-tender, extremities not edematous",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

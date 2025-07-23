@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Culture screening",
+            "date": "Not specified",
+            "findings": "Mixed bacterial flora-culture screened for B. fragilis, C. perfringens, and C. septicum. None isolated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "New small bilateral effusions. Moderate cardiomegaly is unchanged. 3.9 x 2.6 cm hypodensity in posterior right dome of the liver likely represents cyst. Multiple subcentimeter hypodensities in both kidneys likely represent cysts. No abdominal free fluid or free air.",
+            "changes_over_time": "Unchanged lymphadenopathy measuring up to 1.3 cm; cecal wall thickening to 1 cm is unchanged."
+        }
+    ]
+}

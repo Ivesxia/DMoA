@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung bases appear clear aside from minor dependent changes. The liver is hypodense consistent with fatty infiltration. No biliary dilatation. Gallbladder, pancreas, and adrenal glands appear within normal limits. Simple cystic structure in the spleen measures up to 29 x 22 mm. The kidneys appear within normal limits. Stomach is nondistended. Proximal small bowel appears within normal limits. Marked inflammatory change about diverticula along the lower sigmoid. Ill-defined fluid spanning over about 3 cm, potentially indicating the beginnings of abscess formation with suggested perforation of the sigmoid and minimal regional free air. Mildly thickened wall over a fairly long segment in the region of sigmoid inflammation. Uterus bulky, likely due to fibroids. Adnexa unremarkable. Distal ureters and bladder appear within normal limits. No lymphadenopathy or ascites. Major mesenteric arteries and veins appear patent. No suspicious lytic or blastic bone lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

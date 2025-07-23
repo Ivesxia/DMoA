@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain in the left lower quadrant for 48 hours.",
+        "history_of_present_illness": "The patient developed abdominal pain in the left lower quadrant 48 hours prior to admission. The pain is more prominent on the left side and is accompanied by bloating. She reports intermittent constipation and her last bowel movement was 36 hours ago. The patient has been able to tolerate liquids but has no appetite. Low-grade fever of 100.7°F was noted yesterday. There are no reports of nausea, vomiting, hematochezia, or bright red blood per rectum.",
+        "past_medical_history": "Asthma, previous c-section.",
+        "family_history": "Father with diverticulosis and stroke; mother with CHF and HTN.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Transabdominal Ultrasound",
+            "date": "Not specified",
+            "findings": "The uterus measures 5.2 x 3.1 x 4.8 cm. A trace of fluid is confirmed within the endometrial canal. No pelvic soft tissue mass or fluid collection is identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endovaginal Ultrasound",
+            "date": "Not specified",
+            "findings": "The patient was unable to tolerate this exam.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild atelectasis at the lung bases, markedly distended gallbladder with a calcified gallstone in the neck, pericholecystic fat stranding/fluid, atrophic pancreas, unremarkable spleen and adrenal glands, exophytic simple-appearing cyst in right kidney about 2.4 x 2.5 cm, small hypodensity in lower pole of left kidney, small nodule in left adrenal gland about 11 mm, normal appendix, moderate-to-large fecal load in colon without obstruction, right adnexal cystic structure about 3.2 x 3.7 cm unchanged from prior CT, free pelvic fluid, stable dystrophic calcifications along atrophic uterus, partially distended urinary bladder.",
+            "changes_over_time": "Unchanged right adnexal cystic structure, and stable dystrophic calcifications along the uterus."
+        }
+    ]
+}

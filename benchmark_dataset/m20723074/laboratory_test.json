@@ -1,0 +1,36 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "echogenicity": "diffusely echogenic",
+                    "focal_fatty_sparing": "near the gallbladder fossa",
+                    "contour": "smooth",
+                    "hypoechoic_lesion": {
+                        "location": "left lobe near the dome",
+                        "size": "1.4 x 1.2 cm",
+                        "texture": "slightly heterogeneous",
+                        "internal_flow": "demonstrates internal flow"
+                    }
+                },
+                "main_portal_vein": "patent with hepatopetal flow",
+                "ascites": "no ascites",
+                "bile_ducts": {
+                    "intrahepatic_biliary_dilation": "no",
+                    "CBD_measurement": "4 mm"
+                },
+                "gallbladder": "Cholelithiasis without gallbladder wall thickening",
+                "pancreas": "not well visualized, largely obscured by overlying bowel gas",
+                "spleen": {
+                    "echogenicity": "normal",
+                    "measurement": "11.5 cm"
+                },
+                "kidneys": "limited views of the right kidney are unremarkable",
+                "retroperitoneum": "visualized portions of the IVC are within normal limits"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

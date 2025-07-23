@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Coagulation Test",
+            "date": "Not specified",
+            "findings": "27.7 sec (Normal range: 22.0 - 35.0 sec)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdomen Ultrasound (Complete Study)",
+            "date": "Not specified",
+            "findings": "Liver echotexture and echogenicity normal. Portal vein patent with normal hepatopetal flow. Common bile duct measures 6 mm. Gallbladder slightly distended with mild-to-moderate wall thickening and multiple small stones. Kidneys normal in size (Right: 9.7 cm, Left: 10.6 cm), spleen normal (10.1 cm). No evidence of ascites.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

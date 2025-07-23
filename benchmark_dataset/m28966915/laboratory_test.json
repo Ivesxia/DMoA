@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Creatinine was 3.6 (up from 1.4)",
+            "changes_over_time": "Creatinine levels rose from 1.4 to 3.6"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "UA was negative, but urine output was darker later in the day.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Punctate stone in the gallbladder, 3-cm hypoechoic focus at the upper pole of the right kidney, fat stranding about the sigmoid colon, multiple scattered sigmoid diverticula.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

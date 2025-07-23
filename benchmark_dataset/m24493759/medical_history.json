@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Nausea and vomiting.",
+        "history_of_present_illness": "Symptoms started abruptly at 2 PM on [date not specified]. Accompanied by abdominal pain in right upper quadrant (RUQ) and right lower quadrant (RLQ), radiating to right flank. Pain was dull alternating with sharp pain, more intense and similar to pain experienced with cholecystitis last month. Patient vomited 10 times. Some alleviation in nausea and pain was noted since arrival to the ED. No associated fever, shortness of breath, or dysuria.",
+        "past_medical_history": "Recurrent DVT due to Factor V Leiden on Coumadin, prior Clostridium difficile colitis, cholecystitis status post percutaneous transhepatic cholangiogram, alpha thalassemia, monoclonal gammopathy of undetermined significance (MGUS), possible immune thrombocytopenic purpura (ITP), peptic ulcer disease status post partial gastrectomy in the 1960s, benign prostatic hyperplasia status post transurethral resection of the prostate (TURP), hypertension, hyperlipidemia, congenital blindness.",
+        "family_history": "Mother had diabetes and obesity.",
+        "social_history": "Not specified."
+    }
+}

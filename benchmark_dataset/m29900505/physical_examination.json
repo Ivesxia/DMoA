@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.4 °F",
+                "pulse": "121 bpm",
+                "blood_pressure": "167/89 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "Cooperative, not in distress",
+                "neurological": "Oriented, awake, alert, no global or local deficits",
+                "HEENT": "No thyromegaly, no lymphadenopathy, no carotid bruit",
+                "chest": "Clear bilaterally",
+                "cardiac": "S1 S2 audible, no murmurs appreciated",
+                "abdomen": "Localized tenderness in RLQ, non-distended, bowel sounds present, guarding present, rebound tenderness present, no herniation, no masses",
+                "extremities": "No edema, distal pulses palpable +2"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

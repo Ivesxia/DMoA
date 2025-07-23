@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.8°F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "182/119 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Young, chronically sick appearing man, in obvious discomfort.",
+                "HEENT": "No conjunctival pallor. No icterus. Dry mucous membranes. OP clear.",
+                "neck": "Supple, No LAD, No JVD. No thyromegaly.",
+                "cardiovascular": "RRR. nl S1, S2. No murmurs, rubs.",
+                "lungs": "CTAB, good BS.",
+                "abdominal": "+ BS in all 4 quadrants. TTP in RLQ and RUQ. Rebound tenderness in RUQ. Non-distended.",
+                "extremities": "WWP, NO CCE. 1+ DP pulses.",
+                "skin": "No rashes/lesions, ecchymoses. No spider angiomata, no gynecomastia.",
+                "neurologic": "A&Ox3. Appropriate. CN grossly intact. Preserved sensation throughout. Strength throughout. Reflexes, equal.",
+                "psych": "Listens and responds to questions appropriately, pleasant."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

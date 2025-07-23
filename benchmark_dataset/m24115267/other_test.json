@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "RUQ Ultrasound",
+            "date": "Not specified",
+            "findings": "Distended gallbladder with stones and sludge, borderline gallbladder wall thickening, mild pericholecystic fluid, negative Sonographic findings.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "New opacification of the right lung base suggesting moderate right pleural effusion, blunting of the left costophrenic angle compatible with a small left pleural effusion, streaky opacification of the left lung base likely reflecting atelectasis.",
+            "changes_over_time": "Comparison to a remote prior study noted new findings."
+        }
+    ]
+}

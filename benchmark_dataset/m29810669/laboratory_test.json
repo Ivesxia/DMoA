@@ -1,0 +1,10 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver function test (ALT)",
+            "date": "Not specified",
+            "findings": "201.0 IU/L (Reference range: 94.0 - 250.0 IU/L) - elevated",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

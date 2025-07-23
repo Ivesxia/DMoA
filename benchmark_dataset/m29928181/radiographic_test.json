@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Extensive fat stranding and fluid surrounding a focal segment of colon with associated wall edema and diverticula noted, compatible with a focal segment of colitis. No discrete abnormal fluid collections concerning for abscess formation. Other than dependent atelectasis, the lung bases are clear without consolidations, pleural effusions, or pulmonary nodules. The liver, gallbladder, spleen, both adrenal glands, both kidneys are unremarkable, except for a subcentimeter hypodense lesion. No intra-abdominal free air or mesenteric/retroperitoneal lymphadenopathy. Small amount of pelvic free fluid noted. Rectum, sigmoid colon, bladder, uterus, and bilateral adnexa are unremarkable. Visualized osseous structures are unremarkable with minimal degenerative changes.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

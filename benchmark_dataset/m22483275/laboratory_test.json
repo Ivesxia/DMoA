@@ -1,0 +1,10 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "PA and lateral views of the chest demonstrate clear well-expanded lungs without focal consolidation, effusion, or pneumothorax. The heart and mediastinal contours are normal. Bony structures are intact. No free air below the right hemidiaphragm is seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

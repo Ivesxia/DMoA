@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Rises in LFTs noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP BILIARY&PANCREAS BY GI UNIT",
+            "date": "Not specified",
+            "findings": "Mild-to-moderate diffuse dilation of the intra- and extra-hepatic biliary tree. Shelf-like tapering of the common bile duct near the ampulla. Placement of a biliary stent is noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

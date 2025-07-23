@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain, right side greater than left, and nausea.",
+        "history_of_present_illness": "Symptoms began 1 day prior to the urgent care visit. The abdominal pain remained until the patient decided to seek care the following day. The patient has mild chills, one bowel movement, but reported no fevers, vomiting, or diarrhea.",
+        "past_medical_history": "Diabetes, Hypertension.",
+        "family_history": "Not specified.",
+        "social_history": "Tobacco use."
+    }
+}

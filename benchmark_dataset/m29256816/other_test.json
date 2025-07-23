@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "AST 980, ALT 1122; ALT 1251, AST 919; T-bili 5.1 (3.3 previously); lipase 431; creatinine 1.7 (baseline 1.2-1.5)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RUQ Ultrasound",
+            "date": "Not specified",
+            "findings": "Nonspecific gallbladder distention with stones, no bile duct dilation, echogenic liver compatible with fatty deposition.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis without Contrast",
+            "date": "Not specified",
+            "findings": "Minimal bibasilar atelectasis, liver/spleen/adrenals normal; gallbladder normal with several dense gallstones; mild inflammatory fat stranding around the pancreas; moderate free fluid in pelvis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

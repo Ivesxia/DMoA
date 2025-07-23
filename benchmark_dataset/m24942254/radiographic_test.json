@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Dilation of the common bile duct (CBD) and pancreatic duct, suggestion of fat stranding near the cecum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RUQ ultrasound",
+            "date": "Not specified",
+            "findings": "Ductal dilation consistent with previous CT.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Minimal diffuse dilatation of the extrahepatic biliary system; no intrahepatic biliary dilatation; no filling defects identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

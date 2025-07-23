@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Isolated T-wave inversion in lead III.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "5.1 x 4.4 x 3.7 cm heterogeneous mass centered over the second portion of the duodenum, displacing the pancreatic head and duodenal lumen. A 6 mm T2 hyperintense cystic structure in the tail of the pancreas, likely representing a side branch IPMN. No significant adjacent lymphadenopathy identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Trop (Troponin)",
+            "date": "Not specified",
+            "findings": "Negative at 1400.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

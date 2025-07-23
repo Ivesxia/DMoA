@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "This culture contains mixed bacterial types (>=3). Any growth of P.aeruginosa, S.aureus and beta hemolytic streptococci will be reported. If these bacteria are not reported, they are not present in this culture.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT HEAD W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Chronic lacune is seen on the right. Brain atrophy is noted. No midline shift or hydrocephalus. No hemorrhage.",
+            "changes_over_time": "No change in appearance compared with prior CT."
+        }
+    ]
+}

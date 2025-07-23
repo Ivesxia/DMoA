@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Arthrocentesis Right Knee",
+            "date": "Not specified",
+            "findings": "Edema, erythema, and minimal warmth in the right knee with mild tenderness to palpation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipid Panel",
+            "date": "Not specified",
+            "findings": "Critically elevated lipase >3000 initially; later reported lipase 1837.",
+            "changes_over_time": "Lipase levels decreased from >3000 to 1837."
+        },
+        {
+            "procedure_name": "Bipap",
+            "date": "Not specified",
+            "findings": "Oxygen saturation dropped to 90% on NRB mask and improved to 98% on Bipap.",
+            "changes_over_time": "Oxygen saturation improved from 90% to 98% after starting Bipap."
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "LLB haziness but no definite effusion or interstitial edema.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CXR comparison",
+            "date": "Not specified",
+            "findings": "Bibasilar atelectatic changes persist; no acute focal pneumonia.",
+            "changes_over_time": "Slightly better inspiration noted compared to the previous study."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory examination for POLYMORPHONUCLEAR LEUKOCYTES",
+            "date": "Not specified",
+            "findings": "1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood test for creatinine",
+            "date": "Not specified",
+            "findings": "3.3 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "There is cardiomegaly. There is increased pulmonary interstitial marking suggestive of fluid overload. There is a left-sided AICD. There are more confluent opacities in the lower bases; however, this may be due to the pulmonary edema. No pneumothoraces are identified.",
+            "changes_over_time": "Comparison is made to the previous study from [not specified]."
+        }
+    ]
+}

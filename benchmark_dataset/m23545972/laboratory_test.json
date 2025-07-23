@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Polymorphonuclear leukocytes examination",
+            "date": "Not specified",
+            "findings": "1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in echotexture without focal lesions. There is no intrahepatic or extrahepatic biliary ductal dilatation. The CBD is normal and measures 4 mm in diameter. There is normal hepatopetal portal venous flow. Numerous stones are noted in the gallbladder which is minimally distended, but the gallbladder wall is markedly thickened and edematous, measuring up to 10 mm in diameter. No perihepatic or pericholecystic fluid. Small lymph nodes in the porta hepatis measure up to 7 mm in short axis, not pathologically enlarged, likely reactive.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

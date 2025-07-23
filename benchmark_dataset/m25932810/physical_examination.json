@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "79 bpm",
+                "blood_pressure": "151/83 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "97% on room air",
+                "fsbg": "171 mg/dL"
+            },
+            "relevant_findings": {
+                "general": "Obese man, uncomfortable but no acute distress (NAD).",
+                "cardiovascular": "Regular rate and rhythm, S1S2 normal.",
+                "chest": "Symmetric chest rise, no respiratory distress.",
+                "abdomen": "Soft, obese abdomen, nondistended, with focal tenderness in the RUQ; no rebound or guarding; no masses or organomegaly palpable.",
+                "extremities": "Warm, well-perfused."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

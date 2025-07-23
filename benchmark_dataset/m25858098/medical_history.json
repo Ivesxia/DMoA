@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Crampy, spasmodic right flank/right lower quadrant pain.",
+        "history_of_present_illness": "The patient experienced crampy, spasmodic right flank/right lower quadrant pain for ___ days. The pain is always present but comes in waves, and she states she has never had pain like this before. She reports some intermittent chills, but no nausea, vomiting, dysuria, urinary symptoms, or changes in bowel habits. There is no history of trauma.",
+        "past_medical_history": "Microscopic hematuria, recurrent urinary tract infections, chronic lower back pain, hypertension, hyperlipidemia, and depression.",
+        "family_history": "No family history of kidney stones or inflammatory bowel disease.",
+        "social_history": "Not specified."
+    }
+}

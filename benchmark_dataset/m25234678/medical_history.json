@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right-sided abdominal pain with nausea and vomiting.",
+        "history_of_present_illness": "Symptoms began approximately 8 hours prior to presentation with gradual onset. The pain is moderate in severity and associated with nausea and vomiting. Patient has a history of similar pain from a ruptured appendix ___ years ago.",
+        "past_medical_history": "History of a ruptured appendix that was nonoperative ___ years prior to arrival.",
+        "family_history": "Father with prostate cancer, mother with breast cancer.",
+        "social_history": "Not specified."
+    }
+}

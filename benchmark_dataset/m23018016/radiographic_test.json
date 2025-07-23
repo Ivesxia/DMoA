@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Significant hepatic steatosis and hepatomegaly, elongated gallbladder with mild pericholecystic fluid and edema in the gallbladder wall, gallstone present, normal pancreas, normal kidneys with no hydronephrosis, no dilation of biliary tree, no ascites.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RUQ US",
+            "date": "Not specified",
+            "findings": "CBD 4mm, GB with mobile 2.5mm stone, pericholecystic fluid, GB wall thickness 3.7mm, + sonographic ___ sign, no evidence of choledocholithiasis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

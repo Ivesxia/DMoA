@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Lung volumes are improved with residual mild elevation of the right hemidiaphragm. Mild pulmonary edema has resolved. Right pleural effusion is small if any. There is no pneumothorax. Mediastinal and cardiac contour are normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood test",
+            "date": "Not specified",
+            "findings": "8.8 mg/dL, within normal range (ref range 8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of the appendix",
+            "date": "Not specified",
+            "findings": "A tubular, blind-ending structure compatible with the appendix. The appendix is noncompressible with a thickened wall, dilated to approximately 1.2 cm in transverse diameter. The lumen is distended, and the appendiceal wall layers are distinct, creating a target-like appearance. No significant periappendiceal fluid is seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

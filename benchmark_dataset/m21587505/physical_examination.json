@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "101 bpm",
+                "blood_pressure": "107/60 mmHg",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "94% on 2L NC"
+            },
+            "relevant_findings": {
+                "general": "A&O, uncomfortable",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "cardiovascular": "Tachycardic, No murmurs/gallops/rubs",
+                "pulmonary": "Clear to auscultation bilaterally, No wheezes/rales/rhonchi",
+                "abdominal": "Soft, mildly distended, TTP prominently over RLQ/LLQ/epigastrium, no rebound, positive guarding, no palpable masses",
+                "DRE": "Normal tone, no gross or occult blood",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

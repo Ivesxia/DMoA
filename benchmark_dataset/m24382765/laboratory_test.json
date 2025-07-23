@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "ESCHERICHIA COLI detected",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in shape and contour; normal echogenicity; no focal hepatic lesions; common bile duct measures 3 mm; gallbladder moderately distended with sludge; no evidence of stones; no gallbladder wall thickening; trace amount of pericholecystic fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

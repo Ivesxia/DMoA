@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder is filled with numerous shadowing gallstones, with edematous wall thickening up to approximately 1 cm. The hepatic parenchyma appears within normal limits. There is no focal liver mass or ascites. There is mild intrahepatic biliary ductal prominence but no extrahepatic biliary dilation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

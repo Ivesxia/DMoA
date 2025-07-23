@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Portable AP Chest X-ray",
+            "date": "Not specified",
+            "findings": "New right-sided PICC line ending in the right breast. Mediastinal and cardiac contours are normal. Minimal left basal atelectasis with a new small right basal atelectatic band. No pleural effusion or pneumothorax.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

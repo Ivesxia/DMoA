@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Peaked T waves.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "No MRSA isolated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound (Liver or Gallbladder)",
+            "date": "Not specified",
+            "findings": "The liver demonstrates no focal or textural abnormalities. The gallbladder is normal without gallstones. A 1.1 x 0.9 x 0.7 cm avascular solid lesion associated with the upper pole of the left kidney, which was not seen on the prior ultrasound.",
+            "changes_over_time": "The avascular solid lesion was not seen on the prior ultrasound."
+        }
+    ]
+}

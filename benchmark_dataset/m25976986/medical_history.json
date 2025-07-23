@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient developed abdominal pain suddenly at approximately 8 pm the night prior to admission. The pain was constant and progressively worsened until he sought emergency care. It initially improved for several hours after onset but returned worse after eating. He reports that this pain occurred approximately 2 weeks ago, lasting for 45 minutes but resolved without intervention.",
+        "past_medical_history": "1. Benign Hypertension 2. Obesity 3. Atrial Fibrillation 4. COPD 5. GERD 6. Alcohol Abuse",
+        "family_history": "Mother - COPD, Father - COPD",
+        "social_history": "Not specified"
+    }
+}

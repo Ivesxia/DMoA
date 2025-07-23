@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT C/A/P with contrast",
+            "date": "Not specified",
+            "findings": "Mild central intrahepatic biliary dilation and pericholecystic fluid.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT Chest",
+            "date": "Not specified",
+            "findings": "No pulmonary embolism.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "RUQ ultrasound",
+            "date": "Not specified",
+            "findings": "Cholelithiasis, gallstones in gallbladder neck, no gallbladder wall edema, no pericholecystic fluid, and 6mm CBD.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Liver is diffusely echogenic, smooth contour, no focal liver mass, mild intrahepatic biliary ductal dilatation, 6 mm CBD, cholelithiasis with gallstones in the gallbladder neck, no gallbladder wall edema or pericholecystic fluid.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

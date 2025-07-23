@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized lung bases are clear with no focal consolidation or pleural effusion. The visualized heart and pericardium are unremarkable. The liver, gallbladder, spleen, pancreas, and bilateral adrenal glands are within normal limits. Both kidneys enhance and excrete contrast symmetrically without evidence of hydronephrosis or renal calculi. The appendix appears fluid filled with mild mucosal hyperemia and transverse diameter of approximately 12 mm with surrounding periappendiceal stranding. There is mild thickening at the base of the cecum. There is no free air within the abdomen. Trace free fluid is noted within the pelvis. Retroperitoneal and mesenteric lymph nodes do not meet CT size criteria for pathologic enlargement. The bladder, distal ureters, rectum, and sigmoid colon are unremarkable. The visualized osseous structures show no focal lytic or sclerotic lesion suspicious for malignancy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized portions of the lung bases are free of nodules, consolidations, or effusions. The liver enhances homogeneously with no intra- or extra-hepatic biliary dilatation. The gallbladder is non-distended with no pericholecystic fluid or wall thickening. The pancreas, spleen, and adrenal glands are normal. The kidneys enhance and excrete contrast symmetrically. A 1-cm hyperdensity in the interpolar region of the right kidney is consistent with a simple cyst. A 1.4-cm hypodensity in the interpolar region of the left kidney has indeterminate attenuation by CT criteria. No bowel obstruction, no ascites or mesenteric adenopathy. The appendix is distended up to 13 mm with hyperemic wall and surrounding inflammatory changes; filled with stool and air. No discrete appendicolith, no drainable fluid collection or extraluminal gas. Small amount of pelvic free fluid present. The bladder is unremarkable. No pelvic or inguinal adenopathy. No concerning lytic or sclerotic lesions in bone windows.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "heart_rate": "90 bpm",
+                "blood_pressure": "90/60 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "heent": "Extraocular movements intact, sclera anicteric without injection, mucous membranes moist",
+                "cardiac": "Defers examination",
+                "lungs": "Defers examination",
+                "abdomen": "Defers examination",
+                "extremities": "Significant lymphedema with several superficial ulcerations on left lower extremity, no associated purulence, chronic venous stasis changes",
+                "neurological": "Alert and oriented to person, place, and time; moving all four limbs spontaneously; facial muscles moving appropriately"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "heart_rate": "120 bpm",
+                "blood_pressure": "104/70 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "spo2": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "Pertinent for morbid obesity and scleral icterus; mild right upper quadrant tenderness, no asterixis"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

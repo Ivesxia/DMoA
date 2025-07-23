@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory analysis for unknown pathology (not specified)",
+            "date": "Not specified",
+            "findings": "160.0 ug/dL (within normal range: 45.0 - 160.0 ug/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Liver is of normal echogenicity and echotexture; no intra- or extra-hepatic bile duct dilatation; common bile duct measures 2.7 mm; no ascites; gallbladder is normal; no cholelithiasis or pericholecystic fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "93 bpm",
+                "blood_pressure": "116/63 mmHg",
+                "respiratory_rate": "19 breaths/min",
+                "oxygen_saturation": "97% on nasal cannula"
+            },
+            "relevant_findings": {
+                "general": "in no acute distress",
+                "HEENT": "EOMI, PERRL, no icterus, no oropharyngeal masses/lesions",
+                "neck": "supple, no lymphadenopathy",
+                "lungs": "clear to auscultation bilaterally, no crackles",
+                "cardiovascular": "regular rate and rhythm, no murmurs or gallops",
+                "abdominal": "obese, soft, non-tender; no rebound or guarding",
+                "extremities": "left total knee replacement stapled incisional site with mild swelling and bruising extending to left calf compared to right"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99°F",
+                "heart_rate": "90 bpm",
+                "blood_pressure": "111/56 mmHg",
+                "respiratory_rate": "17 breaths/min",
+                "oxygen_saturation": "95% on nasal cannula"
+            },
+            "relevant_findings": "Stable with no complaints on arrival to ICU",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

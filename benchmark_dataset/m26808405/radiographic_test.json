@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Slightly increased echogenicity of the liver suggesting fatty infiltration, no focal hepatic lesions or masses, no intra- or extra-hepatic biliary dilation, gallbladder with a large amount of sludge mixed with tiny, echogenic shadowing stones, some impacted within the gallbladder neck, gallbladder wall measuring up to 4 mm, small amount of pericholecystic fluid, CBD measuring up to 6 mm without definite choledocholithiasis, sonographic Murphy's sign absent.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

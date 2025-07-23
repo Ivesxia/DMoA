@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right lower abdominal pain",
+        "history_of_present_illness": "The pain onset around noon today, coming on gradually and being constant and sharp, but has since resolved to a dull pain. The pain started when he ate for the first time during the day and is exacerbated by movement.",
+        "past_medical_history": "Atrial fibrillation s/p ablation, hypertrophic cardiomyopathy with subaortic stenosis, hypertension, benign prostatic hyperplasia, history of kidney stones.",
+        "family_history": "Father: embolism age ___; Mother: died ___; 5 healthy children.",
+        "social_history": "Not specified"
+    }
+}

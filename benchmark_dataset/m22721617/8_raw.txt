@@ -1,0 +1,28 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "imaging",
+      "specific_treatment": "CT abdomen/pelvis",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Single non-contrast scan performed.",
+      "treatment_response": "Findings indicated cecal inflammation without significant abnormalities in other abdominal organs."
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2023-10-05",
+      "event": "Patient presented with 3 days of RLQ pain.",
+    },
+    {
+      "date": "2023-10-05",
+      "event": "CT abdomen/pelvis performed showing cecal inflammation.",
+    },
+    {
+      "date": "2023-10-05",
+      "event": "WBC count at 16 indicating possible infection.",
+    }
+  ]
+}
+```

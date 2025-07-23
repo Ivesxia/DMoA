@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC 18 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "INR",
+            "date": "Not specified",
+            "findings": "INR 4.4 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Creatinine 1.8 (baseline 1.5, elevated)",
+            "changes_over_time": "Increased from baseline of 1.5 to 1.8"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis",
+            "date": "Not specified",
+            "findings": "Possible diverticulitis with sectional wall thickening of the cecum and proximal-to-mid ascending colon. Spleen mildly enlarged (16.7 cm), left inguinal hernia noted.",
+            "changes_over_time": "Compared to CT from ___, there is stable gynecomastia."
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "heart_rate": "78 bpm",
+                "blood_pressure": "125/78 mmHg",
+                "respiratory_rate": "25 breaths/min",
+                "oxygen_saturation": "99% on RA"
+            },
+            "relevant_findings": {
+                "general": "awake, alert, NAD",
+                "head": "NCAT, EOMI, anicteric",
+                "heart": "RRR",
+                "lungs": "normal excursion, no respiratory distress",
+                "abdomen": "soft, NT, ND, obese, negative ___ sign",
+                "extremities": "WWP, no CCE, no tenderness",
+                "psychiatric": "normal judgment/insight, normal memory, normal mood/affect"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "ultrasound": {
+                    "liver": "normal in echotexture without focal lesion, no intra or extrahepatic biliary ductal dilatation",
+                    "common_bile_duct": "5-6 mm",
+                    "gallbladder": "14 mm gallstone seen in neck, not particularly distended, no mural thickening or pericholecystic fluid",
+                    "pancreas": "normal",
+                    "aorta": "normal in caliber",
+                    "IVC": "unremarkable",
+                    "right_kidney": "no hydronephrosis",
+                    "portal_vein": "patent with hepatopetal flow"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

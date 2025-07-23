@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT CHEST W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild asymmetry of the thyroid is noted. No pathologically enlarged mediastinal, hilar, or axillary lymph nodes. The lungs are clear. No pleural or pericardial fluid or pneumothorax. No pulmonary nodules seen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN WITH IV CONTRAST",
+            "date": "Not specified",
+            "findings": "Innumerable ill-defined hypodense lesions within the liver. The spleen, left kidney, adrenals, and pancreas appear normal. Small hypodensity, too small to characterize, likely a cyst in the right kidney. Gallstones are again demonstrated. Stomach and abdominal loops of small and large bowel appear normal. No abdominal pathologic lymphadenopathy, free air, or free fluid. Sutures are seen in the right lower quadrant and there is an apparent seroma in the midline.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lab Culture",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

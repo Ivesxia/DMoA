@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.0°F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "135/86 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "A&Ox3, in mild distress, uncomfortable",
+                "HEENT": "No scleral icterus, mucous membranes moist",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "Clear to auscultation bilaterally, no respiratory distress",
+                "abdominal": "Soft, mildly distended, tender to palpation in the RUQ and epigastrium, positive Murphy's sign, no rebound or guarding, no palpable masses",
+                "extremities": "No clubbing, cyanosis, or edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

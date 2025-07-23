@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient's symptoms included abdominal pain with migration to the right lower quadrant, which became sharp and moderate in intensity. She also experienced nausea but denied fever or chills. Physical examination revealed tenderness to palpation over the right lower quadrant without rebound or guarding, which supports the diagnosis of appendicitis."
+    }
+}

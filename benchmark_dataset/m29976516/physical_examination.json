@@ -1,0 +1,42 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9 F",
+                "blood_pressure": "118/78 mmHg",
+                "heart_rate": "91 bpm",
+                "respiratory_rate": "18 rpm",
+                "oxygen_saturation": "97%",
+                "oxygen_delivery": "RA"
+            },
+            "relevant_findings": {
+                "general": "Alert. Patient evaluated a few times, once in bed and once when he was in the chair. Patient in no acute distress.",
+                "eyes": "Anicteric, pupils equally round and reactive to light.",
+                "ent": "Moist oropharynx without visible lesion, erythema or exudate.",
+                "cardiovascular": "Heart regular rate and rhythm, no murmur. Radial and DP pulses 2+ bilaterally.",
+                "respiratory": "Lungs clear to auscultation with good air movement bilaterally. Breathing is non-labored.",
+                "gastrointestinal": "Abdomen soft, non-distended. Moderate tenderness with unchanged focus in right upper and mid-abdomen. No rebound, but voluntary guarding is unchanged. Normal bowel sounds present.",
+                "genitourinary": "No suprapubic fullness or tenderness.",
+                "musculoskeletal": "No lower extremity edema.",
+                "skin": "Maculopapular rash with areas of confluence notable on right hip is unchanged and similar smaller patch seen in the posterior left axilla. Areas non-tender and normal temperature.",
+                "neurological": "Alert. Oriented to person, place, situation. Speech fluent, moves all limbs.",
+                "psychological": "Pleasant, appropriate affect."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4 F",
+                "blood_pressure": "129/80 mmHg",
+                "heart_rate": "87 bpm",
+                "respiratory_rate": "18 rpm",
+                "oxygen_saturation": "98%",
+                "oxygen_delivery": "RA"
+            },
+            "relevant_findings": "In a similar state as previously described with noted signs and symptoms.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

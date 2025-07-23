@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.1°F",
+                "heart_rate": "18 bpm",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "100% on room air",
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Appears well, no acute distress",
+                "cardiovascular": "Regular rate and rhythm",
+                "respiratory": "Clear to auscultation bilaterally, no distress",
+                "abdominal": "Soft, mildly distended, very mildly tender in RUQ, no rebound, no guarding",
+                "extremities": "Warm, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

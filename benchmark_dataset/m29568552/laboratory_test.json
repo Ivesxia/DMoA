@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified.",
+            "findings": "CT of the abdomen shows a tubular structure in the right lower quadrant measuring 11 mm likely reflecting an abnormal inflamed appendix with thickened edematous walls. A heterogeneous area in the right lower quadrant measures 5.1 x 3.3 cm concerning for phlegmon. No drainable fluid collection or extraluminal gas is noted. Small amount of mildly complex free fluid surrounds the large phlegmonous region in the right pelvis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified.",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CRP",
+            "date": "Not specified.",
+            "findings": "103.3 mg/L.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

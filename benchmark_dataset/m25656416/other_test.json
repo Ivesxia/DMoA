@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laparoscopic converted to open subtotal cholecystectomy",
+            "date": "Not specified",
+            "findings": "Gangrenous cholecystitis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray (CHEST PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "Lung volumes are very low and there are new moderate bilateral pleural effusions, not present on a previous study. No focal consolidation or pneumothorax; the cardiac silhouette is within normal limits.",
+            "changes_over_time": "New moderate bilateral pleural effusions compared to previous imaging."
+        },
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "No polymorphonuclear leukocytes seen. No microorganisms seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

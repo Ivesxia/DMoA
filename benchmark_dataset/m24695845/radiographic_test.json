@@ -1,0 +1,40 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung": {
+                    "nodular_focus": "3 mm nodular focus at the right lung base suggests a nodular form of atelectasis that is unchanged since the remote prior examination.",
+                    "left_lobe_nodule": "3 mm nodule in the left lower lobe is also unchanged.",
+                    "posterior_lower_lobes": "Patchy mosaic attenuation is not specific but could be seen with atelectasis and possibly coinciding air-trapping."
+                },
+                "abdomen": {
+                    "biliary_dilatation": "No biliary dilatation.",
+                    "liver": "Normal limits.",
+                    "kidneys": "Right kidney is low-lying but appears normal; left kidney appears normal.",
+                    "mesentery": {
+                        "finding": "Persistent ill-defined soft tissue density in the left upper quadrant measuring about 25 x 14 mm.",
+                        "change": "Has not really changed since remote prior CT."
+                    },
+                    "appendix": "Dilated up to 15 mm with a fluid-filled lumen and hyperenhancement; no evidence for abscess or perforation."
+                },
+                "pelvis": {
+                    "uterus_adnexa": "Normal limits.",
+                    "lymph_nodes": "No enlarged lymph nodes.",
+                    "ascites": "None."
+                },
+                "bone": {
+                    "lesions": "No suspicious lytic or blastic bone lesions.",
+                    "degenerative_changes": "Moderate degenerative changes affecting lower lumbar facet joints especially at L3-L4 through L5-S1; mild spondylolisthesis of L4 and L5.",
+                    "canal_stenosis": "Mild-to-moderate at L1-L2 but severe from L2-L3 through L4-L5."
+                }
+            },
+            "changes_over_time": {
+                "lung": "No changes over time specified for the nodular focus at the right lung base and the left lower lobe nodule.",
+                "mesentery": "No changes over time specified for the soft tissue density.",
+                "bone": "Slight worsening of spinal stenosis over the long interval."
+            }
+        }
+    ]
+}

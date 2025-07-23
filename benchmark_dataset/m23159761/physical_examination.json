@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.8°F",
+                "heart_rate": "94 bpm",
+                "blood_pressure": "151/98 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": "General: Awake, alert, oriented x3, in no acute distress. Head: Atraumatic, normocephalic. Neck: Supple, no jugular venous distention. Chest: Clear to auscultation bilaterally. Abdomen: Right upper quadrant incisional tenderness, no edema in extremities.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

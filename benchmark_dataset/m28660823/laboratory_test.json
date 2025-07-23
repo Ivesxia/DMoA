@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The gallbladder is distended with gallbladder wall edema and thickening. There is layered biliary sludge within the gallbladder with calculi noted at the gallbladder neck and within the proximal cystic duct. No filling defects are identified within the common bile duct. The common bile duct is of normal caliber. Periportal edema is noted within the liver. There is arterial phase hyperenhancement surrounding the gallbladder, consistent with transient perfusion. There is also a focal area of arterial enhancement within segment VI of the liver, likely representing transient perfusion. There are two subcentimeter T2 hyperintense cystic lesions in segment VIII of the liver, likely representing subcentimeter biliary hamartomas. The portal and hepatic veins are patent. There is a 3.9 x 3.4-cm saccular aneurysm of the infrarenal abdominal aorta. Multiple T2 hyperintense lesions are noted throughout the spleen, consistent with multiple hemangiomas. The spleen is mildly enlarged measuring 13.8 cm in length. There are simple cysts within both kidneys. There is scarring within the upper pole of the right kidney. The pancreas is otherwise unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "STAPH AUREUS COAG +, PROTEUS SPECIES, PROBABLE ENTEROCOCCUS",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

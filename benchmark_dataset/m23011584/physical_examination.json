@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "heart_rate": "92 bpm",
+                "blood_pressure": "132/70 mmHg",
+                "respiratory_rate": "18 bpm",
+                "oxygen_saturation": "94% on 2L NC"
+            },
+            "relevant_findings": {
+                "general": "AAOx3, NAD",
+                "HEENT": "MMM, no scleral icterus",
+                "Respiratory": "normal effort, CTABL, no wheezes/rales/rhonchi",
+                "Cardiovascular": "RRR, normal S1/S2, no S3/S4, no murmurs/rubs/gallops",
+                "Abdominal": "+BS, soft, non-tender/non-distended",
+                "Extremities": "Warm, well perfused, no edema",
+                "Neurological": "motor and sensory grossly intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

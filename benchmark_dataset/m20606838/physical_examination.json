@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "50 bpm",
+                "blood_pressure": "130/82 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on RA"
+            },
+            "relevant_findings": {
+                "general_appearance": "A&Ox3, fatigued-appearing female, in NAD",
+                "HEENT": {
+                    "scleral_icterus": "No",
+                    "palpable_LAD": "No"
+                },
+                "pulmonary": "Comfortable on room air",
+                "cardiovascular": "NRRR, no m/r/g",
+                "abdominal": "Soft, nondistended, TTP in RLQ without rebound/guarding, no palpable masses",
+                "extremities": "WWP bilaterally, no c/c/e, no ulcerations",
+                "neurological": "Moves all limbs spontaneously, no focal deficits"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

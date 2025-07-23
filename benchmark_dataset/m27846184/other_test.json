@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopic retrograde cholangiopancreatography (ERCP)",
+            "date": "Not specified",
+            "findings": "Erosive esophagitis and a friable gastrojejunal anastomosis were noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram (EKG)",
+            "date": "Not specified",
+            "findings": "Slight ST elevation in V1 and V2.",
+            "changes_over_time": "EKG was noted to be stable from admission; unchanged upon transfer to MICU."
+        },
+        {
+            "procedure_name": "Magnetic resonance cholangiopancreatography (MRCP)",
+            "date": "Not specified",
+            "findings": "Choledocholithiasis was demonstrated.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

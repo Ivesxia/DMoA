@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound (Liver or Gallbladder)",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic with focal sparing adjacent to the gallbladder fossa. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites. The CBD measures 4 mm. Multiple gallstones are seen near the gallbladder fundus, stones demonstrate shadowing, the gallbladder is distended but not hydropic.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

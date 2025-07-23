@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is dilated measuring 9 mm in diameter. The wall of the appendix is enhancing. There is surrounding fat stranding. No evidence of abscess or perforation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for bilirubin",
+            "date": "Not specified",
+            "findings": "10.0 mg/dL (Reference range: 6.0 - 20.0 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

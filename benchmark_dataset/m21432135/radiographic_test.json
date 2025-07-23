@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Subsegmental atelectasis in both lung bases. Gallbladder slightly distended (9 x 5.5 cm) with T1 hyperintense and T2 hypointense sludge ball at the neck. Gallbladder wall thickened with pericholecystic inflammatory changes and fat stranding. No significant intrahepatic biliary duct dilatation. Minimal pneumobilia. Known hepatic metastatic lesions not adequately evaluated. Trace perihepatic ascites. Small fluid collection adjacent to segment VI unchanged from prior study, compatible with postoperative hematoma/seroma. Enlarged spleen measuring 14.3 cm. Bilateral simple renal cortical cysts.",
+            "changes_over_time": "Small fluid collection adjacent to segment VI unchanged from prior study."
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis",
+            "date": "Not specified",
+            "findings": "Hemobilia, thickened CBD, and 3cm sludge in GB neck.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

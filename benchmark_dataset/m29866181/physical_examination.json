@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: Not specified, Heart Rate: Not specified, Blood Pressure: Not specified, Respiratory Rate: Not specified, O2 Saturation: Not specified",
+            "relevant_findings": {
+                "general": "All findings normal",
+                "respiratory": "Barrel chest, coarse wheeze bilaterally",
+                "cardiovascular": "RRR, No m/r/g, No edema",
+                "GI": "Mild tenderness likely due to constipation, vertical incision scar from cholecystectomy",
+                "neurological": "All findings normal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

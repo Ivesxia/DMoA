@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix identified in the right lower quadrant with hypointense material within the lumen on T2-weighted images; does not fill with oral contrast or air. At the tip of the appendix, central bright signal consistent with fluid, and the appendix is dilated up to 8 mm. Equivocal surrounding edema, diffusely bright on diffusion-weighted images. No evidence of appendicolith, perforation, or focal fluid collection. Visualized kidneys appear normal, no hydronephrosis. Left adnexal dermoid measuring 3.0 x 2.2 cm redemonstrated, cervix closed, no free pelvic fluid, anterior placenta normal. Small hyperintensity in T12 vertebral body likely representing a hemangioma.",
+            "changes_over_time": "Left adnexal dermoid is redemonstrated, similar to previous ultrasound."
+        }
+    ]
+}

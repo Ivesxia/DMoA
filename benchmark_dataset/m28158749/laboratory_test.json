@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Revealed a thickened appendix measuring 8 mm with surrounding fat stranding, a 3.0-cm septated hypodense lesion in segment IV of the liver likely consistent with a septated cyst, and a 0.9-cm hypodense lesion in the left kidney likely representing a simple cyst. No free fluid in the pelvis and no evidence for diverticulitis noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

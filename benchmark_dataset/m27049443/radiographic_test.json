@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Partially imaged small to moderate right and small left pleural effusions with overlying atelectasis. Mitral annulus calcification is seen. Small pericardial effusion is re-demonstrated. Liver demonstrates homogenous attenuation with suggestion of possible periportal edema. Gallbladder is within normal limits. Normal pancreas and spleen. Right lower quadrant transplant kidney contains a 3 cm parapelvic cyst; renal pelvis is mildly dilated. Colonic diverticulosis is seen with focal wall thickening and stranding along the hepatic flexure worrisome for focal colitis. No drainable fluid collection or extraluminal gas. Normal appendix. No pelvic or inguinal lymphadenopathy. Extensive atherosclerotic disease noted. Old fractures of the posterior right ninth through twelfth ribs.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

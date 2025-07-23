@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with diffuse severe abdominal pain that localized to the right lower quadrant, was tender on palpation, and had a CT scan showing hyperdense internal contents in the appendix, increased caliber (10-11 mm), trace fat stranding, and a possible appendicolith. The findings of no free gas or fluid ruled out complications like appendiceal rupture."
+    }
+}

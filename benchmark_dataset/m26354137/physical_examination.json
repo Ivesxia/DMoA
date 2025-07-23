@@ -1,0 +1,35 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "initial": {
+                    "temperature": "96°F",
+                    "heart_rate": "58 bpm",
+                    "blood_pressure": "174/47 mmHg",
+                    "respiratory_rate": "18 breaths/min",
+                    "oxygen_saturation": "100% RA"
+                },
+                "prior_transfer": {
+                    "temperature": "98.3°F",
+                    "heart_rate": "67 bpm",
+                    "blood_pressure": "175/63 mmHg",
+                    "respiratory_rate": "15 breaths/min",
+                    "oxygen_saturation": "100% RA"
+                }
+            },
+            "relevant_findings": {
+                "general": "NAD, comfortable, appropriate",
+                "HEENT": "NC/AT, PERRLA, strabismus, sclerae anicteric, slightly dry MM, OP clear",
+                "neck": "supple, no thyromegaly, no JVD",
+                "heart": "RRR, harsh/loud systolic ejection murmur throughout precordium",
+                "lungs": "CTAB, no r/rh/wh, good air movement, resp unlabored, no accessory muscle use",
+                "abdomen": "NABS, generally soft/NT/ND, +TTP in suprapubic region, no masses or HSM, no rebound/guarding",
+                "extremities": "WWP, trace peripheral edema, 2+ peripheral pulses (radials, DPs)",
+                "skin": "no rashes or lesions",
+                "neuro": "awake, A&Ox3, gait unsteady"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The non-contrast appearance of the liver, gallbladder, pancreas, spleen, and adrenal glands is unremarkable. A large 4 cm left parapelvic renal cyst is simple in attenuation. There is no ascites. An 11 mm dilated appendix demonstrates a mild amount of periappendiceal stranding without any evidence of fluid collection or extraluminal air.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Report",
+            "date": "Not specified",
+            "findings": "Creatinine level is 9.1 mg/dL (Normal range: 8.4 - 10.3 mg/dL), indicating that it is within the normal range. No growth found in cultures.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

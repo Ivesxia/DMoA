@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "RENAL U.S.",
+            "date": "Not specified",
+            "findings": "A simple appearing cyst in the lower pole of the left kidney measures 3.2 cm. No hydronephrosis or stones bilaterally. Normal cortical echogenicity and corticomedullary differentiation are seen bilaterally. Right kidney: 10.0 cm, Left kidney: 9.7 cm. The bladder is only minimally distended and cannot be fully assessed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for serum osmolality",
+            "date": "Not specified",
+            "findings": "309.0 mOsm/kg; Reference range: 275.0 - 310.0 mOsm/kg; Result is within normal range.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

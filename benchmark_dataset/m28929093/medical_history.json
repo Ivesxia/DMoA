@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Sharp, non-radiating right upper quadrant (RUQ) pain for 3 days.",
+        "history_of_present_illness": "The patient's RUQ pain began 3 days ago and has been consistent. It is associated with fevers, chills (rigors), severe nausea, and 1 episode of bilious vomiting. Denies diarrhea. The last bowel movement and flatus were ___ days ago, but the patient notes that is normal.",
+        "past_medical_history": "Biliary stent placement, history of 2 cesarean sections.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

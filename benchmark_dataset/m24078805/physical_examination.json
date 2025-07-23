@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Normal",
+            "relevant_findings": "General: Alert, awake, oriented to person, place, and time (AAOx3); Cardiac: Normal S1, S2; Respiratory: Clear breath sounds, equal bilaterally; Abdomen: Soft, mildly tender mid-epigastrium and right upper quadrant (RUQ). No rebound or guarding; Skin: No lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

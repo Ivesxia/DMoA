@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Atelectasis at both lung bases, small right and trace left pleural effusions. The liver enhances somewhat heterogeneously with hyperenhancement around the gallbladder and in the left hepatic lobe; mild central periportal edema noted; branches of the right anterior portal vein are attenuated and indistinct; peripheral portal vein branches in segments 4b and 5 also demonstrate attenuation and periportal edema suggesting phlebitis. The distended gallbladder contains multiple gallstones and demonstrates wall thickening with pericholecystic fat stranding. No evidence of perforation or extrahepatic biliary ductal dilatation. The pancreas is normal; spleen measures nearly 13 cm without focal lesions; kidneys are normal and symmetric; a small hiatal hernia is present; no free fluid in the pelvis; no worrisome osseous lesions or acute fracture.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

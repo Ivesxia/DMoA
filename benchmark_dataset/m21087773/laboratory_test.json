@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "19.0 mg/dL (normal range: 6.0 to 20.0 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix appears fluid-filled and borderline dilated up to 7 mm in diameter with mild periappendiceal stranding and hyperenhancement of the wall. No free air or adjacent fluid present.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right lower quadrant pain",
+        "history_of_present_illness": "Approximately 8 hours of RLQ pain that started at 2 am, waking the patient from sleep. The pain is different from previous IBS-related pain and has not occurred in the past. No nausea, vomiting, fevers, or chills reported.",
+        "past_medical_history": "Irritable bowel syndrome (IBS), diagnosed ___ years ago, presents with hyperactive bowel activity and diarrhea, controlled with diet.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

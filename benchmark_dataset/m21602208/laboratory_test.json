@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "description": "The hepatic parenchyma appears somewhat echogenic, consistent with fatty change.",
+                    "contour": "smooth",
+                    "focal_area": "decreased echogenicity adjacent to the gallbladder fossa, likely focal fat sparing."
+                },
+                "portal_vein": {
+                    "patency": "patent",
+                    "flow": "hepatopetal"
+                },
+                "ascites": "trace ascites",
+                "bile_ducts": {
+                    "intrahepatic_dilation": "none",
+                    "CBD_measurement": "6 mm"
+                },
+                "gallbladder": {
+                    "condition": "distended and full of sludge",
+                    "wall_thickness": "gallbladder wall thickening",
+                    "pericholecystic_fluid": "present",
+                    "sonographic_sign": "equivocal"
+                },
+                "pancreas": {
+                    "description": "Imaged portion appears within normal limits, without masses or pancreatic ductal dilation.",
+                    "obscured": "portions of the pancreatic tail obscured by overlying bowel gas"
+                },
+                "spleen": {
+                    "echogenicity": "normal",
+                    "measurement": "10.2 cm"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test - Unknown",
+            "date": "Not specified",
+            "findings": {
+                "result": "8.7 mg/dL",
+                "reference_range": {
+                    "lower": "8.4",
+                    "upper": "10.3"
+                },
+                "growth": "NO GROWTH."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

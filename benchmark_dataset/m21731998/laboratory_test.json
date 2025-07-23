@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Layering gallbladder sludge is noted. Gallbladder is distended with irregular gallbladder thickening, enhancement and associated enhancement of the surrounding liver parenchyma. There is pericholecystic stranding. A 6 mm T1 hyperintense calculus is seen at the cystic duct/gallbladder neck junction. The common bile duct is dilated measuring approximately 11 mm at the porta hepatis with mild tapering towards the head of the pancreas. There is dilatation of the centrally located intrahepatic biliary radicles. There is minimal edema. There is no evidence of common bile duct stones. The pancreatic duct is normal in size. Pancreas demonstrates no evidence of changes. Tiny cystic structure, likely side branch IPMN at the pancreatic head. There are no suspicious focal hepatic lesions. Spleen, bilateral kidneys and adrenal glands are normal without evidence of focal masses or hydronephrosis. Small, likely reactive lymph nodes at the level of porta hepatis are seen. SMV, splenic vein, portal vein and intrahepatic portal veins are patent. The hepatic arterial supply is conventional. There is no retroperitoneal lymphadenopathy. There is no evidence of abnormally dilated loops of bowel. There is a small amount of right pleural effusion with associated atelectasis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "This culture contains mixed bacterial types (>=3); any growth of P.aeruginosa, S.aureus and beta hemolytic streptococci will be reported. If these bacteria are not reported, they are not present in this culture.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

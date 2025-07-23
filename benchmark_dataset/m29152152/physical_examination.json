@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8 F",
+                "heart_rate": "87 bpm",
+                "blood_pressure": "152/76 mmHg",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD, resting comfortably",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "cardiovascular": "RRR, No M/G/R",
+                "pulmonary": "Clear to auscultation b/l, No W/R/R",
+                "abdominal": "Soft, nondistended obese abdomen, tender in the RLQ, no rebound or guarding, hypoactive bowel sounds, no palpable masses, Small umbilical hernia present, negative psoas/obturator/rovsings sign",
+                "extremities": "No edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

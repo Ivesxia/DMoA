@@ -1,0 +1,51 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung_fields": "within normal limits",
+                "hepatobiliary": "homogenous attenuation, no focal lesions, no biliary dilatation",
+                "pancreas": "normal attenuation, no focal lesions or pancreatic ductal dilatation",
+                "spleen": "normal size and attenuation, 1.8 cm splenule incidentally noted",
+                "adrenals": "normal in size and shape",
+                "kidneys": "normal and symmetric size, normal nephrogram, no focal lesions or hydronephrosis",
+                "gastrointestinal": "stomach unremarkable, small bowel normal, colon and rectum normal, appendix fluid-filled and dilated to 1.1 cm with wall thickening, hyperemia, moderate periappendiceal fat stranding, mild thickening at cecum base",
+                "pelvis": "small amount of free fluid",
+                "reproductive_organs": "unremarkable",
+                "lymph_nodes": "no lymphadenopathy",
+                "vascular": "no abdominal aortic aneurysm",
+                "bones": "no worrisome lesions or acute fracture",
+                "soft_tissues": "within normal limits"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": {
+                "values": [
+                    {
+                        "test_name": "Test 1",
+                        "result": "NO GROWTH.",
+                        "reference_range": {
+                            "lower": "0.5",
+                            "upper": "2.0"
+                        }
+                    },
+                    {
+                        "test_name": "Test 2",
+                        "result": "0.9 mmol/L",
+                        "reference_range": "Not specified"
+                    },
+                    {
+                        "test_name": "Test 3",
+                        "result": "NO GROWTH.",
+                        "reference_range": "Not specified"
+                    }
+                ]
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

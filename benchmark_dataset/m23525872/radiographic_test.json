@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild atelectasis at the lung bases without pleural effusions; mild enlargement of the heart; liver, gallbladder, adrenal glands, spleen unremarkable; mild diffuse atrophy of the pancreas; small hiatal hernia; unremarkable stomach and small bowel without evidence of bowel thickening or obstruction; atherosclerotic aortic calcifications; multiple tiny retroperitoneal lymph nodes not significant for adenopathy; normal urinary bladder; no pelvic free fluid or significant lymphadenopathy; diffuse wall thickening and extensive fat stranding surrounding a short segment of the sigmoid colon, extensive sigmoid diverticulosis, no drainable fluid collections; no extraluminal air suggestive of perforation; no bone lesions suspicious for infection or malignancy; old compression fracture of L1 vertebra.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

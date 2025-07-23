@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Ultrasound",
+            "date": "Not specified",
+            "findings": "Liver appears echogenic, compatible with diffuse fatty infiltration. No focal intrahepatic lesions detected. No intrahepatic biliary ductal dilatation. Gallbladder appears normal with a 3-mm polyp at the fundus, without stones. CBD is not dilated, measuring 4 mm. Pancreatic body and head appear normal, no pancreatic ductal dilatation. Tail of the pancreas obscured by overlying bowel gas. Right kidney measures 10.8 cm, left kidney measures 10.1 cm, no evidence of stones or hydronephrosis. Spleen measures 10.2 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "Mixed bacterial flora (>= 3 colony types), consistent with skin and/or genital contamination.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

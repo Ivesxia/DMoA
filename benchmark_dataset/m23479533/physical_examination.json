@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "78 bpm",
+                "blood_pressure": "160/90 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% (RA)"
+            },
+            "relevant_findings": {
+                "general": "Obese, laying flat, A&O, NAD, pleasant and talkative",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "cardiovascular": "RRR, No M/G/R",
+                "pulmonary": "Clear to auscultation b/l, No W/R/R",
+                "abdominal": "Obese, soft, nondistended, tender to moderate palpation in RUQ, no rebound or guarding, normoactive bowel sounds, no palpable masses",
+                "extremities": "1+ pitting b/l pedal edema 'at baseline' per pt"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

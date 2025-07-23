@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4°F",
+                "heart_rate": "81 bpm",
+                "blood_pressure": "94/48 mmHg",
+                "respiratory_rate": "19 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "alertness": "A&O x 3",
+                "general": "No acute distress",
+                "pupils": "PERRL",
+                "eyes": "EOMI",
+                "jaundice": "Anicteric",
+                "cardiovascular": "RRR (regular rate and rhythm)",
+                "respiratory": "CTAB (clear to auscultation bilaterally)",
+                "abdominal": "Obese, soft, very mild left-sided tenderness to deep palpation without any guarding, no hernias",
+                "rectal": "Guaiac negative",
+                "edema": "1+ pitting edema bilaterally to mid shin"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Atrial tachycardia",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic cholecystectomy",
+            "date": "Not specified",
+            "findings": "Conversion to open cholecystectomy",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "Mixed bacterial types (>=3) with P.aeruginosa, S.aureus and beta strep reported.",
+            "changes_over_time": "Susceptibility will be performed on P.aeruginosa and S.aureus if sparse growth or greater."
+        }
+    ]
+}

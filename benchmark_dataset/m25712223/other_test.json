@@ -1,0 +1,20 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "No Salmonella or Shigella Test",
+            "date": "Not specified",
+            "findings": "NO SALMONELLA OR SHIGELLA FOUND.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": {
+                "thorax": "Mild bibasilar atelectasis, enlarged heart, no pericardial effusion, vascular calcifications, calcified mitral annulus.",
+                "abdomen": "Normal liver, spleen, pancreas, adrenals. Mild left intrahepatic biliary dilatation. Small hypodensities in left kidney. No free fluid or pathologic lymphadenopathy. Atherosclerotic calcification in abdominal vasculature.",
+                "pelvis": "Extensive sigmoid diverticulosis with no perforation or abscess. Normal bladder, distal ureters, uterus, and adnexa."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

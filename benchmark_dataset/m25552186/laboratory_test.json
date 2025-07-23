@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is normal in echotexture. The common bile duct measures 3 mm. There is a 1.1 cm echogenic focus in the left lobe which may represent a hemangioma. The gallbladder is mildly distended and contains sludge, some of which layers and may be small stones. No gallbladder wall thickening or pericholecystic fluid. The pancreas is not clearly visualized due to overlying bowel gas. The right kidney is normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "3.9 mg/dL (reference range: 2.7 - 4.5 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

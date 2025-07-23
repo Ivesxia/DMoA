@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Patient presenting with fevers and fatigue after initial chemotherapy treatment.",
+        "history_of_present_illness": "Symptoms began the day after receiving the first cycle of chemotherapy, with intermittent fevers up to an unspecified degree, fatigue, malaise, and shaking chills. The patient also reported mild non-productive cough, mild nausea, and poor appetite leading to poor oral intake. There were two small loose bowel movements noted, but prior to that, she had not had bowel movements for three days.",
+        "past_medical_history": "History of metastatic serous primary peritoneal adenocarcinoma, migraines, GERD, hypothyroidism, sleep apnea, morbid obesity, fatty liver, colonic adenoma, history of anemia.",
+        "family_history": "Mother and maternal uncle with colon cancer. Father with skin cancer. Significant for mother with diabetes and high blood pressure.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "heart_rate": "94 bpm",
+                "blood_pressure": "125/69 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "A&Ox3, NAD",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "Breathing comfortably on room air",
+                "abdominal": "Soft, nondistended, diffuse mild tenderness with focal moderate tenderness in the right lower quadrant, with voluntary guarding but no rebound",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

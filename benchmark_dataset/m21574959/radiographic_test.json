@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The lung bases show no pleural effusion or pneumothorax. The liver enhances homogeneously without focal lesions. The gallbladder is normal and there is no intra or extrahepatic biliary ductal dilation. The spleen, pancreas, and adrenal glands are unremarkable. The kidneys enhance symmetrically and excrete contrast without hydronephrosis. The appendix is dilated up to 1.2 cm and appears hyperemic with significant adjacent fat stranding. An appendicolith is seen at the appendiceal base and air is seen in the appendiceal tip. The remaining loops of bowel are normal, with no bowel wall thickening or obstruction. The bladder, rectum, and prostate are normal, with a trace amount of free pelvic fluid. There are no concerning lytic or blastic osseous lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

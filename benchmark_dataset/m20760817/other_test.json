@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Gallbladder contains stones with mild distension and more prominent mild pericholecystic fluid compared to prior exam; liver structure normal; no intrahepatic biliary dilation.",
+            "changes_over_time": "Mild pericholecystic fluid is more prominent compared to prior exam."
+        },
+        {
+            "procedure_name": "Laparoscopic cholecystectomy",
+            "date": "Not specified",
+            "findings": "Resection of gallbladder, percutaneous endoscopic approach.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

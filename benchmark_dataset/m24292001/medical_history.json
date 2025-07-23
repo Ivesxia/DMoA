@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Left lower quadrant abdominal pain",
+        "history_of_present_illness": "The patient reports that the pain began early this morning, described as constant, sharp, and pressure-like. The pain progressively worsened throughout the day, reaching a severity of ___ at its worst. He was unable to eat much after lunch due to the pain. The pain was somewhat relieved with Motrin at home prior to his presentation in the ED. He also experienced subjective fever starting around 4am, which was most intense upon arrival to the ED, along with chills and mild nausea.",
+        "past_medical_history": "Self-resolving SBO, BPH, nephrolithiasis, asthma, hyperlipidemia, history of sigmoid diverticulosis with two sessile hyperplastic polyps.",
+        "family_history": "Father died ___ years ago purportedly from cancer of the back.",
+        "social_history": "Not specified."
+    }
+}

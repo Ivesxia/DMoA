@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The appendix is dilated up to 7 mm with hyperemic wall, minimal free fluid surrounding the appendix. The uterus measures 3.3 x 5.0 x 2.9 cm with a homogeneous thin endometrium (3 mm). Ovaries are normal in morphology.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

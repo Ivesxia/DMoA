@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.8°F",
+                "heart_rate": "118 bpm",
+                "blood_pressure": "134/90 mmHg",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "93% on 2L"
+            },
+            "relevant_findings": {
+                "general": "Somnolent but arousable, alert, answers questions appropriately",
+                "HEENT": "NC/AT, PERLA, anicteric, mucus membranes dry",
+                "neck": "Supple, no lymphadenopathy",
+                "chest": "Tachycardic, no murmur, lungs clear with decreased breath sounds at the bases",
+                "abdomen": "Distended, tender diffusely with maximal tenderness in the epigastrium, no rebound, healing laparoscopic incisions",
+                "rectal": "No gross blood, normal tone",
+                "extremities": "Warm, well perfused"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "chest_radiograph": "Lung volumes are low. Improved ventilation at the lung bases.",
+                "central_venous_access_line": "Unchanged position.",
+                "cardiomegaly": "Unchanged moderate cardiomegaly.",
+                "atelectasis": "Unchanged plate-like atelectasis at the left lung apex."
+            },
+            "changes_over_time": "Improved ventilation at the lung bases compared to the previous radiograph."
+        }
+    ]
+}

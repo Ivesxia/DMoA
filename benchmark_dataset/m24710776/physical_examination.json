@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.4°F",
+                "heart_rate": "87 bpm",
+                "blood_pressure": "133/90 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, weak, lying in bed with eyes closed, answers slowly in a soft voice",
+                "HEENT": "No scleral icterus, mucous membranes moist",
+                "cardiovascular": "Regular rate and rhythm, no murmur/gallop/rub",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes/rales/rhonchi",
+                "abdominal": "Soft, nondistended, tenderness to palpation in right lower quadrant with a palpable mass in the middle lower abdomen, no rebound or guarding, normoactive bowel sounds",
+                "DRE": "Normal tone, no gross or occult blood",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

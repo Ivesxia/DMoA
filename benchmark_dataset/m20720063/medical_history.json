@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Sudden onset abdominal pain and nausea.",
+        "history_of_present_illness": "Symptoms began around 5 PM last night with a burning sensation in the epigastric region. The patient felt similar burning during GERD episodes in the past, but took Tums without relief this time. After dinner at 6 PM, nausea ensued, and by 8 PM, abdominal pain became constant and sharp, radiating to the sides and upper back. Pain reduced temporarily by sitting up or leaning forward, but did not resolve. The patient experienced two episodes of vomiting and has been unable to eat or drink due to ongoing nausea and pain.",
+        "past_medical_history": "1. GERD (well-controlled with omeprazole/day) 2. Hyperlipidemia 3. Hypertension (baseline SBP ~ 130's treated with HCTZ) 4. Alcohol abuse (averages ___ drinks/day with ___ binge episodes/week of 5+ drinks) 5. Daily headaches for 15+ years.",
+        "family_history": "Not specified.",
+        "social_history": "The patient reports significant alcohol abuse, averaging ___ drinks per day with ___ binge episodes per week since teenage years, with ___ months of intermittent sobriety."
+    }
+}

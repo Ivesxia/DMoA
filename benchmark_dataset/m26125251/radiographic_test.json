@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "In the distal common bile duct, there is a less than 2-mm nonobstructing stone/gravel. No evidence of CBD dilation with the proximal CBD measuring 4 mm and the distal CBD measuring 7 mm. Multiple tiny gallstones are seen in the fundus of the gallbladder. There is a 2 cm T2 hyperintense lesion in the caudate lobe with progressive peripheral nodular enhancement, consistent with a hemangioma. No evidence of intra-hepatic bile duct dilation. The pancreas enhances heterogeneously with no evidence of pancreatic necrosis or peripancreatic fluid collections. Subcentimeter porta hepatis lymph nodes noted. There is a 1-cm T2 hyperintense lesion in the spleen, consistent with a hemangioma. Adrenal glands and kidneys appear normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

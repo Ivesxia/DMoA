@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver contains no focal lesion. The gallbladder, pancreas, and spleen have a normal appearance. The adrenal glands appear stably thickened bilaterally without focal nodule. A lobulated contour of the kidneys is noted with several hypodense lesions likely reflecting cysts. There is cortical atrophy along the upper pole of the left kidney. Atherosclerotic calcification along the abdominal aorta is noted. Colonic diverticulosis is present. There is a diverticulum along the distal transverse colon observed, slightly thickened with mild adjacent fat stranding. There is a segment of thickened bowel along the descending colon with adjacent fat stranding and fluid tracking along the paracolic gutter.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

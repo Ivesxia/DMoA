@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood test",
+            "date": "Not specified",
+            "findings": "3.2 g/dL (below normal range of 3.4 - 4.8 g/dL); NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Gallbladder is distended with gallbladder wall edema and indistinct wall; inflammatory stranding in the region of the gallbladder; minimal reactive thickening of the antrum of the stomach and proximal duodenum. No drainable fluid collection and no discrete gallstone.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

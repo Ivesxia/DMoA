@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with mid abdominal pain that migrated to the right lower quadrant, accompanied by fever and nausea. Physical examination revealed moderate tenderness in the right lower quadrant with voluntary guarding. CT imaging showed a dilated appendix measuring up to 14 mm, with mural edema and periappendiceal stranding, which are consistent with acute appendicitis."
+    }
+}

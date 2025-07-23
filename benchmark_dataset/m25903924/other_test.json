@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EUS with biopsy",
+            "date": "Not specified",
+            "findings": "Nondiagnostic.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "There has been interval increase in the size of pancreatic cysts; the cyst in the neck now measures 24 x 30 mm (increased from 17 x 25 mm) and the cyst in the tail measures 25 x 27 mm (increased from 16 x 14 mm). Non-enhancing filling defects consistent with multiple stones were noted in the dilated main pancreatic duct.",
+            "changes_over_time": "The size of the pancreatic cysts has increased compared to the prior study."
+        }
+    ]
+}

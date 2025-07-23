@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Abdominal pain for 13 hours, associated with nausea and dry heaves. No vomiting reported. Normal bowel movements noted. Patient experienced chills, but no fever.",
+        "past_medical_history": "Rectal fissure ___ years ago",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

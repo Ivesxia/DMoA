@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "afebrile",
+                "blood_pressure": "136/84 mmHg",
+                "heart_rate": "74 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "94% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x3. Non-toxic.",
+                "HEENT": "Extraocular movement intact, pupils equal, round, reactive to light, mucous membranes moist.",
+                "neck": "No lymphadenopathy, jugular venous pressure within normal limits.",
+                "respiratory": "Clear to auscultation bilaterally, no wheezing or rhonchi (note wheezing on admission).",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, rubs, or gallops.",
+                "abdominal": "Obese, small umbilical hernia present. Bowel sounds present. Soft, non-tender, non-distended.",
+                "extremities": "No cyanosis, edema, or erythema.",
+                "neurological": "Cranial nerves grossly intact."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

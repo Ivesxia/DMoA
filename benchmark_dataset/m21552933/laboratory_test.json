@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-Ray",
+            "date": "Not specified",
+            "findings": "Lung volumes are relatively diminished, and linear atelectasis is seen at the lung bases. No consolidation or edema is evident. Mild tortuosity of the thoracic aorta with prominence of the aortic arch. The cardiac silhouette is grossly stable and borderline enlarged. No effusion or pneumothorax is noted.",
+            "changes_over_time": "Linear atelectasis resolves on the second view."
+        }
+    ]
+}

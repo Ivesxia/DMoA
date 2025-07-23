@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is slightly increased in echogenicity which may reflect fatty infiltration. No focal lesions. No intrahepatic duct dilation. CBD is increased in diameter measuring 6 mm, previously 3 mm. The gallbladder contains numerous echogenic shadowing stones. Increasing wall thickening up to 4 mm but no distension and no pericholecystic fluid. Possible intramural edema.",
+            "changes_over_time": "CBD diameter increased from 3 mm to 6 mm."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Moderate-sized bilateral pleural effusions with adjacent lung base consolidation most consistent with atelectasis. Irregular fluid-density collection in the right lower quadrant has multiple components, the largest of which measures 2.8 x 1.6 x 2.3 cm. Mild cecal inflammation with moderate adjacent soft tissue stranding.",
+            "changes_over_time": "Non-organized fluid was present in a similar location on the prior exam, but there has been an interval increase in size and development of enhancing walls."
+        }
+    ]
+}

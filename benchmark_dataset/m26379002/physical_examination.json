@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3 °F",
+                "heart_rate": "65 bpm",
+                "blood_pressure": "131/74 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "No apparent distress",
+                "HEENT": "Pupils round and reactive to light and accommodation; no LAD; oropharynx clear, no exudates",
+                "CV": "Regular rate and rhythm; no murmurs/gallops/rubs",
+                "pulmonary": "Clear to auscultation bilaterally; no rales/crackles/rhonchi",
+                "GI": "Soft, tender to palpation in epigastric region; non-distended; no guarding/rebound",
+                "extremities": "No clubbing/cyanosis/edema; 2+ distal pulses; peripheral IV present",
+                "neurological": "Alert and oriented; CN II-XII intact; motor function globally",
+                "dermatological": "No lesions appreciated"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

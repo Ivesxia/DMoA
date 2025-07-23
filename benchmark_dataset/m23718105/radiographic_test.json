@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Within the lung bases, there is bibasilar dependent atelectasis. No focal consolidations or pleural effusions are seen. Within the abdomen, the appendix is dilated measuring up to 14 mm with surrounding fat stranding. No extraluminal air or fluid collection is seen. No free air, free fluid, or pathologically enlarged lymph nodes are identified. Within the liver, several hypodensities measuring up to 11 mm in the hepatic dome are incompletely characterized. Additional subcentimeter hypodensities are present. The right kidney contains a 10-mm hypodensity, most compatible with a simple cyst. The gallbladder is mildly distended without evidence of stones. The small bowel is of normal size and caliber. Note is made of fluid-filled loops of large bowel beginning in the cecum extending superiorly to the hepatic flexure. The bladder, distal ureters, sigmoid colon, and rectum appear normal. Note is made of transitional anatomy in the lower lumbar spine with partial lumbarization of S1. No concerning osseous lesion is seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

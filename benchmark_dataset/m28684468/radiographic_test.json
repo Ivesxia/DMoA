@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Marked interval improvement in the pleural effusions with small residual effusion in the left base and some residual atelectasis at the right lung base. No visualized pulmonary nodules. No focal liver lesions. Gallbladder, spleen, adrenals, kidneys, stomach, duodenum, and visualized large and small bowel appear normal. Marked decrease in the intra-abdominal fluid. Approximately 5.3 x 4.4 cm area of probable phlegmonous aggregate anteriorly in the right flank. Pancreas is somewhat diffusely enlarged with homogeneous enhancement without evidence of necrosis. Interval decrease in the stranding posterior to the pancreas. No pathologically enlarged mesenteric or retroperitoneal nodes. No free air seen in the abdomen. No concerning osseous lesions.",
+            "changes_over_time": "Marked interval improvement in the pleural effusions and marked decrease in the intra-abdominal fluid. Some interval decrease in the stranding posterior to the pancreas."
+        }
+    ]
+}

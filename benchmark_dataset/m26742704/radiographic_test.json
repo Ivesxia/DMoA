@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": {
+                "lower_thorax": "Minimal dependent atelectasis at the lung bases on both sides, right greater than left.",
+                "liver": "Normal signal, no focal hepatic lesions.",
+                "biliary": "Moderately distended gallbladder with mild edema within the gallbladder wall, minimal pericholecystic stranding, layering sludge versus stones; no intra or extrahepatic biliary ductal dilation.",
+                "pancreas": "Pancreas divisum present, normal pancreatic duct morphology, homogeneous enhancement of pancreatic parenchyma.",
+                "spleen": "Normal size, no focal lesions.",
+                "adrenal_glands": "Normal morphology, no nodules.",
+                "kidneys": "No hydronephrosis or solid enhancing renal mass, 2 cm right renal lower pole cortical cyst with thin enhancing internal septation, bilateral parapelvic cysts.",
+                "gastrointestinal_tract": "No bowel obstruction, duodenal diverticulum.",
+                "lymph_nodes": "Normal sized lymph nodes at the porta hepaticus.",
+                "vasculature": "Normal hepatic arterial anatomy, patent portal vein and renal arteries.",
+                "osseous_and_soft_tissue_structures": "Normal marrow signal."
+            },
+            "changes_over_time": "A six-month follow-up ultrasound is recommended to reevaluate stability and any change in internal morphology of the renal cyst."
+        }
+    ]
+}

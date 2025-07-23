@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "Lungs are clear without confluent consolidation. There is no pulmonary edema or pleural effusions. Cardiomediastinal contours are within normal limits. Hila are mildly and symmetrically enlarged.",
+            "changes_over_time": "Prior chest radiographs should be obtained to see if this is a new finding requiring further imaging evaluation."
+        }
+    ]
+}

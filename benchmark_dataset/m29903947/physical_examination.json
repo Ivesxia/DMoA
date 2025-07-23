@@ -1,0 +1,45 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2°F",
+                "heart_rate": "138 bpm",
+                "blood_pressure": "138/58 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general": "Complaint of pain, no acute distress.",
+                "HEENT": "Oropharynx clear, dry mucous membranes.",
+                "neck": "No lymphadenopathy, no jugular venous distention.",
+                "cardiovascular": "Regular rhythm.",
+                "pulmonary": "Clear to auscultation bilaterally.",
+                "abdominal": "Tender to palpation diffusely, no guarding or rebound tenderness, no palpable mass.",
+                "extremities": "Warm, well-perfused, no edema.",
+                "neurological": "Alert and oriented x3."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "ultrasound": {
+                    "multiple_hypoechoic_foci": "Dominant focus measures 2.8 x 1.6 x 2.3 cm, unchanged to slightly decreased size.",
+                    "peripheral_hypodense_lesions": "Unchanged, measuring up to 1.4 cm.",
+                    "hemangioma": "Stable 1.6 x 1.6 x 1.1 cm echogenic focus in the right lobe.",
+                    "intrahepatic_biliary_dilation": "Mild dilation up to 0.6 cm.",
+                    "common_bile_duct": "Dilated up to 1.8 cm.",
+                    "gallbladder": "Wall thickened up to 0.5 cm, irregular internal echoes likely representing sludge.",
+                    "pericholecystic_fluid": "Decreased.",
+                    "pancreatic_duct": "Stable dilation up to 0.7 cm, no focal lesions visualized.",
+                    "portal_vein": "Patent with hepatopetal flow.",
+                    "spleen": "Measures 8.8 cm.",
+                    "inferior_vena_cava": "Appears normal."
+                }
+            },
+            "changes_over_time": "Stable findings with slight size decrease of dominant lesion and decreased pericholecystic fluid."
+        }
+    ]
+}

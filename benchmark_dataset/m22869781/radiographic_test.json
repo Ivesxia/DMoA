@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Minimal dependent bibasilar atelectasis; lung bases are clear. Normal heart size without pericardial effusion. Large amount of oral contrast remains in the stomach and has not progressed beyond the duodenum. Mild dilatation of the central intrahepatic biliary ducts and mildly prominent common bile duct (up to 6 mm). No free air or free fluid. Multiple small retroperitoneal and mesenteric lymph nodes, none meeting CT criteria for pathologic enlargement. IUD seen within the uterus, appropriately positioned. Small amount of free fluid. Large fluid-filled appendix with a large appendicolith near the base measuring approximately 1.6 x 0.6 cm. No evidence of perforation or adjacent abscess formation. Small sclerotic focus in left iliac bone, likely a bone island.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

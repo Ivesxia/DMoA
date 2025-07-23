@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "heart_rate": "86 bpm",
+                "blood_pressure": "140/62 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Elderly gentleman appearing tired.",
+                "abdomen": "Soft, minimally distended, lower midline scar, otherwise no rebound or guarding.",
+                "rectal": "Normal tone, no masses, guaiac negative.",
+                "neck": "Supple.",
+                "chest": "Clear.",
+                "heart": "Regular, no murmurs, rubs, or gallops."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

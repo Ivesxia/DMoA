@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Gallstone pancreatitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with intermittent abdominal pain, which was exacerbated by the presence of gallstones and mild gallbladder wall thickening seen on RUQ ultrasound. Elevated liver enzymes (ALT and AST) also supported the diagnosis of gallstone pancreatitis. Subsequent imaging (MRCP) showed a distended gallbladder with edema in the wall, corroborating acute cholecystitis but ruling that out because of the absence of sonographic Murphy's sign."
+    }
+}

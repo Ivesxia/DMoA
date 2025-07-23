@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Lung volumes are low. Cardiac silhouette appears mildly enlarged. Aorta is tortuous. No pulmonary edema. Patchy opacities are noted in the lung bases, possibly reflective of atelectasis, though infection or aspiration cannot be excluded. Small left pleural effusion may be present. No right-sided pleural effusion or pneumothorax identified, though assessment of the right apex is limited. No acute osseous abnormalities.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

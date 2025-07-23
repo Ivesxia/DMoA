@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated up to 1.9 cm and is fluid filled with surrounding periappendiceal fat stranding and an appendicolith within the proximal portion of the appendix. No extraluminal free air or surrounding free fluid is identified. The imaged lung bases are clear, with no pulmonary nodule or pleural effusion. The liver, spleen, pancreas, and adrenal glands are normal, without focal lesion in the kidneys. The abdominal aorta is non-aneurysmal with no calcified atherosclerotic plaque. The stomach and small bowel loops are normal. The rectum and colon are normal, and the bladder appears unremarkable. No bone destructive lesion or acute fracture is identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

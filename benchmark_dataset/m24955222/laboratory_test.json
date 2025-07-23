@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Bilateral lower lobe atelectasis and a 2 mm pulmonary nodule in the left lower lobe which is unchanged. The appendix is fluid filled, dilated up to 11 mm in diameter, surrounded by a small amount of free fluid and moderate mesenteric fat stranding. The liver enhances homogeneously with numerous subcentimeter hypodensities likely representing simple cysts or biliary hamartomas. The gallbladder, biliary tree, pancreas, spleen, adrenal glands, and kidneys appear normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Creatinine Level",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

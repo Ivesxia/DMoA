@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "In the context of choledocholithiasis, a sphincterotomy was performed, and a plastic stent was placed and later removed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic cholecystectomy",
+            "date": "Not specified",
+            "findings": "Patient elected to forgo surgery at that time after an extensive discussion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Repeat ERCP",
+            "date": "Not specified",
+            "findings": "Included sludge/stone extraction.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

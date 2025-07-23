@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Interval increase in the size of pancreatic cysts: cyst in neck measures 24 x 30 mm (previously 17 x 25 mm); cyst in tail measures 25 x 27 mm (previously 16 x 14 mm). Dilated main pancreatic duct contains non-enhancing filling defects, consistent with multiple stones. Edema within the anterior pararenal space; no fluid collection or pseudoaneurysm detected. Liver has no enhancing lesion; dilatation of left biliary system unchanged. Stent noted in common bile duct, mild enhancement of wall present, gallbladder normal. Possible partial thrombus beyond celiac axis. Multiple non-pathologically enlarged nodes in the peripancreatic region.",
+            "changes_over_time": "Cysts have increased in size compared to prior study; specific measurements provided."
+        }
+    ]
+}

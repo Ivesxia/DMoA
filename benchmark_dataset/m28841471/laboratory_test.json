@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "STAPH AUREUS COAG +, BETA STREPTOCOCCUS GROUP B",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ABDOMEN U.S. (COMPLETE STUDY)",
+            "date": "Not specified",
+            "findings": "The liver is normal in echogenicity, without evidence of focal liver lesion or intra- or extra-hepatic ductal dilatation. No evidence of stone, pericholecystic fluid, or gallbladder dilatation. Common bile duct measures 6 mm. The spleen is normal in size. Left kidney measures 11.4 cm. Right kidney measures 11.8 cm. No evidence of mass, hydronephrosis, or stones. The visualized portion of the pancreatic head and proximal body is unremarkable.",
+            "changes_over_time": "Comparison was made with prior CT study dated ___."
+        }
+    ]
+}

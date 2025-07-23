@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Urinalysis (UA)",
+            "date": "Not specified",
+            "findings": "Positive.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen & Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Low-density collection at the tip of the appendix measuring 1.6 cm x 1.4 cm with surrounding inflammatory changes concerning for tip appendicitis with adjacent abscess formation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute pancreatitis",
+        "differential_diagnosis": "gallstones, seizure disorder, HIV, asymptomatic, malnutrition, mild",
+        "diagnostic_reasoning": "The patient presented with abdominal pain, nausea, and vomiting, alongside elevated liver enzymes (ALT 1251, AST 919) and lipase (431), indicating pancreatic involvement. CT imaging showed mild inflammatory fat stranding around the pancreas and ruled out acute cholecystitis, supporting the diagnosis of acute pancreatitis."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ERCP BILIARY&PANCREAS BY GI UNIT",
+            "date": "Not specified",
+            "findings": "Five fluoroscopic images demonstrate cannulation of the common bile duct with at least one irregular filling defect present just distal to the cystic duct insertion within the common bile duct. A second filling defect located more distally is also likely. The visualized portions of the intrahepatic ducts are unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "Total bilirubin level is 9.4 mg/dL (normal range 8.4 - 10.2 mg/dL), which is within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

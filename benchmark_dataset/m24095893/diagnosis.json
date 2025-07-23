@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified.",
+        "diagnostic_reasoning": "The patient presented with abdominal pain that initially started as vague periumbilical pain but progressed to localized pain in the right lower quadrant (RLQ). Imaging via CT abdomen and pelvis showed a dilated appendix measuring 12 mm, fluid-filled, and containing an appendicolith, with no signs of free fluid or adjacent fluid collections, supporting the diagnosis of appendicitis."
+    }
+}

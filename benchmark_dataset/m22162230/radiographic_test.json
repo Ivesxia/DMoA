@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized lung bases are clear. The liver enhances homogeneously without focal lesions or intrahepatic biliary ductal dilatation. The portal vein is patent. The gallbladder is unremarkable. There is a small splenule inferior to the main spleen. The remainder of the spleen, pancreas, and adrenal glands are unremarkable. The kidneys present symmetric nephrograms and excretion of contrast without focal solid or cystic lesions. The mid to distal appendix is thickened with hyperemia and minimal surrounding stranding, diameter measures 1.0 cm, with a minimal amount of surrounding fluid. No pneumoperitoneum is noted. A small fat containing inguinal hernia is present. The bladder, prostate, and rectum are unremarkable. There is a small amount of free pelvic fluid likely tracking from the abdomen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.2°F",
+                "heart_rate": "56 bpm",
+                "blood_pressure": "114/77 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "Chronically-ill appearing in no acute distress",
+                "HEENT": "NC/AT, PERRLA, EOMI, sclerae anicteric, mucous membranes moist, oropharynx clear",
+                "neck": "Supple",
+                "lungs": "Clear to auscultation bilaterally, no rales/rhonchi/wheezes, good air movement, respiratory effort unlabored, no accessory muscle use",
+                "heart": "Regular rate and rhythm, no murmurs/rubs/gallops, normal S1-S2",
+                "abdomen": "Soft, tender in epigastrium with quiet bowel sounds, no rebound tenderness, no masses or hepatosplenomegaly",
+                "extremities": "Warm, well perfused, no cyanosis/clubbing/edema",
+                "neuro": "Awake, alert and oriented x3, cranial nerves II-XII intact, muscle strength appropriate"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

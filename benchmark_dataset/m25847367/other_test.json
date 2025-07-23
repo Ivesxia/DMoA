@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Physical examination",
+            "date": "Not specified",
+            "findings": "In mild distress, appears uncomfortable; Tender to palpation over right lower quadrant with rebound tenderness and guarding; Dark stools not grossly bloody but guaiac positive.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Diffuse mucosal hyperemia of the colon with mild thickening of the colonic wall; prominent reactive mesenteric lymph nodes measuring up to 1.0 cm; abnormal appendix with mucosal hyperemia and mural thickening; overall findings concerning for possible ulcerative colitis flare.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

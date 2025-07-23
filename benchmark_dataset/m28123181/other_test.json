@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "There is normal flow with respiratory variation in the bilateral subclavian veins. The right internal jugular, axillary, and brachial veins are patent, show normal color flow, spectral doppler, and compressibility. The right basilic is patent, compressible and shows normal color flow. There is an occlusive thrombus involving the cephalic vein at the level of the forearm and a nonocclusive thrombus more proximally in the upper arm. A patent accessory cephalic vein is present.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

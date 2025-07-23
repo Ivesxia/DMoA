@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Diffusely echogenic; smooth contour; no focal liver mass; patent main portal vein with hepatopetal flow; no ascites.",
+                "bile_ducts": "No intrahepatic biliary dilation.",
+                "CBD": "5 mm",
+                "gallbladder": "Cholelithiasis without gallbladder wall thickening.",
+                "pancreas": "Mildly heterogeneous in echogenicity; no definite masses or pancreatic ductal dilation; portions obscured by overlying bowel gas.",
+                "spleen": {
+                    "echogenicity": "Normal",
+                    "length": "13.1 cm"
+                },
+                "kidneys": "Limited views show no hydronephrosis.",
+                "retroperitoneum": "Visualized portions of aorta and IVC are within normal limits."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

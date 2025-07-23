@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "T98.1",
+                "blood_pressure": "BP99/61",
+                "respiratory_rate": "RR16",
+                "oxygen_saturation": "O2Sat99% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, AAOx3",
+                "cardiovascular": "RRR",
+                "respiratory": "CTA b/l",
+                "abdominal": "Soft, non-distended. TTP in RLQ > LLQ to mild-moderate palpation. Epigastric tenderness to moderate palpation. No Rovsing's sign, no rebound or guarding.",
+                "extremities": "Warm, well perfused."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

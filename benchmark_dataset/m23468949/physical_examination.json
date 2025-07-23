@@ -1,0 +1,31 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "125/78 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress",
+                "HEENT": "No scleral icterus, mucous membranes moist",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/gallops/rubs",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes/rales/ronchi",
+                "abdominal": "Soft, nondistended, tenderness to palpation in the RLQ, +guarding, normoactive bowel sounds, no palpable masses",
+                "pelvic": "Bimanual examination with no cervical motion tenderness",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "imaging": "Appendix is dilated up to 1.1 cm, with wall thickening, mucosal hyperenhancement and surrounding fat stranding, consistent with appendicitis."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

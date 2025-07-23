@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "178/110 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "A middle aged female in no acute distress.",
+                "HEENT": "Pupils 4mm and reactive to light, no pharyngeal erythemia, mucous membranes moist, no lymphadenopathy.",
+                "chest": "Clear to auscultation bilaterally, no wheezes, no crackles, no ronchi.",
+                "cardiovascular": "S1 S2 Normal in quality and intensity, regular rate and rhythm, no murmurs, rubs or gallops.",
+                "abdomen": "Peritoneal catheter in place, no erythemia, distended, tense, tender to palpation in the epigastrium, resonant to percussion, no left lower quadrant pain.",
+                "extremities": "Warm, well perfused, very dry skin, no clubbing, cyanosis or edema, dorsalis pedis pulses 2+.",
+                "neurological": "Alert, oriented to person, place, and time, cranial nerves grossly intact, moving all extremities.",
+                "skin": "No rash."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

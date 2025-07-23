@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "T2 hyperintense signal around the gallbladder fossa with subtle parenchymal hyperemia, moderate signal drop indicating hepatic steatosis, no biliary duct dilatation, gallbladder notable for cholelithiasis and sludge, mildly dilated gallbladder with wall edema and mild pericholecystic free fluid.",
+            "changes_over_time": "Similar in appearance to CT from ___ worrisome for ____. Previous abdominal CT demonstrated signs of gallbladder inflammation and edema."
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Thickened gallbladder wall, multiple gallstones, positive sonographic Murphy's sign.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Dilated gallbladder with multiple gallstones.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

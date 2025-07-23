@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Findings suggesting acute uncomplicated appendicitis with likely appendicolith/retained contrast from prior imaging at base and more distally in appendix, wall thickening, dilation to 11 mm, and surrounding stranding. Anemia suggested.",
+            "changes_over_time": "Relative lucency along the right posterior iliac bone appears little changed compared to CT studies dating back to Not specified."
+        }
+    ]
+}

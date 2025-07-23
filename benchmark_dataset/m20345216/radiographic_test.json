@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Sonographic evaluation demonstrates a noncompressible blind-ending tubular structure arising from the expected location of the cecum, likely the appendix. This structure measures up to 1.3 cm in caliber and contains heterogeneous debris. There is no significant surrounding hyperemia. No periappendiceal fluid collection is identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

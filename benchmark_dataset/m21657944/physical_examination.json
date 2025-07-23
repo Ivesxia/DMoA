@@ -1,0 +1,49 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "132 bpm",
+                "blood_pressure": "132/76 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "Laying in bed, comfortable appearing, no acute distress.",
+                "HEENT": "Atraumatic, sclera anicteric, dry mucous membranes, oropharynx clear.",
+                "neck": "Supple, no JVD.",
+                "cardiac": "RRR, S1/S2, no murmurs, gallops, or rubs.",
+                "lung": "Clear to auscultation bilaterally. No crackles, wheezes, or rhonchi.",
+                "abdomen": "Normoactive bowel sounds. Soft, nondistended. Minimally tender to palpation in epigastric region without rebound or guarding.",
+                "extremities": "Warm and well perfused. Pulses 2+. No peripheral edema.",
+                "neuro": "CN II-XII intact."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "142/77 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Patient reports feeling slightly improved. Denies fevers but reports chills."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "100s bpm",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Initial tachycardia noted at the time of admission, later stabilized."
+        }
+    ]
+}

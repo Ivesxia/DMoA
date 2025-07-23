@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The right lower quadrant pancreatic transplant morphology is unremarkable with no evidence of focal pancreatic mass. There is no pancreatic ductal dilatation. Normal color flow and arterial and venous waveforms are seen throughout the transplant graft. The resistive index of the intra pancreatic arteries measures between 0.61 to 0.64. Small amount of peripancreatic free fluid is noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

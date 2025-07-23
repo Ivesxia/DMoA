@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated measuring 1.1 cm in diameter with hyperemic mucosa and thickened wall, findings which are consistent with acute appendicitis. Other findings include clear bases of the lungs bilaterally, no focal lesions in the liver, normal spleen size without abnormalities, symmetric kidneys without hydronephrosis, and unremarkable bladder and pelvis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory examination of triglycerides",
+            "date": "Not specified",
+            "findings": "1.5 mmol/L, within the reference range of 0.5 to 2.0.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

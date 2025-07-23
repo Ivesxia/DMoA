@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Angiography of the Chest",
+            "date": "Not specified",
+            "findings": "No filling defects to suggest pulmonary embolism. No significant hilar, mediastinal or axillary lymphadenopathy. Mild anterior osteophyte formation present within the thoracic spine.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT PELVIS W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Multiple diverticula within the sigmoid colon; 9 cm inflamed segment of sigmoid colon with marked wall edema thickening and pericolonic fat stranding. Air and fluid collection just anterior to sigmoid colon decreased in size from 5 x 3 cm to 3 x 1.9 cm. Two small fluid collections within the wall of the sigmoid colon likely representing intramural abscess. Small amount of free fluid within the pelvis.",
+            "changes_over_time": "The air and fluid collection decreased in size from 5 x 3 cm to 3 x 1.9 cm, suggesting communication with the bowel and auto-decompression."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

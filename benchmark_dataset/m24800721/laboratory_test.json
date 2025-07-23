@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "PCR for Neisseria Gonorrhoeae",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria Gonorrhoeae by PCR.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum HCG Quantitation",
+            "date": "Not specified",
+            "findings": "Negative. For quantitation of positives, send serum for HCG.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Unremarkable liver, gallbladder normal, both kidneys enhance and excrete contrast symmetrically without hydronephrosis. Appendix not definitively identified, but indicated possible complication such as rupture. Minimal pelvic free fluid seen within physiologic range.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

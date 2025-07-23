@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Increased echogenicity of the liver consistent with fatty infiltration. No focal masses noted. Gallbladder contains several stones, no gallbladder wall thickening or edema, and not dilated. A small septation is seen at the fundus. Common bile duct not visualized, no signs of biliary obstruction. Pancreas not well visualized. Spleen normal in size (8.3 cm).",
+            "changes_over_time": "Comparison is made to prior examination of ___."
+        }
+    ]
+}

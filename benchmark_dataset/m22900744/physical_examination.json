@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4 PO",
+                "blood_pressure": "162/83",
+                "heart_rate": "74 bpm",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "96% on RA"
+            },
+            "relevant_findings": {
+                "general": "Alert, audible wheeze with raspy voice, but in no apparent distress",
+                "eyes": "Anicteric, pupils equally round",
+                "ENT": "Ears and nose without visible erythema, masses, or trauma. Oropharynx without visible lesion, mucous membranes moist",
+                "cardiovascular": "Heart regular, no murmur, no S3, no S4. No JVD.",
+                "respiratory": "Lungs clear to auscultation with good air movement bilaterally, no wheezes at rest",
+                "gastrointestinal": "Abdomen soft, minimal tenderness in the epigastrium",
+                "musculoskeletal": "Neck supple, moves all extremities, gait WNL",
+                "skin": "No rashes or ulcerations noted",
+                "neurological": "Alert, oriented, face symmetric, gaze conjugate with EOMI, speech fluent",
+                "psychological": "Pleasant, appropriate affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

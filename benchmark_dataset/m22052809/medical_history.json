@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain for the past 24 hours.",
+        "history_of_present_illness": "Patient experienced worsening abdominal pain yesterday, moving to the right lower quadrant (RLQ) this morning and afternoon. The pain is described as sharp, sore/aching, exacerbated with movement, and palliated by lying still. The pain comes and goes on the order of minutes and is worst at a currently unspecified intensity. There was no radiation of the pain. Nausea was present yesterday, with no relief from Zantac. Decreased appetite noted since yesterday evening, with last meal being dinner and intake of chocolate milk this morning. Denies fever, chills, sweats, vomiting, diarrhea, or changes in urinary frequency.",
+        "past_medical_history": "Right inguinal hernia repair.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laparoscopic cholecystectomy and lysis of dense adhesions",
+            "date": "Not specified.",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified.",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

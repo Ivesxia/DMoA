@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "blood_pressure": "100/71 mmHg",
+                "heart_rate": "82 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% on 2L"
+            },
+            "relevant_findings": {
+                "general": "WDWN obese male, NAD, oriented x3, mood, affect appropriate.",
+                "HEENT": "NCAT, sclera anicteric, PERRL, EOMI, conjunctiva pink, no pallor or cyanosis, no xanthalesma.",
+                "neck": "Supple with JVP of 8 cm.",
+                "cardiac": "PMI laterally displaced, normal S1, S2, systolic murmur at RUSB consistent with aortic stenosis.",
+                "lungs": "CTAB, no crackles, wheezes or rhonchi.",
+                "abdomen": "Soft, minimally tender to LLSB, no HSM or tenderness, aorta not enlarged by palpation, negative guaiac.",
+                "extremities": "No c/c/e, no femoral bruits.",
+                "skin": "No stasis dermatitis, ulcers, scars, or xanthomas.",
+                "pulses": "Carotid 2+, Femoral 2+, Popliteal 2+, DP 1+ bilaterally.",
+                "neurological": "MS alert and oriented x3, coherent, CN II-XII intact, motor symmetric."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

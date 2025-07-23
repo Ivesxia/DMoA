@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "No pleural or pericardial effusions; liver, gallbladder, adrenal glands, spleen unremarkable; mild diffuse atrophy of the pancreas; small hiatal hernia; multiple tiny retroperitoneal lymph nodes do not meet CT criteria for significant adenopathy; extensive sigmoid diverticulosis; no drainable fluid collections or evidence of perforation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Creatinine elevated, intravenous contrast was deferred due to elevated creatinine.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

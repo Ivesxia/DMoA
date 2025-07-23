@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is homogeneous in echotexture without focal lesions. No intra or extrahepatic biliary ductal dilatation. The gallbladder is distended, contains numerous gallstones and sludge, and has a thickened wall measuring 1 cm. There is possible trace pericholecystic fluid and a nonmobile stone at the neck of the gallbladder. The common bile duct is not dilated, measuring 3 mm. Positive sonographic ___ sign. The pancreatic head and body are within normal limits. The spleen measures 10.4 cm with normal echogenicity. Limited views of the kidneys are unremarkable, with the right kidney measuring 11.9 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "2.0 #/hpf.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

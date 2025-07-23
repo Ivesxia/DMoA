@@ -1,0 +1,19 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "heart_rate": "76 bpm",
+                "blood_pressure": "138/85 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "lungs": "No respiratory distress",
+                "abdomen": "Soft, non-distended, tender in right lower quadrant, no Rovsing's sign, no hernias"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

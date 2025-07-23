@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain, nausea, and vomiting for the past 2 days.",
+        "history_of_present_illness": "The patient presents with symptoms that started 2 days ago after eating cheesy bread from Domino's. The abdominal pain began in the lower quadrants and has now become diffuse. The patient has experienced nonbloody vomiting and nausea. He has been drinking heavily for the past week, approximately ___ shots of vodka each day. He reports vague abdominal pain lasting for 2 months, refractory to anti-gas medications and probiotics, with his abdomen becoming larger and firmer. Sitting up helps alleviate the abdominal pain, which is not associated with eating.",
+        "past_medical_history": "Anxiety disorder, Irritable bowel syndrome.",
+        "family_history": "Father has diabetes mellitus; denies family history of cancer. Whole family has irritable bowel syndrome.",
+        "social_history": "Patient admits to being a heavy drinker since high school, drinking about ___ times per week for the past year, with a need to cut down but no feelings of guilt or anger."
+    }
+}

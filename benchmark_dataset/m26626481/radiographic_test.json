@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Normal spontaneous phasic flow and compressibility within the right internal jugular, axillary, brachial and cephalic veins. A PICC line is visualized within the right basilic vein, demonstrating normal spontaneous flow. Spontaneous phasic flow is present in the right subclavian vein. A vessel is identified in the area of previous IV placement in the right wrist with no flow identified and subcutaneous edema in this region.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

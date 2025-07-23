@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Lung volumes are low and there is increased opacity at the left base. It is unclear how much of this is due to volume loss versus an infiltrate. There could also be an early infiltrate in the right lower lung.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

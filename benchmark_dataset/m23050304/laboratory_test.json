@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Microscopic Urinalysis",
+            "date": "Not specified",
+            "findings": "1+ (less than 1 per 1000x field): Polymorphonuclear leukocytes. No microorganisms seen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Mild intrahepatic bile duct dilatation, mildly distended gallbladder with cholelithiasis and gallbladder sludge, mild circumferential gallbladder wall thickening and enhancement, and trace pericholecystic fluid. No definite choledocholithiasis, although images are compromised.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

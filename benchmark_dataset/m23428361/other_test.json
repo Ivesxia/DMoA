@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "Positive for Gram-negative rods (GNRs).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Moderately distended gallbladder with mild circumferential wall thickening, mild-to-moderate pericholecystic fat stranding, focally disrupted gallbladder mucosa concerning for early or impending perforation, tiny stones in gallbladder, and several other findings unrelated to gallbladder issues.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

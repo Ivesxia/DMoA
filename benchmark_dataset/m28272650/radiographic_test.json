@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Dilated and non-compressible distal blind-ending tubular structure in the right lower quadrant, likely representing an inflamed appendix with an appendicolith. Appendix demonstrates circumferential wall thickness (2 mm) and measures up to 9 mm in maximal diameter. No periappendiceal/pericecal fluid noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

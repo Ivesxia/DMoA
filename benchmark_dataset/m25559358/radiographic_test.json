@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver, spleen, pancreas, kidneys, adrenals, and gallbladder are unchanged and unremarkable. Good opacification of the colon from the level of the end colostomy through the cecum with reflux of contrast through the ileocecal valve into distal bowel loops. In the region of the left flank, there is a fluid collection containing a small amount of gas which measures approximately 6 x 2.5 x 3 cm. The bladder is markedly distended, but otherwise unremarkable. There is consolidation/collapse within the visualized portion of the right lower lobe with minimal right-sided pleural effusion and trace atelectasis in the left lower lobe.",
+            "changes_over_time": "The fluid collection in the left flank has demonstrated substantial improvement in size, measuring approximately 6 x 2.5 x 3 cm compared to a previous measurement of approximately 7.7 x 3.5 x 7.6 cm."
+        }
+    ]
+}

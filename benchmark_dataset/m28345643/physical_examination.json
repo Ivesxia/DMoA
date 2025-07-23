@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.9°F",
+                "heart_rate": "126 bpm",
+                "blood_pressure": "126/54 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no apparent distress",
+                "HEENT": "No scleral icterus, mucous membranes moist",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/gallops/rubs",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezing/rales/rhonchi",
+                "abdominal": "Soft, obese, mildly distended, focal tenderness in right lower quadrant with voluntary guarding, positive Rovsing's sign",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

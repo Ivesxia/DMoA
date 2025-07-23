@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The imaging shows an enlarged, hyperemic appendix with nonenhancement of the posterior wall, heterogeneous fluid, and air present in the lumen measuring 19 mm. There is moderate stranding of adjacent fat. Other abdominal organs including the liver, pancreas, spleen, kidneys, and urinary bladder are normal. No pleural or pericardial effusion noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

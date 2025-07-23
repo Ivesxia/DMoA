@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The lung bases demonstrate minimal dependent atelectasis. The heart size is normal. The spleen, adrenal glands, kidneys, and intra-abdominal loops of bowel are within normal limits. Small hypodensities are noted within the right and left lobes of the liver, too small to characterize. Liver is otherwise normal in appearance. There is no retroperitoneal or mesenteric lymphadenopathy. No free air or free fluid is present. The rectum and bladder are within normal limits. There is a left-sided adnexal cyst measuring 2.3 x 2.3 cm, most consistent with normal ovarian follicular activity. The appendix is dilated and fluid-filled measuring up to 1.2 cm in diameter, consistent with appendicitis. There is no perforation or abscess formation. There is no pelvic or inguinal lymphadenopathy. An irregular lucent lesion with irregular sclerotic rim and cortical thinning is noted in the proximal right femur, incompletely assessed.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

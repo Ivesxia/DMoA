@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Bilateral basal atelectases; no suspicious pulmonary nodules; no significant pleural effusions; unremarkable visualized heart and pericardium; homogeneous liver without focal lesions; fluid-filled gallbladder; normal adrenal glands and spleen; unremarkable pancreas. Multiple subcentimeter hypoattenuating lesions in both kidneys likely representing simple renal cortical cysts; extensive fat stranding and multiple locules of free air in the mesentery in the right iliac fossa; loculated fluid collection in the right iliac fossa measuring 3.5 x 2.8 cm; inflammatory process and fluid collection have considerably decreased since earlier study; wall thickening of lower ascending colon, cecum, and terminal ileum; adjacent reactive mesenteric lymphadenopathy; atherosclerotic calcification of the abdominal aorta without aneurysmal dilatation; well-defined fat-containing lesion in right adnexa measuring 3 x 2.1 cm consistent with right ovarian teratoma; no significant pelvic lymphadenopathy or free fluid; unremarkable sigmoid colon and rectum; no suspicious osseous lesions.",
+            "changes_over_time": "The fluid collection measured 5.3 x 4.5 cm in the earlier study and has decreased to 3.5 x 2.8 cm."
+        }
+    ]
+}

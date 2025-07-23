@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "heart_rate": "105 bpm",
+                "blood_pressure": "128/77 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "appears uncomfortable",
+                "cardiovascular": "regular rate and rhythm (RRR), S1S2, no murmurs/rubs/gallops",
+                "pulmonary": "clear to auscultation bilaterally (CTAB)",
+                "abdominal": "mildly distended, positive bowel sounds, soft, tenderness to palpation (TTP) in periumbilical area, focal rebound guarding in periumbilical area"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

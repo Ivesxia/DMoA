@@ -1,0 +1,39 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP with sphincterotomy",
+            "date": "Not specified",
+            "findings": "Post ERCP, the patient's pain resolved.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Small left-sided simple pleural effusion and trace right-sided pleural effusion likely present.",
+                "abdominal": {
+                    "hepatobiliary": {
+                        "liver": "Homogenous attenuation, no focal lesions, no biliary dilatation.",
+                        "gallbladder": "Contains gallstones without wall thickening or surrounding inflammation, small focus of air and pneumobilia expected post ERCP."
+                    },
+                    "pancreas": "Normal attenuation, no focal lesions or ductal dilatation.",
+                    "spleen": "Normal size and attenuation.",
+                    "adrenals": "Normal in size and shape.",
+                    "urinary": "Normal and symmetric kidneys, no focal lesions or hydronephrosis.",
+                    "gastrointestinal": {
+                        "stomach": "Unremarkable.",
+                        "duodenum": "Significant fat stranding along proximal and mid portion.",
+                        "pelvis": "Small free fluid, no free air. Colon and rectum normal."
+                    },
+                    "pelvic": "Urinary bladder and distal ureters unremarkable.",
+                    "reproductive_organs": "Uterus and adnexa unremarkable.",
+                    "lymph_nodes": "Reactive lymph nodes in mesentery, no pelvic or inguinal lymphadenopathy.",
+                    "vascular": "No abdominal aortic aneurysm or significant atherosclerotic disease.",
+                    "bones": "No worrisome osseous lesions or acute fractures.",
+                    "soft_tissues": "Abdominal and pelvic wall within normal limits."
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

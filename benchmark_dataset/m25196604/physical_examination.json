@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "101.0 - 101.2",
+                "heart_rate": "119",
+                "blood_pressure": "131/62",
+                "respiratory_rate": "20",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "temperature": "97.3",
+                "heart_rate": "124",
+                "blood_pressure": "124/78",
+                "respiratory_rate": "20",
+                "oxygen_saturation": "98% RA",
+                "general": "NAD, pleasant",
+                "heent": "OP clear, EOMI",
+                "neck": "No JVD",
+                "cardiovascular": "RR, nS1 S2, no appreciable m/r/g",
+                "pulmonary": "CTAB",
+                "abdominal": "+BS, moderately tender in the LLQ, no rebound, nondistended, no HSM",
+                "extremities": "no c/c/e"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

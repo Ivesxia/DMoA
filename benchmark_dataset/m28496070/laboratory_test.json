@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Adjacent to the lateral aspect of the cecum is a 34 x 25 x 17 mm soft tissue density with adjacent inflammatory stranding. Near this inflammatory region is a single diverticulum that is unaffected. The appendix appears normal, although the tip contains a small amount of fluid, which likely represents a reactive change.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

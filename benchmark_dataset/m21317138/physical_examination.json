@@ -1,0 +1,52 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.7 °F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "139/63 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": [
+                "AAOx3",
+                "EOMI",
+                "PERRL",
+                "Strength right side (chronic), left side weak",
+                "LT sensation grossly intact all 4 extremities",
+                "ECG shows sinus rhythm, PACs, RBBB morphology"
+            ],
+            "changes_over_time": "Intermittent bursts of atrial fibrillation vs. atrial flutter and sinus tachycardia to 130 bpm noted during telemetry monitoring."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2 °F",
+                "heart_rate": "120 bpm",
+                "blood_pressure": "137/92 mmHg",
+                "respiratory_rate": "20 breaths/min"
+            },
+            "relevant_findings": [
+                "AAOx3",
+                "Able to do days of week backwards",
+                "Only complaint is R sided rib pain and RUQ abdominal pain"
+            ],
+            "changes_over_time": "No significant changes observed; patient remains alert but with complaints of rib and abdominal pain."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5 °F",
+                "heart_rate": "155 bpm",
+                "blood_pressure": "147/99 mmHg",
+                "respiratory_rate": "20 breaths/min"
+            },
+            "relevant_findings": [
+                "General: NAD, AAOx3",
+                "CV: Irregular rate, tachycardic, no murmurs, gallops, or rubs",
+                "GI: abdomen soft, tender to RUQ palpation, + ___ sign"
+            ],
+            "changes_over_time": "Tachycardia noted during admission with progressive improvement in level of alertness."
+        }
+    ]
+}

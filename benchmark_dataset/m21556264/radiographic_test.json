@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild dependent atelectasis at the lung bases bilaterally, mild cardiomegaly, small axial hiatal hernia, gynecomastia; hypodensity along the liver dome (10 x 13 mm), hepatic parenchymal hypoattenuation possibly related to fatty deposition, hyperdense lesion in right kidney (1.9 x 2.0 cm), hypodense lesion in right renal mid pole (3.2 x 2.6 cm) likely a simple cyst, small hypodensity in right renal lower pole (11 x 10 mm) incompletely characterized, non-obstructing calcific density in right kidney, no hydronephrosis; abnormal appearance of the appendix (12 mm diameter, does not fill with contrast) with periappendiceal fat stranding, no evidence of free air or abscess.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

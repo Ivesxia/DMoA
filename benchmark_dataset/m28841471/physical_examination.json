@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.1°F",
+                "blood_pressure": "168/77 mmHg",
+                "heart_rate": "60 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "SpO2": "99% RA"
+            },
+            "relevant_findings": "General: Awake, alert, NAD. HEENT: NC/AT, PERRL, EOMI, sclera anicteric, slightly dry MM, OP without lesions. Neck: supple without meningeal signs, no JVD or carotid bruits appreciated. Pulm: decreased BS at bases, otherwise CTA b/l. Cardiac: RRR, nl S1/S2, no M/R/G appreciated. Abdomen: soft, obese, TTP over epigastrum and periumbilicus without rebound or guarding, + BS, no masses or hepatomegaly noted. Ext: No edema b/t, 1+ DP and ___ pulses b/l. large areas of erythema with slight overlying warmth over anterior shins b/l with scabbed over excoriations. 1.5 X 1.0 cm ulcer over dorsal aspect R ___ toe, non-tender to palpation with moderate amount of surrounding erythema, mild amount of serosanginous drainage. No pus noted. Wound does not probe to bone. Skin: multiple areas of excoriation, mostly scabbed over. Neurologic: AAO X 3, CN II - XII intact, nl tone, ___ motor strength b/l, sensation grossly intact to light touch including over ___ fingers on L hand, gait not assessed, 2+ DTRs b/l, finger to nose and rapid alternating hand movements intact.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.7°F",
+                "blood_pressure": "155/88 mmHg",
+                "heart_rate": "64 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "SpO2": "98% RA"
+            },
+            "relevant_findings": "General: Awake, alert, NAD. HEENT: NC/AT, PERRL, EOMI, sclera anicteric, slightly dry MM, OP without lesions. Neck: supple without meningeal signs, no JVD or carotid bruits appreciated. Pulm: decreased BS at bases, otherwise CTA b/l. Cardiac: RRR, nl S1/S2, no M/R/G appreciated. Abdomen: soft, obese, TTP over epigastrum and periumbilicus without rebound or guarding, + BS, no masses or hepatomegaly noted. Ext: No edema b/t, 1+ DP and ___ pulses b/l. large areas of erythema with slight overlying warmth over anterior shins b/l with scabbed over excoriations. 1.5 X 1.0 cm ulcer over dorsal aspect R ___ toe, non-tender to palpation with moderate amount of surrounding erythema, mild amount of serosanginous drainage. No pus noted. Wound does not probe to bone. Skin: multiple areas of excoriation, mostly scabbed over. Neurologic: AAO X 3, CN II - XII intact, nl tone, ___ motor strength b/l, sensation grossly intact to light touch including over ___ fingers on L hand, gait not assessed, 2+ DTRs b/l, finger to nose and rapid alternating hand movements intact.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

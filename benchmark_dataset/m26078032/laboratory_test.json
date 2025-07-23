@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase = 1069",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase = 252",
+            "changes_over_time": "Decreased from 1069 to 252"
+        },
+        {
+            "procedure_name": "WBC",
+            "date": "Not specified",
+            "findings": "WBC = 17.0 with 85% PMNS",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sodium (Na)",
+            "date": "Not specified",
+            "findings": "Na = 129",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Potassium (K)",
+            "date": "Not specified",
+            "findings": "K = 4.6",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine (Cr)",
+            "date": "Not specified",
+            "findings": "Cr = 1.1",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Glucose (BS)",
+            "date": "Not specified",
+            "findings": "BS = 99",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C. difficile test",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile (Reference Range-Negative)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

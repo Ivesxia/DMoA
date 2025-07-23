@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "134/74 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "NAD, A+Ox3",
+                "cardiovascular": "RRR",
+                "pulmonary": "CTA bilaterally",
+                "abdominal": "soft, tender to palpation RLQ, non-distended, mild voluntary guarding RLQ, no rebound tenderness",
+                "extremities": "wwp"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

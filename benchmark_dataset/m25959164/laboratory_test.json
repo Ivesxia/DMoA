@@ -1,0 +1,25 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "nodule": "3-mm nodule in the right lower lobe",
+                "liver": "1.5 cm low-attenuation lesion in the right lobe, possibly a hemangioma, no further focal liver lesions",
+                "spleen": "Normal",
+                "pancreas": "Normal",
+                "adrenal glands": "Normal",
+                "kidneys": "Symmetric parenchymal enhancement, no hydronephrosis or renal mass lesions",
+                "bowel": "Normal, no distension or thickening",
+                "appendix": "Relative distension of the appendiceal tip, measuring up to 9 to 10 mm with mucosal hyperenhancement"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "Serum creatinine: 9.2 mg/dL (Ref. range: 8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

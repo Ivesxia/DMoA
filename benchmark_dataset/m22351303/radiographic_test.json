@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ABDOMEN US (COMPLETE STUDY)",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic, consistent with steatosis. No focal nodules or masses are identified within the liver. No intra or extrahepatic biliary ductal dilation. The common hepatic duct measures 3 mm. The portal vein is patent. No ascites. Gallbladder contains multiple shadowing, layering gallstones. No definite evidence of pericholecystic fluid or gallbladder wall edema. The pancreas is poorly visualized due to overlying bowel gas. Spleen normal echogenicity, measuring 9.5 cm. Kidneys normal cortical echogenicity, no evidence of masses, stones or hydronephrosis. Visualized portions of aorta and IVC are within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

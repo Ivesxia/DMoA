@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bone Marrow Biopsy (BMBx)",
+            "date": "Not specified",
+            "findings": "Hypocellular marrow without evidence of leukemia or lymphoma. Cytogenetics were normal and MGS was positive for TET2 mutation with VAF 18, consistent with myeloid stem cell disorder.",
+            "changes_over_time": "Repeat BMBX showed persistent hypoplasia."
+        },
+        {
+            "procedure_name": "C. difficile PCR",
+            "date": "Not specified",
+            "findings": "Negative. Indicates a low likelihood of CDI or carriage.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Atrial fibrillation without acute ischemic changes.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

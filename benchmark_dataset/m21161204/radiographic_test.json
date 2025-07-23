@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ABDOMEN (SUPINE & ERECT)",
+            "date": "Not specified",
+            "findings": "Multiple loops of mildly dilated large and small bowel with multiple air-fluid levels. Air is seen within the sigmoid colon. NG tube with sideport beyond GE junction. Surgical staples noted throughout the mid abdomen as well as vascular coiling in the pelvis. Visualized osseous structures are unremarkable. Phleboliths noted in the pelvis.",
+            "changes_over_time": "Study is relatively unchanged compared to ___ radiograph."
+        }
+    ]
+}

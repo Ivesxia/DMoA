@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C. difficile PCR",
+            "date": "Not specified",
+            "findings": "NEGATIVE. (Reference Range-Negative). A negative C. diff PCR test indicates a low likelihood of CDI or carriage.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Test for Thrombocytopenia",
+            "date": "Not specified",
+            "findings": "488.0 ng/mL (Reference Range: 30.0 - 400.0). This is outside of the normal range.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

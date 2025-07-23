@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "There is bibasilar atelectasis with trace pleural effusions. No suspicious pulmonary lesion. Multiple hypodensities throughout the liver likely represent simple cysts or biliary hamartomas. The appendix is distended measuring up to 13 mm with wall thickening and enhancement. No perforation or abscess. Trace amount of free fluid within the pelvis.",
+            "changes_over_time": "The 1 cm hypodense lesion within the left adrenal gland is unchanged."
+        }
+    ]
+}

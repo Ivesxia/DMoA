@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "134/73 mmHg",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and appropriate",
+                "HEENT": "No jaundice, dry mucous membranes",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "Clear",
+                "abdominal": "Mildly distended, tender to percussion, generalized peritonitis",
+                "extremities": "No edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

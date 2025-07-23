@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver enhances homogeneously without evidence of concerning focal lesion. There is no intrahepatic biliary ductal dilation. The pancreas enhances homogeneously. There is no peripancreatic stranding or ductal dilation. Kidneys enhance normally and symmetrically. No hydronephrosis. In the right lower quadrant arising from the cecum just distal to the terminal ileum is a fluid-filled, tubular blind-ending structure measuring up to 11 mm in diameter with adjacent fat stranding and thickening of the lateral conal fascia, consistent with acute appendicitis. No evidence of periappendiceal abscess or appendiceal rupture.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

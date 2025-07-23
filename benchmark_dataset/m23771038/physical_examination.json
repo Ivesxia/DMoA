@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2 °F",
+                "heart_rate": "62 bpm",
+                "blood_pressure": "121/62 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "SvO2": "97% RA"
+            },
+            "relevant_findings": {
+                "general": "no apparent distress",
+                "HEENT": "dry MM, anicteric sclerae",
+                "JVP": "low",
+                "cardiac": "regular rhythm, systolic murmur",
+                "pulmonary": "clear to auscultation bilaterally, comfortable",
+                "abdominal": "soft, mild tenderness, diffuse, worse in epigastric and LUQ region, reports rebound-like symptoms, no guarding or rigidity, positive bowel sounds",
+                "extremities": "warm, well perfused, trace edema",
+                "neurological": "cranial nerves grossly intact",
+                "psychological": "pleasant"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

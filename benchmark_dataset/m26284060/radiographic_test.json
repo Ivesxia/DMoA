@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CTA CHEST",
+            "date": "Not specified",
+            "findings": "Pulmonary vasculature is well opacified to the subsegmental level without filling defect to indicate a pulmonary embolus. The thoracic aorta is normal in caliber without evidence of dissection or intramural hematoma. The heart, pericardium, and great vessels are within normal limits. No pericardial effusion is seen. No axillary, mediastinal, or hilar lymphadenopathy is present. No mediastinal mass. No pleural effusion or pneumothorax. Lungs are clear without masses or areas of parenchymal opacification.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

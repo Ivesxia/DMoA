@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Lung bases demonstrate minimal dependent atelectasis without pleural or pericardial effusion. The liver is normal in attenuation without focal lesion, intra- or extra-hepatic biliary ductal dilatation. The kidneys enhance and excrete contrast symmetrically without hydronephrosis. At the base of the cecum, there is asymmetric mural thickening and stranding within the adjacent fat. A rounded hyperenhancing focus is noted, which may reflect the wall of the diverticulum. The appendix is normal. No free air or free fluid in the abdomen. Right lower quadrant mesenteric nodes are slightly prominent and likely reactive.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

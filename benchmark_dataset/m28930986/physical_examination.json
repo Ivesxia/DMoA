@@ -1,0 +1,42 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "121 bpm",
+                "blood_pressure": "121/66 mmHg",
+                "respiratory_rate": "18 bpm",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/gallops/rubs",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes/rales/rhonchi",
+                "abdominal": "Soft, nondistended, minimally tender to palpation in RLQ, no rebound or guarding, normoactive bowel sounds, no palpable masses",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "71 bpm",
+                "blood_pressure": "116/70 mmHg",
+                "respiratory_rate": "18 bpm",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, skin warm and dry",
+                "cardiovascular": "Slightly irregular rate",
+                "pulmonary": "Clear",
+                "abdominal": "Soft, tender, port sites with dressing",
+                "extremities": "No calf tenderness bilaterally, no ankle edema, positive dorsal pedal pulses bilaterally",
+                "mentation": "Alert and oriented x 3, speech clear, no tremors"
+            },
+            "changes_over_time": "The patient was previously tender in the RLQ and is now reported to be soft, tender at the port sites only."
+        }
+    ]
+}

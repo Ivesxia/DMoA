@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Portable abdomen",
+            "date": "Not specified",
+            "findings": "Three fluoroscopic spot images of the right upper quadrant of the abdomen demonstrate cannulation of the gallbladder and subsequent opacification of the intra- and extra-hepatic biliary ducts. There is no evidence of focal dilatation or stenosis. No filling defects are noted. Small amount of contrast is noted to opacify the duodenum on later images.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

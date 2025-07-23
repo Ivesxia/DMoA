@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EGD",
+            "date": "Not specified",
+            "findings": "Revealed gastritis and esophagitis. Recommended to take PPI, but has not been taking.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Adenomatous polyps removed from cecum and ascending colon.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Low normal ejection fraction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Exercise Stress Test",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

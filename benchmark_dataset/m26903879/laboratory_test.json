@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 895 U/L, elevated (normal range not provided)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests (LFTs)",
+            "date": "Not specified",
+            "findings": "Remaining LFTs were normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver, gallbladder, spleen, adrenal glands, and pancreas appear normal. Kidneys enhance symmetrically and there is no evidence of acute abdominal complications.",
+            "changes_over_time": "Comparison is made with a prior study, but specific changes are not detailed."
+        }
+    ]
+}

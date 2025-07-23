@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated and fluid filled with fecalized material, measuring up to 1.9 cm in diameter. A calcification within the lumen proximally measures 0.9 x 0.9 cm compatible with an appendicolith. Smaller calcifications are noted within the lumen distally. No evidence of focal lesions in the liver, pancreas, spleen, or kidneys. Normal urinary bladder and distal ureters. No free fluid in the pelvis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "1.6 mmol/L (outside the normal range of 0.5 - 2.0 mmol/L).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

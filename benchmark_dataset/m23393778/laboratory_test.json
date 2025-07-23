@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Elevated creatinine (1.5) - outside normal range (1.2 - 3.2)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Amylase",
+            "date": "Not specified",
+            "findings": "Elevated amylase (128) - outside normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Elevated lipase (767) - outside normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "Not specified",
+            "findings": "Mild hyponatremia (132) - outside normal range",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

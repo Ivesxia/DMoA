@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.3 °F",
+                "heart_rate": "93 bpm",
+                "blood_pressure": "93/53 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "Appears uncomfortable but otherwise non-acute distress (NAD)",
+                "cardiovascular": "Regular rate and rhythm (RRR)",
+                "pulmonary": "No respiratory distress",
+                "abdominal": "Soft, distended, tympanic, tender mainly in right lower quadrant (RLQ) but also in midline; no rebound, guarding, or rigidity",
+                "rectal": "Deferred",
+                "extremities": "No edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute pancreatitis",
+        "differential_diagnosis": "Celiac disease, Crohn's disease, iron deficiency anemia, vitamin B12 deficiency",
+        "diagnostic_reasoning": "The patient's presentation included worsening epigastric pain, nausea, vomiting, and nonbloody diarrhea over two weeks, alongside a history of pancreatitis-related symptoms. Imaging via MRCP showed pancreas divisum but no significant abnormalities indicating alternate pancreatitis causes, supporting the diagnosis of acute pancreatitis."
+    }
+}

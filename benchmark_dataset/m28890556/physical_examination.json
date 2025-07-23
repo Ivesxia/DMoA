@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7",
+                "heart_rate": "145",
+                "blood_pressure": "145/106",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing in NAD, comfortable, appropriate.",
+                "heent": "NC/AT, sclerae anicteric, MMM, OP clear.",
+                "neck": "Supple, no JVD.",
+                "heart": "Tachycardic, regular rhythm, no MRG, nl S1-S2.",
+                "lungs": "Decreased air movement bilaterally with mild end expiratory wheezing.",
+                "abdomen": "Soft/ND, epigastric tenderness with mild guarding, no rebound, no masses or HSM.",
+                "extremities": "WWP, no c/c/e, 2+ peripheral pulses.",
+                "skin": "Scab over left posterior shoulder.",
+                "neuro": "Awake, A&Ox3."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0",
+                "heart_rate": "112",
+                "respiratory_rate": "24",
+                "blood_pressure": "150/99",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": "Complaining of abdominal pain but requesting ginger ale. Headache without visual changes.",
+            "changes_over_time": "Heart rate decreased from 145 to 112 bpm; respiratory rate increased from 18 to 24."
+        }
+    ]
+}

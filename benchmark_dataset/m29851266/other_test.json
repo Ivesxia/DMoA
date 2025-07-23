@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laparoscopic Cholecystectomy",
+            "date": "Not specified",
+            "findings": "No growth on cultures.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Small bilateral pleural effusions with overlying minimal subsegmental atelectasis; no focal parenchymal consolidation suggestive of pneumonia.",
+            "changes_over_time": "No suspicious interval change noted in heart and mediastinal contours."
+        }
+    ]
+}

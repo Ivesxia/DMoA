@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Worsening abdominal pain on the right side.",
+        "history_of_present_illness": "The patient's pain began a day ago and is associated with nausea, malaise, fever, slight diarrhea. The pain has worsened since onset.",
+        "past_medical_history": "PCOS, Protein C deficiency, DM, obesity.",
+        "family_history": "Sister with Protein C deficiency, cousins with DM.",
+        "social_history": "Not specified."
+    }
+}

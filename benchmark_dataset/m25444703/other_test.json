@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "endoscopic ultrasound with fine needle aspiration",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN WITH AND WITHOUT CONTRAST",
+            "date": "Not specified",
+            "findings": "In the pancreatic head, there is a large heterogeneously lesion, with cystic components and internal calcification, measuring up to 4.4 x 4.1 x 4.3 cm, unchanged in appearance compared to the study two days ago.",
+            "changes_over_time": "Essentially unchanged in appearance compared to the study two days ago."
+        }
+    ]
+}

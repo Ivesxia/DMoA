@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Marked sigmoid colonic wall thickening, mucosal hyperemia, and extensive fat stranding. There is an 18 x 12 mm pocket of fluid with small foci of air, which may represent early abscess formation. Background of extensive diverticulosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

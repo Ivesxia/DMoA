@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient developed abdominal pain and vomiting approximately 2 or 3 days ago. He last had a bowel movement 3 days ago and has vomited 4 times on the day of admission. While on public transportation to the emergency department, he felt a major increase in the pain and called paramedics. He denies fever but endorses chills.",
+        "past_medical_history": "Non-insulin dependent diabetes mellitus, hypertension, hyperlipidemia, cholelithiasis, thalassemia trait. No prior history of surgery.",
+        "family_history": "No history of cardiac disease.",
+        "social_history": "Not specified."
+    }
+}

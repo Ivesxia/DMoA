@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites. There is no intrahepatic biliary dilation. Gallbladder wall is diffusely thickened. A hyperechoic tiny focus could represent a very small adherent stone measuring less than 5 mm. There is no pericholecystic edema. The head and body of the pancreas are within normal limits. The tail of the pancreas is not visualized due to the presence of gas. Normal echogenicity of the spleen. Limited views of the kidneys show no hydronephrosis. The visualized portions of aorta and IVC are within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

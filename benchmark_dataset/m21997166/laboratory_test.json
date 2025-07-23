@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture workup",
+            "date": "Not specified",
+            "findings": "Culture workup discontinued. Further incubation showed contamination with mixed skin/genital flora. Clinical significance of isolate(s) uncertain. Interpret with caution.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactic Acid Dehydrogenase (LDH)",
+            "date": "Not specified",
+            "findings": "Nonspecific elevation of levels of transaminase and lactic acid dehydrogenase (LDH)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": {
+                "Lower Thorax": "Trace bilateral pleural effusions with bibasal atelectasis/consolidation.",
+                "Liver": "Homogeneous attenuation of the liver parenchyma. Bright signal on T2 weighted sequences suggesting some degree of background edema. No periportal edema. Hepatic and portal venous systems patent. No focal hepatic lesion identified.",
+                "Biliary": "Status post laparoscopic cholecystectomy. Common bile duct and hepatic ducts contiguous. Common bile duct normal in caliber (up to 4 mm). No MR evidence of CBD transection, filling defects, or choledocholithiasis. No fluid collection in the surgical bed. Surgical drain in situ.",
+                "Pancreas": "Unremarkable.",
+                "Spleen": "No splenomegaly.",
+                "Adrenal Glands": "Unremarkable.",
+                "Kidneys": "No renal mass identified. No hydroureteronephrosis.",
+                "Gastrointestinal Tract": "Unremarkable.",
+                "Lymph Nodes": "No retroperitoneal or mesenteric adenopathy identified.",
+                "Vasculature": "Imaged portions of abdominal aorta unremarkable. Celiac trunk and SMA patent.",
+                "Osseous and Soft Tissue Structures": "No suspicious osseous lesion identified."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

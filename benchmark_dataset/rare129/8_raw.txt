@@ -1,0 +1,40 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "methyldopa",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "2 × 250 mg for pregnancy-induced hypertension",
+      "treatment_response": "Pregnancy-induced hypertension was optimally controlled."
+    },
+    {
+      "treatment_type": "surgical",
+      "specific_treatment": "labor induction",
+      "start_date": "2023-03-20",  // the closest date to "36 + 3 weeks" of gestation
+      "end_date": "2023-03-21",    // assuming the delivery happened the next day
+      "dosage_or_details": "Foley catheter followed by dinoprostone insert, which was removed after 8 hours.",
+      "treatment_response": "Regular contractile actions of the uterus initiated; successful delivery."
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2023-03-06",
+      "event": "Patient diagnosed with grade 1 Fetal Growth Restriction (FGR) at 30 weeks of pregnancy."
+    },
+    {
+      "date": "2023-03-13",
+      "event": "Weekly assessments for cerebroplacental index and amniotic fluid volume initiated."
+    },
+    {
+      "date": "2023-03-20",
+      "event": "Labor pre-induction started, including the use of a Foley catheter."
+    },
+    {
+      "date": "2023-03-21",
+      "event": "Delivery of a male newborn weighing 1830 g; Apgar scores recorded."
+    }
+  ]
+}
+```

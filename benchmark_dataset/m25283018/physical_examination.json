@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "73 bpm",
+                "blood_pressure": "149/94 mmHg",
+                "respiratory_rate": "14 rpm",
+                "O2_saturation": "96%"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "HEENT": "Normocephalic, atraumatic, oropharynx within normal limits",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular rate and rhythm, normal first and second heart sounds",
+                "abdominal": "RUQ tenderness, no rebound, minimal guarding",
+                "extremities": "No cyanosis, clubbing, or edema",
+                "skin": "No rash, warm and dry",
+                "neurological": "Speech fluent"
+            },
+            "changes_over_time": "Gallbladder wall thickening and gallbladder wall edema more marked than in the prior exam."
+        }
+    ]
+}

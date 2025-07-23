@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver echotexture is heterogeneous without focal mass lesion. There is no intra- or extra-hepatic biliary ductal dilatation. The common bile duct measures 5 mm. The main portal vein is patent with hepatopetal flow. The gallbladder is normal without pericholecystic fluid, wall edema, stones or sludge. Visualized portion of the pancreas is unremarkable. There is no free fluid in the right upper quadrant.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

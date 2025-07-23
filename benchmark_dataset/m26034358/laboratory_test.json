@@ -1,0 +1,51 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "shape_and_contour": "normal",
+                    "echogenicity": "normal",
+                    "focal_lesions": "none"
+                },
+                "gallbladder": {
+                    "evaluation": "somewhat difficult due to overlying bowel gas",
+                    "visualized_portions": "appear distended",
+                    "central_portion": {
+                        "material": "hyperechoic material consistent with sludge"
+                    },
+                    "peripheral_component": {
+                        "foci": "shadowing echogenic foci likely small stones"
+                    },
+                    "wall": {
+                        "thickness": "minimally thickened"
+                    },
+                    "pericholecystic_fluid": "present",
+                    "biliary_duct_dilation": "none",
+                    "common_bile_duct_measurement": "5 mm"
+                },
+                "pancreas": "not well evaluated due to overlying bowel gas",
+                "right_kidney": {
+                    "evaluation": "limited views",
+                    "hydronephrosis": "none",
+                    "stones": "none"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": {
+                "result": "NO GROWTH",
+                "reference_range": {
+                    "lower": 5.0,
+                    "upper": 8.0,
+                    "measurement": "6.5 units"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

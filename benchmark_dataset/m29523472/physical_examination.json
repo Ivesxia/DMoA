@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "heart_rate": "103 bpm",
+                "blood_pressure": "127/62 mmHg",
+                "respiratory_rate": "20 breaths per minute"
+            },
+            "relevant_findings": {
+                "constitutional": "Uncomfortable but in no distress",
+                "HEENT": "Normocephalic, atraumatic",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular rate and rhythm, normal first and second heart sounds",
+                "abdominal": "Soft, decreased bowel sounds, tenderness in right lower quadrant, mild tenderness in left lower quadrant, no rebound or guarding",
+                "extremities": "No cyanosis, clubbing or edema",
+                "skin": "No rash, warm and dry",
+                "neuro": "Speech fluent",
+                "psych": "Normal mentation, normal mood"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

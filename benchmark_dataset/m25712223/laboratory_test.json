@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild bibasilar atelectasis with no pulmonary effusion or pneumothorax. Enlarged heart with no pericardial effusion. Vascular calcifications present. Liver, spleen, pancreas, and adrenals appear normal. Mild left intrahepatic biliary dilatation. Several round hypodensities measuring to 8-mm in the left kidney, too small to characterize. No abnormality of abdominal loops of bowel, no free fluid, or pathologic lymphadenopathy. Extensive sigmoid diverticulosis without perforation or abscess.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Salmonella and Shigella test",
+            "date": "Not specified",
+            "findings": "NO SALMONELLA OR SHIGELLA FOUND.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Temperature": "97.7°F",
+                "Heart Rate": "72 bpm",
+                "Blood Pressure": "120/73 mmHg",
+                "Respiratory Rate": "16 breaths/min",
+                "Oxygen Saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "General": "NAD, AAOx3",
+                "Cardiovascular": "RRR",
+                "Pulmonary": "CTAB, no wheezes/rales/rhonchi",
+                "Abdomen": "Soft, ND, TTP in RUQ and midepigastrium, no G/R, not peritoneal",
+                "Extremities": "Well healed c-section scars, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

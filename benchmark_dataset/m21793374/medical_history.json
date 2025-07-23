@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "New onset abdominal pain.",
+        "history_of_present_illness": "Abdominal pain began with a new onset and progressed over the next six to eight hours, leading to tachycardia and requiring intubation.",
+        "past_medical_history": "1. HIV diagnosed in ___ on HAART therapy - last CD4+ 700's and no history of AIDS defining illness. 2. Hypertension. 3. Hypercholesterolemia. 4. Grave's disease - treated with iodine ablation in ___. 5. Depression/Anxiety. 6. Possible complex partial seizures in ___ - normal work-up including MRI and EEG. 7. History of ethanol/polysubstance abuse - no history of withdrawal seizures. 8. History of bitemporal throbbing.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

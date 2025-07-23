@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "152/84 mmHg",
+                "respiratory_rate": "17 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "NAD, A&Ox2, not oriented to time",
+                "HEENT": "Anicteric, dry mucosal membranes",
+                "neck": "No JVD, no LAD, no TM, faint bruit on L",
+                "cardiovascular": "RRR, no M/G/R",
+                "pulmonary": "CTAB",
+                "abdominal": "Soft, mildly distended, TTP b/l lower quadrants with involuntary guarding and rebound, quite tender at L flank and CVA",
+                "inguinal_hernias": "B/L inguinal hernias, L > R, reducible, tender to palp over L without overlying skin changes",
+                "DRE": "Normal tone, no masses, no gross or occult blood",
+                "extremities": "Warm and well perfused, no peripheral edema",
+                "neurological": "Motor and sensation grossly intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Asymmetric wall thickening of a segment of the proximal sigmoid colon with a mass-like appearance and significant surrounding fat stranding. No bowel obstruction is seen. No small bowel thickening. The terminal ileum is normal. No evidence of diverticulosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH]",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

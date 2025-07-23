@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Visualized lung bases are within normal limits. The liver is within normal limits, with no suspicious mass lesions or other focal abnormality identified. No evidence of choledocholithiasis; the biliary tree is normal in size, with no evidence of acute cholecystitis. Mild enhancement of the distal CBD in the region of the pancreatic head, likely related to mild pancreatitis. Lack of visualization of the main pancreatic duct at the level of the head over approximately 2 cm, with minimal upstream dilation; mild increased signal on T2-weighted images and decreased signal on T1-weighted sequences, compatible with focal pancreatitis. Trace amount of fluid in the anterior pararenal spaces bilaterally, slightly worse on the left; no evidence of pancreatic necrosis. Spleen is normal in size with no suspicious lesions; a 5.7 x 7.1 cm left adrenal myolipoma; benign simple appearing renal cysts seen bilaterally.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

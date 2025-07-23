@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized portions of the lung bases demonstrate small bilateral pleural effusions. Basilar atelectasis is noted bilaterally, more prominent on the left than on the right. There is a 25 mm simple cyst arising from the interpolar region of the right kidney. Diffuse thickening of the second, third, and fourth portion of the duodenum; ileus involving the proximal small bowel loops, some measuring up to 3.7 cm; moderate amount of ascites noted. The pancreas enhances homogeneously. No signs of pancreatic necrosis are noted. Peripancreatic fluid collection within the anterior pararenal space with extension into the left paracolic gutter is noted. Severe attenuation of the splenic vein is present; however, no splenic vein thrombosis is noted. Diffuse mesenteric haziness and nodularity is noted in the left upper quadrant area, likely related to fat necrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbiology Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

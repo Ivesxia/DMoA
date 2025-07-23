@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "84 bpm",
+                "blood_pressure": "141/81 mmHg",
+                "respiratory_rate": "16"
+            },
+            "relevant_findings": {
+                "general": "NAD, A&Ox3",
+                "cardiovascular": "RRR",
+                "pulmonary": "CTA b/l, no labored breathing",
+                "abdominal": "soft, NT, ND, no rebound or guarding",
+                "extremities": "warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

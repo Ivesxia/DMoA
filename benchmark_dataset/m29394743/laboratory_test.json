@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Moderate amount of free fluid in the left anterior pararenal space extending down the left paracolic gutter. Small amount of perihepatic free fluid and moderate amount of free fluid in the right paracolic gutter, extending down to the right lower quadrant. Pancreas has lost its normal texture. Pancreatic duct is dilated up to 5.3 mm in the neck and up to 5.6 mm in the pancreatic head with some irregularity distally. Distal pancreatic duct is tapering in the ampullary region. There may be an ampullary stricture. No organized fluid collection seen. Two pancreatic cysts; one in the tail measuring 8 mm, another in the neck measuring 5 mm, both communicate with the central pancreatic duct. CBD is 8.5 mm in the porta hepatis, tapering to 6.6 mm in the pancreatic head, with mild intrahepatic biliary dilatation. No mass in pancreatic head, ampulla, or CBD stone. Incidental findings include fundal focal adenomyomatosis of gallbladder and a 3.8-cm fluid collection in the right cardiophrenic angle, likely extension of abdominal ascites through anterior right Morgagni hernia. Area of focal fatty change in segment IVb, adjacent to the falciform ligament.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Venous catheterization, not elsewhere classified",
+            "date": "Not specified",
+            "findings": "2.0 ng/mL (reference range: 0.0 - 10.0 ng/mL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

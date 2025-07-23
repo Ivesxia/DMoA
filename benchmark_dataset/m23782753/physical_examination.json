@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97°F",
+                "blood_pressure": "114/75 mmHg",
+                "heart_rate": "87 bpm",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Awake, alert, NAD, pleasant, appropriate, cooperative.",
+                "HEENT": "NCAT, PERRL, EOMI, no scleral icterus, MMM, no lesions noted in OP.",
+                "neck": "supple",
+                "pulmonary": "Lungs CTA bilaterally, no wheezes, rhonchi or rales.",
+                "cardiac": "RR, nl S1 S2, no murmurs, rubs or gallops appreciated.",
+                "abdomen": "soft, ND, normoactive bowel sounds, no masses or organomegaly noted. TTP at LLQ quadrant, no rebound/guarding.",
+                "extremities": "No edema, 2+ radial, DP pulses b/l.",
+                "skin": "no rashes or lesions noted.",
+                "neurologic": "Alert, oriented x 3. Cranial nerves II-XII grossly intact."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

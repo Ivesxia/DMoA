@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Woke up yesterday morning with diffuse lower abdominal pain. Progressively worse throughout the day, requiring the patient to unbutton his pants. Episodes of diarrhea at 2 pm and 4 pm, with one episode of emesis. Symptoms aggravated by a long car ride and changes in diet including an increase in fatty food and alcohol over the past few weekends.",
+        "past_medical_history": "Coronary Artery Disease, Hypertension, Dyslipidemia, Skin cancer (basal cell/squamous cell) excision x 3, Asymmetric prostate.",
+        "family_history": "Father died at age ___ from a stroke. Uncle also died from a stroke. Maternal grandfather died at age ___ of CAD. Mother has PVD.",
+        "social_history": "Not specified."
+    }
+}

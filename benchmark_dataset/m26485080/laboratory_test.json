@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC count: 9.6 K/uL (normal range: 4.0 - 11.0 K/uL), which is within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Retrocecal appendix dilated to 11 mm with fluid. Small amount of fluid in the periappendiceal mesentery with adjacent stranding. Hypodensity in segment VI of liver too small to characterize. Bilobed fibroid in uterus previously measured 9.0 x 10.4 x 5.6 cm, now measures 9.1 x 9.6 x 6.7 cm, indicating a slight decrease in size.",
+            "changes_over_time": "The fibroid showed a slight decrease in size possibly due to partial involution of the necrotic posterior portion."
+        }
+    ]
+}

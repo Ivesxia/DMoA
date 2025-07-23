@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "heart_rate": "104 bpm",
+                "blood_pressure": "142/87 mmHg",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "95% on room air"
+            },
+            "relevant_findings": {
+                "general": "Resting comfortably in no apparent distress",
+                "HEENT": "EOMI, PERRL, anicteric",
+                "neck": "Supple, no lymphadenopathy",
+                "chest": "Clears to auscultation bilaterally, no respiratory distress",
+                "heart": "Regular rate and rhythm, normal S1 & S2",
+                "abdomen": "Protuberant, moderately distended, tender to palpation in RUQ, positive sign noted, no rebound or guarding",
+                "neurological": "Alert and oriented x3",
+                "extremities": "No edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

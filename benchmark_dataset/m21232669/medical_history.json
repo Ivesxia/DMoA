@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient reports abdominal pain that started in his back after dinner last night. Over the course of the night, it progressed to epigastric pain radiating to his back, which was persistent. He then started vomiting multiple times, prompting his son to bring him to the ED.",
+        "past_medical_history": "Coronary artery disease (CAD) status post coronary artery bypass grafting (CABG) x4, hypertension (HTN), history of cerebrovascular accident (CVA) with dysarthria (resolved), possible gastroesophageal reflux disease (GERD).",
+        "family_history": "Strong family history of coronary artery disease (CAD) and hypertension (HTN); patient has 4 children who are healthy.",
+        "social_history": "Not specified."
+    }
+}

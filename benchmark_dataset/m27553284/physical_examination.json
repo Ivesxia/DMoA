@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "66 bpm",
+                "blood_pressure": "97/51 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "96% on RA"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x 3, more comfortable after receiving pain medications.",
+                "HEENT": "Nonicteric, atraumatic/normocephalic.",
+                "cardiovascular": "S1, S2, Regular rate and rhythm, no murmurs/rubs/gallops.",
+                "lungs": "Clear to auscultation bilaterally, no rhonchi/rales/crackles.",
+                "abdomen": "Tenderness to deep palpation along entire subcostal region bilaterally, tenderness to deep palpation on RUQ, ___ sign, marked tenderness to light palpation on R upper back."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

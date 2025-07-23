@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Gallbladder is distended and contains multiple gallstones. Two calculi identified within the cystic duct, measuring 6 mm and 8 mm. Fluid present within the gallbladder wall. Abnormal enhancement of the cystic duct and gallbladder wall, particularly in the body and fundus of the gallbladder. Restricted diffusion within the gallbladder wall in the body and fundus. No intra or extrahepatic duct dilatation. No filling defects within the common bile duct. Abnormal hyperenhancement of the left lobe of the liver and surrounding the gallbladder on the arterial phase consistent with a perfusion anomaly. Compression of the main portal vein by the distended stone-containing cystic duct, but the portal vein remains patent. No focal liver lesions. Kidneys within normal limits. Accessory renal arteries bilaterally.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Exam for Serum Bilirubin",
+            "date": "Not specified",
+            "findings": "3.9 mg/dL (Reference range: 2.7 - 4.5 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

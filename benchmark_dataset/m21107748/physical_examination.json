@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "145/59 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert, oriented x3.",
+                "HEENT": "No scleral icterus; mucous membranes dry.",
+                "cardiovascular": "Regular rate and rhythm.",
+                "pulmonary": "Clear to auscultation bilaterally.",
+                "abdominal": "Soft, obese with tenderness to palpation of right upper quadrant; negative Murphy's sign; no rebound tenderness or guarding; no masses.",
+                "rectal": "Normal tone; no masses; no gross blood; heme-occult negative.",
+                "extremities": "Warm without edema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

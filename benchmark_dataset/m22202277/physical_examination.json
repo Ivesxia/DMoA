@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "blood_pressure": "131/84 mmHg",
+                "heart_rate": "68 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert, comfortable, NAD",
+                "eyes": "EOMI, PERRL, no conjunctival pallor or irritation",
+                "ENT": "MMM, no oral lesions",
+                "neck": "no LAD, no nuchal rigidity, JVP WNL",
+                "cardiovascular": "RRR, no M/R/G",
+                "respiratory": "CTAB, no wheezes or crackles",
+                "gastrointestinal": "Soft, NTND, no HSM, Normal Bowel Sounds",
+                "extremities": "No cyanosis, clubbing or edema. No signs of DVT",
+                "skin": "no rash, no Pressure Ulcers",
+                "neurological": "A+OX3, Non-Focal, Fluent Speech, Normal concentration",
+                "psychological": "Calm and Appropriate"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

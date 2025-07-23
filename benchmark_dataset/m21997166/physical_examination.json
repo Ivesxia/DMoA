@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "blood_pressure": "154/57 mmHg",
+                "heart_rate": "75 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air",
+                "weight": "342 lb",
+                "BMI": "55.6"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "HEENT": "No signs of scleral icterus or jaundice",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/rubs/gallops",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes/rhonchi",
+                "abdominal": "Soft, non-tender, non-distended. Negative ___ sign (on morphine)",
+                "extremities": "Warm, perfused. Bilateral edema with mild tenderness to palpation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

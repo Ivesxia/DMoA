@@ -1,0 +1,13 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right upper quadrant abdominal pain",
+        "history_of_present_illness": "The pain started 5 days ago, described as sharp and radiating to the back. The patient also endorses fevers, chills, and vomiting.",
+        "past_medical_history": "Prostate cancer",
+        "family_history": "Not specified",
+        "social_history": {
+            "tobacco_use": "Never smoker",
+            "alcohol_use": "Present, 1 drink per week",
+            "recreational_drugs": "Denies"
+        }
+    }
+}

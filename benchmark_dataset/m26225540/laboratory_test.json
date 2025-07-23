@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Elevated lipase",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Troponin",
+            "date": "Not specified",
+            "findings": "Negative troponin",
+            "changes_over_time": "Second negative troponin on repeat labs."
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "AST 63 U/L, ALT 41 U/L - elevated.",
+            "changes_over_time": "Worsening transaminases on repeat labs."
+        },
+        {
+            "procedure_name": "Bilirubin and Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "Stably elevated bilirubin and alkaline phosphatase.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis (UA)",
+            "date": "Not specified",
+            "findings": "Many squamous epithelial cells and WBCs.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Mild hepatic steatosis (fat fraction = 5%), cholelithiasis, periportal edema, multiple subcentimeter cystic lesions in pancreas, normal kidneys except for bilateral cortical cysts.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

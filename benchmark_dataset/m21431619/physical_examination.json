@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "102.8 F",
+                "heart_rate": "107 bpm",
+                "blood_pressure": "102/71 mmHg",
+                "respiratory_rate": "20 breaths/min"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "HEENT": "Normocephalic, atraumatic",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm, Normal first and second heart sounds",
+                "abdominal": "Soft, Nondistended, moderately tender in RLQ w/ no rebound or guarding",
+                "extremities": "No cyanosis, clubbing or edema",
+                "skin": "No rash, Warm and dry",
+                "neurological": "aphasic",
+                "psychological": "Normal mood"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

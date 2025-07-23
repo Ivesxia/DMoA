@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Minimal stranding about the pancreas is present. Tiny subcentimeter hypodensities within the liver are statistically likely biliary hamartomas, but remain too small for further characterization. No intra- or extra-hepatic bile duct dilation. The gallbladder, spleen, adrenal glands, kidneys, stomach, and intra-abdominal loops of small and large bowel are normal. There is mild colonic diverticulosis, with no evidence of diverticulitis. Mild gynecomastia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "3.0 mg/dL (normal range 2.7 - 4.5 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

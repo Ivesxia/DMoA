@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laparoscopic appendectomy",
+            "date": "Not specified",
+            "findings": "The appendix is dilated, hyperemic with thickened walls, measuring 10 mm in diameter. Extensive surrounding fat stranding is noted as well as thickening of the right lateral conal fascia. There is a small amount of free fluid in the right lower quadrant, but no organized collection or abscess seen. No evidence of appendiceal perforation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung bases demonstrate minimal dependent atelectatic changes. The appendix is dilated, hyperemic with thickened walls, measuring 10 mm in diameter. There is extensive surrounding fat stranding and a small amount of free fluid in the right lower quadrant. No evidence of appendiceal perforation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

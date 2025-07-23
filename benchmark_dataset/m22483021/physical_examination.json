@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.5°F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "103/59 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "constitutional": "Well appearing, in no acute distress",
+                "cardiopulmonary": "RRR, normal S1 and S2, no murmurs, CTAB",
+                "abdominal": "Soft, slightly distended, right lower quadrant tenderness with palpation",
+                "extremities": "Atraumatic, no clubbing, cyanosis or edema",
+                "neurologic": "Grossly intact, alert and oriented x 3, ambulates normally without assistance"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

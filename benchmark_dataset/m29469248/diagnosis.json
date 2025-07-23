@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with nausea, vomiting, and abdominal pain, specifically in the right lower quadrant, which raised suspicion for appendicitis. Physical examination revealed moderate tenderness to palpation in the right lower quadrant, with rebound tenderness and voluntary guarding. An ultrasound was performed targeting the right lower quadrant due to the patient's pain, but the appendix was not identified, suggesting the possibility of appendicitis."
+    }
+}

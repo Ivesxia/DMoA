@@ -1,0 +1,47 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "echotexture": "normal",
+                    "focal lesions": "none"
+                },
+                "gallbladder": {
+                    "distention": "mild",
+                    "stones": "present",
+                    "wall_thickness": "4 mm (mild thickening)"
+                },
+                "pericholecystic_fluid": "none",
+                "common_bile_duct": "6 mm",
+                "portal_vein": {
+                    "patency": "patent",
+                    "flow": "hepatopetal"
+                },
+                "pancreas": {
+                    "evaluation": "limited",
+                    "visualized_portions": "within normal limits"
+                },
+                "right_kidney_size": "10.2 cm",
+                "left_kidney_size": "11 cm",
+                "hydronephrosis": "none",
+                "masses": "none",
+                "spleen_size": "8.1 cm"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Unknown Laboratory Test",
+            "date": "Not specified",
+            "findings": {
+                "value": "64.0 IU/L",
+                "reference_range": {
+                    "lower": 0.0,
+                    "upper": 100.0
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

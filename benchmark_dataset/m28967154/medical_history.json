@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Fever to 103.9 and diarrhea.",
+        "history_of_present_illness": "Patient reports having had 3 days of watery, nonbloody diarrhea last week and intermittent fevers since that time. Denies associated symptoms and notes some anorexia with less oral intake over the past 7 days.",
+        "past_medical_history": "Renal cell carcinoma, bladder cancer, osteoporosis, multinodular goiter, endometriosis.",
+        "family_history": "Dementia, pharyngeal cancer, liver cancer.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood test for hyperlipidemia",
+            "date": "Not specified",
+            "findings": "Total cholesterol level at 8.0 mg/dL; outside normal range (Ref range: 8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Pericholecystic fluid surrounding the gallbladder, multiple gallstones, normal gallbladder wall, cystic change and thickening consistent with adenomyomatosis, normal pancreas, wedge-shaped enhancement around a small cyst in the liver, multiple subcentimeter T2 hyperintense lesions in the liver, multiple simple renal cysts, diverticulum in the duodenum, and bibasal atelectasis noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

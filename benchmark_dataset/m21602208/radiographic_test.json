@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Hepatic parenchyma appears somewhat echogenic, consistent with fatty change; a focal area of decreased echogenicity adjacent to the gallbladder fossa, likely focal fat sparing; gallbladder is distended and full of sludge with gallbladder wall thickening and pericholecystic fluid; no intrahepatic biliary dilation; CBD measures 6 mm; trace ascites may be present.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

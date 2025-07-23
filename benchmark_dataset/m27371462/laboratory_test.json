@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver enhances homogeneously, with small hypodensities at the left lobe (5 mm and 12 mm), mild left sided intrahepatic biliary dilatation, a biliary stent in the left hepatic duct extending into the common bile duct and duodenum. The CBD measures up to 10 mm, which is dilated. The CT shows a 10-mm right adrenal lesion, kidneys enhancing and excreting contrast symmetrically, with no hydronephrosis or mass. Focal segment of sigmoid colon demonstrates mild circumferential wall thickening, mucosal enhancement, and pericolonic fat stranding, with inflamed diverticula. No abscess or perforation present, and no bowel obstruction seen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "WBC count",
+            "date": "Not specified",
+            "findings": "WBC count was 15, which is elevated (normal range not specified).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "INR",
+            "date": "Not specified",
+            "findings": "INR was 4, which is elevated (normal range typically less than 1.2).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "U/A positive for infection.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "NG lavage",
+            "date": "Not specified",
+            "findings": "NG lavage was clear.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

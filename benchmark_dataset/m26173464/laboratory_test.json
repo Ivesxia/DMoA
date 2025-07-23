@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": "The liver has a normal echotexture without any focal hepatic lesions. There is no intrahepatic or extrahepatic biliary dilatation, and the common bile duct measures 4 mm. The main portal vein is patent with normal hepatopetal flow. The gallbladder is distended and noted to contain at least 1 shadowing gallstone. There is associated pericholecystic fluid and gallbladder wall thickening measuring 5 mm. There is a positive sonographic sign.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Examination",
+            "date": "Not specified",
+            "findings": "1.5 mmol/L; NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

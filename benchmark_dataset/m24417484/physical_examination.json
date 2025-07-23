@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "73 bpm",
+                "blood_pressure": "102/70 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "95% on room air"
+            },
+            "relevant_findings": {
+                "constitutional": "Alert, oriented, no acute distress",
+                "eyes": "Sclera anicteric, EOMI, PERRL",
+                "ENT": "MMM, oropharynx clear, normal hearing, normal nares",
+                "cardiovascular": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+                "respiratory": "Clear to auscultation bilaterally, no wheezes, rales, rhonchi",
+                "gastrointestinal": "Soft, diffuse tenderness to palpation, worst in epigastrium, mildly distended, bowel sounds present, no organomegaly, no rebound or guarding",
+                "genitourinary": "No foley",
+                "extremities": "Warm, well perfused, no clubbing, cyanosis, or edema",
+                "neurological": "A&O x3, CN II-XII and strength grossly intact",
+                "skin": "No rashes or lesions"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "pulse": "61 bpm",
+                "blood_pressure": "149/79 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100% on RA"
+            },
+            "relevant_findings": {
+                "general": "awake, alert, oriented x 3",
+                "HEENT": "NCAT, EOMI, anicteric",
+                "heart": "RRR",
+                "lungs": "CTAB, normal excursion, no respiratory distress",
+                "chest": "non-tender",
+                "back": "no vertebral tenderness, no CVAT",
+                "abdomen": "soft, ND, locally tender to palpation over RUQ. Nonperitoneal. No hernias or masses.",
+                "pelvis": "no gross blood, no occult blood",
+                "extremities": "WWP, no CCE"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

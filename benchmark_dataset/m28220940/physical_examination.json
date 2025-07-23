@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0 °F",
+                "heart_rate": "87 bpm",
+                "blood_pressure": "127/81 mmHg",
+                "respiratory_rate": "20 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "In NAD",
+                "cardiovascular": "RRR",
+                "lungs": "CTAB",
+                "abdomen": "soft, mild tenderness to RUQ, no guarding, infra-umbo 2cm scar",
+                "extremities": "no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

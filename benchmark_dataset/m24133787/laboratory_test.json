@@ -1,0 +1,24 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified.",
+            "findings": {
+                "liver": "Mildly diffusely echogenic; smooth contour; no focal liver mass; main portal vein patent with hepatopetal flow; no ascites.",
+                "bile_ducts": "No intrahepatic biliary dilation; CHD measures 8 mm.",
+                "gallbladder": "Several stones noted without gallbladder-wall thickening or edema; no pericholecystic fluid.",
+                "pancreas": "Not well visualized, largely obscured by overlying bowel gas.",
+                "spleen": "Normal echogenicity, upper limits of normal in size measuring 12 cm.",
+                "kidneys": "Limited views show no hydronephrosis.",
+                "retroperitoneum": "Visualized portions of aorta and IVC are within normal limits."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified.",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

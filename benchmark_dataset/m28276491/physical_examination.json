@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "78 bpm",
+                "blood_pressure": "148/90 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on RA"
+            },
+            "relevant_findings": {
+                "general": "Laying in bed. Very pleasant. Alert and oriented x3.",
+                "cardiovascular": "Regular rate and rhythm, no murmur, normal S1/S2.",
+                "pulmonary": "Clear to auscultation bilaterally.",
+                "abdominal": "Obese, soft, with right upper quadrant tenderness upon palpation.",
+                "extremities": "Warm, well-perfused, no edema."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

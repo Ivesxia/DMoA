@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is distended fluid-filled with obstructive appendicolith, enhancing wall, and surrounding fat stranding in keeping with acute appendicitis. No pneumonia or pleural effusion at the lung bases. No pericardial effusion. The liver enhances homogeneously. No intra- or extra-hepatic biliary duct dilatation. The gallbladder, spleen, pancreas, and bilateral adrenal glands are normal. The kidneys enhance symmetrically and excrete contrast symmetrically with no evidence of hydronephrosis. The loops of small bowel are normal with no bowel obstruction. The colon appears within normal limits. The uterus and bilateral ovaries are normal. There is trace fluid in the pelvis, within physiologic limits. No pathologically enlarged lymph nodes in the retroperitoneum, mesentery, pelvic, or inguinal area according to CT size criteria. The urinary bladder is normal. No suspicious lytic or sclerotic lesion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

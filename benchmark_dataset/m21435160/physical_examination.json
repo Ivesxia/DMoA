@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "heart_rate": "71 bpm",
+                "blood_pressure": "128/64 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "alert and oriented, no acute distress",
+                "HEENT": "normal EOM",
+                "cardiovascular": "normal S1, S2, no murmurs",
+                "respiratory": "CTAB",
+                "abdominal": "soft, nontender, nondistended, no masses",
+                "extremities": "warm, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

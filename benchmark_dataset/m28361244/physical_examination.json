@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "95°F",
+                "blood_pressure": "147/71 mmHg",
+                "heart_rate": "67 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "Asleep, easily awoken, daughter at bedside.",
+                "head_and_neck": "NCAT, EOMI, anicteric.",
+                "cardiovascular": "Regular rate.",
+                "pulmonary": "CTA B.",
+                "abdominal": "Soft, TTP in RUQ>LUQ, no rebound, positive bowel sounds.",
+                "extremities": "No edema or calf tenderness.",
+                "psychological": "Affect appropriate.",
+                "neurological": "Speech fluent."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

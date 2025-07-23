@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The gallbladder is distended measuring 16.2 x 5.4 x 5.4 cm with significant gallbladder wall edema and associated inflammation. There are 4 large gallstones layering dependently and 1 stone measuring 1.8 cm impacted in the neck of the gallbladder, causing intrinsic compression of the proximal common hepatic duct resulting in mild intrahepatic biliary dilatation. The common bile duct is of normal caliber with no evidence of choledocholithiasis. The liver demonstrates normal signal intensity without any focal lesions. Increased perfusion around the gallbladder fossa due to hyperemia from gallbladder inflammation. The pancreas, spleen, adrenal glands are unremarkable. Kidneys enhance and excrete contrast as expected without hydronephrosis or focal lesions. The stomach and visualized abdominal bowel loops are unremarkable. There is a trace amount of perihepatic ascites. Atelectasis is noted at the right lung base.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

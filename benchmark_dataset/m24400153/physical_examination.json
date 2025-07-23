@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.0°F",
+                "blood_pressure": "173/80 mmHg",
+                "heart_rate": "93 bpm",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing, comfortable, in no apparent distress (NAD)",
+                "HEENT": "Atraumatic/Normocephalic (AT/NC), Pupils Equal, Round, Reactive to Light (PERRL), Extraocular Movements Intact (EOMI), anicteric sclera, dry mucous membranes (MM)",
+                "neck": "Supple, no lymphadenopathy (LAD)",
+                "cardiovascular": "Regular rate and rhythm (RRR), S1/S2 present, no murmurs, gallops, or rubs",
+                "pulmonary": "Clear to auscultation bilaterally (CTAB), no wheezes, rales, rhonchi, breathing comfortably without use of accessory muscles",
+                "gastrointestinal": "Soft, nondistended, nontender in all quadrants, no rebound/guarding, no hepatosplenomegaly",
+                "extremities": "No cyanosis, clubbing, or edema",
+                "skin": "Warm, well-perfused",
+                "neurological": "Alert, moving all 4 extremities with purpose, face symmetric",
+                "dermatological": "Warm and well perfused, no excoriations or lesions, no rashes"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "recordings": [
+                    {
+                        "time": "15:54",
+                        "temperature": "98.8 F",
+                        "heart_rate": "143 bpm",
+                        "blood_pressure": "143/90 mmHg",
+                        "respiratory_rate": "16 breaths/min",
+                        "oxygen_saturation": "98% on 2L Nasal Cannula"
+                    },
+                    {
+                        "time": "18:29",
+                        "temperature": "98.7 F",
+                        "heart_rate": "75 bpm",
+                        "blood_pressure": "119/69 mmHg",
+                        "respiratory_rate": "18 breaths/min",
+                        "oxygen_saturation": "96% on Nasal Cannula"
+                    }
+                ]
+            },
+            "relevant_findings": {
+                "general": "Very pleasant elderly gentleman, appears much younger than stated age, NAD",
+                "HEENT": "PERRL, EOMI, dry mucus membranes, no cervical or supraclavicular adenopathy",
+                "CV": "RRR, systolic murmur loudest at RUSB",
+                "lungs": "CTAB, no wheeze or rales",
+                "abdominal": "soft, nondistended, hypoactive bowel sounds, slight TTP with deep palpation at epigastrium and RUQ, negative Murphy's sign",
+                "extremities": "WWP, trace bilateral pitting edema",
+                "GU": "No foley",
+                "skin": "multiple seborrheic keratosis over back",
+                "neurological": "A+O x3, gait WNL (while walking to BR), otherwise grossly intact",
+                "psychological": "very pleasant, interactive, appropriate, good insight"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3 °F",
+                "heart_rate": "112 bpm",
+                "blood_pressure": "112/61 mmHg",
+                "respiratory_rate": "16 bpm"
+            },
+            "relevant_findings": {
+                "general": "uncomfortable appearing",
+                "cardiovascular": "Regular Rate and Rhythm (RRR)",
+                "respiratory": "Clear to Auscultation Bilaterally (CTAB)",
+                "abdominal": "Soft, diffusely tender, predominantly in RUQ, no rebound or guarding, no fundal tenderness",
+                "extremities": "nontender, no edema",
+                "fetal_heart_tone": "134 bpm on spot check"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

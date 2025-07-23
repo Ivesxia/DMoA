@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "115/70 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "general": "NAD (No abnormalities detected)",
+                "cardiovascular": "RRR (Regular rate and rhythm)",
+                "abdominal": "S (Soft), TTP (Tender to palpation) RLQ (Right Lower Quadrant)",
+                "extremities": "no c/c/e (complaints of/cyanosis/edema)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

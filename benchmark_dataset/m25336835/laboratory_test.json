@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Fecal Test (C. difficile toxin A & B)",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA. (Reference Range-Negative).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "UNILAT UP EXT VEINS US LEFT",
+            "date": "Not specified",
+            "findings": "Normal flow in both subclavian veins; normal flow and compressibility in the left subclavian vein, internal jugular vein, axillary vein, and brachial vein. The cephalic vein was not compressible and had no flow. The proximal part of the left basilic vein was not compressible and showed no flow, while the distal portion showed normal flow. Superficial edema was noted.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

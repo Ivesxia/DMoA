@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The CT scan of the abdomen and pelvis revealed a thickened appendix measuring 8 mm with surrounding fat stranding, which indicates inflammation consistent with appendicitis. Additionally, oral contrast was seen in the cecum, but not in the appendix, further supporting the diagnosis. Other findings, such as multiple diverticula in the sigmoid colon, did not indicate diverticulitis."
+    }
+}

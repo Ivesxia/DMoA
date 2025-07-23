@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipid Panel",
+            "date": "Not specified",
+            "findings": "Cholesterol level: 9.7 mg/dL (Reference range: 8.4 - 10.3 mg/dL, within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen",
+            "date": "Not specified",
+            "findings": "Significant peripancreatic stranding with fluid extending to the inferior splenic pole. Diffuse involvement of the entire pancreas. No evidence of pancreatic duct dilatation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

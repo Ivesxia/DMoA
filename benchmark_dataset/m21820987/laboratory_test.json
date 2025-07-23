@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Influenza B Test",
+            "date": "Not specified",
+            "findings": "Negative for Influenza B.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Minor atelectatic changes at lung bases; normal heart size; evidence of prior liver resections; small amount of nonspecific fluid adjacent to liver; atrophic pancreas; bilateral renal cysts; significant bowel wall thickening at the terminal ileum with diverticuli; heavy atherosclerotic calcifications in the abdominal aorta; no free air in abdomen; sigmoid diverticulosis noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

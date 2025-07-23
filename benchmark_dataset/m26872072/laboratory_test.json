@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level of 1600, which is outside the normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total Bilirubin",
+            "date": "Not specified",
+            "findings": "Total bilirubin level of 2.0, which is outside the normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "Alkaline phosphatase level of 285, which is outside the normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ALT",
+            "date": "Not specified",
+            "findings": "ALT level of 770, which is outside the normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "AST",
+            "date": "Not specified",
+            "findings": "AST level of 331, which is outside the normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Trace pleural effusion on the left. Cystic changes in the gallbladder fundus suggest adenomyomatosis; few small stones found in gallbladder. No biliary dilatation or focal liver lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

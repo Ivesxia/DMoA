@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Lower chest shows limited evaluation of the lung bases with subpleural blebs and subsegmental atelectasis in both lower lobes. Abdomen reveals colonic diverticulosis with mild pericolonic stranding, a residual 7 mm nonobstructing stone in the lower pole of the left kidney, unchanged hypodense lesions in the right kidney, and no evidence of abscess or fistulous formation.",
+            "changes_over_time": "Few stones previously seen in the lower pole of the left kidney have passed; the right-sided hydronephrosis has resolved."
+        },
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "New faint right basilar opacity may represent atelectasis, but superimposed infection is also considered due to the patient's symptoms.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

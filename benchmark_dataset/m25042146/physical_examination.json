@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "136 bpm",
+                "blood_pressure": "155/87 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "Alert, in significant pain",
+                "heent": "Sclera anicteric, MMM, oropharynx clear, anicteric",
+                "neck": "JVP not elevated, no LAD",
+                "lungs": "Clear to auscultation bilaterally, no wheezes, rales, rhonchi",
+                "cardiovascular": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+                "abdomen": "Soft, tender to palpation in epigastrum, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly",
+                "extremities": "Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema",
+                "skin": "No rash or flank ecchymosis",
+                "neurological": "CN II-XII intact, sensation and strength intact bilaterally"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

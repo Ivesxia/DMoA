@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.3°F",
+                "blood_pressure": "176/91 mmHg",
+                "heart_rate": "58 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, appears uncomfortable and mildly fatigued",
+                "HEENT": "NCAT, dry mucous membranes, EOMI, sclera anicteric, oral cavity/oropharynx clear",
+                "neck": "Supple, no JVD, no LAD",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes or crackles",
+                "cardiovascular": "Regular rate and rhythm, S1/S2, no murmurs",
+                "abdominal": "Soft, obese, slightly distended, tenderness to palpation in epigastrium, RUQ, LUQ, and right flank, voluntary guarding, no appreciable rebound tenderness",
+                "extremities": "Warm, well-perfused, no cyanosis, clubbing, or edema, 2+ pulses palpable bilaterally",
+                "neurological": "Cranial nerves II-XII intact, motor function grossly normal",
+                "skin": "No ulcers or lesions"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

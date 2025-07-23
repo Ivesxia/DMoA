@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient woke up with mild abdominal pain that worsened throughout the morning, becoming periumbilical with associated nausea and vomiting. There was no prior history of abdominal pain.",
+        "past_medical_history": "Not specified",
+        "family_history": "None known",
+        "social_history": "Not specified"
+    }
+}

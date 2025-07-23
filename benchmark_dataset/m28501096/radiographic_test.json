@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CTA CHEST W&W/O C&RECONS, NON-CORONARY",
+            "date": "Not specified",
+            "findings": "The pulmonary arteries are well opacified without perfusion defects. The main pulmonary artery is normal in size measuring 2.1 cm. Intrathoracic aorta is normal in caliber without evidence of dissection or acute aortic syndrome. Small-to-moderate left and moderate right pleural effusions noted, adjacent areas of compressive atelectasis. Centrilobular emphysema is mild in the upper lobes. No pneumothorax or focal consolidation. Linear opacities in the lingula and left lower lobe, likely reflect atelectasis. Ground-glass opacities in bilateral lower lobes. No suspicious pulmonary mass identified. Moderately large hiatal hernia noted. Partially visualized liver demonstrates pneumobilia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Demonstrated acute cholecystitis with dilated CBD.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

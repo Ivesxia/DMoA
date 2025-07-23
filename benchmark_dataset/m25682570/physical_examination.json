@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4",
+                "blood_pressure": "95/41",
+                "heart_rate": "85",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "95% on 2L"
+            },
+            "relevant_findings": {
+                "alertness": "Alert",
+                "orientation": "Oriented x 3",
+                "general_condition": "Not in acute distress",
+                "eyes": "Mild scleral icterus",
+                "cardiovascular": "Regular rate and rhythm, very quiet heart sounds, no murmurs",
+                "respiratory": "Clear to auscultation bilaterally, no crackles, wheezes, or rhonchi",
+                "abdominal": "Obese, soft, non-distended, non-tender",
+                "back": "No costovertebral angle tenderness",
+                "peripheral": "2+ non-pitting edema bilaterally, 2+ distal pulses bilaterally"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

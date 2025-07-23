@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2°F",
+                "heart_rate": "103 bpm",
+                "blood_pressure": "135/73 mmHg",
+                "respiratory_rate": "18 bpm",
+                "oxygen_saturation": "94%"
+            },
+            "relevant_findings": {
+                "general": "Comfortable",
+                "HEENT": "Normocephalic, atraumatic, Pupils equal, round and reactive to light, Extraocular muscles intact",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm, Normal first and second heart sounds",
+                "abdominal": "Soft, bilateral lower abdominal tenderness without rebound or guarding, worse in the left lower quadrant",
+                "extremities/back": "No cyanosis, clubbing or edema",
+                "skin": "No rash",
+                "neurological": "Speech fluent, nonfocal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

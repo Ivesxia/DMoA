@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Complicated by duodenal perforation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "JP Drain placement",
+            "date": "Not specified",
+            "findings": "Multiple drains were placed for fluid collections without good results.",
+            "changes_over_time": "The JP drain fell out with no replacement, and patient had a recent washout."
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Gallbladder is distended with edematous wall; PM criteria suggest acute cholecystitis. The previously identified posterior pararenal fluid collection has nearly completely resolved since the prior exam.",
+            "changes_over_time": "Pneumobilia is seen, slightly increased from prior. The previously identified posterior pararenal fluid collection has nearly completely resolved."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified.",
+            "findings": {
+                "focal_hepatic_lesions": "None",
+                "biliary_dilation": "None",
+                "common_bile_duct_size": "3.5 mm",
+                "gallstone": {
+                    "size": "1.9 cm",
+                    "mobility": "Mobile"
+                },
+                "gallbladder_wall_edema": {
+                    "measurement": "4 mm",
+                    "status": "Mild"
+                },
+                "spleen_size": "11 cm",
+                "free_fluid": "None",
+                "pericholecystic_fluid": "None",
+                "pancreas": "Normal",
+                "right_kidney_size": "12.7 cm",
+                "left_kidney_size": "10.7 cm",
+                "hydronephrosis_stones_masses": "None",
+                "abdominal_aorta_IVC": "Normal"
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

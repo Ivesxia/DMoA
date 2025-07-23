@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The liver shows two tiny high T2 signal lesions in segment IVb with normal signal intensity elsewhere. The gallbladder contains sludge and tiny stones without wall thickening or pericholecystic edema. A focal nonobstructing filling defect, possibly sludge, is present in the mid CBD. The pancreas shows diffuse atrophy and multiple cysts, especially in the head, with no duct dilatation. The spleen contains a 2.6 cm lesion consistent with a cyst. The left adrenal has a 1.7 cm nodule likely representing an adenoma. The left kidney shows thin parenchyma with multiple bilateral cortical cysts; three lesions on the left kidney and one on the right kidney are consistent with hemorrhagic/proteinaceous cysts. The aorta has prominent atherosclerotic disease with stenosis and an aneurysmal dilatation of up to 3.3 cm with large mural thrombus.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

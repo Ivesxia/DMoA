@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CTA CHEST",
+            "date": "Not specified",
+            "findings": "The aorta and its major branch vessels are patent; mild scattered noncalcified atherosclerotic plaque throughout the thoracic aorta; pulmonary arteries are well opacified; no evidence of filling defect; no lymphadenopathy; 1.5 cm nodule in the lower pole of the left thyroid gland; trace bilateral pleural effusions; mild subsegmental atelectasis in the bilateral lower lobes; multiple hypodense lesions in the liver characterized as cysts; largest lesion measures 4.1 cm in segment II; stranding in the gallbladder fossa consistent with history.",
+            "changes_over_time": "Nodule in the lower pole of the left thyroid gland evaluated on recent thyroid ultrasound; multiple hypodense lesions in the liver characterized as cysts on MRCP from ___."
+        }
+    ]
+}

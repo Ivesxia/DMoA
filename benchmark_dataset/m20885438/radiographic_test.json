@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Small bilateral dependent pleural effusions noted, right greater than left. A 4 mm hypodensity within the right lobe of the liver likely represents a cyst. Small amount of free perihepatic fluid, periportal edema, retroaortic left renal vein, and diffuse subcutaneous soft tissue edema consistent with anasarca. No focal liver lesions, unremarkable gallbladder, spleen, pancreas, adrenal glands, kidneys, and urinary structures. No evidence of wall thickening or obstruction in gastrointestinal tract.",
+            "changes_over_time": "The 4 mm hypodensity in the right lobe of the liver was present previously and is too small to characterize, but likely represents a cyst."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Abdominal Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is homogeneous in echotexture, except for presence of two cysts in the left lobe, both subcentimeter in size. There is mild intrahepatic biliary ductal dilatation, but the common bile duct is more significantly dilated measuring up to 10 mm. The gallbladder is distended with mild wall edema. No gallstones seen. The pancreatic duct is prominent, measuring up to 3 mm. The main portal vein is patent with normal flow.",
+            "changes_over_time": "The gallbladder was similarly distended with mild gallbladder wall edema again demonstrated and unchanged since prior CT; cysts and ductal measurements remain consistent with previous imaging."
+        },
+        {
+            "procedure_name": "CT Abdomen/Pelvis with and without contrast",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

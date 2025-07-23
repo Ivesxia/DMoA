@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "No acute intrathoracic process and no signs of pneumoperitoneum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD/PELVIS",
+            "date": "Not specified",
+            "findings": "1. No evidence of diverticulitis or colitis. 2. Persistent dilation of the common bile duct up to 1.5 cm, with mild intrahepatic biliary dilation.",
+            "changes_over_time": "Similar to previous ultrasound findings."
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic with a smooth contour, no focal liver mass. CHD measures 5 mm, with sludge within the gallbladder and pericholecystic fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

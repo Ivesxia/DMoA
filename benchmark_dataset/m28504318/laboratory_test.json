@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver shows no evidence of focal lesions or textural abnormality. No evidence of intrahepatic or extrahepatic biliary dilatation. A three mm calcification in the left lobe of the liver is not evident on the CT scan and of doubtful clinical significance. The gallbladder is nondistended with a thickened and edematous wall measuring 6 mm. Mobile gallstones are present. The common bile duct measures 3 mm. The pancreas is unremarkable, without evidence of focal lesions or pancreatic duct dilatation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MIXED BACTERIAL FLORA",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

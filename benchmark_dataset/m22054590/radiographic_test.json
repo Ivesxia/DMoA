@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver shows no focal or textural abnormalities. The main portal vein is patent with normal hepatopetal flow. No intrahepatic or extrahepatic biliary ductal dilation is seen with the common bile duct measuring 4 mm in diameter. The gallbladder is distended with shadowing gallstone at the fundus. The gallbladder wall is thickened with trace edema in the gallbladder wall. The sonographic Murphy's sign is positive. The spleen is not enlarged, measuring 10.7 cm. No ascites is seen in the right upper quadrant of the abdomen. The pancreas is poorly visualized due to artifact from overlying bowel gas and cannot be evaluated.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

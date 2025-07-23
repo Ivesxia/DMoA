@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CTROPNT",
+            "date": "Not specified",
+            "findings": "<0.01. CTROPNT > 0.10 NG/ML SUGGESTS ACUTE MI.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbiology Examination",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Cardiac silhouette remains enlarged. Pulmonary edema has improved with residual minimal interstitial edema remaining. Patchy and linear atelectasis at left lung bases is also slightly better. Small pleural effusions are probably unchanged in the interval.",
+            "changes_over_time": "Pulmonary edema has improved; atelectasis at left lung bases is also slightly better."
+        }
+    ]
+}

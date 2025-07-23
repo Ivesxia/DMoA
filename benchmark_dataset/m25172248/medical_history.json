@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right lower quadrant (RLQ) pain",
+        "history_of_present_illness": "The pain began on the afternoon of ___ and has persisted for two days until the day of admission. The pain is worse at the end of the day, during movement or position changes, and with Valsalva maneuver. The patient has also experienced malaise, chills at night, and anorexia since the onset of pain. He tolerated liquids the night before admission but has since not consumed any oral liquids or solid food.",
+        "past_medical_history": "Patient sustained a fall from a 15-foot ladder in ___. Recovered without sequelae. No history of prior gastrointestinal disease, bleeding diathesis/coagulopathy.",
+        "family_history": "No family history of gastrointestinal disorders.",
+        "social_history": "Not specified."
+    }
+}

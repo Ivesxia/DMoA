@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97°F",
+                "heart_rate": "124 bpm",
+                "blood_pressure": "124/76 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "96% RA"
+            },
+            "relevant_findings": {
+                "general": "comfortable, sleeping; no evidence of jaundice or scleral icterus",
+                "cardiovascular": "RRR",
+                "respiratory": "clear lungs, no wheezing",
+                "abdominal": "soft, obese, nontender, mildly distended and tympanitic; no rebound/guarding, no masses, no surgical incisions, no hernias noted, negative Murphy sign",
+                "extremities": "no cyanosis/clubbing/edema, well-healed scar on right knee"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

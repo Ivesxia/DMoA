@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laparoscopic cholecystectomy",
+            "date": "Not specified",
+            "findings": "Status post cholecystectomy with surgical clips in the gallbladder fossa. High-density fluid in the gallbladder fossa, perihepatic and subhepatic areas, measuring up to 70 Hounsfield units, with no active extravasation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Moderate atelectasis in the dependent areas of bilateral lung bases, high-density fluid in the gallbladder fossa and surrounding areas, and a moderate amount of free fluid in the pelvis. No evidence of focal lesions in liver, pancreas, spleen, or kidneys.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

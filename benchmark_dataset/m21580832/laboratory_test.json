@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRI ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Liver demonstrates normal signal intensity throughout. A single new high-signal intensity lesion in segment III of the liver measuring 8 mm consistent with either cyst or hemangioma. CBD is dilated up to 1 cm with mild left intrahepatic biliary dilatation. Gallbladder contains multiple small stones, with no evidence of gallbladder distention or gallbladder wall thickening. The pancreas, spleen, adrenals, and left kidney demonstrate normal signal intensity. Right kidney shows moderate hydronephrosis with proximal hydroureter, findings most probably due to hydronephrosis of pregnancy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRSA culture",
+            "date": "Not specified",
+            "findings": "No MRSA isolated.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

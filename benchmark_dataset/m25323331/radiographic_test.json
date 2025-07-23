@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified.",
+            "findings": "Interval placement of a right-sided central venous line with the distal lead tip in the mid to distal SVC. No pneumothoraces. A right IJ line with the distal lead tip in the cavoatrial junction. Heart size is within normal limits. Some atelectasis at the right lung base and low lung volumes due to poor inspiratory effort.",
+            "changes_over_time": "Comparison is made to previous study; findings have changed with the interval placement of the central venous line."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC 16.9 with left shift, K 3.2, Cr 1.8, lactate 1.2.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C. difficile test",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile by the Illumigene DNA amplification assay. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ABDOMEN US (COMPLETE STUDY)",
+            "date": "Not specified",
+            "findings": "Liver echogenicity homogeneous, smooth contour, no focal liver mass, main portal vein patent, no ascites. Mild intrahepatic biliary dilation, CBD measures 1.2 mm. Gallbladder with no wall thickening, numerous gallstones up to 2 cm. Pancreas poorly visualized.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

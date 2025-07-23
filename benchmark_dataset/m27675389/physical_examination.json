@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8 °F",
+                "heart_rate": "100 bpm",
+                "blood_pressure": "120/60 mmHg",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "95% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x3, no acute distress.",
+                "HEENT": "No scleral icterus, mucus membranes moist.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, gallops, or rubs.",
+                "pulmonary": "Bibasilar ronchi and wheezing.",
+                "abdominal": "Soft, distended, mild tenderness to suprapubic area, no rebound or guarding.",
+                "digital_rectal_exam": "Normal tone, stool in vault, no gross or occult blood.",
+                "extremities": "No edema, warm and well perfused."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

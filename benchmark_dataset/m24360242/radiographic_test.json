@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "The lungs are clear without pleural effusion, pneumothorax or focal airspace consolidations. The cardiomediastinal silhouette, hilar contours and pulmonary vasculature are normal. The bones are intact.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

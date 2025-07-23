@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "AST 278, ALT 219, TBili 2.9, AP 137 (elevated LFTs)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "WBC elevated at 11.9",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal Ultrasound (Gallbladder and Liver)",
+            "date": "Not specified",
+            "findings": "Gallstones noted, largest measuring 18 mm, gallbladder wall thickening measuring up to 5 mm",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C. difficile Assay",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile by the Cepheid nucleic acid amplification assay",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

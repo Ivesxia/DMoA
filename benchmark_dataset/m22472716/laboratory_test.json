@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The gallbladder contains a polyp measuring 4.5 mm which does not move in the decubitus position and shows no evidence of shadowing. Gallbladder wall is mildly prominent measuring up to 4.7 mm. Common duct measures 5 mm, which is within the normal range. No dilated intrahepatic ducts are present. The pancreas is swollen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

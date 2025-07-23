@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is normal in echotexture, without focal lesions or biliary dilatation. The gallbladder is normal, without evidence of gallstones or wall thickening. The common bile duct is normal measuring 4 mm. The main portal vein has normal hepatopetal flow. There is no ascites. The head and body of the pancreas are normal, but the distal pancreatic tail is obscured by overlying bowel gas. No peripancreatic fluid collections are seen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anemia Test",
+            "date": "Not specified",
+            "findings": "140.0 IU/L (Reference range: 0.0 - 100.0 IU/L) - outside normal range.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

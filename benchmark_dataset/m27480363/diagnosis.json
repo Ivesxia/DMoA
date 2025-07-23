@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute appendicitis",
+        "differential_diagnosis": "Supraventricular tachycardia",
+        "diagnostic_reasoning": "The patient presented with right sided abdominal pain that migrated to the right lower quadrant, and a CT scan revealed a dilated appendix with mild surrounding inflammatory changes, consistent with early acute appendicitis. Additional findings did not indicate alternative diagnoses."
+    }
+}

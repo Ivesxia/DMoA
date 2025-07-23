@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Liver Biopsy",
+            "date": "Not specified",
+            "findings": "Limited, showed no evidence of fibrosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Showed no evidence of UC.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Showed a cirrhotic liver with confluent fibrosis in the setting of PSC and a hepatic angioma vs. adenoma.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

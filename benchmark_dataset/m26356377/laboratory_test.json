@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum protein",
+            "date": "Not specified",
+            "findings": "3.1 g/dL (below normal range of 3.5 - 5.2 g/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

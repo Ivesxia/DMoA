@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain and nausea/vomiting.",
+        "history_of_present_illness": "Patient reports that for the last 3 months, she has not been able to eat due to lack of appetite and daily vomiting of food. Over the last week prior to presentation, she developed epigastric pain without radiation and experienced worsened nausea/vomiting. She also reports loose stools during this time and states that she has felt tremulous after being unable to tolerate oral intake for the last two days.",
+        "past_medical_history": "Depression, gastritis, alcohol abuse, history of abdominoplasty.",
+        "family_history": "Mother: hypertension and heart disease, Father: diabetes, Brother: alcoholism.",
+        "social_history": "Continues to drink between ___ beers daily despite gastrointestinal symptoms."
+    }
+}

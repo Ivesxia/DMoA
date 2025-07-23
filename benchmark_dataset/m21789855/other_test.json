@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Illumigene DNA amplification assay",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "CT showed perforated appendix with abscess; complex fluid collection in RLQ with wall thickening seen draping over it.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

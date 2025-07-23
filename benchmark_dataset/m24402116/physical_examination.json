@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "heart_rate": "156 bpm",
+                "blood_pressure": "155/69 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "AAO3, NAD",
+                "HEENT": "Normocephalic, PERRLA, EOMI, sclerae anicteric, hearing grossly intact, no ear drainage, patent nares, moist mucous membranes",
+                "neck": "Supple without lymphadenopathy",
+                "heart": "Regular rate and rhythm, normal S1/S2, no murmurs/rubs/gallops",
+                "lungs": "Clear to auscultation bilaterally, no crackles/wheezes/rhonchi, no respiratory distress",
+                "abdomen": "Soft, tender RLQ, no Rovsing sign, nondistended, good bowel sounds heard, no mass palpated",
+                "extremities": "Without cyanosis, clubbing or edema",
+                "neurological": "Gross nonfocal",
+                "skin": "Warm and dry without any rash"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

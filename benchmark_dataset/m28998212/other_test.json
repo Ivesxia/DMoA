@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Percutaneous cholecystostomy tube placement",
+            "date": "Not specified",
+            "findings": "Perc chole tube in place.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

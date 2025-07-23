@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "heart_rate": "90 bpm",
+                "blood_pressure": "127/91 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": {
+                "general": "MMM RRR CTA Bilateral",
+                "abdominal": "soft, nondistended, RUQ tender to palpation",
+                "extremities": "warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

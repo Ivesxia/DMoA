@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EKG",
+            "date": "Not specified",
+            "findings": "NSR (Normal Sinus Rhythm), LAD (Left Axis Deviation), non-specific T wave changes in lateral leads.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar Puncture",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Chest",
+            "date": "Not specified",
+            "findings": "1. 1.9 x 2.1 x 2.2 cm lobulated mass in the superior segment of the right lower lobe with unchanged eccentric calcifications; improved ground-glass opacities.",
+            "changes_over_time": "Mass size increased from previous CT, previously noted right lower lobe consolidative opacity has substantially improved."
+        },
+        {
+            "procedure_name": "RUQ Ultrasound",
+            "date": "Not specified",
+            "findings": "8 mm stone within the collapsed gallbladder without gallbladder wall thickening. No biliary dilatation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Chest pain and dizziness.",
+        "history_of_present_illness": "Patient had sudden onset of dizziness and chest pain while at a group home, resulting in a fall to the floor. The pain is described as sharp, substernal, nonpleuritic, and radiates to the abdomen. The patient reports similar pain upon arrival to the floor, with no nausea or emesis.",
+        "past_medical_history": "Diabetes, dyslipidemia, hypertension, atrial fibrillation/flutter status post ablation, chronic cough, gastroesophageal reflux, hepatitis C, obesity, patent foramen ovale, pulmonary embolism, schizophrenia, tobacco abuse.",
+        "family_history": "No family history of early myocardial infarction, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.",
+        "social_history": "Not specified."
+    }
+}

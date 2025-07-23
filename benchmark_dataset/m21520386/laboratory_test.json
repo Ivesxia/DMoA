@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Dilated hyperemic appendix with surrounding fat stranding. Likely appendicolith at the base of the appendix. No fluid collection or free air. The other abdominal and pelvic structures were unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulase Negative Staphylococcus Culture",
+            "date": "Not specified",
+            "findings": "STAPHYLOCOCCUS, COAGULASE NEGATIVE, PRESUMPTIVELY NOT S. SAPROPHYTICUS.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

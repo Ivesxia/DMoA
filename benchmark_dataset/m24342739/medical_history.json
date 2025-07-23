@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Generalized abdominal pain",
+        "history_of_present_illness": "Pain started around 9 am while at work, persisted throughout the day, and by 7 pm localized to the right lower quadrant (RLQ). Mild nausea without emesis was noted. The patient denies fevers, chills, constipation, diarrhea, urinary symptoms, or any sick contacts.",
+        "past_medical_history": "Allergic rhinitis, hypercholesterolemia, morning emesis (EGD negative); no previous surgeries.",
+        "family_history": "Father has renal cancer, sister with morning emesis.",
+        "social_history": "Not specified."
+    }
+}

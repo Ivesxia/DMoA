@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Moderate bilateral pleural effusions have increased compared with the prior study with associated dependent atelectasis. Moderate cardiomegaly is unchanged. The liver demonstrates homogenous attenuation throughout with no focal lesions. The pancreas is mildly atrophied with a cystic lesion in the pancreatic head that is unchanged from the recent prior study. Multiple left-sided renal hypodensities similar to the recent prior study including a septated left lower pole renal cystic lesion. Mild apparent wall thickening of the distal colon with adjacent fat stranding likely related to volume overload. The previously seen abscess cavity is collapsed around the catheter without evidence of new drainable fluid collection. A 2.2 x 1.7 cm right adnexal cyst is unchanged from the recent prior study. No retroperitoneal or mesenteric lymphadenopathy. Nonocclusive thrombus of the IVC is similar to the prior study.",
+            "changes_over_time": "Moderate bilateral pleural effusions have increased compared with the prior study. The cystic lesion in the pancreatic head is unchanged from the recent prior study. Left-sided renal hypodensities are similar to the recent prior study. The 2.2 x 1.7 cm right adnexal cyst is unchanged from the recent prior study. Nonocclusive thrombus of the IVC is similar to the prior study."
+        }
+    ]
+}

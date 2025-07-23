@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "96 bpm",
+                "blood_pressure": "121/77 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "lungs": "Clear to auscultation bilaterally",
+                "cardiac": "Regular rate and rhythm, S1/S2",
+                "abdomen": "Soft, nondistended, tender in the right lower quadrant"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

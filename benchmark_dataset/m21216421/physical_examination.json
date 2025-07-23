@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "66 bpm",
+                "blood_pressure": "161/76 mmHg",
+                "respiratory_rate": "22 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Comfortable with minor tenderness to palpation at epigastrium.",
+                "cardiovascular": "Regular rate and rhythm (paced).",
+                "pulmonary": "Decreased breath sounds bilaterally with bibasilar fine crackles.",
+                "abdominal": "Soft, non-distended, tenderness to palpation in epigastrium, lower abdomen bilaterally and RUQ, no pulsatile mass appreciated."
+            },
+            "changes_over_time": "On reevaluation, tachypneic and uncomfortable due to respiratory status, however maintaining good O2 saturation."
+        }
+    ]
+}

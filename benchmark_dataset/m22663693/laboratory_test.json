@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Focal hypodensity involving liver segments 4A, 4B, 6 and 8 likely reflects focal fatty deposition. Liver demonstrates homogenous attenuation with no focal lesions. No intrahepatic or extrahepatic biliary dilatation. The gallbladder is normal. The pancreas has normal attenuation without focal lesions or ductal dilatation. The spleen shows normal size and attenuation. The adrenal glands are normal. The kidneys are normal in size and symmetric with no focal lesions or hydronephrosis. The stomach is unremarkable. The small bowel loops are normal. The appendix is enlarged, measuring 0.9 cm, with wall hyper-enhancement, adjacent fascial thickening, mild fat stranding, and mild surrounding edema and fluid, compatible with acute appendicitis. No evidence of perforation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test for Unknown (likely laboratory test related to liver function or hepatobiliary examination)",
+            "date": "Not specified",
+            "findings": "8.0 units (Reference range: 5.0 - 8.0 units)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

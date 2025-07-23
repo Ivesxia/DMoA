@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.7°F",
+                "heart_rate": "96 bpm",
+                "blood_pressure": "123/74 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "NAD (no acute distress)",
+                "cardiovascular": "RRR (regular rate and rhythm)",
+                "respiratory": "CTA-B (clear to auscultation bilaterally)",
+                "abdominal": "Soft, tender to RLQ, +Tap tenderness, non-distended",
+                "extremities": "No cyanosis/clubbing/edema",
+                "DRE": "Reportedly guaiac negative"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

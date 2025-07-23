@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood test",
+            "date": "Not specified",
+            "findings": "2.3 mg/dL, which is below the normal range of 2.7-4.5 mg/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Culture test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Portable abdomen radiograph",
+            "date": "Not specified",
+            "findings": "Several loops of small bowel on the left side of the abdomen are dilated with air up to 3.7 cm, suggestive of a developing small bowel ileus. A nonobstructive bowel gas pattern is present within the colon. No free intraperitoneal air, osseous structures unremarkable.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

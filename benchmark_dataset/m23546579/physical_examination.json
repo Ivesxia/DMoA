@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.4°F",
+                "heart_rate": "110 bpm",
+                "blood_pressure": "146/71 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "cardiovascular": "Tachycardic, regular rhythm",
+                "respiratory": "Clear to auscultation bilaterally",
+                "abdominal": "Obese; soft, diffusely tender, greatest tenderness at LLQ with tap tenderness; no rebound or guarding",
+                "extremities": "No cyanosis, clubbing, or edema",
+                "digital_rectal_examination": "Normal rectal tone, guaiac negative"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT PELVIS W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Fluid-filled structure measures 10-14 mm in diameter in the right lower quadrant with hyperenhancement of the wall and surrounding fat stranding and reactive free fluid. No organized fluid collection or extraluminal gas.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HCV Viral Load",
+            "date": "Not specified",
+            "findings": "Most recent viral load greater than 60,000,000.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation Test",
+            "date": "Not specified",
+            "findings": "53.9 sec, which is above normal reference range (25.0 - 36.5 sec).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laparoscopic cholecystectomy",
+            "date": "Not specified",
+            "findings": "Acute cholecystitis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest AP portable single view",
+            "date": "Not specified",
+            "findings": "Poor inspirational effort with relatively high-positioned diaphragms. No significant interval change noted since the previous examination.",
+            "changes_over_time": "No cardiac enlargement, no pulmonary congestion, or any acute parenchymal infiltrates; lateral pleural sinuses are free."
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "4+ (greater than 10 per 1000X FIELD): Polymorphonuclear leukocytes. No microorganisms seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

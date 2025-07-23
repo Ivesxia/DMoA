@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C. difficile toxin EIA",
+            "date": "Not specified",
+            "findings": "FECES NEGATIVE FOR C. DIFFICILE TOXIN BY EIA. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Apparent cardiac enlargement is explained by lordotic positioning. There is no evidence of acute pulmonary edema or focal consolidation. Left-sided peripheral line remains unchanged as well as bi-lead pacemaker. There is mild bibasilar atelectasis and right lung scarring. Stable elevation of the left hemidiaphragm is secondary to volume loss from prior resection.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

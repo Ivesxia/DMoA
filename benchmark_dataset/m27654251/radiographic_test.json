@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CTA CHEST W&W/O C&RECONS, NON-CORONARY",
+            "date": "Not specified",
+            "findings": "The thoracic aorta is normal caliber without evidence of aneurysm or dissection. An aberrant right subclavian artery is noted. The main, lobar, segmental, and subsegmental pulmonary arteries are well opacified without filling defect. Axillary, supraclavicular, mediastinal, and hilar lymph nodes are not pathologically enlarged. The heart and mediastinum are normal. The pericardium is intact without effusion. Airways are patent to the subsegmental levels. Bilateral small pleural effusions with adjacent atelectasis. Bilateral predominantly upper lobe peripheral ground-glass airspace opacities. The visualized liver is low in attenuation suggestive of steatosis. No focal lytic or sclerotic lesion concerning for malignancy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

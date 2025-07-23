@@ -1,0 +1,35 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "hepatobiliary": "The liver demonstrates homogenous attenuation throughout. There is no evidence of focal lesions or biliary dilatation. The gallbladder is within normal limits.",
+                "pancreas": "The pancreas has normal attenuation throughout, without evidence of focal lesions or pancreatic ductal dilatation.",
+                "spleen": "The spleen shows normal size and attenuation throughout, without evidence of focal lesions.",
+                "adrenals": "The right and left adrenal glands are normal in size and shape.",
+                "urinary": "The kidneys are of normal and symmetric size with normal nephrogram. Subcentimeter hypodense lesion in the left upper pole likely represents a renal cyst.",
+                "gastrointestinal": "The appendix is hyperemic with thickened walls measuring 1.0 cm in diameter and with mild adjacent stranding consistent with acute uncomplicated appendicitis.",
+                "pelvis": "The urinary bladder and distal ureters are unremarkable. There is trace free fluid in the pelvis.",
+                "reproductive organs": "The prostate and seminal vesicles are normal.",
+                "lymph nodes": "There is no retroperitoneal or mesenteric lymphadenopathy.",
+                "vascular": "There is no abdominal aortic aneurysm or atherosclerotic disease.",
+                "bones": "There is no evidence of worrisome osseous lesions or acute fracture.",
+                "soft tissues": "The abdominal and pelvic wall is within normal limits."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Uric Acid Level",
+            "date": "Not specified",
+            "findings": "3.9 mEq/L, within normal range (3.3 - 5.1)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "< 10,000 CFU/mL, which is considered negative.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

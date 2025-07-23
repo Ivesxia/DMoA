@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The lung bases are clear without consolidation or pleural effusion. The liver, gallbladder, pancreas, spleen, adrenal glands, stomach, and duodenum are unremarkable. The kidneys enhance and excrete contrast symmetrically without hydronephrosis, stones, or renal masses. There are duplicated collecting systems bilaterally, with fusion at the proximal ureter. The aorta is normal in caliber throughout. There is no free air or free fluid in the abdomen. An approximately 7-cm segment of the distal descending colon demonstrates wall thickening and inflammatory changes of the supporting fat and mesentery, centered around a single anteriorly positioned diverticulum. Scattered small diverticula are noted in the sigmoid colon, and the large bowel is otherwise unremarkable. Mild degenerative changes are noted in the lower lumbar spine.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

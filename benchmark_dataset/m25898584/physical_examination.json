@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "afebrile",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "cardiovascular": "RRR, No M/G/R",
+                "pulmonary": "Clear to auscultation b/l, No W/R/R",
+                "abdominal": "Soft, nondistended, non-tender to deep palpation (improvement from initial exam)",
+                "DRE": "Deferred",
+                "extremities": "No ___ edema, ___ warm and well perfused"
+            },
+            "changes_over_time": "Improvement in abdominal examination findings from initial exam."
+        }
+    ]
+}

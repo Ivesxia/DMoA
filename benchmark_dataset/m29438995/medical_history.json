@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient has had abdominal pain for 2 weeks, worsening 4 days prior to presentation. The pain is described as suprapubic and localizes to the left lower quadrant, associated with vomiting and loose stools. Denies fevers, chills, constipation, or diarrhea. She states that she has never had this pain before.",
+        "past_medical_history": "Plantar fasciitis; hospitalized for food poisoning ___ years ago.",
+        "family_history": "Father with multiple system atrophy; mother with macular degeneration.",
+        "social_history": "Not specified."
+    }
+}

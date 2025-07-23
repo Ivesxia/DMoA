@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The pain started at about 11pm last night, was sudden in onset, and accompanied by nausea and vomiting. Patient denies any associated fevers, chills, or recent changes in bowel habits. No history of prior biliary colic or fatty food intolerance.",
+        "past_medical_history": "Hypertension (HTN), Hyperlipidemia (HLD), Diverticulitis, Back pain, Spinal stenosis in L3-L4/L4-L5 with foraminal narrowing at L4.",
+        "family_history": "Noncontributory",
+        "social_history": "Denies ethanol (EtOH) use."
+    }
+}

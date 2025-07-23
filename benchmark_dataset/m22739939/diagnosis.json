@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient's presentation includes localized lower abdominal pain, particularly in the right lower quadrant, alongside rebound tenderness and guarding noted during the physical examination. A CT scan of the abdomen and pelvis revealed the appendix filled with stool and air, with an air-fluid level, indicating obstruction but a normal tip, and mild adjacent stranding suggesting inflammation consistent with acute appendicitis."
+    }
+}

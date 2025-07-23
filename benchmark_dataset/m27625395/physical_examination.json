@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3",
+                "blood_pressure": "104/77",
+                "heart_rate": "66",
+                "respiratory_rate": "20",
+                "oxygen_saturation": "98% on RA"
+            },
+            "relevant_findings": {
+                "general": "Thin female who looks exhausted",
+                "lymphatic": "No cervical lymphadenopathy",
+                "HEENT": "Pupils at 4mm and not reactive",
+                "cardiovascular": "Normal S1, S2, no murmurs/rubs/gallops",
+                "lungs": "Clear to auscultation bilaterally",
+                "abdomen": "Epigastric tenderness with deep palpation and right mid-quadrant tenderness",
+                "extremities": "2+ dorsalis pedis pulses bilaterally, no edema",
+                "neurological": "Alert and oriented x 3, cranial nerves II-XII intact, strength assessed to be normal in upper and lower extremities",
+                "genitourinary": "No fundal uterine tenderness with moderate palpation, no cervical motion tenderness, scant amount of brown discharge on gloves after exam"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

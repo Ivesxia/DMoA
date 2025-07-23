@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Tmax 99.6, Tcurrent 98.5",
+                "blood_pressure": "129/85",
+                "heart_rate": "96",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "Comfortable, speaking in full sentences",
+                "heent": "No scleral icterus. MMM.",
+                "neck": "Supple. No lymphadenopathy.",
+                "cv": "Normal S1 S2. No additional heart sounds. WWP. Radial pulses 2+ and symmetric.",
+                "respiratory": "Normal work of breathing. Clear to auscultation bilaterally.",
+                "gi": "Soft, non-distended. No rebound/guarding. Tenderness resolved. Laparoscopic incisions are clean, dry, and intact with no erythema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

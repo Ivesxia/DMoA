@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Salmonella and Shigella Testing",
+            "date": "Not specified",
+            "findings": "NO SALMONELLA OR SHIGELLA FOUND.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "There is a 1.3 cm round calcification within the central pelvis with surrounding ill-defined fluid, phlegmonous change, and enhancement, suggestive of perforated appendicitis with an appendicolith. An associated ill-defined fluid collection measures 3.1 x 4 x 3.9 cm (AP x TV x CC).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

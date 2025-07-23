@@ -1,0 +1,47 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "echogenicity": "homogeneous",
+                    "contour": "smooth",
+                    "focal_mass": "none",
+                    "main_portal_vein": "patent with hepatopetal flow",
+                    "ascites": "none"
+                },
+                "bile_ducts": {
+                    "intrahepatic_biliary_dilation": "none",
+                    "CBD_size": "3 mm"
+                },
+                "gallbladder": {
+                    "stones": "none",
+                    "wall_thickening": "none",
+                    "sludge": "present"
+                },
+                "pancreas": {
+                    "head": "within normal limits",
+                    "body_and_tail": "not visualized due to gas"
+                },
+                "spleen": {
+                    "echogenicity": "normal",
+                    "size": "11.7 cm"
+                },
+                "kidneys": {
+                    "right_kidney_size": "11.6 cm",
+                    "left_kidney_size": "11.8 cm",
+                    "simple_cyst": {
+                        "location": "midpole of left kidney",
+                        "size": "3.4 x 3.5 x 3.4 cm"
+                    },
+                    "masses_stones_hydronephrosis": "none"
+                },
+                "retroperitoneum": {
+                    "aorta_and_IVC": "within normal limits"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

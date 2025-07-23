@@ -1,0 +1,18 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound (Complete Study)",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites.",
+                "bile_ducts": "No intrahepatic biliary dilation. CBD measures 3 mm.",
+                "gallbladder": "Gallbladder sludge and a mobile shadowing 2.4 cm gallstone is present in the fundus. An additional stone is visualized within the gallbladder neck measuring approximately 1.8 cm. Mild gallbladder wall edema measuring 4 mm in thickness. Positive sonographic ___ sign.",
+                "pancreas": "Imaged portion appears within normal limits, without masses or pancreatic ductal dilation.",
+                "spleen": "Normal echogenicity, measuring 11.2 cm.",
+                "kidneys": "Right kidney measures 10.1 cm, left kidney measures 10.3 cm. Normal cortical echogenicity and corticomedullary differentiation bilaterally.",
+                "retroperitoneum": "Visualized portions of aorta and IVC are within normal limits."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

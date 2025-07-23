@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "97.1°F",
+                "heart_rate": "95 bpm",
+                "blood_pressure": "151/83 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "SpO2": "95% on room air"
+            },
+            "relevant_findings": {
+                "general": "Asleep but arousable, in fetal position, no acute distress",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "Normal respiratory effort",
+                "gastrointestinal": "Abdomen soft, non-distended, tender to palpation in right upper quadrant without rebound or guarding, negative ___ sign, horizontal scars present across abdomen",
+                "extremities": "Warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

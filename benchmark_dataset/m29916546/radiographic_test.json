@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Increasing atelectasis at the lung bases bilaterally and new small bilateral pleural effusions. Several loculated fluid collections new compared to prior study; the largest measures 2.6 x 2.7 by 6.2 cm in the right lower quadrant. Filling defect in a mesenteric venous branch unchanged.",
+            "changes_over_time": "New loculated fluid collections compared to prior study."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Subsegmental atelectasis at the lung bases; liver shows homogenous attenuation with a 5.1 cm area of enhancement; pancreas normal; spleen normal; normal kidneys with a subcentimeter hypodensity in the left kidney likely representing a cyst; right lower quadrant likely reflecting a dilated appendix with associated periappendiceal fat stranding and a suggested 4 mm fecalith; no evidence of crucial abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbiological culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

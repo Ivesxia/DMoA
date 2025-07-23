@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "PCR test for Neisseria Gonorrhoeae",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria Gonorrhoeae by PCR.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "Marked inflammatory fat stranding in the pericecal area with a large soft tissue mass that measures 3.2 x 5.4 cm. The appendix is not visualized as a separate structure to this mass. The terminal ileum demonstrates bowel wall thickening.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

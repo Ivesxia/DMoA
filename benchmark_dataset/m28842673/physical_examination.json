@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "122/70 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "General": "awake, alert, NAD",
+                "HEENT": "NCAT, EOMI, anicteric",
+                "Heart": "RRR, NMRG",
+                "Lungs": "CTAB, normal excursion, no respiratory distress",
+                "Abdomen": "soft, tender to palpation in the RLQ, no hernias or masses, no evidence of prior incisions",
+                "Neuro": "strength intact/symmetric, sensation intact/symmetric",
+                "Extremities": "WWP, no CCE, no tenderness, 2+ B",
+                "Skin": "no rashes/lesions/ulcers",
+                "Psychiatric": "normal judgment/insight, normal memory, normal mood/affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

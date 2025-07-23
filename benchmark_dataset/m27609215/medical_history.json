@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Cramping epigastric pain with radiation to the back.",
+        "history_of_present_illness": "The patient developed heartburn at 3pm yesterday, which resolved after following an anti-reflux regimen. He awoke suddenly at 2am with cramping epigastric pain that radiated to the back and presented to the emergency department. He has a prior history of similar heartburn symptoms.",
+        "past_medical_history": "DM1 diagnosed at an unspecified age.",
+        "family_history": "Family history includes Alzheimer's and breast cancer. Denies anyone with DM or gallbladder/pancreatic issues.",
+        "social_history": "Denies significant alcohol use."
+    }
+}

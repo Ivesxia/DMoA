@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Bibasilar dependent atelectasis, mild left hydronephrosis, and a segment of sigmoid colon with numerous diverticula and extensive inflammatory changes. Extraluminal foci of gas with fluid consistent with developing abscess (5.7 x 4.0 cm) and dilated small bowel loops up to 3.8 cm indicating small bowel obstruction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

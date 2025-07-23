@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated measuring up to 13 mm with mucosal hyper enhancement and periappendiceal fat stranding consistent with acute appendicitis. Visualized lung fields are within normal limits. There is no evidence of pleural or pericardial effusion. The liver, pancreas, spleen, adrenal glands, kidneys, stomach, small bowel, colon, rectum, urinary bladder, and reproductive organs are unremarkable. There are borderline enlarged prominent lymph nodes centered along the mesentery of the cecum/ascending colon, likely reactive. There is no evidence of complications including perforation or phlegmon/abscess formation. No appendicoliths identified. No evidence of worrisome osseous lesions or acute fracture.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

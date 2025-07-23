@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits. No evidence of pleural or pericardial effusion. The liver demonstrates homogenous attenuation with no focal lesions. No biliary dilatation. Normal gallbladder. Normal spleen and pancreas. Normal adrenal glands. Kidneys show no hydronephrosis or stones. Small and large bowel normal with a large amount of stranding around the fluid-filled appendix, which is dilated up to 13 mm with secondary inflammation of the terminal ileum. Numerous prominent mesenteric lymph nodes noted. No free air. Unremarkable urinary bladder and distal ureters. No evidence of pelvic or inguinal lymphadenopathy. Reproductive organs within normal limits. No bone findings suspicious for infection or malignancy. Mild degenerative changes at the lumbosacral junction.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

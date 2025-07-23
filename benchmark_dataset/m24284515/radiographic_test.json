@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The gallbladder is distended and contains multiple gallstones. Two calculi are identified within the cystic duct, measuring 6 mm and 8 mm. There is fluid within the gallbladder wall. Post-contrast, there is abnormal enhancement of the cystic duct and of the gallbladder wall, particularly in the body and fundus. There is restricted diffusion within the gallbladder wall. No intra or extrahepatic duct dilatation. No filling defects within the common bile duct. There is abnormal hyperenhancement of the left lobe of the liver and surrounding the gallbladder on the arterial phase. There is compression of the main portal vein by the distended stone-containing cystic duct, but it remains patent. The kidneys, adrenals, spleen, pancreas, and visualized bowel are within normal limits. There is minor bibasal atelectasis in both lung bases. No destructive osseous lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

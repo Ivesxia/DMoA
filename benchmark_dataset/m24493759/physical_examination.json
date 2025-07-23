@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.3F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD, pleasant, conversant",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "cardiovascular": "RRR",
+                "pulmonary": "Clear to auscultation b/l, no increased work of breathing",
+                "abdominal": "Obese, abdomen soft, minimally tender near incision with staples, c/d with 4 cm area open and packed with wet-to-dry gauze",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

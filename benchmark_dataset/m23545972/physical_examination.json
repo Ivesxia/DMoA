@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.8°F",
+                "heart_rate": "85 bpm",
+                "blood_pressure": "148/87 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing, no acute distress, non-toxic",
+                "cardiovascular": "Regular rate and rhythm, normal S1 S2, no murmurs/gallops/rubs",
+                "respiratory": "Clear to auscultation bilaterally",
+                "abdominal": "Soft, non-tender, non-distended, normal bowel sounds, negative Murphy's sign, negative psoas sign"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

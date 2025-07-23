@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "blood_pressure": "140/76 mmHg",
+                "heart_rate": "64 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "93%",
+                "oxygen_delivery": "RA"
+            },
+            "relevant_findings": {
+                "general": "delightful elderly male, sleeping comfortably, awakens easily to verbal stimuli, alert and interactive, comfortable, no acute distress",
+                "HEENT": "PERRL, anicteric, conjunctiva pink, oropharynx without lesion or exudate, moist mucus membranes, ears without lesions or apparent trauma",
+                "LYMPH": "no anterior/posterior cervical, supraclavicular adenopathy",
+                "CARDIOVASCULAR": "Regular rate and rhythm without murmurs, rubs, or gallops",
+                "LUNGS": "clear to auscultation bilaterally without rhonchi, wheezes, or crackles",
+                "GI": "soft, TTP at RUQ and epigastrium, without rebounding or guarding, nondistended with normal active bowel sounds, no hepatomegaly",
+                "EXTREMITIES": "no clubbing, cyanosis, or edema",
+                "GU": "no foley",
+                "SKIN": "no rashes, petechia, lesions, or echymoses; warm to palpation",
+                "NEURO": "A&Ox3, able to recite months of the year forwards and backwards without error or delay, cranial nerves II-XII grossly intact, strength and sensation grossly intact",
+                "PSYCH": "normal mood and affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

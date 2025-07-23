@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Obstructive jaundice, stent placement, removal of many stones, sphincterotomy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "Liver shows no focal lesion; portal vein patent with hepatopetal flow; CBD measures between 6 and 7 mm; gallbladder contracted around multiple stones; wall mildly thickened at 8 mm; trace pericholecystic fluid; no sonographic signs elicited.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

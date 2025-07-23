@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The dilated, fluid-filled appendix is 8mm in diameter, with appendicolith and wall enhancement, indicating acute appendicitis. No free fluid or air in the periappendiceal region. Lung bases are unremarkable. Normal liver, gallbladder, pancreas, spleen, adrenal glands, kidneys. Normal stomach, duodenum, and small bowel. No lymphadenopathy. No free air or fluid in the intra-abdominal cavity. Bone window shows no acute fracture or dislocation, minimal degenerative disease, no concerning lytic or sclerotic lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

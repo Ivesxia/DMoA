@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is enlarged at 9 mm and has wall hyperenhancement with surrounding mild fat stranding without evidence of perforation. No appendicolith can be seen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Test",
+            "date": "Not specified",
+            "findings": "Valuestr: 9.4 mg/dL; within normal range (ref range: 8.4 - 10.3).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture Test",
+            "date": "Not specified",
+            "findings": "Valuestr: NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "pancreatitis",
+        "differential_diagnosis": "viral gastroenteritis, diabetes mellitus type 2, hypertension, poorly controlled",
+        "diagnostic_reasoning": "The patient presented with nausea, vomiting, and loose stools, along with epigastric pain radiating to the back, which are indicative of pancreatitis. CT of the abdomen did not show any abnormalities that would account for these symptoms aside from the potential nodule, supporting the diagnosis of pancreatitis as the primary issue."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The imaged lung bases are clear. Normal hepatic parenchymal signal intensity without focal liver lesion. No intra- or extra-hepatic biliary dilatation. The portal vein is patent. No gallstones are evident within the gallbladder. No evidence for choledocholithiasis. Noted pancreas divisum. There is slight irregularity of the duct noted within the tail of the pancreas, likely sequelae from prior episode; however, no pancreatic ductal dilatation. Normal homogeneous signal intensity to the pancreas which enhances normally. No pancreatic cystic lesion or mass is identified. No peripancreatic fluid. No evidence for other conditions on today's study. There are no retroperitoneal masses or adenopathy. No abnormally dilated small or large bowel loop in the visualized upper abdomen. No free fluid. Bone marrow signal is unremarkable and there are no osseous lesions. Incidental note of an accessory renal artery on the right side.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

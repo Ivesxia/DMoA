@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5",
+                "heart_rate": "66",
+                "blood_pressure": "135/66",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "pain": "10",
+                "general": "NAD",
+                "cardiovascular": "RRR",
+                "respiratory": "CTAB",
+                "abdominal": "S/NT/ND, no palpable hernias either midline at hysterectomy scar or femoral/inguinal tenderness to palpation over the bony pelvis (pubis and ASIS) and up into the left flank. No CVA tenderness.",
+                "DRE": "normal tone, no gross or occult blood"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

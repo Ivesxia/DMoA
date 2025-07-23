@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4F",
+                "blood_pressure": "129/54 mmHg",
+                "heart_rate": "62 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "RA 94%"
+            },
+            "relevant_findings": {
+                "general": "No acute distress (NAD), alert and oriented to person, place, and time (AAOx3), pleasant and conversant (daughter translating)",
+                "heart": "Regular rate and rhythm (RRR), no murmurs, rubs, or gallops (MRG), normal S1 and S2",
+                "lungs": "Clear to auscultation bilaterally (CTA b/l), no respiratory distress",
+                "abdomen": "Normal bowel sounds (nbs), soft, appropriately tender to palpation near port sites, no rebound, no guarding, obese, mild distention",
+                "wound": "Clean, dry, intact (CDI) - steri-strips used",
+                "extremities": "No cyanosis, clubbing, or edema (CCE)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

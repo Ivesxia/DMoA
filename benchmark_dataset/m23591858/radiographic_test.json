@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Gallbladder is distended with wall edema. Pericholecystic fluid is noted extending along the inferior surface of the liver. Several gallstones are noted in the gallbladder. Intra and extrahepatic bile ducts are dilated. Common bile duct measures up to 11 mm. There is a focal signal void in the dilated cystic duct which may represent an obstructive gallstone. No choledocholithiasis is identified. Hyperemia of the liver parenchyma surrounding the gallbladder in early arterial phase. Hepatic steatosis is noted with fat fraction of 16%. A 28 x 14 mm duodenal diverticulum is identified. No lymphadenopathy. No worrisome lesion is identified in osseous and soft tissue structures.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Stones in a distended gallbladder and CBD measuring 11mm, no evidence of gallbladder wall thickening or pericholecystic fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

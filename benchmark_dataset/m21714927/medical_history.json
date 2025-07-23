@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Severe left lower quadrant discomfort.",
+        "history_of_present_illness": "The patient had been admitted to an outside institution earlier this year with severe left lower quadrant discomfort. A CT scan at that time showed fluid collections associated with the sigmoid colon, suggestive of a contained perforation. The patient recovered with antibiotic therapy, and the fluid collections resolved. An attempt at colonoscopy failed due to a sigmoid stricture. A virtual colonoscopy showed thickening of the sigmoid colon. The patient's condition prompted a second opinion, leading to recommendations for a definitive colectomy.",
+        "past_medical_history": "Significant for a long history of cigarette smoking (one pack per day) and presumed elements of COPD. Past surgeries include unilateral salpingo-oophorectomy for a benign cyst and breast augmentation. There is a question of a right lower lobe lung nodule.",
+        "family_history": "Significant for lung cancer in her mother, who was a cigarette smoker. No family history of colon, ovarian, or breast cancer.",
+        "social_history": "Current smoking of one pack per day."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": "The gallbladder is distended with mild pericholecystic fluid and gallbladder wall thickening (up to 9 mm). A non-mobile 13 mm calculus is located at the gallbladder neck. No focal liver mass, no intrahepatic biliary dilation, and the hepatic parenchyma appears within normal limits.",
+            "changes_over_time": "The non-mobile 13 mm calculus at the gallbladder neck remains as seen on a prior CT scan."
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99°F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "122/56 mmHg",
+                "respiratory_rate": "19 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "mild distress",
+                "lungs": "clear",
+                "cardiovascular": "regular rate and rhythm",
+                "abdomen": "soft, tender to right lower quadrant, positive Rovsing's sign, negative obturator and psoas signs",
+                "extremities": "within normal limits"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

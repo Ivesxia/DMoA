@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Not specified",
+            "findings": "NO MYCOBACTERIA ISOLATED.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test (LFT)",
+            "date": "Not specified",
+            "findings": "116.0 IU/L (presumably out of normal range based on context).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

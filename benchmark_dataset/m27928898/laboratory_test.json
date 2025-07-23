@@ -1,0 +1,35 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung_bases": "minimal dependent atelectasis, unremarkable",
+                "liver": "grossly normal",
+                "biliary_duct": "no intrahepatic biliary duct dilatation",
+                "portal_vein": "patent",
+                "spleen": "grossly normal",
+                "pancreas": "grossly normal",
+                "adrenal_glands": "grossly normal",
+                "kidneys": "grossly normal",
+                "stomach": "unremarkable",
+                "small_bowel": "unremarkable",
+                "colon": "unremarkable",
+                "appendix": "markedly thickened, measuring up to 13 mm",
+                "fat_stranding": "significant adjacent to the appendix",
+                "free_fluid": "small quantity in the right paracolic gutter",
+                "drainable_fluid_collection": "none",
+                "perforation": "none",
+                "free_air": "none",
+                "reactive_lymph_nodes": "prominent in the periappendiceal region",
+                "aorta": "normal in caliber, main branches patent",
+                "mesenteric_lymph_nodes": "no pathologically enlarged",
+                "bladder": "unremarkable",
+                "pelvis_free_fluid": "none",
+                "pelvic_lymph_nodes": "no pathologically enlarged",
+                "bone_window": "no suspicious lytic or blastic lesions identified, bilateral L5-S1 pars interarticularis defects with associated grade 2 anterolisthesis of L5 on S1, severe loss of disc space height at L5-S1 with endplate sclerosis and disc vacuum phenomenon"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

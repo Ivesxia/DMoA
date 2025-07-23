@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute pancreatitis",
+        "differential_diagnosis": "systolic congestive heart failure, hypertension",
+        "diagnostic_reasoning": "The patient presented with symptoms of nausea and vomiting, underwent imaging that showed a gallbladder with sludge but no acute cholecystitis. Additionally, elevated troponin levels indicated possible acute coronary syndrome, leading to admission for further management."
+    }
+}

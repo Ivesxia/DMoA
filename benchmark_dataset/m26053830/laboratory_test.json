@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Bibasilar atelectasis. Multiple bilateral pulmonary parenchymal abnormalities are nodular in nature, and similar compared to prior chest radiographs. No suggestion of acute infection. No pleural or pericardial effusion. Liver demonstrates homogenous attenuation throughout with no evidence of focal lesions or biliary dilatation. Pancreas has normal attenuation. Spleen shows normal size and attenuation. Kidneys are normal in size and symmetric with no focal lesions. There is extensive colonic diverticulosis, centered in the sigmoid colon, with a large diverticula in the area of the hepatic flexure and significant surrounding stranding, with colonic wall thickening suggestive of diverticulitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

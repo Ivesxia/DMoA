@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain.",
+        "history_of_present_illness": "The pain started approximately 12 hours ago upon awakening this morning. Pain is localized to epigastrum, achy, constant, never migrating. Patient has experienced some chills today and a slight decrease in appetite. Two small bowel movements today, nonbloody, normal for him.",
+        "past_medical_history": "Hypertension, Benign prostatic Hypertrophy, gallstones, sciatica, cardiomegaly.",
+        "family_history": "Not specified.",
+        "social_history": "Personal history of tobacco use."
+    }
+}

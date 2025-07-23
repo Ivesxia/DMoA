@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic with smooth contour, no focal liver mass, patent main portal vein, no ascites; no intrahepatic biliary dilation; gallbladder contains few gallstones, marked wall thickening and wall edema, not abnormally distended, no sonographic Murphy's sign; pancreas appears normal, spleen of normal echogenicity and size, limited views of kidneys show no hydronephrosis, simple cysts up to 4.4 cm in bilateral kidneys.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

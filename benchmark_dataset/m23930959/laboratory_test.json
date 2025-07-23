@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Transaminitis",
+            "date": "Not specified",
+            "findings": "Elevated transaminases; specific values not provided.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bilirubin",
+            "date": "Not specified",
+            "findings": "Elevated bilirubin; specific value not provided.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Leukocyte count",
+            "date": "Not specified",
+            "findings": "Leukocytosis; specific value not provided.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Significantly elevated lipase; specific value not provided.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient experienced abdominal pain for 1 day, which began last night in the lower quadrants. She has had associated nausea but denies fevers and chills. This is her first such episode.",
+        "past_medical_history": "Diverticulosis, chronic pain management for a fall with head strike, fibromyalgia, cervical radiculitis, cough-variant asthma.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

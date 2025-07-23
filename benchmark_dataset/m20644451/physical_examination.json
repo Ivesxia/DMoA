@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "75 bpm",
+                "blood_pressure": "133/65 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "99% on 2L"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, no acute distress",
+                "heent": "Sclera anicteric, MMM, oropharynx clear",
+                "neck": "Supple, JVP not elevated",
+                "lungs": "Poor air movement throughout, minimal basilar rales, no wheezes or rhonchi",
+                "cardiovascular": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+                "abdominal": "Quiet bowel sounds present, mildly distended, diffusely tender, especially in RUQ and epigastrium, +guarding, especially in areas of maximal tenderness",
+                "genitourinary": "Foley in place",
+                "extremities": "Warm, well perfused, trace bilateral edema",
+                "neurological": "A+Ox3. CN II-XII intact. Moving all extremities."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "On transfer to ICU",
+            "vital_signs": {
+                "blood_pressure": "127/54 mmHg",
+                "heart_rate": "76 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "99% on 3L"
+            },
+            "relevant_findings": "Patient complained of abdominal pain. Denied nausea but had 2 episodes of non-bloody emesis. Initially had shortness of breath but now feels breathing is at baseline.",
+            "changes_over_time": "Patient's shortness of breath initially present but improved to baseline after intervention."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "76 bpm",
+                "blood_pressure": "136/83 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "pulse_oximetry": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress",
+                "HEENT": "No scleral icterus, mucous membranes moist",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/gallops/rubs",
+                "pulmonary": "Clear to auscultation bilaterally",
+                "abdominal": "Soft, nondistended, tender to moderate palpation in epigastrium, RUQ, and RLQ; no rebound or guarding; normoactive bowel sounds; no palpable masses; negative Rovsing, obturator, psoas signs",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with a history of generalized abdominal pain that escalated to localized pain in the right lower quadrant (RLQ), along with tenderness over McBurney's point. CT imaging revealed an enlarged appendix (3.4 x 2.4 cm at the cecal base and 3.5 x 3.4 cm at the mid portion) with periappendiceal fat stranding, which is consistent with appendicitis."
+    }
+}

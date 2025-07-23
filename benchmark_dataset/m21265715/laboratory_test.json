@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": ">4000",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bilirubin",
+            "date": "Not specified",
+            "findings": "2.6",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound (Liver or Gallbladder)",
+            "date": "Not specified",
+            "findings": {
+                "liver": "normal echotexture without focal mass lesion",
+                "biliary": "no intra- or extra-hepatic biliary ductal dilatation, common bile duct measures 4 mm",
+                "portal_vein": "patent with hepatopetal flow",
+                "ascites": "none",
+                "gallbladder": {
+                    "stones": "two mobile stones with sludge",
+                    "pericholecystic_fluid": "none",
+                    "wall_thickening": "none",
+                    "distention": "none"
+                },
+                "pancreas": "hyperechoic compatible with ____",
+                "kidney": {
+                    "cysts": [
+                        {
+                            "size": "2.5 x 1.7 x 2.7 cm",
+                            "location": "upper pole of right kidney"
+                        },
+                        {
+                            "size": "1.0 x 1.4 x 1.0 cm",
+                            "location": "upper pole of right kidney"
+                        }
+                    ]
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

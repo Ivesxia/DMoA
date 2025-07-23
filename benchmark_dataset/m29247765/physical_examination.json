@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "76 bpm",
+                "blood_pressure": "135/83 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "No abnormalities noted",
+                "abdomen": "Soft, non-distended, tender to palpation in right lower quadrant, no guarding or rebound tenderness, no edema",
+                "neurological": "Alert and oriented to person, place, and time (AAOx3)",
+                "cardiovascular": "Regular rate and rhythm (RRR), unlabored respirations"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

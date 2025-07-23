@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2 °F",
+                "blood_pressure": "130/90 mmHg",
+                "heart_rate": "100 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "Tremulous in NAD",
+                "lungs": "Clear to auscultation bilaterally",
+                "heart": "Tachycardic, regular rhythm",
+                "abdomen": "Soft, diffusely tender but most tender at RUQ",
+                "rectal": "No blood",
+                "extremities": "No edema",
+                "neurological": "Alert and oriented x3, non-focal/grossly intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

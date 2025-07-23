@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "231 (elevated; normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "142 (elevated; normal range 70.0 - 400.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Urea Nitrogen (BUN)",
+            "date": "Not specified",
+            "findings": "39 (elevated; normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "2.0 (at baseline; normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolytes",
+            "date": "Not specified",
+            "findings": "Sodium: 147, Chloride: 112, Bicarbonate: 21 (within normal limits)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis Without Contrast",
+            "date": "Not specified",
+            "findings": "No focal lesions in the liver, pancreas, spleen, normal kidneys; small amount of free fluid noted; extensive diverticulosis observed.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

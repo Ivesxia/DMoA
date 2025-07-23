@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix measures up to 9-mm in diameter and is fluid-filled with mucosal hyperenhancement and periappendiceal stranding. No free fluid or definite evidence of perforation is noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbial Culture",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

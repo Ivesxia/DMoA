@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "There is mild bibasilar dependent atelectasis, emphysematous changes in the lung bases. The liver contains multiple small hypodense foci within the left lobe, largest measuring 1.3 cm, likely representing cysts. The adrenal glands appear mildly thickened. There are subcentimeter hypodensities in bilateral kidneys, otherwise unremarkable. No free air or free fluid in the upper abdomen. Mild scattered atherosclerotic calcifications noted in the infrarenal aorta. CT PELVIS shows thickened sigmoid colon with moderate stranding and fluid in the left lower quadrant, consistent with sigmoid diverticulitis with microperforation. No drainable abscess formation. Other structures appear unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "78 bpm",
+                "blood_pressure": "93/63 mmHg",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "95% RA"
+            },
+            "relevant_findings": {
+                "general": "A&Ox3, NAD",
+                "heent": "No scleral icterus, mucus membranes moist",
+                "cardiovascular": "RRR",
+                "pulmonary": "Breathing comfortably on room air",
+                "abdominal": "Soft, nondistended, moderately tender in RLQ with guarding",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "There is a 3.4 x 1.6 cm fluid collection surrounding the appendix posterior to the cecum (previously 2.9 x 3.9 cm on CT). Edematous appearance of the cecum is most likely secondary to local inflammatory changes.",
+            "changes_over_time": "The fluid collection size increased from 2.9 x 3.9 cm to 3.4 x 1.6 cm."
+        }
+    ]
+}

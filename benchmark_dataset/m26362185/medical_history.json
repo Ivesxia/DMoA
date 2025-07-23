@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain and fevers",
+        "history_of_present_illness": "Symptoms started as crampy, diffuse abdominal pain yesterday afternoon, gradually becoming more focal and localized to bilateral lower abdominal quadrants, right greater than left. Pain is independent from urinary symptoms. No nausea, vomiting, or diarrhea reported.",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Received treatment for gonorrhea yesterday."
+    }
+}

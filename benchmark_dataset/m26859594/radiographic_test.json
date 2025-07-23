@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "A tubular, blind-ending structure compatible with the appendix, noncompressible with a thickened wall, dilated to approximately 1.2 cm in transverse diameter, with a distended lumen and distinct appendiceal wall layers creating a target-like appearance. No significant periappendiceal fluid is seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

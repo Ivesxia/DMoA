@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The prominent appendix measures 7 mm in diameter. Mild bibasilar atelectasis in the visualized lung bases, but no pleural effusion. The liver enhances homogeneously without focal lesions. Portal veins are patent. Scattered, punctate calcified granulomata in the spleen. The gallbladder, pancreas, adrenal glands, and kidneys are normal. No hydronephrosis or hydroureter. Normal stomach, duodenum and loops of small bowel. No free air, fluid, or lymphadenopathy in the intra-abdominal cavity. Tiny mesenteric nodes in the right lower quadrant. Urinary bladder normally distended without focal abnormalities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

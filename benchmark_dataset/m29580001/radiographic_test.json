@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The lung bases are grossly clear. There is no pleural or pericardial effusion. The liver is normal in size and morphology with mild steatosis (calculated fat fraction 8%). Gallstones are present in the gallbladder. The gallbladder is nondistended and without wall thickening. The pancreas is normal in size and signal, without focal masses or ductal dilatation. The spleen is normal in size. The kidneys and adrenals are normal. There is no free fluid in the abdomen. There is no retroperitoneal or mesenteric lymphadenopathy. The bone marrow signal is normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

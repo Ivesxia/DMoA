@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic with a smooth contour. No focal liver mass. The main portal vein is patent with hepatopetal flow, but there is no demonstrable flow within the left portal vein. No ascites. The CBD measures 5 mm. The gallbladder is decompressed but grossly unremarkable. The pancreas appears within normal limits without masses or ductal dilation. The right kidney appears grossly unremarkable, and the left kidney is not visualized.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

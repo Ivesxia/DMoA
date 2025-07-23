@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The hepatic echotexture is within normal limits. A 1.1 x 1.1 x 0.8 cm echogenic lesion consistent with a hemangioma is seen in segment V of the liver. No intra- or extra-hepatic biliary ductal dilation; common hepatic duct measures 2 mm. Patent portal vein. Pancreas within normal limits. Nondistended gallbladder with no stones, abnormal gallbladder wall thickening, or pericholecystic fluid. Right kidney measures 10.7 cm, left kidney 11.6 cm; no stones, masses, or hydronephrosis. Spleen measures 9.6 cm. Normal abdominal aorta and IVC. No ascites. Targeted imaging shows a blind-ending tubular structure representing the appendix with echogenic indurated fat surrounding its tip and two shadowing appendicoliths.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

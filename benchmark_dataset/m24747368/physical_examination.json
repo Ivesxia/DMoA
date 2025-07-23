@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "75 bpm",
+                "blood_pressure": "219/79 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on RA"
+            },
+            "relevant_findings": {
+                "general": "NAD",
+                "neck": "Nontender supple neck, no LAD, no JVD",
+                "cardiac": "RRR, no murmurs",
+                "lung": "CTAB, no wheezes, ronchi, crackles, breathing comfortably without use of accessory muscles",
+                "abdomen": "Soft, nondistended, nontender in all quadrants, pain on palpation in RUQ (Positive ___ Sign), Mild tenderness on palpation of RLQ, negative Rovign's Sign.",
+                "extremities": "No cyanosis, clubbing or edema, moving all 4 extremities with purpose",
+                "skin": "Warm and well perfused, no rashes, blister on her right lateral aspect of leg with no active bleeding, edema, or purulent."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Prior to transfer",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "75 bpm",
+                "blood_pressure": "118/55 mmHg",
+                "respiratory_rate": "21 breaths/min",
+                "oxygen_saturation": "91% on RA"
+            },
+            "relevant_findings": {
+                "abdominal_pain": "Complains of abdominal pain in RUQ and RLQ, cough, denies dyspnea."
+            },
+            "changes_over_time": "Chest pain and back pain have resolved."
+        }
+    ]
+}

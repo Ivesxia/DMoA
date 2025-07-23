@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC count 11.0 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "LFTs within normal limits",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "3 cm obstructive gallstone at the gallbladder neck, gallbladder distended with associated wall thickening.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

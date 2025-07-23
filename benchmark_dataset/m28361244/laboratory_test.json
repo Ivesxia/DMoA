@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC count",
+            "date": "Not specified",
+            "findings": "WBC=18.9 (elevated, normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total bilirubin",
+            "date": "Not specified",
+            "findings": "T.bili=1.8 (elevated, normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver function tests (LFTs)",
+            "date": "Not specified",
+            "findings": "LFT's otherwise wnl (within normal limits)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate=2.3 (elevated, normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase=5470 (elevated, normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mycobacterial culture",
+            "date": "Not specified",
+            "findings": "NO MYCOBACTERIA ISOLATED.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

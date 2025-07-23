@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild bibasilar atelectasis; liver demonstrates fatty infiltration with no focal lesions; normal gallbladder, pancreas, spleen, and adrenal glands; kidneys enhance and excrete contrast symmetrically with no hydronephrosis; enlarged appendix measuring 1.2 cm with hyper-enhancing walls and significant surrounding fat stranding; fluid layering dependently adjacent to sigmoid colon; no definite organized abscess collection; free fluid in the cul-de-sac; normal bladder and terminal ureters; normal uterus and adnexa; normal rectum; no pelvic or inguinal lymphadenopathy; no extraluminal free air; intra-abdominal vasculature is patent; bones are unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

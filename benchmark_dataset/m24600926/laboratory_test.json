@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Feces test for C. difficile toxin A & B",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Leukocyte count",
+            "date": "Not specified",
+            "findings": "Leukocytosis to 12,000 cells/µL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bicarbonate",
+            "date": "Not specified",
+            "findings": "Bicarbonate of 20 mmol/L, which is below normal range (ref range lower: 22 mmol/L).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate of 1.4 mmol/L, which is within normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Troponin",
+            "date": "Not specified",
+            "findings": "Troponin elevated to 0.17 ng/mL in the setting of sepsis and renal failure.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

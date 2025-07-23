@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder is markedly distended and contains multiple shadowing gallstones. There is mild gallbladder wall thickening and trace pericholecystic fluid. Sonographic ___ sign is positive. There is no biliary ductal dilation. Limited images through the liver are unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gallbladder Function Test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "27.0 IU/L (specific reference range not provided).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Rapid Strep Test",
+            "date": "Not specified",
+            "findings": "NEG.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Lungs are well inflated and clear. No pleural effusion or pneumothorax. Heart size is normal. The mediastinal and hilar contours are unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

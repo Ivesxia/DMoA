@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laparoscopic appendectomy",
+            "date": "Not specified",
+            "findings": "The appendix is dilated with hyperemic wall measuring up to 12 mm in diameter with adjacent extensive inflammatory changes and small amount of fluid. Minimal cecal wall thickening is noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "DRE (Digital Rectal Examination)",
+            "date": "Not specified",
+            "findings": "Reportedly guaiac negative.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

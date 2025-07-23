@@ -1,0 +1,45 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3 °F",
+                "blood_pressure": "116/58 mmHg",
+                "heart_rate": "79 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "HEENT": "Atraumatic, normocephalic; extraocular movements intact; pupils equal, round, reactive to light; anicteric sclera; pink conjunctiva; moist mucous membranes; good dentition",
+                "neck": "Nontender, supple; no lymphadenopathy; no jugular venous distention",
+                "cardiac": "Regular rate and rhythm; normal heart sounds; no murmurs, gallops, or rubs",
+                "lung": "Clear to auscultation bilaterally; no wheezes, rales, or rhonchi; breathing comfortably without accessory muscle use",
+                "abdomen": "Nondistended; bowel sounds present; tenderness in right upper quadrant and epigastrium; no rebound or guarding; no hepatosplenomegaly",
+                "extremities": "No cyanosis, clubbing, or edema; moving all four extremities with purpose",
+                "pulses": "2+ dorsalis pedis pulses bilaterally",
+                "neurological": "Cranial nerves II-XII intact",
+                "skin": "Warm and well perfused; no excoriations, lesions, or rashes"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7 °F",
+                "blood_pressure": "124/60 mmHg",
+                "heart_rate": "82 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": "Patient was still nauseous.",
+            "changes_over_time": "Patients vital signs improved slightly with regards to heart rate and blood pressure."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Elevated transaminases and elevated lipase noted in labs.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

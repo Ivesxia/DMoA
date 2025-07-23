@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Dilation of a hyperenhancing appendix measuring up to 9 mm in maximum diameter, with periappendiceal fat stranding and wall thickening consistent with acute, uncomplicated appendicitis. No evidence of abscess formation or free intraperitoneal air to suggest perforation. Normal visualization of the liver, pancreas, spleen, kidneys, and other abdominal organs.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

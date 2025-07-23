@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP with cannulation and sphincterotomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of the liver or gallbladder",
+            "date": "Not specified",
+            "findings": "There are stones and sludge in a mildly distended gallbladder with wall edema, measuring up to 1 cm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

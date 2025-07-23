@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "ED showed gallbladder wall edema which could reflect mild hepatitis. Liver appears slightly hypoattenuating, possibly due to fatty deposition. No discrete focal liver lesion. Main portal vein patent. No biliary ductal dilation. Kidneys enhance symmetrically, equal contrast excretion. No worrisome renal lesion, hydronephrosis, or signs of pyelonephritis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test (assumed based on findings)",
+            "date": "Not specified",
+            "findings": "Bilirubin level at 2.5 mg/dL, which is below the normal range (reference range lower limit 2.7 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

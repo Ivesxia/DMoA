@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.3°F",
+                "blood_pressure": "150/70 mmHg",
+                "heart_rate": "67 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "Patient is alert and oriented x 3, no scleral icterus, dry mucous membranes.",
+                "abdominal": "Soft abdomen, non-tender/non-distended, mild mid-epigastric tenderness to palpation without rebound or guarding, normal bowel sounds.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/rubs/gallops, normal S1/S2.",
+                "pulmonary": "Clear to auscultation bilaterally.",
+                "neurological": "Motor strength full, normal affect.",
+                "extremities": "No clubbing, cyanosis, or edema, presence of multiple subcutaneous nodules (lipomas)."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "87 bpm",
+                "blood_pressure": "118/72 mmHg",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "93%"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "heent": "Pupils equal, round and reactive to light, Extraocular muscles intact",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm",
+                "abdominal": "Tender right upper quadrant epigastric area, good bowel sounds, no palpable masses",
+                "gu/flank": "No costovertebral angle tenderness",
+                "extr/back": "No cyanosis, clubbing or edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

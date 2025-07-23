@@ -1,0 +1,19 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9°F",
+                "heart_rate": "75 bpm",
+                "blood_pressure": "119/72 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Well developed, well nourished in no acute distress.",
+                "abdominal": "Soft, tender to palpation in right lower quadrant, negative Rovsing's sign, no mass.",
+                "neuro": "Alert and oriented x3, no focal neurologic deficits."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

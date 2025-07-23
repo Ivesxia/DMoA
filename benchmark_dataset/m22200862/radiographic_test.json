@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver demonstrates an 8.5 x 2.8 cm hypodense lesion with hyperdensity around the periphery, which is unchanged in appearance from CT of Not specified, likely representing an hemangioma. An additional 1.2 x 2 cm hyperattenuating lesion in the liver, also unchanged from CT of Not specified, could represent a flash filling hemangioma versus focal nodular hyperplasia. The left kidney has a small hypodense lesion likely representing a cyst. The appendix is dilated and fluid-filled measuring 11 mm with surrounding inflammatory change and mucosal hyperemia consistent with appendicitis. A 6.3 cm hypodense rounded lesion is seen along the anterior uterine wall, likely representing a subserosal fibroid.",
+            "changes_over_time": "The liver lesions and kidney lesion are unchanged from previous CT examinations. The findings related to the appendix indicate appendicitis."
+        }
+    ]
+}

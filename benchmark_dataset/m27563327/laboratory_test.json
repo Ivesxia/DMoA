@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Moderate hiatal hernia, wall thickening and mild surrounding fat stranding of the mid sigmoid colon, 3.1 x 2.0 x 1.6 cm pericolonic abscess, extensive diverticulosis throughout the entire colon.",
+            "changes_over_time": "There is wall thickening and mild surrounding fat stranding of the mid sigmoid colon compatible with known diverticulitis, unchanged since prior study."
+        }
+    ]
+}

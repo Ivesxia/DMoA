@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "blood_pressure": "128/70 mmHg",
+                "heart_rate": "86 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, comfortable, appropriate",
+                "HEENT": "Normocephalic/atraumatic, pupils equal, round, reactive to light and accommodation, extraocular movements intact, sclerae anicteric, mucous membranes moist, oropharynx clear",
+                "neck": "Supple, no thyromegaly, no jugular venous distention",
+                "heart": "Point of maximal impulse non-displaced, regular rate and rhythm, normal S1 and S2, no murmurs, rubs, or gallops",
+                "lungs": "Clear to auscultation bilaterally, no rales, rhonchi, or wheezes, good air movement, respiratory effort unlabored, no accessory muscle use",
+                "abdomen": "Normoactive bowel sounds, soft, non-tender, non-distended, no masses or hepatosplenomegaly, no rebound or guarding",
+                "extremities": "Warm, well perfused, no cyanosis, clubbing, or edema, 2+ peripheral pulses (radial and dorsalis pedis)",
+                "skin": "No rashes or lesions",
+                "neurological": "Awake, alert and oriented to person, place, and time, cranial nerves II-XII grossly intact, muscle strength intact throughout, sensation grossly intact throughout, deep tendon reflexes 2+ and symmetric, cerebellar exam intact, steady gait"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

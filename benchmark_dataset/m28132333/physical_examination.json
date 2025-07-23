@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.7 F",
+                "heart_rate": "100 bpm",
+                "blood_pressure": "106/60 mmHg",
+                "respiratory_rate": "18 bpm",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "No acute distress (NAD)",
+                "cardiovascular": "Regular rate and rhythm (RRR)",
+                "pulmonary": "Clear to auscultation bilaterally (CTA b/l)",
+                "abdominal": "Mildly distended below the level of umbilicus, decreased bowel sounds, focally tender with some guarding in the left lower quadrant (LLQ)",
+                "extremities": "No edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

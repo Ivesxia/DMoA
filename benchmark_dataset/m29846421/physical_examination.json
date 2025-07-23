@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.4°F",
+                "heart_rate": "98 bpm",
+                "blood_pressure": "117/72 mmHg",
+                "respiratory_rate": "15 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Appears her stated age lying face down in the bed crying.",
+                "cardiac": "Regular rate and rhythm.",
+                "pulmonary": "Regular rate. Non-laboured breathing.",
+                "abdomen": "Soft and non-distended. Tender to palpation especially in the RLQ and suprapubic area with guarding. Rebound tenderness in the suprapubic area.",
+                "neurological": "Alert and oriented."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "106 bpm",
+                "blood_pressure": "124/69 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "constitutional": "uncomfortable",
+                "heent": "anicteric mucosa moist",
+                "chest": "CTA B",
+                "cardiovascular": "Regular Rate and Rhythm",
+                "abdominal": "focal right lower quadrant tenderness with guarding. No rebound. Nondistended.",
+                "pelvic": "no CMT, mild right adnexal discomfort with pelvic exam per resident",
+                "gu/flank": "mild right costovertebral angle tenderness",
+                "extremities/back": "Normal",
+                "skin": "Normal",
+                "neuro": "Normal",
+                "psych": "Normal"
+            },
+            "changes_over_time": {
+                "abdominal": "focal right lower quadrant tenderness with guarding noted upon admission, which may suggest worsening of symptoms compared to prior CT imaging."
+            }
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "CT imaging showed appendix dilated measuring up to 10 mm, fluid-filled and with hyperemic wall.",
+            "changes_over_time": "Appendix condition progressed since the study from yesterday."
+        }
+    ]
+}

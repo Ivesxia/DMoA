@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC 8.5 with 73% Neutrophils (normal range: 8.4 - 10.3)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Normal LFTs",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound - Liver or Gallbladder",
+            "date": "Not specified",
+            "findings": "Gallbladder demonstrates significant wall edema, regions of mucosal sloughing, fluid-fluid level, multiple stones, and a 9 mm stone in the neck.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

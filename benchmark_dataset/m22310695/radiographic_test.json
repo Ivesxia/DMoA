@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": {
+                "lower_thorax": "Lung bases are clear. No suspicious pulmonary nodules or pleural effusions.",
+                "liver": "Normal in size with slight heterogeneous enhancement of segments 4 and 5 due to increased inflammation in the gallbladder.",
+                "biliary": "Small stone in the cystic duct obstructing it and the gallbladder filled with sludge and stones. Gallbladder wall irregular with few areas of mucosal disruption and mild pericholecystic stranding.",
+                "pancreas": "Normal in bulk and appearance, with normal main pancreatic duct.",
+                "spleen": "Normal in size with a subcentimeter splenic cyst in the inferior pole.",
+                "adrenal_glands": "Unremarkable.",
+                "kidneys": "Normal in size with no evidence for hydronephrosis or focal renal lesions.",
+                "gastrointestinal_tract": "Unremarkable.",
+                "lymph_nodes": "No retroperitoneal mesenteric lymphadenopathy.",
+                "vasculature": "Abdominal aorta and major branches normal in caliber.",
+                "osseous_soft_tissue_structures": "No suspicious bony lesions, hemangioma identified at lower thoracic spine."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

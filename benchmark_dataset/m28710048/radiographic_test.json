@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Cholelithiasis. CBD was 3 mm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "U/S",
+            "date": "Not specified",
+            "findings": "Cholelithiasis. CBD was 3 mm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP BILIARY&PANCREAS BY GI UNIT",
+            "date": "Not specified",
+            "findings": "16 spot fluoroscopic images were obtained during the course of an ERCP.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

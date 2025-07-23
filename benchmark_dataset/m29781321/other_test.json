@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Rectal Exam",
+            "date": "Not specified",
+            "findings": "No masses, enlarged prostate, no frank blood/hemoccult negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ESCHERICHIA COLI Test",
+            "date": "Not specified",
+            "findings": "Escherichia coli detected.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

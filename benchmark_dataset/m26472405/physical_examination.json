@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "BP: Not specified, Normal HR, afebrile",
+            "relevant_findings": "General: Alert, oriented to self only; HEENT: Sclera anicteric, MMM, oropharynx clear; Neck: supple, JVP not elevated, no LAD; Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi; CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops; Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly; GU: no foley; Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

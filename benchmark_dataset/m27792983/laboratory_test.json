@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Electrolyte panel",
+            "date": "Not specified",
+            "findings": "Albumin level is 3.5 g/dL, which is within the normal range (3.4 - 4.8 g/dL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP BILIARY&PANCREAS BY GI UNIT",
+            "date": "Not specified",
+            "findings": "ERCP images demonstrate a normal course and caliber of the pancreatic duct. The common bile duct, common hepatic duct, and right and left hepatic ducts are normal in course and caliber with no evidence of filling defects.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

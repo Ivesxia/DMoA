@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "There is a 1.2 cm lymph node inferior to the pancreatic uncinate process in the RLQ. The kidneys contain several subcentimeter hypodensities bilaterally that likely represent benign renal cysts. The appendix is thickened measuring up to 1 cm with associated stranding of the periappendiceal fat. No evidence of phlegmon or associated fluid collection. No inguinal or pelvic lymphadenopathy by CT size criteria.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

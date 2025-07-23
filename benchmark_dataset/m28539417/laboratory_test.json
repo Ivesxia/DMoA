@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Test for Polymorphonuclear Leukocytes",
+            "date": "Not specified",
+            "findings": "2.5 mg/dL, NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "Normal cardiomediastinal silhouette and hilar contours. Lungs are clear with no focal consolidation, pleural effusion, or pneumothorax. Osseous structures appear normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

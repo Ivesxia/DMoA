@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Bibasilar subsegmental atelectasis noted. No pleural or pericardial effusion. Liver demonstrates homogenous attenuation, no focal lesions, no biliary dilatation. Pancreas normal, no lesions or ductal dilatation. Spleen normal. Mild hiatal hernia noted in gastrointestinal findings and sigmoid colon diverticulosis without wall thickening. Appendix measures up to 9 mm with mild mucosal hyperemia, mild fat stranding. Previous measurement of appendix was 6 mm. No retroperitoneal or mesenteric lymphadenopathy.",
+            "changes_over_time": "Appendix measured 6 mm on remote prior exam and now measures up to 9 mm."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

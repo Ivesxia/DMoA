@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "2 weeks of abdominal pain",
+        "history_of_present_illness": "The patient experienced abdominal pain that began 2 weeks ago, initially presenting intermittently for the next days, then increased in intensity over the past 3 days. Pain is associated with anorexia. The patient has a history of diarrhea for the past years.",
+        "past_medical_history": "Chronic diarrhea (biopsy negative for IBD), no previous surgeries.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

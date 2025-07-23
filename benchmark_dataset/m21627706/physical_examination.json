@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "heart_rate": "92 bpm",
+                "blood_pressure": "115/87 mmHg",
+                "respiratory_rate": "19 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "The patient is awake and in no apparent distress.",
+                "abdomen": "Soft, tenderness to palpation at right lower quadrant without guarding, nondistended, no palpable organomegaly.",
+                "neuro": "Awake, alert, follows commands, no focal deficits, cranial nerves are symmetric."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

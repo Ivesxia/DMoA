@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.8°F",
+                "heart_rate": "79 bpm",
+                "blood_pressure": "150/93 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "NAD, comfortable appearing",
+                "HEENT": "ncat, anicteric, MMM",
+                "neck": "supple",
+                "cardiovascular": "s1s2 rr, no m/r/g",
+                "respiratory": "b/l ae, no w/c/r",
+                "abdominal": "positive bowel sounds, soft, tenderness in RLQ with some rebound and guarding",
+                "extremities": "no c/c/e, 2+ pulses",
+                "dermatological": "no rash",
+                "neurological": "face symmetric, speech fluent",
+                "psychological": "calm, cooperative"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

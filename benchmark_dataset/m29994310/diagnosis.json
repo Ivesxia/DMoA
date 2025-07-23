@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Cholecystitis",
+        "differential_diagnosis": "Pneumonia, Demand myocardial ischemia",
+        "diagnostic_reasoning": "The patient presented with epigastric pain and imaging findings of gallbladder wall thickening with pericholecystic fluid, which were consistent with cholecystitis. Additionally, there was a concern for demand ischemia due to tachycardia and ST elevations without chest pain, and the patient developed pneumonia as evidenced by new focal parenchymal opacities on chest radiograph."
+    }
+}

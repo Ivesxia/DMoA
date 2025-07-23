@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Dependent atelectasis noted within the lung bases bilaterally, with no apparent effusion, lung masses or nodules. The liver shows multiple small hypoattenuating foci, likely benign cysts or hemangiomas. No intra- or extra-hepatic biliary ductal dilatation. The gallbladder is unremarkable. The pancreas, adrenal glands, and kidneys are unremarkable. Bilateral extrarenal pelvices noted. A small area of heterogeneous attenuation in the spleen. Small, non-pathologically enlarged lymph nodes within the porta hepatis. No pathologic mesenteric or retroperitoneal adenopathy. The aorta shows atherosclerotic calcifications, no aneurysmal dilatation. The major mesenteric vessels and portal vein are patent. Multiple loops of distal small bowel abnormal with adjacent mesenteric stranding and cortical thickening. The appendix is enlarged (15 mm) with associated periappendiceal fat stranding and fluid, but no evidence of perforation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "94.0 mEq/L.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

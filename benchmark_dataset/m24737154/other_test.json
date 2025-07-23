@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "PCR for Neisseria Gonorrhoeae",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria Gonorrhoeae by PCR.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic appendectomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is distended measuring 10 mm and is fluid filled with hyperemic mucosal wall. There is surrounding fat stranding and minimal periappendiceal free fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

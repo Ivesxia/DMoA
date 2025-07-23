@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is mildly dilated to 9 mm with minimal wall thickening but no periappendiceal stranding. There is air and fluid within the lumen. The visualized portions of the lung bases are clear. No pleural or pericardial effusion. The liver, gallbladder, spleen, pancreas, and bilateral adrenal glands are unremarkable. The kidneys enhance symmetrically and excrete contrast promptly. The small and remainder of the large bowel are normal in course and caliber. There is no free air and no free fluid within the abdomen. The aorta is normal. No mesenteric or retroperitoneal lymphadenopathy is present. The rectum, sigmoid colon, bladder and adnexa are unremarkable. The uterus is retroflexed and normal. Trace free fluid within the pelvis is likely physiologic. No pelvics or inguinal lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

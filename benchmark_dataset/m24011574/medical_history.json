@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The abdominal pain started around lunch and has been present for 10 hours. The pain is located in the upper abdomen, radiating to the back, and has been fairly constant without coming in waves. The patient experienced nausea and episodes of non-bloody emesis containing food. Symptoms began while drinking sangria; however, others who consumed the sangria did not become ill. The patient noted a single episode of nighttime abdominal pain with vomiting approximately 2 weeks ago.",
+        "past_medical_history": "1. Hypertension, 2. Hyperlipidemia, 3. Bicuspid Aortic Valve without AS, 4. DM2, 5. Prostate cancer s/p prostatectomy and radiation, 6. Radiation cystitis resulting in recurrent hematuria, 7. Circumflex artery stenting.",
+        "family_history": "Father: MI at unspecified age.",
+        "social_history": "Not specified."
+    }
+}

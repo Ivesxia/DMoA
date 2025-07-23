@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Nausea, vomiting, diarrhea, and abdominal pain",
+        "history_of_present_illness": "Symptoms began during an 18-day cruise. Over the last few days, the patient experienced nausea, vomiting, loose stool, and abdominal pain. The nausea/vomiting had last occurred yesterday evening, and several episodes of loose stool had stopped on their own. The abdominal pain was described as sharp, wringing/squeezing type located underneath both the left and right ribs, which was severe and new, prompting evaluation in the ED. She noted that while on the cruise, she consumed more fatty food than usual and approximately ___ beers per night.",
+        "past_medical_history": "Hypertension, GERD, Eczema, Arthritis",
+        "family_history": "Son - diabetes; Sister - diabetes, eczema",
+        "social_history": "Not specified"
+    }
+}

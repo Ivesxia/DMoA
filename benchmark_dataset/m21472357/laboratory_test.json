@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is fluid filled, measuring up to 1.4 cm, and has a hyperemic wall with adjacent periappendiceal stranding. Bilateral kidneys are grossly unremarkable with no worrisome solid lesions or hydronephrosis. A 5 mm hypodensity in the spleen, unchanged from prior study. Adjacent terminal ileal loops are inflamed and loops of small bowel demonstrate diffuse dilatation and fluid filled measuring up to approximately 3 cm. Mild fatty proliferation within the submucosa of the large bowel. Small amount of pelvic free fluid. No enlarged lymph nodes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Blood Test",
+            "date": "Not specified",
+            "findings": "2.5 mg/dL, below normal range (ref range 2.7 - 4.5 mg/dL). No growth recorded.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

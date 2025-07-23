@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "141/92 mmHg",
+                "respiratory_rate": "19 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "Ain AOx3, obese",
+                "cardiovascular": "Clear to auscultation bilaterally, regular rate and rhythm",
+                "abdominal": "Obese abdomen, with tenderness to palpation in epigastrium",
+                "edema": "No cyanosis, clubbing, or edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

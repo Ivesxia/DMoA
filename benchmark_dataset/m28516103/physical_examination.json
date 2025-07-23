@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "132 bpm",
+                "blood_pressure": "132/70 mmHg",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "AAOx3 NAD",
+                "HEENT": "NCAT, EOMI, PERRLA, mucosa moist, no LAD",
+                "cardiovascular": "R/R/R, S1/S2, NO M/R/G",
+                "pulmonary": "CTA, No crackles or rhonchi",
+                "gastrointestinal": "soft, non-distended, mildly tender in RLQ. No guarding, rebound, or peritoneal signs. +BSx4",
+                "extremities": "No C/C/E; Feet warm. Good perfusion.",
+                "neurological": "Reflexes, strength, and sensation grossly intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

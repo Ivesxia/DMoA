@@ -1,0 +1,37 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver_echogenicity": "normal",
+                "focal_hepatic_lesions": "none",
+                "CBD_diameter": "6 mm",
+                "shadowing_stone_size": "1.2 x 0.6 cm",
+                "pancreatic_duct": "normal in size",
+                "gallbladder": {
+                    "stones": "none",
+                    "distention": "present",
+                    "wall_edema": "present",
+                    "pericholecystic_fluid": "present"
+                },
+                "intrahepatic_biliary_dilatation": "none",
+                "spleen_size": "11 cm",
+                "ascites": "none"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation test",
+            "date": "Not specified",
+            "findings": {
+                "PT": "11.9 sec",
+                "reference_range": {
+                    "lower": 9.4,
+                    "upper": 12.5
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

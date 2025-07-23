@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "136/82 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress, conversant and interactive",
+                "HEENT": "Sclerae anicteric, mucous membranes moist, oropharynx is clear",
+                "neck": "Trachea midline, thyroid unremarkable, no palpable cervical lymphadenopathy, no visible JVD",
+                "cardiovascular": "Regular rate and rhythm, no audible murmurs",
+                "pulmonary": "Respirations unlabored on room air",
+                "abdominal": "Soft, non-distended, tender to palpation in right upper quadrant with some guarding, non-tympanitic, no palpable masses or hernias",
+                "extremities": "No lower extremity edema, distal extremities warm and well-perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

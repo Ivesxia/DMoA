@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Severe abdominal pain",
+        "history_of_present_illness": "The abdominal pain started 3 days ago as generalized cramping and became severe last night. Although the pain has somewhat lessened, the patient still complains of vague abdominal pain that is worse in her suprapubic region.",
+        "past_medical_history": "Gastritis",
+        "family_history": "Not specified",
+        "social_history": "Works in a rehab facility"
+    }
+}

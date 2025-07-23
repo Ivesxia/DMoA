@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is thickened to a diameter of 1.2 cm with a thick, hyperemic wall and surrounding fat stranding. There is no evidence of perforation. The spleen is mildly enlarged but otherwise unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

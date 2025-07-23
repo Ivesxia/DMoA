@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Transabdominal and transvaginal ultrasound",
+            "date": "Not specified.",
+            "findings": "The uterus measures 9.4 x 4.9 x 6.1 cm with a homogeneous endometrium measuring 15 mm. No focal endometrial lesion is identified. The ovaries are normal bilaterally with normal arterial and venous Doppler waveforms. There is trace simple free fluid around the right ovary, likely physiologic.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Laboratory test results",
+            "date": "Not specified.",
+            "findings": "No growth observed with a test result of 1.7 mmol/L, within the reference range of 0.5 to 2.0.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

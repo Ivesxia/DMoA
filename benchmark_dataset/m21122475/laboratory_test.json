@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Minimal left basal atelectasis. The liver enhances normally without focal concerning lesion. No biliary ductal dilation. The gallbladder is normal. The main portal vein is patent. The pancreas, spleen, adrenal glands appear normal. Bilateral renal cortical scarring likely reflects prior injury/infection. No concerning renal lesions; no hydronephrosis. Both kidneys excrete contrast promptly. Mild fat stranding along the anterior abdomen superior to the emboli kiss without underlying discrete abnormality of the transverse colon or stomach. Tiny fat containing umbilical hernia. The appendix is markedly abnormal with submucosal edema, surrounding fat stranding and dilation up to 12 mm consistent with acute appendicitis. No signs of perforation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Additional Laboratory Measurement",
+            "date": "Not specified",
+            "findings": "2.4 mmol/L, outside normal range (0.5-2.0 mmol/L).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

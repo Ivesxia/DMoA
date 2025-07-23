@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "Initial WBC count was 19,000, later noted as leukocytosis to 16,000; both values are elevated.",
+            "changes_over_time": "Decreased from 19,000 to 16,000."
+        },
+        {
+            "procedure_name": "Liver Function Test (LFT)",
+            "date": "Not specified",
+            "findings": "LFTs were within normal limits.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Positive for pyuria, bacteriuria, and leukesterase.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "Escherichia coli isolated from urine.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound - Liver or Gallbladder",
+            "date": "Not specified",
+            "findings": "Liver normal in echotexture, gallbladder appears normal without gallstones, common bile duct measures 5 mm and not dilated.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

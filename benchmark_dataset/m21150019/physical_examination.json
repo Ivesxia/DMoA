@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5 F",
+                "heart_rate": "71 bpm",
+                "blood_pressure": "106/77 mmHg",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "93% on FiO2 60%"
+            },
+            "relevant_findings": {
+                "general": "Sedated and intubated. Not responsive to painful stimuli.",
+                "heent": "Sclerae anicteric.",
+                "respiratory": "Synchronous with vent. Clear anteriorly.",
+                "abdominal": "Soft, no hepatosplenomegaly.",
+                "extremities": "Warm without edema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

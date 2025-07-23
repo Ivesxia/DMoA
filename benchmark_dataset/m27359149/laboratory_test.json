@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Tiny hiatal hernia; Spleen is enlarged measuring up to 14.1 cm; appendix is fluid-filled, measuring up to 10 mm with a hyperemic and thickened wall; no extraluminal air or free fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "42.9 fL (ref range: 35.1 - 46.3 fL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

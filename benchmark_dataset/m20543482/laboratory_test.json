@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Coagulation test (PT)",
+            "date": "Not specified",
+            "findings": "PT: 13.1 sec (normal range 10.4 - 13.4 sec)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Linear opacity in mid right lung consistent with atelectasis, atelectatic changes in right lung base, blunting of right costophrenic angle, mild atelectatic changes in left lower lung fields. No evidence of pneumonia.",
+            "changes_over_time": "Persistent right lower lobe atelectasis and volume loss, improved since last comparison film. Possible small right pleural effusion. Mild left lower lobe atelectasis."
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "18"
+            },
+            "relevant_findings": {
+                "general": "in bed, anxious appearing",
+                "lungs": "clear",
+                "cardiovascular": "RRR",
+                "abdominal": "soft, thin, tender in infraumbilical and greater at McBurney's point. No hernias. Neg Rovsing. Non-peritoneal",
+                "extremities": "Wnl"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

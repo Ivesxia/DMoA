@@ -1,0 +1,23 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "thorax": "The visualized lung bases are clear with no pleural effusions, pneumothorax or focal opacities. The visualized heart and pericardium are normal.",
+                "liver": "There is a 1.8 x 2.7 cm hypodense lesion within the hepatic dome in segment VIII, which may represent a hemangioma. A 1.6 x 1.8 cm right hepatic lobe hyperdensity may represent a flash filling hemangioma. No other focal hepatic lesion is seen.",
+                "gallbladder": "The gallbladder is unremarkable and contains no radiopaque gallstones.",
+                "spleen": "The spleen is normal in size and shape.",
+                "pancreas": "The pancreas enhances homogeneously without ductal dilation or peripancreatic fat stranding.",
+                "adrenals": "The adrenal glands are normal in size and shape.",
+                "kidneys": "The kidneys are normal in size and shape with appropriate contrast enhancement and excretion bilaterally. No hydronephrosis or perinephric stranding.",
+                "bowel": "The stomach is mildly distended and unremarkable. The small bowel opacifies with oral contrast without obstruction or focal wall thickening. The appendix is dilated measuring 8 mm with hyperemia of the appendix wall and adjacent fat stranding, and no focal fluid collection or extraluminal air to suggest perforation. An appendicolith is noted at the appendix base. The large bowel does not have wall thickening or evidence of obstruction.",
+                "lymph_nodes": "There are no pathologically enlarged retroperitoneal or mesenteric lymph nodes.",
+                "pelvis": "The bladder is relatively well distended without focal wall thickening. No pelvic free fluid or pathologically enlarged pelvic sidewall or inguinal lymph nodes.",
+                "vessels_and_soft_tissue": "There is no aneurysmal dilatation of the abdominal aorta. The aorta and its major branches are patent. No hernias.",
+                "bones": "There are no suspicious lytic or sclerotic osseous lesions to suggest malignancy."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

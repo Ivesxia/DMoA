@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.5°F",
+                "heart_rate": "105 bpm",
+                "blood_pressure": "141/95 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD, pleasant, slow to respond & poor historian, mildly jaundiced",
+                "HEENT": "Scleral icterus, mucus membranes moist",
+                "CV": "Tachycardic, No M/G/R",
+                "pulmonary": "Minimal b/l expiratory wheezes",
+                "abdominal": "Soft, nondistended, generally TTP greatest in the RUQ, + ___ sign, + involuntary guarding, no rebound, normoactive bowel sounds, no palpable masses",
+                "extremities": "No edema, warm and well perfused, 2+ pulses b/l"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

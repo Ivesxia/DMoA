@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic consistent with fatty deposition. An echogenic lesion without internal vascularity in segment VII of the liver is a hemangioma. Doppler assessment of the main portal vein shows patency and normal hepatopetal flow. The gallbladder is incompletely distended with gallstones, wall edema, and a small amount of pericholecystic fluid. Sonographic Murphy's sign is positive. The common duct is not dilated measuring 6 mm. Assessment of the pancreas is limited due to overlying bowel gas. Limited views of the right kidney are normal. The spleen is normal, measuring 11.8 cm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

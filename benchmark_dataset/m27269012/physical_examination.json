@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1",
+                "heart_rate": "86",
+                "blood_pressure": "131/79",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD",
+                "neck": "Limited ROM both directions.",
+                "heent": "Right ptosis (baseline per family), hypomimic with decreased blink.",
+                "cardiac": "RRR no m/r/g",
+                "pulmonary": "Poor inspiratory effort but no r/r/w.",
+                "abdominal": "Soft NT ND",
+                "rectal": "Reportedly normal per ED, not repeated on exam.",
+                "extremities": "Left > right leg wasting. Left > RUE wasting.",
+                "neurological": {
+                    "mental_status": "A&Ox2, hypomimic",
+                    "cranial_nerves": "Ptosis on the right, diminished to pin on left hemiface, tongue fasciculations.",
+                    "motor": "RUE full except 5- IO's. RLE full except 5- IP. LUE no movement. LLE hemiparesis UMN pattern.",
+                    "sensory": "Touch retained on left side but diminished to pin over the hemibody.",
+                    "reflexes": "Clonus on left side.",
+                    "cerebellar": "Some action tremor without dysmetria RUE."
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

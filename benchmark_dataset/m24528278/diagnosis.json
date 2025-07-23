@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "cholecystitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with epigastric pain, nausea, and vomiting, culminating in a decision for laparoscopic cholecystectomy. The imaging study demonstrated surrounding wall edema of the gallbladder, consistent with cholecystitis, and ruled out other acute intra-abdominal processes."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is distended, measuring up to 1.5 cm, and hyperemic with wall thickening and adjacent fatty stranding and edema.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory examination for CFU",
+            "date": "Not specified",
+            "findings": "< 10,000 CFU/mL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory examination for blood urea nitrogen",
+            "date": "Not specified",
+            "findings": "8.9 mg/dL (reference range: 8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

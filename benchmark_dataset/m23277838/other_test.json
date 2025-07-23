@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laparoscopic appendectomy",
+            "date": "Not specified",
+            "findings": "Retrocecal appendix measuring up to 7 mm, with mild periappendiceal fat stranding, suggestive of early appendicitis. No perforation or periappendiceal abscess formation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Dependent atelectasis in lung bases, no pleural effusion, normal heart size, liver, gallbladder, spleen, pancreas, and adrenal glands unremarkable. Kidneys enhance symmetrically, small and large bowel loops normal in caliber. No intra-abdominal adenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

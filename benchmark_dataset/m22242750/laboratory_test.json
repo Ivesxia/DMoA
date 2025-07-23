@@ -1,0 +1,38 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "description": "The hepatic parenchyma is hyperechoic with area of sparing adjacent to the gallbladder fossa. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites."
+                },
+                "bile_ducts": {
+                    "description": "There is no intrahepatic biliary dilation. The CBD measures 3 mm."
+                },
+                "gallbladder": {
+                    "description": "The gallbladder is distended. Multiple, shadowing stones are noted. One stone is noted at the neck of the gallbladder which did not move with decubitus positioning. There is no pericholecystic fluid. The gallbladder wall measures 4-5 mm in thickness."
+                },
+                "pancreas": {
+                    "description": "Imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation."
+                },
+                "spleen": {
+                    "description": "Normal echogenicity, measuring 9.8 cm."
+                },
+                "kidneys": {
+                    "description": "The right kidney measures 11.3 cm. The left kidney measures 12.7 cm. Normal cortical echogenicity and corticomedullary differentiation is seen bilaterally. There is no evidence of masses, stones, or hydronephrosis."
+                },
+                "retroperitoneum": {
+                    "description": "Visualized portions of aorta and IVC are within normal limits."
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

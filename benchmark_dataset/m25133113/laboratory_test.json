@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC 19k (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase of 4k (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver function test",
+            "date": "Not specified",
+            "findings": "Transaminitis in the 100's, total bilirubin of 4.7 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Cr of 3.4 (acute on chronic renal failure)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RUQ ultrasound",
+            "date": "Not specified",
+            "findings": "CBD dilatation to 7-9mm without CBD stone",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Catheter exchange noted, unchanged pleural effusions, no pneumothorax, and no new focal parenchymal opacities",
+            "changes_over_time": "Compared to the previous examination, the catheter was changed."
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "58 bpm",
+                "blood_pressure": "128/75 mmHg",
+                "respiratory_rate": "15 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "General": "Comfortable",
+                "HEENT": "Normocephalic, atraumatic; Oropharynx within normal limits",
+                "Chest": "Clear to auscultation",
+                "Cardiovascular": "Regular Rate and Rhythm",
+                "Abdominal": "Soft, Nondistended, right upper quadrant tenderness to palpation",
+                "GU/Flank": "No costovertebral angle tenderness",
+                "Extremities/Back": "No cyanosis, clubbing or edema",
+                "Skin": "No rash",
+                "Neuro": "Speech fluent",
+                "Psych": "Normal mood"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

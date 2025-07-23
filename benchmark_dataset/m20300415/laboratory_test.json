@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild bibasilar atelectasis, no pleural effusions, multiple gallstones in the gallbladder, one stone at the cystic duct ostium, mild but uniformly thickened gallbladder wall, incomplete distention of gallbladder, no pericholecystic inflammatory stranding, liver and other abdominal organs within normal limits, atherosclerotic changes noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

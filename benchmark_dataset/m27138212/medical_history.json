@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Nausea and lower abdominal pain with associated vomiting and diarrhea.",
+        "history_of_present_illness": "Symptoms began at 7am on the day of admission, with nausea followed by non-bloody, bilious emesis occurring at least 7 times throughout the day. The patient also experienced non-bloody diarrhea and abdominal pain.",
+        "past_medical_history": "Asthma, obstructive sleep apnea, heartburn, arrhythmia, neurologic seizure at age ___, back pain, osteoarthritis, hyperlipidemia, vitamin D deficiency, vitamin B12 deficiency, iron deficiency.",
+        "family_history": "Not specified.",
+        "social_history": "Personal history of tobacco use."
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "heart_rate": "83 bpm",
+                "blood_pressure": "136/74 mmHg",
+                "respiratory_rate": "20/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well appearing, in no acute distress",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/rubs/gallops",
+                "pulmonary": "Clear to auscultation bilaterally",
+                "abdominal": "Soft, minimally tender, non-distended, drain site clean/dry/intact, no edema or erythema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

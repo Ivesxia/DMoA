@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8 °F",
+                "heart_rate": "95 bpm",
+                "blood_pressure": "121/76 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "A&Ox3, well-appearing female, in NAD",
+                "HEENT": "No scleral icterus, no palpable LAD",
+                "pulmonary": "CTAB, no wheezes/rales/rhonchi",
+                "cardiovascular": "NRRR, no murmurs/rubs/gallops",
+                "abdominal": "Soft, nondistended, TTP in suprapubic/RLQ regions with positive rebound tenderness in RLQ; no guarding, no palpable masses",
+                "extremities": "WWP bilaterally, no cyanosis/clubbing/edema, no ulcerations",
+                "neurological": "Moves all limbs spontaneously, no focal deficits"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

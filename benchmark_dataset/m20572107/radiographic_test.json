@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Moderate right layering pleural effusion with right lower lobe volume loss. Surgical clips seen throughout the mediastinum. Upper lungs are clear. No pneumothorax is seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

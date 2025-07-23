@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "heart_rate": "93 bpm",
+                "blood_pressure": "137/86 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Not applicable (NAD)",
+                "HEENT": "Neck supple, trachea midline, no adenopathy",
+                "cardiovascular": "Regular rhythm",
+                "respiratory": "Unlabored",
+                "abdominal": "Obese, soft, non-distended, tender to palpation RLQ, positive guarding, negative obturator/psoas sign",
+                "extremities": "LUE well healed scar upper arm, LLE lateral calf with well healed skin graft"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

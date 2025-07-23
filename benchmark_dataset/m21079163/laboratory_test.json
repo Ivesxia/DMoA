@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC 3.9, Hgb 8.2, Plt 100 (baseline WBC normal, Hgb 8s, Plt 50-100 during last admission of uncertain etiology)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chemistry panel (bun/cr)",
+            "date": "Not specified",
+            "findings": "c/w ESRD",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver function test (ALT/AST)",
+            "date": "Not specified",
+            "findings": "Abnormal but downtrending from prior admission",
+            "changes_over_time": "Downtrending from prior admission"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "198",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Scrotal Ultrasound",
+            "date": "Not specified",
+            "findings": "Right testicle measures 2.0 x 3.0 x 4.2 cm; left testicle 1.9 x 3.0 x 4.2 cm; testes slightly heterogeneous bilaterally, with multiple epididymal head cysts; vascularity normal",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

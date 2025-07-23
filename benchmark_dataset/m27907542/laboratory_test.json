@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "No intra-abdominal free air or free fluid. The liver, pancreas, spleen, and adrenal glands are normal. The kidneys are normal with no evidence of stones or lesions. The distal appendix is more prominent than on the prior study, measuring up to 8 mm with surrounding inflammatory fat stranding. No periappendiceal fluid collection or abscess.",
+            "changes_over_time": "The distal appendix is more prominent than on the prior study, previously fluid filled, with wall thickening and mucosal hyper enhancement."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Intermittent chest tightness.",
+        "history_of_present_illness": "The patient had intermittent chest tightness which was evaluated in an outpatient setting. Following a stress-echo that was negative, the patient developed sinus tachycardia to the 150's, nausea, light headedness, and vertigo immediately afterward. These symptoms did not resolve, leading to evaluation in the emergency department.",
+        "past_medical_history": "Obesity, hypertension, hypercholesterolemia, inappropriate sinus tachycardia, vasovagal syncope, positional vertigo, chronic headaches, sleep apnea.",
+        "family_history": "Not specified.",
+        "social_history": "Denies smoking."
+    }
+}

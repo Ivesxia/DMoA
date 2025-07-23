@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Upper abdominal pain, fevers, and fatigue",
+        "history_of_present_illness": "Symptoms began 2 weeks ago with acute onset of upper abdominal pain described as bilaterally 'like a strip.' The pain led to decreased oral intake and intermittent fevers, although the patient has been afebrile for the past 2 days. Additionally, the patient reports nausea, heartburn, and rigors. There are no changes in bowel movements or presence of bloody bowel movements.",
+        "past_medical_history": "HTN, Type 2 DM, Anxiety, IBS, OSA (non-adherent with CPAP), hyperlipidemia, left renal cyst, hepatic cysts. Previous history of choledocholithiasis s/p ERCP & sphincterotomy.",
+        "family_history": "CAD, renal disease. Mother has cirrhosis of unknown etiology.",
+        "social_history": "Not specified."
+    }
+}

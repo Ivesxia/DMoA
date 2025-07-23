@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C. difficile test",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile by the Illumigene DNA amplification assay. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Demonstrated a right lower quadrant collection with small areas of gas locules, measuring 4.5 x 3.5 cm.",
+            "changes_over_time": "Final CT scan of the pelvis shows decreased size of the collection compared to the initial scan."
+        }
+    ]
+}

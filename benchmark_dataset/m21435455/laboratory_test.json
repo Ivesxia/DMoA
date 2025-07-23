@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Elevated lipase 832 (normal range not specified).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Amylase",
+            "date": "Not specified",
+            "findings": "Amylase 79 (normal range not specified).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver Function Tests (LFTs)",
+            "date": "Not specified",
+            "findings": "LFTs peaked with AST 187, ALT 491, AlkPhos 178, Total bilirubin 4.2 (normal range not specified).",
+            "changes_over_time": "LFTs were normal at admission but peaked at the mentioned values."
+        },
+        {
+            "procedure_name": "MRCP (MRI of abdomen with and without contrast)",
+            "date": "Not specified",
+            "findings": "Mild intrahepatic bile duct dilation, gallbladder filled with stones, 5 mm filling defect in distal CBD consistent with a stone.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

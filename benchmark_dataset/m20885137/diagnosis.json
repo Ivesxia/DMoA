@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The CT scan of the abdomen showed a dilated appendix measuring up to 8 mm, fluid-filled with mild increased wall enhancement and mild periappendiceal stranding, which are findings concerning for appendicitis. The patient presented with nausea, fevers, chills, and worsening pain in the right lower quadrant, further supporting the diagnosis."
+    }
+}

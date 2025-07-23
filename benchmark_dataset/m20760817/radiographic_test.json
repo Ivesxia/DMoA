@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Stones in the mildly distended gallbladder with no significant wall edema; mild pericholecystic fluid is more prominent compared to prior exam. Hepatic parenchyma appears within normal limits. No focal liver mass. There is no intrahepatic biliary dilation.",
+            "changes_over_time": "Mild pericholecystic fluid is more prominent compared to prior exam."
+        }
+    ]
+}

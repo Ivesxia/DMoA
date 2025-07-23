@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9 °F",
+                "heart_rate": "66 bpm",
+                "blood_pressure": "134/46 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and in no apparent distress",
+                "eyes": "mildly icteric, pupils equally round",
+                "ent": "Ears and nose without visible erythema, masses, or trauma; Oropharynx without visible lesion, erythema or exudate",
+                "cardiovascular": "Heart regular; systolic murmur loudest in the LUSB; no S3, no S4; no JVD",
+                "respiratory": "Lungs clear to auscultation with good air movement bilaterally; breathing is non-labored, no stridor",
+                "gastrointestinal": "Abdomen soft, non-distended, tender to palpation in the epigastric and RUQ; bowel sounds hyperactive; no hepatosplenomegaly",
+                "genitourinary": "No suprapubic fullness or tenderness to palpation",
+                "musculoskeletal": "Neck supple; moves all extremities; strength grossly full and symmetric bilaterally in all limbs",
+                "skin": "No rashes or ulcerations noted",
+                "neurological": "Alert; oriented; face symmetric; gaze conjugate with EOMI; speech fluent; moves all limbs; sensation to light touch grossly intact throughout",
+                "psychological": "pleasant, appropriate affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

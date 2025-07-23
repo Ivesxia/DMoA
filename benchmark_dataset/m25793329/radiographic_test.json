@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Large right hilar heterogeneous mass invading the subcarinal region measuring 8.3 x 6.5 cm, stable in size. A right lower lobe bronchial stent has been placed. Cavitary lesion in the right lower lobe is unchanged. Small nodular opacities in the right middle lobe are again seen. A 4 mm left lower lobe pulmonary nodule is unchanged. Multiple metastatic lesions in the liver, increased in size. New fat stranding surrounding the pancreas with fluid tracking. No focal lesions within the pancreas. A large splenic metastasis measuring 5.3 x 5.3 cm has increased in size. Other kidney and urinary tract findings are unchanged.",
+            "changes_over_time": "Large right hilar mass stable in size, multiple metastatic liver lesions increased in size compared to prior study, a large splenic metastasis increased in size, an enlarged left lower quadrant lymph node increased in size from 8 mm."
+        }
+    ]
+}

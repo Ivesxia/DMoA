@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT CHEST W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Stable left greater than right lower lobe airspace disease with associated trace pleural effusions. Lungs are otherwise clear. No pneumothorax. There is a right-sided PICC which terminates in the caval atrial junction. Stable multichamber cardiomegaly in the setting of coronary artery calcifications. Stable enlargement of the main pulmonary artery suggestive of pulmonary artery hypertension. No axillary or mediastinal lymphadenopathy. No mediastinal mass or hematoma. Masslike enlargement of the left thyroid lobe measuring approximately 5.4 x 3.7 x 6.4 cm.",
+            "changes_over_time": "Masslike enlargement of the left thyroid lobe has demonstrated enlargement when compared to prior CT where it measured approximately 3.8 x 4.2 x 3.5 cm."
+        }
+    ]
+}

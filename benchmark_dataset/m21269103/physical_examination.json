@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4°F",
+                "heart_rate": "57 bpm",
+                "blood_pressure": "125/72 mmHg",
+                "respiratory_rate": "20 bpm",
+                "oxygen_saturation": "96% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, comfortable in bed",
+                "HEENT": "PERRLA, EOMI",
+                "neck": "neck swelling bilaterally, mildly firm, tender and mobile lymphadenopathy",
+                "cardiovascular": "RRR, no murmurs/gallops/rubs",
+                "lungs": "CTAB, no wheezes/rales/ronchi",
+                "abdomen": "obese, RLQ mass, mild tenderness to palpation in RUQ with RUQ fullness felt, no rebound/guarding, normoactive bowel sounds",
+                "genitourinary": "no foley",
+                "extremities": "warm, well-perfused, no edema",
+                "neurological": "Cranial nerves II-XII intact",
+                "skin": "no rashes"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "heart_rate": "58 bpm",
+                "blood_pressure": "119/69 mmHg",
+                "respiratory_rate": "16 bpm",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD W&W/O C",
+            "date": "Not specified",
+            "findings": {
+                "lung_bases": "Clear aside from mild dependent changes",
+                "liver": "Diffusely low density consistent with steatosis, no suspicious focal lesion",
+                "hepatobiliary": "Hypoechoic attenuating region likely representing retraction contusion, no biliary dilatation, gallbladder surgically absent",
+                "pancreas": "Normal attenuation throughout, no lesions or ductal dilatation",
+                "spleen": "Normal size and attenuation",
+                "adrenals": "Normal in size and shape",
+                "urinary": "Normal kidneys, no solid renal lesions, no hydronephrosis",
+                "gastrointestinal": "Small hiatal hernia, normal small bowel loops, colon and rectum within normal limits",
+                "lymph_nodes": "No evidence of lymphadenopathy",
+                "vascular": "Hepatic arteries patent, no injury to veins, no significant atherosclerotic disease",
+                "bones": "No worrisome osseous lesions or fractures, noted ankylosis of the anterior thoracic spine",
+                "soft_tissues": "Postsurgical changes along the anterior abdominal wall, no discrete fluid collection"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

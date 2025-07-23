@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level is 5290, which is outside the normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver Function Tests (LFTs)",
+            "date": "Not specified",
+            "findings": "LFTs within normal limits.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC count is 16, which is outside the normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hemoglobin",
+            "date": "Not specified",
+            "findings": "Hemoglobin is 12, which is the patient's baseline.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bicarbonate (HCO3)",
+            "date": "Not specified",
+            "findings": "HCO3 level is 18, which is outside the normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Urea Nitrogen (BUN)",
+            "date": "Not specified",
+            "findings": "BUN level is 41, lower than prior values.",
+            "changes_over_time": "Decreased compared to prior values."
+        },
+        {
+            "procedure_name": "Troponin",
+            "date": "Not specified",
+            "findings": "Troponin level is 0.05, which is within normal limits.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "D-dimer",
+            "date": "Not specified",
+            "findings": "D-dimer level is 476, which is outside the normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis (UA)",
+            "date": "Not specified",
+            "findings": "UA shows 23 WBC, large leaks.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "Liver is diffusely echogenic, gallbladder has a large stone (3.0 x 2.8 x 2.1 cm), spleen is enlarged (14.1 cm in length).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

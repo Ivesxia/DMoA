@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "73 bpm",
+                "blood_pressure": "93/48 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress.",
+                "HEENT": "No scleral icterus, mucous membranes dry.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, gallops, or rubs.",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes, rhonchi, or rales.",
+                "abdominal": "Soft, nondistended, tenderness to palpation in RUQ greater than LUQ, some referral of pain to RUQ from palpation of RLQ and LLQ; rebound tenderness noted but no guarding, normoactive bowel sounds, no palpable masses.",
+                "extremities": "No edema, tenderness of right shin with no bruising or skin changes, warm and well-perfused."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

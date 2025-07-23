@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is top-normal size to minimally dilated, measuring 6-8 mm in diameter. The appendix does not fill with oral contrast and is fluid-filled. Other abdominal organs are normal in appearance.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "BETA STREPTOCOCCUS GROUP B",
+            "date": "Not specified",
+            "findings": "HOLD. DISCARD GREATER THAN 24 HRS OLD.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

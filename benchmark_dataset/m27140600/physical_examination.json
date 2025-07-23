@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "90 bpm",
+                "blood_pressure": "107/85 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Obese female laying in bed, clearly in pain. Nourishment and grooming are good. Mentation is alert, speaking in full sentences.",
+                "cardiovascular": "Regular heart rate, normal S1 and S2, edema in bilateral lower extremities.",
+                "respiratory": "Clear to auscultation bilaterally.",
+                "gastrointestinal": "Bilateral lower quadrant tenderness with deep palpation, obesely distended abdomen.",
+                "neurological": "Alert and oriented, with no neurological deficits."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2°F",
+                "heart_rate": "103 bpm",
+                "blood_pressure": "138/90 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": "Position of patient not specified. No significant findings reported.",
+            "changes_over_time": "Vital signs showed fluctuations with an increase in heart rate and blood pressure."
+        }
+    ]
+}

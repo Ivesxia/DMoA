@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder is distended, filled with sludge and stones, and demonstrates gallbladder wall edema. There is a positive sonographic Murphy's sign. No intra- or extra-hepatic biliary duct dilatation is present, with the common bile duct measuring 4 mm. The liver is normal in echotexture without focal hepatic masses. Portal vein is patent demonstrating normal hepatopetal flow. The spleen is normal, measuring 11.7 cm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

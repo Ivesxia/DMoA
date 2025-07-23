@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Abdominal pain started 3 days ago. No fevers or chills, and the patient has not eaten in a day or so. Reports orange colored urine over the past few days, but denies any colored stools.",
+        "past_medical_history": "HTN, glaucoma, gout, hypothyroidism",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

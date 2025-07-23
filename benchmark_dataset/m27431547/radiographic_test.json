@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder is distended with biliary sludge and a large stone measuring 3.8 x 3.1 cm. The gallbladder wall is thickened and edematous with trace pericholecystic fluid and an equivocal sonographic ___ sign.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

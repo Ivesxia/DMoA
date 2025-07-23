@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ESR",
+            "date": "Not specified",
+            "findings": "22.0 mm/hr, which is outside the normal range (ref range: 0.0-20.0 mm/hr).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is distended measuring up to 13 mm in diameter with wall thickening and enhancement. Multiple hypodensities noted throughout the liver, likely benign in nature. No significant abnormalities in other abdominal structures.",
+            "changes_over_time": "The 1 cm hypodense lesion within the left adrenal gland is unchanged compared to previous studies."
+        }
+    ]
+}

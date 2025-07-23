@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Biliary Tract Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Heart is upper limits of normal in size, and the aorta is tortuous. Bibasilar areas of patchy and linear atelectasis are present with adjacent small pleural effusions, left greater than right.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "105 bpm",
+                "blood_pressure": "129/75 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "HEENT": "Anicteric, Oropharynx within normal limits",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm, Normal first and second heart sounds",
+                "abdominal": "+ RLQ tenderness to palpation, + Rovsing's sign, soft, no rigidity",
+                "GU/Flank": "No costovertebral angle tenderness",
+                "extremities/back": "No cyanosis, clubbing or edema",
+                "skin": "No rash",
+                "neurologic": "Speech fluent"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

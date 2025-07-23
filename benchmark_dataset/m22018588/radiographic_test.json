@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Low lung volumes result in bronchovascular crowding and accentuate the cardiac silhouette. No focal consolidation, evidence of pulmonary edema, or pleural effusion. No subdiaphragmatic free air. Heart size is normal. The aorta is tortuous.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

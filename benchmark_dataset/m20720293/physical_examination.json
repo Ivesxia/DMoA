@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2°F",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "125/70 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "well-appearing, no distress",
+                "HEENT": "clear oropharynx",
+                "neck": "no lymphadenopathy",
+                "cardiovascular": "RRR, normal S1, S2, no murmurs",
+                "pulmonary": "lungs clear to auscultation bilaterally",
+                "abdomen": "soft, mildly tender to deep palpation in the epigastric area, no rebound or guarding",
+                "extremities": "2+ radial and DP pulses, cool fingers, no discoloration",
+                "neurological": "CNs grossly intact",
+                "psychological": "pleasant, appropriate"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "140/69 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

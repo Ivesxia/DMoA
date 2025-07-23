@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain and weakness.",
+        "history_of_present_illness": "The patient began having abdominal pain on ___, accompanied by 4 episodes of nonbloody vomiting. The abdominal pain persisted with + fever to 100, headache, body aches, and urinary frequency. The symptoms were preceded by approximately 2 weeks of abdominal distention, which was new for him. He denied chest pain, shortness of breath, hematemesis, hematochezia.",
+        "past_medical_history": "Vascular vs Alzheimer dementia, benign prostatic hypertrophy (underwent negative prostate biopsy), cataract (s/p R cataract surgery), remote dysphagia (resolved x ___ years), history of headache attributed to Aricept, memory loss followed by Dr. ___ believed to be due to microvascular infarcts, osteoarthritis, osteopenia, polyuria, history of kidney \"crystals\".",
+        "family_history": "His father had dementia and died at ___. His mother died her ___ from natural causes. His brother had diabetes.",
+        "social_history": "Not specified."
+    }
+}

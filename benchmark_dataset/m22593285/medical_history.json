@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The pain started at 6:30 am on the day of presentation and was diffusely over the entire abdomen, worsening throughout the day. It subsided since coming to the ED. The patient was nauseated and vomited yellow foamy liquid but no longer feels nauseated. The patient last ate the night before presentation and last passed flatus that morning, with no bowel movement for two days.",
+        "past_medical_history": "Asthma, HLD, obesity",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

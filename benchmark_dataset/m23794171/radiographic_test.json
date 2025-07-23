@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ABDOMEN (SUPINE & ERECT)",
+            "date": "Not specified",
+            "findings": "Normal bowel gas pattern without dilated loops of bowel or air-fluid levels. No free air or pneumatosis identified. Visualized osseous structures are unremarkable. A radiopaque density in the right iliac wing represents a bone island.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Acute diverticulitis in the hepatic flexure.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

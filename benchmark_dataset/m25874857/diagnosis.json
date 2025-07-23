@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute pancreatitis",
+        "differential_diagnosis": "Urinary tract infection, Dementia, Coronary Artery Disease, Hypertension, Hyperlipidemia, Hypothyroidism",
+        "diagnostic_reasoning": "The patient presented with vomiting, elevated white blood cell count (19,000), and a positive urinalysis indicating infection, alongside past medical history of chronic urinary tract infections. Despite normal liver function tests and imaging that did not show pancreatic abnormalities, the clinical presentation suggested acute pancreatitis."
+    }
+}

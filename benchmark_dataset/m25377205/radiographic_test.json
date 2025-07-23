@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits. There is no evidence of pleural or pericardial effusion. The liver demonstrates homogenous attenuation throughout with no suspicious focal lesion or biliary dilatation. The gallbladder is surgically absent. The pancreas has normal attenuation without focal lesions or ductal dilatation. The spleen shows normal size and attenuation with few scattered punctate calcifications. The kidneys are of normal size with no solid lesions or hydronephrosis. The diverticulosis of the sigmoid colon is noted, along with focal wall thickening at the proximal sigmoid colon and a potential small subserosal abscess or inflamed diverticulum. No free fluid in the pelvis, with normal reproductive organs, and no significant vascular disease.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

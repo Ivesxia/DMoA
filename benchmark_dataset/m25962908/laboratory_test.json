@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC 21, Hb 12.9",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver function test",
+            "date": "Not specified",
+            "findings": "ALT 333, AST 244, AP 305, Tbili 5.3",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 790",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "BMP",
+            "date": "Not specified",
+            "findings": "Unremarkable",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Choledocholithiasis with 2 stones (largest 10 mm), CBD 12 mm dilated, mild cholangitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

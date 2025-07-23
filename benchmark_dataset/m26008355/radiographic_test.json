@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ABDOMEN US (COMPLETE STUDY)",
+            "date": "Not specified",
+            "findings": "The liver demonstrates normal morphology and echotexture. No focal hepatic lesions are identified. No intrahepatic or extrahepatic biliary ductal dilatation. No evidence of cholelithiasis or choledocholithiasis. No gallbladder wall thickening or pericholecystic fluid collections. Common bile duct measures approximately 3 mm. Portal vein demonstrates hepatopetal flow. The pancreas demonstrates normal echotexture, with no peripancreatic edema or fluid collections. The spleen demonstrates normal echotexture and size measuring 8.4 cm. The left kidney measures 11.0 cm and the right kidney measures 12.0 cm. Both kidneys demonstrate normal corticomedullary differentiation. No hydronephrosis. No ascites. The IVC and aorta are unremarkable, with atherosclerotic plaque identified throughout the abdominal aorta.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

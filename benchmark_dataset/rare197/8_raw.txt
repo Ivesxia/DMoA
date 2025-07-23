@@ -1,0 +1,44 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "surgery",
+      "specific_treatment": "cataract removal",
+      "start_date": "Not specified",
+      "end_date": "2023-03-01",  // assuming surgery was performed on the same date as the follow-up
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Severe posterior capsular opacification was noted in the right eye at follow-up."
+    },
+    {
+      "treatment_type": "surgery",
+      "specific_treatment": "removal of opacities",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Second surgery prescribed due to posterior capsular opacification.",
+      "treatment_response": "Not specified"
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2022-12-01",
+      "event": "Patient presented with nystagmus and whitish pupils after birth."
+    },
+    {
+      "date": "2023-03-01",
+      "event": "Cataracts were removed when the boy was three months old."
+    },
+    {
+      "date": "2023-03-01",
+      "event": "Three-month follow-up revealed severe posterior capsular opacification in right eye."
+    },
+    {
+      "date": "Not specified",
+      "event": "Second surgery prescribed to address opacities."
+    },
+    {
+      "date": "Not specified",
+      "event": "Twice yearly follow-up scheduled."
+    }
+  ]
+}
+```

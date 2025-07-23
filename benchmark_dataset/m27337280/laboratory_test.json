@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver is normal in shape and contour. A percutaneous transhepatic biliary drain transverses the right lobe of the liver. There is no evidence of hemorrhage or abnormal perfusion around the course of the drain. No residual intra or extrahepatic biliary duct dilation. The degree of dilation is improved from the exam on ___. An indeterminate hypodense lesion measuring approximately 8 mm, similar to the prior exam from ___. This lesion is unchanged in size compared to the prior MRI from ___. No worrisome liver lesions are identified. The pancreas is normal without focal lesions or pancreatic ductal dilatation. The kidneys are normal without renal lesions. There is a small amount of free fluid in the pelvis, likely within the normal physiologic range.",
+            "changes_over_time": "The degree of dilation is improved compared to the previous exam. The hypodense lesion's size is stable compared to prior imaging."
+        },
+        {
+            "procedure_name": "Urine culture",
+            "date": "Not specified",
+            "findings": "Positive for Enterococcus sp.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

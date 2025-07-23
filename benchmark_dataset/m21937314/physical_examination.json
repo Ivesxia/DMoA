@@ -1,0 +1,49 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "blood_pressure": "149/84 mmHg",
+                "heart_rate": "82 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "93% RA"
+            },
+            "relevant_findings": {
+                "general": "well appearing older gentleman in NAD",
+                "HEENT": "pinpoint pupils, reactive to light, nose clear, OP dry w/o lesions",
+                "neck": "supple, JVP 10 cm, no LAD",
+                "lungs": "CTA b/l, no dullness at bases",
+                "CV": "irregular pulse, regular rate, no significant MRG",
+                "abdomen": "hypoactive bowel sounds, S/NT/ND",
+                "extremities": "deformed nails, WWP, no CC, 1+ lower extremity edema, 2+ peripheral pulses",
+                "neurological": "CN II-XII grossly intact, strength not specified"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "ED initial vitals",
+            "vital_signs": {
+                "temperature": "97°F",
+                "blood_pressure": "171/72 mmHg",
+                "heart_rate": "34 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "The patient's heart rate changed from 34 bpm in the ED to 82 bpm during the admission physical, indicating improvement."
+        },
+        {
+            "date": "Prior to transfer",
+            "vital_signs": {
+                "temperature": "77°F",
+                "blood_pressure": "134/60 mmHg",
+                "heart_rate": "20 bpm",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "101 bpm",
+                "blood_pressure": "132/86 mmHg",
+                "respiratory_rate": "18 bpm",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, comfortable, pleasant, occasionally appears nauseous, although does not vomit.",
+                "heent": "PERRLA, EOMI, sclerae anicteric, MM dry, OP clear.",
+                "neck": "Supple, no JVD, no cervical LAD.",
+                "heart": "RRR, early peaking SEM at RUSB, no R/G, loud S2.",
+                "lungs": "CTA bilat, no r/rh/wh.",
+                "abdomen": "Soft, non-tender, no ascites, tender with voluntary guarding LLQ, also tender in suprapubic and less so in RLQ, no masses or HSM, no rebound.",
+                "extremities": "WWP, no c/c/e, 2+ peripheral pulses.",
+                "neuro": "CNs II-XII grossly intact, muscle strength throughout, sensation grossly intact throughout."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.9°F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "154/87 mmHg",
+                "respiratory_rate": "18 bpm",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

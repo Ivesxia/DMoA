@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "58 bpm",
+                "blood_pressure": "107/72 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": "No acute distress. Regular rate and rhythm, no respiratory distress. Abdomen soft, tender in RUQ without guarding. No peripheral edema.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

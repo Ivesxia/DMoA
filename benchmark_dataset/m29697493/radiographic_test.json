@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal without focal or textural abnormality. The gallbladder has an edematous wall, measuring up to 9 mm, and a small amount of pericholecystic fluid is seen. A 1.6-cm gallstone is seen impacted at the neck of the gallbladder. Several additional calcified gallstones and layering sludge are present within the gallbladder. The common duct measures 3 mm, and there is no intra- or extra-hepatic bile duct dilatation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

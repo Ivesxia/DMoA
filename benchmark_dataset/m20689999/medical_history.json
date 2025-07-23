@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Intermittent right lower quadrant abdominal pain for 1 week.",
+        "history_of_present_illness": "Symptoms began 1 week ago with intermittent right lower quadrant pain that has been worsening over time. The patient denies nausea or vomiting but reports fevers as high as ___ yesterday. No similar symptoms in the past.",
+        "past_medical_history": "Not specified",
+        "family_history": "No history of colon cancer.",
+        "social_history": "Not specified"
+    }
+}

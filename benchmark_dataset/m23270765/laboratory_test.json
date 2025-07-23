@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRI ABDOMEN W/O & W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver is normal in signal intensity, with a 15 x 10 mm T2 hyperintense lesion in the right hepatic lobe consistent with a biliary hamartoma. Mild intra and extra hepatic biliary dilatation observed, with the CBD measuring 7 mm. The gallbladder is distended with mild gallbladder wall edema and pericholecystic fluid. No gallstones identified. Diffusely low signal in pancreas, with restricted diffusion in pancreatic head and neck. Focal lobulation of pancreas insinuating between duodenum. Marked duodenal wall edema and soft tissue inflammation present. Main pancreatic duct mildly dilated at 4 mm without obstructing stones. Few reactive lymph nodes seen in porta hepatis. A 12-mm left adrenal nodule consistent with an adrenal adenoma. Small contour abnormality in spleen consistent with old infarct. Trace bilateral pleural effusions noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "Mixed bacterial flora (>= 3 colony types), consistent with skin and/or genital contamination.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

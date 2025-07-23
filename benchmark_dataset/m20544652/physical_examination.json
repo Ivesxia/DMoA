@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.8 °F",
+                "heart_rate": "61 bpm",
+                "blood_pressure": "159/92 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on 2L"
+            },
+            "relevant_findings": {
+                "general": "well nourished, friendly, cooperative and interactive, NAD",
+                "HEENT": "AT, NC, no cranial or carotid bruits, restricted range of motion",
+                "cardiac": "RRR, S1, S2, no murmurs",
+                "chest": "CTA",
+                "abdomen": "tender to the right subcostal area, ND, positive BS, no HSM",
+                "back": "no spinal tenderness, straight leg raising negative",
+                "extremities": "no CCE, no joint deformities, distal pulses palpable"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

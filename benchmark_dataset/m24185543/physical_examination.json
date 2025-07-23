@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "102.7°F",
+                "heart_rate": "126 bpm",
+                "blood_pressure": "138/68 mmHg",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "94% on room air"
+            },
+            "relevant_findings": {
+                "general": "In moderate distress, able to relate history",
+                "heent": "Tongue is parched/cracked, mild sinus tenderness over forehead and retro-orbital tenderness, dark circles around eyes",
+                "neck": "Nontender supple neck, no lymphadenopathy, no jugular venous distension",
+                "cardiac": "Regular rate and rhythm, S1/S2, no murmurs, gallops, or rubs",
+                "lung": "Clear to auscultation bilaterally, no wheezes, rales, or rhonchi, breathing comfortably without use of accessory muscles",
+                "abdomen": "Positive ___ sign, obese, tender in right upper quadrant, not tender in other quadrants, positive bowel sounds in all quadrants",
+                "extremities": "Dark brown macular spots in shins and ankles bilaterally, no cyanosis, clubbing or edema, moving all four extremities with purpose",
+                "pulses": "2+ dorsalis pedis pulses bilaterally",
+                "neuro": "Cranial nerves II-XII intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

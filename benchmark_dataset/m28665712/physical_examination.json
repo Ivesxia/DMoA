@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "84 bpm",
+                "blood_pressure": "144/75 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "94% on room air"
+            },
+            "relevant_findings": {
+                "general": "A&Ox1, NAD",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "cardiovascular": "RRR, No M/G/R",
+                "pulmonary": "Clear to auscultation bilaterally, No W/R/R",
+                "abdominal": "Soft, nondistended, nontender; non-tender to deep palpation in RUQ. Able to continue respirations with deep RUQ palpation. No masses or hernias appreciated",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

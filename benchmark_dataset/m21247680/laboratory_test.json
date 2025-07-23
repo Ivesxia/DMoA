@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC of 11 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase of 1000 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "Alk phos 199 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ALT",
+            "date": "Not specified",
+            "findings": "ALT 79 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "AST",
+            "date": "Not specified",
+            "findings": "AST 140 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Amylase",
+            "date": "Not specified",
+            "findings": "Amylase of 20 (normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Not specified",
+            "findings": "Positive in two bottles for GNRs",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CHEST RADIOGRAPH",
+            "date": "Not specified",
+            "findings": "Left-sided PICC line present; no complications noted, unchanged radiographic appearance of the lung parenchyma and heart.",
+            "changes_over_time": "Compared to the previous image, the course of the line is unremarkable, no pneumothorax."
+        }
+    ]
+}

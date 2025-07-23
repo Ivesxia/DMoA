@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified.",
+            "findings": "Echogenicity of the liver is homogeneous, smooth contour of the liver, no focal liver mass, main portal vein patent with hepatopetal flow, no ascites, no intrahepatic biliary dilation, CBD measures 3 mm, trace pneumobilia, spleen normal echogenicity measuring 9.1 cm, hepatic vasculature patent.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

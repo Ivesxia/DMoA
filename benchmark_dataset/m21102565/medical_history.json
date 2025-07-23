@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right lower quadrant pain",
+        "history_of_present_illness": "Pain began approximately 18 hours prior to presentation, was sudden in onset, constant, migrated from the umbilicus to the right lower quadrant, and was associated with nausea and several loose stools. The patient denies fevers, chills, blood per rectum, melena, and hematemesis.",
+        "past_medical_history": "hypothyroidism, colon polyp s/p polypectomy, transaminitis, melena in the context of a GI infection s/p trip to [location]",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

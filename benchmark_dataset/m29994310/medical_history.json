@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric pain for 2 weeks.",
+        "history_of_present_illness": "The patient presented with epigastric pain that started 2 weeks prior. Initially consistent with guarding during abdominal examination, there was concern for perforation. However, imaging showed gallbladder wall thickening and pericholecystic fluid, suggestive of cholecystitis. Symptoms progressed with the development of shortness of breath (SOB) and tachycardia, leading to demand ischemia. Pain in the right upper quadrant (RUQ) was mentioned upon transfer to medicine.",
+        "past_medical_history": "Coronary artery disease status post coronary artery bypass grafting (CABG), hyperlipidemia (HLD), hypertension (HTN), benign prostatic hyperplasia (BPH), emphysema, tuberculosis (TB) treated many years ago.",
+        "family_history": "Mother had hypertension and a history of cancer. Coronary artery disease in the family.",
+        "social_history": "Not specified."
+    }
+}

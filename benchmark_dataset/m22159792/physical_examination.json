@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.3",
+                "heart_rate": "80",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "100% RA",
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "NAD",
+                "HEENT": "AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, patent nares, MMM, cracked teeth, nontender supple neck, no LAD, no JVD",
+                "cardiac": "RRR, S1/S2, no murmurs, gallops, or rubs",
+                "lung": "CTAB, no wheezes, rales, rhonchi, breathing comfortably without use of accessory muscles",
+                "abdomen": "nondistended, +BS, TTP and endorses 'rebound tenderness' but without involuntary guarding",
+                "extremities": "moving all extremities well, no cyanosis, clubbing or edema",
+                "pulses": "2+ DP pulses bilaterally",
+                "neuro": "CN II-XII intact",
+                "skin": "warm and well perfused, no excoriations or lesions, no rashes"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Cr 2.1, BUN 77 -> Cr 2.3, BUN 77",
+            "changes_over_time": "Creatinine levels increased from 2.1 to 2.3."
+        },
+        {
+            "procedure_name": "Whole blood potassium",
+            "date": "Not specified",
+            "findings": "Whole blood K 6.6 -> Repeat Whole blood K 4.9",
+            "changes_over_time": "Potassium levels decreased from 6.6 to 4.9."
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate 2.7 -> Lactate 1.8",
+            "changes_over_time": "Lactate levels decreased from 2.7 to 1.8."
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis without contrast",
+            "date": "Not specified",
+            "findings": "Interval increase in size of a fluid collection in the sigmoid colon from 3.7 x 3.3 x 4.3 cm to 4.1 x 3.2 x 6.3 cm.",
+            "changes_over_time": "Fluid collection in the sigmoid colon increased in size."
+        }
+    ]
+}

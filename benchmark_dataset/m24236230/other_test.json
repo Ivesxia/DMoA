@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Multiple small filling defects seen at the lower third of the CBD. Three small stones were subsequently removed. Mild irregularity at the origin of the pancreatic duct.",
+            "changes_over_time": "Comparison is made with prior MRCP. Not specified."
+        },
+        {
+            "procedure_name": "RUQ Ultrasound",
+            "date": "Not specified",
+            "findings": "6mm CBD dilation, suspected pancreatic duct dilation, and GB edema.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lipase Test",
+            "date": "Previous to admission on 6759",
+            "findings": "Lipase elevated at 6759 prior at 2:30pm, later down to 550 at 11:30pm with significant symptom relief.",
+            "changes_over_time": "Lipase level decreased from 6759 to 550."
+        }
+    ]
+}

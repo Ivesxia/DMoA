@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Temperature": "98.7°F",
+                "Blood Pressure": "154/94 mmHg",
+                "Heart Rate": "68 bpm",
+                "Respiratory Rate": "18 breaths/min",
+                "Oxygen Saturation": "97% (RA)"
+            },
+            "relevant_findings": {
+                "General": "Obese, very pleasant man, alert and oriented x3, no acute distress.",
+                "HEENT": "PERRLA, EOMI, oropharynx clear without lesions, noted 5mm diameter blue-tinged lesion on upper lip.",
+                "Neck": "Supple, L submandibular lymphadenopathy, non-tender, no cervical or supraclavicular lymphadenopathy.",
+                "Cardiovascular": "Regular rate and rhythm, no murmurs/rubs/gallops.",
+                "Lungs": "Clear to auscultation bilaterally.",
+                "Abdomen": "Soft, normoactive bowel sounds, no rebound tenderness, mild tenderness to palpation in epigastric area, negative ___ sign.",
+                "Extremities": "1+ pitting edema bilaterally, 2+ dorsalis pedis pulses.",
+                "Neurological": "Cranial nerves II-XII intact, ___ strength upper and lower extremities, sensation grossly intact.",
+                "Skin": "Bronzed with tan lines, no lesions noted."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Temperature": "97.4°F",
+                "Blood Pressure": "146/91 mmHg",
+                "Heart Rate": "78 bpm",
+                "Respiratory Rate": "18 breaths/min",
+                "Oxygen Saturation": "96%"
+            },
+            "relevant_findings": "CT scan shows inflammation of the head and uncinate process of the pancreas without evidence for pseudocyst or adjacent vascular compromise.",
+            "changes_over_time": "Patient's pain was reported as much improved in subsequent evaluations."
+        }
+    ]
+}

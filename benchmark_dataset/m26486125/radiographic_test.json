@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The common bile duct is dilated in the region of the porta hepatis measuring approximately 7 mm. A stent is identified in the common bile duct. Superior to the pancreatic neck, there is a 3.4 x 3.3 x 2.5 cm hypoechoic mass corresponding to a necrotic lymph node seen on recent CT scan. The echogenicity of the liver is homogeneous and smooth without focal liver mass.",
+            "changes_over_time": "LFTs improved from prior. CBD dilation at the porta hepatis similar to prior."
+        },
+        {
+            "procedure_name": "CT abdomen",
+            "date": "Not specified",
+            "findings": "3.6 cm ill-defined arterially hypo-enhancing lesion at the pancreaticoduodenal groove concerning for cancer. Note made of lymph node involvement including a 5-cm necrotic common hepatic lymph node. The lesion has mass effect on the IVC and the nodal conglomerate in case of the main portal vein and abuts the common hepatic artery.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

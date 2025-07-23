@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "NEG mg/dL results, indicating normal findings",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung": "No focal consolidation or pleural effusion at the lung bases.",
+                "lymph_nodes": "Prominent retroperitoneal lymph nodes measuring up to 1 cm in short axis.",
+                "pancreas": "Peripancreatic fat stranding consistent with pancreatitis, pancreatic head is enlarged without discrete mass.",
+                "kidneys": "No evidence of hydronephrosis, left kidney shows evidence of scarring likely from prior infection.",
+                "pelvis": "Multiple uterine fibroids, no free fluid in the pelvis."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

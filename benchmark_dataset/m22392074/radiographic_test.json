@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD W&W/O C",
+            "date": "Not specified",
+            "findings": "Bibasilar atelectasis, unchanged mild pneumobilia, unchanged linear hypodensity in the inferior right lobe of the liver consistent with post-surgical changes, mild prominence of the pancreatic duct (up to 3.5 mm), peripancreatic fat stranding, chronically unchanged about 2 x 2-cm fluid collection in the cholecystojejunostomy site likely a seroma, small amount of fluid in the left greater than right paracolic gutters and in the left subphrenic space, atrophic kidneys measuring about 8 cm, moderate calcifications at the origins of the renal arteries, no suspicious focal hepatic lesions, no obstructing stones or renal masses, no suspicious bony lesions.",
+            "changes_over_time": "Unchanged since prior imaging."
+        }
+    ]
+}

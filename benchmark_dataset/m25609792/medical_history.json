@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain that travelled to the right lower quadrant.",
+        "history_of_present_illness": "The patient presented with abdominal pain that started prior to admission, associated with fever, chills, and anorexia. There was no nausea or vomiting, and the last bowel movement was a day before presentation.",
+        "past_medical_history": "History of hypertension (HTN).",
+        "family_history": "Non-contributory.",
+        "social_history": "Not specified."
+    }
+}

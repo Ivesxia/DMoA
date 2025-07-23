@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Cardiomegaly with left ventricular enlargement, right basilar atelectasis, new small pleural effusion, stable 9.2 mm hypodensity in liver likely a hemangioma, stable 11 mm hypodensity in liver likely a hepatic cyst, normal pancreas and spleen, normal adrenal glands, multiple bilateral renal cysts, significant fat stranding around the cecum, free fluid in the right lower quadrant, a 6.4 x 4.7 cm rim-enhancing fluid collection consistent with an abscess due to a perforated appendix, thickened adjacent small bowel loops, normal urinary bladder and distal ureters, coarse calcifications in bilateral ovaries, no lymphadenopathy, moderate atherosclerotic disease, stable deformity of superior endplate of L4, healed superior and inferior pubic rami fractures, and subcutaneous calcified granuloma in the right groin.",
+            "changes_over_time": "An area of cortical irregularity in the inferior pole of the right kidney is unchanged since CT from ___."
+        }
+    ]
+}

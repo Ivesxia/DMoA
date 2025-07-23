@@ -1,0 +1,31 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood tests (including Liver function tests and Lipase)",
+            "date": "Not specified",
+            "findings": {
+                "WBC": "12.2",
+                "Lipase": "> 4000",
+                "Alk Phos": "145",
+                "ALT": "244",
+                "AST": "316",
+                "Tb": "1.5"
+            },
+            "changes_over_time": "WBC increased to 12.2 from an unspecified earlier value, Lipase increased to 6420 from > 4000, Alk Phos increased to 172 from 145, ALT increased to 339 from 244, AST increased to 418 from 316, Tb increased to 2.1 from 1.5."
+        },
+        {
+            "procedure_name": "Blood tests (including Kidney function tests)",
+            "date": "Not specified",
+            "findings": {
+                "Cr": "0.9"
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ERCP Biliary & Pancreas",
+            "date": "Not specified",
+            "findings": "Ill-defined subtle filling defect within the lower third of the common bile duct, likely sludge, with no stones or strictures. No intra- or extra-hepatic biliary ductal dilatation. Sludge extraction was performed.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

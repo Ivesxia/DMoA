@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Fever and jaundice",
+        "history_of_present_illness": "The patient reported low-grade fevers for the past 2 weeks, starting post-operatively after a right total knee replacement. He indicated that he was able to ambulate without pain and denied worsening symptoms around the knee. However, he experienced increasing jaundice over the last 2 days, which he had never experienced before, along with dark urine noticed the day prior to admission.",
+        "past_medical_history": "Hepatitis C, cirrhosis, right total knee replacement 2 weeks ago, hypertension, hyperlipidemia.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

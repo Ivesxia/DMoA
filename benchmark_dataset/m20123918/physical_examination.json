@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "heart_rate": "67 bpm",
+                "blood_pressure": "101/70 mmHg",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "A&O, uncomfortable, pale",
+                "cardiovascular": "RRR",
+                "pulmonary": "CTAB",
+                "abdominal": "soft, gravid, moderate TTP of RLQ radiating to RUQ, no rebound, voluntary guarding",
+                "back": "no CVAT",
+                "extremities": "no calf tenderness",
+                "SVE": "deferred",
+                "Toco": "flat"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

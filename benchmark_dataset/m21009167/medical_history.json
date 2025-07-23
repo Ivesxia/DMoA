@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Ms. ___ presents with nausea, fatigue, and increased pigtail drainage.",
+        "history_of_present_illness": "The patient noted increased drainage over the past ___ days, with the drain typically putting out ___ overnight but recently noticed around 20cc. Increased drainage correlated with worsening nausea; patient denies fevers, chills, vomiting, diarrhea, and constipation.",
+        "past_medical_history": "COPD, pulmonary hypertension, CHF, severe obstructive sleep apnea, diabetes mellitus, hypertension, hyperlipidemia, perforated sigmoid diverticulitis s/p pigtail catheter, severe aortic stenosis s/p TAVR, chronic diastolic heart failure with EF 60-65%, gastroesophageal reflux disease, obesity, psoriasis, left bundle branch block.",
+        "family_history": "Father died of brain injury related to a fall, mother died of myocardial infarction at age ___, brother died of myocardial infarction at age ___, sister with ___ at age ___.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Cecal diverticulosis. Cecal wall is thickened with surrounding fat stranding and small amount of fluid. No evidence of abscess or extra luminal air. Prominent mesenteric lymph node noted in the right lower quadrant, likely reactive.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "WBC count",
+            "date": "Not specified",
+            "findings": "WBC was 15.1 with 70% neutrophils.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

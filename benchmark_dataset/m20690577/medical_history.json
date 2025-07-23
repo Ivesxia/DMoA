@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient reports developing pain for the last 3 days in the RUQ. Pain is sharp, constant, relieved with Ibuprofen. No association with food. No fevers or chills. + Nausea, no emesis.",
+        "past_medical_history": "History of desmoid tumor s/p multiple abdominal surgeries, FAP, hernia, colostomy reversal.",
+        "family_history": "Mother: CAD.",
+        "social_history": "Not specified."
+    }
+}

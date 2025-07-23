@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "77 bpm",
+                "blood_pressure": "121/78 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "constitutional": "Well appearing, in no acute distress",
+                "cardiopulmonary": "RRR, normal S1 and S2. No murmurs, rubs or gallops. Lungs are clear to auscultation bilaterally",
+                "abdominal": "Soft, non-distended, right-lower quadrant tenderness with rebound and voluntary guarding. Minimal tenderness over epigastrium",
+                "extremities": "Warm and well-perfused. No clubbing, cyanosis or edema. Well-healed incisional scar over right knee.",
+                "neurologic": "Alert and oriented x 3. No gross deficits"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

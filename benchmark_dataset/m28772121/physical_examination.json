@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.6°F",
+                "heart_rate": "94 bpm",
+                "blood_pressure": "144/88 mmHg",
+                "respiratory_rate": "12 breaths/min",
+                "oxygen_saturation": "100% on RA"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "pulmonary": "Clear to auscultation bilaterally; poor air movement",
+                "cardiovascular": "Regular rate and rhythm, normal S1S2",
+                "gastrointestinal": "Obese, soft. Nontender to deep palpation; patient with pain on left side.",
+                "neurologic": "Alert, oriented to person, place, and time. Normal bulk, strength, and tone throughout.",
+                "skin": "No rashes or lesions noted."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

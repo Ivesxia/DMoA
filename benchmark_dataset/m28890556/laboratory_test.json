@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Diffuse hypoattenuation of the liver consistent with fatty infiltration; diffuse fat stranding associated with the head of the pancreas; gallbladder, adrenal glands, spleen, kidneys, stomach, duodenum, small and large bowel appear normal; no fluid collection, no intra-abdominal fluid collection, ascites, pneumoperitoneum, or lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Initial Tests",
+            "date": "Not specified",
+            "findings": "Anion gap elevated; elevated LFTs; hypokalemia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbiology Culture",
+            "date": "Not specified",
+            "findings": "Mixed bacterial flora (>= 3 colony types), consistent with skin and/or genital contamination.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

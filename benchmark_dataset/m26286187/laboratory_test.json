@@ -1,0 +1,49 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "gallbladder": {
+                    "condition": "contains stones",
+                    "distension": "distended",
+                    "wall": "evidence of wall edema"
+                },
+                "liver": {
+                    "hyperemia": "hyperemia noted in the hepatic parenchyma adjacent to the gallbladder",
+                    "lesions": "multiple hypodense lesions likely representing hepatic cysts",
+                    "stability": "appear stable compared to prior study"
+                },
+                "kidneys": {
+                    "findings": "multiple hypodense foci too small to characterize and others consistent with cysts",
+                    "stability": "stable in comparison to the prior study"
+                },
+                "abdominal findings": {
+                    "fluid": "No free fluid",
+                    "air": "No free air"
+                },
+                "pelvic findings": {
+                    "colonic": "colonic diverticulosis",
+                    "uterus": "contains a fundal fibroid",
+                    "right_adenxal_lesion": {
+                        "size": "3.1 x 2.2 cm",
+                        "stability": "stable in comparison to prior studies"
+                    }
+                },
+                "osseous_structures": {
+                    "lesions": "no lytic or sclerotic osseous lesions suspicious for malignancy",
+                    "degenerative_changes": "extensive degenerative changes noted in the right hip"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gallbladder culture",
+            "date": "Not specified",
+            "findings": {
+                "culture_result": "NO GROWTH."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

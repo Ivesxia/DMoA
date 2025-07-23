@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT Angiography of the Chest",
+            "date": "Not specified",
+            "findings": "A single enlarged anterior mediastinal lymph node measures 1.2 cm in short axis. Streaky opacities in the dependent portions of lung, compatible with subsegmental atelectasis. A left lower lobe subpleural lung nodule measuring 5 mm in short axis. Diffusely hypodense liver consistent with hepatic steatosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

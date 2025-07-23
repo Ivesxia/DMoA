@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "98.7 °F",
+                "heart_rate": "90 bpm",
+                "respiratory_rate": "14 breaths per minute",
+                "oxygen_saturation": "97% on room air",
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "General": "comfortable, well nourished",
+                "HEENT": "dry mucus membranes, anicteric sclera",
+                "Cardiovascular": "RRR, no murmurs",
+                "Pulmonary": "clear bilaterally",
+                "Abdomen": "soft, TTP RLQ, +rebound, -pain with flexion of the right leg, no back pain",
+                "Extremities": "WWP"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

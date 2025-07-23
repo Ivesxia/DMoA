@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits. There is no evidence of pleural or pericardial effusion. The liver demonstrates homogenous attenuation with multiple hypodensities, the largest measuring up to 1.4 cm likely representing cysts or hamartomas. Mild periportal edema is noted. The gallbladder demonstrates some wall edema and a dependent radiopaque stone at the fundus. The pancreas, spleen, adrenal glands, kidneys, stomach, colon, and rectum are unremarkable. The appendix is fluid-filled and measures up to 8 mm with significant fat stranding surrounding it. There is a small amount of free fluid in the pelvis. No evidence of lymphadenopathy or acute fractures.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric pain radiating to the back associated with nausea.",
+        "history_of_present_illness": "Symptoms began 2 days prior to presentation. The patient experienced severe epigastric pain radiating to the back, which was associated with nausea and was not previously experienced. This pain had been improving at the time of the visit to urgent care but was severe enough to prevent sleep. Intermittent epigastric pain was noted earlier but was less intense, not associated with nausea, and did not radiate. No fevers or vomiting were reported.",
+        "past_medical_history": "Patient had a wrist fracture at age ___.",
+        "family_history": "Mother passed away from pancreatic cancer at age ___. Father has hypertension. Maternal aunt has breast cancer.",
+        "social_history": "Not specified."
+    }
+}

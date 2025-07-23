@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain following ERCP",
+        "history_of_present_illness": "The patient started having abdominal pain after an endoscopic retrograde cholangiopancreatography (ERCP) procedure yesterday. The pain was severe, mostly in the right upper quadrant (RUQ), worsening with movement or touching the area. The patient also experienced fever (Tm 103.4) and chills, feeling extremely cold. Vomiting of bilious fluid occurred, but there was no blood. The patient became increasingly confused and inattentive over time.",
+        "past_medical_history": "Chronic pancreatitis, Peptic ulcer disease complicated by perforation (s/p repair), mesenteric ischemia (s/p celiac artery stent placement), COPD, HTN, chronic back pain, ETOH abuse, previous motor vehicle accident (MVA) with multiple rib fractures, right femur fracture, L3-L4 transverse process fractures, CBD stricture (s/p stent placement), and previous ERCP.",
+        "family_history": "Mother died of lung cancer and emphysema; father died of a stroke.",
+        "social_history": "History of alcohol abuse."
+    }
+}

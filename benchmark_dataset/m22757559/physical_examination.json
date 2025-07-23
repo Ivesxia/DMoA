@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.3°F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "142/90 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "Comfortable",
+                "HEENT": "Normocephalic, atraumatic",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm, Normal first and second heart sounds",
+                "abdominal": "Soft, positive bowel sounds in palpation of the right lower quadrant. No rebound or guarding",
+                "GU/flank": "No costovertebral angle tenderness",
+                "extremities/back": "No cyanosis, clubbing or edema",
+                "skin": "No rash",
+                "neurological": "Speech fluent",
+                "psych": "Normal mood, Normal mentation"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "CT findings indicate hyperemic, dilated appendix measuring up to 9 mm with adjacent stranding consistent with acute appendicitis. No periappendiceal collection or free air.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

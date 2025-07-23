@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2°F",
+                "heart_rate": "55 bpm",
+                "blood_pressure": "120/69 mmHg",
+                "respiratory_rate": "19 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "constitutional": "Uncomfortable appearing, rolling around the bed",
+                "HEENT": "Normocephalic, atraumatic; Oropharynx within normal limits",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm",
+                "abdominal": "Soft, no focal tenderness",
+                "rectal": "Heme Negative per resident exam",
+                "GU/flank": "No costovertebral angle tenderness",
+                "extremities/back": "No cyanosis, clubbing or edema",
+                "skin": "No rash",
+                "neurological": "Speech fluent",
+                "psychological": "Normal mood"
+            },
+            "changes_over_time": "In comparison to the prior exam, the dilation of the appendix has slightly increased."
+        }
+    ]
+}

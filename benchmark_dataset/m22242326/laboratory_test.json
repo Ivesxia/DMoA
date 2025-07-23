@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated and fluid-filled measuring up to 13 mm with adjacent free fluid. There is no discrete fluid collection or extra luminal air to suggest perforation. There is lack of circumferential mural enhancement of the posterior lateral appendiceal wall likely reflective of gangrenous changes. Other abdominal organs appear normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

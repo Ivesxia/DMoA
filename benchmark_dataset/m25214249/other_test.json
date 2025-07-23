@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Physical Examination",
+            "date": "Not specified",
+            "findings": "Well appearing in NAD, focally tender to deep palpation in RLQ, negative psoas, positive obturator sign.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated and fluid-filled, measuring 13 mm, with wall thickening and periappendiceal fat stranding. A 4 x 5 mm fecalith is noted at the cecal base.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

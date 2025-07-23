@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "pulse": "75 bpm",
+                "blood_pressure": "112/60 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "NAD, resting comfortably",
+                "cardiovascular": "RRR (Regular Rate and Rhythm)",
+                "lungs": "CTAB (Clear to Auscultation Bilaterally)",
+                "abdomen": "soft, nondistended, tender to palpation mid-epigastric, no guarding/rebound tenderness",
+                "extremities": "warm, well perfused, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

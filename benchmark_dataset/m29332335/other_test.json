@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Pelvic examination",
+            "date": "Not specified",
+            "findings": "No adnexal tenderness or fullness, no CMT, no edema, extremities warm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Rectal examination",
+            "date": "Not specified",
+            "findings": "Guaiac negative, no masses.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT abdomen and pelvis with IV contrast",
+            "date": "Not specified",
+            "findings": "No consolidation or pleural effusion; normal liver, gallbladder, and spleen; 5 mm pancreatic hypodensity likely cyst; tubular structure in right lower quadrant; small amount of free fluid in pelvis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

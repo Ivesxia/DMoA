@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild atelectatic change in the lung bases; right lower lobe 6-mm nodular opacity; gallbladder wall thickening likely perforated along the posterior margin with adjacent fat stranding; dominant fluid collection seen along the inferior edge of the liver adjacent to the gallbladder measuring approximately 5.5 x 2.0 cm; surrounding mild hyperemia in adjacent liver segment; smaller areas of hypoenhancement in the liver likely represent perfusion abnormalities or focal fatty infiltration; otherwise unremarkable liver, spleen, pancreas, and adrenals; no dilatation of the common duct; kidneys in normal anatomic locations; severe atherosclerotic calcifications in abdominal aorta and iliac vessels; small right fat-containing inguinal hernia; multiple old posterior right-sided rib fractures without evidence of malignancy or infection.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

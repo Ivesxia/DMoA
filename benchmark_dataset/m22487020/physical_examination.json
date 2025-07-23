@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "blood_pressure": "116/50 mmHg",
+                "heart_rate": "74 bpm",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "97% on 1L"
+            },
+            "relevant_findings": {
+                "general": "NAD, awake, alert",
+                "HEENT": "EOMI, PERRL, sclera anicteric, conjunctivae clear, OP moist and without lesion",
+                "neck": "Supple, no JVD",
+                "cardiovascular": "Regular, normal S1, S2. No m/r/g.",
+                "chest": "Respirations unlabored, no accessory muscle use, bilateral crackles",
+                "abdomen": "Soft, NT, ND, palpable pulsatile mass in LUQ. Some tenderness to palpation in LUQ attributed to muscle strain from previous vomiting.",
+                "extremities": "No clubbing, cyanosis or edema. 2+ DP pulses.",
+                "skin": "No rashes."
+            },
+            "changes_over_time": "Abdominal aortic aneurysm measured at 4.6 cm, reduced from 5.2 cm previously, though variability may be due to different measurement techniques."
+        }
+    ]
+}

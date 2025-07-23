@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Decrease in size of bilateral pleural effusions with some residual compressive atelectasis noted in the lower lobes, normal hepatic parenchymal signal intensity without focal liver lesion, patchy region of arterial hyperenhancement noted at the dome of the liver consistent with a focal perfusion anomaly, no intra-hepatic biliary dilatation, gallstones and layering sludge noted within the gallbladder, no gallbladder wall thickening or edema to suggest acute cholecystitis, no evidence for choledocholithiasis, patchy heterogeneous signal intensity within the head of the pancreas consistent with inflamed tissue, peripheral enhancement of inflamed/possibly necrotic tissue measuring approximately 2.5 cm, decreased peripancreatic edema and inflammatory stranding compared to prior imaging, splenic vein appears attenuated with numerous gastro-epiploic collaterals noted, both adrenal glands and kidneys are unremarkable, no retroperitoneal masses or adenopathy.",
+            "changes_over_time": "Substantially decreased amount of peripancreatic edema and inflammatory stranding compared to prior imaging suggests resolving condition."
+        },
+        {
+            "procedure_name": "Diagnostic ultrasound of digestive system",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

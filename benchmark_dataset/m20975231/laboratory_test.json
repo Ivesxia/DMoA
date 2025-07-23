@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level: 18,981 (outside normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total Bilirubin",
+            "date": "Not specified",
+            "findings": "Total Bilirubin level: 1.6 (outside normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "AST",
+            "date": "Not specified",
+            "findings": "AST level: 222 (outside normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ALT",
+            "date": "Not specified",
+            "findings": "ALT level: 158 (outside normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate level: 3.4 (outside normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Portable Abdomen Radiograph",
+            "date": "Not specified",
+            "findings": "Air fills multiple loops of nondilated small bowel, no evidence of obstruction, ileus, or free intraperitoneal air.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MR HEAD W & W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Several areas of hyperintensity on diffusion images in the left parietal region, predominantly in the subcortical white matter as well as a small focus in the left occipital region. Areas are isointense on ADC map with several periventricular abnormalities, particularly in the left periatrial region, indicative of subacute infarcts. No evidence of chronic blood products. No evidence of mass effect or midline shift. Mild-to-moderate changes of small vessel disease and moderate brain atrophy identified. Extensive bilateral mastoid soft tissue changes are identified. A chronic infarct is seen in the right occipital lobe. Absence of flow signal in the left internal carotid artery indicative of occlusion in the neck. Flow signal identified in the left middle cerebral artery, most likely due to collateral flow through the anterior communicating artery.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "5 cm abscess under the diaphragm.",
+            "changes_over_time": "CT scan showed the intraabdominal abscess still present, however decreased in size."
+        }
+    ]
+}

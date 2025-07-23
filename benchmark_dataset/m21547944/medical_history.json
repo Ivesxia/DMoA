@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Worsened chronic intermittent abdominal pain.",
+        "history_of_present_illness": "Chronic abdominal pain, which worsened prior to admission. Symptoms were associated with nausea and emesis, occurring twice. The patient also had fevers. Recent lab work indicated leukocytosis and LFT abnormalities, prompting transfer for further evaluation. Notably, there was a significant drop in hemoglobin from 10.8 to 7.6.",
+        "past_medical_history": "Hypertension (HTN), prior stroke resulting in left-sided hemiparesis, history of CVA.",
+        "family_history": "Mother had a CVA; there is a family history of hypertension.",
+        "social_history": "Lives in a nursing facility, cared for by children. She attends adult day care. Independent in activities of daily living (ADLs) except for limitations from chronic left-sided weakness. Consumes 1 glass of white wine daily. Ambulates with a cane but has required a walker due to left hand clenching over the last week."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Hgb 10.2, WBC 3.9, lipase 148",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen/Pelvis with and without contrast",
+            "date": "Not specified",
+            "findings": "Lower chest: unchanged right lung base pulmonary cyst; no pleural or pericardial effusion. Abdomen: liver normal, pancreas normal, spleen normal, kidneys normal with resolved hydroureteronephrosis, wall thickening from rectosigmoid to sigmoid colon more prominent than prior study; mild sigmoid diverticulosis noted.",
+            "changes_over_time": "Hydroureteronephrosis on the left has resolved. Wall thickening and tethering from the rectosigmoid to sigmoid colon slightly more prominent compared to the prior study."
+        }
+    ]
+}

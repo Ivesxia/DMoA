@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.5 F",
+                "heart_rate": "103 bpm",
+                "blood_pressure": "103/66 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "alertness": "A&O x 3",
+                "general_condition": "NAD (no acute distress)",
+                "pupils": "PERRL (pupils equal, round, reactive to light)",
+                "extraocular_movement": "EOMI (extraocular movements intact)",
+                "sclera": "Slight icterus",
+                "neck": "Supple, no masses or lymphadenopathy",
+                "cardiovascular": "Mildly tachycardic",
+                "lungs": "CTAB (clear to auscultation bilaterally)",
+                "abdomen": "Soft, distended, moderate tenderness to palpation in RLQ and suprapubically with some voluntary guarding",
+                "extremities": "Warm, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

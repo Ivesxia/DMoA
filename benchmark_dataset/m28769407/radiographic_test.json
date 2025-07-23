@@ -1,0 +1,37 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "parenchyma": "within normal limits",
+                    "contour": "smooth",
+                    "focal_mass": "none",
+                    "main_portal_vein": "patent with hepatopetal flow",
+                    "ascites": "none"
+                },
+                "bile_ducts": {
+                    "intrahepatic_biliary_dilation": "none",
+                    "CBD_measurement": "5 mm (Previously 4 mm)"
+                },
+                "gallbladder": {
+                    "gallstones": "several noted",
+                    "wall": "thin walled and unremarkable",
+                    "pericholecystic_free_fluid": "none"
+                },
+                "pancreas": {
+                    "size": "mildly enlarged in comparison to prior study",
+                    "masses": "none",
+                    "ductal_dilation": "none",
+                    "tail_obscured": "by overlying bowel gas",
+                    "definite_fluid_collection": "none"
+                }
+            },
+            "changes_over_time": {
+                "CBD": "increased from 4 mm to 5 mm",
+                "pancreas": "mildly enlarged compared to previous study"
+            }
+        }
+    ]
+}

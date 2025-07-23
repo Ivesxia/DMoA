@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "AST: 192, ALT: 96, AlkPhos: 86, tBili: 1.0, albumen: 3.7",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chem 10",
+            "date": "Not specified",
+            "findings": "normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fluoroscopy of Abdomen",
+            "date": "Not specified",
+            "findings": "Multiple filling defects within the biliary tree which could represent stones, given cholelithiasis on gallbladder ultrasound.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

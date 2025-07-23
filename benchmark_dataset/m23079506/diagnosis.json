@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient's symptoms included acute onset abdominal pain that began in the epigastric region and migrated to the right lower quadrant, accompanied by nausea and tenderness upon examination, particularly in the RLQ. The CT findings supported the diagnosis of acute appendicitis, showing a dilated and fluid-filled appendix with mild wall hyperenhancement and an appendicolith, while ruling out other abdominal pathologies."
+    }
+}

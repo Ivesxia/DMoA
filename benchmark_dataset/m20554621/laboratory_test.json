@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated to 8 mm in caliber and shows mucosal hyperemia. An 11 mm appendicolith is present at the base of the appendix. There is no evidence of perforation and there is no abscess.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

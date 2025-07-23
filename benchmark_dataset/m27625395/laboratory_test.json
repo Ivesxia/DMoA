@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The uterus measures 7.5 x 4 x 6.5 cm. The endometrium measures 6 mm and is homogeneous. A 1.8 x 1.2 x 1.2 cm slightly complex cyst with small amount of increased echogenicity is seen in the left ovary. The ovaries are otherwise normal with adequate vascular flow. There is trace amount of pelvic free fluid.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

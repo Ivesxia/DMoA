@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-Ray",
+            "date": "Not specified",
+            "findings": "Calcified rounded nodular opacities projecting over the left mid lung, most consistent with calcified granulomas; stable cardiac and mediastinal silhouettes; mild right basilar atelectasis; slight blunting of the left costophrenic angle, trace pleural effusion not excluded.",
+            "changes_over_time": "Right diaphragmatic pleural linear calcifications are better appreciated on prior study."
+        }
+    ]
+}

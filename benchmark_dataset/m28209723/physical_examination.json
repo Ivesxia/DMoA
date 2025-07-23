@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "119/61 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "A&Ox3, well-appearing male, not in distress",
+                "HEENT": "No scleral icterus, no palpable lymphadenopathy",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes/rhonchi",
+                "cardiovascular": "Normal rate and rhythm, no murmurs/rubs/gallops",
+                "abdominal": "Soft, non-distended, tenderness to palpation in bilateral lower quadrants and periumbilical area. No rebound tenderness, no guarding, no palpable masses. Positive obturator and Rovsing's sign, negative psoas sign.",
+                "extremities": "Warm, well-perfused bilaterally, no cyanosis/clubbing/edema, no ulcerations",
+                "neurological": "Moves all limbs spontaneously, no focal deficits"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

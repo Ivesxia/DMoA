@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The lung bases are clear; the visualized heart and pericardium are unremarkable. The liver enhances homogeneously, without focal lesions or intrahepatic biliary duct dilatation. The gallbladder is unremarkable, and the portal vein is patent. The pancreas, spleen, and adrenal glands are within normal limits. The kidneys demonstrate symmetric nephrograms and excretion of contrast, with no focal renal lesion bilaterally. Mild dilatation of the proximal third portion of the duodenum (approximately 3.3 cm) with narrowing (approximately 6 mm). The appendix is 8 mm in caliber, fluid filled with significant wall enhancement, and an appendicolith is noted. Some stranding is seen in the mesentery of the right lower quadrant. No fluid collection or intraperitoneal gas to suggest perforation. The aorta is non-aneurysmal, with no ascites or abdominal free air. The urinary bladder, terminal ureters, uterus, and adnexa are unremarkable, with no pelvic free fluid identified. No lytic or blastic lesions concerning for malignancy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9 °F",
+                "blood_pressure": "100/61 mmHg",
+                "heart_rate": "99 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "95% on 2L",
+                "date_recorded": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "No distress, well-nourished, appearing anicteric",
+                "eyes": "Right eye conjunctival injection",
+                "lungs": "Faint crackles at bases bilaterally",
+                "abdominal": "Normal bowel sounds, mild tenderness in RUQ, no guarding",
+                "extremities": "No edema",
+                "neurological": "Oriented x 3, moving all extremities symmetrically",
+                "psychiatric": "Calm, normal affect",
+                "GU": "Foley in place",
+                "date_recorded": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "102/65 mmHg",
+                "heart_rate": "96 bpm",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "94% on 2L, later repeated to 97% on RA",
+                "date_recorded": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Generally well-appearing, afebrile",
+                "abdominal": "RUQ tenderness to palpation with voluntary guarding",
+                "labs": "Elevated direct bilirubin 2.4, AST 138, ALT 79",
+                "date_recorded": "Not specified"
+            },
+            "changes_over_time": "Patient's abdominal pain has improved, currently mild abdominal pain with no nausea."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "chest_xray": "Bibasilar opacities likely representing atelectasis, progressed compared to prior study, no focal consolidation, small pleural effusion suggested by blunting of left costophrenic angle.",
+                "date_recorded": "Not specified"
+            },
+            "changes_over_time": "The bibasilar opacities have progressed compared to the prior study performed earlier on the same date."
+        }
+    ]
+}

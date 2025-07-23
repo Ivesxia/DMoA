@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2°F",
+                "blood_pressure": "142/93 mmHg",
+                "heart_rate": "88 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "Obese male laying in bed, in no apparent distress.",
+                "grooming": "Well groomed.",
+                "mentation": "Alert, speaking in full sentences.",
+                "eyes": "No conjunctival injection, pupils equal, round, reactive to light, extraocular movements intact without nystagmus, no scleral icterus noted.",
+                "ears_nose_mouth_throat": "Mucous membranes moist, no lesions noted in oral cavity.",
+                "neck": "Supple, no jugular venous distention or carotid bruits appreciated.",
+                "respiratory": "Lungs clear to auscultation bilaterally without rales, rhonchi, or wheezes.",
+                "cardiovascular": "Regular rate and rhythm, normal S1 and S2, no murmurs, rubs, or gallops noted.",
+                "gastrointestinal": "Soft, obesely distended, non-tender, normoactive bowel sounds, no masses or organomegaly noted.",
+                "genitourinary": "Deferred examination.",
+                "rectal": "Guaiac negative.",
+                "skin": "No rashes or lesions noted, no pressure ulcers.",
+                "extremities": "No clubbing, cyanosis, or edema bilaterally, 2+ radial, dorsalis pedis, and other pulses bilaterally.",
+                "lymphatics": "No cervical, supraclavicular, axillary, or inguinal lymphadenopathy noted.",
+                "neurologic": {
+                    "mental_status": "Alert, oriented to person, place, and time. Able to relate history without difficulty.",
+                    "cranial_nerves": "Cranial nerves II-XII intact.",
+                    "motor": "Normal bulk, strength, and tone throughout with no abnormal movements noted.",
+                    "psychiatric": "Very pleasant with full affect."
+                }
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

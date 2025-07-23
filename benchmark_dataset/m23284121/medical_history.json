@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient presents with 2 days of abdominal pain, which has been increasing. She was seen one day ago, diagnosed with PID, and given antibiotics. An ultrasound done at that time showed a slightly enlarged right ovary but no evidence of torsion. The patient also reports nausea and vomiting. She denied fevers or chills.",
+        "past_medical_history": "Depression/anxiety, Chronic cough, Shingles, Asthma as a child, Chlamydia diagnosis, IUD (Mirena)",
+        "family_history": "Mother is bipolar, father has hypertension, no cardiovascular disease, no sudden cardiac death.",
+        "social_history": "Not specified."
+    }
+}

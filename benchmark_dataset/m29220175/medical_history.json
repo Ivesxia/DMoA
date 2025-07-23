@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "RUQ abdominal pain radiating to her back for 12 hours.",
+        "history_of_present_illness": "Pain started at noon, was severe, and associated with dizziness, nausea, and vomiting. Symptoms were aggravated by oral intake. The patient has experienced similar pain previously, but this episode was much worse. She was febrile with a temperature of 103.1 upon arrival.",
+        "past_medical_history": "Aortic Stenosis, Complete Heart Block status post pacemaker, Duplicated ureter (left), Hypertension, Lumbago with sciatica, Osteoarthritis, Osteoporosis",
+        "family_history": "Father had throat cancer; mother has Type II diabetes, hyperlipidemia, hypertension, and stroke; brother has Type II diabetes, hyperlipidemia, and hypertension; sister has Type II diabetes, hyperlipidemia, hypertension, and two strokes; son had infarction at an unspecified age.",
+        "social_history": "Not specified."
+    }
+}

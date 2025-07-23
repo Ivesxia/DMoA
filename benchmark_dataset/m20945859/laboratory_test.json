@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is distended, measures 11 cm, fluid-filled, with enhancing wall and fat stranding. Free fluid in the pelvis. Focal wall thickening and fat stranding in distal ileum, concerning for ileitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Polymorphonuclear Leukocytes",
+            "date": "Not specified",
+            "findings": "1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Test",
+            "date": "Not specified",
+            "findings": "8.3 mg/dL (reference range 8.4 - 10.3).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

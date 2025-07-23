@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT CHEST W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Left lower lobe consolidation with ground-glass opacity and small associated effusion consistent with pneumonia; dense consolidation in the right lower lobe with small-to-moderate effusion; granuloma in the right upper lobe; mild interlobular septal thickening with associated ground-glass opacity in both upper lobes; small fat-containing Bochdalek hernia; small sebaceous cyst in the right anterior chest wall.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

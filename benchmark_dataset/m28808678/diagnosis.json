@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with abdominal pain localized to the right lower quadrant (RLQ), which became worse after consuming food. The pain was constant, associated with nausea and vomiting, and there were relevant findings from the CT scan indicating a dilated and thickened appendix with adjacent inflammatory changes, which supports the diagnosis of appendicitis."
+    }
+}

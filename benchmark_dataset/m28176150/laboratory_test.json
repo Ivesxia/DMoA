@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Salmonella species test",
+            "date": "Not specified",
+            "findings": "Positive for Salmonella species.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen & Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Liver is homogenous with no focal lesions; pancreatic head shows fatty atrophy and a 2.5 cm cystic lesion unchanged; spleen has 1.7 and 1.0 cm hypodense cysts unchanged; kidneys normal with small hypodensity likely simple cysts; multiple sigmoid diverticula noted with mild wall thickening suggestive of chronic diverticular changes.",
+            "changes_over_time": "Previously seen mild fat stranding surrounding focal segment of the sigmoid colon appears resolved."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified.",
+            "findings": "Lower Thorax: Small bilateral pleural effusions are seen, with associated compressive lower lobe atelectasis. Liver: A segment 3 hypointense T1 nonenhancing lesion likely representing a cyst biliary hamartoma. No evidence of hepatosteatosis. Small amount of free fluid surrounding the liver. There is periportal edema. Biliary: The common bile duct measures 8 mm. The gallbladder is markedly distended, contains multiple small gallstones, with gallbladder wall thickening, mural edema, pericholecystic stranding and fluid. There is irregularity of the gallbladder wall superolaterally with patchy enhancement, raising the suspicion for gangrenous cholecystitis. Pancreas: Normal T1 appearance of the pancreas with multiple 3 mm cystic lesions likely representing side-branch IPMNs. No peripancreatic edema or fluid collection. Spleen: Not enlarged and homogeneous. Adrenal Glands: Unremarkable. Kidneys: Multiple parapelvic cysts, no hydronephrosis. Gastrointestinal Tract: Colonic diverticulosis noted, with a small duodenal diverticulum and a small hiatal hernia. Lymph Nodes: No significant lymphadenopathy. Vasculature: Unremarkable.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Laboratory Examination of Ascitic Fluid",
+            "date": "Not specified.",
+            "findings": "No polymorphonuclear leukocytes seen. No microorganisms seen.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

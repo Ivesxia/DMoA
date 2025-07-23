@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9",
+                "heart_rate": "Not specified",
+                "blood_pressure": "89",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "alert and interactive, comfortable, no acute distress",
+                "heent": "PERRL, anicteric, conjunctiva pink, oropharynx without lesion or exudate, moist mucus membranes, ears without lesions or apparent trauma",
+                "cardiovascular": "Regular rate and rhythm without murmurs, rubs, or gallops, JVP below angle of clavicle at 40 degrees",
+                "lungs": "clear to auscultation bilaterally without rhonchi, wheezes, or crackles",
+                "abdominal": "soft, mild TTP at ___, ___ sign, without rebounding or guarding, nondistended with normal active bowel sounds, mild hepatomegaly with tender liver edge palpated 2 cm below costal margin",
+                "extremities": "no clubbing, cyanosis, or edema",
+                "neurological": "Alert and interactive, cranial nerves II-XII grossly intact, strength and sensation grossly intact",
+                "psychological": "normal mood and affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

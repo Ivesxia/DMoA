@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric abdominal pain radiating to the back with associated nausea, vomiting, and diarrhea.",
+        "history_of_present_illness": "Symptoms presented with epigastric abdominal pain radiating to the back. Pain is out of proportion to exam, duration not specified, but the intensity suggests significant discomfort. Associated symptoms include nausea, vomiting, and diarrhea. No aggravating or relieving factors mentioned.",
+        "past_medical_history": "Hypertension (HTN) reportedly well controlled on current medication, chronic kidney disease (CKD), diabetes mellitus (DM) not on insulin, obesity, obstructive sleep apnea (uses CPAP at home, started 3 weeks ago), right eye retinal detachment with poor surgical outcome, hysterectomy, left carpal tunnel release, thyroid nodule resection, right breast lumpectomy (benign as per patient report).",
+        "family_history": "Family history of diabetes mellitus (DM) and hypertension (HTN); no history of cancer.",
+        "social_history": "Not specified."
+    }
+}

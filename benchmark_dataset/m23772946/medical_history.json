@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain.",
+        "history_of_present_illness": "The patient reports that 4 days ago, she began to develop sharp sided abdominal pain, which continued to worsen, associated with bloating and constipation. She experienced episodes of diarrhea/constipation and has decreased appetite, nausea, and weight loss of four pounds over the last week. She endorsed fevers and chills, with a measured temperature up to 101. Her belly pain is relieved by laying on her stomach or side.",
+        "past_medical_history": "Leiomyoma of uterus, allergic rhinitis, urticaria, vitamin D deficiency, iron deficiency anemia, one prior miscarriage.",
+        "family_history": "+ CAD, sarcoid (mother); + lung cancer (maternal aunt); + lupus (sister).",
+        "social_history": "Not specified."
+    }
+}

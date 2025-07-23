@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "General: Alert, attentive, no acute distress; HEENT: Pupils equal, round, reactive to light, no scleral icterus, mucous membranes moist; Neck: Trachea midline, supple, no appreciable lymphadenopathy; Cardiovascular: Regular rate and rhythm, no murmurs appreciated; Pulmonary: Clear to auscultation bilaterally; Abdomen: Soft, moderately distended, focal peritonitis in epigastrium and left lower quadrant, voluntary guarding, no rebound tenderness; Genitourinary: Foley catheter in place draining urine; Extremities: No edema, warm, well perfused; Skin: Bruising and excoriations over left forearm; Neurological: Motor strength equal bilaterally, sensation grossly intact.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

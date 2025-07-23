@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Lower Thorax: Tiny bilateral pleural effusions. The lung bases are clear. Heart size normal. No pericardial effusion. Liver: Signal loss on out of phase sequence consistent with mild hepatic steatosis. The liver contours are smooth. No concerning solid or cystic lesions. Biliary: No intra- or extra-hepatic duct dilatation. The common bile duct is within normal limits. Gallbladder unremarkable. No cholelithiasis or choledocholithiasis. Pancreas: Fatty atrophy with mild edematous change in the neck and proximal body and peripancreatic standing. A 10 mm cystic lesion in the neck most consistent with a side-branch IPMN. No ductal abnormality. Spleen, adrenal glands, and kidneys are normal. No hydronephrosis or hydroureter. Gastrointestinal tract normal. No significant lymphadenopathy. No vascular abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Numerous UA negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PSA",
+            "date": "Not specified",
+            "findings": "Stable at 2.0.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

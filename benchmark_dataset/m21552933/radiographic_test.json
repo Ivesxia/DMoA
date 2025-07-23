@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Lung volumes are relatively diminished, and linear atelectasis is seen at the lung bases, which resolves on the second view. No consolidation or edema is evident. Mild tortuosity of the thoracic aorta with prominence of the aortic arch. The cardiac silhouette is grossly stable and borderline enlarged. No effusion or pneumothorax noted. Clips consistent with prior cholecystectomy are noted in the right upper quadrant.",
+            "changes_over_time": "Linear atelectasis at the lung bases resolves on the second view."
+        }
+    ]
+}

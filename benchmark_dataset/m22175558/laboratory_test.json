@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound (Liver or Gallbladder)",
+            "date": "Not specified",
+            "findings": "The liver is normal in echotexture without focal lesions. The gallbladder is minimally distended and contains non-mobile gallstones. There is gallbladder wall thickening measuring up to 4 mm, with gallbladder wall edema. Several foci of adenomyomatosis are noted within the gallbladder wall. The sonographic ___ sign is positive. The common bile duct is normal in caliber measuring 4 mm. The pancreatic duct is top normal, measuring 3 mm. There is no intrahepatic biliary ductal dilatation. Normal hepatopetal flow is seen within the main portal vein. Limited images of the right kidney demonstrate no hydronephrosis or stones.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cholecystitis Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cholecystitis Bile Analysis",
+            "date": "Not specified",
+            "findings": "17.0 mg/dL (within normal range)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

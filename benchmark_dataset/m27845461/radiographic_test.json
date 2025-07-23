@@ -1,0 +1,26 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "The visualized lung fields are within normal limits. There is no evidence of pleural or pericardial effusion.",
+                "abdomen": {
+                    "hepatobiliary": "The transplant liver demonstrates homogeneous attenuation throughout. There is no evidence of focal lesions. There is no intrahepatic or extrahepatic biliary dilatation. The gallbladder is surgically absent.",
+                    "pancreas": "The pancreas has normal attenuation throughout, without evidence of focal lesions. There is no pancreatic ductal dilatation and no peripancreatic stranding.",
+                    "spleen": "The spleen shows normal size and attenuation throughout.",
+                    "adrenals": "The right and left adrenal glands are normal in size and shape.",
+                    "urinary": "The kidneys are of normal and symmetric size with no evidence of focal renal lesions, hydronephrosis, nephrolithiasis, or perinephric abnormality.",
+                    "gastrointestinal": "The stomach is unremarkable. The small bowel loops demonstrate normal caliber and wall thickness. The colon and rectum are within normal limits. The appendix is normal.",
+                    "pelvis": "The urinary bladder and distal ureters are unremarkable. There is no free fluid in the pelvis.",
+                    "reproductive_organs": "The prostate and seminal vesicles are normal.",
+                    "lymph_nodes": "There is no retroperitoneal or mesenteric lymphadenopathy.",
+                    "vascular": "There is no abdominal aortic aneurysm. Mild atherosclerotic disease is noted.",
+                    "bones": "There is no evidence of worrisome osseous lesions or acute fracture. There is mild multilevel degenerative change of the lumbar spine, most pronounced at L5-S1.",
+                    "soft_tissues": "The abdominal and pelvic wall is within normal limits."
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

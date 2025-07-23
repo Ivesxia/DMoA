@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.0 °F",
+                "heart_rate": "78 bpm",
+                "blood_pressure": "122/63 mmHg",
+                "respiratory_rate": "92% RA"
+            },
+            "relevant_findings": {
+                "constitutional": "Well appearing, in no acute distress",
+                "cardiopulmonary": "RRR, normal S1 and S2. No murmurs, rubs or gallops. Lungs are clear to auscultation bilaterally",
+                "abdominal": "Well healed incisional scars from previous operation. Soft, mildly distended, right lower quadrant tenderness with rebound. Positive Rovsing's sign",
+                "extremities": "Atraumatic. Warm and well-perfused",
+                "neurologic": "Grossly intact. Alert and oriented x 3"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

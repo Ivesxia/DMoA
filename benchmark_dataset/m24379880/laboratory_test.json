@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "___ wbcs, 0 epis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "No beta streptococcus group A found.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal Ultrasound",
+            "date": "Not specified",
+            "findings": "The transplant kidney measures 11.1 cm. No evidence of perinephric fluid collection or hydronephrosis or focal lesion. The main renal artery and segmental arteries in the transplanted kidney have appropriate arterial waveforms with normal resistive indices. Renal vein is patent with appropriate waveform.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

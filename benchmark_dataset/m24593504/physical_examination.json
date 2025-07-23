@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "66 bpm",
+                "blood_pressure": "110/74 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "HEENT": "Extraocular movements intact, mucous membranes moist",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "Non-labored breathing on room air",
+                "abdominal": "Soft, non-distended, diffusely tender to palpation (exquisitely tender in RUQ); no rebound or guarding; no masses or hernias",
+                "extremities": "No edema",
+                "neurological": "Alert and oriented x3",
+                "psychiatric": "Appropriate mood and affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

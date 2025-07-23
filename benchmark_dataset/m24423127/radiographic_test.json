@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The imaged lung bases are clear of pulmonary nodules or pleural effusions. The appendix is dilated measuring up to 14 mm, with extensive periappendiceal fat stranding, consistent with acute appendicitis. High-density material within the base of the appendix may represent an appendicolith. No evidence of perforation or periappendiceal abscess. The urinary bladder, uterus, and adnexa are normal with trace pelvic free fluid within physiologic range. No bone lesions suspicious for infection or malignancy detected.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

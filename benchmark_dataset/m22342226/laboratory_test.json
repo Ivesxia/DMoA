@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The echogenicity of the liver is mildly heterogeneous and echogenic; however, the contour of the liver is smooth. No focal liver lesions concerning for malignancy are identified. There is no intrahepatic biliary ductal dilatation. The common bile duct is normal measuring 0.3 cm. The gallbladder appears to be mildly distended with thickening of the gallbladder wall measuring 0.4 cm as well as a small amount of pericholecystic fluid. The gallbladder itself is filled with sludge and small stones.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Test",
+            "date": "Not specified",
+            "findings": "9.2 mg/dL (within normal range between 8.4 and 10.3)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

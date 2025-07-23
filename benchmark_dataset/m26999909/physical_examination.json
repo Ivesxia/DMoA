@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2 °F",
+                "heart_rate": "102 bpm",
+                "blood_pressure": "114/74 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "Uncomfortable in pain",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "Clear to auscultation bilaterally",
+                "abdominal": "Obese, bowel sounds present, non-distended, pain localized to right upper quadrant, tender to mild palpation, palpable mass in right upper quadrant",
+                "extremities": "No edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

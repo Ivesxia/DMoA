@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The abdominal pain began at 12PM yesterday in the right upper quadrant, progressively worsening and becoming constant. Pain worsens with movement and is associated with abdominal distention, nausea, anorexia, chills, and a loose bowel movement yesterday.",
+        "past_medical_history": "Diabetes, Hypertension, Nephrolithiasis; Past surgical history includes lithotripsy and tonsillectomy.",
+        "family_history": "Diabetes, Pancreatic cancer",
+        "social_history": "Not specified"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "RUQ pain",
+        "history_of_present_illness": "The patient has had biliary colic for several months, more frequently recently. Symptoms of biliary colic lasted for approximately ___ days, with acute worsening of pain this morning; the pain changed to a sharp pain in the mid abdomen. The patient has experienced chills but no recorded fevers and has not tolerated PO's due to pain.",
+        "past_medical_history": "Biliary Colic",
+        "family_history": "Noncontributory",
+        "social_history": "Not specified"
+    }
+}

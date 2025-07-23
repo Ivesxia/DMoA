@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Stool Guaiac Test",
+            "date": "Not specified",
+            "findings": "Stool was guaiac positive.",
+            "changes_over_time": "Unchanged from past."
+        },
+        {
+            "procedure_name": "CT Abdomen",
+            "date": "Not specified",
+            "findings": "CT of abdomen showed a large small bowel inflamed diverticulum.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "EKG/ECG",
+            "date": "Not specified",
+            "findings": "Paroxysmal Atrial fibrillation.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

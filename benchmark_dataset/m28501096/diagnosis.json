@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute cholecystitis",
+        "differential_diagnosis": "E. coli UTI, sinus tachycardia",
+        "diagnostic_reasoning": "The patient presented with abdominal pain and fever, and imaging (CT scan) indicated acute cholecystitis with dilated CBD. Urine culture confirmed E. coli UTI, while other symptoms and findings during her examination supported the consideration of sinus tachycardia."
+    }
+}

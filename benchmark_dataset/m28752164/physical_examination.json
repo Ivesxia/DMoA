@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0 °F",
+                "blood_pressure": "99/66 mmHg",
+                "heart_rate": "84 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "94% (RA)"
+            },
+            "relevant_findings": {
+                "general": "well-appearing, NAD",
+                "HEENT": "PERRL, EOMI, sclera anicteric, moist mucus membranes",
+                "cardiac": "RRR",
+                "chest": "no increased WOB",
+                "abdomen": "soft, TTP around the incisions, ND",
+                "extremities": "WWP, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

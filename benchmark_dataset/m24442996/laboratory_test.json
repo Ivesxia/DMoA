@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "ESCHERICHIA COLI, STREPTOCOCCUS ANGINOSUS, STREPTOCOCCUS ANGINOSUS (MILLERI) GROUP, MIXED BACTERIAL FLORA",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for Creatinine",
+            "date": "Not specified",
+            "findings": "8.6 mg/dL (normal range 8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

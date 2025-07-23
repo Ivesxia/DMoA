@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Neisseria Gonorrhoeae PCR test",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria Gonorrhoeae by PCR.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin (Hgb) test",
+            "date": "Not specified",
+            "findings": "11.5 g/dL (low; reference range is 12.0 - 16.0 g/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

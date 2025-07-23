@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "2 day history of abdominal pain which began in the mid-abdomen and migrated to the right side.",
+        "past_medical_history": "BPH, HTN, AI, afib on coumadin, Hypercholesterolemia, UGIB: EGD w/ esophagitis",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

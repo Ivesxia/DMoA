@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient experienced right upper quadrant abdominal pain at the beginning of the month, described as burning without radiation, worsening with food. The pain has been getting progressively worse, with recent episodes of nausea and vomiting (8 times), and has caused her to be unable to work.",
+        "past_medical_history": "Asthma, hypoglycemia, H. Pylori, GERD",
+        "family_history": "Aunt had gallbladder removed 2 months ago.",
+        "social_history": "Smokes marijuana 3 times a week; reports this helps with nausea, consistent amount consumed for several years."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 99.8°F, Heart Rate: 86 bpm, Blood Pressure: 126/69 mmHg, Respiratory Rate: 16 breaths/min, Oxygen Saturation: 100% on room air",
+            "relevant_findings": "General: NAD, AAOx3; HEENT: anicteric; Cardiovascular: Regular rate and rhythm; Pulmonary: Clear to auscultation bilaterally; Abdominal: Soft, nondistended, RLQ tenderness to palpation over McBurney's point with guarding but no rebound tenderness. No flank pain. No hernias. Extremities: No edema",
+            "changes_over_time": "Abdominal pain started diffuse and in the right upper quadrant but has now migrated to right lower quadrant. Tenderness in the right lower quadrant has been noted."
+        }
+    ]
+}

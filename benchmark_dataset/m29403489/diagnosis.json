@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient's presentation included lower abdominal discomfort, severe tenderness in the right lower quadrant, and a positive McBurney's sign. The CT scan revealed a dilated appendix measuring 12 mm in diameter, with associated mucosal hyperenhancement, fat stranding, and free fluid, supporting the diagnosis of acute appendicitis."
+    }
+}

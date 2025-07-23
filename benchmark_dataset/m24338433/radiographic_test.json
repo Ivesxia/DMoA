@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD W&W/O C",
+            "date": "Not specified",
+            "findings": "The transplant liver displays a mild fatty infiltration; esophageal/paraesophageal varices and intra-abdominal collateral vessels identified due to portal hypertension; small right-sided adrenal nodules stable; mild thickening of the left adrenal gland; no free air, free fluid, or pathologically enlarged lymph nodes; no biliary dilatation.",
+            "changes_over_time": "Stable adrenal nodules and adrenal gland thickening."
+        }
+    ]
+}

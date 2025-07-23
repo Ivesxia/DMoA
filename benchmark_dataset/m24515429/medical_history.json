@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient developed acute abdominal pain in a band-like distribution across her low abdomen 2 days ago. The pain became localized to the left lower quadrant (LLQ) the following day. She initially thought a bowel movement would relieve her pain, took sennakot, and had a normal bowel movement that morning. This improved her pain somewhat, but it remained constant and unremitting. She then began to experience low-grade fevers (up to 100.1°F) and chills, prompting her to seek medical attention.",
+        "past_medical_history": "Hyperlipidemia, depression",
+        "family_history": "Not specified",
+        "social_history": "The patient has been on a primarily fruit and vegetable diet for the last 5 weeks and reports a weight loss of about 8 pounds."
+    }
+}

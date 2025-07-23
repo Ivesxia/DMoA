@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Evidence of choledocholithiasis with extrahepatic biliary dilatation, but no significant intrahepatic biliary dilatation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound of liver or gallbladder",
+            "date": "Not specified",
+            "findings": "Hepatic parenchyma appears within normal limits; no focal liver mass; no ascites; large stone seen in the gallbladder causing shadowing; CBD not definitively visualized.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

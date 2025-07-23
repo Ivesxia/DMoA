@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "The appendix is dilated and fluid-filled measuring up to 1.2 cm in diameter. There is a left-sided adnexal cyst measuring 2.3 x 2.3 cm, most consistent with normal ovarian follicular activity. Minimal dependent atelectasis noted at lung bases. No free air or free fluid present. Small hypodensities noted within the right and left lobes of the liver, too small to characterize.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pelvic/Rectal Exam",
+            "date": "Not specified",
+            "findings": "Deferred.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

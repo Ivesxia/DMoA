@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Microbial culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biochemical test",
+            "date": "Not specified",
+            "findings": "22.0 umol/L (Reference range: 10.0 - 60.0 umol/L)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

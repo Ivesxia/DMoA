@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopic Ultrasound (EUS)",
+            "date": "Not specified",
+            "findings": "Gallbladder filled with stones. No distention, gallbladder wall thickening, or pericholecystic fluid. No intra- or extra-hepatic biliary ductal dilatation identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of the liver or gallbladder",
+            "date": "Not specified",
+            "findings": "Liver demonstrates homogeneous echogenicity without suspicious focal lesion. Main portal vein patent with hepatopetal flow. Pancreas normal in echogenicity. Spleen normal measuring 10 cm. Limited views of the kidneys demonstrate no hydronephrosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

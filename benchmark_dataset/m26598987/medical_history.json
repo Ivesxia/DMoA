@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Pain in lower chest and upper stomach, abdominal swelling.",
+        "history_of_present_illness": "Mr. ___ woke up at 5 am with pain, which persisted despite falling back asleep. The pain was rated as ___. He indicated hunger but was unable to eat. He also reported a last bowel movement on ___ and noted constipation.",
+        "past_medical_history": "Emphysema, Left inguinal hernia repair, Cataract surgery, Ankle surgery.",
+        "family_history": "Not specified.",
+        "social_history": "Nicotine patch."
+    }
+}

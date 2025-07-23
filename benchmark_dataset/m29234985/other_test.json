@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Urine Toxicology (Utox)",
+            "date": "Not specified",
+            "findings": "Positive for benzodiazepines (BNZs)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis (U/A)",
+            "date": "Not specified",
+            "findings": "Presence of blood, 2 WBCs and protein",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis with and without Contrast",
+            "date": "Not specified",
+            "findings": "Bilateral small-to-moderate pleural effusions with compressive atelectasis; moderate steatosis of the liver; diffuse inflammatory peripancreatic stranding; peripancreatic fluid without well-defined or walled-off collections.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Placement of nasojejunal feeding tube",
+            "date": "Not specified",
+            "findings": "Nasojejunal feeding tube was placed ending in the proximal jejunum.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

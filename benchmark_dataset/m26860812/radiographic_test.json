@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ABDOMEN (SUPINE & ERECT)",
+            "date": "Not specified",
+            "findings": "Trace free air under the right hemidiaphragm, multiple dilated loops of small bowel with some air fluid levels, NG tube tip in the stomach, and pins noted in the left femoral neck.",
+            "changes_over_time": "Comparison is made with prior CT from ___. Obstruction is much less likely as contrast from the recent CT scan is seen passing all the way through the colon."
+        }
+    ]
+}

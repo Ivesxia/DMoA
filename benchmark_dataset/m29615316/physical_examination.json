@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.6 °F",
+                "heart_rate": "125 bpm",
+                "blood_pressure": "125/46 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% on RA"
+            },
+            "relevant_findings": {
+                "consciousness": "A&Ox3",
+                "general_appearance": "NAD, WD WN, well-appearing, moving gingerly within stretcher",
+                "auscultation": "CTAB RRR, soft, ND",
+                "local_tenderness": "focally tender RLQ, including to tap tenderness, localized rebound. Non-tender elsewhere without tap tenderness nor rebound."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The imaged portion of the liver is unremarkable, without focal lesions. There is no intra or extrahepatic bile duct dilation. The gallbladder is mildly distended, but no gallstones identified. Focal fundal adenomyomatosis is noted. Multiple renal cortical cysts are seen in both kidneys, including a 3.3 cm exophytic cyst in the lower pole of the right kidney with layering T2 hypointense hemorrhagic content, a 7 mm T2 hypointense lesion in the lower pole of the right kidney, and an 8 mm T2 hyperintense lesion in the interpolar region of the right kidney that are indeterminate. There is no hydronephrosis. Approximately 10 cm segment of the sigmoid colon exhibits moderate wall thickening, edema, and extensive surrounding fat stranding, consistent with acute sigmoid diverticulitis. A small fluid locule adjacent to this segment measures 1.4 x 0.9 cm. Trace right pleural effusion is noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Pancytopenic; abnormal findings noted but specific values not provided.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis (UA)",
+            "date": "Not specified",
+            "findings": "No evidence of infection.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT abdomen and pelvis without contrast",
+            "date": "Not specified",
+            "findings": "New high density material within the lumen of the gallbladder compared to the CT from 2 days ago. Bibasilar atelectasis and trace right pleural effusion noted. Several bilateral nonobstructing renal calculi.",
+            "changes_over_time": "New high density material noted in the gallbladder compared to CT from 2 days ago."
+        }
+    ]
+}

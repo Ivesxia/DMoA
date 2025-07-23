@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The lung bases are clear. The liver enhances homogeneously without focal lesions or intrahepatic biliary dilatation. The gallbladder is unremarkable, and the portal vein is patent. The pancreas, spleen, and adrenal glands are unremarkable. The kidneys demonstrate small bilateral hypodensities likely representing cysts. The kidneys present symmetric nephrograms and excretion of contrast with no pelvocaliceal dilation or perinephric abnormalities. The stomach, duodenum, and small bowel are unremarkable. The appendix is dilated measuring 8 mm with no oral contrast seen within it, with mild mucosal hyperemia and likely mural thickening. There are no surrounding inflammatory changes, free fluid, or free air. The bladder is unremarkable, the uterus is normal in size with no adnexal masses, and there is no inguinal or pelvic lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

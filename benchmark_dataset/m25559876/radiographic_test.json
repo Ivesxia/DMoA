@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is slightly echogenic, compatible with fatty infiltration. No space-occupying lesions are identified. Normal hepatopetal flow in the portal vein. The IVC is patent. No intrahepatic or common biliary dilation, with the latter measuring 3 mm. The bladder is contracted around multiple shadowing gallstones, demonstrating a wall echo shadow sign. No significant gallbladder wall edema or pericholecystic fluid. Ultrasonographic ___ sign was negative. The pancreatic head and body are normal, and the tail is not well visualized due to shadowing bowel gas.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

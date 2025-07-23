@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "No significant interval change with no evidence of new infiltrate, effusion, or worsening of fluid status.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

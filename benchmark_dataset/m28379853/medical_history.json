@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Upper abdominal pain",
+        "history_of_present_illness": "The upper abdominal pain started at 11 PM yesterday, initially presenting as back pain that progressed to constant upper abdominal pain. The pain is associated with nausea and multiple episodes of vomiting, worsened on deep inspiration.",
+        "past_medical_history": "Hypothyroid, HLD, migraines",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

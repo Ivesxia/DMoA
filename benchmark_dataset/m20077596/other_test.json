@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Percutaneous cholecystostomy tube placement",
+            "date": "Not specified",
+            "findings": "A percutaneous cholecystostomy tube is coiled in the region of the gallbladder fundus. A small amount of pericholecystic cystic fluid is noted. The gallbladder is decompressed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT abdomen with contrast",
+            "date": "Not specified",
+            "findings": "Wedge-shaped airspace opacities likely representing atelectasis in the lingula and the left lower lobe; trace bilateral pleural effusions; extensive inflammatory changes involving the head and body of the pancreas; no evidence of abscess or pseudocyst formation; multiple cysts in the right kidney.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Ascending colon, splenic flexure, and sigmoid colon diverticulosis, mild.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Significant inflammation in the distal sigmoid colon, with associated thickening. Mild fecal loading in the large bowel. Prominent wall thickening of the sigmoid colon affecting a roughly 10 cm upper portion with prominent surrounding fat stranding.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

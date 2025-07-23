@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Apparent cardiac enlargement explained by lordotic positioning; no evidence of acute pulmonary edema or focal consolidation; mild bibasilar atelectasis and right lung scarring; stable elevation of the left hemidiaphragm secondary to volume loss from prior resection; left-sided peripheral line and bi-lead pacemaker unchanged.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

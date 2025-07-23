@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Fluid-filled, distended appendix with thickened walls, measuring 8 mm in diameter, concerning for appendicitis. Mild periappendiceal soft tissue stranding without evidence of adjacent fluid collections.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test (WBC count)",
+            "date": "Not specified",
+            "findings": "WBC of 11.2.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

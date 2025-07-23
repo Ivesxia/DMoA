@@ -1,0 +1,31 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "90 bpm",
+                "blood_pressure": "112/68 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "temperature": "97.9°F",
+                "heart_rate": "86 bpm",
+                "blood_pressure": "106/64 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air",
+                "weight": "163 lbs",
+                "general": "Awake & alert. No apparent distress.",
+                "HEENT": "Sclera anicteric. Extraocular movements intact.",
+                "cardiovascular": "Regular rate and rhythm. Normal S1 & S2. No murmurs, rubs or gallops.",
+                "chest": "Clear to auscultation bilaterally. No wheezing or rhonchi.",
+                "abdomen": "Bowel sounds present. Soft, non-distended. Mild tenderness to palpation at epigastrium. No rebound or guarding.",
+                "extremities": "2+ pedal pulses bilaterally. No clubbing, cyanosis, or edema.",
+                "neurological": "Alert and oriented x3. Cranial nerves II-XII intact.",
+                "skin": "No rashes or ecchymosis."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

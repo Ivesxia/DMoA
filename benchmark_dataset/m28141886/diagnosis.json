@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "pancreatitis, bile leak, acute respiratory distress syndrome (ARDS)",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with worsening abdominal pain and dyspnea after laparoscopic cholecystectomy. Elevated liver function tests suggested bile leak, which was confirmed by HIDA scan. CT scan indicated bilateral atelectasis and fluid accumulation, supporting the diagnosis of ARDS."
+    }
+}

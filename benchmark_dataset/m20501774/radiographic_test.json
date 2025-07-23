@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The lung bases are clear bilaterally without pulmonary nodules or pleural effusion. The heart size is normal. The liver, gallbladder, kidneys, spleen, pancreas, and intra-abdominal loops of bowel are within normal limits. There is a small hiatal hernia. Small mesenteric and retroperitoneal lymph nodes are noted, none meeting CT criteria for pathologic enlargement. There is no free air or free fluid. Diffuse calcification of the abdominal aorta and iliac arteries is present. Along the superior margin of the right adrenal gland, there is a 1.3 cm x 2.3 cm adrenal nodule which may be slightly increased in size since a prior examination. A second right adrenal nodule is present inferiorly which measures 1.0 cm x 1.1 cm which also appears slightly increased in size. The left adrenal gland is within normal limits. Rectum and bladder are within normal limits. A few scattered diverticula are noted without evidence of diverticulitis. The colon appears normal with no wall thickening and no signs of colitis. A small fat-containing umbilical hernia is seen along with a small ventral wall diastasis. Degenerative changes are noted throughout the visualized spine. No suspicious osseous lesions are identified. Multiple injection granulomas are present within the buttocks bilaterally.",
+            "changes_over_time": "The adrenal nodule along the superior margin of the right adrenal gland and a second right adrenal nodule both appear slightly increased in size compared to a previous examination."
+        }
+    ]
+}

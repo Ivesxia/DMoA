@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The hepatic parenchyma appears within normal limits. No focal suspicious nodules or masses are identified within the liver. There is no intra or extrahepatic biliary ductal dilation. The CBD measures 0.4cm. The portal vein is patent with hepatopetal flow. There is no ascites. The gallbladder is filled with stones. The gallbladder is not distended and there is no gallbladder wall thickening. No pericholecystic fluid is seen. Sonographic sign is equivocal. The pancreas appears within normal limits. The spleen measures 11.1 cm and is of normal echogenicity. The right kidney measures 11.2 cm. The left kidney measures 10.0 cm. There is no evidence of masses, stones or hydronephrosis in the visualized portion of the kidneys.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

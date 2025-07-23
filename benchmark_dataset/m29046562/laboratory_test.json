@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is dilated, fluid-filled, and hyperemic, with mild surrounding fat stranding; diverticulosis of the sigmoid colon noted without evidence of wall thickening and fat stranding.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for renal function",
+            "date": "Not specified",
+            "findings": "Creatinine level is 8.1 mg/dL, which is below the normal range (8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

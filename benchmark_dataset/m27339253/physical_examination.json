@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "heart_rate": "70 bpm",
+                "blood_pressure": "119/65 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable; morbid obesity",
+                "heent": "Extraocular muscles intact; mucous membranes moist",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Normal first and second heart sounds",
+                "abdominal": "Very mild right upper quadrant tenderness",
+                "rectal": "Heme negative",
+                "gu_flank": "No costovertebral angle tenderness",
+                "ext_back": "Legs are both very edematous with some chronic venous stasis changes",
+                "skin": "Warm and dry",
+                "neuro": "Speech fluent",
+                "psych": "Normal mentation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

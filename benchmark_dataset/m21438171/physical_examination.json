@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0 °F",
+                "blood_pressure": "123/66 mmHg",
+                "heart_rate": "102 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96%",
+                "supplemental_oxygen": "2L"
+            },
+            "relevant_findings": {
+                "general": "Laying in bed, moving her arms and left leg continuously, rambling incomprehensible sentences, responds to her name, A&Ox1-2.",
+                "cardiac": "Tachycardia, regular, no murmurs.",
+                "lungs": "Clear to auscultation anteriorly.",
+                "abdomen": "Soft, non-distended, non-tender.",
+                "extremities": "Warm, well perfused, tenderness in the left hip.",
+                "neuro": "Difficult to assess as patient not answering all questions and not following all commands, A&Ox1-2, moving extremities in a repetitive way."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

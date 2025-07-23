@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Dependent atelectasis. No consolidation, and no pleural or pericardial effusion. Liver is normal in size and attenuation with a single hypodense lesion measuring 7 mm at the dome, segment VII, too small to characterize. Normal gallbladder, spleen, pancreas, and adrenal glands. An 11-mm cyst in the lower pole of the left kidney and smaller nonspecific punctate hypodensities in the right kidney. Abnormal appendix measuring up to 11 mm, fluid-filled, with a hyperdense appendicolith at the base. Mild periappendiceal fat stranding noted. No free fluid or free air to suggest perforation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbial Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Specimen Holding",
+            "date": "Not specified",
+            "findings": "HOLD. SPECIMEN TO BE HELD 48 HOURS AND DISCARDED.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

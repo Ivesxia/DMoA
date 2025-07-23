@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient started with vague abdominal pain on the night before presentation, which intensified to severe periumbilical abdominal pain after dinner, associated with nausea, vomiting once, and loss of appetite. Denied fever, chills, or diarrhea.",
+        "past_medical_history": "Past medical history is not significant. Previous surgical history includes inguinal hernia repair.",
+        "family_history": "No family history of inflammatory bowel disease.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute recurrent severe abdominal pain",
+        "history_of_present_illness": "Patient has had several months of severe abdominal pain, presenting to ED/urgent care 3 times this month. A few days prior to admission, she did not have any pain. The pain is described as suprapubic/pelvic, radiating to the anus, sharp at worst. It worsens with movement and eating. Associated symptoms include nausea and vomiting, unable to eat breakfast and vomited after having some soup for dinner.",
+        "past_medical_history": "IBS, Psoriasis, Osteoarthritis, Umbilical hernia, Fibromyalgia, Breast Cancer, Thyroid Cancer, Gastritis",
+        "family_history": "Father - colon cancer; Mother - arthritis, asthma, CAD/PVD, breast cancer, DM, thrombophlebitis; Sister - pre-DM",
+        "social_history": "Not specified"
+    }
+}

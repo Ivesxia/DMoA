@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is retrocecal, has wall hyperemia and is dilated measuring 8 mm. There is also surrounding fat stranding, and a appendicolith is noted. No evidence of perforation or fluid collection.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gram Positive Bacteria Culture",
+            "date": "Not specified",
+            "findings": "GRAM POSITIVE BACTERIA detected, which is at the upper reference range of 2.0 mmol/L.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

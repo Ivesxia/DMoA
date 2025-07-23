@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopic Sphincterotomy and Papillotomy",
+            "date": "Not specified",
+            "findings": "Biliary obstruction due to ampullary stenosis; ampullary fullness - biopsy pending.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Intra and extrahepatic biliary dilatation; gallbladder filled with multiple stones and sludge; pancreas is edematous with mild peripancreatic edema; nonenhancing 7 mm lesion in the uncinate process.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Lower Thorax: No pleural effusion. Liver: Diffuse mild hepatic steatosis with an estimated fat fraction of 9% and a small 1 cm cyst. Biliary: Minimal intrahepatic and extra biliary ductal dilatation up to the ampulla without findings of stricture or focal lesion. Gallbladder contains sludge. No choledocholithiasis or significant stricture. Pancreas: Unremarkable. Spleen: Unremarkable. Adrenal Glands: 1.2 x 1.0 cm right adrenal adenoma. Kidneys: No hydronephrosis, unremarkable except for a few simple renal cysts bilaterally. Gastrointestinal Tract: Juxtapapillary duodenal diverticulum noted and a small to moderate hiatal hernia. No bowel obstruction. Lymph Nodes: No lymphadenopathy in the upper abdomen. Vasculature: Hepatic vasculature is patent. Osseous and Soft Tissue Structures: No suspicious osseous lesion.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "Escherichia coli",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

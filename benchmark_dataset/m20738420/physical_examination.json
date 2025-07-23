@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "70 bpm",
+                "blood_pressure": "152/54 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "Pleasant elderly woman in NAD, A+O x 3",
+                "HEENT": "No scleral icterus, MMM",
+                "CV": "RRR",
+                "lungs": "CTAB",
+                "abdomen": "Soft, mild tenderness in epigastrum and RUQ",
+                "rectal": "Blood streaked stool, guaiac positive",
+                "extremities": "No c/c/e, healing scar right hip, no erythema or drainage"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Heart is upper limits of normal in size, aorta is tortuous. Bibasilar areas of patchy and linear atelectasis with adjacent small pleural effusions, left greater than right.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

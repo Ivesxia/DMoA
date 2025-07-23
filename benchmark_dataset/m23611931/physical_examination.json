@@ -1,0 +1,18 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "blood_pressure": "165/85 mmHg",
+                "heart_rate": "74 bpm",
+                "respiratory_rate": "16/min"
+            },
+            "relevant_findings": {
+                "general": "Patient is in some distress due to nausea/pain.",
+                "HEENT": "Injected sclera, extraocular movements intact, dry mucous membranes."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

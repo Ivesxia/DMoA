@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level 9865, which is significantly elevated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bilirubin",
+            "date": "Not specified",
+            "findings": "Elevated bilirubin levels, specific measurements not provided.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transaminases",
+            "date": "Not specified",
+            "findings": "Elevated transaminases, specific measurements not provided.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Common bile duct is slightly prominent measuring up to 7 mm; cholelithiasis is present, gallbladder wall measures up to 3 mm, pancreatic parenchyma appears slightly edematous.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient's presentation includes 3 days of abdominal pain that migrated to the right lower quadrant (RLQ), accompanied by fever, chills, and nausea. CT imaging revealed a tubular structure arising from the cecum with signs of mucosal hyperenhancement and surrounding fluid, which is concerning for acute appendicitis."
+    }
+}

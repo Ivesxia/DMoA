@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Severe lower abdominal pain.",
+        "history_of_present_illness": "The patient was at baseline state of health until 8 days ago when he was woken up at night by severe lower abdominal pain. The pain was crushing in character, 7 out of 10 in intensity, intermittently returning every few minutes, and lasting for a few minutes before regressing but not completely resolving. It gradually worsened until 2 days ago, when the pain became localized to the right lower quadrant (RLQ) with radiation to the entire lower abdomen. He reported tenderness in the RLQ and difficulty sleeping due to pain. Bumps on the road while working worsened his pain. The pain did not interfere with his ability to eat and was not exacerbated by food intake. No nausea or vomiting, decreased appetite, indigestion, diarrhea, melena, or hematochezia were reported. Constipation was noted at baseline with no recent exacerbation.",
+        "past_medical_history": "Allergic rhinitis, hemorrhoids, low back pain, hyperlipidemia.",
+        "family_history": "Not specified.",
+        "social_history": "Works as a ___; lives with wife and 3 children in ___. Denies smoking tobacco, drinking alcohol, or illicit drug use."
+    }
+}

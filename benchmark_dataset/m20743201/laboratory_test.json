@@ -1,0 +1,25 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Nucleic acid amplification assay for C. difficile",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile by the Cepheid nucleic acid amplification assay. (Reference Range-Negative)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN AND PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lungs": "Bibasilar subsegmental atelectasis, otherwise within normal limits, no pleural or pericardial effusion.",
+                "liver": "Homogenous attenuation, no focal lesions or biliary dilatation.",
+                "pancreas": "Normal attenuation, no focal lesions or ductal dilatation.",
+                "spleen": "Normal size and attenuation.",
+                "adrenals": "Normal size and shape.",
+                "kidneys": "Normal and symmetric size, several renal cysts, largest 3 cm, no suspicious lesions.",
+                "gastrointestinal": "Small hiatus hernia, distended small bowel loops, likely postoperative free air.",
+                "pelvis": "Small volume free fluid likely postoperative, nonhemorrhagic."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

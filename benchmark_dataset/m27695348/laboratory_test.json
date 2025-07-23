@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Focal wall thickening and pericolonic inflammatory change surrounding the upper sigmoid colon, suggesting contained local microperforation. Scattered small mesenteric lymph nodes noted, but none meet CT criteria for pathologic enlargement. No free intraperitoneal fluid or free air. Normal appearance of liver, gallbladder, pancreas, spleen, adrenal glands, stomach and intra-abdominal loops of bowel. Kidneys enhance and excrete contrast symmetrically. No hydronephrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "8.8 mg/dL (Reference Range: 8.4 - 10.2 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

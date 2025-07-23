@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right sided abdominal pain for one week.",
+        "history_of_present_illness": "Patient reports that the pain is constant and began one week ago with no exacerbating factors. Reports improvement of difficulty swallowing that occurred last week. Denies worsening abdominal pain with eating, blood in stool, dysuria, chest pain, nausea/vomiting, fevers, and unclear if he has been having diarrhea in the past.",
+        "past_medical_history": "1) Chronic obstructive pulmonary disease (COPD) 2) Gastritis with Helicobacter pylori positive 3) History of liver disease (exact nature unclear) 4) Esophagitis 5) Pulmonary nodule 6) Seizure possibly related to alcohol use 7) History of right eye blurry vision.",
+        "family_history": "Sister with hypertension and hyperlipidemia; unknown history for mother and father.",
+        "social_history": "Not specified."
+    }
+}

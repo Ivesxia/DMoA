@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Pre-existing opacities at the right lung base have cleared. Cardiac silhouette is slightly bigger than on the last examination. Newly inserted endotracheal tube, the tip projects 3.5 cm above the carina. No other changes.",
+            "changes_over_time": "Pre-existing opacities at the right lung base have cleared. Cardiac silhouette is slightly bigger than on the last examination."
+        }
+    ]
+}

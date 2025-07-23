@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The left hepatic lobe is slightly enlarged with a nodular contour with mild right hepatic lobe heterogeneity, compatible with known cirrhosis. Doppler assessment of the main portal vein shows patency and normal hepatopetal flow. There is no intra- or extra-hepatic bile duct dilation. The common duct is not dilated measuring 3 mm. The gallbladder is normal without stones. The visualized portions of the pancreatic head and body are homogeneous in echotexture without focal abnormality, although the inferior head and tail are not seen due to overlying bowel gas. There is no peripancreatic fluid collection identified. The spleen is borderline enlarged measuring 13.3 cm. Both kidneys are normal in size and echogenicity without hydronephrosis, stone or mass identified. The aorta is of normal caliber throughout. The visualized portions of the IVC are normal. There is no ascites.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute onset abdominal pain",
+        "history_of_present_illness": "The patient reports that the abdominal pain started this morning while she was getting a ride to work. The pain began mid-abdomen where the seatbelt was and radiated to her back. Initially, she tried to work but due to the intensity of the pain, she had to leave and eventually presented to the emergency department.",
+        "past_medical_history": "End-Stage Renal Disease (ESRD) from lupus nephritis, history of renal transplant on dual immunosuppression, hypertension, systemic lupus erythematosus (SLE), myositis, pericarditis, pericardial effusion, Sjögren syndrome, bronchiolitis obliterans organizing pneumonia (BOOP), inflammatory arthropathy, depression, orthostatic hypotension.",
+        "family_history": "Sister has systemic lupus erythematosus (SLE), mother has diabetes mellitus, father is healthy, grandmother had asthma and hypertension.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Intraoperative cholangiogram",
+            "date": "Not specified",
+            "findings": "30.1 sec; within normal range (25.0 - 36.5 sec).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal without focal or textural abnormality; main portal vein is patent with hepatopetal flow; gallbladder contains several calcified gallstones; a 13 x 9 mm non-shadowing stone or sludge ball is present; gallbladder is distended but there is no wall edema or pericholecystic fluid; common duct measures 5 mm with no intra- or extra-hepatic bile duct dilatation; visualized portion of the pancreas is normal.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

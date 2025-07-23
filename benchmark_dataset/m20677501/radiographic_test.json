@@ -1,0 +1,24 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "pleural_effusions": "Bilateral small pleural effusions, right greater than left, with associated compressive atelectasis.",
+                "liver": "Enhances homogeneously without focal lesion or intrahepatic biliary duct dilation.",
+                "gallbladder": "No stone, wall thickening, edema, or pericholecystic fluid.",
+                "spleen": "Homogeneous and normal in size.",
+                "pancreas": "Enlarged and edematous with surrounding fat stranding and trace free fluid.",
+                "pancreatic_duct": "Upper limits of normal, measuring 3 mm.",
+                "lymph_nodes": "Regional lymph nodes enlarged, measuring up to 7 mm.",
+                "adrenals": "Unremarkable.",
+                "kidneys": "Symmetric nephrograms, excretes contrast promptly, 1.8 cm simple cyst in the right kidney.",
+                "GI": "Stomach decompressed, small and large bowel within normal limits, small amount of free fluid in the right paracolic gutter.",
+                "retroperitoneum": "Normal aorta with minimal atherosclerotic calcifications.",
+                "pelvis": "Normal urinary bladder, no pelvic lymph node enlargement, calcified uterine fibroid measuring 1.6 cm.",
+                "osseous_structures": "No focal lesions suspicious for malignancy, multilevel degenerative changes of the thoracolumbar spine."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

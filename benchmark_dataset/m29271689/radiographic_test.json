@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Trace left pleural effusion and bibasilar atelectasis; liver unremarkable with trace perihepatic free fluid; no biliary duct dilatation or gallstones; mild edema within the pancreatic head and body; homogeneous enhancement of the pancreas; pancreatic duct divisum variant; unremarkable spleen, adrenal glands, kidneys, gastrointestinal tract, and no lymph node enlargement; patent vascular structures.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RUQ ultrasound",
+            "date": "Not specified",
+            "findings": "Normal gallbladder; no intra- or extrahepatic biliary ductal dilatation; pancreas obscured by overlying bowel gas.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

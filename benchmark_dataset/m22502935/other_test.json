@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bone Marrow Biopsy",
+            "date": "Not specified",
+            "findings": "Showing excess blasts, and cytogenetic findings of translocation 3;5 and +WT-1 mutation with high risk of transformation to AML.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of Abdomen",
+            "date": "Not specified",
+            "findings": "Suggestion of mild diffuse fatty liver, no focal liver mass, no intrahepatic biliary dilation, stones and biliary sludge in the distended gallbladder with wall edema, and trace pericholecystic fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Rapid Heme Panel",
+            "date": "Not specified",
+            "findings": "Evidence of WT1 amplification.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

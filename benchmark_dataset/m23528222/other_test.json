@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Feces test for C. difficile toxin A & B",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Numerous gallstones, distended gallbladder measuring 6.1 cm, new wall thickening, stable fluid- and gas-containing collection in the splenectomy bed measuring 3.7 x 3.6 cm, recurrent fluid- and gas-containing collection measuring 4.7 x 3.5 cm.",
+            "changes_over_time": "Gallbladder distension increased; stable size of the collection in the splenectomy bed (previously 3.8 x 3.8 cm) and new wall thickening observed."
+        }
+    ]
+}

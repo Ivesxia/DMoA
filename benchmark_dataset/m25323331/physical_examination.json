@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.5°F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "96% RA"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "101 bpm",
+                "blood_pressure": "208/85 mmHg (automatic cuff); 185/96 mmHg (manual check)",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "95% RA"
+            },
+            "relevant_findings": {
+                "general": "awake, alert, sitting up in bed, no acute distress w/ emesis basin in hand",
+                "HEENT": "PERRLA, dry MM",
+                "neck": "Supple, no JVD",
+                "heart": "RRR, no m/r/g",
+                "lungs": "CTAB anteriorly, posterior exam limited, but appears clear, good air movement, resp unlabored",
+                "abdomen": "NABS, soft/NT/ND, no masses or HSM",
+                "extremities": "WWP, trace edema, no c/c, 2+ peripheral pulses",
+                "skin": "venous stasis changes",
+                "neuro": "alert and oriented to person, ___, ___ non focal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

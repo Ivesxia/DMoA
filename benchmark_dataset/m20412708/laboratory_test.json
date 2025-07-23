@@ -1,0 +1,50 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "CT ABDOMEN": {
+                    "liver": "Enhances homogeneously without focal lesions or intrahepatic biliary duct dilatation.",
+                    "gallbladder": "Unremarkable.",
+                    "portal_vein": "Patent.",
+                    "pancreas_spleen_adrenal_glands": "Within normal limits.",
+                    "kidneys": "Show symmetric nephrograms and excretion of contrast. No focal renal lesion or hydronephrosis bilaterally.",
+                    "bowel": "Small and large bowel within normal limits, without evidence of wall thickening or dilatation to suggest obstruction.",
+                    "appendix": {
+                        "condition": "Appears inflamed with significant mucosal enhancement.",
+                        "caliber": "Increased at its base measuring 10 mm.",
+                        "surrounding": "Some stranding surrounding the base of the cecum and appendix as well as a small amount of supra-apendicular fluid."
+                    },
+                    "aorta": "Patent and nonaneurysmal.",
+                    "lymph_nodes": "No mesenteric or retroperitoneal lymph node enlargement by CT size criteria.",
+                    "abdominal_wall": "No hernia."
+                },
+                "CT PELVIS": {
+                    "urinary_bladder_and_ureters": "Unremarkable.",
+                    "uterus_and_adnexa": "Unremarkable.",
+                    "pelvic_wall": "No lymphadenopathy.",
+                    "pelvic_free_fluid": "Not observed."
+                },
+                "osseoous_structures": "No lytic or blastic lesions concerning for malignancy."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Measurement of 1.0 mmol/L",
+            "date": "Not specified",
+            "findings": {
+                "lower_ref_range": 0.5,
+                "upper_ref_range": 2.0,
+                "value": "1.0 mmol/L"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

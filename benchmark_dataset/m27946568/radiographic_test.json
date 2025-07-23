@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CTA CHEST",
+            "date": "Not specified",
+            "findings": "Tip of right upper extremity PICC is located in the cavoatrial junction. Pulmonary vasculature is well opacified to the subsegmental level without filling defect to indicate a pulmonary embolus. The thoracic aorta is normal in caliber without evidence of dissection or intramural hematoma. Trace pericardial effusion is seen. Moderate pleural effusion on the right, small on the left. No pneumothorax. Bibasilar, right greater than left, atelectasis. No masses or discrete focal consolidation. The airways are patent to the level of the segmental bronchi bilaterally. Included portion of the upper abdomen is unremarkable. No suspicious osseous abnormality is seen. There is no acute fracture.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

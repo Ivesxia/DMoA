@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96°F",
+                "heart_rate": "81 bpm",
+                "blood_pressure": "134/56 mmHg",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD, non-toxic appearing",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "cardiovascular": "RRR, No M/G/R",
+                "pulmonary": "Clear to auscultation b/l, No W/R/R",
+                "abdominal": "Well-healed midline incision. Soft, mildly distended, TTP RUQ with + ___, no rebound or guarding, normoactive bowel sounds, no palpable masses",
+                "extremities": "No ___ edema, ___ warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

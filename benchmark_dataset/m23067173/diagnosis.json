@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with symptoms including right lower quadrant pain, nausea, and vomiting. A CT scan revealed an edematous and hyperemic appendix measuring 15 mm, consistent with appendicitis."
+    }
+}

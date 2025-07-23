@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.4°F",
+                "heart_rate": "113 bpm",
+                "blood_pressure": "124/71 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on RA"
+            },
+            "relevant_findings": {
+                "general": "Alert, lying in bed, no acute distress",
+                "HEENT": "Moist MM, anicteric sclerae, no conjunctival pallor",
+                "neck": "Supple without LAD",
+                "pulmonary": "CTA b/l without wheeze or rhonchi",
+                "cardiovascular": "RRR (+)S1/S2 no m/r/g",
+                "abdominal": "Soft, LLQ tenderness, non-distended. No rebound or shake tenderness. No CVA tenderness.",
+                "extremities": "Warm, well-perfused, no edema",
+                "neurological": "CN II-XII grossly intact, motor function grossly normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.0°F",
+                "heart_rate": "92 bpm",
+                "blood_pressure": "117/62 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% on RA"
+            },
+            "relevant_findings": "Mild LLQ tenderness noted during initial evaluation.",
+            "changes_over_time": "Patient reports improvement in symptoms, denies fevers/chills, and feels much better."
+        }
+    ]
+}

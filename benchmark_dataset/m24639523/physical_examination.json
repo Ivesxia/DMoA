@@ -1,0 +1,49 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "heart_rate": "69 bpm",
+                "blood_pressure": "140/88 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "Pleasant, no apparent distress, alert and oriented times three.",
+                "HEENT": "Sclera anicteric. PERRL (5 to 3 bilateral), EOMI. Conjunctiva were pink, dry mucous membranes.",
+                "neck": "Supple with low JVD.",
+                "cardiac": "Normal rate, regular rhythm, II/VI systolic murmur at base, no S3 or S4 appreciated. Anterior scar from pacemaker.",
+                "lungs": "Mild kyphosis. Respirations unlabored, CTAB, without crackles or wheeze.",
+                "abdomen": "Soft, mild tenderness in periumbilical region. No hepatosplenomegaly.",
+                "extremities": "No cyanosis, clubbing, or edema. Warm. Evidence of recent trauma to shins.",
+                "skin": "No stasis dermatitis, ulcers, scars, or xanthomas.",
+                "neurological": "Cranial nerves II-XII grossly intact, strength bilateral upper and lower extremities, sensation grossly intact."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "63 bpm",
+                "blood_pressure": "97/61 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "During evaluation, the patient developed a slow ventricular rhythm at 85 BPM with 1:1 retrograde conduction confirmed by atrial electrogram. The patient was asymptomatic during this episode."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "95 bpm",
+                "blood_pressure": "79/60 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": "Episodes of arrhythmia on pacemaker evaluation; interrogation revealed '3 atrial high-rate episodes', 'EGMs with 1:1 tachycardia at 120 BPM'.",
+            "changes_over_time": "Initial low blood pressure response (79/60 mmHg) improved after 1L IV fluids, resulted in a noted systolic change."
+        }
+    ]
+}

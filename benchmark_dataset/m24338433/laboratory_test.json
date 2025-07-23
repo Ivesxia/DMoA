@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Elevated",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests (Transaminitis)",
+            "date": "Not specified",
+            "findings": "Elevated transaminitis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen",
+            "date": "Not specified",
+            "findings": "Mild fatty infiltration of the transplant liver, esophageal/paraesophageal varices, intra-abdominal collateral vessels, stable right-sided adrenal nodules, and mild thickening of the left adrenal gland.",
+            "changes_over_time": "No findings of anastomotic stenosis; previous findings of focal high-grade stenosis involving the proximal celiac artery with mild post-stenotic dilatation were consistent."
+        }
+    ]
+}

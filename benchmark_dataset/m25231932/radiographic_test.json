@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits. There is no evidence of pleural or pericardial effusion. The liver demonstrates homogenous attenuation throughout with no evidence of focal lesions or biliary dilatation. The gallbladder is normal. The pancreas has normal attenuation with no focal lesions or dilatation. The spleen shows normal size and attenuation. The adrenal glands are normal. The kidneys are symmetrical with normal nephrogram, and there are no renal lesions or hydronephrosis. The stomach is unremarkable, and small bowel loops are normal. Diverticulosis of the descending colon is noted without wall thickening. The appendix is dilated to 11 mm, slightly hyperemic with mild fat stranding. There are no fluid collections or extraluminal air. The urinary bladder and distal ureters are unremarkable with no free fluid in the pelvis. There is no notable lymphadenopathy or abdominal aortic aneurysm. No worrisome osseous lesions or acute fractures are observed.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

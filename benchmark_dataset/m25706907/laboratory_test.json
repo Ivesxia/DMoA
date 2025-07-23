@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Dirty UA with 27 WBCs, few bacteria, moderate blood and leukocytes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatine Kinase (CK)",
+            "date": "Not specified",
+            "findings": "CK 877, which is outside the normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine (Cr)",
+            "date": "Not specified",
+            "findings": "Cr 1.4, which is outside the normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "Urine culture grew Gram-negative rods (GNRs).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Neisseria gonorrhoeae Test",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria gonorrhoeae.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis",
+            "date": "Not specified",
+            "findings": "Mild bibasal atelectasis, diffusely enlarged and hypoenhancing pancreas, small to moderate peripancreatic fluid, normal kidneys with non-specific findings.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

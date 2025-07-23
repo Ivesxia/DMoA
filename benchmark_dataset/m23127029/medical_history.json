@@ -1,0 +1,19 @@
+{
+    "medical_history": {
+        "chief_complaint": "Worsening right upper quadrant (RUQ) pain",
+        "history_of_present_illness": "The pain started after having dinner yesterday, with a history of less severe postprandial RUQ/epigastric pain that occasionally radiated to the back, lasting approximately 1 hour. This time, the pain persisted, leading to the patient's presentation. She also endorses chills and multiple loose stools (approximately 5 bowel movements per day).",
+        "past_medical_history": [
+            "Bipolar disorder",
+            "History of gestational diabetes",
+            "Positive PPD",
+            "Obesity",
+            "Infertility",
+            "Elevated prolactin",
+            "Hypothyroidism",
+            "Mild asthma",
+            "Chronic thoracic myofascial pain"
+        ],
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

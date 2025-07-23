@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver demonstrates homogenous attenuation throughout. Subcentimeter hyperdensity along the anterior aspect of the right lobe of the liver is too small to characterize but likely a perfusion defect or a hemangioma. There is mild periportal edema. No evidence of intrahepatic or extrahepatic biliary dilatation. The gallbladder is within normal limits. The pancreas has normal attenuation throughout, without evidence of focal lesions or pancreatic ductal dilatation. The spleen shows normal size and attenuation throughout, without evidence of focal lesions. The right and left adrenal glands are normal in size and shape. The kidneys are of normal and symmetric size with normal nephrogram, no evidence of focal renal lesions or hydronephrosis. There is a long appendix in which the proximal and mid segment of the appendix is most dilated, primarily fluid-filled out of proportion with wall thickening, adjacent stranding, and contains appendicoliths in the proximal lumen, consistent with acute uncomplicated appendicitis. Trace free fluid in the pelvis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test for Creatinine",
+            "date": "Not specified",
+            "findings": "3.6 mg/dL, within normal range.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "AGap: 23; WBC count: Not specified; RBC count: Not specified; Hemoglobin: Not specified; Hematocrit: Not specified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "ALT: 19 IU/L (normal), AST: 23 IU/L (normal), ALP: 134 IU/L (normal), LDH: 326 IU/L (normal), Total Bilirubin: 0.5 mg/dL (normal).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Blood: Moderate; Protein: 500 mg/dL; Glucose: Trace; Ketones: 15 mg/dL; Bacteria: Few; Epithelial cells: Not specified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen without Contrast",
+            "date": "Not specified",
+            "findings": "Results suggest uncomplicated acute appendicitis with likely appendicolith, wall thickening of the appendix, and dilation to 11 mm.",
+            "changes_over_time": "No free air or free fluid is noted within the abdomen."
+        }
+    ]
+}

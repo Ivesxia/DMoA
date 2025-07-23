@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Bibasilar atelectasis. No focal liver lesions. Patent portal veins. Decompressed gallbladder. Normal appearance of the pancreas without main duct dilation. Splenomegaly, 16 cm, without focal lesion. An adjacent accessory spleen is noted. Normal adrenals. No hydronephrosis. No suspicious renal lesions. Decompressed stomach. Marked stranding within the right lower quadrant, adjacent to a thick-walled, inflamed but relatively decompressed appendix with appendicolith at its base. Extraluminal fluid and gas is noted, with a 4.5 x 3.6 cm gas and fluid containing collection anteromedial to the cecal base. Associated perforation of the appendiceal wall is possibly visualized on some images. Thickening of adjacent small bowel loops, likely reactive. An additional 6.8 x 4.2 cm fluid collection within the rectovesical pouch is noted, new since prior. A 2.2 x 6 cm fluid collection is demonstrated adjacent to a pelvic small bowel loop within the right pelvis, similar to prior. Loops of markedly dilated small bowel are demonstrated, maximum 5.3 cm within the anterior abdomen, which appear to terminate within the central lower abdomen, without a well identified transition point. Small amount of bladder wall thickening is noted, likely reactive. No suspicious osseous lesions.",
+            "changes_over_time": "4.5 x 3.6 cm gas and fluid containing collection anteromedial to the cecal base increased from prior measurement of 2.8 x 3.2 cm. An additional 6.8 x 4.2 cm fluid collection within the rectovesical pouch is noted, new since prior. A 2.2 x 6 cm fluid collection is similar to prior."
+        }
+    ]
+}

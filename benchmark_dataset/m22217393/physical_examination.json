@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.5",
+                "blood_pressure": "108/67",
+                "heart_rate": "94",
+                "respiratory_rate": "22",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "general": "Tired appearing, NAD",
+                "HEENT": "ncat, eomi, anicteric, MMM",
+                "neck": "supple",
+                "chest": "b/l ae, no w/c/r",
+                "heart": "s1s2 rr, no m/r/g",
+                "abdomen": "+bs, soft, +TTP RUQ and epigastric area, no guarding or rebound",
+                "extremities": "no c/c/e, 2+ pulses",
+                "GU": "no foley",
+                "neuro": "face symmetric, speech fluent",
+                "psych": "calm, cooperative",
+                "skin": "no apparent rash or jaundice"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

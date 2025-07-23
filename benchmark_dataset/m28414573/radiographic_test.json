@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Atelectasis in the right lower lobe, bilateral small non-hemorrhagic pleural effusions with the left increased compared to the prior study. Rim-enhancing subcapsular hepatic fluid collection in the right upper quadrant measuring approximately 19 x 8 cm with locules of air. Moderate nonhemorrhagic abdominal ascites. Liver nodular in contour with caudate lobe hypertrophy. Hypoattenuating material related to post-chemoembolization with concerning features. TIPS not evaluated. No biliary ductal dilatation and gallbladder shows mild wall thickening. Stable appearance of adrenal glands, pancreas, kidneys. No free intraperitoneal air. Small retroperitoneal lymph nodes persistent in size. There is diverticulosis of the descending colon.",
+            "changes_over_time": "Left pleural effusion increased compared to prior study; rim-enhancing subcapsular hepatic fluid collection has re-accumulated; moderate ascites increased in amount; multiple foci of hypoattenuation adjacent to site of chemoembolization not characterized in the prior study; cavernous transformation of portal vein better depicted on prior study."
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Left lower quadrant abdominal pain",
+        "history_of_present_illness": "The pain started 7 days ago, on and off, initially located in the left lower quadrant, then gradually generalized. Notably, the patient experienced sudden sharp lower abdominal pain while urinating yesterday. The pain improved upon arrival at the emergency department. The patient had a fever yesterday, and the last bowel movement was this morning, described as watery.",
+        "past_medical_history": "1. Congestive heart failure (CHF) 2. Insulin-dependent diabetes mellitus (IDDM) 3. Right below-knee amputation (BKA) 4. Right Charcot foot and recurrent toe osteomyelitis 5. Chronic kidney disease, baseline creatinine ~2.3 6. Hypertension 7. Dyslipidemia 8. Diastolic dysfunction 9. Obesity 10. Sleep disordered breathing 11. Vertigo 12. Rhinitis",
+        "family_history": "Diabetes mellitus (DM), hypertension (HTN). Denies heart disease.",
+        "social_history": "Not specified."
+    }
+}

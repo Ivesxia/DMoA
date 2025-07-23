@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "CBC within normal limits (wnl).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase elevated to 1000.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LFTs",
+            "date": "Not specified",
+            "findings": "Liver function tests normal except for alkaline phosphatase (AP) 165.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiograph - Portable Abdomen",
+            "date": "Not specified",
+            "findings": "No abnormally dilated loops of bowel; nonspecific, nonobstructive bowel gas pattern throughout the small bowel and colon. Osseous structures unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

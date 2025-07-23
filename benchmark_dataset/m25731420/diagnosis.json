@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The diagnosis of appendicitis was supported by the presence of RLQ pain, with imaging findings from a CT scan showing a fluid-filled and dilated appendix measuring up to 10 mm, thickened and hyperemic walls, while ruling out other abdominal and pelvic conditions."
+    }
+}

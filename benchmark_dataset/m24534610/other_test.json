@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Upper Endoscopy",
+            "date": "Not specified",
+            "findings": "Demonstrated ulcers on vocal cords and a small hiatal hernia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EKG",
+            "date": "Not specified",
+            "findings": "Unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac Enzymes",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "GUAIAC test",
+            "date": "Not specified",
+            "findings": "Stools were guaic negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "Gallbladder wall is mildly thickened with areas of pericholecystic fluid and gallbladder wall edema. Multiple shadowing gallstones present within the gallbladder.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

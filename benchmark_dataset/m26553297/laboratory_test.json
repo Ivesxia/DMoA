@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Increase in bibasilar atelectasis, more on the left than the right. No pleural or pericardial effusion. The heart size is normal. A mildly enhancing lesion in segment VII is noted, unchanged in size. No other liver lesions observed. The thickening of the gastric and transverse portion of the duodenum seen in the previous examination is not visualized. The gallbladder is unremarkable with no cholelithiasis or signs of cholecystitis. The pancreas, spleen, and adrenals are unremarkable. No renal stones or perirenal fluid. Both kidneys excrete contrast equally. No intraabdominal air or fluid. No enlarged retroperitoneal or mesenteric lymph nodes. Normal intraabdominal bowel loops. In the pelvis, no periappendicular fluid, but three areas of focal inflammatory processes noted: a 1.8-cm cyst with air blockage adjacent to sigmoid loop, a second 1.6 x 1.9 cm abscess in the left hemipelvis, and a sinus tract with contrast leakage anterior to the uterus.",
+            "changes_over_time": "The previous process has progressed with three areas of focal inflammatory processes noted compared to earlier findings."
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

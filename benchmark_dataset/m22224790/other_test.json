@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EKG",
+            "date": "Not specified",
+            "findings": "Normal sinus rhythm, no ST changes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdomen ultrasound (complete study)",
+            "date": "Not specified",
+            "findings": "The liver is normal in echogenicity, no focal hepatic masses, no intrahepatic biliary dilatation, common bile duct normal at 4 mm, patent main portal vein, gallbladder with a few tiny shadowing gallstones, kidneys normal without hydronephrosis, stones, or mass, spleen and visualized aspects of the pancreas within normal limits, appropriate fetal heartbeat observed.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

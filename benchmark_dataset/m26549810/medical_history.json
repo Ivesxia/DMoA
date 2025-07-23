@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute onset right upper quadrant (RUQ) pain radiating to the back.",
+        "history_of_present_illness": "Pain began acutely at 1800 on the day of presentation and has progressively worsened. This is the first episode. Accompanying symptoms include nausea, but no emesis. Denies fevers, chills, unintentional weight loss, jaundice, scleral icterus, tea-colored urine, or pale stools.",
+        "past_medical_history": "Diverticulitis, Major Depressive Disorder (MDD), Basal Cell Carcinoma (BCC) of the back, Chronic Constipation, Gastritis, Esophagitis. Past medical history includes a similar presentation managed conservatively with CT showing hepatic flexure diverticula.",
+        "family_history": "Denies liver or gallbladder disease. Mother has Diabetes Mellitus (DM). Father had Stomach Cancer (CA) and a Cerebrovascular Accident (CVA).",
+        "social_history": "Personal history of tobacco use."
+    }
+}

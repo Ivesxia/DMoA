@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic causing limited sonographic penetration. The contour of the liver is smooth. There is a complex cyst or pair of cysts in segment V: one cyst measures up to 1.5 cm and another measures up to 2.6 cm. The main portal vein is patent with hepatopetal flow. There is no ascites. Gallbladder is moderately distended with moderate wall edema and pericholecystic fluid. There is a large shadowing gallstone in the region of the gallbladder neck; this may represent adherent sludge or a large gallbladder polyp, approximately 2.3 x 1.4 cm. The pancreas is not well visualized due to overlying bowel gas. Spleen normal echogenicity, measuring 10.5 cm, with a 1.6 cm accessory spleen noted. Limited views of bilateral kidneys show no hydronephrosis. Aorta and IVC within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal Pain",
+        "history_of_present_illness": "Not specified.",
+        "past_medical_history": "HTN, Hyperchol, CAD; status post CABG x 4, hysterectomy, bladder suspension, open extended right hemicolectomy for transverse colon CA.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

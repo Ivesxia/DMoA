@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Atelectasis in the lung bases, diffuse gallbladder wall edema, hyperdense stones in the gallbladder, moderate distension of the gallbladder, slight hyperenhancement of the liver edge adjacent to the gallbladder fossa, hypodensities in the kidneys potentially representing cysts, lobulated soft tissue density thought to be pancreatic tissue or borderline enlarged node, diffuse colonic diverticulosis, paraumbilical hernia, right inguinal hernia without secondary obstruction, new retroperitoneal adenopathy with several enlarged nodes.",
+            "changes_over_time": "Interval enlargement of several aortocaval nodes measuring up to 11 mm in short axis (previously 4 mm)."
+        }
+    ]
+}

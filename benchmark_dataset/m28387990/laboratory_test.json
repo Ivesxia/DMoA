@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Dependent atelectasis bilaterally, emphysematous change with a large right bulla, right lower lobe nodules (largest 4mm, roughly stable), a calcific density in the region of common hepatic duct (stable, likely choledocholithiasis), segment VI liver cyst (33 x 27 mm), unchanged bilateral renal stents, thinning of left renal cortex (presumably reflecting previous infarction or focal infection), small hypodensity in left lower pole characterized as angiomyolipoma (previously noted). No hydronephrosis or nephrolithiasis, atherosclerotic calcification noted along the aorta, no free gas or fluid in the abdomen or pelvis.",
+            "changes_over_time": "New small amount of fluid and fat stranding surrounding the distal sigmoid colon, with surrounding diverticula suggestive of diverticulitis."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

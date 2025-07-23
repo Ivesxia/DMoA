@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6 °F",
+                "heart_rate": "93 bpm",
+                "blood_pressure": "153/73 mmHg",
+                "respiratory_rate": "15 breaths/min"
+            },
+            "relevant_findings": {
+                "consciousness": "A&O x 3",
+                "general_condition": "NAD",
+                "pupil_reaction": "PERRL",
+                "extraocular_movement": "EOMI",
+                "skin": "anicteric",
+                "heart": "RRR",
+                "lungs": "CTAB",
+                "abdominal_exam": {
+                    "softness": "soft, slightly distended",
+                    "tenderness": "very mild tenderness to deep palpation suprapubically and in RLQ",
+                    "guarding": "no guarding",
+                    "rebound_tenderness": "no rebound tenderness",
+                    "edema": "no edema"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

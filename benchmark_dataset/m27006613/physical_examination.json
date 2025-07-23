@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5 °F",
+                "heart_rate": "81 bpm",
+                "blood_pressure": "124/75 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Awake, alert, no acute distress",
+                "HEENT": "Normocephalic, atraumatic; extraocular movements intact; anicteric",
+                "heart": "Regular rate and rhythm; no murmurs, rubs, or gallops",
+                "lungs": "Clear to auscultation bilaterally; normal excursion; no respiratory distress",
+                "abdomen": "Soft; tender to palpation in the right lower quadrant over McBurney's point",
+                "neuro": "Strength intact and symmetric; sensation intact and symmetric",
+                "extremities": "Warm, well-perfused; no clubbing, cyanosis, or edema; 2+ pulses"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

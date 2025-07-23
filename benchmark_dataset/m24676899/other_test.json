@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopic Retrograde Cholangiopancreatography (ERCP)",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Portable AP Radiograph",
+            "date": "Not specified",
+            "findings": "The lungs remain clear. No pleural effusion or pneumothorax. Tortuosity of the thoracic aorta is again noted. Embolization coils are noted in the upper abdomen as well as pneumobilia reflecting recent instrumentation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound (RUQ U/S)",
+            "date": "Not specified",
+            "findings": "Possible to and fro flow of the intrahepatic main portal vein. Otherwise, patent hepatic vasculature with appropriate waveforms.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

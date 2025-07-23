@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "heart_rate": "92 bpm",
+                "blood_pressure": "156/90 mmHg",
+                "respiratory_rate": "18 rpm",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "Patient appears uncomfortable and minimally communicative due to pain.",
+                "HEENT": "NCAT, no scleral icterus.",
+                "GI": "Severe tenderness and involuntary guarding upon palpation of RUQ.",
+                "skin": "No rash, no jaundice."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "heart_rate": "68 bpm",
+                "blood_pressure": "141/85 mmHg",
+                "respiratory_rate": "18 rpm",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "A&O x3, lying comfortably.",
+                "CV": "HRR.",
+                "pulm": "LS ctab.",
+                "abdomen": "Soft, NT/ND. RUQ incision CDI, closed with staples. Umbilical lap site CDI closed with steristrips. JP drain site CDI with gauze dressing.",
+                "extremities": "No edema."
+            },
+            "changes_over_time": "Vital signs show an improvement in heart rate from 92 bpm to 68 bpm; patient is now lying comfortably."
+        }
+    ]
+}

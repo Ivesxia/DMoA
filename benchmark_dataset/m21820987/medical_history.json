@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Fever",
+        "history_of_present_illness": "Patient reports catching a cold from his girlfriend during a visit to his son in prison. He experienced coughing productive of white sputum which resolved a few days ago. He noted feeling flu-like symptoms yesterday, felt cold, and had a temperature of 104°F, followed by rigors and non-bilious emesis. Constipation was present before starting senna three days ago, and he has since had 3 formed, non-bloody bowel movements since admission.",
+        "past_medical_history": "Diabetes Mellitus (DM), Hypertension (HTN), Coronary Artery Disease (CAD) status post Myocardial Infarction (MI), history of abdominal stab wound, history of colon and prostate cancer.",
+        "family_history": "Positive for Diabetes Mellitus (DM), not specified who.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with abdominal pain that localized to the right lower quadrant (RLQ), associated with nausea and subjective fever. Physical examination revealed tenderness in the RLQ with rebound tenderness and positive Rovsing and Psoas signs. CT abdomen and pelvis showed a dilated, fluid-filled appendix with mural enhancement and significant surrounding fat stranding, consistent with acute appendicitis. No signs of perforation were noted."
+    }
+}

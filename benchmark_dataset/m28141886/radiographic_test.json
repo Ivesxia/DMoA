@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Low lung volumes, improved ventilation at the lung bases, unchanged position of the right central venous access line, unchanged moderate cardiomegaly, unchanged plate-like atelectasis at the left lung apex.",
+            "changes_over_time": "Improved ventilation at the lung bases; otherwise, findings are unchanged compared to the previous radiograph."
+        }
+    ]
+}

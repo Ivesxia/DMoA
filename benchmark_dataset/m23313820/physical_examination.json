@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "heart_rate": "78 bpm",
+                "blood_pressure": "130/88 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "abdominal": "Soft, Nondistended, RUQ tenderness",
+                "gu_flank": "No costovertebral angle tenderness",
+                "extremities_back": "No cyanosis, clubbing or edema",
+                "skin": "No rash",
+                "neurological": "Speech fluent",
+                "psychological": "Normal mood"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

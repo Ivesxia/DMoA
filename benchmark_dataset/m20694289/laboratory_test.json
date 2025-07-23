@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is dilated and fluid-filled measuring 1.0 cm with thickened and hyperemic walls compatible with acute appendicitis. No other abdominal abnormalities noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "2.7 mmol/L, exceeding normal range (0.5 - 2.0 mmol/L).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

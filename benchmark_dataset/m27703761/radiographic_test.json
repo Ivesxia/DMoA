@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Scout radiograph demonstrates multiple surgical clips in the region of the gallbladder fossa. Injection of contrast into the biliary tree demonstrates opacifications of ducts to the right of the thoracic spine. No filling of dilated left ducts.",
+            "changes_over_time": "Compared to recent MRCP, there does not appear to be filling of dilated left ducts."
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Dilatation of the left hepatic duct with two areas of stricture; fatty infiltration of the right lobe. No evidence of tumor recurrence.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

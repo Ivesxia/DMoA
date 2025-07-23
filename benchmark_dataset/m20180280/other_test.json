@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "PICC line placement",
+            "date": "Not specified",
+            "findings": "A PICC line has been placed over the right upper extremity. The tip of the line projects over the right atrium. No evidence of complications, notably no pneumothorax.",
+            "changes_over_time": "The pre-existing free air on the right is no longer visible."
+        },
+        {
+            "procedure_name": "Drain placement",
+            "date": "Not specified",
+            "findings": "Drain placed by intervention radiology.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

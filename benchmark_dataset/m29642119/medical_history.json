@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient was in his usual state of health until after midnight when he woke up due to severe abdominal pain, described as band-like in the epigastrium. The pain was initially ___ in intensity, non-radiating, and eventually localized to the right lower quadrant (RLQ). Symptoms were associated with subjective fevers, rigors, nausea, anorexia, and non-bilious vomiting three times. The patient has been unable to tolerate oral intake due to abdominal pain and took Tylenol #3 without resolution of symptoms.",
+        "past_medical_history": "Asthma; Previous surgery: Bilateral laparoscopic inguinal hernia repair.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

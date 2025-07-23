@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1 °F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "140/83 mmHg",
+                "respiratory_rate": "17 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Moderate distress, in bed, in pain",
+                "lungs": "Clear to auscultation",
+                "cardiovascular": "Regular rate and rhythm",
+                "abdominal": "Soft, obese, tender to right upper quadrant, positive Murphy's sign, active bowel sounds",
+                "extremities": "No cyanosis, clubbing, or edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

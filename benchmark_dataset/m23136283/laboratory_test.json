@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Test (Electrolytes)",
+            "date": "Not specified",
+            "findings": "2.2 mmol/L (elevated; normal range is 0.5 to 2.0 mmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is dilated, fluid-filled, with mildly thickened and hyperemic walls and adjacent stranding compatible with acute uncomplicated appendicitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

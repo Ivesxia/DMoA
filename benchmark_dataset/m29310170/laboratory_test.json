@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild bibasilar dependent atelectasis without pleural or pericardial effusion. The liver demonstrates homogenous attenuation throughout with no evidence of focal lesions. No intrahepatic or extrahepatic biliary dilatation. Normal gallbladder. The pancreas has normal attenuation with no focal lesions or pancreatic ductal dilatation. Spleen shows normal size and attenuation. Normal adrenal glands. Kidneys are normal and symmetric with no focal lesions or hydronephrosis. Stomach unremarkable. Small bowel loops normal. Colon and rectum normal. Appendix enlarged, hyperemic, and fluid-filled measuring up to 1.2 cm with associated severe right lower quadrant fat stranding. No drainable fluid collection or extraluminal air detected. Possible focal ileus of adjacent small bowel loops due to nearby inflammation. Urinary bladder and distal ureters unremarkable with no free fluid in the pelvis. Visualized reproductive organs unremarkable. No lymphadenopathy. No abdominal aortic aneurysm or atherosclerotic disease noted. No worrisome osseous lesions or acute fracture.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric abdominal pain.",
+        "history_of_present_illness": "The patient states that her pain began about 2 days prior to presentation, describes it as a sharp stabbing abdominal pain with radiation to the back. The pain is constant and not affected by what she ate. No clear trigger for pain. Patient endorses associated nausea and vomiting.",
+        "past_medical_history": "PTSD, depression, hypercholesterolemia, hypertension, Graves' disease (s/p XRT now with hypothyroidism), left-sided hearing loss, arachnoid cyst, anisocoria, recent admission for suicidality.",
+        "family_history": "Her father died of renal cancer, her sister died of an MI. Her mother is alive with diabetes.",
+        "social_history": "The patient has a 40 pack year history of smoking and currently smokes 1 pack per day. There is stress at home related to family dynamics. She works as a house cleaner and drinks rarely, never heavily. Patient expresses financial stress due to high co-insurance payments after her recent hospitalization and rehab stay."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The imaged lung bases are clear without consolidation, suspicious nodules, pleural effusion. Linear hyperdensity along the right hepatic lobe, unchanged since prior study, likely reflects site of prior surgical resection. The liver appears enlarged. Multiple shotty mesenteric and retroperitoneal lymph nodes up to 6 mm, not pathologically enlarged. Mild prominence of bilateral ureters, without obstructive lesions. Trace free fluid in the right lower quadrant.",
+            "changes_over_time": "Linear hyperdensity along the right hepatic lobe, unchanged since prior study."
+        }
+    ]
+}

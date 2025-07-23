@@ -1,0 +1,50 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "abdominal findings": {
+                    "diverticulosis": "present in the sigmoid colon without evidence of diverticulitis",
+                    "appendix": {
+                        "size": "up to 9 mm",
+                        "characteristics": "dilated with mild surrounding fat stranding",
+                        "perforation": "no evidence",
+                        "abscess": "no evidence"
+                    }
+                },
+                "liver": {
+                    "lesion": "subcentimeter hypodense lesion in the left lobe likely represents a cyst or biliary hamartoma",
+                    "biliary dilatation": "no evidence"
+                },
+                "pancreas": "normal attenuation throughout, no focal lesions",
+                "spleen": "normal size and attenuation",
+                "kidneys": "normal and symmetric size with normal nephrogram, no focal renal lesions",
+                "gallbladder": "within normal limits",
+                "adrenals": "normal in size and shape",
+                "bladder": "unremarkable",
+                "lymph nodes": "no lymphadenopathy",
+                "vascular": "no abdominal aortic aneurysm",
+                "bones": "no evidence of worrisome osseous lesions",
+                "soft tissues": "multiple ventral abdominal wall fat containing hernias"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory culture",
+            "date": "Not specified",
+            "findings": {
+                "CFU": "< 10,000 CFU/mL"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test (unspecified)",
+            "date": "Not specified",
+            "findings": {
+                "value": "8.8 mg/dL"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

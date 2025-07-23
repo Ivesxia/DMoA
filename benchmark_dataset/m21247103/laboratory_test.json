@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Blood in urine.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "0.5 mg/dL (outside normal range).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

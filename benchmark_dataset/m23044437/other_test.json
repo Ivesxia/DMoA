@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "The appendix measures up to 11 mm, with periappendiceal fat stranding and contrast does not opacify the appendix. Findings are most consistent with acute uncomplicated appendicitis. No free air or periappendiceal fluid collection to suggest perforation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy (specifically referenced bacterial culture)",
+            "date": "Not specified",
+            "findings": "Mixed bacterial flora (≥3 colony types), consistent with skin and/or genital contamination.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

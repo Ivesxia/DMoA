@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "heart_rate": "93 bpm",
+                "blood_pressure": "134/88 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress (NAD)",
+                "HEENT": "No lymphadenopathy",
+                "cardiovascular": "Regular rate and rhythm (RRR)",
+                "pulmonary": "No distress",
+                "abdominal": "No scars, soft, nondistended, tender in epigastric area without rebound, guarding, or rigidity",
+                "rectal": "Deferred",
+                "extremities": "No edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

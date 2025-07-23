@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC count",
+            "date": "Not specified",
+            "findings": "Slightly elevated WBC count of 10.3.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "AST",
+            "date": "Not specified",
+            "findings": "AST level was 49, indicating elevation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Normal hepatic parenchyma, no focal liver mass, moderate gallbladder wall edema, and cholelithiasis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bile Duct Diameter (CHD)",
+            "date": "Not specified",
+            "findings": "Common hepatic duct (CHD) measures 9 mm, within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "LIVER": "The liver is diffusely echogenic. The contour of the liver is smooth. There is no focal liver mass. Main portal vein is patent with hepatopetal flow. There is no ascites.",
+                "BILE DUCTS": "There is no intrahepatic biliary dilation. The CBD measures 7 mm.",
+                "GALLBLADDER": "A large gallstone seen in the neck measures 1.8 cm. There is no pericholecystic fluid or gallbladder wall thickening.",
+                "PANCREAS": "Imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation, with portions of the pancreatic tail obscured by overlying bowel gas.",
+                "KIDNEYS": "The visualized portions of the right kidney are normal.",
+                "RETROPERITONEUM": "Visualized portions of aorta and IVC are within normal limits."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is fluid-filled and dilated up to approximately 1.0 cm. The appendiceal tip appears enlarged and somewhat indistinct, making early or impending rupture difficult to exclude. No free abdominal fluid or pneumoperitoneum. No retroperitoneal lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "The heart is not enlarged. There is no CHF, focal infiltrate or effusion. No hilar or mediastinal lymphadenopathy is detected. No free air is detected beneath the diaphragm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

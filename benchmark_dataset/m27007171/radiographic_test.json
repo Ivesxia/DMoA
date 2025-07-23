@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Normal caliber of the common bile duct and visualized intrahepatic biliary ducts without filling defect, narrowing, or extrinsic mass effect. Successful extraction of sludge with a 12 mm balloon.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

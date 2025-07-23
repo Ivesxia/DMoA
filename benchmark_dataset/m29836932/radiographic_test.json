@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Little change in the amount of free intraperitoneal gas beneath the hemidiaphragm, some residual opacification at the left base consistent with atelectasis and possible effusion, no evidence of pulmonary vascular congestion.",
+            "changes_over_time": "Little change in amount of free intraperitoneal gas since prior surgery."
+        }
+    ]
+}

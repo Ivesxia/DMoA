@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "blood_pressure": "138/76 mmHg",
+                "heart_rate": "87 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96%",
+                "date_recorded": "last updated ___ @ 818"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, resting comfortably",
+                "HEENT": "Normocephalic, atraumatic, extraocular movements intact, anicteric",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "No respiratory distress",
+                "abdominal": "Soft, mildly tender throughout, non-distended, no rebound or guarding",
+                "wound": "Incision clean, dry, intact",
+                "extremities": "Warm, well-perfused, no edema",
+                "neurological": "Alert and oriented times three, no focal neurologic deficits",
+                "psychiatric": "Normal insight, memory, mood/affect",
+                "date_recorded": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

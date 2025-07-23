@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Prometheus IBD markers were negative, chronic colitis on biopsy and endoscopic findings consistent with chronic colitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "Thickening of the bowel wall at the splenic flexure and descending colon with minimal fat stranding, which could suggest colitis. No signs of bowel obstruction, free fluid, or free air.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified test for salmonella or shigella",
+            "date": "Not specified",
+            "findings": "No salmonella or shigella found.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Initial vital signs monitoring",
+            "date": "Not specified",
+            "findings": "T 98.9, BP 129/63, HR 100, RR 16, SaO2 100% RA.",
+            "changes_over_time": "Improved with reports of decreased bowel movements and abdominal pain."
+        }
+    ]
+}

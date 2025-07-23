@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right upper quadrant pain radiating to her back.",
+        "history_of_present_illness": "The pain began the evening of ___ an hour after eating a meal of rice and cheesecake. The pain persisted through the night, preventing her from sleeping. She vomited 6 times on ___, at which point the pain subsided, and she was pain free until ___. On ___ evening, she had a meal consisting of fish at 6 ___, and her RUQ abdominal pain started at 7 ___. She rated the pain ___ at that time and could not find any position that relieved the pain. She took Motrin for the pain, which mildly reduced it upon arrival to the ED.",
+        "past_medical_history": "Type 2 Diabetes Mellitus, Hypertension, Cholelithiasis, Reactive follicular hyperplasia and progressive transformation of germinal centers (PTGC).",
+        "family_history": "Mother - HTN; Father - HTN.",
+        "social_history": "Not specified."
+    }
+}

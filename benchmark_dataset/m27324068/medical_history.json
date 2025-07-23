@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Nausea and vomiting after eating a large meal.",
+        "history_of_present_illness": "The patient was in his usual state of health until a specific date when he suddenly developed nausea and vomiting after eating. He experienced diffuse abdominal pain, especially worse in the RUQ, and continued with intermittent symptoms. Nausea and vomiting worsened after another meal on a subsequent date, accompanied by fever and chills, prompting a visit to the local ER. He was treated and eventually readmitted due to abnormal blood cultures; however, he was afebrile at that time. Labs showed elevated WBC and liver enzymes. He underwent ERCP and reports mild, nonradiating intermittent RUQ tenderness since a specific date, which is now better, and currently denies exacerbating or relieving factors.",
+        "past_medical_history": "Hypertension (HTN), Hyperlipidemia (HLD), Opioid Use Disorder (OUD), Glaucoma, Cataracts, Seizure.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

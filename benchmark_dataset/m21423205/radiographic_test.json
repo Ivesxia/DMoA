@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "In the right lower quadrant, a well-circumscribed fluid collection measuring 2.7 x 3.1 cm with low-level internal echoes and a small amount of simple echotexture free fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

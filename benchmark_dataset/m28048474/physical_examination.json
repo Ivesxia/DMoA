@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "104°F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "NAD",
+                "cardiovascular": "RRR",
+                "respiratory": "CTA",
+                "abdominal": "s/ND/NT, with drain present",
+                "extremities": "no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

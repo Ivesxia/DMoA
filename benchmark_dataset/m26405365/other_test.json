@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laparoscopic Appendectomy",
+            "date": "Not specified",
+            "findings": "The appendix was dilated up to 1.2 cm with periappendiceal fat stranding consistent with acute appendicitis; a 3 mm appendicolith was identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The CT showed a dilated appendix up to 1.2 cm, a 3 mm appendicolith, and periappendiceal fat stranding. No free intra-abdominal air was observed.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

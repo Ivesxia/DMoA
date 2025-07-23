@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "71 bpm",
+                "blood_pressure": "148/75 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "NAD, A&Ox3",
+                "cardiovascular": "RRR, S1S2, no m/r/g",
+                "pulmonary": "CTAB",
+                "abdominal": "obese, soft, TTP in RUQ and epigastrium, + ___ sign",
+                "extremities": "WWP, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

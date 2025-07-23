@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "No focal consolidation, effusion, or pneumothorax. A nodular, flame-shaped opacity is seen on the frontal view, projecting between the ___ and ___ posterior ribs. No definite correlate is seen on the lateral view. Hilar and cardiomediastinal contours are normal. Pleural surfaces are smooth. No pulmonary vascular congestion or edema.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

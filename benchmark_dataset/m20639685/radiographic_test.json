@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Bibasilar atelectasis, large hiatus hernia containing nearly the entire stomach, fluid density structure in hepatic segment V measuring up to 4.6 cm, moderate intrahepatic biliary ductal dilation, dilation of the common bile duct to 1.9 cm, choledocholithiasis, irregular and edematous gallbladder wall with extensive pericholecystic stranding, mildly dilated main pancreatic duct measuring up to 5 mm, normal spleen, normal adrenal glands, normal kidneys with bilateral subcentimeter cortical hypodensities, extensive colonic diverticulosis, and a rim enhancing tubular structure in the wall of the mid sigmoid colon.",
+            "changes_over_time": "Fluid density structure previously characterized as a cyst on MRI and is minimally changed."
+        }
+    ]
+}

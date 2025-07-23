@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "102 bpm",
+                "blood_pressure": "151/82 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "constitutional": "Well appearing, in no distress",
+                "cardiopulmonary": "RRR, normal S1 and S2. No murmurs",
+                "abdomen": "Soft, non-distended, tender to palpation over right lower quadrant. No rebound or guarding. Negative Rovsing's",
+                "extremities": "Well perfused. No clubbing, cyanosis or edema",
+                "neurologic": "Grossly intact. Appears alert and oriented x 3"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

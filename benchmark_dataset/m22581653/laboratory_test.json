@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The CT scan shows a dilated, fluid-filled retrocecal appendix measuring up to 8 mm with hyperemic thickened walls, consistent with acute appendicitis. Associated hyperemia and wall thickening of the cecal base is noted. The remainder of the abdomen is unremarkable with normal findings in other abdominal organs.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gram stain",
+            "date": "Not specified",
+            "findings": "Positive for Gram positive bacteria.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

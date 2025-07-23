@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Dilation of a hyperenhancing appendix measuring up to 9 mm in maximum diameter, with periappendiceal fat stranding and wall thickening consistent with acute, uncomplicated appendicitis. No evidence of abscess formation or free intraperitoneal fluid to suggest perforation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine Measurement",
+            "date": "Not specified",
+            "findings": "1.0 mmol/L (within normal range: 0.5 - 2.0 mmol/L).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

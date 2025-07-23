@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Crampy abdominal pain",
+        "history_of_present_illness": "Several weeks of crampy abdominal pain that is sharp and comes and goes approximately every 10 minutes. The pain was relatively constant for 3 of the last 4 weeks but then abated. It has now returned, troubling enough for the patient to seek medical attention. The patient reports a similar episode approximately one year ago with pain of the same quality but less severe that resolved on its own. Pain was not exacerbated or relieved by position, activity, eating, or urination/bowel movement, although it made it difficult to void. Some relief noted with ibuprofen.",
+        "past_medical_history": "Hepatitis C genotype 1A for several years; Hypertension; 150 pack years tobacco; Caesarean section x 3",
+        "family_history": "Married, 2 children, 1 grandchild; tobacco use history is mentioned but specifics about family medical history are not provided.",
+        "social_history": "150 pack years tobacco; Not specified detailed lifestyle factors or environmental exposures."
+    }
+}

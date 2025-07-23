@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Sharp, shooting pain in the epigastrium developed this morning, radiating down to the suprapubic region and to the back.",
+        "past_medical_history": "Obesity, diabetes mellitus, asthma, depression, panniculectomy, gastric bypass, 2 cesarean sections, tonsillectomy",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

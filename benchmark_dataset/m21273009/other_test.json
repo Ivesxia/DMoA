@@ -1,0 +1,10 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Gallbladder contains stones and sludge, with a positive sonographic ___ sign. There may be trace pericholecystic fluid. No mural edema. Liver parenchyma appears normal with no focal mass.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

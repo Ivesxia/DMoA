@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Steatohepatitis noted. No focal lesions within the limitations of the unenhanced scan. Pneumobilia consistent with recent ERCP and biliary stent placement. Area of fullness at the head of the pancreas which may represent region that was recently biopsied. Dilated pancreatic duct. Significant peripancreatic stranding in the pancreaticoduodenal groove. Normal spleen size and attenuation. Normal adrenal glands. Normal kidneys, no focal renal lesions, no hydronephrosis, no nephrolithiasis. Unremarkable stomach and small bowel. Normal colon and rectum. No evidence of free air or leakage in abdomen. No free fluid in pelvis. Lobulated uterus consistent with uterine fibroids. No retroperitoneal or mesenteric lymphadenopathy. No abdominal aortic aneurysm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

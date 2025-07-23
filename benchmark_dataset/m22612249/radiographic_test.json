@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Lung bases are clear. No pleural or pericardial effusion. Limited evaluation of solid abdominal viscera. Homogeneous liver with no focal lesions. Gallbladder, spleen, pancreas, and adrenal glands unremarkable. No stones in kidneys or ureters. Small hiatal hernia. Stranding and wall thickening of the mid to distal sigmoid colon, concerning for diverticulitis, with adjacent tiny locules of gas suggesting microperforation. No evidence of appendicitis. Significant atherosclerotic calcifications of the intra-abdominal aorta. No retroperitoneal or mesenteric lymph node enlargement. Normal urinary bladder and terminal ureters. No pelvic or inguinal lymph node enlargement. No blastic or lytic lesions. Scoliosis of the lumbar spine with severe degenerative changes and a new compression deformity of the superior endplate of the T12 vertebral body.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

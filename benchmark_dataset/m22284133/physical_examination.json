@@ -1,0 +1,31 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97°F",
+                "blood_pressure": "129/35 mmHg",
+                "heart_rate": "80 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Appears drowsy but answering questions appropriately",
+                "HEENT": "MM moist, PERRL",
+                "cardiovascular": "Regular rate and rhythm, no murmurs",
+                "chest": "Clear to auscultation bilaterally",
+                "abdomen": "+ epigastric tenderness to palpation without rebound/guarding, drain in place",
+                "extremities": "Warm, well-perfused without edema"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "ultrasound": "The right internal jugular vein does not compress nor demonstrate flow. Possible echogenic material within it, concerning for thrombus. Normal flow in the left internal jugular vein. Partially imaged catheter within the right subclavian vein, demonstrating flow. Right axillary vein normal compressibility and flow."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

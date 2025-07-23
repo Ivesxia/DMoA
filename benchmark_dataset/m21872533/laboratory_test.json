@@ -1,0 +1,18 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CTA ABD W&W/O C & RECONS",
+            "date": "Not specified",
+            "findings": {
+                "lung": "Minimal atelectatic change, trace pleural effusion on the left.",
+                "heart": "Enlarged heart size without pericardial effusion; significant coronary artery calcification identified.",
+                "liver": "Homogenous without discrete masses or lesions; no intrahepatic biliary ductal dilatation.",
+                "kidneys": "Normal in size, excrete contrast symmetrically; rounded hypodensities likely represent cysts; 1.6-cm cyst in the upper pole of the left kidney with a Hounsfield unit of 76.",
+                "bowel": "Diverticula noted throughout; focal area of amorphous hyperdensity within the lumen of the ascending bowel proximal to the hepatic flexure concerning for active extravasation; mild bowel wall thickening identified in the sigmoid colon with adjacent fat stranding.",
+                "pelvis": "Normal rectum; uterus with multiple calcifications related to degenerating fibroids; no free fluid noted within the pelvis.",
+                "vascular": "Significant vascular calcifications in the aorta and bilateral renal arteries without associated aneurysmal change."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

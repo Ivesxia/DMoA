@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Bibasilar dependent atelectasis is present. There is no pleural effusion. The heart is normal in size without pericardial effusion. Mitral annular calcifications are present. Stable mild intrahepatic biliary dilatation, unchanged. The common duct is normal in caliber. The gallbladder, spleen, pancreas, and adrenal glands appear within normal limits. Bilateral kidneys enhance symmetrically without hydronephrosis or hydroureter. A subcentimeter probable cyst in the lower pole of the right kidney is unchanged. Moderate atherosclerotic disease is present along the aorta. Patient is status post aortobifemoral bypass, with interval resolution of much of previously seen para-aortic fluid. Inflammation extending inferomedially from the cecal tip into the pelvis, with multiple small locules of extraluminal air suggestive of complicated appendicitis with contained perforation. Inflammatory fat stranding and phlegmonous change in this region without discrete fluid collection. Mild presacral stranding redemonstrated. A small amount of low-density fluid within the deep pelvis appears decreased in amount.",
+            "changes_over_time": "Interval resolution of much of previously seen para-aortic fluid. A small amount of low-density fluid within the deep pelvis appears decreased in amount compared to previous imaging."
+        }
+    ]
+}

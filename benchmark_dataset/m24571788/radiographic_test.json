@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is trace perihepatic ascites. There is no intrahepatic biliary dilation. The CHD measures 4 mm. Cholelithiasis without gallbladder wall thickening. The imaged portion of the pancreas appears enlarged, consistent with known ____. Normal echogenicity of the spleen, measuring 8.5 cm. Limited views of the right kidney show no hydronephrosis. The visualized portions of the aorta and IVC are within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

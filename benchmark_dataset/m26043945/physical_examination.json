@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.3°F",
+                "heart_rate": "93 bpm",
+                "blood_pressure": "156/91 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Patient is pleasant and interactive, AAOx3.",
+                "HEENT": "Sclerae anicteric, oropharynx clear, poor dentition, mucosa is moist.",
+                "pulmonary": "Respirations unlabored on room air, lungs clear to auscultation bilaterally.",
+                "cardiovascular": "Regular rate and rhythm, no audible murmurs.",
+                "abdominal": "Soft, non-distended, mildly tender in the right lower quadrant without rebound or guarding; no hernias, masses, or scars.",
+                "extremities": "No edema, distal extremities warm and well-perfused."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

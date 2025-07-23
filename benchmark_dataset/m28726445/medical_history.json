@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Sudden onset of right upper quadrant pain associated with nausea after eating fatty food.",
+        "history_of_present_illness": "Developed right upper quadrant pain yesterday, precipitated by eating fatty food. The pain was associated with nausea but no vomiting. The patient was previously diagnosed with gallstones about ___ years ago.",
+        "past_medical_history": "Hypercholesterolemia and hypertension.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

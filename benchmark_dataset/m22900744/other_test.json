@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Evidence of choledocholithiasis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound (Liver or Gallbladder)",
+            "date": "Not specified",
+            "findings": "Large stone in the gallbladder, no intrahepatic biliary dilation, no focal liver mass.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

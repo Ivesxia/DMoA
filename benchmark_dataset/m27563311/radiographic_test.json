@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Hepatic steatosis, extensive cavernous transformation of the portal vein, splenomegaly measuring up to 14.5 cm, trace fluid in the pelvis, and a small fat containing umbilical hernia. No evidence of focal lesions or biliary dilatation.",
+            "changes_over_time": "Diffuse heterogeneous enhancement is overall similar compared to the previous MRI, likely related to variable perfusion in the setting of cavernous transformation of the portal vein."
+        }
+    ]
+}

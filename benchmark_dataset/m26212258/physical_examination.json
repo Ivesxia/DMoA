@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "93 bpm",
+                "blood_pressure": "110/70 mmHg",
+                "respiratory_rate": "14 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "well appearing, no apparent distress",
+                "cardiovascular": "regular rate and rhythm, palpable peripheral pulses",
+                "respiratory": "nonlabored breathing on room air",
+                "gastrointestinal": "soft, nondistended; tenderness to palpation in right lower quadrant (RLQ); rebound tenderness; voluntary guarding",
+                "extremities": "warm, well-perfused, no cyanosis or edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

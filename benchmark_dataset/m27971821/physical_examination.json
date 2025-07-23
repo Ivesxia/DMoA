@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7 F",
+                "heart_rate": "64 bpm",
+                "blood_pressure": "112/68 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "HEENT": "PERRL",
+                "heart": "RRR, no m/r/g",
+                "chest": "CTA bilaterally",
+                "abdomen": "Obese, abdomen soft, focally tender in RLQ, no rebound or guarding",
+                "extremities": "WWP"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

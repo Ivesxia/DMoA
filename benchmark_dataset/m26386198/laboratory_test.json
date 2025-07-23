@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Latest Cr 3.0 vs recent baseline 1.7-1.8; repeat Cr in the ED was 3.7.",
+            "changes_over_time": "Significant decline in renal function from baseline of 1.7-1.8 to 3.0, and then to 3.7."
+        },
+        {
+            "procedure_name": "BUN",
+            "date": "Not specified",
+            "findings": "BUN was 38.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Albumin",
+            "date": "Not specified",
+            "findings": "Hypoalbuminemic.",
+            "changes_over_time": "Continued hypoalbuminemia thought likely compounded by nutritional status."
+        },
+        {
+            "procedure_name": "Ultrasound of Left Upper Extremity Veins",
+            "date": "Not specified",
+            "findings": "Normal flow with respiratory variation in the left subclavian vein; echogenic material along the wall of the subclavian vein; compressible with flow. Left internal jugular vein is patent. Left brachial, basilic, and cephalic veins are patent.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

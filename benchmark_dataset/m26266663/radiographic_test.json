@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Numerous small layering gallstones identified within the gallbladder. Gallbladder wall thickening noted, gallbladder not distended. No pericholecystic fluid or sonographic Murphy's sign. No intra or extrahepatic biliary ductal dilatation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

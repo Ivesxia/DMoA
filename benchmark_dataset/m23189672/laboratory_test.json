@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bilirubin",
+            "date": "Not specified",
+            "findings": "2.4 mg/dL (the lowest in the past several weeks)",
+            "changes_over_time": "Previously noted bilirubin was as high as 11.2 mg/dL."
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "1473 IU/L",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "Enterococcus sp., Candida albicans, presumptive identification",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Estimated GFR",
+            "date": "Not specified",
+            "findings": ">75 mL/min/1.73 m² if non African-American; >75 mL/min/1.73 m² if African-American.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

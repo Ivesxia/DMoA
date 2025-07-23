@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC 11.6 (N 81.6%, L 15.3%, M 1.9%)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Troponin T",
+            "date": "Not specified",
+            "findings": "TnT <0.01",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Cr 0.8",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 288",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests (AST and ALT)",
+            "date": "Not specified",
+            "findings": "AST 48, ALT 42",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "UA showed trace hematuria, trace ketones and trace protein",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal Ultrasound",
+            "date": "Not specified",
+            "findings": "Echogenic lesion in the right hepatic lobe, 0.9 x 0.9 x 0.9 cm, compatible with hemangioma; gallbladder with small, nonobstructing calculi, edema, and wall thickening.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

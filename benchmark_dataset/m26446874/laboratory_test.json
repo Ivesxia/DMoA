@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Hyperenhancing enlarged inflamed appendix measuring up to 11 mm with associated periappendiceal inflammation and fluid. No intra-abdominal free air or ascites. No complications noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test for unspecified condition",
+            "date": "Not specified",
+            "findings": "1.1 mmol/L (reference range 0.5 - 2.0)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

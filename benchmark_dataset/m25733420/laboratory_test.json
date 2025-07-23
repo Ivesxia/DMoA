@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated, hyperemic and surrounded by marked periappendiceal fat stranding and fluid which tracks upwards in the right paracolic gutter and medially into the mesentery. The cecum is also hyperemic. The visualized lung bases are notable only for basilar subsegmental atelectasis. The liver enhances homogeneously. There are no focal liver lesions. There is no mesenteric or retroperitoneal adenopathy. Stomach and small bowel loops are unremarkable. The remainder of the large bowel is unremarkable. The bladder is underdistended. The prostate is normal. There is no free pelvic fluid. There are no concerning lytic or sclerotic bone lesions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "8.5 mg/dL (normal range: 8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

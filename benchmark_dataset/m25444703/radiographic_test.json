@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CTA ABD W&W/O C & RECONS",
+            "date": "Not specified",
+            "findings": "Small amount of pleural effusion tracking along the left major fissure; three hypodense lesions in the liver, with the largest measuring 1.7 x 1.5 cm, likely a hepatic cyst; duodenal wall thickening abutting the tumor, unchanged; large heterogeneous lesion in the pancreatic head measuring 4.4 x 4.1 x 4.3 cm, essentially unchanged in appearance from a study two days ago; normal intra-abdominal vascular anatomy; tiny retrocrural node measuring 12 x 4 mm; no free fluid or air noted; multilevel degenerative changes are mild.",
+            "changes_over_time": "The large heterogeneous lesion in the pancreatic head is essentially unchanged in appearance compared to the study two days ago; duodenal wall thickening is also unchanged."
+        }
+    ]
+}

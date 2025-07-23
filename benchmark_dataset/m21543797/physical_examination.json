@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.3°F",
+                "heart_rate": "103 bpm",
+                "blood_pressure": "119/44 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Somnolent but easily arousable, appropriate upon conversation",
+                "HEENT": "No scleral icterus",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "Clear to auscultation bilaterally",
+                "abdominal": "Soft, mildly distended, tender to palpation in lower abdomen (right > left), no rebound/rigidity/guarding",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

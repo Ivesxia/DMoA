@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "heart_rate": "102 bpm",
+                "blood_pressure": "113/58 mmHg",
+                "respiratory_rate": "11 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "No apparent distress (NAD)",
+                "cardiovascular": "Regular rate and rhythm (RRR)",
+                "abdominal": "Soft, non-tender/non-distended (NT/ND), no guarding or rebound tenderness",
+                "extremities": "No cyanosis, clubbing, or edema (c/c/e)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

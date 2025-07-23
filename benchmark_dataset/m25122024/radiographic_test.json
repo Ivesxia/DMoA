@@ -1,0 +1,18 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Hepatic parenchyma appears within normal limits, contour of the liver is smooth, no focal liver mass, main portal vein is patent with hepatopetal flow, no ascites.",
+                "bile_ducts": "Mild intrahepatic biliary dilation, evidence of pneumobilia within the left hepatic lobe, stent identified traversing the common hepatic duct.",
+                "gallbladder": "Gallbladder appears distended with wall thickening and edema, no stones present.",
+                "pancreas": "Numerous calcifications without pancreatic duct dilation.",
+                "spleen": "Enlarged measuring 13.6 cm.",
+                "kidneys": "Limited views of right kidney show no hydronephrosis.",
+                "retroperitoneum": "Visualized portions of aorta and IVC are within normal limits."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

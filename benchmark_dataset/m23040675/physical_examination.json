@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6 °F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "130/68 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "92% on 4L"
+            },
+            "relevant_findings": {
+                "general": "Elderly Gentleman, frail appearing, NAD.",
+                "HEENT": "PERRL, EOMI.",
+                "cardiac": "RRR, normal S1 and S2.",
+                "pulmonary": "CTAB.",
+                "abdomen": "Soft, NT/ND. No r/g. No incisional scars noted. No ___ sign. No obturator or psoas sign. Bulge noted in right inguinal crease, reducible.",
+                "rectal": "Deferred.",
+                "skin": "Subherric keratoses and skin tags throughout."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "PICC line in unchanged position, with its tip projecting over the uppermost parts of the superior vena cava. No evidence of complications. The Dobbhoff catheter has been removed.",
+            "changes_over_time": "No changes specified."
+        }
+    ]
+}

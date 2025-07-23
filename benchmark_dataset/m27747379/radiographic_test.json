@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver appears normal in echotexture and architecture, with no focal liver lesion seen. The main portal vein is patent, with normal hepatopetal direction of flow. No intra or extra-hepatic biliary ductal dilatation is noted, with the common duct measuring 3-mm. The gallbladder is nondistended and appears normal, without evidence of stones. The pancreas is well visualized and appears normal. The kidneys measure 11.4-cm and 13.7-cm on the right, both are without definite evidence for mass, stone, or hydronephrosis. The spleen is not enlarged measuring 9.9-cm. No ascites is seen in the upper or lower quadrant. The visualized abdominal aorta demonstrates a normal caliber, with the aortic wall measuring 2-3 mm thick.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

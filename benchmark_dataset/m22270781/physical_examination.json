@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "148/90 mmHg",
+                "respiratory_rate": "16 bpm"
+            },
+            "relevant_findings": {
+                "general": "alert and oriented x 3, NAD",
+                "cardiac": "normal S1, S2, no murmurs",
+                "respiratory": "clear to auscultation bilaterally",
+                "abdominal": "soft, non-distended, non-tender with diffuse mild tenderness slightly greater over epigastrium, no masses, striae over abdomen",
+                "rectal_exam": "good sphincter tone, stool in rectal vault, guiac negative",
+                "extremities": "warm, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

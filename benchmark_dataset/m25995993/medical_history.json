@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Sharp and dull abdominal pain.",
+        "history_of_present_illness": "Symptoms began 2 nights ago after eating a hamburger. The pain was moderate in severity and intermittent, with gradual onset. The discomfort has been recurring but with less severity since the initial incident. Patient reports subjective fever but no chills.",
+        "past_medical_history": "History of gallstones and past medical history of COPD.",
+        "family_history": "Not specified.",
+        "social_history": "Past smoker."
+    }
+}

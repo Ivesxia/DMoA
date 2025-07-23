@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Few subcentimeter T2 hyperintense hepatic cysts or biliary hamartomas noted. Subtle arterial hyperenhancement of the hepatic parenchyma adjacent to the gallbladder fossa. No significant signal drop on out of phase imaging to suggest hepatic steatosis. No ascites. Gallbladder notable for cholelithiasis, mild gallbladder distention and gallbladder wall edema noted. No intrahepatic or extrahepatic biliary duct dilatation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

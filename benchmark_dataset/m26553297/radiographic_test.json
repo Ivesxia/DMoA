@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Increase in bibasilar atelectasis, more on the left than the right. No pleural or pericardial effusion. A mildly enhancing lesion in segment VII, unchanged in size. Thickening of the gastric and transverse portion of the duodenum not visualized. No cholelithiasis or signs of cholecystitis. Unremarkable pancreas, spleen, adrenals, and kidneys. No intraabdominal air or fluid. No pathologically enlarged lymph nodes. The appendix visualized with no periappendicular fluid. Cyst with air blockage adjacent to sigmoid loop (1.8 cm), abscess in left hemipelvis (1.6 x 1.9 cm), and a sinus tract with contrast leakage anterior to the uterus.",
+            "changes_over_time": "The mildly enhancing lesion in segment VII appears unchanged in size. The previous thickening of the gastric and transverse portion of the duodenum is no longer visualized. A previous process has progressed with three areas of focal inflammatory processes noted."
+        }
+    ]
+}

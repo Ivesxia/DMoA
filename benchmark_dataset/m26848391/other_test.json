@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Percutaneous cholecystostomy tube placement",
+            "date": "Not specified",
+            "findings": "Acute cholecystitis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy (via culture)",
+            "date": "Not specified",
+            "findings": "This culture contains mixed bacterial types (>=3). Any growth of P.aeruginosa, S.aureus, and beta hemolytic streptococci will be reported. If these bacteria are not reported, they are not present in this culture.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cystoscopy",
+            "date": "Not specified",
+            "findings": "Atrophic vaginitis and hypersensitive bladder",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EMG",
+            "date": "Not specified",
+            "findings": "Polyneuropathy verified with clear etiology",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

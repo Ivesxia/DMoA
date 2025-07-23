@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Lung volumes are improved with residual mild elevation of the right hemidiaphragm. Mild pulmonary edema has resolved. Right pleural effusion is small if any. There is no pneumothorax. Mediastinal and cardiac contour are normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO FUNGUS ISOLATED.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "6.28 units.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

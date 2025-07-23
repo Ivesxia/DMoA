@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Calcified granuloma in the right lower lobe, without further nodule or mass. No effusion, no consolidation. Liver diffusely low in attenuation, compatible with fatty infiltration. No focal liver lesions. Gallbladder decompressed, without cholelithiasis or CT evidence of acute cholecystitis. Normal spleen, pancreas, kidneys, and adrenal glands. Small hiatal hernia. Appendix abnormal measuring up to 11 mm with periappendiceal fat stranding and no opacification of the appendix. No free air or periappendiceal fluid collection. 2 cm left adnexal cyst noted, unchanged.",
+            "changes_over_time": "2 cm left adnexal cyst is unchanged since prior study."
+        }
+    ]
+}

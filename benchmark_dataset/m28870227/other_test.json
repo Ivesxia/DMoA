@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Blood cultures",
+            "date": "Not specified",
+            "findings": "Blood cultures negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis (UA)",
+            "date": "Not specified",
+            "findings": "UA showed 30K whites with bacteria.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CRP (C-reactive protein) test",
+            "date": "Not specified",
+            "findings": "CRP was downtrending from prior at 30 today compared to > 100 previously.",
+            "changes_over_time": "CRP decreased from > 100 to 30."
+        },
+        {
+            "procedure_name": "Orthopedic consultation",
+            "date": "Not specified",
+            "findings": "Imaging showed stable size of fluid collection compared to prior; low suspicion for acute change or need for surgical intervention.",
+            "changes_over_time": "The only difference noted was a thicker wall around the fluid collection compared to prior."
+        }
+    ]
+}

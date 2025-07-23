@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "HIV-1 RNA Test",
+            "date": "Not specified",
+            "findings": "HIV-1 RNA is not detected. Performed using the ___ HIV-1 Test v2.0.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Physical Examination",
+            "date": "Not specified",
+            "findings": "Well appearing, obese man in obvious discomfort; severe tenderness in RUQ; mild scattered discrete erythematous papules over trunk and extremities.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

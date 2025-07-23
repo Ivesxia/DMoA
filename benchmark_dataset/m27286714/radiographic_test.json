@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Liver normal in size and echotexture with smooth surface contour, no focal liver mass. Main portal vein patent. Trace fluid present. No biliary dilation, CBD measures 0.4 cm. Gallbladder distended with mild wall-thickening and edema, multiple echogenic mobile gallstones present. No obstructing stone, no pericholecystic fluid. Positive sonographic Murphy sign. Spleen enlarged measuring 15 cm, increased from prior 12.5 cm. Right kidney 11.4 cm, left kidney 11.7 cm with a 4 x 4.5 x 3.9 cm simple cortical cyst in the upper pole, and a 0.9 x 1 x 0.8 cm simple cortical cyst in the lower pole of left kidney. No hydronephrosis.",
+            "changes_over_time": "Spleen enlarged from prior measurement of 12.5 cm to 15 cm."
+        }
+    ]
+}

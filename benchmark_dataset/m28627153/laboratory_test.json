@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Feces test for C. difficile toxin A & B",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The previously noted right small pleural effusion has resolved. There is a persistent small left pleural effusion which is not significantly changed. There is minimal atelectasis in the left lower lobe. A stone is identified in the gallbladder. The spleen, pancreas, adrenal glands, and left kidney are unremarkable. In the right kidney, there is a 1.1 cm hypodense lesion that is stable in size and likely represents a cyst. There is no retroperitoneal lymphadenopathy. Extensive diverticula are seen throughout the colon. There is minimal focal dilatation of the aorta to 2.5 cm in the infrarenal portion, unchanged. A colostomy is noted in the left lower quadrant.",
+            "changes_over_time": "Small residual collection in the left lower quadrant measured previously 5.7 x 3.4 cm, currently 4.7 x 2.7 cm. A small collection in the right lower quadrant decreased in size, currently measuring 2.8 x 2.1 cm, previously 3.5 x 2.2 cm."
+        }
+    ]
+}

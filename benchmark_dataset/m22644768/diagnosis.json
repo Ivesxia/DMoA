@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The diagnosis of appendicitis was supported by the patient's history of abdominal pain localized to the right lower quadrant (RLQ), associated tenderness upon physical examination, and imaging findings from the CT scan that showed a dilated appendix containing fluid and air, with the presence of an appendicolith and surrounding fat stranding."
+    }
+}

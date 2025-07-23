@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Grayscale and Doppler sonograms of bilateral subclavian veins showed normal flow in both veins. Normal flow and compressibility was observed in the left subclavian vein, internal jugular vein, axillary vein, and brachial vein. The cephalic vein was not compressible and had no flow within it. The proximal part of the left basilic vein was not compressible and showed no flow within it; the more distal portion of the basilic vein showed normal flow within it. Superficial edema was noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fecal Test for C. difficile",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

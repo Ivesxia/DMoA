@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Atelectasis at the lung bases; 3.0-cm septated hypodense lesion in segment IV of the liver likely consistent with a septated cyst; 0.9-cm hypodense lesion in the left kidney likely representing a simple cyst; thickened appendix measuring 8 mm with surrounding fat stranding; mild thickening of the cecal wall at the appendiceal orifice; multiple diverticula noted in the sigmoid colon.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

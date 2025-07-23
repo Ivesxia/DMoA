@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "At Plymouth: 248; at ___: 515",
+            "changes_over_time": "Increasing lipase levels, from 248 to 515."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "2.2",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "2",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "9",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

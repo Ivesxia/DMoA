@@ -1,0 +1,27 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "LIVER": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites.",
+                "BILE DUCTS": "There is no intrahepatic biliary dilation. The CHD measures 5 mm.",
+                "GALLBLADDER": "Cholelithiasis without gallbladder wall thickening.",
+                "PANCREAS": "The imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation.",
+                "SPLEEN": "Normal echogenicity, measuring 10.1 cm.",
+                "KIDNEYS": "Limited views of the right kidney show no hydronephrosis.",
+                "RETROPERITONEUM": "The visualized portions of aorta and IVC are within normal limits."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "BLOOD TEST",
+            "date": "Not specified",
+            "findings": {
+                "Hemoglobin": "8.6 mg/dL",
+                "Reference Range": "8.4 - 10.3 mg/dL"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

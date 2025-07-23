@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The lung bases are clear. The liver, spleen, adrenal glands, pancreas, gallbladder are unremarkable. Kidneys enhance equally and excrete contrast normally. There is no hydronephrosis in either kidney. There is diverticulosis of the colon. There is no free air, and no pathologically enlarged mesenteric or retroperitoneal lymph nodes. There is diverticulosis of the sigmoid colon, with stranding along the distal sigmoid consistent with acute diverticulitis. There is an adjacent extraluminal fluid collection in the deep pelvis containing a small amount of air measuring 2.9 x 3 cm.",
+            "changes_over_time": "Several prominent lymph nodes are noted, not present on the prior study, largest measuring 12 mm in short axis diameter on series 2, image 64 along the left pelvic side wall."
+        }
+    ]
+}

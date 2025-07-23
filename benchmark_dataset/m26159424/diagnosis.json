@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Gallstone pancreatitis",
+        "differential_diagnosis": "Non ST Elevation myocardial infarction, Hypertension, Anemia, Emphysema, Dyslipidemia",
+        "diagnostic_reasoning": "The patient exhibited signs of gallstone pancreatitis, including epigastric pain, nausea/vomiting, leukocytosis (WBC 20K), and imaging evidence of choledocolithiasis with a large CBD stone. The patient underwent an emergent ERCP that successfully removed the stone, confirming the diagnosis of gallstone pancreatitis."
+    }
+}

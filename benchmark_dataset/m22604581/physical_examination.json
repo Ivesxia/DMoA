@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.3°F",
+                "heart_rate": "129 bpm",
+                "blood_pressure": "129/63 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, no acute distress, mildly jaundiced",
+                "HEENT": "Sclera mildly icteric, MM dry, oropharynx clear",
+                "neck": "Supple, JVP not elevated, no LAD",
+                "lungs": "Clear to auscultation bilaterally, no wheezes, rales, ronchi",
+                "cardiovascular": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+                "abdomen": "Soft, mildly TTP in upper quadrants, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly",
+                "extremities": "Warm, well perfused, trace pedal edema bilaterally",
+                "skin": "No lesions or ecchymoses",
+                "neurological": "AAOx3, CNs intact, strength and sensation grossly intact",
+                "psychological": "Pleasant, appropriate"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "128 bpm",
+                "blood_pressure": "128/66 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

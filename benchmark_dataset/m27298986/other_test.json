@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic Cholecystectomy with Intra-op Cholangiogram",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Physical exam",
+            "date": "Not specified",
+            "findings": "Epigastric and left sided abdominal tenderness to palpation. Left great toe metatarsal redness, warmth, and swelling.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

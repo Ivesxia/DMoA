@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": {
+                "pleural effusions": "Trace pleural effusions are noted bilaterally.",
+                "liver": "The liver enhances homogeneously without suspicious enhancing masses.",
+                "biliary": "No intrahepatic or extrahepatic biliary duct dilation. The gallbladder demonstrates a fluid fluid level suggestive of biliary sludge. There is no cholelithiasis or evidence of ____.",
+                "pancreas": "Peripancreatic stranding, predominantly around the body of the pancreas, is consistent with known pancreatitis. There is no pancreatic duct dilatation. No peripancreatic fluid collections are seen. A 7 mm T2 hyperintensity in the neck of the pancreas likely represents a side branch IPMN. A smaller 5 mm T2 hyperintensity in the pancreatic tail is also noted.",
+                "spleen": "The spleen is normal in size and signal intensity.",
+                "adrenal glands": "The adrenal glands are normal in size and signal intensity.",
+                "kidneys": "A 10 mm lesion in the midpole in the left kidney demonstrates central enhancement. The lesion is T1 isointense without evidence of bulk or intravoxel fat. Bilateral renal cysts are noted.",
+                "gastrointestinal tract": "The stomach and intra-abdominal loops of small and large bowel are unremarkable without evidence of wall thickening or obstruction.",
+                "lymph nodes": "No mesenteric or retroperitoneal lymphadenopathy.",
+                "vasculature": "The portal and hepatic veins are patent. There is no abdominal aortic aneurysm.",
+                "osseoous structures": "The bones demonstrate normal signal intensity. The abdominal wall is unremarkable."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

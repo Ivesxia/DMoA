@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC 13 (79% Neutrophils)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit (Hct)",
+            "date": "Not specified",
+            "findings": "Hct 50.9",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate 1.8",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 949",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "AST/ALT",
+            "date": "Not specified",
+            "findings": "AST 75, ALT 116",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRSA Screening",
+            "date": "Not specified",
+            "findings": "No MRSA isolated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Worsening bilateral pulmonary opacifications, could reflect pulmonary edema or superimposed ARDS.",
+            "changes_over_time": "Compared with a previous study, indicating worsening."
+        }
+    ]
+}

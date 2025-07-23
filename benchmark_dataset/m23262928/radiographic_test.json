@@ -1,0 +1,23 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung": "Visualized lung fields are within normal limits; no evidence of pleural or pericardial effusion.",
+                "liver": "Homogenous attenuation; no focal lesions or biliary dilatation; gallbladder is collapsed.",
+                "pancreas": "Normal attenuation; no focal lesions or pancreatic ductal dilatation.",
+                "spleen": "Normal size and attenuation; no focal lesions.",
+                "adrenals": "Normal in size and shape.",
+                "kidneys": "Normal and symmetric size with normal nephrogram; a 3.7 x 3.5 cm simple cyst in the lower pole of the left kidney; no perinephric abnormality.",
+                "gastrointestinal": "Severe inflammation of the sigmoid colon with mucosal hyperemia, adjacent fat stranding, and wall thickening; adjacent lobulated fluid collection concerning for an abscess (measuring 4.4 x 3.6 x 3.5 cm).",
+                "bladder": "Unremarkable; no free fluid in the pelvis.",
+                "prostate": "Dense calcifications identified.",
+                "vascular": "No abdominal aortic aneurysm; extensive atherosclerotic disease noted.",
+                "bones": "No evidence of worrisome osseous lesions or acute fracture; lumbar spinal degenerative changes are mild-to-moderate.",
+                "soft tissue": "An umbilical hernia containing fat is noted."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "heart_rate": "81 bpm",
+                "blood_pressure": "117/56 mmHg",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "cardiovascular": "Regular rate and rhythm, S1 S2",
+                "lungs": "Clear to auscultation bilaterally",
+                "abdominal": "Soft, non-distended, tenderness to palpation in suprapubic and periumbilical region with palpable mass, no rebound or guarding",
+                "extremities": "Warm, well-perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

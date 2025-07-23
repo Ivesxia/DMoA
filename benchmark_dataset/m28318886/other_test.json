@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT-guided placement of pigtail catheter",
+            "date": "Not specified",
+            "findings": "Fluid collection/phlegmon in the right lower quadrant; large amount of phlegmon and fluid measuring up to 5.7 x 6.1 cm suggestive of a contained perforated appendicitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Diverticulosis of the sigmoid colon without evidence of wall thickening or fat stranding.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

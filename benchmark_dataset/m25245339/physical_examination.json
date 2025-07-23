@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.4°F",
+                "heart_rate": "108 bpm",
+                "blood_pressure": "124/75 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "A&Ox3, mildly uncomfortable male, in no acute distress",
+                "head_ears_eyes_nose_throat": "No scleral icterus, no palpable lymphadenopathy, moist mucous membranes",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes, rales, or rhonchi",
+                "cardiovascular": "Normal rate and rhythm, no murmurs, rubs, or gallops",
+                "abdominal": "Soft, with involuntary guarding in right lower quadrant, exquisite tenderness to palpation in right lower quadrant, + rebound tenderness in right lower quadrant, + McBurney's point tenderness",
+                "extremities": "Warm, well-perfused bilaterally, no cyanosis, clubbing, or edema",
+                "neurologic": "Moves all limbs spontaneously, no focal deficits"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

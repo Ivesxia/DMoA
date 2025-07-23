@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "heart_rate": "96 bpm",
+                "blood_pressure": "155/72 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "In no acute distress; non-toxic",
+                "heent": "No scleral icterus",
+                "cardiovascular": "Regular rate and rhythm",
+                "lungs": "Clear to auscultation bilaterally",
+                "abdomen": "Soft, non-tender, non-distended, tender to palpation in right lower quadrant, positive rebound tenderness; no guarding; positive Rovsing's sign",
+                "extremities": "Warm, well-perfused, palpable pulses"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

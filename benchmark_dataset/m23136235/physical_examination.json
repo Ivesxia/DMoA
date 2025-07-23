@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2°F",
+                "heart_rate": "58 bpm",
+                "blood_pressure": "140/71 mmHg",
+                "respiratory_rate": "16 bpm",
+                "SaO2": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and oriented x3, scleral icterus",
+                "HEENT": "Extraocular movements intact, moist mucous membranes",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/rubs/gallops",
+                "pulmonary": "Clear to auscultation bilaterally",
+                "abdomen": "Soft, tender to palpation in the epigastrium, no rebound, no guarding",
+                "extremities": "Warm, well perfused, distal pulses intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

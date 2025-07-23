@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The uterus measures 6.3 x 2.5 x 3.7 cm. The endometrial thickness is 2 mm. The ovaries are normal in appearance and show normal blood flow. There is trace physiologic free fluid in the pelvis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

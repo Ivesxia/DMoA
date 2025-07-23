@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Stool Culture",
+            "date": "Not specified",
+            "findings": "NO SALMONELLA OR SHIGELLA FOUND.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "No relevant change compared to the previous radiograph, size of the cardiac silhouette is in the normal range, no evidence of overhydration, no evidence of focal parenchymal opacities suggestive of pneumonia, no evidence of pleural effusions or pneumothorax, contrast material in the colon, degenerative changes of the right shoulder.",
+            "changes_over_time": "No relevant change compared to the previous radiograph."
+        }
+    ]
+}

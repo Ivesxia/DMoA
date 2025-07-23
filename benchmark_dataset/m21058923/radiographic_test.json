@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Minimal lower lung atelectasis noted. Otherwise lungs are clear. No pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal. Imaged osseous structures are intact. No free air below the right hemidiaphragm is seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Acute onset of abdominal pain for 6 hours, associated with nausea and vomiting twice at home. Symptoms have improved, with currently mild abdominal pain and no nausea.",
+        "past_medical_history": "HTN, BPH s/p TURP, hx mural thrombus, chronic defect",
+        "family_history": "Brother died of heart problem, sister died of old age; denies family history of cancer or diabetes.",
+        "social_history": "Chronic nonproductive smoker's cough; otherwise not specified."
+    }
+}

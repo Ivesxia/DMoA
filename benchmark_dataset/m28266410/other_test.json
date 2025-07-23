@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Left cervical lymph node biopsy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lower extremity venous Doppler ultrasound",
+            "date": "Not specified",
+            "findings": "Negative for DVT",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

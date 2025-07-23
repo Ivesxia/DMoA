@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "101.0°F",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "118/84 mmHg",
+                "respiratory_rate": "12 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "neurological": "Alert and oriented x3",
+                "abdominal": "Tenderness to palpation in suprapubic and LLQ areas, mild guarding in LLQ, no rebound tenderness",
+                "gastrointestinal": "Soft abdomen, bowel sounds present",
+                "hematological": "No gross or occult blood",
+                "mucosa": "Tacky mucosal membranes",
+                "extremities": "No peripheral edema",
+                "skin": "Warm and well perfused",
+                "other": "Obese, external hemorrhoids present"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

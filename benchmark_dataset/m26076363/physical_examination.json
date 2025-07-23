@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3 °F",
+                "blood_pressure": "142/80 mmHg",
+                "heart_rate": "81 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96%",
+                "oxygen_delivery": "Room Air"
+            },
+            "relevant_findings": {
+                "general": "Alert and in no acute distress.",
+                "eyes": "Anicteric, normal conjunctivae. Pupils equally round.",
+                "ent": "Ears and nose without visible erythema, masses, or trauma. Oropharynx without visible lesion, erythema, or exudate.",
+                "cardiovascular": "Heart regular, no murmur, no S3, no S4. No peripheral edema.",
+                "respiratory": "Lungs clear to auscultation with good air movement bilaterally. Breathing is non-labored.",
+                "gastrointestinal": "Abdomen soft, obese habitus, non-distended, RUQ tender to palpation. Bowel sounds present. No hepatomegaly or splenomegaly.",
+                "musculoskeletal": "Neck supple, moves all extremities, strength grossly full and symmetric bilaterally in all limbs.",
+                "skin": "No rashes or ulcerations noted.",
+                "neurological": "Face symmetric, gaze conjugate with EOMI, speech fluent. Sensation to light touch grossly intact throughout.",
+                "psychiatric": "Good insight and judgment. Alert and oriented. Normal memory. Pleasant affect."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

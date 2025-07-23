@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "RUQ abdominal pain with associated chills, nausea, vomiting, and diarrhea.",
+        "history_of_present_illness": "Patient is an ___ year old male who presented with symptoms exacerbated by deep breaths. The pain has been persistent since yesterday when he returned from ___ and was started on oral antibiotics by a local MD.",
+        "past_medical_history": "GERD, HTN, HLD, T2DM, chronic low back pain.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

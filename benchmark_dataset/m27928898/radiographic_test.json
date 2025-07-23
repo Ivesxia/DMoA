@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is markedly thickened, measuring up to 13 mm, with significant fat stranding adjacent to the appendix and a small quantity of free fluid in the right paracolic gutter. No drainable fluid collection is present, and there is no evidence of perforation or free air in the abdomen. The liver, spleen, pancreas, adrenal glands, kidneys, stomach, small bowel, and colon are grossly normal. No pathologically enlarged mesenteric or retroperitoneal lymph nodes are seen. In the bone window, there are bilateral L5-S1 pars interarticularis defects with associated grade 2 anterolisthesis of L5 on S1, severe loss of the disc space height at L5-S1 with endplate sclerosis and disc vacuum phenomenon.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

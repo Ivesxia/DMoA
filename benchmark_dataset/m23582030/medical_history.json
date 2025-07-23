@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Lower abdominal pain",
+        "history_of_present_illness": "The pain started this morning and had been severe earlier; the patient experienced one episode of emesis in the afternoon. He reported passing flatus and had a loose non-bloody bowel movement after 5 days without one, resulting in some pain relief. Upon presentation to the ED, his abdominal pain had subsided.",
+        "past_medical_history": "1. Coronary artery disease s/p MIx2, 2. CABG, 3. Hypertension, 4. Hyperlipidemia, 5. Chronic renal insufficiency, 6. Gout, 7. Benign prostatic hyperplasia, 8. Chronic systolic heart failure, 9. Non-sustained ventricular tachycardia, 10. Right hip fracture - underwent ORIF, 11. Hiatal hernia - bowel resection, 12. Right inguinal hernia - repaired",
+        "family_history": "Family history of diabetes and colon cancer",
+        "social_history": "Not specified"
+    }
+}

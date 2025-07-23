@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Afebrile",
+                "heart_rate": "38-55 bpm",
+                "blood_pressure": "VSS",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "A&O, appears uncomfortable, asking for pain medicine, intermittently tearful",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "CV": "RRR, No M/G/R",
+                "pulmonary": "Clear to auscultation b/l, No W/R/R",
+                "abdominal": "Soft, nondistended, +TTP which is worst in the RUQ, ___ sign. No rebound, no guarding. No masses palpated. +Diastasis recti",
+                "extremities": "No ___ edema, ___ warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

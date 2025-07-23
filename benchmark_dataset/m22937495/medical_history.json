@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain.",
+        "history_of_present_illness": "Pain has been present for 3 days, starting after a sausage in the morning. It was crampy and across the upper abdomen. He felt improved after pain medication and was discharged to home. A recurrence of upper abdominal pain occurred after eating a cookie with breakfast yesterday, which became more prominent.",
+        "past_medical_history": "DM, HTN, HLD, psoriasis.",
+        "family_history": "Mother died of breast cancer; Father had CAD; Brother had skin cancer.",
+        "social_history": "Not specified."
+    }
+}

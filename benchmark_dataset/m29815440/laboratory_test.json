@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ESR and CRP",
+            "date": "Not specified",
+            "findings": "ESR and CRP were noted to be elevated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial culture",
+            "date": "Not specified",
+            "findings": "This culture contains mixed bacterial types (>=3). Growth of P.aeruginosa, S.aureus and beta hemolytic streptococci will be reported if present.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

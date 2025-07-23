@@ -1,0 +1,88 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified.",
+            "findings": {
+                "small bilateral pleural effusions": "slightly larger on the right",
+                "liver": {
+                    "signal_intensity": "normal",
+                    "contour": "normal",
+                    "lesions": {
+                        "number": "multiple",
+                        "size_largest": "10 mm",
+                        "location": "segment 8",
+                        "nature": "cysts and/or hamartomas"
+                    },
+                    "suspicious_lesions": "none identified",
+                    "arterial_enhancement": {
+                        "size": "2.3 cm",
+                        "location": "segment 4B",
+                        "normalization": "on delayed sequences",
+                        "description": "most likely related to perfusion anomaly"
+                    }
+                },
+                "biliary_tree_dilatation": "mild",
+                "CBD": {
+                    "measurement": "7 mm",
+                    "description": "tapers normally without obstructing stone"
+                },
+                "gallbladder": {
+                    "distension": {
+                        "dimensions": "13 by 4.4 cm",
+                        "wall_edema": "marked",
+                        "gallstones": "multiple (at least 7)",
+                        "largest_stone": {
+                            "size": "12 x 15 mm",
+                            "location": "gallbladder neck"
+                        },
+                        "surrounding_edema": "small amount of"
+                    }
+                },
+                "free_fluid": {
+                    "location": "pericholecystic, perihepatic and perisplenic",
+                    "amount": "small"
+                },
+                "spleen": {
+                    "size": "10.8 cm",
+                    "description": "not enlarged"
+                },
+                "renal_glands": "unremarkable",
+                "pancreas": {
+                    "signal_intensity": "normal",
+                    "mass": "none identified",
+                    "duct_dilatation": "none"
+                },
+                "renal_cysts": {
+                    "location": "bilateral cortical and parapelvic",
+                    "size_largest": "10 mm",
+                    "location_largest": "inferior pole of left side"
+                },
+                "lymphadenopathy": "none significant",
+                "vertebral_bodies": {
+                    "lesions": {
+                        "type": "rounded T2 hyperintense",
+                        "number": "multiple",
+                        "size_largest": "10 x 12 mm",
+                        "locations": [
+                            "T8",
+                            "T11",
+                            "L3"
+                        ],
+                        "nature": "most likely hemangiomas"
+                    }
+                }
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified.",
+            "findings": {
+                "result": "MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES)",
+                "contamination": "consistent with skin and/or genital contamination"
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

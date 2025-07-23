@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level of 674 (high)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "Potassium level of 3.2 (low)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is normal in echogenicity. No intrahepatic biliary duct dilatation. The gallbladder is normal with gallstones. Portal vein is patent. Two small cysts in the left lobe of the liver measured 9 and 8 mm. No peripancreatic fluid collections.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

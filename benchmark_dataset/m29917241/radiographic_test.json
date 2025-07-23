@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Liver is homogeneous in echotexture without focal mass identified. The main portal vein is patent. Intrahepatic bile ducts are within normal limits. Common duct measures 3 mm. Gallbladder is unremarkable in appearance, without gallbladder wall thickening, pericholecystic fluid, or gallstones. Pancreas is grossly unremarkable in appearance. Spleen is not enlarged measuring 7.2 cm. Left kidney measures 10.6 cm with no hydronephrosis. Right kidney measures 11.8 cm with no hydronephrosis. A wedge-shaped area of increased echogenicity is noted along the upper pole, likely representing a small parenchymal scar, chronic in etiology.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

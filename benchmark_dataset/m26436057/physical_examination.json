@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5 °F",
+                "heart_rate": "57 bpm",
+                "blood_pressure": "193/85 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Awake, alert, oriented.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, rubs, or gallops.",
+                "lungs": "Clear to auscultation bilaterally.",
+                "abdomen": "Soft, benign, no masses or organomegaly.",
+                "extremities": "No deformity or edema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

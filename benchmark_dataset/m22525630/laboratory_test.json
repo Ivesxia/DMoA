@@ -1,0 +1,38 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Visualized lung fields are within normal limits. No evidence of pleural or pericardial effusion.",
+                "abdominal_findings": {
+                    "hepatobiliary": "The liver demonstrates homogenous attenuation throughout with no evidence of focal lesions or biliary dilatation. Gallbladder is normal.",
+                    "pancreas": "Normal attenuation throughout, with no focal lesions or ductal dilatation. No peripancreatic stranding.",
+                    "spleen": "Normal size and attenuation throughout, with no focal lesions.",
+                    "adrenals": "Normal in size and shape.",
+                    "urinary": "Normal and symmetric kidneys with normal nephrogram. No focal lesions or hydronephrosis.",
+                    "gastrointestinal": "Stomach unremarkable. Small bowel loops normal. Colon and rectum within normal limits. Appendix abnormal with mucosal hyperemia, fluid-filled and dilated up to 11 mm with mild periappendiceal fat stranding and fluid. No definite appendicolith. No free air or drainable collection.",
+                    "pelvis": "Urinary bladder and distal ureters unremarkable. Trace free fluid in the pelvis.",
+                    "reproductive_organs": "Unremarkable uterus. Right adnexal cyst measuring 2.2 cm noted.",
+                    "lymph_nodes": "No retroperitoneal or mesenteric lymphadenopathy.",
+                    "vascular": "No abdominal aortic aneurysm or atherosclerotic disease.",
+                    "bones": "No evidence of worrisome osseous lesions or acute fracture.",
+                    "soft_tissues": "Abdominal and pelvic wall within normal limits."
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation Test",
+            "date": "Not specified",
+            "findings": "34.1 sec",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

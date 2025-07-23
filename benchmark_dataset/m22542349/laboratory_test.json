@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild dependent bibasilar atelectasis noted. No evidence of pleural or pericardial effusion. Mild fat stranding around a segment of the mid appendix. Overall caliber of the appendix remains within normal limits, and there is no significant wall edema or hyperemia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test (unspecified)",
+            "date": "Not specified",
+            "findings": "8.9 mg/dL (reference range 8.4 - 10.3 mg/dL); NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

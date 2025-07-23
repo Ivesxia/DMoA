@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "102.7°F",
+                "heart_rate": "117 bpm",
+                "blood_pressure": "159/99 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "Patient in obvious distress due to pain.",
+                "heent": "No scleral icterus. Mucous membranes dry.",
+                "cardiovascular": "Regular rate and rhythm.",
+                "pulmonary": "Unlabored breathing. Bilateral wheezes heard upon expiration.",
+                "abdominal": "Soft, nondistended, tenderness over right costal margin, rebound and guarding present.",
+                "extremities": "Warm without edema. Varicose veins noted."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.___.2",
+                "heart_rate": "102-160",
+                "blood_pressure": "111/68-160/86",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "95-99% RA"
+            },
+            "relevant_findings": {
+                "general": "WN/WD, NAD, AAO",
+                "HEENT": "NC/AT, EOMI, PERRL/A, Anicteric, OP/NP mucosa normal, Tongue midline, Palate symmetric, Neck supple/NT/without mass, Trachea midline, Thyroid nl size/contour, mild scleral icterus",
+                "respiratory": "CTA/P, excursion normal, No fremitus, No egophony, No spine/CVAT",
+                "cardiovascular": "RRR, No m/r/g, No JVD, PMI nl, No edema, Peripheral pulses nl, irregular irreg, weak peripheral pulses, mild B/L edema and venous stasis changes",
+                "GI": "Soft, NT, ND, No mass/HSM, No hernia, mild tenderness with palpation RUQ, negative ___ sign, obese, no guarding or rebound tenderness",
+                "neurological": "Strength intact/symmetric, Sensation intact/ symmetric, Reflexes nl, No facial asymmetry, Cognition intact, Cranial nerves intact",
+                "musculoskeletal": "No clubbing, No cyanosis, No edema, Gait nl, No tenderness, Tone/align/ROM nl, Palpation nl, Nails nl",
+                "lymph_nodes": "Cervical nl, Supraclavicular nl, Axillary nl, Inguinal nl",
+                "skin": "No rashes/lesions/ulcers, No induration/nodules/tightening",
+                "psychiatric": "Nl judgment/insight, Nl memory, Nl mood/affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

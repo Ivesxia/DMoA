@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right lower quadrant pain",
+        "history_of_present_illness": "Patient was in usual state of health until yesterday evening when he developed stomach pains. The pain migrated to the right lower quadrant (RLQ). He woke up with pain in the early morning and presented to his PCP. A CT evaluation was conducted which reported possible appendicitis. The patient denies fevers or chills, notes mild anorexia without nausea or vomiting, has been passing flatus, and has normal, non-bloody, non-melanic stools. Denies unintentional weight loss.",
+        "past_medical_history": "Colon cancer status post partial colectomy and chemotherapy, history of thrombocytopenia, basal cell carcinoma, Peyronie's disease, possible amebic colitis.",
+        "family_history": "No history of inflammatory bowel disease (IBD).",
+        "social_history": "Professor, traveled for filming."
+    }
+}

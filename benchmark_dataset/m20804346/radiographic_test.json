@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT",
+            "date": "Not specified",
+            "findings": "The aorta is normal in contour without evidence of dissection. No concerning filling defect in the pulmonary arteries or branches is seen to suggest acute pulmonary embolism. No pleural or pericardial effusion is seen. No mediastinal or axillary lymphadenopathy. Prominent right hilar lymph node measures 0.9 cm in short axis. Mild bibasilar subsegmental atelectasis. Coarse 7-mm calcification in the right breast. Four intrahepatic lesions consistent with hemangiomas. The largest lesion in segment VII measures 6.1 x 3.6 cm. The gallbladder is distended with layering stones and minimal pericholecystic fluid, mild central intrahepatic biliary dilatation. The common bile duct is dilated to 1.1 cm with subtle high density possibly indicating intraluminal sludge/stone. The pancreas is enlarged without discrete mass, with prominent ducts and peripancreatic fluid. No evidence of pancreatic necrosis or drainable fluid collection. Mesenteric free fluid consistent with complex fluid is noted. The spleen, adrenal glands, and kidneys are unremarkable. Sigmoid and rectum are relatively collapsed. Distended bladder with no remarkable findings. Mild degenerative changes at lumbosacral junction with intervertebral disc space narrowing at L5/S1.",
+            "changes_over_time": "The pancreas is enlarged in size compared to the previous study."
+        }
+    ]
+}

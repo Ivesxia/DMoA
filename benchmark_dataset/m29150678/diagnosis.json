@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient's symptoms included periumbilical pain that later shifted to the right lower quadrant, tenderness in that area, fever, and positive signs like rebound tenderness and Rovsing's sign, all of which are consistent with acute appendicitis. Imaging (CT of abdomen and pelvis) showed an 11 mm dilated appendix with mild periappendiceal stranding, further supporting the diagnosis."
+    }
+}

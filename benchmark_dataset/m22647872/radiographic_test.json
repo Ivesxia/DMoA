@@ -1,0 +1,29 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W & W/O CONTRAST, ADDL SECTIONS",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Small left pleural effusion with adjacent compressive atelectasis; heart is enlarged; no pericardial effusion.",
+                "abdomen": {
+                    "hepatobiliary": "Liver demonstrates homogenous attenuation; no focal lesions; no biliary dilatation; gallbladder normal.",
+                    "pancreas": "9.3 x 7 x 10 cm multiloculated cystic mass in the head of the pancreas, stable in size; dilatation of the main pancreatic duct; atrophy of remaining pancreatic parenchyma, similar to prior; no static stranding or peripancreatic fluid collection.",
+                    "spleen": "Normal size and attenuation; no focal lesions.",
+                    "adrenals": "Normal size and shape.",
+                    "urinary": "Normal symmetric size kidneys; 5 mm nonobstructing stone in the lower pole of the right kidney; no hydronephrosis or other abnormalities.",
+                    "gastrointestinal": "Unremarkable stomach; normal caliber and wall thickness of small bowel; normal colon and rectum; normal appendix.",
+                    "pelvis": "Unremarkable urinary bladder and distal ureters; no free fluid.",
+                    "reproductive_organs": "Normal prostate and seminal vesicles.",
+                    "lymph_nodes": "No lymphadenopathy.",
+                    "vascular": "No abdominal aortic aneurysm; moderate atherosclerotic disease.",
+                    "bones": "No evidence of worrisome osseous lesions or acute fracture; severe disc space narrowing at L5-S1.",
+                    "soft_tissues": "Abdominal and pelvic wall within normal limits."
+                }
+            },
+            "changes_over_time": {
+                "pancreas": "Cystic mass appears stable in size.",
+                "main_pancreatic_duct": "Dilatation is similar to prior."
+            }
+        }
+    ]
+}

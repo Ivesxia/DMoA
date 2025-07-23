@@ -1,0 +1,31 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lungs": "Visualized lung fields are within normal limits. No evidence of pleural or pericardial effusion.",
+                "liver": "Homogenous attenuation throughout. No evidence of focal lesions or biliary dilatation. Gallbladder within normal limits.",
+                "pancreas": "Normal attenuation throughout. No evidence of focal lesions or pancreatic ductal dilatation.",
+                "spleen": "Normal size and attenuation throughout.",
+                "adrenals": "Normal in size and shape.",
+                "kidneys": "Normal and symmetric size with normal nephrogram. No focal renal lesions or hydronephrosis.",
+                "appendix": "Enlarged and hyperemic measuring up to 9 mm with minimal adjacent fat stranding, consistent with acute uncomplicated appendicitis.",
+                "gastrointestinal": "Stomach unremarkable. Large duodenum diverticulum. Normal caliber, wall thickness, and enhancement of small bowel loops.",
+                "pelvis": "Urinary bladder and distal ureters unremarkable. No free fluid in the pelvis.",
+                "reproductive organs": "Unremarkable.",
+                "lymph nodes": "No lymphadenopathy.",
+                "vascular": "No abdominal aortic aneurysm or atherosclerotic disease.",
+                "bones": "No evidence of worrisome osseous lesions or acute fracture.",
+                "soft tissues": "Abdominal and pelvic wall within normal limits."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

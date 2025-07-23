@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Demonstrated pneumobilia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ABDOMEN U.S. (COMPLETE STUDY)",
+            "date": "Not specified",
+            "findings": "The liver is normal in echotexture, gallbladder significantly distended with diffuse wall edema, single 1.2 cm gallstone lodged in the neck of the gallbladder, no pericholecystic fluid, common hepatic duct normal measuring 6 mm, right kidney normal, limited visualization of left kidney with 4.0 cm cyst, two sub-centimeter echogenic foci in mid left kidney likely representing renal stones, no ascites, proximal abdominal aorta measuring 3 cm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

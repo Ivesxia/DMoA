@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient has a 3-day history of abdominal pain, which started as an intermittent cramping sensation over the periumbilical area with moderate intensity. The pain worsened over the following days to severe intensity and localized to the right lower quadrant. It improved when lying down and was exacerbated when lying on the right side. The patient also experienced nausea, chills, diaphoresis, fatigue, and dizziness.",
+        "past_medical_history": "Ulcerative colitis, multiple sclerosis (in remission), and depression.",
+        "family_history": "Mother with autoimmune hepatitis; otherwise, no history of inflammatory bowel disease or colon cancer.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "147/91 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "lungs": "Clear to auscultation bilaterally",
+                "cardiac": "Regular rate and rhythm, S1/S2",
+                "abdomen": "Soft, minimally tender diffusely, distended, no guarding, no rebound",
+                "rectal": "Normal tone, no gross blood, guaiac negative"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

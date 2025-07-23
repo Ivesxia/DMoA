@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Stress Test",
+            "date": "Not specified",
+            "findings": "Average exercise capacity with no ischemic changes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Foley Catheterization",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Percutaneous Cholecystostomy",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

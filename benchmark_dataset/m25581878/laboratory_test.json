@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Endoscopic sphincterotomy and papillotomy",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ABDOMEN (SUPINE & ERECT)",
+            "date": "Not specified",
+            "findings": "Slight migration of the pancreatic duct stent inferolaterally, to the region of the cecum. Retained oral contrast in the right colon. No free air is seen in the abdomen. Phleboliths and vascular calcifications are present in the lower pelvis. Unchanged severe degenerative disease of the lower lumbar spine and bilateral hip joints. Bilateral pleural effusions, right greater than left, with associated airspace disease.",
+            "changes_over_time": "Slight migration of the pancreatic duct stent was noted compared to previous radiographs."
+        }
+    ]
+}

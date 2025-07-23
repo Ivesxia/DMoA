@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Hct 40.2, plt 224",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "ALT 453, AST 195, AP 143, TB 2.6",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI Liver with and without contrast",
+            "date": "Not specified",
+            "findings": "Unremarkable hepatic contours, no steatosis or masses, gallbladder with multiple gallstones, normal common bile duct.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

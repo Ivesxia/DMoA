@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.3°F",
+                "heart_rate": "98 bpm",
+                "blood_pressure": "107/60 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "Laying on stretcher, uncomfortable but NAD, A&O, conversive and appropriate",
+                "cardiovascular": "RRR, No R/G/M",
+                "respiratory": "Lungs CTAB",
+                "abdominal": "Soft, non-distended, well healed laparotomy incision. Exquisitely tender bilateral infraumbilically.",
+                "extremities": "WWP, no peripheral edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

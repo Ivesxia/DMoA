@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Microbiology Culture",
+            "date": "Not specified",
+            "findings": "STREPTOCOCCUS ANGINOSUS (MILLERI) GROUP, MIXED BACTERIAL FLORA",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolytes",
+            "date": "Not specified",
+            "findings": "-5.0 mEq/L (abnormal)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI (ABDOMEN & PELVIS) W&W/O CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Normal in shape and contour, no lesions.",
+                "spleen": "Upper limits of normal size at approximately 14 cm.",
+                "kidneys": "Normal size with perinephric fat stranding",
+                "appendix": "Diameter at upper limits of normal, measuring 7 mm with fluid.",
+                "fluid_collection": "Decreased size from 92 x 37 mm to 69 x 25 mm; previous CT comparison indicates decrease in size of multiple interloop fluid collections."
+            },
+            "changes_over_time": "Fluid collection decreased in size; specific measurements provided."
+        }
+    ]
+}

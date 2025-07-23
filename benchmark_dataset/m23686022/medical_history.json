@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "New onset abdominal pain",
+        "history_of_present_illness": "Symptoms began yesterday afternoon; the patient reports one episode of vomiting last night, nonbloody, and anorexia.",
+        "past_medical_history": "History of hypertension, hyperlipidemia, Grave's disease status post thyroid ablation, and cecal colitis treated with antibiotics.",
+        "family_history": "Breast cancer and atrial fibrillation in mother, thyroid cancer in brother.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase >1000",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "AST",
+            "date": "Not specified",
+            "findings": "AST 141",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ALT",
+            "date": "Not specified",
+            "findings": "ALT 136",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ALP",
+            "date": "Not specified",
+            "findings": "ALP 157",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total Bilirubin (TBil)",
+            "date": "Not specified",
+            "findings": "TBil 1.1",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin (Hgb)",
+            "date": "Not specified",
+            "findings": "Hgb 14.5",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "White Blood Cell Count (WBC)",
+            "date": "Not specified",
+            "findings": "WBC 9.2",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Portable Abdominal Radiograph",
+            "date": "Not specified",
+            "findings": "Gas seen in the small and large bowel, no abnormally dilated loops of bowel, no gross pneumoperitoneum, bibasilar atelectasis, osseous structures unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EKG",
+            "date": "Not specified",
+            "findings": "Slight ST elevation in V1 and V2, stable from admission.",
+            "changes_over_time": "Unchanged from admission"
+        },
+        {
+            "procedure_name": "Troponin",
+            "date": "Not specified",
+            "findings": "Trop <0.01",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

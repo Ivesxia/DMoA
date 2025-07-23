@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain and vomiting.",
+        "history_of_present_illness": "Vomiting began upon arrival to the hospital on the afternoon of ___, with reports of feeling \"lousy\" and inability to tolerate POs. He had ongoing symptoms of altered mental status prior to this presentation. Symptoms are noted to have escalated after recent discharge when he received his first dose of flagyl.",
+        "past_medical_history": "Type II diabetes mellitus on insulin, CVA in early ___ with residual speech hesitancy and mild left weakness, hypertension, chronic venous insufficiency, discogenic low back pain status post distant spinal surgery x 2, obesity, history of alcohol abuse, dyslipidemia, left toe ulcer status post percutaneous angioplasty of left popliteal artery, tibial-peroneal trunk, and anterior tibial artery.",
+        "family_history": "Has a twin brother also with diabetes.",
+        "social_history": "Not specified."
+    }
+}

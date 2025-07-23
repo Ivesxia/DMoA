@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Low abdominal pain for several days.",
+        "history_of_present_illness": "The patient experienced low-grade abdominal pain for approximately 2 weeks, which became intolerable in the last few days. Symptoms persisted leading to his ED visit.",
+        "past_medical_history": "1. Coronary artery disease status post LAD stent. 2. Hypertension. 3. History of internal hemorrhoids. 4. Barrett's esophagus.",
+        "family_history": "Father had heart disease; mother had brain cancer. No history of colon cancer or inflammatory bowel disease.",
+        "social_history": "Tobacco use disorder."
+    }
+}

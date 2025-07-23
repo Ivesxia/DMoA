@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "blood_pressure": "122/80 mmHg",
+                "pulse": "72 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% on room air",
+                "weight": "159 lbs"
+            },
+            "relevant_findings": {
+                "general": "Very pleasant, well-appearing female who is clutching her abdomen in pain.",
+                "cardiovascular": "Regular rate and rhythm with no murmurs appreciated.",
+                "heent": "Conjunctivae mildly pale. No oral lesions. MM dry.",
+                "chest": "Clear to auscultation bilaterally.",
+                "skin": "Good turgor.",
+                "abdomen": "Mild distension, normal active bowel sounds. +TTP in LLQ and LUQ. No rebound and no guarding. No masses appreciated.",
+                "rectal": "The patient has a large external hemorrhoid, which is nonbleeding. No stool in the vault, guaiac positive."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

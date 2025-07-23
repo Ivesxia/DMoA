@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2°F",
+                "blood_pressure": "133/97 mmHg",
+                "heart_rate": "76 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "Middle-aged male, disheveled, uncomfortable, lying in bed",
+                "HEENT": "Sclera anicteric, PERRLA, opaque clear, poor dentition",
+                "heart": "Regular, no murmur",
+                "lungs": "Initially very diminished bilaterally, sparse inspiratory and expiratory wheezing (much improved after nebulization)",
+                "abdomen": "Soft, mild epigastric tenderness on palpation, no rebound, hypoactive bowel sounds, no organomegaly or mass",
+                "extremities": "No edema",
+                "skin": "No rash",
+                "neuro/psych": "Alert, orientated, speaks in full sentences, equal strength throughout, flat affect"
+            },
+            "changes_over_time": "Lung findings improved after nebulization."
+        }
+    ]
+}

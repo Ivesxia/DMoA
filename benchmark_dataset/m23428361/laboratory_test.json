@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "Positive for GNR's (Gram-negative rods)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "WBC count",
+            "date": "Not specified",
+            "findings": "WBC 19 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver function tests",
+            "date": "Not specified",
+            "findings": "Elevated transaminases",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Gallbladder moderately distended with mild circumferential wall thickening, concerning for early or impending perforation. Mild-to-moderate pericholecystic fat stranding, tiny stones seen in gallbladder. No intrahepatic biliary duct dilatation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

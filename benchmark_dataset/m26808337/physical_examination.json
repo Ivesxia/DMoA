@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "187/80 mmHg",
+                "heart_rate": "65 bpm",
+                "temperature": "Afebrile",
+                "oxygen_saturation": "98% on room air",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Comfortable",
+                "eyes": "Mild icterus",
+                "ent": "No cervical LAD",
+                "cardiovascular": "Regular; no murmurs; no edema",
+                "pulmonary": "Clear; comfortable; no rales",
+                "extremities": "Left foot warmer than right",
+                "skin": "No jaundice",
+                "neurological": "Alert and oriented x3",
+                "musculoskeletal": "Strength is full in all extremities",
+                "psychological": "Calm, tearful when talking about her husband",
+                "abdominal_exam": "Soft; non-tender in all quadrants"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

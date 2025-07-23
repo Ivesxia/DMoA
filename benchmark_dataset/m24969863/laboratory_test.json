@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood glucose",
+            "date": "Not specified",
+            "findings": "> 450 mg/dL (hyperglycemia)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Extensive inflammatory change in the right lower quadrant, small bowel obstruction noted, possible evolving abscess formation in the right lower quadrant.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Streptococcus Anginosus (Milleri) Group",
+            "date": "Not specified",
+            "findings": "5.0 ng/mL (within normal range; ref range 0.0 - 10.0 ng/mL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

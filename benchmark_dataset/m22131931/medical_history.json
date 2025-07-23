@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right upper quadrant (RUQ) and epigastric pain associated with nausea and vomiting.",
+        "history_of_present_illness": "Patient awoke with symptoms that lasted for 8 hours until medicated in the emergency department. Similar pain occurred briefly approximately ___ weeks prior. Patient also mentioned being somewhat constipated for a few days before admission.",
+        "past_medical_history": "Hypothyroid, anxiety.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

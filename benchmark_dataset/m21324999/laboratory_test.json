@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is dilated, measuring 12 mm. Fat stranding is seen around the appendix. Associated ileal wall thickening noted. No focal fluid collection or abscess seen. No evidence of macroperforation. Stomach and small bowel unremarkable. The liver enhances homogeneously without any lesions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbial Culture",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

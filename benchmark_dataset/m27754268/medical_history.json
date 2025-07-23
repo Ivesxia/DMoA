@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Fatigue, abdominal pain, nausea, and vomiting for 3 days.",
+        "history_of_present_illness": "Symptoms began approximately 3 days prior to admission, characterized by fatigue, abdominal pain, nausea, and vomiting. The patient was unable to keep food down, with nonbloody, nonbilious vomiting, and managed to keep down only sips of tea and 2 saltine crackers. There was no change in bowel habits or urination.",
+        "past_medical_history": "Hypertension, Hyperlipidemia, Nonischemic cardiomyopathy, Hypothyroidism, Spinal stenosis, Anemia, Herpes zoster, Osteoarthritis of both knees, History of cataract surgery, Adrenal adenoma, ___ syndrome, Osteopenia, Renal cyst (left), Hiatal hernia, Chronic kidney disease (stage III), Diabetes, Pseudophakia of both eyes.",
+        "family_history": "Notable for coronary artery disease. Both mother and brother passed away from coronary artery disease.",
+        "social_history": "Not specified."
+    }
+}

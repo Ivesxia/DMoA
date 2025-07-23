@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is of normal echogenicity and architecture without any focal lesions or intra or extrahepatic biliary dilatation. The common bile duct measures 3 mm. The main portal vein is patent with normal hepatopetal flow. There is a single 1.5 cm gallstone lodged within the neck of the gallbladder. The gallbladder is distended but there is no pericholecystic fluid or gallbladder wall thickening. The head and body of the pancreas are unremarkable. The tail is obscured by bowel gas. The right kidney measures 10.6 cm, left kidney 10.2 cm. There is no evidence of hydronephrosis, stones or concerning lesions. The spleen is normal in size measuring 11.7 cm. The visualized aorta and IVC are unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION. Value: 2.2 mg/dL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

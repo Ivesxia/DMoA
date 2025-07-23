@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "heart_rate": "106 bpm",
+                "blood_pressure": "145/98 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "spO2": "94% on 4L NC"
+            },
+            "relevant_findings": {
+                "general": "Fatigued but arousable, moderate distress, AAOx2 (not to time)",
+                "cardiovascular": "Sinus tachycardia",
+                "pulmonary": "Normal respiratory effort",
+                "gastrointestinal": "Abdomen soft, distended, diffusely tender to palpation with rebound and guarding",
+                "extremities": "2+ pitting edema bilaterally, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

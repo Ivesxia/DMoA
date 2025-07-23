@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Pancreatitis",
+        "differential_diagnosis": "Not specified.",
+        "diagnostic_reasoning": "The patient presented with symptoms of nausea, vomiting, and left-sided abdominal pain, which had worsened over several days. The abdominal CT scan did not reveal any findings indicative of acute pancreatitis or other abdominal pathology, but given the clinical presentation and history, pancreatitis was diagnosed."
+    }
+}

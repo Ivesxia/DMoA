@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "blood_pressure": "121/68 mmHg",
+                "heart_rate": "88 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "NAD, lying in bed",
+                "chest": "Diffuse expiratory wheezing",
+                "cardiovascular": "Regular rhythm, no murmurs/rubs/gallops",
+                "abdomen": "Soft, tender in right lower quadrant, no rebound or guarding",
+                "extremities": "No edema, cyanosis, or clubbing",
+                "neurological": "Alert, follows commands"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

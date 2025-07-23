@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild atelectasis at the lung bases. No pleural effusions. The heart is normal in size, without pericardial effusion. Liver enhances homogeneously. The gallbladder and pancreas are normal. No intra- or extra-hepatic biliary ductal dilation. The spleen is normal in size. The adrenals are normal. The kidneys enhance and excrete contrast promptly and symmetrically, without masses or hydronephrosis. No bowel obstruction is seen. Retrocecal appendix, fluid-filled and dilated up to 8 mm. Mild circumferential wall thickening, mucosal hyperemia, fat stranding extending along the right paracolic gutter. Secondary inflammation of the cecal base. Moderate amount of retained fecal material throughout the colon and rectum. Bladder is normal with bilateral ureteral jets. Scattered prominent mesenteric nodes up to 8 mm, likely reactive.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "28.3 sec",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

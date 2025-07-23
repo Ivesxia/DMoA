@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain, chest pain, shortness of breath, and near-syncope.",
+        "history_of_present_illness": "Patient has had symptoms for 1 day. Symptoms began with abdominal and chest pain, with associated shortness of breath and near-syncope. The patient felt dizzy today and nearly passed out, turning blue. Previous provider attributed dizziness to Parkinson's disease. The patient also reported a sore throat for the past week. Denies nausea and vomiting.",
+        "past_medical_history": "HFpEF, HTN, recurrent UTIs, Parkinson's disease, valvular disease, osteoporosis, renal mass, colonic polyps, osteoarthritis, urinary incontinence, chronic abdominal pain.",
+        "family_history": "Brother with cardiac history and CVA; mother with unknown abdominal cancer.",
+        "social_history": "Not specified."
+    }
+}

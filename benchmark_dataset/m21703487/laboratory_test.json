@@ -1,0 +1,56 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": {
+                "Liver": {
+                    "finding": "5 mm foci of arterial hyper enhancement in segment 6",
+                    "additional_info": "likely represents a transient hepatic intensity difference",
+                    "suspicious_lesions": "None"
+                },
+                "Biliary": {
+                    "finding": "No intra or extrahepatic biliary ductal dilatation",
+                    "additional_info": "No evidence of stones; fluid pocket in gallbladder fossa likely related to recent surgery"
+                },
+                "Pancreas": {
+                    "finding": "Normal signal intensity without suspicious focal lesions",
+                    "ductal_dilatation": "None"
+                },
+                "Spleen": {
+                    "finding": "Normal size without evidence of focal lesions"
+                },
+                "Adrenal Glands": {
+                    "finding": "Normal in size and shape"
+                },
+                "Kidneys": {
+                    "finding": "Tiny simple cyst in the interpolar region of the left kidney",
+                    "suspicious_lesions": "None",
+                    "hydronephrosis": "None"
+                },
+                "Gastrointestinal Tract": {
+                    "finding": "Unremarkable stomach; visualized large and small bowel demonstrate normal caliber without wall thickening or abnormal enhancement"
+                },
+                "Lymph Nodes": {
+                    "finding": "No retroperitoneal or mesenteric lymphadenopathy"
+                },
+                "Vasculature": {
+                    "finding": "Normal caliber abdominal aorta"
+                },
+                "Osseous and Soft Tissue Structures": {
+                    "finding": "Small vertebral body hemangiomas in lower thoracic and lumbar spine"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Escherichia coli culture",
+            "date": "Not specified",
+            "findings": {
+                "organism": "ESCHERICHIA COLI",
+                "ref_range": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

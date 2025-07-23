@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "PID, UTI",
+        "diagnostic_reasoning": "The patient presented with abdominal pain and underwent imaging that revealed a distended appendix with hyperemia and an appendicolith, which are findings compatible with appendicitis. Previous diagnoses of PID were also noted due to the enlarged right ovary, but the imaging findings were more indicative of appendicitis."
+    }
+}

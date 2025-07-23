@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Worsening bilateral pulmonary opacifications, which could reflect pulmonary edema or superimposed ARDS.",
+            "changes_over_time": "Worsening compared to prior study."
+        }
+    ]
+}

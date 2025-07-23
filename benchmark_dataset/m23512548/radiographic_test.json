@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Bilateral lower lobe atelectasis, no evidence of pleural or pericardial effusion, normal liver, pancreas, spleen, adrenal glands, stable 1.3 cm left renal cyst, fat stranding and colonic wall thickening involving the transverse, descending and sigmoid colon, increased diameter, thickening and hyperemia of the wall of the appendix measuring 1.6 cm, mild wall thickening at the base of the cecum, mild free fluid in the pelvis.",
+            "changes_over_time": "Colonic wall thickening has changed from unchanged to mildly worsened compared to prior; the appendix has increased in size from 1.0 cm to 1.6 cm with new evidence of thickening and hyperemia, previously measured 1.3 cm without thickening or hyperenhancement."
+        }
+    ]
+}

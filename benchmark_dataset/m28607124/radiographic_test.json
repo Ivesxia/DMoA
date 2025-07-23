@@ -1,0 +1,26 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Visualized lung fields are within normal limits. There is no evidence of pleural or pericardial effusion.",
+                "abdomen": {
+                    "hepatobiliary": "The liver demonstrates homogenous attenuation throughout. There are multiple hypodense liver lesions, the largest measures 1.2 cm in segment VII, previously characterized as hemangiomas. No evidence of biliary dilatation.",
+                    "pancreas": "Normal attenuation throughout, without evidence of focal lesions or pancreatic ductal dilatation.",
+                    "spleen": "Normal size and attenuation throughout, without evidence of focal lesions.",
+                    "adrenals": "Normal in size and shape.",
+                    "urinary": "Normal and symmetric kidneys with normal nephrogram. 2 subcentimeter hypodensities in the left kidney unchanged, previously characterized as angiomyolipomas.",
+                    "gastrointestinal": "Multiple diverticula within the descending and sigmoid colon, focal segment of sigmoid colonic wall thickening and fat stranding compatible with acute diverticulitis. Multiple locules of extraluminal air and small amount of free fluid indicating microperforation.",
+                    "pelvis": "Unremarkable urinary bladder and distal ureters.",
+                    "reproductive_organs": "Uterus and bilateral adnexae within normal limits, evidence of bilateral tubal ligation.",
+                    "lymph_nodes": "No retroperitoneal or mesenteric lymphadenopathy.",
+                    "vascular": "No abdominal aortic aneurysm, mild atherosclerotic disease noted.",
+                    "bones": "No evidence of worrisome osseous lesions or acute fracture.",
+                    "soft_tissues": "Abdominal and pelvic wall within normal limits."
+                }
+            },
+            "changes_over_time": "No changes over time described."
+        }
+    ]
+}

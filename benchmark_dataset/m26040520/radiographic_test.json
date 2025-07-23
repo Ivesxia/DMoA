@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Linear opacities at the lung bases suggestive of atelectasis. No effusion or vascular congestion. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities identified. No free intraperitoneal air identified. Laparoscopic band identified in the upper abdomen better seen on the lateral view.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

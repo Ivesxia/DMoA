@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute pancreatitis",
+        "differential_diagnosis": "Ascending aortic aneurysm, Latent tuberculosis Infection, Diabetes mellitus, History of alcoholic cirrhosis",
+        "diagnostic_reasoning": "The patient presented with fever, right upper quadrant abdominal pain after an ERCP, and elevated lipase levels (2544), consistent with acute pancreatitis. Imaging ruled out acute cardiopulmonary processes and other abdominal complications, and supportive labs indicated no acute liver dysfunction, reinforcing the diagnosis."
+    }
+}

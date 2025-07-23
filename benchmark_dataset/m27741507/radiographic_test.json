@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "A 9 x 5 x 6 mm mixed echogenic focus with no internal vascularity, which may represent a complicated seroma or hematoma. No drainable fluid collection is seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

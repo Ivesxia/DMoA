@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Single frontal chest radiograph demonstrates right-sided pneumoperitoneum evident under the right hemidiaphragm with adjacent compressive atelectasis. A retrocardiac opacification is likely a combination of atelectasis and eventration of the hemidiaphragm. Cardiomediastinal and hilar contours are unremarkable. No pleural effusions evident though the left costophrenic angle is obscured from view.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

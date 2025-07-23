@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "blood_pressure": "143/89 mmHg",
+                "heart_rate": "69 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96%",
+                "date_recorded": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "A&Ox3, well-appearing male, in NAD",
+                "HEENT": "No scleral icterus, no palpable LAD",
+                "pulmonary": "Comfortable on room air",
+                "cardiovascular": "NRRR, no m/r/g",
+                "abdominal": "Soft, nondistended, appropriate incisional tenderness, JP drain in RUQ with minimal light serosanguinous output, no rebound/guarding, no palpable masses",
+                "extremities": "WWP bilaterally, no c/c/e, no ulcerations",
+                "neurological": "Moves all limbs spontaneously, no focal deficits"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

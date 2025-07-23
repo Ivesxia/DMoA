@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "general": "NAD, AAOx3",
+                "cardiovascular": "RRR",
+                "respiratory": "CTA b/l",
+                "abdominal": "soft, nontender, nondistended, no rebound or guarding, negative Murphy's sign",
+                "extremities": "no peripheral edema, incisions well healed with steristrips in place"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

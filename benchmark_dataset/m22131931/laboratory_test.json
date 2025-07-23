@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver appears normal in echotexture and size without focal lesion. There is no evidence of intrahepatic or extrahepatic biliary dilatation. The gallbladder contains multiple mobile shadowing gallstones with no evidence of gallbladder distention, gallbladder wall thickening or pericholecystic fluid. Evaluation of the pancreas is limited by overlying bowel gas. The spleen measures 13.8 cm, top-normal in size, and has homogenous echotexture. Representative images of the right kidney are normal. The right kidney measures 11.8 cm. Visualized portions of the aorta and IVC are normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Peritoneal lavage",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Small locules of free air seen tracking along the anterior abdominal cavity and into the retroperitoneum. Diverticulosis is present along the sigmoid colon with marked wall edema and surrounding inflammatory fat stranding. A loculated area of hypodensity with peripheral enhancement measuring approximately 1.9 x 2.7 suggests intramural abscess. Additionally, multiple adjacent locules of extraluminal gas are present, the largest measuring 2 x 2.5 cm. A 20 x 14-mm collection of fluid adjacent to the inflammation does not show any thick wall or rim enhancement, but could represent a developing abscess.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung_bases": "Bibasilar atelectasis.",
+                "abdomen": {
+                    "liver": "Normal.",
+                    "spleen": "Normal.",
+                    "adrenals": "Normal.",
+                    "pancreas": "Normal.",
+                    "gallbladder": "Collapsed.",
+                    "kidneys": "Normal.",
+                    "stomach": "Contains ingested contents, otherwise unremarkable.",
+                    "small_bowel": "Normal in caliber, no intraperitoneal free air, mesentery appears normal."
+                },
+                "pelvis": {
+                    "appendix": {
+                        "appendicolith": "1.1 cm in the tip of the appendix with surrounding inflammatory stranding.",
+                        "proximal_appearance": "Decompressed.",
+                        "fluid_collection": "No drainable fluid collection or extraluminal gas."
+                    },
+                    "bladder": "Normal.",
+                    "prostate": "Normal.",
+                    "rectum": "Normal.",
+                    "colon": "Normal in appearance.",
+                    "distal_ileum": "Fecalization consistent with a focal ileus due to inflammatory change."
+                },
+                "aorta": "Normal in caliber along its visualized course, major branches patent.",
+                "lymph_nodes": "Nonenlarged left paraaortic and left inguinal lymph nodes.",
+                "bone_windows": "No concerning lytic or blastic osseous lesions."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver appears heterogeneous, with areas of hypoattenuation compatible with fatty infiltration. There is a 17-mm mid polar hypodensity in the right kidney. No abdominal, retroperitoneal or mesenteric lymphadenopathy is noted. Mild sigmoid diverticulosis. A sclerotic area in the left eighth posterior rib may be a bone island. The visible osseous structures show no fractures. Diffuse idiopathic skeletal hyperostosis of the lower thoracic spine.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RUQ US",
+            "date": "Not specified",
+            "findings": "Revealed fatty liver only.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "Unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

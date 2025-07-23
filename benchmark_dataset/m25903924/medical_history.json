@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Patient presented with abdominal pain.",
+        "history_of_present_illness": "Patient reports 48-72 hours of abdominal pain characterized as dull in nature, with a sudden onset and intermittent duration with waves of pain. Associated symptoms include occasional nausea. The pain persisted, prompting a call to his gastroenterologist who referred him to the Emergency Department for further evaluation.",
+        "past_medical_history": "1. Pancreatic Mass 2. Schatzki's ring, most recent dilation ___ 3. GERD 4. Depression 5. Emphysema 6. Chronic back pain 7. History of left foot drop and peripheral neuropathy, resolved 8. Status post lipoma removal from the neck, ___ years ago 9. History of multiple broken ribs, s/p falls.",
+        "family_history": "Mother - healthy; Father - healthy; Diabetes in some great aunts; Maternal grandmother - died of a MI in her ___; No family history of cancer; Multiple suicides in the family.",
+        "social_history": "Not specified."
+    }
+}

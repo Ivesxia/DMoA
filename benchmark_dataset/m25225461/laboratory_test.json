@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W & W/O CONTRAST, ADDL SECTIONS",
+            "date": "Not specified",
+            "findings": "Bibasilar atelectasis and a small left pleural effusion. The pancreas is diffusely enlarged with marked peripancreatic fat stranding and a small amount of free fluid consistent with pancreatitis. Mild thickening of the common bile duct wall with associated hyperenhancement, likely related to recent ERCP. No focal liver lesions. Numerous calculi in both kidneys.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Cholecystitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with severe abdominal pain, elevated WBC count, and imaging findings of a distended gallbladder with multiple calcified gallstones and surrounding fluid, which are indicative of cholecystitis. Additionally, the CT findings ruled out small bowel obstruction."
+    }
+}

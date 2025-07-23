@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3",
+                "heart_rate": "130",
+                "blood_pressure": "130/80",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "97% on RA"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, no acute distress, lying comfortable in bed.",
+                "HEENT": "NCAT, MMM, EOMI, sclera anicteric, OP clear.",
+                "NECK": "Supple, no JVD, no LAD.",
+                "PULM": "Good aeration, CTAB, no wheezes, rales, ronchi.",
+                "CV": "RRR, normal S1/S2, no mrg.",
+                "ABD": "Soft, ND, normoactive bowel sounds, no r/g, TTP in RLQ.",
+                "EXT": "WWP, 2+ pulses palpable bilaterally, no c/c/e.",
+                "NEURO": "CNs 2-12 intact, motor function grossly normal.",
+                "SKIN": "No ulcers or lesions."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.3",
+                "heart_rate": "90",
+                "blood_pressure": "135/87",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "97% ra"
+            },
+            "relevant_findings": {
+                "abdominal": "Benign physical exam, not tender to palpation, no visible mucosal damage or blood in oropharynx.",
+                "cardiovascular": "Mildly tachycardic but normal heart sounds otherwise."
+            },
+            "changes_over_time": "Patient continued to complain of RLQ pain that radiates to RUQ."
+        }
+    ]
+}

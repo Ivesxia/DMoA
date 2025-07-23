@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.4°F",
+                "heart_rate": "68 bpm",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "NAD, A&Ox3",
+                "HEENT": "Anicteric, Tacky mucosal membranes",
+                "neck": "No JVD, No LAD, No TM",
+                "cardiovascular": "RRR",
+                "pulmonary": "CTAB",
+                "abdominal": "Soft, TTP R hemi-abdomen, Negative ___ sign, No masses, ND, +BS, No guarding, rebound, or other signs to indicate peritonitis",
+                "DRE": "Normal tone, No masses, No gross or occult blood",
+                "extremities": "Warm and well perfused, No peripheral edema",
+                "neurological": "Motor and sensation grossly intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

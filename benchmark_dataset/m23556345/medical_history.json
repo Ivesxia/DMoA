@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute abdominal pain.",
+        "history_of_present_illness": "The abdominal pain had an acute onset and was initially generalized but progressively moved down the abdomen. The patient reported nausea and vomiting associated with the pain, which was crampy in nature and not alleviated or exacerbated by anything. She has experienced chills since the onset of symptoms and denies any fevers or changes in bowel habits prior to presenting.",
+        "past_medical_history": "Past medical history includes asthma.",
+        "family_history": "Denies family history of cancers.",
+        "social_history": "Not specified."
+    }
+}

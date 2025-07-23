@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "HIV-1 Viral Load Test",
+            "date": "Not specified",
+            "findings": "HIV-1 RNA is not detected. Performed using the HIV-1 Test v2.0. Detection Range: 20-10,000,000 copies/mL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Physical Examination",
+            "date": "Not specified",
+            "findings": "Patient appears uncomfortable. Abdomen is mildly distended, tender to palpation in periumbilical area with focal rebound guarding.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen & Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Mild wall thickening of the sigmoid colon with adjacent fat stranding and fascial thickening, adjacent foci of extraluminal air compatible with perforation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

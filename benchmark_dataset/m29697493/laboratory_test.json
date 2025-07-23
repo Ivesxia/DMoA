@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound (Liver or Gallbladder)",
+            "date": "Not specified",
+            "findings": "The liver is normal without focal or textural abnormality. The gallbladder has an edematous wall, measuring up to 9 mm, and a small amount of pericholecystic fluid. A 1.6-cm gallstone is impacted at the neck of the gallbladder. Several additional calcified gallstones and layering sludge are present. The common duct measures 3 mm, with no intra- or extra-hepatic bile duct dilatation. The visualized portion of the pancreas appears unremarkable. The tail of the pancreas is obscured by overlying bowel gas. Limited view of the right kidney demonstrates no abnormality.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test for unspecified item",
+            "date": "Not specified",
+            "findings": "0.8 mmol/L. Reference range: 0.5 - 2.0.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

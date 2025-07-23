@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The liver is of normal signal on T2-weighted imaging, no significant signal dropoff on out-of-phase imaging to suggest fatty deposition. No focal liver lesion. The portal and hepatic veins are patent. No intra- or extra-hepatic biliary dilatation, the common bile duct measures 5 mm, pancreatic duct measures 2 mm. Gallbladder is slightly thick-walled but non-distended with some high T2 signal adjacent; gallstones are less evident now. There is a 1.4-cm lobulated cystic lesion at the lower pole of the right kidney with indeterminate appearances, followup advised in six months.",
+            "changes_over_time": "Gallstones from prior sonography are less evident now."
+        },
+        {
+            "procedure_name": "Laboratory test (Bilirubin)",
+            "date": "Not specified",
+            "findings": "8.4 mg/dL, within normal range (8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

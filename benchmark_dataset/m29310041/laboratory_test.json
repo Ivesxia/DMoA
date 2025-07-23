@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Test",
+            "date": "Not specified",
+            "findings": "8.8 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transvaginal Ultrasound",
+            "date": "Not specified",
+            "findings": "Small amount of complex free fluid in the pelvis, fibroid uterus measures 13 x 7.9 x 7.2 cm, endometrium measures 8 mm, heterogeneous myometrium with small cysts, largest fibroid measures 3.7 x 3.7 x 3.6 cm, two cystic components within the fibroid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

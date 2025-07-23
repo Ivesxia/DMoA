@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The gallbladder is diffusely edematous, small amount of hyperintense T1-weighted signal along the dependent surface suggesting tiny stones or sludge. No pancreatic edema or fluid collections. Mild focal narrowing at the origin of the left hepatic duct with distal dilatation to 9 mm. Mild narrowing at the origin of the right hepatic duct. Dilated bommon hepatic and bile ducts to 9 mm. No common bile duct stone or abnormal mass seen.",
+            "changes_over_time": "The gallbladder is diffusely edematous similar to prior ultrasound."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "CT findings reveal a small left-sided simple pleural effusion and a trace right-sided pleural effusion. The liver shows homogenous attenuation with no focal lesions or biliary dilatation. A small focus of air is seen within the gallbladder with gallstones noted. The pancreas has normal attenuation without lesions or ductal dilatation. The spleen, adrenal glands, kidneys, urinary bladder, and distal ureters are unremarkable. Significant fat stranding is noted around the proximal and mid-duodenum with small free fluid in the pelvis. Reactive lymph nodes are seen in the mesentery, particularly in the right upper quadrant.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

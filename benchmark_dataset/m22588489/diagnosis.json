@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The CT scan revealed a blind-ending dilated tubular structure, most likely representing an inflamed appendix, measuring up to 11 mm, along with a small amount of adjacent fluid and fascial thickening, which supports the diagnosis of appendicitis. The patient's clinical presentation of diffuse abdominal pain localizing to the right lower quadrant further corroborates this diagnosis."
+    }
+}

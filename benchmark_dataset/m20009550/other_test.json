@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Good opacification of the intra- and extra-hepatic biliary ducts, without dilatation, filling defects, or strictures. Mild ductal dilatation of the dorsal duct; findings are consistent with pancreatic divisum, with no communication between the ventral and dorsal ducts.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "UA",
+            "date": "Not specified",
+            "findings": "Positive.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "Mixed bacterial flora (>= 3 colony types), consistent with skin and/or genital contamination.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

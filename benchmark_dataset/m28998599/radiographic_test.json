@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest (Portable AP)",
+            "date": "Not specified",
+            "findings": "Left-sided pleural effusion with associated left lower lobe atelectasis, smaller right-sided pleural effusion, lower lung volumes with increased heart size, mild pulmonary vascular congestion, no new areas of airspace consolidation.",
+            "changes_over_time": "Most likely similar to radiograph done ___ taking into account technical differences."
+        }
+    ]
+}

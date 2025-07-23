@@ -1,0 +1,46 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.0°F",
+                "heart_rate": "79 bpm",
+                "blood_pressure": "118/76 mmHg",
+                "respiratory_rate": "18"
+            },
+            "relevant_findings": {
+                "appearance": "alert, NAD, cachectic, jaundiced",
+                "eyes": "eomi, perrl, icteric",
+                "ENT": "OP clear, no lesions, no JVD, neck supple",
+                "cardiovascular": "+s1, s2; no m/r/g; no peripheral edema; 2+ dp/pt bilaterally",
+                "pulmonary": "clear bilaterally; diminished at bases",
+                "abdomen": "soft, very tender LUQ just superior to catheter insertion site; no distension, no rebound/guarding; +bs; catheter site without erythema; dark brownish output from biliary drain",
+                "musculoskeletal": "strength throughout; no joint swelling; no cyanosis or clubbing",
+                "neurological": "cn grossly intact; no focal deficits",
+                "skin": "no rashes; port-a-cath visible in right upper chest; site non-tender"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "64 bpm",
+                "blood_pressure": "138/94 mmHg",
+                "respiratory_rate": "18"
+            },
+            "relevant_findings": {
+                "appearance": "alert, NAD",
+                "eyes": "icteric, eomi, perrl",
+                "ENT": "OP clear, no lesions, no JVD, neck supple",
+                "cardiovascular": "+s1, s2; no m/r/g; no peripheral edema; 1+ dp/2+pt bilaterally",
+                "pulmonary": "clear bilaterally; diminished at bases",
+                "abdomen": "soft, non-tender; no distension, no rebound/guarding; +bs; catheter site without erythema; dark brown output from biliary drain",
+                "musculoskeletal": "trace pedal edema bilaterally; strength throughout; no joint swelling; no cyanosis or clubbing",
+                "neurological": "cn grossly intact; no focal deficits",
+                "skin": "no rashes; port-a-cath visible in right upper chest; site non-tender"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

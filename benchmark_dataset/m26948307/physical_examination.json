@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0 F",
+                "heart_rate": "119 bpm",
+                "blood_pressure": "119/81 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x3, sitting in bed comfortably in no acute distress.",
+                "HEENT": "Sclera anicteric, moist mucous membranes, oropharynx clear.",
+                "neck": "Supple, JVP not elevated, no lymphadenopathy.",
+                "lungs": "Clear to auscultation bilaterally, no wheezes/rales/rhonchi.",
+                "cardiovascular": "Regular rate and rhythm, normal S1/S2, no murmurs/rubs/gallops.",
+                "abdomen": "Tenderness to palpation in the periumbilical region and left lower quadrant, but no guarding or peritoneal signs. Abdomen otherwise soft. No costovertebral angle tenderness.",
+                "gu": "No Foley catheter in place.",
+                "extremities": "Warm, well-perfused, no cyanosis/clubbing/edema, 2+ pulses.",
+                "neurological": "Alert and oriented x3, cranial nerves II-XII grossly intact, normal gait."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1 F",
+                "heart_rate": "60 bpm",
+                "blood_pressure": "117/58 mmHg",
+                "respiratory_rate": "12 breaths/min",
+                "oxygen_saturation": "95% RA"
+            },
+            "relevant_findings": {
+                "pain": "Reported pain level of 6.",
+                "abdominal_exam": "Continued tenderness in the lower abdomen, but no changes in guarding or peritoneal signs."
+            },
+            "changes_over_time": "The patient continues to have dark stools, but no longer has bright red blood."
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The abdominal pain started 1.5 weeks ago, initially as vague discomfort and has progressively worsened over the past 3 weeks to significant pain that has been persistent for the last 2 days. The patient has been unable to keep any food down for several days, and has not had a bowel movement or passed flatus in the last 2 days.",
+        "past_medical_history": "History of gastric ulcers, history of HIV with CD4 count greater than 1000.",
+        "family_history": "Mother: hyperlipidemia, heart murmur; Father: prostate cancer, diabetes mellitus; No family history of gastrointestinal illness.",
+        "social_history": "Not specified."
+    }
+}

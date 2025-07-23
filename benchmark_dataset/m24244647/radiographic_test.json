@@ -1,0 +1,26 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Minimal bibasilar atelectasis. No evidence of pleural or pericardial effusion.",
+                "abdomen": {
+                    "hepatobiliary": "Homogenous attenuation throughout the liver with innumerable hypodensities, largest measuring 2.3 x 1.8 cm in segment VII consistent with cyst. No biliary dilatation.",
+                    "pancreas": "Cystic structure arising from the pancreatic tail measuring 2.0 x 1.3 x 1.9 cm. This lesion appears new from the prior exam.",
+                    "spleen": "Normal size and attenuation throughout without focal lesions.",
+                    "adrenals": "Normal size and shape.",
+                    "urinary": "Normal kidneys with 1.2 x 1.0 x 1.5 cm intermediate density lesion in the lower pole of the left kidney, and multiple left-sided peripelvic cysts.",
+                    "gastrointestinal": "Fat stranding and thickening of the sigmoid colon surrounding multiple diverticuli. No drainable collection, no free air, appendic normal.",
+                    "pelvis": "Urinary bladder and distal ureters unremarkable, no free fluid.",
+                    "reproductive_organs": "Prostate and seminal vesicles unremarkable.",
+                    "lymph_nodes": "No retroperitoneal or mesenteric lymphadenopathy.",
+                    "vascular": "No abdominal aortic aneurysm, mild atherosclerotic disease.",
+                    "bones": "No worrisome osseous lesions or acute fracture.",
+                    "soft_tissues": "Abdominal and pelvic wall within normal limits."
+                }
+            },
+            "changes_over_time": "Cystic structure in the pancreatic tail appears new from the prior exam."
+        }
+    ]
+}

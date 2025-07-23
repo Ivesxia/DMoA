@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Physical Exam",
+            "date": "Not specified",
+            "findings": "Patient is alert and oriented, no acute distress. Abdomen is soft, mildly distended, tender mostly in the LUQ and epigastrium, and mildly in the lateral RUQ, no rebound or guarding, normoactive bowel sounds, no palpable masses.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Atelectasis at the lung bases, hepatic steatosis, gallbladder contains 2 nonobstructive stones, splenomegaly with a spleen measuring 14 cm, minimal inflammatory changes within the pancreatic uncinate process and inferior head with minimal intrapancreatic edema and progressive pancreatic enhancement. No focal hepatic lesions or biliary tree dilation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2 °F",
+                "heart_rate": "66 bpm",
+                "blood_pressure": "133/61 mmHg",
+                "respiratory_rate": "22 breaths/min"
+            },
+            "relevant_findings": {
+                "A&Ox3": "Patient alert and oriented to person, place, and time",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "CV": "Regular rate and rhythm, No murmurs/gallops/rubs",
+                "Pulmonary": "Clear to auscultation bilaterally, No wheezes/rales/rhonchi",
+                "Abdomen": "Soft, mildly distended, RLQ tenderness",
+                "Extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

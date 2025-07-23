@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute pancreatitis",
+        "differential_diagnosis": "Alcoholic hepatitis, Hypoxia, Gastrointestinal bleed, Oliguric renal failure, Alcohol use disorder, Polysubstance use disorder, hyperglycemia",
+        "diagnostic_reasoning": "The patient presented with symptoms of dizziness, malaise, nausea, vomiting, and dark stools, along with a history of alcohol abuse. Laboratory findings included elevated lactate, transaminitis, and hemoglobin in stools indicating gastrointestinal bleeding. The CT scan revealed signs consistent with severe hepatic steatosis and changes concerning for pancreatitis. These findings, combined with the clinical presentation, supported the diagnosis of acute pancreatitis."
+    }
+}

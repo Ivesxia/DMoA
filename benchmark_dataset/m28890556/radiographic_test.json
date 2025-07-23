@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Minimal dependent atelectasis; diffuse hypoattenuation of the liver consistent with fatty infiltration; diffuse fat stranding associated with the head of the pancreas; minimal thickening of the left Gerota's fascia; no fluid collection; no intra-abdominal fluid collection, ascites, pneumoperitoneum; normal appearance of kidney, gallbladder, adrenal glands, spleen, stomach, duodenum, and bowel; normal pelvic organs.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "Clear.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RUQ u/s",
+            "date": "Not specified",
+            "findings": "Unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Found to have benign papillary stenosis. No intrahepatic duct strictures were seen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Demonstrated dilatation of the left hepatic duct with two areas of stricture, one within the common left hepatic duct and a second area more distally, with fatty infiltration of the right lobe. No evidence of tumor recurrence.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "The heart is normal in size. The mediastinal and hilar contours appear within normal limits. The lungs appear clear. There are no pleural effusions or pneumothorax.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

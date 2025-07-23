@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4 °F",
+                "heart_rate": "84 bpm",
+                "blood_pressure": "133/71 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No acute distress. Alert, oriented x3.",
+                "HEENT": "No scleral icterus. Mucous membranes moist.",
+                "cardiovascular": "Regular rate and rhythm, prominent systolic murmur due to mechanical valve.",
+                "pulmonary": "Unlabored breathing, clear to auscultation bilaterally.",
+                "abdominal": "Soft, nondistended, tenderness to palpation in right upper quadrant, positive Murphy's sign. No rebound or guarding. No masses.",
+                "extremities": "Warm without cyanosis or clubbing. Healing medial and lateral fasciotomy sites with good granulation tissue."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

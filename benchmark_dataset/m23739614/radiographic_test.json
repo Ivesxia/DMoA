@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild atelectasis at the lung bases, no pleural effusions, heart normal in size without pericardial effusion. Abdomen: Liver enhances homogeneously, gallbladder and pancreas normal, no biliary ductal dilation, normal spleen, normal adrenals, kidneys enhancing and excreting contrast without masses or hydronephrosis, no bowel obstruction. Pelvis: Retrocecal appendix fluid-filled and dilated up to 8 mm, mild circumferential wall thickening, mucosal hyperemia, fat stranding extending along right paracolic gutter, secondary inflammation of cecal base, moderate retained fecal material throughout colon and rectum, bladder normal with bilateral ureteral jets, prostate and seminal vesicles normal, scattered prominent mesenteric nodes up to 8 mm likely reactive.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

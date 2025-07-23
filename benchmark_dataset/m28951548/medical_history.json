@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Severe abdominal pain",
+        "history_of_present_illness": "Symptoms began suddenly while the patient was asleep, leading to a presentation at an outside hospital. The patient vomited contrast from a CT scan on HD1 but reported complete resolution of symptoms. After initial discharge and subsequent vomiting attributed to broth taste, severe vomiting developed on the way home, prompting re-admission.",
+        "past_medical_history": "Hypertension, Hyperlipidemia, Hypothyroidism, Peripheral neuropathy, Kidney stones, Papillary urethral cancer, Marginal ulcer post Roux-en-Y gastric bypass, post thyroidectomy, post ACL repair",
+        "family_history": "Father: deceased, CAD; Mother: deceased, COPD; Brother: MI, cerebral palsy",
+        "social_history": "Not specified"
+    }
+}

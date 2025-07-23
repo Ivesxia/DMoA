@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "No ETT is seen below C6, NG tube placed beyond the GE junction but not visualized. Lung volumes are low, without focal consolidation. No evidence of large pleural effusions or pneumothorax. Cardiomediastinal silhouette and hila are normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

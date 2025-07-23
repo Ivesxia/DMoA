@@ -1,0 +1,30 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lungs": "mild subsegmental atelectasis",
+                "liver": "unremarkable",
+                "spleen": "unremarkable",
+                "pancreas": "unremarkable",
+                "adrenal_glands": "unremarkable",
+                "right_kidney": "unremarkable",
+                "left_kidney": "unremarkable",
+                "nephrolithiasis": "Not present",
+                "hydronephrosis": "Not present",
+                "diverticulosis": "pancolonic diverticulosis with focal microperforation posteriorly",
+                "extraluminal_gas": "loculated adjacent gas",
+                "free_air": "Not seen in other sites",
+                "focal_abscess": "Not present"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

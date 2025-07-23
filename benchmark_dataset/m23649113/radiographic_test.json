@@ -1,0 +1,51 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "appearance": "normal limits",
+                    "contour": "smooth",
+                    "focal_mass": "none",
+                    "portal_vein": "patent with hepatopetal flow",
+                    "ascites": "none"
+                },
+                "bile_ducts": {
+                    "intrahepatic_biliary_dilation": "none",
+                    "CBD_measurement": "5 mm"
+                },
+                "gallbladder": {
+                    "gallstones": "multiple gallstones visible",
+                    "pericholecystic_fluid": "present",
+                    "distention": "not significantly distended",
+                    "wall_thickening": "none",
+                    "hyperemia": "mild hyperemia present"
+                },
+                "pancreas": "within normal limits without masses or pancreatic ductal dilation",
+                "spleen": {
+                    "echogenicity": "normal",
+                    "measurement": "9 cm"
+                },
+                "kidneys": {
+                    "right_kidney": {
+                        "measurement": "9 cm",
+                        "cortical_echogenicity": "normal",
+                        "corticomedullary_differentiation": "normal",
+                        "masses_stones_hydronephrosis": "none"
+                    },
+                    "left_kidney": {
+                        "measurement": "10 cm",
+                        "cortical_echogenicity": "normal",
+                        "corticomedullary_differentiation": "normal",
+                        "masses_stones_hydronephrosis": "none"
+                    }
+                },
+                "retroperitoneum": {
+                    "aorta_IVC": "within normal limits"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is echogenic, denoting fatty infiltration. There is mild sparing near the gallbladder fossa. The gallbladder is distended, containing an immobile 2.5 cm stone. The gallbladder wall is slightly thickened and there is a small amount of pericholecystic fluid. The gallbladder wall is also irregular near the fundus concerning for ulceration.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen/Pelvis",
+            "date": "Not specified",
+            "findings": "Thickened gallbladder with pericholecystic fluid and a large stone in the neck.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

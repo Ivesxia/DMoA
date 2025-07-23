@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "heart_rate": "90 bpm",
+                "blood_pressure": "148/91 mmHg",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": [
+                "A&O x 3",
+                "NAD",
+                "PERRL",
+                "EOMI",
+                "anicteric",
+                "RRR",
+                "CTAB",
+                "Abdomen soft",
+                "nondistended",
+                "focally tender in RLQ over McBurney's point with voluntary guarding",
+                "+ Rovsing's sign",
+                "warm",
+                "no edema"
+            ],
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

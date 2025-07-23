@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC 14 with left shift.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "AST",
+            "date": "Not specified",
+            "findings": "AST 49.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Cr 1.6 (baseline Cr 1.5).",
+            "changes_over_time": "Increased from baseline Cr 1.5 to 1.6."
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "K 5.2 (specimen hemolyzed, recheck was 4.1).",
+            "changes_over_time": "Decreased from K 5.2 (hemolyzed) to K 4.1 on recheck."
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate 0.6.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "UA had few bacteria and was negative for leukocytes and blood.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT CHEST W/CONTRAST",
+            "date": "Not specified",
+            "findings": "No evidence of neoplastic or infectious process. Mucus accumulation in the trachea. Areas of non-characteristic scarring at the bases of the lingula and middle lobe. A subpleural 3 mm granuloma in right lower lobe.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CMV Test",
+            "date": "Not specified",
+            "findings": "CMV DNA not detected. Linear range of quantification: 137 IU/mL - 9,100,000 IU/mL. Limit of detection 91 IU/mL.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

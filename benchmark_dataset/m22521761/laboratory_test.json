@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C. difficile toxin A & B test",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA. (Reference Range-Negative)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Single upright portable radiograph of the chest was acquired. No ETT is seen below C6, patient has likely been extubated. An NG tube has been placed passing beyond the GE junction, with the tip not visualized. Lung volumes are low, without focal consolidation. No evidence of large pleural effusions or pneumothorax. Cardiomediastinal silhouette and hila are normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

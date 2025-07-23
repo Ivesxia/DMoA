@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with abdominal pain that localized to the right lower quadrant (RLQ) after exercise, along with minimal nausea and loss of appetite. A CT scan suggested an enlarged tubular structure in the RLQ likely representing the appendix, despite its difficulty in visualization due to lack of contrast filling. There were no signs of periappendiceal stranding or fluid, indicating that acute appendicitis was the most reasonable diagnosis."
+    }
+}

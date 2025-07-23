@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with a classic presentation of appendicitis characterized by a sudden onset of periumbilical pain that migrated to the right lower quadrant, constant abdominal pain, and tenderness in the right lower quadrant with guarding. CT imaging revealed a fluid-filled and dilated appendix with an appendicolith, subtle fat stranding, and mucosal hyperemia, all consistent with early appendicitis."
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with right lower quadrant pain, nausea, and vomiting, and the CT scan showed a dilated fluid-filled structure with hyperenhancing mucosa, representing an inflamed appendix, along with surrounding fat stranding. No evidence of free air or adjacent fluid collections indicating rupture was observed."
+    }
+}

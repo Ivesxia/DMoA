@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "heart_rate": "113 bpm",
+                "blood_pressure": "134/80 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x3; in pain.",
+                "HEENT": "No scleral icterus; mucus membranes moist.",
+                "cardiovascular": "Regular rate and rhythm; no murmurs/rubs/gallops.",
+                "pulmonary": "Clear to auscultation bilaterally; excursions reduced bilaterally.",
+                "abdominal": "Soft, non-distended; very tender to palpation in the right lower quadrant (RLQ) and left lower quadrant (LLQ); rebound tenderness and guarding in the RLQ and LLQ; mildly tender diffusely; no evidence of diffuse peritonitis.",
+                "extremities": "No edema; warm and well perfused."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

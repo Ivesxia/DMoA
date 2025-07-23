@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "CT of the abdomen shows no intra-abdominal free fluid, no retroperitoneal lymphadenopathy; significant pericecal stranding with a pocket of free air adjacent. Appendix measures up to 8 mm with air in its tip and no periappendiceal inflammation. Associated inflammatory lymph nodes in an ileocolic distribution, largest 6 mm. Findings suggest cecal perforation confined to the right lower quadrant. Multiple diverticula in the sigmoid colon suggest diverticulosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbiology Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

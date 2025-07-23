@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "109 bpm",
+                "blood_pressure": "124/57 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "constitutional": "No Acute Distress (NAD)",
+                "HEENT": "Normocephalic, atraumatic, Extraocular muscles intact",
+                "neck": "Supple",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm, Normal first and second heart sounds",
+                "abdominal": "RLQ tenderness, no rebound or guarding",
+                "extremities": "Moves all extremities",
+                "skin": "Warm and dry",
+                "neurological": "Speech fluent, no neurological deficits",
+                "psychological": "Normal mentation",
+                "note": "No petechiae"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

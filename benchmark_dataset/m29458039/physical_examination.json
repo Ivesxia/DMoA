@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "blood_pressure": "138/81 mmHg",
+                "heart_rate": "88 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Pleasant, calm",
+                "HEENT": "No conjunctival pallor, no icterus, moist mucous membranes, oropharynx clear",
+                "neck": "Right lymph node ~2cm x 1cm, firm, mobile, nontender",
+                "cardiovascular": "Normocardic, regular, normal S1, S2, no murmurs",
+                "lungs": "No increased work of breathing, clear to auscultation bilaterally, no wheezes, rales, or rhonchi",
+                "abdominal": "Normal bowel sounds, soft, nontender, nondistended",
+                "extremities": "Warm, well-perfused, trace edema noted",
+                "skin": "Ecchymosis over right upper extremity where PICC was inserted, port site ecchymosis inferiorly",
+                "neurological": "Moving all extremities equally"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

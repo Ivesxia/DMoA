@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.7°F",
+                "pulse": "79 bpm",
+                "blood_pressure": "91/59 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "96% on RA"
+            },
+            "relevant_findings": {
+                "general": "awake, alert, NAD",
+                "heart": "RRR, NMRG",
+                "lungs": "CTAB, normal excursion, no respiratory distress",
+                "abdominal": "soft, obese, mild epigastric and RUQ tenderness, no rebound/guarding, no mass",
+                "neurological": "strength intact/symmetric, sensation intact/symmetric",
+                "extremities": "WWP, no CCE, no tenderness, 2+ B radial",
+                "skin": "no rashes/lesions/ulcers",
+                "psychiatric": "normal judgment/insight, normal memory, normal mood/affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

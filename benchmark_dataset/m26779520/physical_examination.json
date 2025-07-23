@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Afebrile, VSS (Vital Signs Stable)",
+            "relevant_findings": "Alert, oriented x 3, NAD (No Acute Distress), RRR (Regular Rate and Rhythm), CTAB (Clear To Auscultation Bilaterally), abdomen soft, appropriately mildly tender, staples in place, warm, no edema.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Small bilateral pleural effusions and area of increased opacity in both lower lungs consistent with atelectasis/infiltrate; left subclavian line with tip in the right atrium; mild pulmonary vascular redistribution.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

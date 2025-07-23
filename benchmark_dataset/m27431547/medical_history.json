@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain, nausea, and vomiting",
+        "history_of_present_illness": "Symptoms began five days prior to admission after eating a steak and cheese sub. The patient has experienced severe chills, a fever reaching ___ last night, and now shows intolerance to oral intake. Most pain is in the right upper quadrant of the abdomen.",
+        "past_medical_history": "History of coronary artery disease with stent placement, hypertension, right upper quadrant lipoma excision, left skin graft after 2nd degree burns.",
+        "family_history": "Significant for diabetes and heart disease on the maternal side.",
+        "social_history": "Not specified."
+    }
+}

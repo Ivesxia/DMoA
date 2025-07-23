@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4°F",
+                "heart_rate": "81 bpm",
+                "blood_pressure": "137/62 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": "General: awake and alert, talkative; Cardiovascular: Regular Rate and Rhythm (RRR); Lungs: Clear to Auscultation (CTA) bilaterally; Abdomen: soft, non-tender (NT), non-distended (ND), positive bowel sounds (+BS), incision clean, dry, intact (C/D/I), no erythema or hematoma; Extremities: warm, no edema.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

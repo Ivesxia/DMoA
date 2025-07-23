@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Gram Stain",
+            "date": "Not specified",
+            "findings": "GRAM NEGATIVE ROD(S).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prothrombin Time (PT)",
+            "date": "Not specified",
+            "findings": "25.1 sec (reference range: 22.0 - 35.0 sec)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

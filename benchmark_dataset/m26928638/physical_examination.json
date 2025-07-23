@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "104 bpm",
+                "blood_pressure": "112/64 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "O2_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "Appears well, NAD",
+                "cardiovascular": "RRR",
+                "respiratory": "CTAB",
+                "abdominal": "Soft, nondistended, tender in RLQ > LLQ, no rebound, no guarding",
+                "extremities": "Warm, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

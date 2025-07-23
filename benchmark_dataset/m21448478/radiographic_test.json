@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Nodular opacities at the right lung base are improved since previous examination, possibly sequela of aspiration or infection. The imaged lung bases are clear. No evidence of active gastrointestinal pathology, mild residual inflammatory change at the site of prior intraabdominal fluid collection, and scattered diverticulosis are noted.",
+            "changes_over_time": "Nodular opacities at the right lung base improved since previous examination. A right anterior abdominal wall fluid collection is unchanged since at least previous examination."
+        },
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "Possible early pneumonia at right lung base vs atelectasis or scarring.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

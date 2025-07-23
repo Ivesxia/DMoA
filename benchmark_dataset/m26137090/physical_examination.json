@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "95°F",
+                "heart_rate": "116 bpm",
+                "blood_pressure": "147/95 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "spo2": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "Distress, diaphoretic and cool. Frequent belching. Alert and oriented x3.",
+                "heent": "Normocephalic/atraumatic. EOMI. PERRL. Mucous membranes pink and moist.",
+                "cardiovascular": "Elevated heart rate (110-120 bpm), regular rhythm, no murmurs/rubs/gallops. Very pronounced heart sounds.",
+                "lungs": "Clear to auscultation. Cannot take deep breaths without pain on inspiration.",
+                "abdomen": "Moderately rigid (guarding) and distended, diffuse tenderness primarily on left side (middle and lower quadrants). Unable to palpate deeply due to pain and nausea. Audible bowel sounds.",
+                "extremities": "Warm, well perfused. Normal strength and bulk bilaterally.",
+                "neurological": "GCS 15. Cranial nerves II-XII grossly intact."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

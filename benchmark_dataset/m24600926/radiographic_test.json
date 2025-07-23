@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Basilar atelectasis but no pleural effusion or pneumothorax. Liver, gallbladder, spleen, and bowel are normal. Exophytic left renal cyst incompletely characterized. Incidental splenule noted. Atrophic pancreas. No abdominal free air or fluid, no pathologic abdominal lymphadenopathy. Mild pericolonic fat stranding and probable wall thickening at the distal descending colon. No free air or free fluid in pelvis. Prominent bladder wall likely secondary to incomplete distension. Extensive vascular calcifications identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "Unremarkable",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Elevated lipase (1219), which is outside the normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fecal Test for C. difficile",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

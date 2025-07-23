@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "68 bpm",
+                "blood_pressure": "129/45 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "alert and oriented x3, no acute distress",
+                "cardiovascular": "regular rate and rhythm, no murmur",
+                "respiratory": "clear to auscultation bilaterally",
+                "abdominal": "soft, minimally tender to palpation, non-distended, positive bowel sounds; negative obturator sign, positive psoas sign",
+                "extremities": "warm, well-perfused, 2+ pulses",
+                "digital_rectal_exam": "normal tone, no gross or occult blood"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

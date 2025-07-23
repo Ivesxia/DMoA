@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Test",
+            "date": "Not specified",
+            "findings": "8.5 mg/dL (normal range: 8.4 - 10.3)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI (ABDOMEN & PELVIS) W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated and fluid-filled measuring up to 1.4 cm in greatest diameter, with an appendicolith near the appendiceal base and surrounding fat stranding. No associated fluid collection or evidence of perforation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

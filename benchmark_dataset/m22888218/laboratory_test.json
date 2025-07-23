@@ -1,0 +1,36 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": {
+                "value": "NO GROWTH.",
+                "reference_range": "2.4 - 5.7"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "right_kidney_size": "10.3 cm",
+                "left_kidney_size": "10.6 cm",
+                "renal_parenchyma": "mildly echogenic",
+                "hydronephrosis": "No",
+                "mass": "No",
+                "calculus": "No",
+                "urinary_bladder": "moderately distended and unremarkable"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal Doppler",
+            "date": "Not specified",
+            "findings": {
+                "normal_flow": "Color images demonstrate normal flow bilaterally",
+                "resistive_indices": "within normal limits"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

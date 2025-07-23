@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Trace right and small left pleural effusions with subjacent atelectasis. Homogeneous hepatic parenchyma with no focal masses. Enhancement of the hepatic parenchyma surrounding the gallbladder fossa. Biliary sludge within the gallbladder. Distended gallbladder with diffuse wall thickening and areas of tiny foci of discontinuity of the gallbladder wall. One 1.0 cm simple cyst in the mid right kidney.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "No acute process.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

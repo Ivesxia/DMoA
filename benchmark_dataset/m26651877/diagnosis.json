@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with abdominal pain that localized to the right lower quadrant (RLQ), tenderness upon palpation in the RLQ, and a CT scan showing a fluid-filled blind-ending structure measuring 11 mm in diameter with surrounding inflammatory fat stranding, indicative of appendicitis."
+    }
+}

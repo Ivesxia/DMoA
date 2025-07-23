@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Elevated LFTs with a value of 286.0 IU/L (Reference range: 94.0 - 250.0 IU/L).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound - LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is homogenous in echotexture without discrete mass or lesion. No intrahepatic biliary ductal dilatation. Multiple mobile gallstones identified in the gallbladder, which is not distended. Gallbladder wall appears thickened occasionally; common bile duct not dilated (measuring 4 mm). No free fluid identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

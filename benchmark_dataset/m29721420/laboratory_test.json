@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "In the right lower quadrant, the appendix is enlarged and fluid filled, measuring 11 mm in diameter, with significant surrounding inflammatory fat stranding, and increased mucosal enhancement. No evidence of surrounding free air or fluid collection or abscess. Findings consistent with acute uncomplicated appendicitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolytes",
+            "date": "Not specified",
+            "findings": "Potassium level: 4.3 mEq/L (within normal range: 3.3 - 5.1 mEq/L).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

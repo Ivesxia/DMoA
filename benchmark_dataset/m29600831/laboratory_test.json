@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound: Liver or Gallbladder US (Single Organ)",
+            "date": "Not specified",
+            "findings": "The liver is mildly echogenic, which may reflect fatty deposition. No intra- or extra-hepatic biliary ductal dilatation. Main portal vein is patent with hepatopetal flow. Common duct measures 4 mm. Gallbladder is tensely distended without mural edema or pericholecystic fluid. Two gallstones are seen measuring up to 1.7 cm, one may be impacted in the gallbladder neck.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test (not specified)",
+            "date": "Not specified",
+            "findings": "0.8 mmol/L (referenced range: 0.5 - 2.0)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.7 °F",
+                "heart_rate": "71 bpm",
+                "blood_pressure": "145/84 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% (on room air)"
+            },
+            "relevant_findings": {
+                "general": "Mildly uncomfortable",
+                "cardiovascular": "Regular rate and rhythm (RRR)",
+                "pulmonary": "Clear to auscultation bilaterally (CTA b/l)",
+                "abdominal": "Bowel sounds present (+BS), soft, minimally distended, tender in right upper quadrant (RUQ) and midepigastric region",
+                "extremities": "No edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

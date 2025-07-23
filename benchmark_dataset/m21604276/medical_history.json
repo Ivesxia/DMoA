@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient presents with about ___ weeks of crampy lower abdominal pain. The pain is moderate to severe, sharp, and is generalized across the lower abdomen, worse on the right and left sides, with some radiation to the right flank. Symptoms were aggravated acutely overnight, prompting a visit to the ED. Associated with the pain, there were episodes of watery and loose stools, but no bloody or dark stools. The patient denied fevers, chills, sweats, nausea, vomiting, or dysuria.",
+        "past_medical_history": "Multiple pulmonary embolisms s/p IVC filter, diabetes mellitus, hypertension, hyperlipidemia, peripheral artery disease, chronic kidney disease stage III, osteoarthritis s/p joint replacement, surgical hypothyroidism, and gastroesophageal reflux disease.",
+        "family_history": "Significant for mother and grandmother with diabetes mellitus and hypertension. The patient's mother died at age ___ and had coronary artery disease. Denies any family history of lung disease or cancer.",
+        "social_history": "Prior tobacco abuse."
+    }
+}

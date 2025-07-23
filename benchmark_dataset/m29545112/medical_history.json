@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Right-sided abdominal pain for one day. Positive chills and rigors. No definitive fevers. No nausea, vomiting, or diarrhea.",
+        "past_medical_history": "History of hernia repairs; no other abdominal surgeries.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Pacemaker Insertion",
+            "date": "Not specified",
+            "findings": "A left chest wall single lead pacemaker is present.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac monitoring",
+            "date": "Not specified",
+            "findings": "Intermittently tachycardic to 130s in atrial fibrillation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Showed cholelithiasis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Non-contrast CT",
+            "date": "Not specified",
+            "findings": "Concern for cholelithiasis/choledocholithiasis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

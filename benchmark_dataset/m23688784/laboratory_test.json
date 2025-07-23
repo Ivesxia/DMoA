@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 62 (reference range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "Alkaline phosphatase 156 (reference range: 0.0 - 177.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pathogen Screening",
+            "date": "Not specified",
+            "findings": "Unable to rule out pathogens due to overgrowth of swarming Proteus spp.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-Ray",
+            "date": "Not specified",
+            "findings": "Lung volumes remain low. Heart is at upper limits of normal in size. Mild pulmonary vascular congestion persists, probable mild interstitial edema. Improving bibasilar atelectasis, more pronounced on the right than left, and probable very small pleural effusions. Upper lobe predominant emphysema noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

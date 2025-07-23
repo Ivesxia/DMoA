@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "63 bpm",
+                "blood_pressure": "113/67 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "well-appearing, no acute distress",
+                "HEENT": "PERRL, EOMI, sclera anicteric, moist mucous membranes",
+                "cardiac": "regular rate and rhythm",
+                "chest": "clear to auscultation bilaterally",
+                "abdominal": "soft, focally tender in right lower quadrant, mild tenderness in left lower quadrant, positive Rovsing sign, positive obturator sign, negative psoas sign, no rebound or guarding, no surgical scars",
+                "extremities": "warm, well perfused, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

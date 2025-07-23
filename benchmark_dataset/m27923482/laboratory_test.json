@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Liver, spleen, both adrenals, both kidneys, pancreas and gallbladder are unremarkable. Note of a duodenal diverticulum. Small hypodensity in the lower pole of the left kidney, too small to characterize. Sigmoid with contained microperforation containing air and significant fat stranding in the left lower quadrant. No abdominal free fluid or free air. Normal rectum, bladder, prostate, both seminal vesicles and appendix. Small amount of pelvic free fluid present. Bone island in the left iliac crest and moderate rotatory scoliosis of the lumbar spine with degenerative endplate changes; no suspicious lytic or blastic lesions or fractures.",
+            "changes_over_time": "Unchanged from the CT from ___."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

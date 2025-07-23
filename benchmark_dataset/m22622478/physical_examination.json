@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "147/85 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "93% on room air"
+            },
+            "relevant_findings": {
+                "general": "Elderly obese female laying in bed; Nourishment good; Grooming good; Mentation alert, speaking in full sentences.",
+                "gastrointestinal": "Soft, periumbilical tenderness, non-tender otherwise.",
+                "respiratory": "Bibasilar rales, comfortable."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

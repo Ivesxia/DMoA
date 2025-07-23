@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated up to 1.5 cm and is fluid-filled, with a calcified appendicolith at the tip. No extraluminal air or fluid collection.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test regarding electrolytes",
+            "date": "Not specified",
+            "findings": "1.7 mmol/L, within normal range (0.5 - 2.0 mmol/L).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

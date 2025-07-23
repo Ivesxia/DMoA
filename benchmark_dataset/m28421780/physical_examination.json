@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.3",
+                "heart_rate": "73",
+                "blood_pressure": "139/74",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "95% on RA"
+            },
+            "relevant_findings": {
+                "general": "Well-developed, well-nourished male in no acute distress.",
+                "cardiovascular": "Regular rate and rhythm.",
+                "respiratory": "Clear to auscultation bilaterally.",
+                "abdominal": "Distended, firm, hypoactive bowel sounds, diffusely tender, multiple small reducible hernias, well-healed midline scar."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

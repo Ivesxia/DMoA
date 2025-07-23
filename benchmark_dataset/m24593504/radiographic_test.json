@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic. The contour of the liver is smooth. There is no focal liver mass. There is focal fatty sparing along the gallbladder edge. The main portal vein is patent with hepatopetal flow. There is no ascites. No intrahepatic biliary dilation is observed. The common bile duct measures 6 mm. There are stones in the distended gallbladder with mild asymmetric wall edema, measuring up to 3-4 mm along the hepatic edge. There is no pericholecystic fluid. A positive sonographic Murphy's sign is noted. The pancreas appears within normal limits. The spleen has normal echogenicity, measuring 10.5 cm. Both kidneys are normal in size and echogenicity, measuring 11.8 cm on the right and 11.5 cm on the left, with no masses or hydronephrosis. The visualized portions of the aorta and IVC are within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

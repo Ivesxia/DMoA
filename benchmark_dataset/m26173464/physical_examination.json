@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission date ___",
+            "vital_signs": {
+                "temperature": "99.6°F",
+                "heart_rate": "97 bpm",
+                "blood_pressure": "156/86 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "94% RA"
+            },
+            "relevant_findings": {
+                "general": "in no acute distress",
+                "HEENT": "sclera anicteric, mucus membranes moist, nares clear, trachea at midline",
+                "cardiovascular": "regular rate, rhythm. Systolic ejection murmur, soft.",
+                "pulmonary": "clear to auscultation bilaterally",
+                "abdominal": "hypoactive bowel sounds, moderately distended, tympanic to percussion. TTP in epigastrium and RUQ with + ___.",
+                "musculoskeletal": "warm, well perfused",
+                "neurological": "alert, oriented to person, place, time"
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

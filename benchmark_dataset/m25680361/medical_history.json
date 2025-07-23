@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Chest pain similar to anginal equivalent radiating to abdomen and back.",
+        "history_of_present_illness": "Chest pain started 1 hour prior to admission, associated with nausea. The abdominal pain is predominantly in the left lower quadrant and is not radiating. The patient reports black stools over the last 2 days with a change in odor but no bloody stools. Abdominal pain usually improves after eating.",
+        "past_medical_history": "Coronary artery disease status post CABG and PCI to LCx, aortic stenosis, ventricular tachycardia and ventricular fibrillation arrest status post ICD placement, congestive heart failure with an ejection fraction of 20% status post biventricular pacer, atrial fibrillation on coumadin, chronic renal insufficiency, and diverticulosis.",
+        "family_history": "No family history of early myocardial infarction, otherwise non-contributory.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is fluid filled and dilated to 10 mm with hyperemia and periappendiceal stranding compatible with acute appendicitis. No free air or adjacent fluid collection is identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Organism count",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml, reference range 22.0 - 35.0",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prothrombin time",
+            "date": "Not specified",
+            "findings": "25.9 sec",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

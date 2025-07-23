@@ -1,0 +1,49 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "gallbladder": {
+                    "description": "distended, measuring 3.8 cm in transverse and 7.9 cm in craniocaudal dimension",
+                    "observations": [
+                        "gallbladder wall edema",
+                        "probable trace pericholecystic fluid",
+                        "no gallstones present"
+                    ]
+                },
+                "liver": {
+                    "description": "hypodense lesions",
+                    "observations": [
+                        "one hypodense lesion in left lobe suggestive of a hemangioma",
+                        "one small hypodensity in right lobe"
+                    ]
+                },
+                "kidneys": {
+                    "description": "enhance and excrete contrast symmetrically",
+                    "observations": [
+                        "hypodensities in bilateral kidneys likely simple cysts",
+                        "no hydronephrosis"
+                    ]
+                },
+                "other findings": [
+                    "minimal atelectasis at the right lung base",
+                    "no free air or free fluid in abdomen or pelvis"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test (specific test not provided)",
+            "date": "Not specified",
+            "findings": {
+                "valuestr": "33.0 IU/L",
+                "observations": [
+                    "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN",
+                    "NO MICROORGANISMS SEEN"
+                ]
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

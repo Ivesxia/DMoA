@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CTA Chest",
+            "date": "Not specified",
+            "findings": "Trace pericardial effusion, moderate pleural effusion on the right, small on the left, bibasilar atelectasis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

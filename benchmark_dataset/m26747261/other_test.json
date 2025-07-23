@@ -1,0 +1,30 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Normal findings.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "liver": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass.",
+                "bile_duct": "There is no intrahepatic biliary dilation. The CHD measures 3 mm. Pneumobilia is likely related to recent ERCP.",
+                "gallbladder": "The gallbladder is distended, however there is no evidence of stones or gallbladder wall thickening. There is a small amount of pericholecystic fluid.",
+                "pancreas": "The imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation.",
+                "spleen": "Normal echogenicity, measuring 13.5 cm.",
+                "kidneys": "Limited views of the right kidney show no hydronephrosis.",
+                "retroperitoneum": "The visualized portions of aorta and IVC are within normal limits."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Laparoscopic Cholecystectomy",
+            "date": "Not specified",
+            "findings": "Cholecystitis confirmed.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

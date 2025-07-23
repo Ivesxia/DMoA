@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "62 bpm",
+                "blood_pressure": "144/92 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "head_neck": "Normocephalic, atraumatic, Oropharynx within normal limits",
+                "chest": "Clear to auscultation",
+                "abdominal": "Abdominal pain with tenderness midepigastric",
+                "extremities_back": "No cyanosis, clubbing or edema",
+                "skin": "No rash",
+                "neurologic": "Speech fluent",
+                "psychological": "Normal mood",
+                "petechiae": "No petechiae"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

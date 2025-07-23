@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (SINGLE VIEW)",
+            "date": "Not specified",
+            "findings": "Lungs are clear without focal consolidation, pleural effusion, or pneumothorax. Mediastinal and hilar contours are within normal limits. Heart size is normal. There is no acute osseous abnormality. There is no free air under the diaphragm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

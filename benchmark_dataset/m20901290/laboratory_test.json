@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C. difficile toxin A & B EIA",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Glucose",
+            "date": "Not specified",
+            "findings": "104.0 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen Without Contrast",
+            "date": "Not specified",
+            "findings": "Large bilateral pleural effusions of low density slightly increased from previous CT. Distention of the proximal small bowel has decreased somewhat, and there is now passage of contrast into the colon without definite evidence of small bowel obstruction. Distended appendix containing contrast and air at its base with periappendiceal stranding, inflammation, and extraluminal gas consistent with known appendiceal perforation. Multiple small organized fluid collections.",
+            "changes_over_time": "Degree of distention of the proximal small bowel decreased; some fluid collections slightly decreased from previous examination."
+        }
+    ]
+}

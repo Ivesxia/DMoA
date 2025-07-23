@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "128/80 mmHg",
+                "heart_rate": "97 bpm",
+                "temperature": "99°F",
+                "o2_saturation": "97%"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD",
+                "heent": "No scleral icterus, mucus membranes moist",
+                "cardiovascular": "RRR, No M/G/R",
+                "pulmonary": "Clear to auscultation b/l, No W/R/R",
+                "abdomen": "soft, mildly distended, +TTP in RLQ, localized rebound to RLQ, +voluntary guarding in RLQ, no involuntary guarding, no masses",
+                "dRE": "normal tone, no gross or occult blood",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

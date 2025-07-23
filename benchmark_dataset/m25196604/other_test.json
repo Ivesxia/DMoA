@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Polyps were removed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "IV Antibiotic Administration",
+            "date": "Not specified",
+            "findings": "Received IV ciprofloxacin and metronidazole.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "INR",
+            "date": "Not specified",
+            "findings": "INR 14 without active bleeding, improved to 5.6 after 2 doses of vitamin K 5mg.",
+            "changes_over_time": "INR dropped from 14 to 5.6 after treatment."
+        },
+        {
+            "procedure_name": "Chem-7",
+            "date": "Not specified",
+            "findings": "BUN/Cr elevated with baseline creatinine of 1.6.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "CBC within normal limits.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis (UA)",
+            "date": "Not specified",
+            "findings": "Few bacteria but negative for other abnormalities.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

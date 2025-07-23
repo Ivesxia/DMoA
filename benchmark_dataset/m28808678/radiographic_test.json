@@ -1,0 +1,42 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "abdomen": {
+                    "lung_bases": "clear",
+                    "pleural_effusion": "none",
+                    "pericardial_effusion": "none",
+                    "liver": "unremarkable",
+                    "gallbladder": "unremarkable",
+                    "pancreas": "unremarkable",
+                    "spleen": "unremarkable",
+                    "adrenal_glands": "unremarkable",
+                    "kidneys": {
+                        "excretion_of_contrast": "present",
+                        "otherwise": "unremarkable"
+                    },
+                    "bowel_obstruction": "none",
+                    "free_air": "none"
+                },
+                "pelvis": {
+                    "terminal_ileum": "normal",
+                    "appendix": {
+                        "dilated_and_thickened": "yes, up to 1.5 cm",
+                        "adjacent_inflammatory_change": "present"
+                    },
+                    "thickening_of_cecum": {
+                        "description": "medial wall, likely reactive"
+                    },
+                    "surrounding_fluid": "small amount present",
+                    "extraluminal_gas": "none",
+                    "drainable_fluid_collection": "none",
+                    "bladder": "residual contrast"
+                },
+                "osseo_structures": "no concerning osseous lesions"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

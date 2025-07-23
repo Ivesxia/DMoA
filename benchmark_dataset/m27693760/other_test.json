@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites. There is no intrahepatic biliary dilation. However, ring down artifact throughout the bile ducts could be due to pneumobilia. The CHD measures 5 mm. There are multiple shadowing gallstones. The imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation. Normal echogenicity of spleen measuring 7.3 cm. Limited views of the right kidney show no hydronephrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic cholecystectomy",
+            "date": "Not specified",
+            "findings": "Surgery was consulted to evaluate for possible acute cholecystitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

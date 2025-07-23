@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The gallbladder wall now appears more thickened, with a newly striated/lamellated appearance. Additionally, there is marked increase in induration and inflammation seen in the pericholecystic fat.",
+            "changes_over_time": "In comparison to prior study, the gallbladder has become markedly abnormal."
+        },
+        {
+            "procedure_name": "CANDIDA ALBICANS, PRESUMPTIVE IDENTIFICATION",
+            "date": "Not specified",
+            "findings": "155.0 IU/L (Reference range: 94.0 - 250.0 IU/L, within normal range)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

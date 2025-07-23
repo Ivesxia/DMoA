@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient has an approximately 6-hour history of abdominal pain that started in the morning on the day of admission. The pain was initially diffusely present around the umbilicus and then migrated to the right lower quadrant (RLQ). Patient denies any fevers or chills and reports that he did not have nausea or vomiting until after receiving a dose of morphine in the ED, which then led to mild nausea. Patient reports having an appetite and has had normal bowel habits.",
+        "past_medical_history": "Type-1 diabetes with wireless monitor and wireless humalog pump.",
+        "family_history": "Sister with celiac disease.",
+        "social_history": "Not specified."
+    }
+}

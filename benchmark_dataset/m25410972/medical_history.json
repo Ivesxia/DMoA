@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right lower quadrant abdominal pain",
+        "history_of_present_illness": "Pain began at 9PM last night; it is sharp and localized in RLQ with no migration and no change in character overnight. No association with food.",
+        "past_medical_history": "HIV+ (undetectable load for ___ yrs), mild asthma",
+        "family_history": "Father with bladder cancer, mother with early ___ and DVT, otherwise non-contributory for GI issues, no history of colorectal cancer (CRC)",
+        "social_history": "Not specified"
+    }
+}

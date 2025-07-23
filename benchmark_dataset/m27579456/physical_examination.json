@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "heart_rate": "64 bpm",
+                "blood_pressure": "122/80 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "alertness": "alert, oriented, in no acute distress",
+                "sclerae": "anicteric",
+                "oropharynx": "clear",
+                "neck": {
+                    "status": "supple",
+                    "lymphadenopathy": "none",
+                    "jugular_venous_distension": "none"
+                },
+                "lungs": "clear bilaterally",
+                "heart": "regular with mechanical heart valve sound",
+                "abdomen": {
+                    "status": "soft, nontender, nondistended",
+                    "masses": "none",
+                    "hernias": "none",
+                    "costovertebral_angle_tenderness": "none",
+                    "spinal_tenderness": "none"
+                },
+                "extremities": "without edema",
+                "neurologic_exam": "grossly nonfocal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

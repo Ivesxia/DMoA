@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Lung volumes are very low, limiting assessment for pulmonary edema. The right hemidiaphragm is elevated, resulting in increased vascular crowding. The chin and overlying soft tissues obscure the lung apices. The heart and mediastinum are magnified by the projection.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

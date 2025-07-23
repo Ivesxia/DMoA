@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Numerous hypodensities scattered throughout the liver, with the largest being a 1.4 cm hypodensity in segment VII compatible with a simple hepatic cyst. The appendix measures up to 1.4 cm with a hyperemic and thickened wall and significant periappendiceal fat stranding. No evidence of rupture, free air or organized fluid collections.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "41.0 sec (reference range 25.0 - 36.5 sec).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

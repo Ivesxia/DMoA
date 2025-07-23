@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC count: 8.9 K/uL (within normal range 4.0 - 11.0 K/uL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix enlarged to 10 mm with surrounding inflammatory changes; no evidence of rupture; no free fluid or free air in the abdomen; liver has stable hypodensities, largest 12 x 11 mm focus in segment IVb, likely cysts; otherwise normal abdominal organs.",
+            "changes_over_time": "Stable hypodensities in the liver dating back to Not specified."
+        }
+    ]
+}

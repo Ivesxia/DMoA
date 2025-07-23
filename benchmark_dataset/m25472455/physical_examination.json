@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2°F",
+                "heart_rate": "86 bpm",
+                "blood_pressure": "109/68 mmHg",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "constitutional": "Well appearing, in no acute distress",
+                "cardiopulmonary": "Regular rate and rhythm, normal S1 and S2, no murmurs, rubs or gallops, lungs clear to auscultation bilaterally",
+                "abdominal": "Soft, non-distended, right lower quadrant tenderness with no rebound or guarding",
+                "extremities": "Atraumatic, warm and well-perfused",
+                "neurologic": "Alert and oriented x3, grossly intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

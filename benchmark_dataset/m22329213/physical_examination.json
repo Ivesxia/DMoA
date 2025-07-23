@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.0°F",
+                "blood_pressure": "140/90 mmHg",
+                "heart_rate": "90 bpm",
+                "respiratory_rate": "13 bpm",
+                "oxygen_saturation": "98% on 4L NC"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented X 3, no acute distress",
+                "HEENT": "Sclera anicteric, dry mucous membranes, oropharynx clear, EOMI, PERRL",
+                "neck": "Supple, JVP not elevated, no LAD",
+                "cardiovascular": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+                "lungs": "Clear to auscultation bilaterally, no wheezes, rales, ronchi",
+                "abdomen": "Soft, distended, bowel sounds present though hypoactive in all quadrants, no organomegaly; diffuse abdominal pain to palpation, negative rebound tenderness or guarding; G tube in place with no erythema or drainage.",
+                "genitourinary": "Foley placed with dark amber urine",
+                "extremities": "Warm, well perfused, 2+ pulses, no clubbing, cyanosis, or edema",
+                "neurological": "CN II-XII intact, EOMI, symmetric smile, can raise forehead symmetrically, tongue midline, adequate hand grip strength bilaterally; UE flexion to only 40 degrees, cannot flex knees or pick up thighs off bed bilaterally; down-going Babinski bilaterally; grossly normal sensation, inability to elicit Achilles and patellar reflexes bilaterally; gait deferred."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

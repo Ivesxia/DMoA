@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Left ventricular systolic dysfunction with ejection fraction ___ and regional abnormalities. Evidence of left ventricular dyssynchrony likely related to left bundle branch block.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Right heart catheterization",
+            "date": "Not specified",
+            "findings": "Mean pulmonary capillary wedge pressure (PCWP) of 30, pulmonary artery (PA) ___ with a mean of 41, and mean right atrial (RA) pressure of 15.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdomen ultrasound (complete study)",
+            "date": "Not specified",
+            "findings": "The liver, pancreas, spleen, and kidneys demonstrate normal morphology and echotexture. No gallstones, biliary ductal dilatation, or ascites identified. Atherosclerotic plaque found throughout the abdominal aorta.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

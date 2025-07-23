@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified.",
+            "findings": "The appendix is dilated up to 15 mm, though contains gas. A possible appendicolith is in the region of the appendiceal neck. No surrounding inflammatory stranding. No intraperitoneal free fluid or free air.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "No MRSA test",
+            "date": "Not specified.",
+            "findings": "No MRSA isolated.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

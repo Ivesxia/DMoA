@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopic retrograde cholangiopancreatography (ERCP)",
+            "date": "Not specified",
+            "findings": "An ampullary diverticulum with pus and stones, concern for a fistulous connection with the CBD.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture (mentioned in context)",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile by the Illumigene DNA amplification assay.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

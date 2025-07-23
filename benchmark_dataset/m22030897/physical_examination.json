@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "95.7°F",
+                "blood_pressure": "118 mmHg",
+                "heart_rate": "90 bpm",
+                "respiratory_rate": "23 breaths/min",
+                "oxygen_saturation": "100% on NRB"
+            },
+            "relevant_findings": {
+                "general": "Eyes open, grimaces to exam, no response to verbal stimuli.",
+                "heent": "Sclera anicteric, eyes follow examiner.",
+                "neck": "Supple, unable to assess JVP.",
+                "lungs": "Audible upper airway secretions with rhonchi, left-sided wheezes, abdominal breathing.",
+                "cardiovascular": "Regular rate and rhythm, unable to appreciate murmurs through upper airway sounds.",
+                "abdomen": "Soft, non-distended, bowel sounds audible, no grimaces to deep palpation.",
+                "genitourinary": "Foley in place.",
+                "extremities": "Warm, 1+ pulses, no cyanosis or edema."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

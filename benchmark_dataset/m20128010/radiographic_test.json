@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Demonstrated terminal ileitis with a normal appendix.",
+            "changes_over_time": "2 days later demonstrated a periappendiceal abscess with terminal ileitis."
+        },
+        {
+            "procedure_name": "CHEST PORT. LINE PLACEMENT radiograph",
+            "date": "Not specified",
+            "findings": "No evidence of acute cardiopulmonary disease. Placement of a left subclavian PICC line that extends to the mid portion of the SVC.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Worsening lower abdominal pain",
+        "history_of_present_illness": "Patient experienced 1 week of worsening lower abdominal pain, initially attributed to excessive gas pains. Pain was described as colicky and crampy, localized to the lower abdomen, more on the left side. The patient reported feeling distended and bloated, with poor oral intake over the week. Pain worsened with oral intake and was limited to a bland diet. Bowel movements changed from initially loose to now hard. No fever, chills, dysuria, diarrhea, nausea, or vomiting.",
+        "past_medical_history": "Right mucinous cystadenoma status post oophorectomy; retinal detachment; hospitalization with erythema multiforme, unclear trigger; osteopenia; left breast cancer status post lumpectomy and sentinel node biopsy, grade 2 infiltrating lobular carcinoma, ER/PR+, HER2 negative, negative sentinel node biopsy. Past treatments included adjuvant radiotherapy and anastrozole.",
+        "family_history": "Mother's history not specified; father has a history of prostate cancer, no history of colon cancer.",
+        "social_history": "Not specified"
+    }
+}

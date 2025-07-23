@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Cholelithiasis with a single 26 mm gallstone within the gallbladder. No gallbladder wall thickening or pericholecystic fluid. No intra or extrahepatic biliary ductal dilatation. Common bile duct measures up to 5 mm in diameter. Signal drop on opposed phase gradient echo images consistent with hepatic steatosis with a fat fraction of 10%.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test",
+            "date": "Not specified",
+            "findings": "294.0 ug/dL (within normal range: 260.0 - 470.0 ug/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

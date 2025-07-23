@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Liver demonstrates minimal signal loss on out of phase imaging consistent with mild fatty deposition in the liver. An 8 x 7 mm lesion within the left lobe of the liver is hyperintense to hepatic parenchyma on T2 weighted imaging and demonstrates early peripheral enhancement on the arterial phase with delayed filling on postcontrast imaging is consistent with a hemangioma. There is no intra or extrahepatic biliary dilatation; the portal vein is patent. Multiple gallstones are present without evidence of cholecystitis. No stones are present in the common bile duct. The pancreas is of normal signal intensity without any ductal dilatation, abnormal enhancement or other evidence of disease. Multiple cystic structures are seen throughout the pancreas, all less than 5 mm, which are statistically most likely side branch intraductal papillary mucinous neoplasms. The spleen is unremarkable. There are multiple lesions in the kidneys that are hyperintense on T2 weighted imaging, which do not demonstrate appreciable enhancement and are most consistent with simple cysts. The largest measures 3.6 x 2.8 cm in the lower pole of the right kidney. Additionally, there is a 5 mm cystic lesion in the interpolar region of the left kidney that is hypointense to renal parenchyma on T2 weighted imaging and is hyperintense on T1 weighted imaging most consistent with a small hemorrhagic cyst. The adrenal glands are unremarkable. The stomach and visualized small and large bowel loops are unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Elevated lipase noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test (ALT and AP)",
+            "date": "Not specified",
+            "findings": "Elevated ALT and AP noted after presenting with similar symptoms.",
+            "changes_over_time": "LFT abnormalities resolved during a previous episode but recurred in this episode."
+        }
+    ]
+}

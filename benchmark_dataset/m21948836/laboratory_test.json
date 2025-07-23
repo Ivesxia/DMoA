@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "AST 48, ALT 47, Total Bilirubin 2.2, Direct Bilirubin 1.7, Amylase 164, Lipase 488",
+            "changes_over_time": "AST decreased from 48 to 34, ALT decreased from 47 to 43, Total Bilirubin decreased from 2.2 to 0.9, Direct Bilirubin decreased from 1.7 to 0.6, Amylase decreased from 164 to 132, Lipase decreased from 488 to 118."
+        },
+        {
+            "procedure_name": "Ultrasound Abdomen",
+            "date": "Not specified",
+            "findings": "Cholelithiasis, small amount of paracholecystic fluid, slightly thickened gallbladder wall, common bile duct dilated measuring 7.6 mm.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI Abdomen W/O Contrast",
+            "date": "Not specified",
+            "findings": "Diffusely edematous gallbladder, small amount of hyperintense T1-weighted signal suggesting tiny stones or sludge. Mild focal narrowing at the origin of the left hepatic duct with immediate distal dilatation to 9 mm.",
+            "changes_over_time": "Gallbladder edematous similar to prior ultrasound; condition remains consistent."
+        }
+    ]
+}

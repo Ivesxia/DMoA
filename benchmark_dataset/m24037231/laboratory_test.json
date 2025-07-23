@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The gallbladder is mildly distended and filled with stones. There is mild gallbladder wall thickening. The entire wall of the gallbladder could not be evaluated due to shadowing from the stones. A sonographic ___ sign was not present. No pericholecystic fluid is seen. The liver demonstrates normal parenchymal echogenicity. Previously noted echogenic lesion within the right lobe of the liver measuring about 1.8 cm appears stable and demonstrated imaging characteristics on the prior CT compatible with a hemangioma. No intra- or extra-hepatic biliary duct dilatation is present, with the common bile duct measuring 0.5 cm in diameter. Spleen measures 8.9 cm in length.",
+            "changes_over_time": "The previously noted echogenic lesion within the right lobe of the liver appears stable."
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "3.4 g/dL (Reference range: 3.5 - 5.2 g/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

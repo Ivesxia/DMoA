@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Multiple hypodensities scattered throughout the liver likely represent hepatic cysts; gallbladder shows no stones or wall edema; normal spleen; pancreas and adrenal glands show no masses; multiple hypodensities in renal parenchyma likely represent several cysts; bilateral parapelvic cysts are seen; kidneys enhance and excrete contrast symmetrically; small and large intestine show no evidence of obstruction; patent aorta, IVC, portal vein, and major branches; no lymphadenopathy; no free air or drainable fluid collection; bladder, uterus, and rectum unremarkable; sigmoid colon shows diverticulosis without evidence of diverticulitis; the appendix measures 10 mm with a hyperemic-appearing wall and significant fat stranding in the periappendiceal region.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test",
+            "date": "Not specified",
+            "findings": "Glucose level of 8.6 mg/dL; within normal range (normal range 8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

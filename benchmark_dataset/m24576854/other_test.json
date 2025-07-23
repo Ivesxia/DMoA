@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "liver biopsy",
+            "date": "Not specified",
+            "findings": "Stage II to III fibrosis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Involvement of the large duct and mild dilatation of the left intrahepatic duct, which was more prominent than on prior studies.",
+            "changes_over_time": "Worsening 1.5cm extrahepatic duct stricture (Proximal CBD) and progressive IHD irregularity/stricturing."
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "CBD balloon dilation and brushings sent for cytology and FISH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WNL (within normal limits).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "lipase test",
+            "date": "Not specified",
+            "findings": "Elevated lipase to 1000.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

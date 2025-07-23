@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Pancreatitis vs. Gastritis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with abdominal pain, nausea, and vomiting, alongside abnormal lab results including elevated lipase suggesting potential pancreatitis. Further evaluation with abdominal ultrasound showed no abnormalities in the pancreas or gallbladder. The patient's history of eating disorders and recent dietary habits could also suggest gastritis."
+    }
+}

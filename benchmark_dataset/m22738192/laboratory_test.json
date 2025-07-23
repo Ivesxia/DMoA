@@ -1,0 +1,44 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "chest": "The visualized lung bases are clear. There is no pericardial or pleural effusion.",
+                "abdomen": [
+                    "No focal liver lesions identified.",
+                    "Mild periportal edema.",
+                    "The portal venous system is patent.",
+                    "No evidence of intrahepatic or extrahepatic biliary dilatation.",
+                    "Gallbladder is normal and without gallstones.",
+                    "Mild gallbladder wall edema noted.",
+                    "The inferior vena cava has a plump appearance.",
+                    "The spleen and adrenal glands are unremarkable.",
+                    "The pancreas enhances homogenously and is without focal lesions.",
+                    "The kidneys display symmetric nephrograms and excretion of contrast. No focal renal lesions. No hydronephrosis. Ureters are normal in caliber and course to the bladder.",
+                    "The stomach is decompressed. The small bowel is normal in caliber without focal wall thickening. The large bowel is normal in caliber.",
+                    "High-density material within portions of small and large bowel, may be related to ingested material.",
+                    "The appendix is dilated measuring up to 14 mm and is air and fluid filled with extensive surrounding fat stranding.",
+                    "An appendicolith is noted in the body of the appendix.",
+                    "Mild thickening of the proximal ascending colon/cecum.",
+                    "No extraluminal air or drainable fluid collection.",
+                    "The abdominal aorta and its major branches are patent, normal in course and caliber.",
+                    "No retroperitoneal or mesenteric lymphadenopathy by CT size criteria."
+                ],
+                "pelvis": [
+                    "The bladder is well distended and normal.",
+                    "No pelvic side-wall or inguinal lymphadenopathy by CT size criteria.",
+                    "Trace pelvic free fluid, likely reactive."
+                ],
+                "osseous_structures": "No focal lytic or sclerotic lesion concerning for malignancy."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

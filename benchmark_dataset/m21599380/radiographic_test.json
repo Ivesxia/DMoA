@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Mild common bile duct dilatation; intrahepatic radicles appear amputated within the right lobe; opacification of the pancreatic duct is not well visualized.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

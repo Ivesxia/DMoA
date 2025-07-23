@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver demonstrates normal echotexture. An echogenic and shadowing granuloma is seen adjacent to the middle and left hepatic veins, likely from remote granulomatous disease. No intrahepatic or extrahepatic biliary duct dilatation. The common bile duct measures 6 mm. Small gallstones are seen within the gallbladder with a suggestion of gallbladder wall edema.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase test",
+            "date": "Not specified",
+            "findings": "Lipase in the 900s.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

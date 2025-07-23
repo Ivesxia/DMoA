@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Inflammatory mass measuring approximately 3 x 3.1 cm in the right lower quadrant near the cecum. The appendix is equivocally visualized measuring approximately 1.1 cm. Trace free fluid tracking down into the pelvis. No free air, no mesenteric or retroperitoneal lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "8.6 mg/dL (between reference range of 8.4 to 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Imaged lung bases are clear. There is no pleural effusion. Heart is normal in size without pericardial effusion. The liver demonstrates a homogeneous enhancement. Multiple focal hypodensities in segments VIII and VI, likely represent cysts or hamartomas. No intrahepatic biliary ductal dilatation. The gallbladder is incompletely distended with no gallbladder wall edema. The spleen is unremarkable. The pancreas enhances homogeneously without ductal dilatation. The kidneys enhance and excrete contrast without evidence of hydronephrosis. There is bowel wall thickening involving the cecum and proximal ascending colon with pericolonic fat stranding and a small amount of free fluid, predominantly at the cecum. The base of the appendix is dilated, measuring 10 mm. No free air or pneumatosis identified. Mesenteric and retroperitoneal lymph nodes do not meet criteria for pathologic enlargement. Intra-abdominal aorta and its branches are normal. The bladder, distal ureters, seminal vesicles, prostate, rectum and sigmoid colon are unremarkable. No suspicious osseous lesions are seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

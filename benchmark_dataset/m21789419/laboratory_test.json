@@ -1,0 +1,47 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "appearance": "within normal limits",
+                    "contour": "smooth",
+                    "focal_mass": "none",
+                    "portal_vein": "patent with hepatopetal flow",
+                    "ascites": "none"
+                },
+                "bile_ducts": {
+                    "dilation": "moderate intrahepatic biliary dilation, not significantly changed",
+                    "common_bile_duct": {
+                        "proximal_measurement": "12 mm",
+                        "head_of_pancreas_measurement": "11 mm",
+                        "previous_measurement": "7 mm"
+                    },
+                    "intraluminal_filling_defect": "none"
+                },
+                "gallbladder": "Patient has undergone interval cholecystectomy.",
+                "pancreas": {
+                    "appearance": "within normal limits",
+                    "pancreatic_tail": "obscured by overlying bowel gas",
+                    "proximal_pancreatic_duct": {
+                        "dilation": "mildly dilated up to 4 mm"
+                    }
+                },
+                "spleen": {
+                    "echogenicity": "normal",
+                    "measurement": "7.9 cm"
+                },
+                "kidneys": "Limited views of the right kidney show no hydronephrosis.",
+                "retroperitoneum": "The visualized portions of aorta and IVC are within normal limits."
+            },
+            "changes_over_time": "Common bile duct previously measured 7 mm, now measures 11 mm at the head of the pancreas."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

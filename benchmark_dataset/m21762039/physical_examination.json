@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7 °F",
+                "heart_rate": "92 bpm",
+                "blood_pressure": "136/82 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "NAD (No acute distress)",
+                "cardiovascular": "RRR (regular rate and rhythm)",
+                "lungs": "CTA B/L (clear to auscultation bilaterally)",
+                "abdominal": "Soft, mildly distended, tender to palpation in periumbilical and RLQ. No guarding, minimal rebound."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Abdominal CT",
+            "date": "Not specified",
+            "findings": "Fluid-filled and dilated appendix up to 1.0 cm with adjacent inflammation and several tiny appendicoliths.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Physical Examination",
+            "date": "Not specified",
+            "findings": "Soft abdomen, very tender in right lower quadrant with localized peritoneal signs, positive Rovsing's sign.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

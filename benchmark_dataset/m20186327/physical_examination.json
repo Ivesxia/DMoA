@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 98.3, Heart Rate: 110, Blood Pressure: 110/50, Respiratory Rate: 20, Oxygen Saturation: 97% on Room Air",
+            "relevant_findings": "Patient is alert, oriented, and in no acute distress. Pterygium observed on right eye. No significant findings in the neck. Lungs are clear to auscultation bilaterally. Cardiovascular system shows regular rate and rhythm with no murmurs, rubs, or gallops. Abdomen shows hypoactive bowel sounds with mild tenderness to palpation of the epigastrium and RUQ. Negative sign for rebound or guarding, and the abdomen is not distended. Extremities are warm, well perfused, and show no signs of clubbing, cyanosis, or edema. Neurologically intact with alertness and cranial nerves grossly intact.",
+            "changes_over_time": "Patient reported feeling much better upon arrival at the ICU, with resolved nausea and emesis and denial of abdominal pain."
+        }
+    ]
+}

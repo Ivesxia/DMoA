@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "blood_pressure": "150/68 mmHg",
+                "heart_rate": "84 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "95% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well appearing woman appearing younger than stated age, no acute distress.",
+                "heent": "Normocephalic, anicteric, PERRL, oral cavity benign, moist mucous membranes.",
+                "neck": "No masses or lymphadenopathy.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/rubs/gallops; no jugular venous distension, diminished but palpable dorsalis pedis pulses bilaterally.",
+                "pulmonary": "Equal expansion bilaterally, resonant to percussion bilaterally, clear to auscultation bilaterally.",
+                "abdominal": "Mild tenderness to palpation in right lower quadrant without guarding or rebound, soft, nondistended, bowel sounds present, no organomegaly or masses appreciated.",
+                "extremities": "Warm and well perfused, no clubbing/cyanosis/edema.",
+                "neurological": "Alert and oriented to person only, unclear of reasons for hospitalization.",
+                "psychological": "Pleasant, cooperative."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "heart_rate": "75 bpm",
+                "blood_pressure": "156/59 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": "RUQ ultrasound revealed ductal dilation consistent with previous CT findings.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Venous gas",
+            "date": "Not specified",
+            "findings": "Na:126 K:3.4 Cl:92 TCO2:23 Glu:465 pH:7.41",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "FSBG",
+            "date": "Not specified",
+            "findings": "500 mg/dL",
+            "changes_over_time": "Sugars have continued to downtrend."
+        },
+        {
+            "procedure_name": "WBC",
+            "date": "Not specified",
+            "findings": "WBC 9.1",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hgb",
+            "date": "Not specified",
+            "findings": "Hgb 12.7",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Plt",
+            "date": "Not specified",
+            "findings": "Plt 143",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microscopic examination",
+            "date": "Not specified",
+            "findings": "<10 PMNs and <10 epithelial cells/100X field. NO MICROORGANISMS SEEN. QUALITY OF SPECIMEN CANNOT BE ASSESSED.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

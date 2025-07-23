@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2°F",
+                "blood_pressure": "155/74 mmHg",
+                "heart_rate": "77 bpm",
+                "respiratory_rate": "18 bpm",
+                "oxygen_saturation": "95% on RA"
+            },
+            "relevant_findings": {
+                "general": "Awake, alert, NAD, complaining that it is cold.",
+                "HEENT": "NCAT, EOMI, anicteric.",
+                "cardiovascular": "RR, systolic murmur.",
+                "pulmonary": "CTA B.",
+                "abdominal": "Soft, mildly tender diffusely, positive bowel sounds.",
+                "extremities": "No edema or calf tenderness.",
+                "psychiatric": "Affect appropriate.",
+                "neurological": "Speech fluent, oriented to a hospital, does not know year or day of week, does not know why she is in the hospital."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Dilated and thickened appendix measuring up to 9 mm in diameter with minimal periappendiceal inflammatory changes. No fluid collection/abscess surrounding the appendix. The remainder of the bowel is unremarkable without bowel wall thickening, inflammatory changes, or obstruction. The visualized lung bases are clear and no abnormal enhancing masses in the liver.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Crescentic lucency underlying the left hemidiaphragm likely corresponds to the distended stomach seen on recent CT. There is no evidence for pneumoperitoneum. Bibasilar linear atelectasis is noted. There is no focal consolidation, pulmonary edema, or pneumothorax. There is a trace left pleural effusion. The aortic arch is calcified. The cardiomediastinal silhouette is otherwise unremarkable.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

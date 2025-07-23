@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Leukocytosis, WBC count increased from 10.9 to 14.9.",
+            "changes_over_time": "WBC count increased from 10.9 to 14.9."
+        },
+        {
+            "procedure_name": "Estimated GFR",
+            "date": "Not specified",
+            "findings": "Estimated GFR = 65 if non African-American; >75 if African-American.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRSA culture",
+            "date": "Not specified",
+            "findings": "No MRSA isolated.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

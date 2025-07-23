@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "UNABLE TO R/O PATHOGENS DUE TO OVERGROWTH OF SWARMING PROTEUS SPP.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Lung volumes remain low. Heart is upper limits of normal in size. Mild pulmonary vascular congestion persists as well as probable mild interstitial edema. Improving bibasilar atelectasis, more pronounced on the right than the left, and probable very small pleural effusions. Upper lobe predominant emphysema is noted.",
+            "changes_over_time": "Improving bibasilar atelectasis."
+        }
+    ]
+}

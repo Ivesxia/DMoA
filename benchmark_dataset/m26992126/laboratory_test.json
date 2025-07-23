@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipidase",
+            "date": "Not specified",
+            "findings": "Lipase: 740 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "AST",
+            "date": "Not specified",
+            "findings": "AST: 227 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ALT",
+            "date": "Not specified",
+            "findings": "ALT: 153 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "Alk Phos: 330 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "INR",
+            "date": "Not specified",
+            "findings": "INR: 1.2 (within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "CBC within normal limits but notable for left shift.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

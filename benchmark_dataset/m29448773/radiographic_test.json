@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Limited assessment of the lung bases demonstrate no focal opacity. A large nonhemorrhagic left pleural effusion which has mildly increased in size. Mild decrease in the subdiaphragmatic fluid collection with a peripheral enhancing irregular rim and locules of air consistent for an abscess. No new focal solid or cystic lesions. Thickening of the proximal transverse colon bowel wall which is unchanged from prior study.",
+            "changes_over_time": "The pancreatic head pseudocyst decreased from 5.3 x 3.7 cm to 4.1 x 3.4 cm, a pseudocyst in the uncinate decreased from 2.7 x 2.1 cm to 2.5 x 2.1 cm, while the pseudocyst in the pancreatic body increased from 1.3 x 0.5 cm to 1.8 x 1.0 cm. The drainage pseudocyst in the tail remained unchanged in size."
+        }
+    ]
+}

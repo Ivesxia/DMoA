@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0",
+                "heart_rate": "66",
+                "blood_pressure": "111/78",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "well nourished, appropriate",
+                "heent": "NC/AT, PERRLA, EOMI, sclerae anicteric, MMM",
+                "neck": "supple, obese",
+                "lungs": "CTA bilat, no r/rh/wh, good air movement, resp unlabored, no accessory muscle use",
+                "heart": "RRR, no MRG, nl S1-S2",
+                "abdomen": "NABS, soft/ND, mildly TTP in mid epigastrium, no masses or HSM, no rebound/guarding",
+                "extremities": "WWP, no edema bilaterally in lower extremities, no erythema, induration, or evidence of injury or infection",
+                "neuro": "awake, A&Ox3, CNs II-XII grossly intact, muscle strength ___ throughout, sensation grossly intact throughout, DTRs 2+ and symmetric, gait deferred"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

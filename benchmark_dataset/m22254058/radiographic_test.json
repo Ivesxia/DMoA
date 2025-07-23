@@ -1,0 +1,26 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Visualized lung fields are within normal limits. No evidence of pleural or pericardial effusion.",
+                "abdomen": {
+                    "hepatobiliary": "Liver demonstrates homogenous attenuation throughout. Subcentimeter hypodensity in segment VIII and VI likely represents cysts or biliary hamartomas. No evidence of intrahepatic or extrahepatic biliary dilatation. Gallbladder is within normal limits.",
+                    "pancreas": "Normal attenuation throughout, without evidence of focal lesions or pancreatic ductal dilatation. No peripancreatic stranding.",
+                    "spleen": "Normal size and attenuation throughout, without evidence of focal lesions.",
+                    "adrenals": "Normal in size and shape.",
+                    "urinary": "Normal and symmetric kidneys with normal nephrogram. No focal renal lesions or hydronephrosis.",
+                    "gastrointestinal": "Stomach is unremarkable. Small bowel loops show normal caliber, wall thickness, and enhancement. The colon and rectum are within normal limits. Appendix is enlarged (up to 1.1 cm and hyperemic), concerning for appendicitis. No fluid collection or evidence of extraluminal air.",
+                    "pelvis": "Small amount of free fluid in the pelvis.",
+                    "reproductive_organs": "Uterus and bilateral adnexae are within normal limits.",
+                    "lymph_nodes": "No retroperitoneal, mesenteric, pelvic, or inguinal lymphadenopathy.",
+                    "vascular": "No abdominal aortic aneurysm or atherosclerotic disease noted.",
+                    "bones": "No evidence of worrisome osseous lesions or acute fracture.",
+                    "soft_tissues": "Abdominal and pelvic wall is within normal limits."
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

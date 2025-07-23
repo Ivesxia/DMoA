@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.3°F",
+                "heart_rate": "83 bpm",
+                "blood_pressure": "104/53 mmHg",
+                "respiratory_rate": "10 breaths/min",
+                "oxygen_saturation": "95% on 2L NC"
+            },
+            "relevant_findings": {
+                "general": "Sleepy but arousable, alert and oriented x 3",
+                "cardiovascular": "Not specified",
+                "abdominal": "Distended, tympanitic, tender to palpation mild diffuse, worst in right lower quadrant",
+                "extremities": "Diffuse 1+ edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

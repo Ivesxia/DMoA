@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.4°F",
+                "heart_rate": "74 bpm",
+                "blood_pressure": "156/100 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "Awake, alert, oriented to time, place, and person (Ox3)",
+                "cardiovascular": "Regular rate and rhythm (rrr), S1 & S2 heart sounds present",
+                "lungs": "Clear to auscultation (CTA)",
+                "abdominal": "Soft, non-distended, tender in epigastric region, no guarding, no rebound tenderness",
+                "extremities": "No edema, palpable pulses"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

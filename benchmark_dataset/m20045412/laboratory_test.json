@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits. No evidence of pleural or pericardial effusion. Small hiatal hernia. The liver demonstrates homogenous attenuation throughout with no evidence of focal lesions. No evidence of intrahepatic or extrahepatic biliary dilatation. The gallbladder is within normal limits. The pancreas appears unremarkable without dilatation of the main duct. The spleen is normal in size without evidence for focal lesions. Small accessory spleen. Both adrenal glands are normal in size and shape. Kidneys are of normal and symmetric size with normal nephrogram and no evidence of focal renal lesions or hydronephrosis. Small bowel and colon loops are unremarkable without evidence for wall thickening or inflammatory changes. Appendix measures 7 mm in diameter and appears hyperemic with trace adjacent fat stranding and fluid. Trace free fluid in the pelvis. Septate uterine morphology noted. 2 cm anterior wall fibroid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

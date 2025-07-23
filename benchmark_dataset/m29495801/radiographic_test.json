@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT PELVIS W&W/O C",
+            "date": "Not specified",
+            "findings": "Numerous diverticula of the sigmoid colon with bowel wall thickening of the mid sigmoid colon. A left pelvic fluid collection that had previously measured 3 cm has almost resolved. A tiny residual fluid focus measuring 1.1 cm is seen at the location of the prior fluid collection. Trace fluid in the pelvis is unchanged.",
+            "changes_over_time": "The left pelvic fluid collection has almost resolved since the prior exam."
+        }
+    ]
+}

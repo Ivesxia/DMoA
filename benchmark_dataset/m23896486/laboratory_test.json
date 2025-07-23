@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix measures approximately 7 mm with minimal surrounding appendiceal stranding at the tip; no significant contrast noted intraluminally within the appendix. Other abdominal organs appear unremarkable with no free air or fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for unknown parameter",
+            "date": "Not specified",
+            "findings": "40.0 mg/dL",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

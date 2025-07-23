@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Chest: Bases of the lungs clear, no pleural or pericardial effusion. Abdomen: Liver homogeneous, small hypodensity in right hepatic lobe potentially an hepatic cyst or biliary hamartomas. Normal portal veins and biliary ducts. No cholelithiasis. Kidneys with symmetric nephrograms, multiple small cortical renal hypo densities, largest 6 mm in right kidney, no hydronephrosis. Appendix fluid-filled, 8 mm at tip with mild appendiceal fat stranding and a 1.6 x 1.8 cm rim enhancing fluid collection at base. Rectum filled with stool, minimally distended loop of small bowel suggestive of slow transit. Minimal atherosclerotic calcifications in abdominal aorta, no adenopathy. Pelvis normal, right hydrocele noted. Osseous structures without suspicious lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Elevated",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": {
+                "pleural effusions": "Trace pleural effusions noted bilaterally",
+                "liver": "Heterogeneous enhancement; no suspicious enhancing masses",
+                "biliary": "No intrahepatic or extrahepatic biliary duct dilation; fluid-fluid level suggestive of biliary sludge",
+                "pancreas": "Peripancreatic stranding consistent with known pancreatitis; no pancreatic duct dilatation; no peripancreatic fluid collections; hyperintensities observed in the neck and tail of pancreas",
+                "spleen": "Normal in size and signal intensity",
+                "adrenal glands": "Normal in size and signal intensity",
+                "kidneys": "10 mm lesion in left kidney with central enhancement; bilateral renal cysts noted"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Kidney function studies",
+            "date": "Not specified",
+            "findings": "Abnormal results",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

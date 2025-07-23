@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain.",
+        "history_of_present_illness": "The patient reports onset of nausea, abdominal, and chest pain at about 10 PM the previous evening, which progressively worsened. She reports not having similar pain in the past but has chronic ongoing gastrointestinal illnesses.",
+        "past_medical_history": "IBS, SIBO, stool and urinary incontinence, diverticulitis, endometriosis, GERD, esophageal issues, cardiomyopathy, CHF, leukocytosis, paraesophageal node, lactose intolerance, chronic arthralgias, IgG deficiency, basal cell carcinoma, squamous cell carcinoma, history of atrial fibrillation (occurring ___ years ago), history of cardiac arrest as a child.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

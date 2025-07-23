@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Infection surrounding a diverticulum at the cecum with small foci of air within the diverticulum. Secondary wall thickening of the cecum. Minimal hyperemia at the base of the appendix, otherwise normal appendix. Trace free fluid in the pelvis. No evidence of retroperitoneal or mesenteric lymphadenopathy. Multiple right lower quadrant lymph nodes, likely reactive.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture Test",
+            "date": "Not specified",
+            "findings": "NO ENTERIC GRAM NEGATIVE RODS FOUND. NO SALMONELLA OR SHIGELLA FOUND.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

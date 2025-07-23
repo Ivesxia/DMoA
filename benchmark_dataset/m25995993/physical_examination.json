@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "79 bpm",
+                "blood_pressure": "100/70 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "heent": "Normocephalic, atraumatic",
+                "chest": "Bibasilar crackles",
+                "abdominal": "Soft. Mild tenderness to palpation to RUQ and epigastric.",
+                "skin": "Warm and dry",
+                "neuro": "Speech fluent",
+                "psych": "Normal mood, Normal mentation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

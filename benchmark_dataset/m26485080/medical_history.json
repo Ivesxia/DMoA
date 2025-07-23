@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain and vomiting",
+        "history_of_present_illness": "The patient is a ___ year old female who presents with a 1 day history of vomiting and abdominal pain that started the previous evening in the mid epigastrium, without any radiation. The pain worsens with walking, movement, and urination.",
+        "past_medical_history": "Anxiety, depression, uterine fibroids, hypothyroidism, benign pituitary tumor, and herniated discs. Surgical history includes laparoscopic endometriosis surgery and endometrial polypectomy.",
+        "family_history": "Coronary artery disease in grandparents; mother with irritable bowel syndrome.",
+        "social_history": "Not specified."
+    }
+}

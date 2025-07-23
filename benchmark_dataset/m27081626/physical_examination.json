@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "126/60 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "In distress, writhing in pain",
+                "cardiovascular": "Regular rate and rhythm, normal S1 and S2, II/VI systolic ejection murmur",
+                "respiratory": "Clear to auscultation bilaterally",
+                "abdominal": "Soft, mild epigastric tenderness, nondistended, no rebound or guarding",
+                "back": "No costovertebral angle tenderness",
+                "extremities": "No edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

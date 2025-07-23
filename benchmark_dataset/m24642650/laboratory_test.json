@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Area of inflammation in the right lower quadrant, primarily around the posterior cecum, with multiple diverticula. The appendiceal tip appears inflamed with mucosal hyperenhancement, measuring up to 7 mm. Several prominent lymph nodes are seen. No free fluid or free air identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

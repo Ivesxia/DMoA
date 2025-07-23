@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Trace right pleural effusion with mild to moderate bilateral dependent atelectasis; the liver demonstrates homogenous attenuation with no focal lesions; mild intrahepatic biliary dilatation; gallbladder distended with thickened wall and extensive pericholecystic fat stranding; hyperdense gallstone in the gallbladder fundus measuring 5 mm; pancreas, spleen, and adrenal glands normal; subcentimeter right renal hypodensities likely cysts; diverticulosis of the colon; small amount of nonhemorrhagic free pelvic fluid; no abdominal aortic aneurysm but extensive atherosclerotic disease noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": "Escherichia coli detected; values indicate a lower limit of 2.7 mg/dL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

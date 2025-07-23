@@ -1,0 +1,53 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "hepatobiliary": {
+                    "liver": {
+                        "description": "Multiple hypodensities throughout the liver, largest measuring up to 1.4 cm likely represent cysts or hamartomas",
+                        "periportal_edema": "Mild"
+                    },
+                    "gallbladder": {
+                        "wall_edema": "Some",
+                        "stone": "Dependent radiopaque stone at the fundus"
+                    },
+                    "CBD_measurement": "6 mm"
+                },
+                "pancreas": {
+                    "attenuation": "Normal",
+                    "lesions": "No evidence of focal lesions or pancreatic ductal dilatation"
+                },
+                "spleen": {
+                    "size": "Normal",
+                    "lesions": "No evidence of focal lesions"
+                },
+                "kidneys": {
+                    "size": "Normal and symmetric",
+                    "nephrogram": "Normal"
+                },
+                "appendix": {
+                    "description": "Fluid-filled",
+                    "measurement": "Up to 8 mm",
+                    "fat_stranding": "Significant surrounding the appendix"
+                },
+                "free_fluid_in_pelvis": "Small amount",
+                "other_findings": {
+                    "diverticula": "2 noted in the third portion of the duodenum",
+                    "urinary_bladder": "Unremarkable",
+                    "no_lymphadenopathy": "No retroperitoneal or mesenteric lymphadenopathy"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gram Stain",
+            "date": "Not specified",
+            "findings": {
+                "result": "GRAM NEGATIVE ROD(S)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "initial": {
+                    "temperature": "97.6°F",
+                    "heart_rate": "77 bpm",
+                    "blood_pressure": "127/58 mmHg",
+                    "respiratory_rate": "16 breaths/min",
+                    "oxygen_saturation": "97% RA"
+                },
+                "prior_to_transfer": {
+                    "temperature": "98.2°F",
+                    "heart_rate": "68 bpm",
+                    "blood_pressure": "136/56 mmHg",
+                    "respiratory_rate": "18 breaths/min",
+                    "oxygen_saturation": "98% RA"
+                },
+                "on_admission": {
+                    "temperature": "98.7°F",
+                    "heart_rate": "78 bpm",
+                    "blood_pressure": "132/58 mmHg",
+                    "respiratory_rate": "16 breaths/min",
+                    "oxygen_saturation": "98% RA"
+                }
+            },
+            "relevant_findings": {
+                "general": "Pleasant, lying in bed comfortably.",
+                "heent": "AT/NC, EOMI, non-scleral icteri.",
+                "cardiac": "Regular rate and rhythm, no murmurs, rubs, or gallops.",
+                "lung": "Appears in no respiratory distress, clear to auscultation bilaterally, no crackles, wheezes, or rhonchi.",
+                "abdomen": "Normal bowel sounds, soft, mild epigastric tenderness on deep palpation, nondistended, no hepatomegaly, no splenomegaly.",
+                "extremities": "Warm, well perfused, no lower extremity edema.",
+                "pulses": "2+ radial pulses, 2+ _____ pulses, 2+ DP pulses.",
+                "neuro": "Alert, oriented, motor and sensory function grossly intact."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

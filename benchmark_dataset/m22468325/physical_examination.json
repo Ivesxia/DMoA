@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7 °F",
+                "blood_pressure": "120/64 mmHg",
+                "heart_rate": "88 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "94%"
+            },
+            "relevant_findings": {
+                "general": "Alert and in no apparent distress",
+                "eyes": "Anicteric, pupils equally round 3 mm and sluggish bilaterally",
+                "ent": "Ears and nose without visible erythema, masses, or trauma. Oropharynx without visible lesion, erythema or exudate",
+                "cardiovascular": "Heart regular, no murmur, no S3, no S4. No JVD",
+                "respiratory": "Lungs clear to auscultation with good air movement bilaterally. Breathing is non-labored",
+                "gastrointestinal": "Abdomen soft, non-distended, non-tender to palpation. Bowel sounds present. No HSM",
+                "genitourinary": "No suprapubic fullness or tenderness to palpation",
+                "musculoskeletal": "Neck supple, moves all extremities, strength grossly full and symmetric bilaterally in all limbs s/p b/l AKA. R wound site exposed and c/d/I",
+                "skin": "No rashes or ulcerations noted",
+                "neurological": "Alert, oriented, face symmetric, gaze conjugate with EOMI, speech fluent, + southern accent, moves all limbs, sensation to light touch grossly intact throughout",
+                "psychiatric": "Very pleasant, appropriate affect"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "ct": "Bibasilar atelectasis. No large pleural effusion or pericardial effusion. Coronary artery calcifications are moderate. The pancreas shows a 1.1 x 1.5 cm hypodense cystic lesion that has increased in size compared to previous and soft tissue stranding about the pancreatic head and body. Subtle peripheral hypodensity in the spleen likely reflects a prior infarct, new from prior exam. Mild right renal cortical scarring. Multiple bilateral renal cystic structures measure up to 2.6 x 2.4 cm in the right upper pole kidney."
+            },
+            "changes_over_time": {
+                "pancreatic_lesion": "Increased in size from 0.6 x 0.7 cm previously to 1.1 x 1.5 cm",
+                "spleen": "Subtle peripheral hypodensity new from prior exam"
+            }
+        }
+    ]
+}

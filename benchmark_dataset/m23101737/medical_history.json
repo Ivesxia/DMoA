@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Pain started 8 hours ago, mainly located along the umbilicus and lower abdomen, increasing in severity. The patient denies fevers, chills, nausea, and vomiting. Last bowel movement was yesterday, formed and non-bloody.",
+        "past_medical_history": "Not specified",
+        "family_history": "No family history of colon cancer, Crohn's disease, or ulcerative colitis.",
+        "social_history": "Not specified"
+    }
+}

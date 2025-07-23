@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits. There is no evidence of pleural or pericardial effusion. The liver demonstrates homogenous attenuation throughout without focal lesions or biliary dilatation. The pancreas and spleen are normal without lesions. The right adrenal gland is normal; the left adrenal gland has an indeterminate density nodule (1.7 x 1.5 cm). The kidneys are normal. The colon and rectum are normal; the appendix contains an appendicolith and is dilated (1.5 cm) with surrounding fat stranding. There is a small to moderate volume of free fluid in the right pericolic gutter and pelvis. Multiple large fibroids are noted in the uterus. No lymphadenopathy or abdominal aortic aneurysm; mild atherosclerotic disease observed. No worrisome osseous lesions or acute fractures. A fluid collection in the anterior abdominal wall measures 2.9 x 1.4 x 3.6 cm (new since prior CT) and a paraumbilical hernia is unchanged.",
+            "changes_over_time": "Compared to the prior CT, there is relatively decreased small bowel dilation which may indicate resolving/partial obstruction. The amount of free fluid in the right pericolic gutter and pelvis has slightly increased. A fluid collection in the anterior abdominal wall is new since the prior CT, while a small fluid containing paraumbilical hernia is unchanged."
+        }
+    ]
+}

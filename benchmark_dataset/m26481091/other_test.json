@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EKG",
+            "date": "Not specified",
+            "findings": "Unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EGD",
+            "date": "Not specified",
+            "findings": "Normal mucosa in the stomach, duodenum; irregular z-line in the GE junction; random biopsies also demonstrated normal mucosa on pathology.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is fluid-filled, measuring up to 0.8 cm; focal hyperemia at the appendiceal base with focal wall thickening up to 3 mm; mild thickening of the cecum at the base of the appendix and mild mesenteric stranding.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

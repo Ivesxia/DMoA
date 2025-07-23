@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "PCR for Neisseria Gonorrhoeae",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria Gonorrhoeae by PCR.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Fluid filled, dilated appendix up to 8 mm in diameter with hyperenhancing walls and mild surrounding fat stranding and fluid. No free air, no free fluid, no evidence of fluid collection or perforation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "WBC count 11.2 K/uL, which is outside the normal range (normal range: 4.0 - 11.0 K/uL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

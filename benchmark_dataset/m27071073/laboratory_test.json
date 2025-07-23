@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites. There is no intrahepatic biliary dilation. The CHD measures 3 mm. Cholelithiasis without gallbladder wall thickening. The imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation. Normal echogenicity of the spleen, measuring 10.2 cm. Limited images of the right kidney show no evidence of hydronephrosis. Visualized portions of aorta and IVC are within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Blood Test for Serum Creatinine",
+            "date": "Not specified",
+            "findings": "3.6 mg/dL (normal range 2.7 - 4.5 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

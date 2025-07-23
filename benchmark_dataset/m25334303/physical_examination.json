@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.0°F",
+                "heart_rate": "86 bpm",
+                "blood_pressure": "163/96 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "SpO2": "96% RA"
+            },
+            "relevant_findings": {
+                "general": "A&O x3, tearful, in obvious discomfort",
+                "HEENT": "No scleral icterus",
+                "CV": "RRR",
+                "pulmonary": "Normal work of breathing",
+                "abdomen": "Soft, nondistended, significantly tender to palpation in the RLQ, +Rovsing's sign, negative psoas & obturator tests",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

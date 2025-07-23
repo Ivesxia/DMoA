@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The gas and fluid collection medial to the sigmoid measures 4.1 x 3.8 x 4.5 cm, significantly smaller compared to a previous measurement of 3.2 x 2.4 x 2.9 cm. A smaller fluid collection to the right measures 2.3 x 2.1 cm and is unchanged from prior. Residual intra-abdominal free air is slightly decreased in size compared to the previous exam.",
+            "changes_over_time": "The main fluid collection has decreased in size, while the smaller fluid collection is unchanged."
+        },
+        {
+            "procedure_name": "MRSA testing",
+            "date": "Not specified",
+            "findings": "No MRSA isolated.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

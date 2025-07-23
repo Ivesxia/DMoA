@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric abdominal pain",
+        "history_of_present_illness": "Patient has undergone multiple regimens of chemotherapy complicated by local recurrence and lymph node metastases. The precise onset of the current symptoms is not specified, but the patient has a complex history of pancreatic adenocarcinoma and experiences various symptoms likely related to this condition and its treatments.",
+        "past_medical_history": "Metastatic Pancreatic Adenocarcinoma, Chemotherapy-Induced Neuropathy, GERD",
+        "family_history": "Mother with breast cancer in her ___",
+        "social_history": "Not specified"
+    }
+}

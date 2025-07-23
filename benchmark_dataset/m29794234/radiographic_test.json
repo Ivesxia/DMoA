@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated up to 9 mm and demonstrates a thickened wall and adjacent fat stranding, consistent with appendicitis. All other abdominal and pelvic structures including the liver, gallbladder, spleen, pancreas, kidneys, and bowel are normal, with no lymphadenopathy or free fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

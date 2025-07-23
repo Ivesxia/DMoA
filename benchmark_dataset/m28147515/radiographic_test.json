@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "CT scan showed a dilated CBD, a large gallbladder without signs of inflammation, a CBD up to 10mm, and intra and extra-hepatic ductal dilatation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The pancreas has normal attenuation throughout, without evidence of focal lesions. The pancreatic duct is dilated up to 8 mm in the head, new from the previous study and is normal caliber in the body and tail. The appendix is dilated up to 1.3 cm with hyperemic and thickened walls and periappendiceal stranding, consistent with acute appendicitis. Reactive mesenteric lymph nodes are noted adjacent to the inflamed appendix.",
+            "changes_over_time": "The pancreatic duct diameter has increased to 8 mm in the head, as compared to the previous study."
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "3.7 mg/dL",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

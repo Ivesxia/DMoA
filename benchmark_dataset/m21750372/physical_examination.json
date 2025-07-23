@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98",
+                "heart_rate": "99",
+                "blood_pressure": "161/89",
+                "respiratory_rate": "18"
+            },
+            "relevant_findings": "Patient is alert and oriented x 3, appears uncomfortable. Pupils equal, round, reactive to light. Extraocular movements intact. Abdomen is soft, severely distended, mildly tender to palpation in epigastric region and right upper quadrant without guarding. No inguinal or femoral hernia. Rectal examination reveals hard stool, no masses, and no gross blood.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

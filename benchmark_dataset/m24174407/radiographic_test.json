@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits aside from mild bibasilar atelectasis. No evidence of pleural or pericardial effusion. Liver shows homogenous attenuation with a 7 mm hypodensity in segment II. No evidence of focal lesions. No intrahepatic or extrahepatic biliary dilatation. Gallbladder is normal. Pancreas is normal without focal lesions. Spleen normal in size and attenuation. Kidneys normal and symmetric in size with no focal lesions or hydronephrosis. The tip of the appendix is enlarged measuring up to 11 mm and is fluid-filled with surrounding stranding noted, but no evidence of rim enhancing fluid collection. Trace free fluid in the pelvis. No lymphadenopathy or vascular abnormalities.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

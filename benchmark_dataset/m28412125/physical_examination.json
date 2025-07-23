@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "upon admission",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "150/82 mmHg",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "general": "Sitting up in bed, mostly comfortable appearing",
+                "head_eyes": "NC/AT",
+                "ENT": "OP WNL",
+                "respiratory": "CTAB",
+                "cardiovascular": "RRR, S1, S2, no MRG",
+                "abdomen": "soft, mild focal RLQ TTP, no guarding or rebound",
+                "skin": "no rash, warm and dry",
+                "extremities": "no c/c/e",
+                "neurological": "speech fluent",
+                "psychological": "normal mood"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "general": "NAD",
+                "cardiovascular": "ns1, s2",
+                "lungs": "clear",
+                "abdomen": "hypoactive BS, soft, mild erythema lower abdomen and upper abdomen, port sites with dermabond, no rebound, no guarding",
+                "extremities": "no calf tenderness bil., no pedal edema bil",
+                "neurological": "alert and oriented x 3, speech clear, no tremors"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

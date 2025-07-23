@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "No stones or sludge were seen, and a sphincterotomy was not performed due to the patient's plavix.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Gallbladder is distended and contains multiple stones, with surrounding pericholecystic fluid, mild mural edema, and fat stranding, consistent with acute cholecystitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Percutaneous cholecystostomy",
+            "date": "Not specified",
+            "findings": "Mixed bacterial flora.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

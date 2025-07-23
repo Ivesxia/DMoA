@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase was elevated at 129.0 IU/L (normal range: 0.0 - 100.0 IU/L).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Gallbladder wall is thickened, irregular, edematous, and progressively hyperenhancing. There is cholelithiasis and a suspected 3 mm stone within the proximal cystic duct.",
+            "changes_over_time": "Mild atelectatic changes at the lung bases without pleural effusion were noted. No definitive choledocholithiasis found."
+        }
+    ]
+}

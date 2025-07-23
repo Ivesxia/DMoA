@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized lung bases are clear. There is no pleural or pericardial effusion. The appendix is fluid-filled and dilated, measuring up to 9 mm at the tip. There is a paucity of surrounding inflammatory changes, indicating early appendicitis. No intraabdominal free air or free fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

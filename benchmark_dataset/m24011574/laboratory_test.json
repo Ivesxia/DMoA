@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC of 9.7, Hgb 12.9, normal chem7, LFTs, and lactate.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The hepatic parenchyma appears within normal limits. The gallbladder is moderately distended and contains sludge and small stones. There is a trace of pericholecystic fluid; however, no wall edema is noted.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Microbiology Test",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

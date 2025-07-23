@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100°F",
+                "heart_rate": "115 bpm",
+                "blood_pressure": "169/89 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on RA"
+            },
+            "relevant_findings": {
+                "general": "awake, alert, oriented x 3",
+                "heent": "NCAT",
+                "heart": "NMRG, RRR",
+                "lungs": "CTAB, no respiratory distress",
+                "chest": "non-tender",
+                "back": "no vertebral tenderness, no CVAT",
+                "abdomen": "soft, ND, quite tender to palpation RLQ, no diffuse peritonitis, NO hernias or masses",
+                "pelvis": "deferred",
+                "extremities": "WWP, no CCE, no tenderness"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

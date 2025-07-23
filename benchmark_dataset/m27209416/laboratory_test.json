@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory test for polymorphonuclear leukocytes",
+            "date": "Not specified",
+            "findings": "67.0 ng/dL; NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.  NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph (Portable AP)",
+            "date": "Not specified",
+            "findings": "Low bilateral lung volumes. Bibasilar opacities thought to reflect atelectasis. Small bilateral pleural effusions present. No pneumothorax.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

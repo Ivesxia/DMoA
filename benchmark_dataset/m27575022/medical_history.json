@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "24 hours history of abdominal pain, starting at umbilicus and then radiating to the right lower quadrant, worsening during the day.",
+        "past_medical_history": "Ulcerative colitis diagnosed ___ years ago, on Remicade for the last year and a half without acute flares.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

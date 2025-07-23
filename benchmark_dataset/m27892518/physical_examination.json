@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "heart_rate": "112 bpm",
+                "respiratory_rate": "16 bpm",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "general": "No acute distress; alert and fully oriented",
+                "cardiac": "Regular rate and rhythm; normal S1 and S2",
+                "pulmonary": "Lungs clear to auscultation bilaterally",
+                "abdominal": "Soft, non-distended, acutely tender to palpation in the right lower quadrant; mild tenderness in the right upper quadrant; (+) rebound; (-) guarding; (+) Rovsing/(+) Psoas signs",
+                "extremities": "Warm and well-perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laparoscopic converted to open cholecystectomy",
+            "date": "Not specified",
+            "findings": "Acute cholecystitis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP and sphincterotomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Portable chest x-ray",
+            "date": "Not specified",
+            "findings": "The tip of the right central line is in the region of the cavoatrial junction. Somewhat low lung volumes. No consolidation, pneumothorax, or large pleural effusions; may have increased right paratracheal soft tissue, versus oblique positioning.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

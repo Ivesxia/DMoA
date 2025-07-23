@@ -1,0 +1,29 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "hepatobiliary": "The liver demonstrates homogenous attenuation throughout. There is no evidence of focal lesions. There is no evidence of intrahepatic or extrahepatic biliary dilatation. The gallbladder is within normal limits.",
+                "pancreas": "The pancreas has normal attenuation throughout, without evidence of focal lesions or pancreatic ductal dilatation. There is no peripancreatic stranding.",
+                "spleen": "The spleen shows normal size and attenuation throughout, without evidence of focal lesions.",
+                "adrenals": "The right and left adrenal glands are normal in size and shape.",
+                "urinary": "The kidneys are of normal and symmetric size with normal nephrogram. There is no evidence of focal renal lesions or hydronephrosis. There is no perinephric abnormality.",
+                "gastrointestinal": "The stomach is unremarkable. The appendix is dilated up to 1.2 cm and there is periappendiceal fat stranding consistent with acute appendicitis. A 3 mm appendicolith is identified. There is a focally dilated loop of small bowel measuring 3 cm within the right lower quadrant likely representing focal ileus due to adjacent inflammation. There is very minimal free fluid in the right hemipelvis.",
+                "pelvis": "The urinary bladder and distal ureters are unremarkable.",
+                "reproductive_organs": "The reproductive organs are unremarkable.",
+                "lymph_nodes": "There is no retroperitoneal or mesenteric lymphadenopathy. There is no pelvic or inguinal lymphadenopathy.",
+                "vascular": "There is no abdominal aortic aneurysm. Mild atherosclerotic disease is noted.",
+                "bones": "There is no evidence of worrisome osseous lesions or acute fracture.",
+                "soft_tissues": "The abdominal and pelvic wall is within normal limits."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Coagulation Test",
+            "date": "Not specified",
+            "findings": "31.1 sec (Reference range: 25.0 - 36.5 sec)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

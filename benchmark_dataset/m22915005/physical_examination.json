@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2",
+                "heart_rate": "Not specified",
+                "blood_pressure": "104/62",
+                "respiratory_rate": "42",
+                "oxygen_saturation": "94 RA"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress",
+                "HEENT": "No scleral icterus, mucous membranes moist",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/gallops/rubs",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes/rhonchi/rales",
+                "abdominal": "Distended, diffusely tender, positive rebound tenderness",
+                "digital_rectal_exam": "Normal tone, no gross or occult blood",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

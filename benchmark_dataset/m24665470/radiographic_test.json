@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized lung bases are clear. The liver is homogeneous in texture with no focal lesions. There is no biliary ductal dilatation. The spleen, pancreas, and adrenal glands are normal. The kidneys are unremarkable with no contour irregularities or hydronephrosis. The appendix is top-normal size to minimally dilated, measuring 6-8 mm in diameter, and is fluid-filled with no periappendiceal free fluid or stranding. There is no retroperitoneal or mesenteric lymphadenopathy. The intra-abdominal aorta is normal in appearance. The sigmoid colon and rectum are normal in appearance. The bladder is normal. There is no pelvic or inguinal lymphadenopathy. There is no free fluid in the pelvis. No focal lytic or sclerotic osseous lesion suspicious for infection or malignancy is seen. There is bilateral spondylolysis at L5.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

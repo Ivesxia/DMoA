@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.3°F",
+                "heart_rate": "87 bpm",
+                "blood_pressure": "156/81 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Anxious appearing, not in distress",
+                "head": "Normocephalic, atraumatic (NCAT), extraocular movements intact (EOMI), mucous membranes moist (MMM)",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "Clear to auscultation",
+                "abdomen": "Softly distended, tender to palpation in the right lower quadrant with some guarding; positive Rovsing sign",
+                "musculoskeletal": "Warm, well perfused",
+                "neurological": "Slight disconjugate gaze, otherwise cranial nerves II-XII intact",
+                "psychiatric": "Anxious, otherwise appropriate"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

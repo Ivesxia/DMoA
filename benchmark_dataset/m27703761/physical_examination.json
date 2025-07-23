@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.1°F",
+                "blood_pressure": "136/71 mmHg",
+                "heart_rate": "71 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "95% on 2L"
+            },
+            "relevant_findings": {
+                "general": "alert, nad",
+                "HEENT": "no scleral icterus",
+                "neck": "no LAD or TM",
+                "chest": "lungs clear",
+                "cardiovascular": "cor nl s1s2, no murmurs, rrr",
+                "abdomen": "nl bs, no HSM, NT/NT",
+                "extremities": "no periph edema",
+                "neurological": "grossly intact",
+                "psychological": "calm, appropriate",
+                "skin": "No rash"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

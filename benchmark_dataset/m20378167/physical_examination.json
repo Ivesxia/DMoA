@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.8°F",
+                "heart_rate": "68 bpm",
+                "blood_pressure": "133/97 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": "NAD/A&O, CTAB, RRR, abdomen soft, tender at midepigastrium, minimally tender in RUQ/LUQ, no guarding/rebound, no peritoneal signs, DRE: No palpable masses, stool in vault, guaiac negative, no edema.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

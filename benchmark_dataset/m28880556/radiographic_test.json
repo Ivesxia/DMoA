@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Fluid-filled blind-ending structure in the right lower quadrant measuring approximately 1.1 cm in diameter with echogenic foci and is noncompressible.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

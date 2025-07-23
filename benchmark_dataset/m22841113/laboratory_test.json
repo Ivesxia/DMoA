@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bilirubin Level",
+            "date": "Not specified",
+            "findings": "7.7 mg/dL",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "blood_pressure": "121/80 mmHg",
+                "heart_rate": "69 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x3, fatigued-appearing but otherwise non-distressed.",
+                "HEENT": "Pupils equal, round, reactive to light and accommodation. Mucous membranes moist. No lymphadenopathy. No jugular venous distension. Neck supple.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, rubs, or gallops.",
+                "pulmonary": "No dullness to percussion, clear to auscultation bilaterally, small lung fields.",
+                "abdominal": "Bowel sounds present, soft abdomen with tenderness in epigastric and right upper quadrant to percussion and deep palpation, not tender to shallow palpation or auscultation. No rebound or guarding, no hepatosplenomegaly.",
+                "extremities": "Warm, well-perfused, no edema, pulses intact.",
+                "skin": "No rashes or bruising.",
+                "neurological": "Non-focal, cranial nerves II-XII intact, strength intact in upper and lower extremities. Gait within normal limits."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99°F",
+                "blood_pressure": "95/66 mmHg",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "The patient's vitals showed variability, with a prior measure of blood pressure at 121/79 mmHg and a heart rate of 75 bpm."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.3°F",
+                "blood_pressure": "121/79 mmHg",
+                "heart_rate": "75 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": "Still resting comfortably, reports no other symptoms, confirms alcohol abstinence.",
+            "changes_over_time": "Following initial admission, the vital signs showed improvement, stabilizing after receiving treatment."
+        }
+    ]
+}

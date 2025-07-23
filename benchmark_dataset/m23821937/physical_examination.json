@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4 °F",
+                "blood_pressure": "124/87 mmHg",
+                "heart_rate": "87 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "In NAD, obese, pleasant.",
+                "HEENT": "PERRL, EOMI. No scleral icterus. No conjunctival injection. Mucous membranes moist. No oral ulcers.",
+                "neck": "Supple, no LAD, no JVP elevation.",
+                "lungs": "CTA bilaterally, no wheezes, rales, rhonchi. Normal respiratory effort.",
+                "cardiovascular": "RRR, no murmurs, rubs, gallops.",
+                "abdomen": "+epigastric>RUQ ttp, soft, ND, NABS.",
+                "extremities": "Warm and well perfused, no cyanosis, clubbing, edema.",
+                "neurological": "Alert and oriented X 3, CN II-XII intact.",
+                "skin": "No rashes or ulcers.",
+                "psychiatric": "Appropriate.",
+                "GU": "Deferred."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

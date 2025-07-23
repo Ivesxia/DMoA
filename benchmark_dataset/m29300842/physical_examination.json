@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "101.4°F",
+                "heart_rate": "130 bpm",
+                "blood_pressure": "96 mmHg",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "level_of_consciousness": "A/O x 3",
+                "general_appearance": "uncomfortable, flush",
+                "neck": "dramatic NCAT, no jaundice/icterus",
+                "cardiovascular": "RRR, no murmurs",
+                "respiratory": "CTAB, no crackles, wheezes, rhonchi",
+                "abdominal": "soft, ND, +RLQ tenderness with guarding, no hernias, guaiac negative",
+                "extremities": "no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

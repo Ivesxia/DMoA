@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Viridans Streptococci Detection",
+            "date": "Not specified",
+            "findings": "1.2 (outside normal range of 0.9 - 1.1)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": "Gallbladder is distended with biliary sludge and a large stone measuring 3.8 x 3.1 cm. The gallbladder wall is thickened and edematous with trace pericholecystic fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

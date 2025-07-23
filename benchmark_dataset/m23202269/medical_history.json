@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric pain for 5 days.",
+        "history_of_present_illness": "The patient experienced epigastric pain that began 5 days prior to admission after eating specific food. The pain radiated through the stomach and to the back, worsening with eating. He has had 2 episodes of diarrhea per day for 2.5 days, with a last bowel movement of diarrhea on the day of presentation. No history of similar pain previously.",
+        "past_medical_history": "Diabetes mellitus type II for several years, obesity, hypertension on lisinopril, hyperlipidemia. No history of strokes or heart attacks.",
+        "family_history": "Mother without hypertension or diabetes mellitus; father diagnosed with diabetes mellitus; maternal family history of lung cancer; cousin died of lung cancer at age ___ with no history of tobacco use.",
+        "social_history": "Not specified."
+    }
+}

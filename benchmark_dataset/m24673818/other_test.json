@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT guided drainage",
+            "date": "Not specified",
+            "findings": "Extraluminal collection of the left pericolic gutter adjacent to the iliacus muscle contains fluid, bubbles of gas, and a small amount of hyperdensity possibly extravasated oral contrast. The collection increased in size from 4.3 x 2.3 cm to 4.6 x 3.3 cm.",
+            "changes_over_time": "The collection has increased in size despite the presence of the drainage catheter. Local inflammatory stranding has worsened."
+        },
+        {
+            "procedure_name": "CT of the abdomen with IV contrast",
+            "date": "Not specified",
+            "findings": "Colonic wall thickening of the sigmoid and distal descending colon; atrophic appearance of kidneys stable; occlusion of the abdominal aorta redemonstrated; collection size has increased.",
+            "changes_over_time": "Compared to previous exam, the collection has increased in size, with local inflammatory stranding worsening."
+        },
+        {
+            "procedure_name": "CT of the pelvis with IV contrast",
+            "date": "Not specified",
+            "findings": "Sigmoid colonic wall thickening unchanged; low-density fluid collection anterior to the rectum slightly smaller (3.4 x 1.5 cm from 3.8 x 1.9 cm).",
+            "changes_over_time": "The size of the low-density fluid collection anterior to the rectum has decreased."
+        }
+    ]
+}

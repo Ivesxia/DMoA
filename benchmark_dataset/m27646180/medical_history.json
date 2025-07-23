@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Abdominal pain started at 5pm last night; initially diffuse but became localized to the right lower quadrant (RLQ). Associated symptoms include nausea and bilious emesis. No fevers, chills, or changes in bowel habits. No prior episodes of similar pain.",
+        "past_medical_history": "Cholelithiasis, hyperlipidemia, nasal polyps, osteoarthritis, chronic renal insufficiency (baseline Cr 1.2-1.5), past surgical history includes laparoscopic cholecystectomy, bilateral hip replacement, tonsillectomy, left ulnar release.",
+        "family_history": "Lupus, lung cancer",
+        "social_history": "Not specified"
+    }
+}

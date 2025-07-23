@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right lower quadrant pain",
+        "history_of_present_illness": "The pain began yesterday, initially located in the abdomen before localizing to the right lower quadrant. It is described as undulating, dull, and sharp. Pain intensity increases when walking, and it does not radiate. The patient also reports nausea and anorexia without vomiting.",
+        "past_medical_history": "Inflammatory bowel syndrome",
+        "family_history": "Non-contributory",
+        "social_history": "Not specified"
+    }
+}

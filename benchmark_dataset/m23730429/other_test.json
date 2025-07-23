@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT abdomen",
+            "date": "Not specified",
+            "findings": "Not read at time of transfer.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase test",
+            "date": "Not specified",
+            "findings": "Lipase noted to be 2829.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

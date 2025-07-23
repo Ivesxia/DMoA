@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP with sphincterotomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of the abdomen",
+            "date": "Not specified",
+            "findings": "Cholelithiasis without evidence of cholecystitis, normal liver parenchyma, gallbladder without wall thickening or pericholecystic fluid, and unremarkable pancreas.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "INR check",
+            "date": "Not specified",
+            "findings": "INR was noted to be 4.2.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine test",
+            "date": "Not specified",
+            "findings": "Creatinine was noted to be 2.7 (most recently 1.7).",
+            "changes_over_time": "Changed from 1.7 to 2.7."
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

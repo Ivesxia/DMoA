@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "123/86 mmHg",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general_appearance": "NAD, AOx3",
+                "cardiovascular": "RRR",
+                "pulmonary": "no respiratory distress",
+                "abdominal": "S/ND/TTP RUQ, + tenderness, no rebound or guarding",
+                "lower_extremities": "no findings noted"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

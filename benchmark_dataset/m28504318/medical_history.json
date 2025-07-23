@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric abdominal pain radiating to the back.",
+        "history_of_present_illness": "The symptoms started last night around 8 PM. The patient presented to the hospital around 11 PM, and the pain resolved by 1 AM without pain medications. The patient also experienced nausea but did not vomit, except when she induced vomiting, believing it would alleviate her discomfort, which it did not. This was the first instance of such pain, and she was unaware of having gallstones.",
+        "past_medical_history": "1. Diabetes (non-insulin dependent) 2. Hypertension 3. Hypothyroidism 4. History of hysterectomy. Possible dyslipidemia indicated.",
+        "family_history": "Father died from heart problems. Sister has diabetes mellitus and history of CABG. Another sister has CHF. Brother has heart problems, noted around age unspecified.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient is a ___ yo female presenting to the ED with abdominal pain that began last night. The pain was intermittent, starting periumbilical, and worsened throughout the day, localizing to the right lower quadrant (RLQ). No nausea or vomiting, with no fevers or chills. Patient experienced diarrhea for the past few days.",
+        "past_medical_history": "Anemia, Diabetes, Hypertension, Hypothyroidism, Asthma, Hypercholesterolemia. Past surgical history includes umbilical hernia repair, hysterectomy, bladder suspension, exploratory laparoscopy for fibroids.",
+        "family_history": "Not specified.",
+        "social_history": "No tobacco use, no alcohol consumption."
+    }
+}

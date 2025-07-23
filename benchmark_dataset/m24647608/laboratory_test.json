@@ -1,0 +1,57 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "echogenicity": "diffusely echogenic",
+                    "contour": "smooth",
+                    "focal_mass": "no",
+                    "portal_vein": "patent with hepatopetal flow",
+                    "ascites": "no"
+                },
+                "bile_ducts": {
+                    "intrahepatic_dilation": "no",
+                    "CBD_measurement": "11 mm"
+                },
+                "gallbladder": {
+                    "distension": "borderline distended",
+                    "gallstones": "multiple mobile shadowing gallstones",
+                    "wall_thickening": "no",
+                    "pericholecystic_fluid": "no",
+                    "sonographic_sign": "negative"
+                },
+                "pancreas": {
+                    "appearance": "within normal limits",
+                    "masses_dilation": "no",
+                    "obscuration": "portions obscured by overlying bowel gas"
+                },
+                "spleen": {
+                    "echogenicity": "normal",
+                    "measurement": "13.4 cm"
+                },
+                "kidneys": {
+                    "cortical_echogenicity": "normal",
+                    "corticomedullary_differentiation": "without evidence of masses, stones, or hydronephrosis"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Clinical Chemistry (Bilirubin)",
+            "date": "Not specified",
+            "findings": {
+                "bilirubin": {
+                    "value": "9.2 mg/dL",
+                    "reference_range": {
+                        "lower": "8.4 mg/dL",
+                        "upper": "10.3 mg/dL"
+                    },
+                    "status": "within normal range"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

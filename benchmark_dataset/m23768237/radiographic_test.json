@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is echogenic with a slight coarsened echotexture. A 2.0 x 1.9 x 2.2 cm cyst is present within the right lobe. There is no intrahepatic biliary ductal dilatation. The main portal vein is patent, demonstrating proper hepatopetal flow. A distended gallbladder is present, top normal in size. There are multiple shadowing stones which are mobile. No wall thickening or pericholecystic fluid is seen. No sonographic Murphy sign elicited. The CBD is dilated, measuring 8 mm. No ductal stones are seen; however, the distal most segment of the CBD is not visualized. There is no ascites.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

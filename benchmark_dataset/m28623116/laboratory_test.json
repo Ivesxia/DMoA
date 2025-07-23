@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level is 400.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ALT",
+            "date": "Not specified",
+            "findings": "Highest ALT is 125.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Pancreas homogeneously enhancing, diffuse edema within retroperitoneum and anterior pararenal space. No pseudocyst, no splenic vein thrombosis, normal liver, spleen, adrenal glands. Duodenum contains a diverticulum; no signs of obstruction or inflammation. Common bile duct normal in size, 10-mm stone within gallbladder neck.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

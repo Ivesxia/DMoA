@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain with associated nausea and vomiting.",
+        "history_of_present_illness": "Symptoms began 2 weeks ago with abdominal discomfort, which worsened over the last few days to severe pain. The pain started in the lower abdomen and has since moved and radiates across the top. Nausea and vomiting occur every 15 minutes. Patient has not been able to eat for 9 days. Pain is worse when vomiting, with no blood in vomit. Patient reports dark urine and diarrhea.",
+        "past_medical_history": "Hypertension, alcohol use disorder, emphysema, osteoporosis, osteoarthritis, pulmonary nodule, status post tonsillectomy.",
+        "family_history": "No family history of lung disease. Mother with heart valve replacements secondary to scarlet fever.",
+        "social_history": "Daily alcohol use with approximately ___ drinks, last consumed yesterday afternoon around 3 PM. Patient identifies as an alcoholic and requests withdrawal help."
+    }
+}

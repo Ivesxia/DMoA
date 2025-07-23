@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": {
+                "Lower Thorax": "Atelectasis or scarring at the right lung base. No pericardial effusion. Tiny bilateral pleural effusions.",
+                "Liver": "Nodular contour compatible with cirrhosis. No evidence of steatosis.",
+                "Biliary": "No intrahepatic or extrahepatic biliary ductal dilatation. The common bile duct measures 7 mm. No intraductal filling defects. Gallstones in the gallbladder but without gallbladder wall thickening.",
+                "Pancreas": "Normal T1 signal intensity. 7 mm cystic lesion in the pancreatic head/uncinate process. No pancreatic ductal dilatation. Mild retroperitoneal edema surrounding the pancreas.",
+                "Spleen": "Enlarged measuring 15.3 cm.",
+                "Adrenal Glands": "Within normal limits.",
+                "Kidneys": "Enhance symmetrically. No hydronephrosis. Multiple small T2 hyperintense foci likely small renal cysts. 2.6 x 1.6 cm T2 hypointense lesion in the lower pole of the left kidney appears stable in size.",
+                "Gastrointestinal Tract": "Visualized portions appear within normal limits.",
+                "Lymph Nodes": "Prominent lymph nodes in porta hepatis likely related to chronic liver disease.",
+                "Vasculature": "No abdominal aortic aneurysm. Prominent varices and recanalized periumbilical vein noted.",
+                "Osseous and Soft Tissue Structures": "No suspicious osseous lesion."
+            },
+            "changes_over_time": "The 2.6 x 1.6 cm T2 hypointense lesion in the lower pole of the left kidney appears stable in size going back to ___."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver ultrasound",
+            "date": "Not specified",
+            "findings": "The liver demonstrates normal contour, architecture and echogenicity. The portal vein is hepatopetal and patent. No discrete hepatic lesion is seen. No intrahepatic biliary ductal dilatation is noted. The common hepatic duct measures 8 mm, unchanged from prior MRCP. No stones are identified in the imaged portion of the extrahepatic bile ducts, although the distal CBD is not visualized due to overlying bowel gas. The gallbladder is distended without evidence of wall thickening or pericholecystic fluid. No cholelithiasis is noted. The spleen measures 9.7 cm in craniocaudal dimension. Both kidneys are normal in size without evidence of hydronephrosis, nephrolithiasis, or obvious mass. No ascites is noted. The imaged portion of the pancreatic body appears within normal limits, with obscuration of the majority of the pancreatic head and tail due to overlying bowel gas. No pancreatic ductal dilatation is seen. A previously identified pancreatic duct stent on CT is not well depicted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Toxigenic C. difficile test by Illumigene DNA amplification assay",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile. Reference Range: Negative.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

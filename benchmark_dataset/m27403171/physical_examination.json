@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "98 bpm",
+                "blood_pressure": "129/84 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and oriented x 3",
+                "lungs": "Clear bilaterally",
+                "cardiovascular": "Regular rate and rhythm, normal S1 and S2",
+                "abdominal": "Soft, tender to palpation in the right upper quadrant, no guarding, no rebound, gallbladder palpable below right costal margin, non-distended, right inguinal hernia palpated",
+                "rectal": "Guaiac negative",
+                "extremities": "No cyanosis, clubbing, or edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.1°F",
+                "blood_pressure": "130/74 mmHg",
+                "pulse": "110 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "HEENT": "DBT in place with bridle, oropharynx clear, unable to visualize posterior pharynx",
+                "lungs": "Clear",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/rubs/gallops",
+                "abdomen": "Bowel sounds present, soft, non-tender/non-distended",
+                "extremities": "No edema, cyanosis or clubbing",
+                "skin": "No rash",
+                "neurological": "Alert, follows commands"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

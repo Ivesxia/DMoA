@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "121/75 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

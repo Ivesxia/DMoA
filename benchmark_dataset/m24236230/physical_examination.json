@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": {
+                    "max": "98.3 °F",
+                    "current": "98 °F"
+                },
+                "blood_pressure": "110/75 mmHg",
+                "heart_rate": "74 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "95% on room air",
+                "weight": "184 lb"
+            },
+            "relevant_findings": {
+                "general": "In no acute distress, mildly obese",
+                "HEENT": "Pupils equal, round, reactive to light, extraocular movements intact. No scleral icterus, conjunctival injection, mucous membranes moist, no oral ulcers.",
+                "neck": "Supple, no lymphadenopathy, no jugular venous pressure elevation.",
+                "lungs": "Clear to auscultation bilaterally, no wheezes, rales, rhonchi, normal respiratory effort.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, rubs, or gallops.",
+                "abdomen": "Soft, mildly obese, mild tenderness in epigastric and right upper quadrant, non-distended, normal bowel sounds.",
+                "extremities": "Warm and well perfused, no cyanosis, clubbing, or edema.",
+                "neurological": "Alert and oriented x3, cranial nerves II-XII intact.",
+                "skin": "No rashes or ulcers.",
+                "psychiatric": "Appropriate mood and affect.",
+                "GU": "Deferred."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Bibasilar atelectasis is noted. Lung bases are otherwise clear. The liver, spleen, adrenal glands, gallbladder, and pancreas are unremarkable. Tiny hypodensities seen in the kidneys bilaterally which are too small to characterize but likely cysts. The stomach is mildly dilated with fluid without evidence of obstruction. The small bowel is normal in caliber without obstruction. The colon is normal. The appendix is not seen but no inflammatory changes identified in the right lower quadrant. The bladder appears normal. The uterus is not seen. No adnexal abnormalities identified. There is no free intraperitoneal fluid, free air, or intra-abdominal adenopathy. Atherosclerotic calcifications noted within a normal caliber aorta and its major branches. No suspicious osseous lesions identified. Degenerative changes are noted in the lumbar spine.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EGD",
+            "date": "Not specified",
+            "findings": "Mild gastritis and GERD",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Paracentesis",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colon exam",
+            "date": "Not specified",
+            "findings": "Reportedly normal",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

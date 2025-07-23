@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain for 5 weeks.",
+        "history_of_present_illness": "The patient has had abdominal pain for 5 weeks. Initially, the pain was manageable with oxycodone after pancreatic stenting, but it became unbearable last night, leading to the current admission. She also reports nausea and early satiety but denies any worsening pain after eating. The pain did not improve after the stent placement.",
+        "past_medical_history": "Past medical history includes hypertension (HTN), coronary artery disease (CAD), type 2 diabetes mellitus (T2DM), hyperlipidemia (HL), obesity, glaucoma, macular degeneration, cerebrovascular accident (CVA) with residual right-sided weakness, intracerebral hemorrhage (ICH), peripheral vascular disease (PVD), and chronic kidney disease (CKD). Surgical history includes coronary artery bypass grafting (CABG), cataract surgery, and appendectomy.",
+        "family_history": "Mother with a history of CAD and a 'leaky heart.' Father without known medical conditions.",
+        "social_history": "Not specified."
+    }
+}

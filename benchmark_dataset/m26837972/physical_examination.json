@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.8°F",
+                "heart_rate": "92 bpm",
+                "blood_pressure": "111/51 mmHg",
+                "respiratory_rate": "22 breaths/min",
+                "saturation": "95% on RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, A&O x 3",
+                "cardiovascular": "RRR",
+                "pulmonary": "Clear breath sounds bilat.",
+                "abdominal": "Soft, mildly nondistended, no palpable masses or hernias, tender to periumbilical area and RLQ, no guarding, no rebound",
+                "extremities": "Warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

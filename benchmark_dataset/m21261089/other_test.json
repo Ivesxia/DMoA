@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "mod distress, answering questions, affect slightly off.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "No superficial fluid collections; no large deeper fluid collections in the left lower quadrant; small deep collections may be obscured by overlying bowel.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic appendectomy",
+            "date": "Not specified",
+            "findings": "Performed for acute appendicitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

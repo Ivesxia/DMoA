@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Fevers and abdominal pain typical of cholangitis.",
+        "history_of_present_illness": "The abdominal pain began one day prior to admission and was localized in the epigastrium. The patient developed fevers to 100.8°F throughout the night, which resolved by morning, but her pain worsened and radiated to the back, accompanied by nausea. She has a history of frequent intermittent abdominal pain, occurring weekly to monthly, seldom accompanied by fevers.",
+        "past_medical_history": "s/p cholecystectomy with bile duct injury; s/p roux-en-y hepaticojejunostomy and revision; recurrent right upper quadrant pain attributed to cholangitis; GERD; esophageal ulcerations; fibromyalgia; anxiety; hiatal hernia; arthritis; lactose intolerance.",
+        "family_history": "No history of GI malignancies. Mother with bipolar disorder and fibromyalgia. Father: hepatitis C, Type II DM. Two sons with ___ syndrome and another son with bipolar disorder.",
+        "social_history": "Not specified."
+    }
+}

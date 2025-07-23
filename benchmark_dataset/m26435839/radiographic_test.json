@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Bibasilar atelectasis; extensive atherosclerotic calcification of the mitral annulus and coronary arteries; pronounced atherosclerotic calcification throughout the abdomen; native pancreas not identified; native kidneys markedly atrophic; diffuse hypodensity throughout the mesentery suggestive of diffuse edema; periportal edema noted through the liver; transplant kidney present in the left lower quadrant enhancing and excreting contrast with no hydronephrosis; hypodense tubular structures adjacent to urinary bladder likely anastomosed duodenum; mural thickening and surrounding fat stranding suggestive of surrounding edema; transplanted pancreatic tissue unremarkable with no ductal dilation; no free gas in abdomen or pelvis; no discernable abscess.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "139/90 mmHg",
+                "respiratory_rate": "20 breaths per minute"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "HEENT": "Normocephalic, atraumatic, Extraocular muscles intact",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm, Normal first and second heart sounds",
+                "abdominal": "Soft, Nondistended tenderness right lower quadrant with a positive Rovsing sign",
+                "GU/Flank": "No costovertebral angle tenderness",
+                "extremities/back": "No cyanosis, clubbing or edema",
+                "skin": "Warm and dry, No rash",
+                "neuro": "Normal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "blood_pressure": "133/73 mmHg",
+                "heart_rate": "92 bpm",
+                "respiratory_rate": "20 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "NAD (No Acute Distress), A&Ox3 (Alert and Oriented times 3)",
+                "cardiovascular": "RRR (Regular Rate and Rhythm)",
+                "pulmonary": "CTAB (Clear to Auscultation Bilaterally), crepitus essentially resolved",
+                "abdominal": "soft, nontender, minimal distension, no rebound or guarding, incisions c/d/I w/ dermabond",
+                "extremities": "no CCE (Cyanosis, Clubbing, Edema), left arm with small area of stable ecchymosis"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

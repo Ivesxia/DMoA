@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bacterial culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test (specific test not named)",
+            "date": "Not specified",
+            "findings": "9.0 mg/dL (within reference range of 8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiograph",
+            "date": "Not specified",
+            "findings": "Normal heart, lungs, pleural and mediastinal surfaces. The patient did not take a deep inspiration on the lateral view.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "61 bpm",
+                "blood_pressure": "118/73 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress",
+                "cardiovascular": "Normal S1, S2, normal systolic ejection murmur",
+                "respiratory": "Clear to auscultation bilaterally",
+                "abdominal": "Soft, non-distended, non-tender; epigastric and right upper quadrant tenderness to palpation.",
+                "extremities": "No edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

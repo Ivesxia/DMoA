@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver demonstrates homogenous attenuation, no focal lesions; gallbladder normal; pancreas normal; spleen normal; kidneys normal; hyperemic, fluid-filled appendix with surrounding inflammatory changes measuring up to 10 mm; no pneumoperitoneum or abscess.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Blood Test",
+            "date": "Not specified",
+            "findings": "2.2 mmol/L, which is outside the normal range (ref range: 0.5 - 2.0 mmol/L).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

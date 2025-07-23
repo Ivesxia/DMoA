@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Creatinine of 1.4, elevated.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Total Bilirubin",
+            "date": "Not specified",
+            "findings": "Elevated total bilirubin.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase (Aphos)",
+            "date": "Not specified",
+            "findings": "Elevated alkaline phosphatase.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ALT/AST",
+            "date": "Not specified",
+            "findings": "Elevated ALT/AST.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "No Growth Culture",
+            "date": "Not specified",
+            "findings": "No growth observed.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "Mild interstitial edema with small bilateral pleural effusions. Mild cardiomegaly unchanged.",
+            "changes_over_time": "Mild cardiomegaly is unchanged."
+        }
+    ]
+}

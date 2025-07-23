@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Fever",
+        "history_of_present_illness": "The patient felt well until the afternoon when she developed chills and a fever of 103.8°F at home. She also experienced a severe frontal headache and mild nausea without vomiting. After taking Tylenol and ibuprofen, the headache and nausea improved, but she remained febrile.",
+        "past_medical_history": "End-stage renal disease (ESRD), polycystic kidney disease (PCKD), status post bilateral nephrectomies, failed ECD renal transplant on hemodialysis, multiple admissions for fever of unknown origin, history of CMV viremia, hypertension, endometrial cancer, atrial fibrillation/flutter, primary hyperparathyroidism, history of C. difficile colitis, hypothyroidism, mitral regurgitation/tricuspid regurgitation, tachycardiomyopathy, E. coli bacteremia, knee osteoarthritis, vancomycin-resistant enterococcus (VRE), enterococcus urinary tract infection, and multiple surgical procedures.",
+        "family_history": "Father & daughter with polycystic kidney disease (PKD). No other history of cancer or coronary artery disease (CAD).",
+        "social_history": "Not specified."
+    }
+}

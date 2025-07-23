@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild-to-moderate amount of ascites in the perihepatic and perisplenic regions, and also dispersed in the mesentery. Normal liver, gallbladder, pancreas, spleen, adrenal glands, and kidneys. No hydronephrosis, no free air, or lymphadenopathy in the intra-abdominal cavity. Appendicolith adjacent to a distended tubular structure (14 mm in diameter), likely a fluid-filled appendix. Mild-to-moderate free fluid noted in the deep pelvis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory values for unspecified test",
+            "date": "Not specified",
+            "findings": "Result value of 1.0 with a reference range of 0.9 - 1.1, which is within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.4°F",
+                "heart_rate": "79 bpm",
+                "blood_pressure": "134/82 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "constitutional": "Well appearing, in no acute distress",
+                "cardiopulmonary": "RRR, normal S1 and S2. No murmurs. CTAB",
+                "abdominal": "Soft, non-distended, right upper quadrant and epigastric tenderness. Positive ___ sign. No rebound tenderness",
+                "extremities": "Atraumatic. No clubbing, cyanosis or edema",
+                "neurologic": "Grossly intact. Alert and oriented x 3"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

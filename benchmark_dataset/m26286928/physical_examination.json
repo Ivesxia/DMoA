@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.0 °F",
+                "heart_rate": "70 bpm",
+                "blood_pressure": "159/99 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "Awake, alert, NAD.",
+                "HEENT": "NCAT, EOMI, PERRLA, anicteric.",
+                "respiratory": "CTAB, no respiratory distress.",
+                "cardiovascular": "RRR.",
+                "GI": "Abdomen soft, mildly tender in RUQ, positive Murphy sign, non-distended, no guarding/rebound.",
+                "extremities": "WWP, no CCE."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "ultrasound": {
+                    "gallbladder": "Non-distended, extensive wall edema and thickening up to 15 mm, cholelithiasis.",
+                    "liver": "Normal echotexture without focal liver lesions.",
+                    "biliary": "No intrahepatic biliary dilatation, CBD not dilated measuring up to 4 mm.",
+                    "portal_vein": "Patent with hepatopetal flow.",
+                    "free_fluid": "No significant free fluid seen.",
+                    "pancreas": "Not well visualized.",
+                    "kidney": "Limited views, unremarkable."
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

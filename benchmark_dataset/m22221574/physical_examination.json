@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2 °F",
+                "heart_rate": "79 bpm",
+                "blood_pressure": "112/54 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "No apparent distress, alert and oriented x 3",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "Clear to auscultation bilaterally",
+                "abdominal": "Soft, tenderness to palpation in right lower quadrant, no rebound tenderness, positive Rovsing's sign",
+                "rectal": "Deferred",
+                "extremities": "No clubbing, cyanosis, or edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

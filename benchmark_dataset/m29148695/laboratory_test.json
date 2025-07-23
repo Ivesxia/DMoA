@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Dilated contrast-filled loops of small bowel measuring at least 4.7 cm. In the region of the appendix, there is an 8-mm appendicolith and free fluid with small locules of air suggestive of a perforated appendicitis. Discontinuity of the appendiceal wall and mild dilation of colonic loops measuring 4.1 cm. No evidence for obstruction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "Serum creatinine level is 2.5 mg/dL (ref range 2.7-4.5 mg/dL), indicating low creatinine.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

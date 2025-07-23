@@ -1,0 +1,32 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Specimen Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": {
+                "Liver": "homogenous attenuation without focal lesions",
+                "Gallbladder": "within normal limits",
+                "Pancreas": "normal attenuation without focal lesions",
+                "Spleen": "normal size and attenuation",
+                "Right adrenal nodule": "1.1 cm, stable in size from MRI",
+                "Kidneys": "subcentimeter intermediate density cysts stable in size, normal and symmetric size",
+                "Appendix": "dilated fluid-filled with hyperemic thickened walls, maximum diameter of 12 mm",
+                "Other": {
+                    "Stomach": "unremarkable",
+                    "Small bowel": "normal caliber, wall thickness, and enhancement",
+                    "Uterus": "appears small, question supracervical hysterectomy versus atrophy",
+                    "Lymph nodes": "no retroperitoneal or mesenteric lymphadenopathy",
+                    "Vascular": "no abdominal aortic aneurysm, mild vascular calcifications",
+                    "Bones": "mild degenerative changes, no evidence of worrisome lesions"
+                }
+            },
+            "changes_over_time": "The right adrenal nodule and intermediate density cysts in kidneys are stable in size from previous studies."
+        }
+    ]
+}

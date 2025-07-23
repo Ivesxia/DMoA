@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Temperature": "99.8°F",
+                "Heart Rate": "93 bpm",
+                "Blood Pressure": "123/71 mmHg",
+                "Respiratory Rate": "16 breaths/min",
+                "Oxygen Saturation": "100%"
+            },
+            "relevant_findings": {
+                "General": "Comfortable",
+                "HEENT": "Normocephalic, atraumatic, Pupils equal, round and reactive to light, Oropharynx within normal limits",
+                "Chest": "Clear to auscultation",
+                "Cardiovascular": "Regular Rate and Rhythm",
+                "Abdominal": "Soft, positive Rovsing's sign, RLQ tenderness with rebound",
+                "GU/Flank": "No costovertebral angle tenderness",
+                "Extr/Back": "No cyanosis, clubbing or edema",
+                "Skin": "Warm and dry",
+                "Neuro": "Speech fluent",
+                "Psych": "Normal mentation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

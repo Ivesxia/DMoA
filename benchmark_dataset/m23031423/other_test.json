@@ -1,0 +1,10 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "PICC line retrieval",
+            "date": "Not specified",
+            "findings": "The PICC line has obviously been retrieved by several centimeters.",
+            "changes_over_time": "Unchanged cardiomegaly with retrocardiac atelectasis. Unchanged right-sided pleural effusion. No newly appeared parenchymal opacity."
+        }
+    ]
+}

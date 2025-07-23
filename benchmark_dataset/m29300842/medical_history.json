@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient presents with abdominal pain since the morning, initially radiating to the back but now more focal to the right lower quadrant (RLQ). Symptoms associated with fever to 101.4°F, nausea, vomiting, mild diarrhea, and anorexia. This pain is described as never having been experienced before.",
+        "past_medical_history": "IDDM, Pyoderma Gangrenosum, Focal nodular hyperplasia, Hysterectomy for severe bleeding, Peripheral neuropathy, Gastroparesis, Anemia",
+        "family_history": "No family history of diabetes, auto-immune disease, or kidney disease",
+        "social_history": "Not specified"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient's symptoms included abdominal pain that started in the mid abdomen and moved to the right lower quadrant, accompanied by nausea. Physical examination revealed focal tenderness in the right lower quadrant and a positive Rovsing sign, supporting the diagnosis of appendicitis. Imaging findings from the CT scan showed a thickened appendix with wall thickening and periappendiceal stranding, consistent with acute appendicitis."
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.5°F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "144/66 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD",
+                "heent": "PERRL, EOMI",
+                "cardiovascular": "IRIR, No M/G/R",
+                "pulmonary": "CTABL b/l, No W/R/R",
+                "abdominal": "Soft, nondistended, appropriately tender, no rebound/guarding",
+                "extremities": "No c/c/e"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "80/38 mmHg",
+                "heart_rate": "48-52 bpm",
+                "temperature": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Profound hypotension, dizziness upon standing.",
+            "changes_over_time": "Episodic hypotension noted prior to presentation, worsened to profound hypotension."
+        }
+    ]
+}

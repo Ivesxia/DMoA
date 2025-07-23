@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits. No evidence of pleural or pericardial effusion. Liver shows homogeneous attenuation without focal lesions or biliary dilatation. Spleen normal, with an accessory spleen noted. Pancreas normal, with no focal lesions. Thickened segment of distal colon abutting an abnormal appendix, poorly defined with extensive surrounding fat stranding and several locules of extraluminal gas consistent with contained perforation. Small adjacent collection with air-fluid level possibly representing an abscess measuring approximately 2.4 x 4.0 cm. Marked thickening of the cecal base. Kidneys appear normal without hydronephrosis. No evidence of retroperitoneal lymphadenopathy, free fluid, or free air. No abdominal aortic aneurysm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "blood_pressure": "157/114 mmHg",
+                "heart_rate": "80 bpm",
+                "respiratory_rate": "17 breaths per minute",
+                "oxygen_saturation": "94% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well appearing male, mild distress upon moving secondary to pain.",
+                "HEENT": "Atraumatic, mild icteric sclerae, dry mucous membranes, no oral pharyngeal lesions.",
+                "cardiovascular": "Regular rate, normal rhythm, no gallops or murmurs.",
+                "pulmonary": "Clear to auscultation bilaterally, no crackles or wheezes.",
+                "abdominal": "Soft, mild distension, tender to palpation diffusely, no rigidity, voluntary guarding, no rebound tenderness, bowel sounds present.",
+                "extremities": "Warm, well perfused, no edema, 2+ pulses.",
+                "skin": "No rashes.",
+                "neurological": "Grossly intact, deferred gait.",
+                "psychological": "Appropriate.",
+                "genitourinary": "No Foley catheter."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

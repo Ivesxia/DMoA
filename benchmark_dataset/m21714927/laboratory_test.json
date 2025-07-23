@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CEA",
+            "date": "Not specified",
+            "findings": "10.0 mEq/L (Normal range: 8.0 - 20.0 mEq/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CA-125",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

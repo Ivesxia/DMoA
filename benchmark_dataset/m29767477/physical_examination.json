@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3 °F",
+                "heart_rate": "69 bpm",
+                "blood_pressure": "146/73 mmHg",
+                "respiratory_rate": "17 breaths/min",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "general": "Aox3, NAD",
+                "cardiovascular": "RRR without MRG",
+                "respiratory": "CTAB, normal WOB",
+                "abdominal": "Soft, nondistended, +mild TTP in RUQ",
+                "extremities": "WWP without edema",
+                "neurological": "Without focal deficit",
+                "psychiatric": "Normal mood, anxious affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is diffusely increased in echogenicity consistent with fatty infiltration. The common bile duct is visualized and appears dilated up to 13 mm. No stones are seen in the visualized portions of the common bile duct, though the distal duct is not well visualized. No intrahepatic biliary duct dilatation is present. The visualized portions of the pancreas are normal, however, portions of the pancreatic body and tail obscured by bowel gas and overlying soft tissues. The spleen is normal in size measuring 10.2 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

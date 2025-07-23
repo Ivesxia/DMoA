@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Fever, sore throat, nausea, and vomiting",
+        "history_of_present_illness": "The patient reported feeling well until suddenly experiencing a fast heart rate and developing a fever to 103 degrees. Symptoms began over the last day, starting with fever, sore throat, nausea, and vomiting, along with periumbilical pain that developed today. Symptoms have worsened rather than improved.",
+        "past_medical_history": "Hyperthyroidism likely due to Grave's disease; no previous surgeries.",
+        "family_history": "Father has coronary artery disease; mother has type II diabetes. No family history of thyroid disturbances.",
+        "social_history": "Not specified"
+    }
+}

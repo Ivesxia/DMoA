@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Postoperative changes from cholecystectomy are noted. Small amount of fluid within the gallbladder fossa, presumably postoperative in nature. The common bile duct is normal in caliber (approximately 5 mm) and contour, without evidence of filling defects. Mild prominence of intrahepatic ducts centrally, otherwise unremarkable. No periductal enhancement or liver lesions. The spleen, pancreas, and adrenals are unremarkable. Right kidney shows a hyperintense lesion on T2-weighted sequences, dark on T1-weighted sequences, with nodular enhancement and a suggestion of an enhancing thick septation; cystic renal neoplasm cannot be excluded. Left kidney unremarkable; no hydronephrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Test for growth",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for microcytic anemia",
+            "date": "Not specified",
+            "findings": "Baseline hematocrit approximately 38.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

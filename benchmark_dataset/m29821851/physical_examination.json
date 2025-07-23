@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2°F",
+                "heart_rate": "83 bpm",
+                "blood_pressure": "142/82 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well appearing, non-toxic",
+                "HEENT": "NCAT, PERRL, EOMI, MMM, mild thrush on tongue",
+                "neck": "No lymphadenopathy",
+                "lungs": "Clear to auscultation bilaterally, equal breath sounds, no crackles, no wheezes",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, rubs, or gallops",
+                "abdominal": "Positive McBurney's and Psoas signs, normoactive bowel sounds, tenderness to palpation in right lower quadrant, mild distension, no rebound or guarding, no masses, no costovertebral angle tenderness, negative Rovsing's, Obturator, Murphy's signs",
+                "musculoskeletal": "Normal range of motion, normal strength bilaterally",
+                "skin": "Healing superficial lesions on right mandible following recent removal of precancerous lesion, no prominent scars",
+                "neurological": "Cranial nerves II-XII intact, mental status intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

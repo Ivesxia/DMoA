@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder is distended and contains sludge and stones. An impacted gallstone in the gallbladder neck. There is gallbladder wall thickening measuring 1.0 cm with mural edema. The echogenicity of the liver is homogeneous with no focal liver mass. Main portal vein is patent with hepatopetal flow. There is no ascites. There is no intrahepatic biliary dilation. The CBD measures 4 mm. The head, body and tail of the pancreas are within normal limits, without masses or pancreatic ductal dilatation. Previously seen pancreatic tail cyst on CT is not clearly visualized on the current exam.",
+            "changes_over_time": "Previously seen pancreatic tail cyst on CT is not clearly visualized on the current exam."
+        }
+    ]
+}

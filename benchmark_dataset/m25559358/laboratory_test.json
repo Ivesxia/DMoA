@@ -1,0 +1,42 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C. difficile toxin A & B EIA",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "abdomen": {
+                    "liver": "unchanged and unremarkable",
+                    "spleen": "unchanged and unremarkable",
+                    "pancreas": "unchanged and unremarkable",
+                    "kidneys": "unchanged and unremarkable",
+                    "adrenals": "unchanged and unremarkable",
+                    "gallbladder": "unchanged and unremarkable",
+                    "colon": "good opacification from the level of the end colostomy through the cecum, with reflux of contrast through the ileocecal valve into distal bowel loops",
+                    "small_bowel": "no dilatation to suggest an obstruction"
+                },
+                "fluid_collection": {
+                    "size_now": "6 x 2.5 x 3 cm",
+                    "size_previous": "7.7 x 3.5 x 7.6 cm",
+                    "change": "substantial improvement in size"
+                },
+                "pelvis": {
+                    "bladder": "markedly distended",
+                    "uterus": "within normal limits"
+                },
+                "os_ous_structure": "unchanged",
+                "lung_bases": {
+                    "consolidation": "within the visualized portion of the right lower lobe",
+                    "effusion": "minimal right-sided pleural effusion",
+                    "atelectasis": "trace in the left lower lobe"
+                }
+            },
+            "changes_over_time": "Substantial improvement in the size of fluid collection from 7.7 x 3.5 x 7.6 cm to 6 x 2.5 x 3 cm."
+        }
+    ]
+}

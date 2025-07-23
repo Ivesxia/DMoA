@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "61 bpm",
+                "blood_pressure": "110/72 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "pleasant in no acute distress, adequate pain control",
+                "lungs": "clear bilaterally throughout to auscultation",
+                "cardiovascular": "regular rate and rhythm, S1, S2, no murmurs, rubs, or gallops, no jugular venous distension",
+                "abdomen": "soft, non-tender, non-distended, with three old abdominal incisions healed without redness, purulence, or drainage",
+                "extremities": "warm, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

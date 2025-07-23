@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "84 bpm",
+                "blood_pressure": "155/75 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "abdominal_examination": "Soft, moderately tender in epigastrium, mildly tender throughout, mildly distended.",
+                "cardiovascular": "RRR, normal S1, S2, II/VI soft systolic murmur at left upper sternal border.",
+                "respiratory": "Clear to auscultation bilaterally, somewhat decreased in right base.",
+                "general": "NAD, AOX3"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "68 bpm",
+                "blood_pressure": "133/54 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "NAD, AOX3",
+                "HEENT": "MM slightly dry, sclera anicteric, not injected.",
+                "neck": "No LAD.",
+                "cardiovascular": "RRR, normal S1, S2, II/VI soft systolic murmur at left upper sternal border.",
+                "respiratory": "Clear to auscultation bilaterally, somewhat decreased in right base.",
+                "abdomen": "Normoactive bowel sounds, soft, moderately tender in epigastrium, mildly distended.",
+                "extremities": "No edema, 2+ pulses.",
+                "integument": "Warm, moist, no rash or ulceration.",
+                "psychiatric": "Appropriate, pleasant, not anxious."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

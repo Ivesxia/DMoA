@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC",
+            "date": "Not specified",
+            "findings": "WBC 12.6 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit and Hemoglobin (H/H)",
+            "date": "Not specified",
+            "findings": "H/H 14.7/40.8 (within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine (Cr)",
+            "date": "Not specified",
+            "findings": "Cr 1.5 (baseline, possibly elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests (LFTs)",
+            "date": "Not specified",
+            "findings": "Normal LFTs",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 84 (within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate 2.0 (possibly elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The multiloculated cystic mass in the pancreas increased from 3.2 x 2 x 2.3 cm to 5.3 x 4.7 x 4.3 cm.",
+            "changes_over_time": "Size of pancreatic tail cyst increased; previous measurement at earlier date was smaller."
+        },
+        {
+            "procedure_name": "Urinalysis (UA)",
+            "date": "Not specified",
+            "findings": "UA negative",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

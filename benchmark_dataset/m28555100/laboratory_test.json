@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD W&W/O C",
+            "date": "Not specified",
+            "findings": "The liver has diffusely low density consistent with steatosis. No suspicious focal lesion. There is a diffusely hypoechoic attenuating region which likely represents a region of retraction contusion after the given history of open cholecystectomy. No evidence of intrahepatic or extrahepatic biliary dilatation. Postsurgical changes in the right upper quadrant with locules of intraperitoneal air. The gallbladder is surgically absent.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mixed Bacterial Flora culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION. Value: 25.8 sec.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

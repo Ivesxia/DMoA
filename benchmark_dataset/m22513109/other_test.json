@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "lipase test",
+            "date": "Not specified",
+            "findings": "Lipase level was 5220.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ultrasound",
+            "date": "Not specified",
+            "findings": "Presence of cholelithiasis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "intraoperative cholangiogram",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "chest radiograph",
+            "date": "Not specified",
+            "findings": "Mild pulmonary edema, moderate cardiomegaly, small retrocardiac atelectasis; no larger pleural effusions or pneumonia.",
+            "changes_over_time": "Pre-existing signs of mild fluid overload have progressed."
+        }
+    ]
+}

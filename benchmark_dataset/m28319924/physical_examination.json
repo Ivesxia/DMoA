@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3 °F",
+                "blood_pressure": "Not specified",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": "General: Alert, oriented, no acute distress, moves comfortably around the room. Abdomen: Soft, tenderness to palpation in epigastrium with voluntary guarding, abnormal contour noted in epigastrium, bowel sounds present, no organomegaly.",
+            "changes_over_time": "On the floor, the patient reports improvement in pain, with only mild pain currently, which is tolerable and accompanied by mild nausea."
+        }
+    ]
+}

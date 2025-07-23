@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level of 123 IU/L, within normal range (47.0 - 322.0 IU/L).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRA CHEST W&W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "No evidence of acute aortic syndrome. Thoracic aorta normal in caliber, no dissection, penetrating ulcer, intramural hematoma, or other aortic abnormality. Normal great vessels, no significant atherosclerosis, and no evidence for pulmonary embolism.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

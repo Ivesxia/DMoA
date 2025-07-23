@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "blood_pressure": "83/61 mmHg",
+                "heart_rate": "110 bpm",
+                "respiratory_rate": "16 bpm",
+                "oxygen_saturation": "99% on 2L"
+            },
+            "relevant_findings": {
+                "general": "Pleasant, well appearing in NAD",
+                "HEENT": "Normocephalic, atraumatic. No conjunctival pallor. No scleral icterus. PERRLA/EOMI. MMM. OP clear. Neck supple, no LAD, no thyromegaly.",
+                "cardiac": "Regular rhythm, normal rate. Normal S1, S2. No murmurs, rubs or gallops.",
+                "lungs": "CTAB, good air movement bilaterally.",
+                "abdominal": "NABS. Soft, non-tender, non-distended. No hepatosplenomegaly.",
+                "extremities": "No edema or calf pain, 2+ dorsalis pedis/posterior tibial pulses.",
+                "skin": "No rashes/lesions, ecchymoses.",
+                "neurological": "A&Ox3. Appropriate. CN grossly intact. Preserved sensation throughout. Normal strength throughout. Reflexes equal. Normal coordination."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

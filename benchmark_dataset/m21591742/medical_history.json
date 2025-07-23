@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient has chronic abdominal pain and progressive weight loss for 1 month, with symptoms of stomach soreness at rest and burning with eating, which she attributes to worsening acid reflux. The pain in the epigastrum is mainly in the left upper quadrant (LUQ), worse than usual today. Associated symptoms include nausea. She reports a similar problem years ago that improved with antacids and time.",
+        "past_medical_history": "Osteopenia, Hypertension, Hyperlipidemia, Coronary Artery Disease (CAD), Thalassemia, Headache, Cervical Radiculopathy, Colon Adenomas, Chronic Pain, Chronic Obstructive Pulmonary Disease (COPD), Hepatitis C, Ulnar Nerve Entrapment, Allergic Rhinitis, Trigeminal Neuralgia, Gastroesophageal Reflux Disease (GERD), Interstitial Cystitis, Cubital Tunnel Syndrome, Vitamin D Deficiency, Temporomandibular Joint Disorder (TMJ)",
+        "family_history": "Chronic Lymphocytic Leukemia (CLL), Thalassemia, Anemia (Hereditary), Coronary Artery Disease (CAD)/Peripheral Vascular Disease (PVD), Headache/Migraine, Type II Diabetes",
+        "social_history": "Not specified"
+    }
+}

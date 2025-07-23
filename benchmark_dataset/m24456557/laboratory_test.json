@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "WBC count: 14.9 K/uL (Normal range: 4.0 - 11.0 K/uL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix prominent, measuring approximately 8 mm with air in the tip and slight thickening, concerns for early appendicitis. No free fluid, free air, or lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

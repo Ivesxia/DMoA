@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute abdominal pain",
+        "history_of_present_illness": "Patient noted onset of pain 4 days ago, starting in the epigastric area and then migrating throughout the abdomen, including the back and right flank. Pain is worse when lying on the right side and when leaning over. Reports subjective fevers, anorexia, and lethargy. Denies change in bowel habits, nausea/vomiting, and urinary symptoms.",
+        "past_medical_history": "Irritable bowel syndrome, hysterectomy, hip surgery, wrist surgery.",
+        "family_history": "No inflammatory bowel disease or gastrointestinal malignancy; father had lymphoma and mother had cervical cancer.",
+        "social_history": "Not specified."
+    }
+}

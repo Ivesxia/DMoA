@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Diarrhea for 3 days and right lower quadrant pain with nausea.",
+        "history_of_present_illness": "Mr. ___ experienced diarrhea for 3 days, followed by 1 day of right lower quadrant pain and nausea. He felt dizzy at 6PM on ___ and experienced vomiting by 9PM. He last had a meal at 7:30PM the night before, which he vomited, and then drank water at 1AM this morning, which he kept down. He had a liquid bowel movement at 1AM this morning. Currently, he still has pain, but nausea/vomiting has resolved after receiving anti-emetic.",
+        "past_medical_history": "Not specified.",
+        "family_history": "No significant history of bleeding/clotting, GI malignancy, or other abnormalities, IBD.",
+        "social_history": "Not specified."
+    }
+}

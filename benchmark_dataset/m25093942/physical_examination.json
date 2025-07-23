@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9°F",
+                "blood_pressure": "156/102 mmHg",
+                "heart_rate": "86 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "no acute distress",
+                "lungs": "clear",
+                "cardiovascular": "regular rate and rhythm, no murmurs/rubs/gallops",
+                "abdomen": "bowel sounds present, soft, tender epigastrium and right upper quadrant",
+                "extremities": "no edema, cyanosis, or clubbing",
+                "skin": "no rash",
+                "neurological": "alert, follows commands"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

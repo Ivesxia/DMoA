@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right upper quadrant (RUQ) pain",
+        "history_of_present_illness": "The pain began yesterday morning as a gradual onset in the RUQ, which increasingly became more sharp and severe. After eating a cheeseburger last night, the pain worsened and continued throughout the night. Patient also reports subjective fever/chills, nausea, chest pain, and shortness of breath.",
+        "past_medical_history": "History of Tylenol induced hepatitis causing liver failure approximately ___ years ago, history of kidney stones, past surgical history includes tooth extraction and lithotripsy.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

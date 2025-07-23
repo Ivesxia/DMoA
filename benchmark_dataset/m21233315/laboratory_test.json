@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W & W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver demonstrates a subtly nodular appearance with caudate lobe hypertrophy, commonly seen in cirrhosis. The spleen is enlarged. The kidneys enhance with contrast symmetrically, with mildly delayed excretion of contrast on the right, mild hydronephrosis, and perinephric stranding. A 3 mm stone is seen in the distal ureter. There is a focal area of thickened sigmoid wall noted with mild fat stranding around it and a small amount of free fluid in the pelvis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "heart_rate": "93 bpm",
+                "blood_pressure": "116/65 mmHg",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "95% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, no acute distress.",
+                "HEENT": "Sclera anicteric, dry mucous membranes, oropharynx clear.",
+                "neck": "Supple, jugular venous pressure not elevated, no lymphadenopathy.",
+                "lungs": "Decreased breath sounds at bases bilaterally with crackles midway up back on right side.",
+                "cardiovascular": "Regular rate and rhythm, normal S1 and S2, systolic ejection murmur, no rubs or gallops.",
+                "abdomen": "Soft, non-tender, distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly.",
+                "extremities": "Warm, well perfused, 2+ pulses, no clubbing, cyanosis, or edema.",
+                "neurological": "Cranial nerves II-XII intact, motor function grossly normal."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

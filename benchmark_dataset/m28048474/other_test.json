@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Percutaneous aspiration of gallbladder",
+            "date": "Not specified",
+            "findings": "2+ (1-5 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of Abdomen",
+            "date": "Not specified",
+            "findings": "Gallbladder is distended with a sludge level noted, interval development of gallbladder wall thickening, and a stone impacted within the neck of the gallbladder. Findings are concerning for acute cholecystitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

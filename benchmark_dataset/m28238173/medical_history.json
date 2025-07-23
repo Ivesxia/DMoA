@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The abdominal pain began four days prior, initially intermittent, but became more intense. It was accompanied by nausea. Pain worsened after taking Miralax for constipation, and no association with eating was noted. The patient denies fevers, chills, or diarrhea.",
+        "past_medical_history": "Obesity, Type 2 DM",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

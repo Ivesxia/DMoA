@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97°F",
+                "heart_rate": "74 bpm",
+                "blood_pressure": "125/85 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "O2_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing, well-developed, pleasant female.",
+                "cardiovascular": "Regular rate and rhythm; no murmurs, rubs, or gallops.",
+                "pulmonary": "Clear to auscultation bilaterally.",
+                "abdominal": "Soft, obese; bowel sounds present; non-distended/non-tender.",
+                "extremities": "No edema."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

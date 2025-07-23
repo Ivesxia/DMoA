@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis, Diverticulitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with right lower quadrant (RLQ) and left lower quadrant (LLQ) abdominal pain, with a history of diverticulitis. The CT scan showed a dilated appendix with mild periappendiceal fat stranding and an appendicolith at the base, which supports the diagnosis of appendicitis. Additionally, mild fat stranding surrounding a diverticulum along the proximal sigmoid colon was noted, indicating diverticulitis. The location and character of the pain, as well as the CT findings, corroborate the diagnosis."
+    }
+}

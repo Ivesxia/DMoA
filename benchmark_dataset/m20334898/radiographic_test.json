@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Dual-lead left-sided AICD without signs of wire fracture. Left ventricular prominence. Coarsening of bronchovascular markings without overt pulmonary edema. No pneumothoraces. Hazy densities at the lung bases possibly representing atelectasis. This is unchanged.",
+            "changes_over_time": "Unchanged"
+        },
+        {
+            "procedure_name": "CT abdomen/pelvis with contrast",
+            "date": "Not specified",
+            "findings": "Cholelithiasis in a distended gallbladder.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

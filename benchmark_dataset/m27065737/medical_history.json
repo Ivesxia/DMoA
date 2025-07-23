@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Abdominal pain started at 8pm 1 day prior to admission. Initially described as stabbing, cramping pain that allowed him to fall asleep with a few episodes of pain overnight. He was able to go to work, but the pain progressively worsened, prompting him to contact his primary care provider for further workup in the emergency department. Patient denies having similar episodes in the past and reports inability to eat since the onset of pain. Denies nausea/vomiting, fevers, or chills. Has baseline constipation.",
+        "past_medical_history": "HIV, Hodgkin's lymphoma, hypertension, cryptococcal meningitis, abdominal lymphadenectomy, lap splenectomy, lap incisional hernia repair, IVC filter placement, left iliac vein stent, condyloma excision.",
+        "family_history": "Cancer, heart conditions.",
+        "social_history": "Not specified."
+    }
+}

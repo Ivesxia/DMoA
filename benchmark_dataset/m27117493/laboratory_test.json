@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "US APPENDIX",
+            "date": "Not specified",
+            "findings": "Mildly distended 7-8 mm noncompressible tubular structure extending off of the cecum with a large shadowing stone at the origin. Small amount of adjacent free fluid seen. No significant hyperemia. Mildly irregular wall is present. Stool is seen within this tubular structure.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation test",
+            "date": "Not specified",
+            "findings": "30.5 sec (reference range: 25.0 - 36.5 sec)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

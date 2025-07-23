@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Distended gallbladder with wall thickening, gallstones and sludge, CBD dilation of 1-cm, circumferential thickening of the common bile duct measuring up to 1.0 cm, moderate circumferential gallbladder wall edema.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Gallbladder wall thickening with stones and sludge, a 1cm CBD.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "Escherichia coli identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Glucose",
+            "date": "Not specified",
+            "findings": "7.0 mmol/L.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Lungs are clear. No focal consolidation, effusion, or edema. Cardiomegaly is within normal limits. No acute osseous abnormalities.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

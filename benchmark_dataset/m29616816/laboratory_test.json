@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver demonstrates normal echotexture, without focal lesion or intrahepatic biliary dilatation. The portal vein is patent and shows hepatopetal flow. The gallbladder shows layering stones but no wall edema or pericholecystic fluid. The common bile duct measures 4 mm in caliber. Single sagittal view of the right kidney demonstrates no hydronephrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for creatinine",
+            "date": "Not specified",
+            "findings": "Creatinine level is 3.0 mg/dL (normal range: 2.7 - 4.5 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "The trachea is patent and midline. The visualized skeleton is normal. The cardiac silhouette is partially visualized; however, visualized portions of cardiomediastinal appear normal. 2 small opacities are seen on the lateral view in the anterior mediastinum unchanged from prior exam. Atelectatic changes adjacent to the right diaphragm are decreased. Consolidation in the left lung base most likely atelectatic change, however developing pneumonia cannot be excluded. There is blunting of the costophrenic angles bilaterally. Diaphragms are symmetric and non-elevated.",
+            "changes_over_time": "Atelectatic changes adjacent to the right diaphragm are decreased; 2 small opacities in the anterior mediastinum are unchanged from prior exam."
+        }
+    ]
+}

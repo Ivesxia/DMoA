@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is fluid-filled, dilated up to 1.5 cm, with mucosal hyperemia and surrounding inflammatory changes consistent with acute appendicitis. No focal fluid collection or extraluminal air is seen. No cecal thickening is identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sensitivity Test",
+            "date": "Not specified",
+            "findings": "HOLD.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

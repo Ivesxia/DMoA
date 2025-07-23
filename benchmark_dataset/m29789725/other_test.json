@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Gastrostomy tube removal",
+            "date": "Not specified",
+            "findings": "The patient had been planned for G tube removal.",
+            "changes_over_time": "The patient reported good progress at rehab; he has not required the use of his trach for mechanical ventilation in months and has been able to eat and swallow pills."
+        },
+        {
+            "procedure_name": "DVT management with Coumadin and Lovenox",
+            "date": "Not specified",
+            "findings": "The patient had a history of DVT and has been on Coumadin, which was held and bridged with Lovenox for the past 2 days.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

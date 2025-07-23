@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.8°F",
+                "heart_rate": "90 bpm",
+                "blood_pressure": "151/75 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "saturation": "93% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert & oriented, no acute distress",
+                "cardiovascular": "Regular rate and rhythm, normal S1 and S2",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezing/rales",
+                "abdominal": "Soft, non-distended, appropriately tender, incisions clean, dry and intact",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

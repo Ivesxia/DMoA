@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PT/INR",
+            "date": "Not specified",
+            "findings": "27.1 sec",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is retrocecal very dilated. Multiple appendicoliths. There is hazy increased density and stranding in surrounding fat as well as a small amount of free fluid in the right pelvis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

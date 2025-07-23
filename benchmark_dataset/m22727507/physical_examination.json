@@ -1,0 +1,43 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "blood_pressure": "174/83 mmHg",
+                "heart_rate": "72 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, lying in bed reading.",
+                "HEENT": "Oral cavity clear, mucous membranes moist.",
+                "respiratory": "Clear to auscultation bilaterally.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/rubs/gallops.",
+                "abdominal": "Soft, non-tender, non-distended.",
+                "extremities": "Warm, well-perfused, no edema, cyanosis, or clubbing.",
+                "neurological": "Alert, follows commands, answers questions appropriately."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "blood_pressure": "139/72 mmHg",
+                "heart_rate": "92 bpm",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Sitting comfortably on side of bed, conversing with son.",
+                "cardiovascular": "Normal S1, S2; no S3 or S4.",
+                "lungs": "Clear.",
+                "abdominal": "Soft, non-tender, hypoactive bowel sounds; incision with staples in right upper quadrant; staple line clean and dry, no erythema; umbilical staples clean and dry.",
+                "extremities": "No pedal edema bilaterally, pulses 2+ dorsalis pedis bilaterally, no calf tenderness bilaterally; upper extremities warm and pink.",
+                "neurological": "Alert and oriented to person, place, and time; soft spoken with clear speech; no tremors.",
+                "skin": "Abrasions on elbows bilaterally; ecchymotic areas on hands and lower arms."
+            },
+            "changes_over_time": "Physical examination findings improved from admission to discharge."
+        }
+    ]
+}

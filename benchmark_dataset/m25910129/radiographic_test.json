@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Minimal bibasilar dependent atelectasis, no pleural effusion, normal heart size, diffuse coronary artery calcifications, gallbladder similar in appearance with distension and chronic wall thickening, extensive lobulated peripancreatic fluid collections unchanged, normal spleen and adrenal glands, 6 mm hypodensity in left kidney likely a cyst, small hiatal hernia, scattered diverticulosis without acute diverticulitis, unremarkable urinary bladder and distal ureters, enlarged prostate gland, no retroperitoneal or mesenteric lymphadenopathy, no abdominal aortic aneurysm, mild atherosclerotic disease, no evidence of worrisome osseous lesions or acute fracture, mild degenerative changes in thoracolumbar spine.",
+            "changes_over_time": "The appearance of the gallbladder is similar to the prior CT performed 2 days earlier, with noting some distension and chronic wall thickening. Extensive lobulated peripancreatic fluid collections appear unchanged."
+        }
+    ]
+}

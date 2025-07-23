@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "4.5 mg/dL (within normal range; upper limit is 4.5 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound - Abdomen",
+            "date": "Not specified",
+            "findings": "Multiple mobile gallstones and sludge with associated diffuse gallbladder wall thickening and edema up to 5 mm. No pericholecystic edema.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

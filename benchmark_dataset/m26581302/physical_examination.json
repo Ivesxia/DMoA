@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4 F",
+                "blood_pressure": "118/74 mmHg",
+                "heart_rate": "111 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "well-appearing man in no acute distress, comfortable, appropriate",
+                "head_and_neck": "sclerae anicteric, moist mucous membranes, oropharynx clear",
+                "neck": "supple",
+                "lungs": "clear to auscultation bilaterally, no rales/rhonchi/wheezes, good air movement, respiration unlabored, no accessory muscle use",
+                "heart": "point of maximal impulse non-displaced, regular rate and rhythm, no murmurs/rubs/gallops, normal S1-S2",
+                "abdomen": "normal active bowel sounds, soft, nontender, left lower quadrant tenderness to deep palpation without rebound or guarding, no masses or hepatosplenomegaly",
+                "extremities": "warm, well-perfused, no clubbing/cyanosis/edema, 2+ dorsalis pedis pulses bilaterally",
+                "skin": "no rashes or lesions",
+                "neurological": "awake, alert and oriented times three"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

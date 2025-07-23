@@ -1,0 +1,51 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "Liver": {
+                    "hepatics": "The hepatic parenchyma appears diffusely echogenic.",
+                    "contour": "The contour of the liver is smooth.",
+                    "focal_mass": "There is no focal liver mass.",
+                    "portal_vein": "The main portal vein is patent with hepatopetal flow.",
+                    "ascites": "There is no ascites."
+                },
+                "Bile Ducts": {
+                    "biliary_dilation": "There is no intrahepatic biliary dilation.",
+                    "CBD_measurement": "CBD measures 5 mm."
+                },
+                "Gallbladder": {
+                    "stone": "There is a 2.5 cm shadowing stone within the lumen of the gallbladder.",
+                    "gallbladder_condition": "The gallbladder is distended but otherwise unremarkable without pericholecystic fluid or wall thickening."
+                },
+                "Pancreas": {
+                    "visualization": "Pancreas is not well visualized due to overlying bowel gas.",
+                    "condition": "Near the head is grossly unremarkable."
+                },
+                "Spleen": {
+                    "condition": "Normal echogenicity, measuring 11.1 cm."
+                },
+                "Kidneys": {
+                    "right_kidney": "The right kidney measures 12.2 cm.",
+                    "left_kidney": "The left kidney measures 12.7 cm.",
+                    "echogenicity": "Normal cortical echogenicity and corticomedullary differentiation is seen bilaterally.",
+                    "conditions": "There is no evidence of masses, stones, or hydronephrosis in the kidneys."
+                },
+                "Retroperitoneum": {
+                    "visualization": "Visualized portions of aorta and IVC are within normal limits."
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate Test",
+            "date": "Not specified",
+            "findings": {
+                "initial_lactate": "4.1",
+                "subsequent_lactate": "3.9"
+            },
+            "changes_over_time": "Lactate levels decreased from 4.1 to 3.9 after administration of fluids."
+        }
+    ]
+}

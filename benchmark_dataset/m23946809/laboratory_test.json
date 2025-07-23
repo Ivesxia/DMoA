@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRI ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Marked inflammation centered in the small-bowel mesentery of the right lower quadrant. Within this inflammation is a dilated tubular structure measuring up to 9 mm, consistent with an inflamed appendix. The wall appears discontinuous in several areas thus suspicious for perforation. Within the appendix are at least 2 hypointense rounded structures presumably reflecting appendicoliths. A small amount of free fluid is also seen within the right lower quadrant. Distension of the small bowel measuring up to 3.4 cm with distension of the large bowel measuring up to 7.3 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Estimated GFR (eGFR)",
+            "date": "Not specified",
+            "findings": "Estimated GFR is likely >75 mL/min/1.73 m2, provided the serum creatinine value is stable. An eGFR < 60 suggests kidney disease in those below the age of 65.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

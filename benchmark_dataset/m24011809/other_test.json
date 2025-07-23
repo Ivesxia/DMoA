@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Multiple hypodense lesions throughout the liver, with the largest being 2.1 cm x 2.7 cm likely secondary to biliary hamartomas; large abscess in the deep right pelvis measuring 8.9 cm x 8.1 cm by 8.9 cm; ascending colon shows mild thickening consistent with colitis; inflammatory changes surrounding the abscess.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Drainage of appendiceal abscess",
+            "date": "Not specified",
+            "findings": "Cloudy, purulent appearing fluid was drained; mixed bacterial flora was identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

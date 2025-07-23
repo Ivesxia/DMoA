@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Moderate to severe patent steatosis with a fat fraction of 22%; The pancreas is atrophic with low T1 signal progressive enhancement; Mild irregularity of a non-dilated pancreatic duct with multiple ectatic side branches; Low signal intensity stranding adjacent to pancreatic tail has significantly improved compared to prior CT.",
+            "changes_over_time": "Significantly improved low signal intensity stranding adjacent to pancreatic tail compared to prior imaging."
+        },
+        {
+            "procedure_name": "Gram Stain",
+            "date": "Not specified",
+            "findings": "Gram positive bacteria",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

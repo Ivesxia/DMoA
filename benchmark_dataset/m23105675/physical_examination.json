@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "heart_rate": "94 bpm",
+                "blood_pressure": "127/87 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% on RA"
+            },
+            "relevant_findings": {
+                "general": "awake, alert, oriented x 3, appears uncomfortable but not acutely distressed",
+                "heart": "RRR, NMRG",
+                "lungs": "CTAB, no respiratory distress",
+                "abdomen": "soft, ND, RLQ tenderness to palpation w (+) Rovsing sign; no rebound/guarding",
+                "neurological": "no focal deficits"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

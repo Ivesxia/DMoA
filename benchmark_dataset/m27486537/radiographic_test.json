@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Dilated, hyperemic appendix measuring up to 11 mm with surrounding periappendiceal stranding. Mild thickening of terminal ileum. Free fluid in right hemipelvis. Multiple mesenteric lymph nodes in right lower quadrant.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

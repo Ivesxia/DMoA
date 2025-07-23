@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "pulse": "77 bpm",
+                "blood_pressure": "110/55 mmHg",
+                "respiratory_rate": "18"
+            },
+            "relevant_findings": {
+                "constitutional": "No Acute Distress (NAD)",
+                "neurological": "Alert and oriented x 3",
+                "respiratory": "Clear to auscultation, bilaterally",
+                "cardiac": "Regular rate and rhythm, no murmurs appreciated",
+                "abdominal": "Soft, non-tender, non-distended, no rebound tenderness or guarding",
+                "extremities": "No edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "DRE (Digital Rectal Exam)",
+            "date": "Not specified",
+            "findings": "Demonstrated no blood, + sphincter tone.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Numerous diverticula throughout the colon; areas of wall thickening and hyperemia in mid sigmoid colon; extensive adjacent fat stranding; pockets of free air in the peritoneum; slight reactive changes in urinary bladder wall adjacent to affected sigmoid colon.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

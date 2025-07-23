@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "77 bpm",
+                "blood_pressure": "119/84 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD (No Acute Distress)",
+                "neurological": "Alert and oriented",
+                "cardiovascular": "CTA (Clear to Auscultation) bilaterally, RRR (Regular Rate and Rhythm)",
+                "abdominal": "Soft, tender to palpation in right middle quadrant, no rebound tenderness, no guarding",
+                "extremities": "No edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

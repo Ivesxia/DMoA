@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "120/88 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD, conversational",
+                "heent": "No scleral icterus, mucus membranes moist, PERRL",
+                "neck": "No palpable lymph nodes",
+                "cardiovascular": "RRR, No M/G/R",
+                "pulmonary": "Clear to auscultation b/l, No W/R/R, no distressed breathing",
+                "abdominal": "Soft, nondistended, tender in RLQ, no guarding, minimal rebound tenderness in RLQ, normoactive bowel sounds, no palpable mass",
+                "extremities": "No edema, warm and well perfused, moves limbs purposefully"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "liver": "homogenous attenuation throughout, no focal lesions.",
+                "gallbladder": "within normal limits, minimal pericholecystic fluid.",
+                "pancreas": "normal attenuation throughout, no focal lesions or pancreatic ductal dilatation.",
+                "spleen": "normal size and attenuation throughout, no focal lesions.",
+                "adrenals": "normal in size and shape.",
+                "kidneys": {
+                    "description": "normal and symmetric size with normal nephrogram.",
+                    "findings": [
+                        "3 mm non-obstructing stone in the interpolar region of the right kidney.",
+                        "7 mm non-obstructing stone in the lower pole of the left kidney.",
+                        "Multiple hypodense lesions throughout the left kidney, largest being a simple cyst measuring 2.5 x 3.3 cm."
+                    ]
+                },
+                "colon": "extensive diverticulosis with stranding and bowel wall thickening involving the sigmoid colon surrounding an inflamed diverticulum.",
+                "appendix": "normal.",
+                "bladder": "unremarkable, no free fluid in the pelvis."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

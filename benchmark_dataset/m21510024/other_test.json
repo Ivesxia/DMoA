@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Revealed a polyp and severe diverticulosis; however, the polyp was not biopsied.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "Colonic diverticulosis noted; diverticulum along the distal transverse colon slightly thickened with mild adjacent fat stranding, and segment of thickened bowel along the descending colon with adjacent fat stranding and fluid tracking.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Guaiac test",
+            "date": "Not specified",
+            "findings": "Guiac positive brown stool.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

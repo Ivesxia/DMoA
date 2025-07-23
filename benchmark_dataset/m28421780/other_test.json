@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "The patient had complaints of pressure-like diffuse abdominal pain and distention one day after the ERCP.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PSA Test",
+            "date": "Not specified",
+            "findings": "Last PSA was 17.3.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

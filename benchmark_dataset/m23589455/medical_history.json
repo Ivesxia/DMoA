@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain in the right lower quadrant (RLQ)",
+        "history_of_present_illness": "The RLQ pain began around noon today and is constant. No nausea or vomiting, but the patient reports chills and has been passing regular bowel movements and flatus.",
+        "past_medical_history": "Asthma, seasonal; Polycystic ovarian syndrome (PCOS); Obstructive sleep apnea, not on CPAP; Hyperlipidemia; History of right renal mass (angiomyolipoma); History of leukocytosis; Fatty liver with cholelithiasis.",
+        "family_history": "Father living with prostate cancer, hyperlipidemia, and obesity; mother living with a history of colonic polyps and hyperlipidemia; sisters living with obesity; paternal grandmother deceased of ovarian cancer; maternal grandfather deceased of colon cancer; paternal grandfather deceased of stroke.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "General: Alert and in NAD. Eyes: Mild scleral icterus, PERRLA, EOMI. CV: RRR, no murmurs/rubs/gallops. RESP: Lungs CTAB, no crackles/rhonchi/wheezes, breathing non-labored. GI: Abdomen soft, ND, NTTP, +BS, no HSM. GU: No suprapubic or CVA TTP. MSK: Neck supple, moves all extremities, strength grossly full and symmetric bilaterally in all limbs. SKIN: No rashes or ulcerations noted. PSYCH: Pleasant, appropriate affect.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Chest PA and lateral: The trachea is patent and midline. Cardiac silhouette: Normal. 2 small opacities in the anterior mediastinum unchanged from prior exam. Atelectatic changes adjacent to the right diaphragm are decreased. Consolidation in the left lung base most likely atelectatic changes; developing pneumonia cannot be excluded. Blunting of the costophrenic angles bilaterally.",
+            "changes_over_time": "Atelectatic changes adjacent to the right diaphragm are decreased; consolidation in the left lung base most likely atelectatic change, however, developing pneumonia cannot be excluded."
+        }
+    ]
+}

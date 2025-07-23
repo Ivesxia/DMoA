@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "68 bpm",
+                "blood_pressure": "123/58 mmHg",
+                "respiratory_rate": "100% on RA",
+                "date_recorded": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "A&O x 3, NAD, speaking in full sentence and appeared stated age",
+                "HEENT": "NCAT, EOMI, anicteric sclera, mucus membranes moist",
+                "cardiovascular": "RRR, No M/G/R",
+                "pulmonary": "Clear to auscultation b/l, No W/R/R",
+                "abdominal": "+ focal peritonitis at RLQ slightly above McBurney's point, + Rovsing, negative obturator or psoas sign, otherwise no rebound or guarding in the other quadrants, no HSM",
+                "extremities": "No edema, warm and well perfused",
+                "date_recorded": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

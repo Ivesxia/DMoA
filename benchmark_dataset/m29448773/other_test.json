@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile by the Illumigene DNA amplification assay.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Large nonhemorrhagic left pleural effusion which has mildly increased in size; interval decrease in pancreatic head pseudocyst; slight increase in size of pseudocyst in pancreatic body; unchanged size of tail pseudocyst.",
+            "changes_over_time": "Pancreatic head pseudocyst decreased from 5.3 x 3.7 cm to 4.1 x 3.4 cm; pseudocyst in uncinate decreased from 2.7 x 2.1 cm to 2.5 x 2.1 cm; pseudocyst in pancreatic body increased from 1.3 x 0.5 cm to 1.8 x 1.0 cm; tail pseudocyst unchanged at 2.7 x 1.2 cm."
+        }
+    ]
+}

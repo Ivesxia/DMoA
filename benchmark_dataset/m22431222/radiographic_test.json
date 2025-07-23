@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "A tubular, blind-ending structure is noted within the right lower quadrant. There is a small amount of adjacent free fluid. The maximal diameter of this structure measures 6 mm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "physical_examinations": [
+        {
+            "date": "On Admission",
+            "vital_signs": {
+                "temperature": "99.8F",
+                "blood_pressure": "165/97 mmHg",
+                "heart_rate": "103 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, appears sleepy",
+                "heent": "Normocephalic/atractive, sclerae icteric, mucous membranes dry",
+                "neck": "Supple",
+                "lungs": "Clear to auscultation bilaterally, with good air movement",
+                "heart": "Regular rate and rhythm, + systolic murmur (radiation from fistula)",
+                "abdomen": "Soft/nondistended, + mild tenderness to palpation, no rebound/guarding",
+                "extremities": "Warm, well perfused, no cyanosis/clubbing/edema",
+                "skin": "No rashes or lesions",
+                "lymph": "No cervical lymphadenopathy",
+                "neurological": "Awake, alert and oriented x3, asterixis"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "One day earlier",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "chest_exam": "Bilateral plate atelectasis on the lung bases consistent with poor ventilation"
+            },
+            "changes_over_time": "Bilateral plate atelectasis on the lung bases may have increased slightly over the last 24 hours."
+        }
+    ]
+}

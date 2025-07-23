@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is fluid filled, with mural hyperenhancement, and dilation up to 12 mm. There is no fluid collection or pneumoperitoneum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic appendectomy",
+            "date": "Not specified",
+            "findings": "Acute appendicitis was identified as the diagnosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild periportal edema in the liver. No focal lesions in liver, pancreas, spleen, or adrenal glands. Normal kidney size and nephrogram. Dilated fluid-filled 8 mm structure likely represents the appendix. Small amount of free fluid in the pelvis. Diffuse endometrial thickening of indeterminate nature.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "No growth",
+            "date": "Not specified",
+            "findings": "Values: 0.9 mmol/L. No growth.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver echotexture is normal. There are no focal hepatic lesions. The gallbladder is mildly distended with several multiple stones visible. Positive sonographic sign, no overt gallbladder wall thickening or pericholecystic fluid. The common bile duct measures 5-7 mm, which is top normal. No intra- or extra-hepatic biliary dilatation. The spleen is mildly enlarged at 13 cm. The main portal vein is patent.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

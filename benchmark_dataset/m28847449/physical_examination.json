@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "General: no acute distress, alert, responsive; Pulmonary: clear to auscultation bilaterally; Cardiovascular: regular rate and rhythm; Abdominal: soft, non-tender, non-distended; Extremities: warm, pulses palpable throughout.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

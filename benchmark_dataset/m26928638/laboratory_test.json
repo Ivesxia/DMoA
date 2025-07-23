@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Neisseria Gonorrhoeae by PCR",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria Gonorrhoeae by PCR.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is fluid-filled and dilated measuring up to 10 mm in diameter. Mild periappendiceal fat stranding. A 4 mm probable appendicolith is seen. No abscess or free air.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

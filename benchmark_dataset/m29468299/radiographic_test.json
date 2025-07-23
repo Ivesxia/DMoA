@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is fluid filled and dilated measuring 9 mm. There is thickening of the right lateral conal fascia. No pleural effusion or pneumothorax; liver enhances homogeneously; gallbladder normal; no intrahepatic biliary ductal dilation; spleen normal in size; pancreas and adrenal glands unremarkable; kidneys enhance symmetrically and excrete contrast without hydronephrosis; normal ureters; no retroperitoneal or mesenteric lymphadenopathy; stomach, large and small bowel normal; no adjacent fluid collection or free air; abdominal aorta and major branches unremarkable; patent portal vein, splenic vein and superior mesenteric vein; normal bladder, rectum and prostate; no concerning lytic or blastic osseous lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

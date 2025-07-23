@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Small amount of fluid around the pancreatic body and tail; pancreatic duct is smooth with normal caliber; 7 mm cystic lesion of the pancreatic body adjacent to the main duct with no complex features or solid enhancement; numerous gallstones within the gallbladder; intra- and extra-hepatic bile ducts are normal in caliber; two tiny equivocal filling defects noted in common hepatic duct and distal common bile duct; 12-mm lesion of hepatic segment IV appearing mildly hyperintense on T2-weighted images with progressive peripheral nodular contrast enhancement, consistent with hemangioma; decrease in signal intensity of hepatic parenchyma indicating fatty infiltration; tiny simple cyst of the right kidney; normal spleen; unremarkable adrenal glands, left kidney, stomach, and loops of bowel; patent celiac trunk, SMA and renal arteries; no focal bone lesion of concern.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

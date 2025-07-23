@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "LLQ/suprapubic pain.",
+        "history_of_present_illness": "Approximately ___ days of pain; increasingly severe. Last bowel movement was this AM. Positive flatus and constipation noted. Denies nausea/vomiting, fevers, and chills.",
+        "past_medical_history": "Hypertension.",
+        "family_history": "Not specified.",
+        "social_history": "Smokes ___ pack per day for ___ years, consumes ___ pint of vodka 2 times per week, denies illicit drug use."
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "heart_rate": "87 bpm",
+                "blood_pressure": "131/75 mmHg",
+                "respiratory_rate": "20 breaths per minute",
+                "O2_saturation": "98%"
+            },
+            "relevant_findings": {
+                "general": "In no acute distress (NAD)",
+                "HEENT": "No cervical adenopathy, trachea midline, neck supple",
+                "respiratory": "No distress",
+                "cardiovascular": "Regular rhythm",
+                "abdominal": "Soft, non-distended, RUQ/epigastric tenderness to palpation, no rebound, no guarding",
+                "extremities": "No cyanosis/clubbing/edema",
+                "neurological": "Cranial nerves II-XII grossly intact, slight tremor"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

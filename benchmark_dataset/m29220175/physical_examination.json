@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "103.1",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "AAOx3 NAD",
+                "HEENT": "NCAT, EOMI, PERRLA, No scleral icterus, mucosa moist",
+                "cardiovascular": "R/R/R PULSES: 2+ radial pulses b/l",
+                "pulmonary": "CTAB, breathing comfortably on room air",
+                "gastrointestinal": "soft, appropriately TTP, no distension. No guarding, rebound, or peritoneal signs",
+                "incision/wounds": "lap port sites C/D/I, bandages appropriate",
+                "extremities": "No C/C/E",
+                "neurological": "strength, and sensation grossly intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

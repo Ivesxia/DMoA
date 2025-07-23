@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP with stent placement",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of the Abdomen",
+            "date": "Not specified",
+            "findings": "Trace right pleural effusion, mild intra and extrahepatic biliary ductal dilatation, 0.4 cm filling defect in distal common bile duct concerning for retained stone, normal pancreas, liver, spleen, adrenal glands, symmetric kidneys with subcentimeter cortical hyperintensities likely consistent with cysts, normal gastrointestinal tract.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

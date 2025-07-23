@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "well-appearing male, appears younger than stated age, NAD, no icterus, somnolent",
+                "HEENT": "NC/AT, EOMI, PERRLA bilat., MMM, without cervical LAD",
+                "cardiovascular": "RRR without m/g/r, no JVD, no bruits",
+                "lungs": "CTA bilat.",
+                "abdominal": "+BS, soft, ND, NT, no masses, no hernias",
+                "extremities": "warm feet, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

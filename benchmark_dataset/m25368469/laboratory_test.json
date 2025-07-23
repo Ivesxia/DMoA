@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Examination for Proteus Mirabilis and Beta Streptococcus Group B",
+            "date": "Not specified",
+            "findings": "Proteus Mirabilis and Beta Streptococcus Group B identified; valuestr 8.4 mg/dL within the reference range (8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "There is a small right pleural effusion, moderate stable cardiomegaly, moderate hiatal hernia, normal liver morphology, mild pericholecystic hyperemia, fluid-sludge level in the gallbladder with asymmetric gallbladder wall edema; pancreas and kidneys normal; no concerning lesions.",
+            "changes_over_time": "Cysts in the pancreas are mostly new since an unspecified previous date; there may have been a small cystic lesion at the pancreatic head/neck junction previously."
+        }
+    ]
+}

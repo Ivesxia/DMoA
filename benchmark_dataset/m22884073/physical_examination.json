@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "99 bpm",
+                "blood_pressure": "129/79 mmHg",
+                "respiratory_rate": "18 bpm",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and oriented x 3",
+                "HEENT": "Normocephalic atraumatic, extraocular movements intact, mucous membranes moist",
+                "cardiovascular": "Tachycardic, regular",
+                "pulmonary": "No respiratory distress, clear to auscultation bilaterally, no wheezes/rales/rhonchi",
+                "abdominal": "Soft, non-distended, + right lower quadrant tenderness to palpation with voluntary guarding"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

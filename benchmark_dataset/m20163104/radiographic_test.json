@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "The liver is normal in contour with no liver lesions. The portal vein and hepatic veins are patent. There is pericholecystic hyperemia in the liver, diffuse gallbladder wall edema, small stones and sludge in the distended gallbladder, consistent with cholecystitis. The common bile duct measures 4 mm and is not dilated. The pancreas shows low signal intensity indicating edema and several small cysts. The spleen measures 10.3 cm and is not enlarged. Bilateral simple renal cysts are present, with a T2 hypointense lesion in the lower pole of the left kidney corresponding to a calcified hemorrhagic cyst. Small amount of free fluid and small right pleural effusions are noted.",
+            "changes_over_time": "There is a T2 hypointense lesion in the lower pole of the left kidney that corresponds to a hyperdense lesion on prior CT. There is an indication of prior hemorrhage or calcification within a minimally complex cyst in the lower pole of the left kidney."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ABDOMEN (SUPINE & ERECT)",
+            "date": "Not specified",
+            "findings": "Increased central abdominal density with inferior displacement of the hepatic flexure, possibly due to an enlarged liver. No free air. Nonobstructive bowel gas pattern. No constipation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

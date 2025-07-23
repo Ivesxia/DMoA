@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "Escherichia coli, Pseudomonas aeruginosa, Gram positive bacteria, mixed bacterial flora",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "New small bilateral pleural effusions, distended appendix (1.2 cm), extensive fat stranding in the right lower quadrant with several new loculated fluid collections. The largest collection measures 2.6 x 2.7 x 6.2 cm.",
+            "changes_over_time": "Collection is new compared to prior study."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2°F",
+                "heart_rate": "76 bpm",
+                "blood_pressure": "127/53 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x3, pleasant and cooperative, nontoxic, no acute distress",
+                "HEENT": "No scleral icterus, mucous membranes moist",
+                "cardiovascular": "Regular heart sounds",
+                "pulmonary": "Clear lung fields",
+                "abdominal": "Soft, nondistended, very mild epigastric tenderness with deep palpation, well-healed lower midline incision without erythema, drainage, or hernia",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound-guided percutaneous cholecystostomy",
+            "date": "Not specified",
+            "findings": "The gallbladder is distended and filled with sludge. There is mild gallbladder wall edema measuring up to 6 mm. There is no pericholecystic fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The hepatic parenchyma appears within normal limits. A hyperechoic lesion measuring approximately 6 mm in segment V of the liver, unchanged since prior study and likely represents a hemangioma. There is no intrahepatic biliary dilation. The CBD measures 6 mm.",
+            "changes_over_time": "The hyperechoic lesion in the liver is unchanged since the prior study."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix appears dilated and fluid-filled with hyperemic wall measuring up to 9 mm. Extensive inflammation and periappendiceal phlegmon formation measuring 4.4 x 3.5 cm noted. Small locule of gas within this phlegmon. Extensive bowel wall thickening of the cecum and terminal ileum likely reactive. Numerous mesenteric lymph nodes likely reactive. No drainable abscess formation. Imaged lung bases are clear, no pleural effusion. Liver enhances homogeneously without discrete lesions. No evidence of biliary ductal dilatation. Gallbladder incompletely distended with no wall thickening or gallstones. Spleen unremarkable. Kidneys enhance and excrete contrast symmetrically without hydronephrosis or renal masses. Bladder, distal ureters, seminal vesicles, rectum, and sigmoid colon unremarkable. No free fluid within the pelvis. No pathologically enlarged lymph nodes noted. No suspicious lytic or sclerotic lesion seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

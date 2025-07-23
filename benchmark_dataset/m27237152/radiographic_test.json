@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI (ABDOMEN & PELVIS) W&W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The diameter of the appendix remains at the upper limits of normal, measuring 7 mm. There is fluid within the appendix. There is persistent stranding and inflammatory changes in the right lower quadrant. There is a drainage catheter present within a fluid collection in the mid abdomen just below the level of the kidneys. The fluid collection continues to decrease in size. Multiple interloop fluid collections have also slightly decreased in size. Ill-defined inflammatory changes are noted along the left pericolic gutter abutting the left psoas muscle.",
+            "changes_over_time": "The fluid collection measures 69 x 25 mm (14, 36), decreased from 92 x 37 mm. The most inferior and dependent fluid collection measures 69 x 44 mm (14, 64), decreased from 82 x 55 mm. Another loculation in the left hemiabdomen measures 30 x 19 mm (14, 70), decreased from 37 x 36 mm. A second drainage catheter's associated fluid collection is nearly completely resolved. There are no new fluid collections identified."
+        }
+    ]
+}

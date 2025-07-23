@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "LP attempted but failed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT head and spine",
+            "date": "Not specified",
+            "findings": "CT head showed interval increase in left temporal region with smaller sulci suggesting possible communicating hydrocephalus; C-spine showed multilevel spondylosis without significant stenosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Conventional angiogram",
+            "date": "Not specified",
+            "findings": "Planned to evaluate for possible new AVM based on NCHCT.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

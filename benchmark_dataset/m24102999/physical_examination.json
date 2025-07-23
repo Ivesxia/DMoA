@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "heart_rate": "70 bpm",
+                "blood_pressure": "153/79 mmHg",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "96% RA"
+            },
+            "relevant_findings": {
+                "general": "Elderly female laying in bed comfortable but in pain with movement.",
+                "HEENT": "NCAT, PERRL, EOMI, anicteric, dry mucous membranes.",
+                "neck": "Supple, no stiffness, no masses.",
+                "cardiovascular": "RRR, S1S2, no murmurs/rubs/gallops.",
+                "respiratory": "Diminished breath sounds at bases, no wheezes.",
+                "abdominal": "Obese, non-distended, markedly tender lower abdomen bilaterally, prominent tenderness over LLQ with mild rebound, hypoactive bowel sounds.",
+                "back": "Tender to palpation over lumbar region, spinally and paraspinally. No lesions or masses noted.",
+                "rectal": "Normal rectal tone, guaiac normal, deferred secondary to pain.",
+                "extremities": "No cyanosis, clubbing, or edema, 2+ symmetric pedal pulses.",
+                "neurological": "Alert and oriented x 3, cranial nerves grossly intact, strength intact throughout, intact sensation, no saddle paresthesia."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "heart_rate": "71 bpm",
+                "blood_pressure": "131/72 mmHg",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

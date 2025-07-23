@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver function tests",
+            "date": "Not specified",
+            "findings": "ALT 49, AST 156; Later: ALT 55, AST 181.",
+            "changes_over_time": "Both ALT and AST levels increased (ALT increased from 49 to 55, AST increased from 156 to 181)."
+        },
+        {
+            "procedure_name": "Amylase",
+            "date": "Not specified",
+            "findings": "Amylase 137.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 96; Later: Lipase 112.",
+            "changes_over_time": "Lipase levels increased from 96 to 112."
+        },
+        {
+            "procedure_name": "Platelet count",
+            "date": "Not specified",
+            "findings": "Platelets low at 59.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ethyl alcohol level",
+            "date": "Not specified",
+            "findings": "EtOh 324.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Coagulation test (PT)",
+            "date": "Not specified",
+            "findings": "PT: 10.5 sec (Ref range: 9.4 - 12.5 sec).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

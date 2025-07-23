@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "General": "Lying still, in no acute distress",
+                "HEENT": "NCAT, sclerae nonicteric",
+                "Pulmonary": "CTAB",
+                "Cardiovascular": "RRR, nl S1/S2",
+                "Abdomen": "Soft, appropriately tender, nondistended, no rebound/guarding",
+                "Extremities": "WWP, 2+ DP b/l, no c/c/e"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "Ultrasound": {
+                    "liver": "Normal echotexture without discrete mass or lesion",
+                    "intrahepatic_biliary": "No dilatation",
+                    "gallbladder": "Distended with increased wall thickness (6 mm) and multiple gallstones; pericholecystic fluid noted",
+                    "common_bile_duct": "Not dilated (5 mm)",
+                    "pancreatic_tail": "Exclusion from view by bowel gas, but visualized portions unremarkable; no pancreatic duct dilatation",
+                    "other_structures": "Aorta, inferior vena cava, right kidney unremarkable; no free fluid identified"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

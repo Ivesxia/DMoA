@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Chronic abdominal pain with acute increase in pain.",
+        "history_of_present_illness": "Chronic abdominal pain for ___ year(s), sharp increase in pain noted prior to ED re-evaluation today, no significant change in symptoms compared to yesterday's evaluation.",
+        "past_medical_history": "None",
+        "family_history": "Recently diagnosed Crohn's disease in maternal grandfather, extensive cancer history including breast cancer in mother (deceased) and brain cancer in brother (deceased).",
+        "social_history": "Not specified."
+    }
+}

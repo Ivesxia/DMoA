@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with symptoms indicative of appendicitis, including periumbilical pain that transitioned to suprapubic pain, along with tenderness on examination and elevated WBC count. CT imaging confirmed the diagnosis by showing a dilated, fluid-filled appendix with wall and mucosal hyperemia and a possible obstructing appendicolith, consistent with acute uncomplicated appendicitis."
+    }
+}

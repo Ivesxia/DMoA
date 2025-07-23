@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bacteroides Fragilis Group Test",
+            "date": "Not specified",
+            "findings": "210.0 IU/L, which is within the reference range of 94.0 - 250.0 IU/L.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Liver minimally hypoattenuating consistent with fatty deposition, multiple hepatic lesions including a 2.7 cm segment II hemangioma, and identified abscess from a perforated appendix.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

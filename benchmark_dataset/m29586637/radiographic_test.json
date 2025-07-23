@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "A left-sided PICC follows a normal course terminating in the mid SVC. There is no pneumothorax. The remainder of the exam is unchanged from prior.",
+            "changes_over_time": "Unchanged from prior."
+        }
+    ]
+}

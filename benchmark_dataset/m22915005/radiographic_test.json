@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Normal respirophasic waveform in the bilateral subclavian veins; normal flow and compressibility in the left internal jugular vein, axillary vein, paired brachial veins, and left basilic vein; left cephalic vein not visualized.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

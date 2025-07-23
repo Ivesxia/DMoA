@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.9°F",
+                "heart_rate": "118 bpm",
+                "blood_pressure": "111/65 mmHg",
+                "respiratory_rate": "28 breaths/min",
+                "oxygen_saturation": "97% on 3L NC"
+            },
+            "relevant_findings": {
+                "general": "A&Ox3, ill appearing",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "CV": "Tachycardic, regular",
+                "pulmonary": "Appears dyspneic with increased work of breathing, tachypnea",
+                "abdomen": "Soft, distended, moderately tender in RUQ, mild tenderness in RLQ",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

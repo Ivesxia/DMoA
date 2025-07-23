@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Stranding of mesenteric fat in close proximity to the gastrojejunal anastomosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Distended gallbladder containing a mobile gallstone measuring up to 2 cm; no gallbladder wall thickening or pericholecystic fluid; no intrahepatic biliary dilation. The hepatic parenchyma appears within normal limits.",
+            "changes_over_time": "Dilatation of the intrarenal collecting system was seen on recently performed CT scan of the abdomen and pelvis."
+        }
+    ]
+}

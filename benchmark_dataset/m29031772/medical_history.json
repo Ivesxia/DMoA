@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric pain for 6 days.",
+        "history_of_present_illness": "The patient's epigastric pain began 6 days prior and has been improving significantly over the past 48 hours. The pain worsens with eating, and he has been unable to eat due to substantial nausea. Prior to admission, he had only had ___ bowel movements per day, significantly less than his usual 20 loose stools per day during flares. He reports daily sweats but has no fever. Low back pain and systemic joint pain prevented easy sitting/standing and bending over, but these symptoms have now resolved.",
+        "past_medical_history": "___ disease diagnosed ___. Seasonal allergies.",
+        "family_history": "Father with ___ disease.",
+        "social_history": "Not specified."
+    }
+}

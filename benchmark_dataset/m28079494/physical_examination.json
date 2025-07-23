@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2°F",
+                "heart_rate": "71 bpm",
+                "blood_pressure": "104/55 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "SpO2": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Patient in no acute distress.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/rubs/gallops.",
+                "respiratory": "Clear to auscultation bilaterally, good air movement.",
+                "abdominal": "Slightly tender to palpation in right upper quadrant. No peritoneal signs or rebound tenderness. Normoactive bowel sounds. Abdomen nondistended.",
+                "extremities": "No cyanosis, clubbing, or edema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

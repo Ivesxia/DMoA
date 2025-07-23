@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The right middle lobe demonstrates 2 mm nodules. Enlarged subcarinal lymph node measuring approximately 2.4 cm x 1.9 cm. Large hypodense lesion in the left lobe of the liver measuring approximately 11.8 cm x 12.5 cm x 9.4 cm with mild septations and areas of increased density. Normal gallbladder, spleen homogeneous, normal adrenal glands, hypodensity in the lower pole of the right kidney likely secondary to a simple renal cyst. Pancreas appears bulbous with significant surrounding inflammatory changes and extensive retroperitoneal and mesenteric lymphadenopathy. No intra-abdominal free air. Normal stomach, duodenum, small bowel, and colon. Normal urinary bladder with trace free fluid in the pelvis and a small right fat-containing inguinal hernia. Osseous structures show no concerning lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

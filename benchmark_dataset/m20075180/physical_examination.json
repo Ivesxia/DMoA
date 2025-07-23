@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "98/60 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress observed.",
+                "HEENT": "No scleral icterus.",
+                "neck": "Supple.",
+                "lungs": "Clear.",
+                "heart": "Irregular rate and rhythm.",
+                "abdomen": "Soft, nondistended, moderately tender in lower abdomen.",
+                "rectal": "No masses, guaiac negative.",
+                "extremities": "No edema."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

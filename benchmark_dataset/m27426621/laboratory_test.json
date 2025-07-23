@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "Elevated LFTs at the OSH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI ABDOMEN W/O & W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver is normal in size and contour. A single 1.1 cm hepatic cyst was identified. The gallbladder is mildly distended with hyperenhancement and irregularity of the mucosal surface, pericholecystic standing, and a small amount of free fluid present. Luminal sludge and stones are observed. These findings are compatible with acute cholecystitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified (Cultures or Similar)",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

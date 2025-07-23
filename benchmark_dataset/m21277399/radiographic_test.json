@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Decreased inspiratory lung volumes, increased opacification at the bilateral lung bases with obscuration of the hemidiaphragm on the left greater than the right consistent with small bilateral pleural effusions, underlying atelectasis, no pneumothorax present, cardiac silhouette overall unchanged.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

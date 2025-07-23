@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute appendicitis",
+        "differential_diagnosis": "Urinary tract infection",
+        "diagnostic_reasoning": "The patient presented with epigastric abdominal pain that migrated to the right lower quadrant (RLQ) along with tenderness in that area, +guarding, and positive obturator sign. CT scan findings showed a dilated and hyperemic retrocecal appendix with adjacent fat stranding, consistent with acute appendicitis. Additionally, symptoms and lab findings indicated a urinary tract infection."
+    }
+}

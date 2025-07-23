@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "158/90 mmHg",
+                "respiratory_rate": "20 bpm",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "temperature": "100°F",
+                "blood_pressure": "180/90 mmHg",
+                "heart_rate": "94 bpm",
+                "respiratory_rate": "18 bpm",
+                "oxygen_saturation": "97%"
+            },
+            "changes_over_time": "Gained a low-grade fever at 100°F upon arrival."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "General: Alert, oriented, no acute distress. Sclera anicteric, muddiness of mucous membranes normal, oropharynx clear. Neck supple, JVP not elevated, no lymphadenopathy. Lungs clear bilaterally, no wheezes, rales, or ronchi. Cardiovascular: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, or gallops. Abdomen: Soft, tender to palpation diffusely, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly. GU: no foley. Extremities warm, well perfused, 2+ pulses, no clubbing, cyanosis, or edema.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

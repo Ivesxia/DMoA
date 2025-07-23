@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "There is a small right pleural effusion. Moderate cardiomegaly is stable. There is a moderate hiatal hernia. The signal intensity and morphology of the liver is normal and homogeneous. There is minimal homogeneous loss of signal intensity on the in phase echo sequence. Portal and hepatic veins are patent. There are no concerning liver lesions. There is mild pericholecystic hyperemia in the liver portal venous phase. However there is no arterial hyperemia. There is a fluid-sludge level in the gallbladder. There are no gallstones. There is asymmetric gallbladder wall edema around the hepatic edge of the gallbladder fundus. There is mild enhancement surrounding the edematous wall. There is no intra or extrahepatic biliary dilatation. There is no choledocholithiasis. The pancreas has a normal signal intensity and morphology. The pancreatic duct is normal in caliber. There is a collection of numerous small sub 5 mm T2 hyperintense cystic structures linked in chain like fashion adjacent to the duct. There is a 7 mm T2 hyperintensity in the pancreatic tail. The spleen is normal and homogeneous. Adrenal glands are normal. The kidneys enhance homogeneously. There are no concerning renal lesions. There is no ascites or abdominal adenopathy. There is severe convex left thoracic and lumbar scoliosis. Visualized intra-abdominal loops of bowel are normal caliber and appearance.",
+            "changes_over_time": "These cysts are mostly new since the previous evaluation, though in retrospect, there may have been a small cystic lesion at the pancreatic head/neck junction in a prior study."
+        }
+    ]
+}

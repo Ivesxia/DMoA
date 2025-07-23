@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.0°F",
+                "blood_pressure": "125/78 mmHg",
+                "heart_rate": "78 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "93% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well appearing, no acute distress, awake, alert, appropriate, and oriented x 3.",
+                "skin": "Warm to touch, no apparent rashes.",
+                "HEENT": "No conjunctival pallor, no scleral jaundice, PERRLA, OP clear, no cervical LAD.",
+                "CV": "JVP 6 cmH20, RRR, no audible m/r/g, pulses 2+, no edema.",
+                "lungs": "Clear to auscultation.",
+                "abdomen": "Soft, diffusely tender.",
+                "extremities": "No cyanosis/coldness/edema.",
+                "neurological": "Strength and sensation intact bilaterally."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

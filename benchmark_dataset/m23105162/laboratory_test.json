@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Gallbladder abnormality with wall thickening, irregular and likely perforated along the posterior margin with adjacent fat stranding. No gas or calcification seen in the gallbladder wall. A dominant fluid collection seen along the inferior edge of the liver measuring approximately 5.5 x 2.0 cm. Mild atelectatic change in lung bases. Right lower lobe 6-mm nodular opacity. Liver is otherwise unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for MRSA",
+            "date": "Not specified",
+            "findings": "No MRSA isolated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lab test for serum creatinine",
+            "date": "Not specified",
+            "findings": "3.0 mg/dL (within reference range: 2.7 to 4.5 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

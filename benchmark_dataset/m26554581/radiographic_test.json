@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "PORTABLE ABDOMEN",
+            "date": "Not specified",
+            "findings": "Moderate volume of stool throughout nondilated colon. No small bowel dilatation. Lateral bulge of the left abdominal wall, not fully included on the radiograph. 4.1 cm exophytic peripherally calcified mass arising from the upper pole of the right kidney, renal ultrasound recommended to exclude neoplasm. Arterial calcifications. Mild degenerative change spine.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Free air within the abdomen and stranding centered around small bowel loops within the lower abdomen/pelvis and a possible enteric colonic fistula between the sigmoid colon and the inflamed loop of small bowel.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "96 bpm",
+                "blood_pressure": "164/76 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "appears tired, unwell",
+                "HEENT": "sclera anicteric; mucous membranes dry; nares clear; trachea at midline",
+                "CV": "regular rate, rhythm; no appreciable murmurs, rubs, gallops",
+                "Pulm": "clear to auscultation bilaterally",
+                "Abd": "partially reducible umbilical hernia; focal tenderness in RUQ",
+                "MSK": "warm, well perfused",
+                "Neuro": "alert, oriented to person, place, time"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

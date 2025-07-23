@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The lung bases are clear without opacity, mass, or pleural effusion. Attenuation of the liver is consistent with borderline diffuse fatty infiltration without evidence of focal mass lesion. There is splenomegaly measuring up to 16 cm. The pancreas and adrenal glands are unremarkable. The kidneys enhance and excrete contrast symmetrically without evidence of hydronephrosis, hydroureter, or pyelonephritis. Non-opacified stomach and small bowel are normal. Scattered diverticula of the large bowel. There is haziness in the mesentery in the right upper quadrant surrounding the hepatic flexure and a diverticulum adjacent to the stranding. A punctate hyperdensity near the hepatic flexure is surrounded by soft tissue and adjacent to some mesenteric stranding. No mesenteric or retroperitoneal lymphadenopathy meeting CT criteria for pathologic enlargement is identified. No free fluid or free air in the abdomen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

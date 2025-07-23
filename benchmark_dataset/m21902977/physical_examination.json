@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "90 bpm",
+                "blood_pressure": "133/92 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "A&Ox3, NAD. Resting in bed in some pain.",
+                "HEENT": "Normocephalic; atraumatic. PERLA, EOMI, anicteric.",
+                "CV": "RRR with no murmurs.",
+                "pulmonary": "Clear to auscultation b/l.",
+                "abdominal": "Soft and nondistended. Exquisitely tender to palpation in RLQ. No rebound or guarding. Rovsing and psoas signs negative.",
+                "extremities": "No edema, warm and well perfused."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

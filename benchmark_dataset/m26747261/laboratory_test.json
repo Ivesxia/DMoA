@@ -1,0 +1,36 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Hepatic parenchyma within normal limits, smooth contour, no focal liver mass.",
+                "bile_ducts": "No intrahepatic biliary dilation, CHD measures 3 mm, pneumobilia likely related to recent ERCP.",
+                "gallbladder": "Distended gallbladder, no evidence of stones or gallbladder wall thickening, small amount of pericholecystic fluid.",
+                "pancreas": "Imaged portion appears within normal limits, no masses or pancreatic ductal dilation.",
+                "spleen": "Normal echogenicity, measuring 13.5 cm.",
+                "kidneys": "Limited views of the right kidney show no hydronephrosis.",
+                "retroperitoneum": "Visualized portions of aorta and IVC within normal limits."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "AST/ALT",
+            "date": "Not specified",
+            "findings": "Elevated AST/ALT.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Crit",
+            "date": "Not specified",
+            "findings": "Crit was 33.1.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "No leukocytosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

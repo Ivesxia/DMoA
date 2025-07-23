@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The diagnosis of appendicitis was supported by the presence of a dilated fluid-filled appendix measuring up to 12 mm with minimal surrounding fat stranding on CT imaging, as well as clinical symptoms including generalized crampy abdominal pain and localized tenderness in the right lower quadrant."
+    }
+}

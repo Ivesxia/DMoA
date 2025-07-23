@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W & W/O CONTRAST, ADDL SECTIONS",
+            "date": "Not specified",
+            "findings": "Unremarkable liver with multiple hemangiomas measuring up to 6 cm; normal pancreas with no lesions; normal spleen; normal adrenal glands; unremarkable kidneys with no hydronephrosis; distended bladder; no intestinal obstruction; distended appendix with associated soft tissue strain and appendicolith; no abscess formation; no free fluid in pelvis; mildly enlarged prostate; few prominent right lower quadrant lymph nodes likely reactive; no abdominal aortic aneurysm; no atherosclerotic disease; no evidence of osseous lesions or acute fracture.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

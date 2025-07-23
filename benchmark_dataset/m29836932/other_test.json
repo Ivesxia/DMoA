@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Vital Signs Assessment",
+            "date": "Not specified",
+            "findings": "bp=139/79, hr 77, resp. rate 18, oxygen saturation 98% (2 liters)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Physical Examination",
+            "date": "Not specified",
+            "findings": "General: NAD, alert and oriented; Abdomen: soft, extremely TTP RUQ, +G, no rebound; well healed incisions; Ext wwp, no edema",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Little change in the amount of free intraperitoneal gas beneath the hemidiaphragm, residual opacification at the left base consistent with atelectasis and possible effusion, no evidence of pulmonary vascular congestion.",
+            "changes_over_time": "Consistent with prior surgery"
+        }
+    ]
+}

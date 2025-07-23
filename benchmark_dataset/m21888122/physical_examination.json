@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4 °F",
+                "heart_rate": "73 bpm",
+                "blood_pressure": "117/70 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, pleasant, no scleral or sublingual icterus",
+                "cardiovascular": "RRR",
+                "pulmonary": "CTAB",
+                "abdominal": "TTP in mid epigastric region and right of umbilicus, no RUQ TTP, negative ___ sign",
+                "back": "TTP mid- to lower-back, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

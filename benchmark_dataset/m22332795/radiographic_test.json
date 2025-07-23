@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic with area of fatty sparing adjacent to the gallbladder. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites. No intrahepatic biliary dilation with CBD measuring 3 mm. No evidence of stones or gallbladder wall thickening. Multiple gallbladder polyps are demonstrated with the largest measuring 0.7 cm. The imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation. Limited views of the right kidney show no hydronephrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "No acute cardiopulmonary process. Mild cardiomegaly. Right paratracheal stripe thickening, might represent thyroid lesion or lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

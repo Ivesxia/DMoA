@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with abdominal pain, specifically in the right lower quadrant (RLQ), associated with nausea and vomiting. Physical examination revealed tenderness in the RLQ. The CT scan showed an enlarged and dilated appendix measuring 1.2 cm with appendicoliths and surrounding stranding, supporting the diagnosis of appendicitis."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture for Streptococcus anginosus (Milleri) Group",
+            "date": "Not specified",
+            "findings": "STREPTOCOCCUS ANGINOSUS (MILLERI) GROUP identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "A new left-sided PICC line was placed; the tip of the line projects over the cavoatrial junction with no evidence of complications. A small parenchymal opacity at the right lung base is constant and unchanged; no other parenchymal changes.",
+            "changes_over_time": "The small parenchymal opacity at the right lung base is constant and unchanged compared to the previous radiograph."
+        }
+    ]
+}

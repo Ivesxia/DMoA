@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "99.7°F",
+                "heart_rate": "86 bpm",
+                "blood_pressure": "132/49 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "AAOx3, uncomfortable from pain",
+                "HEENT": "atraumatic, EOMI, PERLA, mucosa moist",
+                "neck": "trachea midline, no LAD",
+                "pulmonary": "clear to auscultation bilaterally",
+                "cardiovascular": "RRR, no murmurs or gallops",
+                "abdomen": "soft, non-distended, tender to palpation in RUQ and epigastrium with some guarding, no rebound or peritonitis",
+                "extremities": "warm and well perfused",
+                "neurological": "normal strength and sensation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

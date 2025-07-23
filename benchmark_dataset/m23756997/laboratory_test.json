@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Mild elevation in LFTs",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen & Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "The liver is diffusely fatty with a nodular contour and does not demonstrate focal lesions. Spleen is mildly enlarged (15.3 cm). A 1 cm rounded hypodensity in the right kidney likely represents a cyst. Appendicolith is noted in the mid appendix; distal appendix measures up to 9 mm in diameter with adjacent fat stranding.",
+            "changes_over_time": "Distal appendix shows minimal changes compared to the prior examination."
+        },
+        {
+            "procedure_name": "Kidney Function Test",
+            "date": "Not specified",
+            "findings": "Creatinine level: 8.9 mg/dL, which is within the reference range (8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

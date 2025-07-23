@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute onset of severe epigastric abdominal pain radiating to midabdomen and back.",
+        "history_of_present_illness": "The patient, a ___ old male, was woken up at 1:30 AM with severe epigastric pain that was constant. He took Pepto-Bismol, which did not alleviate the pain, leading him to seek emergency care one hour later. In the ER, he initially received morphine with no effect and subsequently dilaudid with good pain relief. His symptoms are reported to have significantly improved since receiving dilaudid.",
+        "past_medical_history": "Hypertension, Chronic Kidney Disease III, Gastroesophageal Reflux Disease (GERD), history of dyslipidemia, mild chronic bronchitis, degenerative joint disease with chronic mild back pain, past laparoscopic appendectomy, and bilateral hernia repairs. No history of gallbladder issues.",
+        "family_history": "Mother with gallbladder issues but cannot clarify.",
+        "social_history": "Drinks 3 ounces of vodka nightly for many years without any variation in quantity. No other relevant lifestyle factors mentioned."
+    }
+}

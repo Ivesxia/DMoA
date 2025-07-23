@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F (Tm 99.5°F)",
+                "blood_pressure": "138/78 mmHg (132-151/78-83 mmHg)",
+                "heart_rate": "88 bpm (78-100 bpm)",
+                "respiratory_rate": "18 breaths/min (Not specified)",
+                "oxygen_saturation": "91% (91-96%)"
+            },
+            "relevant_findings": {
+                "general": "NAD, AxOx3",
+                "cardiovascular": "RRR, no m/r/g",
+                "pulmonary": "CTAB, no respiratory distress",
+                "abdominal": "Soft, non-tender, non-distended, normal bowel sounds",
+                "wounds": "c/d/i",
+                "extremities": "Trace bilateral lower extremity edema, warm well-perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

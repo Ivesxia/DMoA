@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in echogenicity without any focal hepatic lesions. There is no intra- or extra-hepatic biliary dilatation. The main portal vein is patent with appropriate direction of flow. The common bile duct is normal measuring up to 4 mm in diameter. The gallbladder wall is mildly thickened measuring up to 3 mm with areas of pericholecystic fluid and gallbladder wall edema. Multiple shadowing gallstones are present within the gallbladder. The spleen is at the upper limits of normal, measuring up to 12 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT",
+            "date": "Not specified",
+            "findings": "Negative for aortic dissection; evidence of cholelithiasis and diverticulosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

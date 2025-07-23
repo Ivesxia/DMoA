@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9",
+                "heart_rate": "72",
+                "blood_pressure": "120/76",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD (No Acute Distress)",
+                "cardiovascular": "RR S1 S2 No m/r/g",
+                "lungs": "Ctab",
+                "abdominal": "Abs soft NT/ND",
+                "dressing": "c/d/i ext no c/c/e"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

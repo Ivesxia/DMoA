@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Pancreatitis, Diabetic Ketoacidosis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with symptoms consistent with severe hyperglycemia and an obtunded mental status, which were suggestive of Diabetic Ketoacidosis (DKA) given her history of Type 1 Diabetes Mellitus and non-compliance with insulin therapy. Additionally, elevated lipase levels indicated pancreatitis. The combination of these findings led to the final diagnosis."
+    }
+}

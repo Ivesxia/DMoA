@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.8°F",
+                "heart_rate": "126 bpm",
+                "blood_pressure": "135/81 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "heent": "Normocephalic, atraumatic",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Tachycardic",
+                "abdominal": "Tenderness to palpation in the lower abdomen, positive bowel sounds",
+                "gu_flank": "No costovertebral angle tenderness",
+                "extr_back": "No cyanosis, clubbing or edema",
+                "skin": "No rash",
+                "neuro": "Speech fluent",
+                "psych": "Normal mood"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

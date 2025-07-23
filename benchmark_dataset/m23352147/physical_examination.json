@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "71 bpm",
+                "blood_pressure": "150/73 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "No respiratory distress",
+                "abdominal": "Soft, non-distended, tenderness to palpation in right upper quadrant, no clinical Murphy's sign, no rebound or guarding"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

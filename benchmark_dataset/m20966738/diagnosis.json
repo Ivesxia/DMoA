@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The final diagnosis of appendicitis was supported by CT imaging showing mucosal enhancement and enlargement of the appendix, measuring 7-8 mm. Other findings, such as the absence of periappendiceal fluid and no signs of diverticulitis, were also considered, ruling out other potential causes of the abdominal pain."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix appears fluid filled with mild mucosal hyperemia and transverse diameter of approximately 12 mm with surrounding periappendiceal stranding. There is mild thickening at the base of the cecum. No free air or free fluid within the abdomen. Trace free fluid is noted within the pelvis. Retroperitoneal and mesenteric lymph nodes do not meet CT size criteria for pathologic enlargement.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for valuestr_x",
+            "date": "Not specified",
+            "findings": "1.4 mmol/L (reference range 0.5 - 2.0 mmol/L)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

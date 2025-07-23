@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "heart_rate": "79 bpm",
+                "blood_pressure": "125/82 mmHg",
+                "respiratory_rate": "17 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress, resting comfortably in stretcher.",
+                "HEENT": "No scleral icterus, moist mucous membranes.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, gallops or rubs.",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes, rhonchi or rales.",
+                "abdominal": "Well-healed vertical incision inferior to umbilicus. Abdomen soft and nondistended. Greatest tenderness to palpation in the right lower quadrant. Mild tenderness diffusely but no rebound or guarding. Negative sign for peritoneal irritation. No palpable masses.",
+                "extremities": "No edema, warm and well perfused."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

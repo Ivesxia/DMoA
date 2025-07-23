@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "114/60 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No acute distress. Alert and oriented x3. Anicteric.",
+                "mucous_membranes": "Tacky mucosal membranes.",
+                "neck": "Supple. No lymphadenopathy.",
+                "cardiovascular": "Regular rate and rhythm.",
+                "pulmonary": "Clear to auscultation bilaterally.",
+                "abdominal": "Soft. Non-distended. Decreased bowel sounds. Mildly tender diffusely, focally tender in right lower quadrant. No guarding or rebound.",
+                "perfusion": "Warm and well perfused. No peripheral edema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

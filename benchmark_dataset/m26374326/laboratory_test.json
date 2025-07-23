@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Test",
+            "date": "Not specified",
+            "findings": "1.1 mmol/L (Reference range: 0.5 - 2.0 mmol/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix enlarged, measuring between 8-10 mm, fluid-filled with minimal surrounding fat stranding.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

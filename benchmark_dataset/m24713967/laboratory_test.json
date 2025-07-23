@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Normal in echogenicity and contour",
+                "focal_liver_lesions": "No focal liver lesions seen",
+                "portal_vein": "Patent with hepatopetal flow",
+                "biliary_dilation": "No intra- or extra-hepatic biliary dilation identified",
+                "CBD_measurement": "3 mm",
+                "stones_in_CBD": "No stones identified within the CBD",
+                "gallbladder": {
+                    "stones": "Multiple stones within the gallbladder",
+                    "distension": "Gallbladder is more distended compared to prior examination",
+                    "wall_thickness": "Wall thickening measuring up to 4 mm"
+                },
+                "pericholecystic_fluid": "No pericholecystic fluid collection identified",
+                "free_fluid": "No free fluid seen in the right upper quadrant",
+                "sonographic_sign": "Sonographic ___ sign was positive"
+            },
+            "changes_over_time": {
+                "gallbladder_distention": "Increased compared to prior examination",
+                "gallbladder_wall_thickness": "Increased wall thickness to 4 mm compared to prior examination"
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "blood_pressure": "112/70 mmHg",
+                "heart_rate": "91 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "Pleasant elderly woman. Alert and oriented x 3, in no acute distress.",
+                "HEENT": "Normocephalic/atraumatic, extraocular movements intact, pupils equal, round, and reactive to light, dry mucous membranes.",
+                "cardiac": "Regular rate and rhythm, normal heart sounds S1 & S2, no gallops or rubs.",
+                "lungs": "Decreased breath sounds at bases, otherwise clear.",
+                "abdomen": "Bowel sounds present, soft, tenderness to palpation in epigastrium and left upper quadrant, no rebound or guarding, no appreciable hepatosplenomegaly.",
+                "extremities": "No lower extremity pitting edema.",
+                "pulses": "2+ dorsalis pedis pulses bilaterally.",
+                "neurological": "Cranial nerves II-XII intact.",
+                "skin": "Warm and dry, without rashes."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "ultrasound": {
+                    "liver": {
+                        "mass_segment_2": "4.7 x 3.8 x 3.2 cm (previously 2.7 x 3.0 cm)",
+                        "mass_segment_4B": "4.4 x 4.6 x 4.0 cm (previously 4.1 x 3.3 cm)",
+                        "mass_segment_7": "3.1 x 3.1 x 2.9 cm (previously 1.9 x 2.8 cm)"
+                    },
+                    "pancreas": "Imaged portion appears within normal limits, without masses or pancreatic ductal dilation.",
+                    "spleen": "Normal echogenicity, measuring 10.5 cm.",
+                    "kidneys": {
+                        "right_kidney": "8.9 cm",
+                        "left_kidney": "10.4 cm",
+                        "findings": "Normal cortical echogenicity and corticomedullary differentiation, no evidence of masses, stones, or hydronephrosis."
+                    }
+                }
+            },
+            "changes_over_time": "Liver masses have increased in size compared to previous CT imaging."
+        }
+    ]
+}

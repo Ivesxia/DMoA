@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Pain began today, initially epigastric but now generalized with right lower quadrant tenderness. Severity is moderate. Patient has vomited twice (non-bilious). No diarrhea or constipation noted. Last bowel movement was last night.",
+        "past_medical_history": "History of inguinal hernia repair. No other abdominal surgeries. Hx otherwise negative.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

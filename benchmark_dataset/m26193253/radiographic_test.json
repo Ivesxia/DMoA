@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Well-expanded lungs; moderate cardiomegaly; no focal consolidation, pleural effusion, or pneumothorax.",
+            "changes_over_time": "Unchanged."
+        },
+        {
+            "procedure_name": "CT abdomen/pelvis",
+            "date": "Not specified",
+            "findings": "Biliary dilatation without clear focus of obstruction; simple free fluid in the stomach and along the liver.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Intra- and extrahepatic biliary dilatation with common bile duct of 19.8mm from 15mm.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

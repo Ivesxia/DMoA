@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "heart_rate": "76 bpm",
+                "blood_pressure": "126/64 mmHg",
+                "respiratory_rate": "19 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "A&O, lethargic but easily arousable, resting in stretcher",
+                "HEENT": "No scleral icterus, mucus membranes dry",
+                "cardiovascular": "RRR, No M/G/R",
+                "pulmonary": "Clear to auscultation b/l, No W/R/R",
+                "abdominal": "Soft, nondistended. Tenderness to palpation in RLQ > periumbilical. No rebound or guarding. Negative ___ sign. No palpable masses.",
+                "extremities": "No ___ edema, ___ warm and well perfused."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

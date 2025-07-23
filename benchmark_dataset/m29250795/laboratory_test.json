@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites. There is no intrahepatic biliary dilation. The CHD measures 7 mm and is mildly dilated. The distal common bile duct is obscured by bowel gas. The gallbladder is distended measuring 11.0 x 5.0 cm with a gallstone visualized at the dependent portion and gallbladder wall thickening measuring up to 5 mm. No significant pericholecystic fluid collection. The imaged portion of the pancreas appears within normal limits, without masses or ductal dilation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture (Bacterial Growth)",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "77 bpm",
+                "blood_pressure": "113/67 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": {
+                "general": "Anxious but otherwise NAD",
+                "cardiovascular": "RRR (regular rate and rhythm)",
+                "pulmonary": "No respiratory distress",
+                "abdominal": "Soft, nondistended, tender in RLQ and suprapubic region, no rebound, guarding, or rigidity",
+                "rectal": "Deferred",
+                "extremities": "No edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

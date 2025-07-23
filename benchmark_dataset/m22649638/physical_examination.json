@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9°F",
+                "heart_rate": "75 bpm",
+                "blood_pressure": "135/71 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "NAD, A&O x3",
+                "HEENT": "NC/AT, no icterus, O/P clear, no cervical lymphadenopathy, no bruits",
+                "skin": "No rash or jaundice",
+                "respiratory": "CTAB",
+                "cardiovascular": "RRR",
+                "abdominal": "Soft, RLQ tenderness with guarding, ND, +BS, no hernia or masses"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

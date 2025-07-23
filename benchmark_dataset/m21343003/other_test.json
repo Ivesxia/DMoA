@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "10-25 PMNs and >10 epithelial cells/100X field. Gram stain indicates extensive contamination with upper respiratory secretions. Bacterial culture results are invalid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EKG",
+            "date": "Not specified",
+            "findings": "Unremarkable and showed no ischemia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is echogenic and coarse with no evidence of focal lesions. Gallbladder is distended without evidence of stones or gallbladder wall thickening. Small amount of pericholecystic fluid observed. The visualized head and body of the pancreas is unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

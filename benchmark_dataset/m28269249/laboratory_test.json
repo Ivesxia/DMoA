@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "hepatobiliary": {
+                    "liver": {
+                        "attenuation": "decreased",
+                        "condition": "fatty infiltration",
+                        "size": "slightly enlarged"
+                    },
+                    "gallbladder": "within normal limits",
+                    "portal_vein": "patent"
+                },
+                "spleen": {
+                    "attenuation": "normal",
+                    "size": "enlarged (17 cm)"
+                },
+                "kidneys": {
+                    "size": "normal and symmetric",
+                    "finding": "1.2 cm hypodensity in the left kidney, likely a simple cyst"
+                },
+                "appendix": {
+                    "size": "dilatation up to 9 mm",
+                    "condition": "mucosal hyperenhancement and surrounding inflammation"
+                },
+                "inflammation": "thickening of right Gerota's fascia with extensive inflammatory changes"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory examination",
+            "date": "Not specified",
+            "findings": {
+                "organism_count": "<10,000 organisms/ml",
+                "reference_range": {
+                    "lower": 8.4,
+                    "upper": 10.3
+                },
+                "value": "9.1 mg/dL"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

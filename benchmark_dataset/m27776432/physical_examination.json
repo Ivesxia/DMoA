@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "64 bpm",
+                "blood_pressure": "146/95 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, scleral icterus present.",
+                "cardiovascular": "Regular rate and rhythm (RRR).",
+                "respiratory": "Clear to auscultation bilaterally (CTA-B).",
+                "abdominal": "Soft, moderately distended, nontender.",
+                "extremities": "No cyanosis, clubbing, or edema (no c/c/e)."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

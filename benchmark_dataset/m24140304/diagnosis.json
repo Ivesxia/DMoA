@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The diagnosis of acute appendicitis was supported by CT imaging, which revealed a dilated appendix measuring up to 10 mm with a hyperemic wall and fluid present, indicating inflammation. Physical examination also indicated focal right lower quadrant tenderness without rebound tenderness."
+    }
+}

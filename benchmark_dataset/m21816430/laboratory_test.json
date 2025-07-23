@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Gram stain",
+            "date": "Not specified",
+            "findings": "Gram positive bacteria detected; Reference range is 0.2 - 1.0.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT abdomen and pelvis with contrast",
+            "date": "Not specified",
+            "findings": "Appendix is dilated to 9-10mm with a thickened, hyperemic wall, suggestive of appendicitis. No drainable fluid collection and extraluminal gas noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

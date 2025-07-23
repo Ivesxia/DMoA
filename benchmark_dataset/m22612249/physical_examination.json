@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.0°F",
+                "heart_rate": "77 bpm",
+                "blood_pressure": "128/52 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "97% on RA"
+            },
+            "relevant_findings": {
+                "general": "Thin woman appearing stated age, uncomfortable, AOx3",
+                "cardiovascular": "Regular rate and rhythm, normal S1/S2, systolic murmur at RUSB",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes/rales/rhonchi",
+                "abdominal": "Soft, non-distended, moderate tenderness to palpation in the lower quadrants bilaterally, most severe at the midline, voluntary guarding present, no rebound tenderness",
+                "extremities": "Warm, well-perfused, no cyanosis/clubbing/edema",
+                "neurological": "Grossly intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

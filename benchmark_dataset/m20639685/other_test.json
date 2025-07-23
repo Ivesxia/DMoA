@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopic Ultrasound (EUS)",
+            "date": "Not specified",
+            "findings": "Known common bile duct (CBD) dilation measuring 6.7 mm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Moderate intrahepatic biliary ductal dilation, common bile duct dilation to 1.9 cm, choledocholithiasis, gallbladder wall irregularity and edematous changes, potential perforation of the gallbladder.",
+            "changes_over_time": "Fluid density structure in hepatic segment V previously characterized as a cyst is minimally changed since MRI."
+        },
+        {
+            "procedure_name": "Lumbar Puncture (CSF analysis)",
+            "date": "Not specified",
+            "findings": "No polymorphonuclear leukocytes seen. No microorganisms seen.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

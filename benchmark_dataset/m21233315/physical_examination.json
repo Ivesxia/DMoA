@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "77 bpm",
+                "blood_pressure": "114/63 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% on RA"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Blood pressure trended down to 89 systolic after initial vital signs. Following 3 liters of IV fluids, BP improved to 105/63 mmHg."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.1°F",
+                "heart_rate": "56 bpm",
+                "blood_pressure": "115/50 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "94% on RA"
+            },
+            "relevant_findings": "General: NAD, AOX3; HEENT: MMM, OP clear; Cardiovascular: RRR, no M/R/G; Pulmonary: CTAB; Abdominal: soft, mild suprapubic tenderness, no masses or organomegaly, no flank tenderness; Extremities: WWP, no C/C/E; Neurological: AOX3, grossly normal.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "perforated appendicitis, pelvic abscess, Terminal ileitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "CT scan demonstrated terminal ileitis with a normal appendix, and a subsequent scan showed a periappendiceal abscess along with terminal ileitis. IV antibiotics led to defervescence."
+    }
+}

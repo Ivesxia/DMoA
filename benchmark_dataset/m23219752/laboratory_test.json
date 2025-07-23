@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver demonstrates homogeneous echogenicity without focal lesion. The main portal vein is patent with hepatopetal flow. The pancreatic head and neck are within normal limits. A single view of the right kidney shows no hydronephrosis. Multiple small stones and possibly polyps are seen within the gallbladder. Additionally, there is gallbladder distension, wall edema (9mm), minimal pericholecystic fluid, and a positive sonographic sign. The common bile duct measures 4 mm and is not dilated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory analysis for polymorphonuclear leukocytes",
+            "date": "Not specified",
+            "findings": "2.0 mg/dL. NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

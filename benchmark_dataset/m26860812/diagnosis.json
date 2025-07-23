@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with abdominal pain that started as epigastric pain and later localized to the right lower quadrant (RLQ), with associated nausea. Physical examination revealed tenderness in the RLQ with rebound and guarding, which are consistent with appendicitis. Additionally, imaging findings were suggestive of post-operative ileus rather than obstruction, further supporting the diagnosis of appendicitis following laparoscopic appendectomy."
+    }
+}

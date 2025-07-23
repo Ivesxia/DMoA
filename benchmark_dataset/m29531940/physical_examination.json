@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "blood_pressure": "106/70 mmHg",
+                "heart_rate": "106 bpm",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "98% on RA"
+            },
+            "relevant_findings": {
+                "general": "well-appearing, laying in bed, in NAD",
+                "eyes": "no scleral icterus, no conjunctival injection",
+                "ENT": "MMM, clear OP, normal hearing",
+                "neck": "supple, no appreciable LAD",
+                "respiratory": "CTA b/l, no w/r/r, non-labored breathing",
+                "cardiovascular": "RRR, no m/r/g",
+                "gastrointestinal": "soft, ND, appropriately tender around surgical sites, no erythema, wounds c/d",
+                "genitourinary": "no foley",
+                "extremities": "wwp, no edema",
+                "skin": "no lesions, no rashes",
+                "neurological": "AOx3, moving all extremities purposefully"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

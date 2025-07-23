@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.1 °F",
+                "heart_rate": "81 bpm",
+                "blood_pressure": "103/57 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "alert, oriented times three, no acute distress, obese",
+                "cardiovascular": "regular rate and rhythm, no murmurs, rubs, or gallops",
+                "respiratory": "clear to auscultation bilaterally, no wheezes, rhonchi, or rales",
+                "abdominal": "obese, soft, minimally distended, non-focally tender more so in the right lower quadrant, no rebound or guarding, normal bowel sounds",
+                "extremities": "no clubbing, cyanosis, or edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

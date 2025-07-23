@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count",
+            "date": "Not specified",
+            "findings": "83.0 fL (within reference range of 82.0 - 98.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-Ray",
+            "date": "Not specified",
+            "findings": "Small bilateral pleural effusions with overlying minimal subsegmental atelectasis. No focal parenchymal consolidation suggestive of pneumonia is seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

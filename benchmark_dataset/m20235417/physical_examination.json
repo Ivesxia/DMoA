@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9°F",
+                "blood_pressure": "144/80 mmHg",
+                "heart_rate": "71 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Jaundiced, fatigued, ill appearing man",
+                "HEENT": "Mucous membranes dry, icteric sclera, conjunctivae not pale, mild temporal wasting",
+                "cardiac": "Regular rate and rhythm, no murmurs, rubs, or gallops",
+                "lung": "Clear to auscultation bilaterally",
+                "abdomen": "No ascites, prominent surgical scar, impressive tender hepatomegaly, hypoactive bowel sounds, no rebound or guarding, no splenomegaly",
+                "extremities": "Thin, no edema",
+                "neurological": "No asterixis, alert and oriented, no focal deficits",
+                "dermatological": "Jaundiced, dry",
+                "psychological": "Appropriate"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

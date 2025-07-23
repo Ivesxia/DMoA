@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC count",
+            "date": "Not specified",
+            "findings": "WBC 10.1 (N88%)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "AST",
+            "date": "Not specified",
+            "findings": "AST 20",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ALP",
+            "date": "Not specified",
+            "findings": "ALP 53",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total bilirubin (Tbili)",
+            "date": "Not specified",
+            "findings": "Tbili 0.4",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lip 43",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test (LFT)",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test (LFT)",
+            "date": "Not specified",
+            "findings": "1.6 mg/dL",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

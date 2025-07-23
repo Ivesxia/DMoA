@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture for Klebsiella pneumoniae",
+            "date": "Not specified",
+            "findings": "Klebsiella pneumoniae detected.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "Collapsing gallbladder with a tube in the appropriate location. No evidence of fluid collection. Small right pleural effusion. Simple cyst in the right kidney.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

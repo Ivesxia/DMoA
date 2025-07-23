@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder contains sludge and small stones. There is a small amount of pericholecystic fluid. The gallbladder is not distended, decreased in caliber since the recent prior CT. The gallbladder wall is not significantly thickened. There is no intrahepatic biliary ductal dilatation or common bile duct dilatation. The common bile duct measures 3 mm in diameter.",
+            "changes_over_time": "The gallbladder is not distended, decreased in caliber since the recent prior CT."
+        }
+    ]
+}

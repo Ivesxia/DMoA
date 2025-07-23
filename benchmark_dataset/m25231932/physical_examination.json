@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "98.4 °F",
+                "heart_rate": "120 bpm",
+                "blood_pressure": "133/75 mmHg",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "gen": "No acute distress (NAD), alert and oriented x 3",
+                "heent": "Neck supple",
+                "cv": "Regular rhythm, tachycardic",
+                "pulm": "Clear to auscultation bilaterally (CTAB)",
+                "abd": "Soft, non-distended, tender to palpation focally in right lower quadrant (RLQ), negative Rovsing's, negative Psoas, negative Obturator",
+                "back": "No costovertebral angle (CVA) tenderness",
+                "extr": "No calf swelling or tenderness"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

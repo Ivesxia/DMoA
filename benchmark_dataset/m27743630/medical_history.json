@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric pain with radiation to right lower quadrant.",
+        "history_of_present_illness": "Symptoms began last night, including nausea, profuse vomiting, and diarrhea. The patient reported being unable to keep down fluids and also experienced anorexia. Denies fever and chills.",
+        "past_medical_history": "Sarcoidosis diagnosed in ___, positive PPD, osteoarthritis, benign positional vertigo, glucose intolerance.",
+        "family_history": "Arthritis.",
+        "social_history": "Not specified."
+    }
+}

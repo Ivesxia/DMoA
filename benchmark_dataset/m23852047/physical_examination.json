@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "blood_pressure": "134/___",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, no acute distress, slightly jaundiced esp on trunk.",
+                "heent": "Sclera anicteric, mm dry",
+                "neck": "Supple",
+                "lungs": "Clear to auscultation bilaterally",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/rubs/gallops",
+                "abdomen": "Soft, no rebound, midepigastric tenderness and right upper quadrant tenderness on moderate-deep palpation, no organomegaly",
+                "genitourinary": "No foley",
+                "extremities": "No pedal edema",
+                "neurological": "Cranial nerves 3-12 intact, speech is fluent, linear, appropriate, conversant, oriented x3, moves all four extremities against gravity"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

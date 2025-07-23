@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Polymorphonuclear leukocytes count",
+            "date": "Not specified",
+            "findings": "2+ (1-5 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound-guided drainage of right lower quadrant abscess",
+            "date": "Not specified",
+            "findings": "Right lower quadrant abscess, containing purulent material. Microbiology analysis pending.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

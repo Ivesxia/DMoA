@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right lower quadrant pain.",
+        "history_of_present_illness": "The pain began approximately 24 hours ago, starting as diffuse abdominal pain that localized to the right lower quadrant. It is described as constant and dull, getting slightly worse over the past few hours. The pain is better when the patient is staying still but much worse with movement. Associated symptoms include anorexia and nausea, with some chills but no fevers, vomiting, diarrhea, or urinary symptoms.",
+        "past_medical_history": "Obesity, infertility treatments, history of laparoscopic cholecystectomy, laparoscopic band placement, and cesarean section.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

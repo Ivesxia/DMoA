@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP with sphincterotomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic cholecystectomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of liver or gallbladder",
+            "date": "Not specified",
+            "findings": "Moderate intrahepatic and extrahepatic biliary dilatation; multiple shadowing gallstones in the gallbladder; moderate wall edema and wall thickening of gallbladder; no obstructing stones or masses identified.",
+            "changes_over_time": "Intra- and extra-hepatic biliary dilatation is new since a prior unspecified date."
+        }
+    ]
+}

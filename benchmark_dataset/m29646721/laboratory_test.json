@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Neisseria Gonorrhoeae PCR",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria Gonorrhoeae by PCR.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "Marked inflammatory fat stranding in the pericecal area with a large soft tissue mass measuring 3.2 x 5.4 cm. No intraperitoneal free air. Appendix not visualized. Terminal ileum shows bowel wall thickening.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Trace free fluid noted. No drainable fluid collection or abscess.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

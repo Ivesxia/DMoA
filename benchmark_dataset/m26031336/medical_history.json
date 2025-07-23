@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient's abdominal pain began approximately 8 days prior to admission. It was initially presented as vague abdominal pain, nausea, and nonbloody nonbilious emesis after being awoken from sleep. The patient also reported fevers, chills, and lightheadedness at that time. She experienced decreased oral intake. Symptoms progressed with continued nausea, vague abdominal pain, and diarrhea. The patient was initially diagnosed with norovirus but acutely worsened the day before admission, leading to a CT scan that revealed an 11 mm dilated appendix.",
+        "past_medical_history": "Irritable Bowel Syndrome (IBS), antibiotics for small intestine bacterial overgrowth this summer, bicuspid aortic valve.",
+        "family_history": "Not specified.",
+        "social_history": "The patient has worked in a house with a family experiencing a gastrointestinal bug with nausea, vomiting, and diarrhea."
+    }
+}

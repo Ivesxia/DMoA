@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": {
+                "Lower Thorax": "The lung bases are clear. No pleural or pericardial effusion.",
+                "Liver": "Heterogeneous in signal characteristics with a 10 x 10 mm focus in segment 2, non-enhancing and hyperintense on T2 images, likely a small cyst or biliary hamartoma. No concerning solid or cystic lesions.",
+                "Biliary": "No intra- or extra-hepatic duct dilatation. Cholelithiasis and mild pericholecystic free fluid with no gallbladder wall edema. A 13 mm calculus in the cystic duct, which is dilated measuring up to 15 mm.",
+                "Pancreas": "Normal bulk and enhancement pattern with scattered pancreatic cysts ranging from 1 to 3 mm, likely representing a side-branch IPMN.",
+                "Spleen": "Normal in size and signal characteristics with no focal lesions.",
+                "Adrenal Glands": "Normal in size and signal characteristics with no focal lesions.",
+                "Kidneys": "Normal in size and signal characteristics, with no solid or cystic lesions, hydronephrosis, or hydroureter.",
+                "Gastrointestinal Tract": "Normal caliber throughout.",
+                "Lymph Nodes": "No significant lymphadenopathy.",
+                "Vasculature": "Conventional hepatic arterial anatomy with mild atherosclerosis throughout the abdominal aorta.",
+                "Osseous and Soft Tissue Structures": "Mild multilevel degenerative change throughout the thoracolumbar spine with normal signal characteristics in the bone marrow and no concerning osseous lesions."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

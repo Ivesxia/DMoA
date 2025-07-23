@@ -1,0 +1,21 @@
+{
+    "medical_history": {
+        "chief_complaint": "RUQ and epigastric pain",
+        "history_of_present_illness": "Pain began late last evening, located in the epigastrium and mid-chest with radiation to the right upper quadrant. The patient denies associated symptoms such as fevers/chills, nausea, or vomiting.",
+        "past_medical_history": [
+            "Migraine, primarily ocular",
+            "Depression with history of suicide attempt",
+            "Diet controlled diabetes mellitus",
+            "Gout",
+            "Dyslipidemia",
+            "Aortic Sclerosis",
+            "History of pulmonary sarcoid",
+            "History of rectal adenoma",
+            "Left inguinal hernia surgery",
+            "History of biopsy for sarcoid",
+            "Ankle surgery"
+        ],
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

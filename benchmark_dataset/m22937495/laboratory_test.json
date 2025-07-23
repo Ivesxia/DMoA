@@ -1,0 +1,17 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": "The right lobe of the liver has geographic areas of increased density, which may represent focal fat. There is no concerning liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites.",
+                "bile_ducts": "There is no intrahepatic biliary dilation. The CBD measures 7 mm.",
+                "gallbladder": "The gallbladder is distended, but there is no cholelithiasis, sludge, gallbladder wall edema, or pericholecystic fluid. Sonographic Murphy's sign is negative.",
+                "pancreas": "The pancreas is not visualized due to overlying bowel gas.",
+                "spleen": "Normal echogenicity, measuring 11.1 cm.",
+                "kidneys": "Limited views of both kidneys show no hydronephrosis."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

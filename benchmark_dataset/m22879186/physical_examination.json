@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7 F",
+                "blood_pressure": "105/64 mmHg L Lying",
+                "heart_rate": "103 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% on Room Air",
+                "pain_score": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "NAD",
+                "respiratory": "No evidence of respiratory distress",
+                "abdominal": "Soft, non-tender",
+                "extremities": "No edema, non-tender"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7 F",
+                "blood_pressure": "100/62 mmHg R Sitting",
+                "heart_rate": "101 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% on Room Air",
+                "pain_score": "Not specified"
+            },
+            "relevant_findings": {
+                "fetal_monitoring": {
+                    "fetal_heart_rate": "132 irregular",
+                    "fetal_movement": "Present"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

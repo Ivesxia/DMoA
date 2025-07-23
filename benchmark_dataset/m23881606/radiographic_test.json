@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Common bile duct stone, two calcified gallstones projecting lateral to the common bile duct, no intra- or extra-hepatic biliary dilatation, no abnormal biliary caliber changes, no stricture noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

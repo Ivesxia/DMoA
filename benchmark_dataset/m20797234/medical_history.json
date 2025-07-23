@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient experienced abdominal pain starting 2 days prior to admission. Initially periumbilical pain, which then progressed to right lower quadrant (RLQ) pain. The pain is described as sharp, crampy, nonradiating, and aggravated by standing up straight but relieved by curling into a ball. Anorexia for 1 day; no association with food or bowel movements. This is the first occurrence of such symptoms.",
+        "past_medical_history": "Pregnancy induced hypertension with resulting blindness due to retinal detachment, sciatica due to disc disease, anemia (now resolved), pelvic fracture after running a marathon.",
+        "family_history": "Family history of colon cancer and iron deficiency anemia. History of stroke and hypertension in her father. Grandmother died of colon cancer.",
+        "social_history": "Not specified"
+    }
+}

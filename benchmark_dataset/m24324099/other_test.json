@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Physical Exam",
+            "date": "Not specified",
+            "findings": "Soft, nondistended abdomen; tender in RUQ and epigastrium; normoactive bowel sounds; no rebound or guarding.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "Small bilateral pleural effusions; bibasilar opacities likely reflecting atelectasis; stable moderate enlargement of cardiac silhouette with tortuosity of the thoracic aorta.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

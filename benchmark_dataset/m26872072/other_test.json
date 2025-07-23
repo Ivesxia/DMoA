@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Capsule endoscopy",
+            "date": "Not specified",
+            "findings": "Crohn disease revealed.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Trace pleural effusion on the left; cystic changes in the gallbladder fundus suggest adenomyomatosis; a few small stones found in the gallbladder; infiltration of fat surrounding the pancreas with small ill-defined fluid pockets consistent with acute interstitial pancreatitis; no organized fluid collection; no evidence for necrosis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

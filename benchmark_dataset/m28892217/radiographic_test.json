@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Gallbladder contains gallstones with gallbladder wall thickening, edema, and hypervascularity of the wall. No intrahepatic biliary dilation, no focal liver mass, no ascites, and normal hepatic parenchyma.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "heart_rate": "123 bpm",
+                "blood_pressure": "115/76 mmHg",
+                "respiratory_rate": "19 breaths/min",
+                "oxygen_saturation": "93%"
+            },
+            "relevant_findings": {
+                "general": "Lying in bed, mildly lethargic but responsive and appropriate.",
+                "cardiovascular": "Tachycardic, regular S1 S2.",
+                "pulmonary": "Clear to auscultation bilaterally, no wheeze or rales.",
+                "abdominal": "Soft, distended, tympanitic, focally tender epigastrically and in the left lower quadrant. No rebound or guarding. Midline scar, LLQ transverse scar, supraumbilical transverse scar.",
+                "extremities": "Warm, well perfused, no edema.",
+                "skin": "No jaundice."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

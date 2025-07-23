@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "gallstone pancreatitis",
+        "differential_diagnosis": "Not specified.",
+        "diagnostic_reasoning": "The patient has a history of abdominal pain, nausea, and vomiting after eating, which suggests a possible gastrointestinal issue. An abdominal ultrasound showed the gallbladder with layering stones, indicating gallstone presence but no wall edema or fluid, which supports the diagnosis of gallstone pancreatitis as a possible complication."
+    }
+}

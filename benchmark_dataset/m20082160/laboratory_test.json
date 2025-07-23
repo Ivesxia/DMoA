@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized lung bases are clear. The liver, gallbladder, spleen, adrenal glands, kidneys, and ureters appear normal. The pancreas enhances homogeneously, with minimal stranding of the fat surrounding the pancreatic head and uncinate. No fluid collection is seen. The splenic and portal veins enhance normally. No pancreatic ductal or biliary ductal dilatation is seen. The stomach, small bowel, and colon appear normal. No free air or free fluid is noted within the abdomen. Mild atherosclerotic calcifications are noted along the aorta. Retroperitoneal lymph nodes are small, not meeting CT size criteria for adenopathy. A fat-containing umbilical hernia is noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

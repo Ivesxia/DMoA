@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Skin Biopsy",
+            "date": "Not specified",
+            "findings": "Diagnosis of irritant dermatitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Mild thickening of the left lateroconal fascia and mild fat stranding in the region of sigmoid diverticulosis; small hiatal hernia; mild intrahepatic and extrahepatic biliary dilatation; 8 mm hypodensity in the lower pole of the right kidney likely reflecting a simple renal cyst.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound (Liver or Gallbladder)",
+            "date": "Not specified",
+            "findings": "The liver is normal in echogenicity, without focal lesions. There is normal hepatopetal flow in the portal vein. There is no intrahepatic biliary dilation, and the common duct measures 3 mm. Multiple mobile stones are present in the gallbladder, which is nondistended without wall edema or pericholecystic fluid. The pancreatic head and body are normal, and the tail is not well visualized. There is no free fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

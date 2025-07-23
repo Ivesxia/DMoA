@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "101.4°F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "146/83 mmHg",
+                "respiratory_rate": "17 breaths/min"
+            },
+            "relevant_findings": "Patient is alert and oriented times three (AAOx3), heart sounds regular rate and rhythm (RRR), respiratory effort unlabored. Abdomen is soft but tender to palpation in the right lower quadrant. Extremities warm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

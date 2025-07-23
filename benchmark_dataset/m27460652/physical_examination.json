@@ -1,0 +1,50 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "73 bpm",
+                "blood_pressure": "104/65 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Chronically ill appearing young woman, uncomfortable, dry heaving",
+                "HEENT": "Normocephalic, atraumatic, no conjunctival pallor or scleral icterus, dry mucous membranes",
+                "neck": "Supple",
+                "cardiac": "Regular rate & rhythm, normal S1/S2, no murmurs, rubs, or gallops",
+                "pulmonary": "Clear to auscultation bilaterally, without wheezes or rhonchi",
+                "abdomen": "Normal bowel sounds, soft, tender in left upper quadrant, non-distended, ostomy in right lower quadrant, pink color, liquid stool. Wound vac in place. No erythema or purulence noted.",
+                "extremities": "Warm, well-perfused, no cyanosis, clubbing, or edema",
+                "skin": "Without rash",
+                "neurologic": "Alert and oriented x3, cranial nerves II-XII grossly normal, gross motor function intact",
+                "psychiatric": "Listens & responds to questions appropriately, pleasant"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "heart_rate": "108 bpm",
+                "blood_pressure": "95/72 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "labs": {
+                    "WBC": "11.3",
+                    "Hg": "7.9",
+                    "platelets": "818",
+                    "Na": "136",
+                    "K": "3.8",
+                    "Cl": "99",
+                    "bicarb": "21",
+                    "BUN": "5",
+                    "Cr": "1.0",
+                    "lipase": "222"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

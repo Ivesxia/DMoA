@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "WBC 13.8 (elevated), HCT 48.6, PLT 331.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test (LFT)",
+            "date": "Not specified",
+            "findings": "ALT 1075 (elevated), AST 507 (elevated), AP 245 (elevated), TBILI 19 (elevated), DBILI 14 (elevated).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase in the 500s (elevated).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis (UA)",
+            "date": "Not specified",
+            "findings": "Notable for WBC/Bact/Leuk.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of Liver or Gallbladder",
+            "date": "Not specified",
+            "findings": "Gallbladder mildly distended with stones and sludge; largest stone measures 2.2 cm. Moderate intrahepatic biliary duct dilation and marked extrahepatic biliary dilatation. Common bile duct measures 20 mm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C. difficile Toxin Test",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile by the Illumigene DNA amplification assay.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

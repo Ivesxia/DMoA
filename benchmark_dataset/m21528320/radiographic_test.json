@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Fluid-filled dilated (8-9 mm) appendix with slight wall enhancement, minimal periappendiceal fat stranding, and no adjacent fluid collections. Slight thickening at the cecal base and proximal ascending colon. No significant retroperitoneal or mesenteric lymphadenopathy and no free air or free fluid in the abdomen. Hypodensity in the interpolar region of the left kidney likely representing a simple cyst. Fluid density mass at the level of the takeoff (17 x 13 mm) which has minimally increased in size since examination years prior. Partially visualized lung bases clear, minimal fatty infiltration of the liver.",
+            "changes_over_time": "Fluid density mass at the takeoff has minimally increased in size since examination years prior."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Fluid-filled tubular structure in the right lower quadrant in the region of the appendix with hyperenhancement of the mucosal wall measuring up to 7 mm with surrounding inflammatory changes in the fat. No distinct periappendiceal fluid collections or free air noted throughout the abdomen. The visualized portion of the stomach and loops of small and large bowel are normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbiology Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99 °F",
+                "heart_rate": "73 bpm",
+                "blood_pressure": "109/62 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "constitutional": "comfortable",
+                "abdominal": "RLQ tenderness",
+                "neurological": "speech fluent",
+                "psychological": "normal mood"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

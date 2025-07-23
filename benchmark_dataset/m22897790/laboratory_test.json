@@ -1,0 +1,26 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Comprehensive Metabolic Panel",
+            "date": "Not specified",
+            "findings": {
+                "Calcium": "8.4 mg/dL",
+                "Magnesium": "1.8 mg/dL",
+                "Phosphorus": "3.5 mg/dL",
+                "AST": "61 U/L (elevated)",
+                "ALT": "28 U/L",
+                "Total Bilirubin": "0.4 mg/dL",
+                "Alkaline Phosphatase": "142 U/L",
+                "Albumin": "3.3 g/dL",
+                "INR": "1.0",
+                "PTT": "28.5 seconds",
+                "Urinalysis": {
+                    "Protein": "30 mg/dL (positive)",
+                    "Glucose": "300 mg/dL (positive)",
+                    "Other": "otherwise negative"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

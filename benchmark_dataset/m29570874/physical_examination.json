@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "101.0°F",
+                "heart_rate": "95 bpm",
+                "blood_pressure": "114/61 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": {
+                "general": "Anxious, NAD",
+                "lungs": "Clear",
+                "cardiovascular": "RRR",
+                "abdominal": "Soft, right abdominal tenderness at level of umbilicus, slight tenderness at McBurney's point",
+                "rectal": "No masses",
+                "extremities": "WNL"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

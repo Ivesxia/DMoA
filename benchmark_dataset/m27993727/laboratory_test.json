@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Bilateral trace pleural effusions and lower lobe atelectasis are present. Small calcified granulomas are seen in both lungs. The liver enhances homogeneously without focal lesions. There is no intra- or extra-hepatic biliary dilatation. The main pancreatic duct is mildly dilated measuring up to 3.2 mm; however, no focal masses are identified. Both kidneys enhance and excrete contrast symmetrically, without hydronephrosis, stones or masses. Extensive soft tissue swelling at the appendiceal base and adjacent cecum, with phlegmonous changes seen in the post-surgical bed. Inflammatory changes in the terminal and distal ileum, compatible with enteritis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test (measurement of valuestr)",
+            "date": "Not specified",
+            "findings": "Value: 1.1 (within normal range, as reference range is 0.9 - 1.1)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung_bases": "Clear aside from mild basal dependent atelectasis.",
+                "heart": "Unremarkable.",
+                "pleura": "No pleural or pericardial effusion.",
+                "gallbladder": "Distended with a small amount of perihepatic free fluid.",
+                "liver": "Subtle hyperemia of the adjacent hepatic parenchyma noted; no concerning lesions.",
+                "biliary_ducts": "No intrahepatic or extrahepatic biliary ductal dilation.",
+                "spleen": "Normal.",
+                "pancreas": "Normal.",
+                "adrenals": "Normal.",
+                "kidneys": "Normal.",
+                "abdominal_aorta": "Normal in course and caliber.",
+                "adenopathy": "No retroperitoneal or mesenteric adenopathy.",
+                "stomach_and_duodenum": "Normal.",
+                "small_bowel": "No signs of ileus or obstruction.",
+                "appendix": "Not visualized; no secondary signs of appendicitis.",
+                "colon": "Mild fecal load; diverticulosis without diverticulitis.",
+                "seminal_vesicle": "Persistent asymmetry and prominence of the right seminal vesicle.",
+                "prostate": "Prominent, measuring 6 cm in transverse dimension.",
+                "pelvic_free_fluid": "None.",
+                "pelvic_adenopathy": "No pelvic sidewall or inguinal adenopathy.",
+                "urinary_bladder": "Mostly decompressed.",
+                "bones": "No worrisome lytic or blastic osseous lesions."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

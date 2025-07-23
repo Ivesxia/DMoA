@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4 °F",
+                "blood_pressure": "106/60 mmHg",
+                "heart_rate": "82 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress.",
+                "HEENT": "Moist mucous membranes, no oral lesions.",
+                "neck": "Supple, no JVD.",
+                "cardiovascular": "Regular rate and rhythm, normal S1 S2, no S3 S4 or murmur.",
+                "pulmonary": "Clear to auscultation bilaterally.",
+                "abdominal": "Bowel sounds present, soft, mild tenderness to palpation in epigastrium, no rebound or guarding, no masses or hepatosplenomegaly.",
+                "extremities": "Warm, well perfused, no edema.",
+                "skin": "Small 0.5 cm maculopapular lesions around the tape on the PCT, no erythema."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

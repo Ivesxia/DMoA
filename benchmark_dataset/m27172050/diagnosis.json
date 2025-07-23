@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute cholecystitis",
+        "differential_diagnosis": "biliary colic",
+        "diagnostic_reasoning": "The patient's presentation included paroxysmal right upper quadrant abdominal pain, which was severe and associated with nausea. An ultrasound showed gallstones without wall thickening or pericholecystic fluid; these findings, along with the patient's symptoms, were consistent with acute cholecystitis as opposed to biliary colic."
+    }
+}

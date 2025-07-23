@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Complaints of back pain.",
+        "history_of_present_illness": "Patient reports that he has had back pain for some time, present at rest and while walking. While walking, he must stoop forward and cannot walk long distances due to the back pain. Resting (sitting) temporarily alleviates the pain, but it worsens when a specific area on his back is pressured. The patient indicates that rotating his back can exacerbate the pain. He also reports decreased energy, episodes of stool incontinence, and weakness in the thighs. Additionally, he has experienced unintentional weight loss of 60 pounds over the past 4 months and has trouble getting food down, although he denies odynophagia.",
+        "past_medical_history": "HIV, Hepatitis C, Hypertension, GERD, Spinal stenosis, Anemia, Bipolar disorder, Antisocial personality disorder, Depression, Coronary artery disease status post myocardial infarction, history of IV drug use.",
+        "family_history": "Father suffered myocardial infarction.",
+        "social_history": "Not specified."
+    }
+}

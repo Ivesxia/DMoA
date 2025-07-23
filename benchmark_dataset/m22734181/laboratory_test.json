@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 216 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "White Blood Cell Count (WBC)",
+            "date": "Not specified",
+            "findings": "WBC 12 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Glucose",
+            "date": "Not specified",
+            "findings": "Glucose 379 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "BNP",
+            "date": "Not specified",
+            "findings": "BNP down to 300s from 900s (decreased)",
+            "changes_over_time": "BNP decreased from 900s to 300s"
+        },
+        {
+            "procedure_name": "D-dimer",
+            "date": "Not specified",
+            "findings": "D-dimer 2200 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate 2.0 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Dipstick",
+            "date": "Not specified",
+            "findings": "Urine dipstick with glucose but no evidence of infection",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

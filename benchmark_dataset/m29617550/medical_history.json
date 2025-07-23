@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Severe back pain.",
+        "history_of_present_illness": "Patient experienced an episode of dry heaving for 24 hours recently. Back pain has been very severe and difficult to control over the last several days, with restlessness, agitation, and difficulty sleeping. Patient reports she is not agitated or restless but is in significant pain.",
+        "past_medical_history": "Castleman's disease, chronic back pain with multiple spine surgeries, chronic aspiration post-PEG, thyroid cancer status post radical neck dissection with hypothyroidism, primary hyperparathyroidism, CAD with NSTEMI, esophageal webs/esophageal dysmotility post numerous dilations, recurrent aspiration pneumonias, COPD (O2 dependent), history of MRSA osteomyelitis of olecranon post multiple debridements, osteoporosis (status post fractures bilateral hips), bipolar disorder, depression.",
+        "family_history": "Father: hypertension, diabetes, depression, died of myocardial infarction at age unspecified. Mother: hypertension, hypercholesterolemia, died of myocardial infarction at age unspecified. Sister: hypertension.",
+        "social_history": "Not specified."
+    }
+}

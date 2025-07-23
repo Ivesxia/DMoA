@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Showed sigmoid diverticulosis but was otherwise normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "An 8.0 cm segment of sigmoid colon exhibits diffuse wall thickening and adjacent fat stranding consistent with diverticulitis, and a 1.6 x 1.5 cm intramural focal fluid collection compatible with an intramural abscess.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

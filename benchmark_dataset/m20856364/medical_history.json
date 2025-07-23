@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Burning pain in the stomach after eating.",
+        "history_of_present_illness": "Burning pain started after eating sausage, described as continuous since then. Initially localized to the stomach, then migrated to the lower abdomen, and has localized back to the stomach region again. Some tenderness around the port site was noted, but she denies reproduction of tenderness on exam.",
+        "past_medical_history": "1. History of Pulmonary embolism x 2; 2. Obstructive sleep apnea (diagnosed in ___ by sleep study); 3. CKD (chronic kidney disease), stage III; 4. Coronary artery disease; 5. Hypertension; 6. Diabetes Mellitus; 7. Basal cell carcinoma; 8. Depressive disorder; 9. Gout; 10. Hypercholesteremia; 11. Colon polyp; 12. Osteoarthritis; 13. Lymphedema of lower extremity; 14. sp lap band procedure; 15. sp total hip replacement; 16. sp IVC filter placement/removal; 17. sp TAH/BOS for uterine fibroids; 18. sp C-section.",
+        "family_history": "Father - Myocardial Infarction (age ___); Mother - Pulmonary Embolism (age ___, in setting of hospitalization/surgery).",
+        "social_history": "Not specified."
+    }
+}

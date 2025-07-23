@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5 °F",
+                "heart_rate": "69 bpm",
+                "blood_pressure": "127/61 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "SpO2": "100%"
+            },
+            "relevant_findings": {
+                "general": "Pleasant gentleman in no acute distress, alert and oriented.",
+                "HEENT": "Normocephalic, atraumatic.",
+                "cardiovascular": "Regular rate and rhythm.",
+                "lungs": "Clear to auscultation bilaterally.",
+                "abdominal": "Soft, non-distended, appropriately tender to palpation incisionally.",
+                "wound": "Lap incisions covered with clean gauze and tegaderm, no surrounding erythema or induration.",
+                "extremities": "Warm and well-perfused, peripheral pulses intact."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

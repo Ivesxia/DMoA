@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "PCBD drain placement",
+            "date": "Not specified",
+            "findings": "Placement for obstruction of her CBD due to a pancreatic mass.",
+            "changes_over_time": "Abdominal pain improved at the time of placement but increased again later."
+        },
+        {
+            "procedure_name": "Brushings during PCBD placement",
+            "date": "Not specified",
+            "findings": "Positive for malignant cells.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Biliary drain observation",
+            "date": "Not specified",
+            "findings": "Unchanged percutaneous transhepatic biliary drainage catheter.",
+            "changes_over_time": "Mild-to-moderate intra and extrahepatic biliary dilatation remains unchanged."
+        },
+        {
+            "procedure_name": "ECG (Electrocardiogram)",
+            "date": "Not specified",
+            "findings": "Not performed",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not performed.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

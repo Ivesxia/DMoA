@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient's abdominal pain was initially generalized but migrated to the right lower quadrant, which is characteristic of appendicitis. A CT scan revealed a fluid-filled and dilated appendix with mucosal hyperemia and surrounding inflammatory changes, all consistent with acute appendicitis."
+    }
+}

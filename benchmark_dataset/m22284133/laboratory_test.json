@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Elevated LFT noted; specific measurement not provided.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Doppler Ultrasound of Right Upper Extremity Veins",
+            "date": "Not specified",
+            "findings": "Right internal jugular vein does not compress or demonstrate flow; possibly echogenic material within it concerning for thrombus. Flow is present in the left internal jugular vein. Catheter partially imaged within the right subclavian vein; flow is demonstrated there. Other right veins (axillary and brachial) show normal compressibility and flow.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Glucose",
+            "date": "Not specified",
+            "findings": "99.0 mg/dL, within normal range (0.0 - 149.0 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

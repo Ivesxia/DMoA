@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient started having pain on an unspecified date, which came and went, and worsened yesterday at 2 PM. The pain became more severe and constant, primarily in the right upper quadrant (RUQ), slightly in the epigastric area, and radiated to the right back. She has chills and a slightly decreased appetite, not having eaten since last night.",
+        "past_medical_history": "Schatzki's ring, eosinophilic esophagitis, ovarian cysts, migraines, urinary incontinence, liver mild focal mixed portal inflammation without fibrosis, lentigo, cystocele, rectocele, gout",
+        "family_history": "Positive for diabetes mellitus (DM), hyperlipidemia (HLD), cerebrovascular accident (CVA), coronary artery disease (CAD), leukemia, breast cancer; no gallbladder disease",
+        "social_history": "Not specified"
+    }
+}

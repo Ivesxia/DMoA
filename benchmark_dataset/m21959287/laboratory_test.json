@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Three small hepatic hypodensities in the left lobe of the liver are unchanged, the largest of which measures 1.4 cm; a smaller 4 mm hypodensity in the anterior aspect of segment IV is too small to characterize. The stomach and duodenum are unremarkable. Fluid collection with a mildly thickened enhancing wall measuring 5.1 x 2.7 by 3.3 cm in the right lower quadrant concerning for abscess. In the pelvis, there is a 7.5 x 6.1 x 5.0 cm fluid collection with a mildly thickened enhancing wall, concerning for abscess.",
+            "changes_over_time": "The 8 mm lingular nodule is unchanged since prior study. The three small hepatic hypodensities and the smaller 4 mm hypodensity are unchanged. The previously identified free simple pelvic fluid has developed into a larger collection with concerning features."
+        },
+        {
+            "procedure_name": "Laboratory test for Polymorphonuclear Leukocytes",
+            "date": "Not specified",
+            "findings": "1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

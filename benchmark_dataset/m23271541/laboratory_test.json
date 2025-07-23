@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC count",
+            "date": "Not specified",
+            "findings": "Normal WBC",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "INR",
+            "date": "Not specified",
+            "findings": "1.3",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "1.3",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit (Hct)",
+            "date": "Not specified",
+            "findings": "31.2 (baseline)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "GRAM NEGATIVE ROD(S).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine culture",
+            "date": "Not specified",
+            "findings": "GRAM NEGATIVE ROD(S).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "The degree of stranding around the transplanted kidney has decreased from prior study.",
+            "changes_over_time": "The overall size and number of liver cysts appear unchanged from prior study. Cholelithiasis and adenomyomatosis are unchanged."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "There is thickening of the sigmoid colon with surrounding inflammatory changes, consistent with sigmoid diverticulitis. A 3.1 x 3.7 cm phlegmonous fluid collection interposed between the sigmoid colon and bladder with marked bladder wall thickening.",
+            "changes_over_time": "The phlegmonous collection has decreased in size in the interval and is less fluid-like compared to the prior study."
+        }
+    ]
+}

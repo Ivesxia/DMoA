@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Atelectasis noted at lung bases. Diffuse gallbladder wall edema and hyperdense stones with moderately distended gallbladder. Slight hyperenhancement of liver edge adjacent to gallbladder fossa. Unremarkable liver, spleen, and adrenal glands. Normal caliber common bile duct. Hypodensities in kidneys potentially cysts. Lobulated soft tissue density abutting superior margin of pancreas possibly indicating pancreatic tissue or borderline enlarged node. Decompressed stomach, normal caliber small bowel with anastomotic sutures. Diffuse colonic diverticulosis without diverticulitis. Normal appendix. Unremarkable bladder. Enlarged prostate measuring 5.4 cm TRV. Right inguinal hernia containing fat and small bowel, paraumbilical hernia with fat and anterior wall loop of adjacent small bowel consistent with Richter's hernia. No free intraperitoneal fluid or air. New retroperitoneal adenopathy with one node measuring 1.8 x 2.0 cm and interval enlargement of several aortocaval nodes (up to 11 mm from 4 mm). New 7 mm retrocrural node enlarged since prior.",
+            "changes_over_time": "Interval enlargement of several aortocaval nodes measuring up to 11 mm in short axis (previously 4 mm). New retrocrural node enlarged to 7 mm since prior."
+        },
+        {
+            "procedure_name": "Lymph node culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Other unspecified laboratory test",
+            "date": "Not specified",
+            "findings": "0.9 mmol/L.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

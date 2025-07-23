@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Sudden onset colicky abdominal pain",
+        "history_of_present_illness": "Symptoms developed suddenly at 9 PM. The patient had a bowel movement, with no emesis or fevers. There is no relation to food or recent unusual foods.",
+        "past_medical_history": "1. Possible seizure disorder treated with Depakote for an unspecified number of years. 2. Anxiety 3. Depression with suicide attempts 4. Positive PPD with negative CXR.",
+        "family_history": "No family history of seizures, febrile seizures, or developmental delay.",
+        "social_history": "Not specified."
+    }
+}

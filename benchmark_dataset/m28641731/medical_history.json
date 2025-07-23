@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right upper quadrant pain",
+        "history_of_present_illness": "Pain started yesterday at 9AM after eating cheese for breakfast. The patient describes a sharp pain in the right upper quadrant lasting more than 1 day. There are no associated symptoms initially. The pain persisted despite taking Advil, and she experienced some nausea this morning but no vomiting, diarrhea, or bloody stools. The pain improved after narcotics administered in the ED but was not completely resolved.",
+        "past_medical_history": "Hypertension, low back pain, insomnia, depression, asthma",
+        "family_history": "Coronary artery disease, diabetes",
+        "social_history": "Not specified"
+    }
+}

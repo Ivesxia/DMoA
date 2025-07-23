@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Multiple calcified and non-calcified pleural plaques possibly due to prior asbestos exposure obscure lung detail. There is right lower lobe posterobasal opacity, which may reflect atelectasis or pneumonia. There is streaky atelectasis at bilateral lung bases. There is no pleural effusion or pneumothorax. There is moderate cardiomegaly with an unfolded aorta. The pulmonary vasculature is normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Right middle lobe linear atelectasis/scarring is again seen. There has been interval resolution of previously seen left lower lobe pneumonia. No pleural effusion or pneumothorax is seen. The cardiac and mediastinal silhouettes are stable. No evidence of free air beneath the diaphragms.",
+            "changes_over_time": "Resolution of previously seen left lower lobe pneumonia."
+        }
+    ]
+}

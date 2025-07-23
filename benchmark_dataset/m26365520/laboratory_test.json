@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRI PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is identified in the right lower quadrant and contains hypointense material within the lumen on T2-weighted images. It does not fill with oral contrast or air. At the tip of the appendix, there is central bright signal consistent with fluid, and the appendix is dilated up to 8 mm. There is equivocal surrounding edema on fat-saturated T2-weighted images. The appendix appears diffusely bright on diffusion-weighted images. No MR evidence of appendicolith, perforation, or focal fluid collection. Visualized portions of the kidneys appear normal with no hydronephrosis. No gross uterine abnormalities; 3.0 x 2.2 cm left adnexal dermoid is similar to previous ultrasound.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture for MRSA",
+            "date": "Not specified",
+            "findings": "No MRSA isolated. Results are negative.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

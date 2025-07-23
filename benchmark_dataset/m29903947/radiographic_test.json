@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Multiple hypoechoic foci are re-demonstrated in the liver. The dominant hypoechoic focus measures 2.8 x 1.6 x 2.3 cm, previously measured 3.1 x 1.7 x 2.9 cm, unchanged to slightly decreased in size. The cluster of peripheral hypodense lesions in segment ___ measure up to 1.4 cm, unchanged since the prior study. A stable 1.6 x 1.6 x 1.1 cm echogenic focus in the right lobe of the liver may represent a hemangioma. There is mild intrahepatic biliary dilation up to 0.6 cm. The common bile duct is dilated up to 1.8 cm. The gallbladder wall is thickened measuring up to 0.5 cm with irregular internal echoes likely representing sludge. Pericholecystic fluid has decreased. There is stable pancreatic duct dilation up to 0.7 cm.",
+            "changes_over_time": "The dominant hypoechoic focus is unchanged to slightly decreased in size. The cluster of peripheral hypodense lesions is unchanged since the prior study. Pericholecystic fluid has decreased."
+        }
+    ]
+}

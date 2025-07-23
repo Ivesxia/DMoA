@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Glucose",
+            "date": "Not specified",
+            "findings": "Blood glucose fell to 69 mg/dL, asymptomatic.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "Peripancreatic fat stranding seen consistent with pancreatitis. Pancreatic head enlarged without discrete mass or ductal dilatation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Lipase",
+            "date": "Not specified",
+            "findings": "Elevated serum lipase, consistent with pancreatitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

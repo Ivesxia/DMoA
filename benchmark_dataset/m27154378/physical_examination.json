@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "98.9°F",
+                "heart_rate": "79 bpm",
+                "blood_pressure": "130/60 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "NAD, standing comfortably",
+                "cardiovascular": "RRR",
+                "respiratory": "breathing comfortably",
+                "abdomen": "soft, tender to palpation in RLQ > LLQ, no rebound/guarding, resolving bruises from HSQ injections during prior hospital stay",
+                "extremities": "no Clubbing, Cyanosis, or Edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

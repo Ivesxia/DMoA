@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "The lung volumes are low. There are no pleural effusions. No pneumothorax. No focal parenchymal opacities suggesting pneumonia. No evidence of atelectasis. Normal size of the cardiac silhouette. Normal hilar and mediastinal structures.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

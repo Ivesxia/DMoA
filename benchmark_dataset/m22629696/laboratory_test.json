@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "White Blood Cell Count",
+            "date": "Not specified",
+            "findings": "15.5 g/dL (elevated, normal range 12.0 - 16.0 g/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "Dilated and fluid-filled retrocecal appendix measuring up to 11 mm with trace surrounding inflammatory stranding; no significant wall thickening or abnormal enhancement.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

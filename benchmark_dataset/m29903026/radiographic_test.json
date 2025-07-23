@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Portable view of the chest demonstrates low lung volumes. There is increased opacification in the left base with obscuration of the hemidiaphragm medially, which most likely represents atelectasis. There is no pneumothorax or definite pleural effusion. Pleural surfaces are normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

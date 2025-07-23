@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97°F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "151/91 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "general": "Comfortable, no acute distress",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "Clear to auscultation bilaterally, no respiratory distress",
+                "abdominal": "Soft, obese, non-distended; significant tenderness in the right upper quadrant to palpation; large umbilical hernia noted, easily reducible",
+                "neurological": "Alert and oriented to person, place, and time"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

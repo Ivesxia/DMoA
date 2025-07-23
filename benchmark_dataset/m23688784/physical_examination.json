@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.3°F",
+                "heart_rate": "79 bpm",
+                "blood_pressure": "156/80 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "94% on room air"
+            },
+            "relevant_findings": {
+                "general": "Middle-aged man in slight discomfort, alert and appropriate",
+                "HEENT": "EOMI, PERRL, sclera anicteric, conjunctivae clear, oropharynx moist and without lesion",
+                "neck": "Supple, no JVD",
+                "cardiovascular": "Regular rate, normal S1, S2. No murmurs/rubs/gallops.",
+                "chest": "Respirations were unlabored, no accessory muscle use. Clear to auscultation bilaterally, no crackles, wheezes or rhonchi.",
+                "abdomen": "Soft, moderately tender to palpation in epigastric region/RUQ; no rebound tenderness or guarding; positive bowel sounds throughout.",
+                "extremities": "No cyanosis/clubbing/edema.",
+                "skin": "No rash"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

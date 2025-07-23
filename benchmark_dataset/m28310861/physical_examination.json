@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.1 F",
+                "heart_rate": "57 bpm",
+                "blood_pressure": "176/92 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "95%"
+            },
+            "relevant_findings": {
+                "general": "NAD. Alert, oriented x3.",
+                "HEENT": "No scleral icterus. Mucous membranes moist.",
+                "cardiovascular": "RRR",
+                "pulmonary": "Unlabored breathing, CTAB",
+                "abdominal": "Soft, obese, nondistended, tender to palpation in RUQ, No R/G. No masses.",
+                "extremities": "Warm without edema/c/c"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

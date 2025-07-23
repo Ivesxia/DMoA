@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopic placement of internal pigtail drain",
+            "date": "Not specified",
+            "findings": "Cultures grew MSSA.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Initial MRCP showed an undrained fluid collection at the tail of the pancreas; later MRCP showed necrotizing pancreatitis with modest interval decrease in the size of multiple fluid collections, including the dominant collection.",
+            "changes_over_time": "Progression noted from an undrained fluid collection to a decrease in the size of fluid collections."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Demonstrated Gastrocystic catheters in place, evolving extensive granulation tissue, severe post-inflammatory changes involving the pancreas and surrounding region, and minimal residual necrotic fluid collection along the tail.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

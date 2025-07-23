@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Revealing of sigmoid diverticulosis as well as two sessile, hyperplastic polyps.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Colonic diverticulosis noted with an inflamed diverticulum arising from the distal descending colon, extensive pericolonic fat stranding, reactive colonic thickening, fluid tracking along the left pericolic gutter, and extraluminal gas locules suggesting contained perforation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

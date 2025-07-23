@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Very low lung volumes with borderline size of the cardiac silhouette and crowding of the vascular and interstitial structures at the lung bases. No pleural effusions. Normal aspect of the mediastinum and the hilar structures. No evidence of acute lung disease.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Osmolality",
+            "date": "Not specified",
+            "findings": "328.0 mOsm/kg.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

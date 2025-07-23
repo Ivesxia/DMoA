@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient experienced sharp pain in the right lower quadrant (RLQ) starting in the early afternoon while at work, following a night of being tired and going to bed early. He also reported nausea and decreased appetite that day. Symptoms worsened by the following morning with ongoing pain and nausea. He has never experienced this pain before.",
+        "past_medical_history": "BPH, T1 bladder carcinoma, and intravesical chemotherapy. Past surgical history includes transurethral resection of bladder tumor.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

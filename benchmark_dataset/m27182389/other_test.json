@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "Appendix is dilated measuring up to 1 cm in diameter with mild hyperemia of the wall and surrounding inflammatory fat stranding. No free air or evidence of abscess formation is seen. No pathologically enlarged lymph nodes are seen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Rectal Exam",
+            "date": "Not specified",
+            "findings": "Guaiac negative, no masses, no edema.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Constipation and abdominal pain",
+        "history_of_present_illness": "Symptoms began two days ago with abdominal pain and constipation. Patient experienced vomiting earlier, described as nonbloody/nonbilious. Onset of nausea with vomiting occurred on an unspecified date, followed by constipation. Patient took a Fleet enema due to lack of bowel movement for a duration without specified start date. Abdominal pain has been persistent.",
+        "past_medical_history": "Coronary artery disease (CAD), congestive heart failure (CHF), atrial fibrillation on Coumadin, hyperlipidemia, polymyalgia rheumatica, lumbar spinal stenosis, gout, diverticulosis, benign prostatic hyperplasia (BPH). Past surgical history includes multiple hernia repairs and cataract surgeries.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

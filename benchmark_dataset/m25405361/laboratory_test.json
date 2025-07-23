@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The right kidney is markedly atrophic. The unenhanced left kidney is unremarkable. The appendix is dilated with surrounding inflammation and contains a fecalith. A few prominent lymph nodes are noted in the right lower abdomen, likely reactive.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Blood Test",
+            "date": "Not specified",
+            "findings": "14.0 mg/dL (within the normal range of 6.0 - 20.0 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

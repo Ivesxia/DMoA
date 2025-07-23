@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ABDOMEN (SUPINE & ERECT)",
+            "date": "Not specified",
+            "findings": "Supine frontal radiograph of the abdomen shows non-dilated bowel loops with no abnormal air-fluid levels. No free air is identified. There is a moderate amount of fecal matter. There are small bilateral pleural effusions. Surgical clips, staples and a drain located in the right upper quadrant are likely related to the patient's prior cholecystectomy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

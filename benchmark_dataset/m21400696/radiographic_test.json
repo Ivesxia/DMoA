@@ -1,0 +1,18 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "liver": "The liver is diffusely echogenic, consistent with hepatic steatosis. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites.",
+                "bile_ducts": "There is no intrahepatic biliary dilation. The CBD measures 4 mm.",
+                "gallbladder": "Sludge and tiny stones are again seen in the gallbladder. Additionally, gallbladder polyps, measuring up to 1.0 cm are again seen and unchanged.",
+                "pancreas": "Imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation, with portions of the pancreatic tail obscured by overlying bowel gas.",
+                "spleen": "Normal echogenicity, measuring 9.6 cm.",
+                "kidneys": "Incidental view of the right kidney demonstrates no gross abnormality.",
+                "retroperitoneum": "Incidental view of the IVC demonstrates no gross abnormality."
+            },
+            "changes_over_time": "Gallbladder polyps are again seen and unchanged."
+        }
+    ]
+}

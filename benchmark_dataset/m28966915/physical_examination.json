@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1",
+                "heart_rate": "67",
+                "blood_pressure": "130/57",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "97% on RA"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, no acute distress",
+                "HEENT": "Sclerae anicteric, MMM, oropharynx clear. No dentition.",
+                "neck": "Supple, JVP not elevated, no LAD",
+                "lungs": "CTAB no wheezes, rales, rhonchi",
+                "cardiovascular": "Distant heart sounds. RRR, Nl S1, S2, no r/m/g",
+                "abdomen": "+BS, distended and obese, soft, tender to deep palpation over RLQ. No rebound tenderness or guarding. Hepatic border palpated 7cm below the costal margin.",
+                "genitourinary": "Foley placed",
+                "extremities": "Warm, perfused, trace pedal pulses, no clubbing, trace cyanosis, no edema",
+                "neurological": "CNs 2-12 intact, motor function grossly normal",
+                "skin": "Erythematous, non-pruritic blanching patches over upper extremities bilaterally. Diffuse maculopapular rash over upper abdomen and chest with excoriations, but non-pruritic."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Prior to transfer",
+            "vital_signs": {
+                "temperature": "37.4",
+                "heart_rate": "63",
+                "blood_pressure": "113/52",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "96% on RA"
+            },
+            "relevant_findings": "Significant improvement in abdominal pain, and no other complaints besides feeling thirsty.",
+            "changes_over_time": "Improvement in abdominal pain noted upon arrival to the floor."
+        }
+    ]
+}

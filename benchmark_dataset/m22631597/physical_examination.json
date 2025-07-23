@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.0°F",
+                "blood_pressure": "109/58 mmHg",
+                "heart_rate": "75 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "96% RA"
+            },
+            "relevant_findings": {
+                "general": "Somnolent but arousable. Follows commands. No acute distress. Pale appearing.",
+                "neurological": "Awake. Oriented to person, birth date, and year.",
+                "neck": "Supple, no lymphadenopathy.",
+                "respiratory": "Lungs clear to auscultation, normal to percussion.",
+                "cardiovascular": "Regular rate and rhythm. III/VI systolic murmur noted at right upper sternal border.",
+                "extremities": "No lower extremity edema.",
+                "abdomen": "Bowel sounds present; no tenderness or masses. Guaic positive brown stool per ED.",
+                "skin": "No rash."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

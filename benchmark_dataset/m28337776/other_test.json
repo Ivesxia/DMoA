@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EGD",
+            "date": "Not specified",
+            "findings": "Hiatal hernia, mild esophagitis and multiple gastric polyps.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Colonic polyps (biopsied, adenomas), scattered diverticulosis, and internal hemorrhoids.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

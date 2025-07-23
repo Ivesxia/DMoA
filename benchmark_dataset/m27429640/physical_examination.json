@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "84 bpm",
+                "blood_pressure": "124/76 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented x3, no acute distress",
+                "heent": "Normocephalic/atraumatic, extraocular movements intact, no scleral icterus",
+                "cardiovascular": "Regular rate and rhythm without murmurs, rubs, or gallops",
+                "respiratory": "Clear to auscultation bilaterally",
+                "abdominal": "Soft, non-distended, positive tender to palpation in right lower quadrant, no guarding, no rebound tenderness, positive Rovsing's sign, positive obturator and psoas signs",
+                "costovertebral_angle": "No tenderness",
+                "extremities": "Warm, well-perfused without edema",
+                "neurological": "Without focal deficit",
+                "psychiatric": "Normal mood, appropriate affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

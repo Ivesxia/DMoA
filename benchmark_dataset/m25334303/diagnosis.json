@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute appendicitis",
+        "differential_diagnosis": "Aspiration, Intra-abdominal abscess",
+        "diagnostic_reasoning": "The patient presented with acute onset diffuse abdominal pain, associated with nonbloody emesis and tender palpation in the right lower quadrant, consistent with acute appendicitis. CT imaging confirmed the diagnosis, indicating status post appendicectomy with residual fat stranding, and noted a fluid collection in the pelvis, which aligns with the patient's symptoms and clinical findings."
+    }
+}

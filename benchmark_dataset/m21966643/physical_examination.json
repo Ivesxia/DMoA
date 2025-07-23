@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9 °F",
+                "blood_pressure": "138/72 mmHg",
+                "heart_rate": "73 bpm",
+                "respiratory_rate": "18 bpm",
+                "oxygen_saturation": "98% on RA"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing, well-nourished, no acute distress",
+                "HEENT": "EOMI, dry MM",
+                "neck": "No JVD, carotid pulses brisk",
+                "cardiovascular": "RRR, no M/G/R, normal S1 S2, radial pulses +2",
+                "pulmonary": "Lungs CTAB, no W/R/R",
+                "abdominal": "TTP in epigastrium and LUQ with guarding",
+                "extremities": "No C/C/E",
+                "neurological": "Alert, oriented to person, place, and time. CN II – XII grossly intact. Moves all 4 extremities.",
+                "skin": "No jaundice"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

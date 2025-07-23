@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "145/92 mmHg",
+                "heart_rate": "100 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing young woman in NAD.",
+                "HEENT": "NC/AT dry mucous membranes",
+                "neck": "Supple",
+                "heart": "Tachycardic regular rhythm, no MRG",
+                "lungs": "CTA bilat",
+                "abdomen": "Soft, hypoactive bowel sounds. TTP in bilateral upper quadrants and left lower quadrant.",
+                "extremities": "WWP",
+                "skin": "No rashes or lesions.",
+                "lymph": "No cervical LAD.",
+                "neuro": "Awake, A&Ox3."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

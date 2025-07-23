@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC",
+            "date": "Not specified",
+            "findings": "14.3 (high)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Heterogeneous liver enhancement, two vague hypodense lesions in right lobe measuring up to 10 mm, complex fluid collection in right lower quadrant measuring 2.7 x 2.8 x 4.1 cm likely representing an abscess, dilated and hyperemic proximal appendix.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0",
+                "heart_rate": "106",
+                "blood_pressure": "106/57",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "heent": "Attractive/Normal, Extraocular Movements Intact, Pupils Equal, Round, Reactive to Light, anicteric sclera, pink conjunctiva, moist mucous membranes, good dentition",
+                "neck": "Nontender, supple neck, no lymphadenopathy, no jugular venous distension, mildly enlarged thyroid without nodules",
+                "cardiac": "Regular rate and rhythm, no murmurs, gallops, or rubs",
+                "lung": "Clear to auscultation bilaterally, no wheezes, rales, rhonchi, breathing comfortably without use of accessory muscles",
+                "abdomen": "Nondistended, positive bowel sounds, tender in left lower quadrant and right lower quadrant, no rebound or guarding, no hepatosplenomegaly",
+                "extremities": "No cyanosis, clubbing, or edema, moving all four extremities with purpose",
+                "pulses": "2+ dorsalis pedis pulses bilaterally",
+                "neurological": "Cranial Nerves II-XII intact",
+                "skin": "Warm and well perfused, no excoriations or lesions, no rashes"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "102.8",
+                "heart_rate": "126",
+                "blood_pressure": "119/61",
+                "respiratory_rate": "20",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "103/52",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": "Complain of LLQ and RLQ pain, no other gastrointestinal or urinary disturbances.",
+            "changes_over_time": "Reported feeling better despite ongoing pain in the left and right lower quadrants."
+        }
+    ]
+}

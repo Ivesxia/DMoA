@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Electrolytes",
+            "date": "Not specified",
+            "findings": "Potassium level indicated as hypokalemia, with a reference range of 135.0 - 147.0.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Unchanged bilateral pleural effusions and no interval change of bilateral parenchymal opacities.",
+            "changes_over_time": "No interval change noted."
+        }
+    ]
+}

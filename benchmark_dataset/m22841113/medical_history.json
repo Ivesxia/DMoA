@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Nausea and abdominal pain",
+        "history_of_present_illness": "The patient experienced nausea and abdominal pain for five days prior to transfer, with diffuse myalgias starting six days before admission. Pain localizing to the right upper quadrant worsened, and the patient began vomiting gastric contents four days prior to admission, which was non-bilious and non-bloody. She experienced low-grade fevers at home up to 101 degrees Fahrenheit.",
+        "past_medical_history": "Asthma, Diabetes (non-insulin dependent), Hypothyroidism, Gastroesophageal reflux. Surgical history includes tonsillectomy/adenoidectomy, appendectomy, and ruptured ectopic pregnancy.",
+        "family_history": "Mother died of old age, father died of bone cancer, oldest sister has dementia.",
+        "social_history": "Not specified."
+    }
+}

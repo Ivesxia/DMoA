@@ -1,0 +1,49 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipidase",
+            "date": "Not specified",
+            "findings": "512* (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "Not specified",
+            "findings": "254* (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "10:20 PM",
+            "findings": {
+                "PLT_COUNT": "163",
+                "NEUTS": "65.5",
+                "MONOS": "4.5",
+                "EOS": "1.4",
+                "BASOS": "0.6",
+                "WBC": "7.1",
+                "RBC": "5.86",
+                "HGB": "17.4",
+                "HCT": "50.1",
+                "MCV": "86",
+                "MCH": "29.7",
+                "MCHC": "34.7",
+                "RDW": "12.2"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver function test",
+            "date": "10:20 PM",
+            "findings": {
+                "ALT": "21",
+                "AST": "32",
+                "ALK_PHOS": "124",
+                "TOT_BILI": "0.4",
+                "ALBUMIN": "4.6",
+                "CALCIUM": "9.1"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "An 8-mm appendicolith and free fluid suggestive of a perforated appendix. Discontinuity of the appendiceal wall. Dilated contrast-filled loops of small bowel measuring at least 4.7 cm. Mild dilation of colonic loops measuring 4.1 cm. No free air or free fluid in the upper abdomen. No evidence of obstruction.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

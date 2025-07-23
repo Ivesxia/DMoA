@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "A 3 mm nodule in the right lung base is unchanged. The appendix is dilated up to 1.7 cm in diameter, with mucosal hyperenhancement and significant fat stranding, fluid and phlegmonous changes. No drainable fluid collection or free air. The liver enhances homogeneously without focal lesions. The kidneys show symmetric nephrograms without focal renal lesion or hydronephrosis. Moderate to severe degenerative changes of the lumbar spine are present.",
+            "changes_over_time": "A 3 mm nodule in the right lung base is unchanged since ____."
+        }
+    ]
+}

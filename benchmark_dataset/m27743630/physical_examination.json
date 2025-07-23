@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.6°F",
+                "heart_rate": "90 bpm",
+                "blood_pressure": "94/64 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100% on RA"
+            },
+            "relevant_findings": {
+                "general": "awake, alert, NAD",
+                "heent": "NCAT, EOMI, PERRLA, anicteric",
+                "heart": "RRR, NMRG",
+                "lungs": "CTAB, normal excursion, no respiratory distress",
+                "back": "no vertebral tenderness, no CVAT",
+                "abdomen": "soft, mild epigastric tenderness, moderate RLQ tenderness, no Rovsing's sign, no guarding/rebound, ND, no mass, no hernia",
+                "pelvis": "deferred",
+                "neuro": "strength intact/symmetric, sensation intact/symmetric",
+                "extremities": "WWP, no CCE, no tenderness, 2+ B",
+                "skin": "no rashes/lesions/ulcers",
+                "psychiatric": "normal judgment/insight, normal memory, normal mood/affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

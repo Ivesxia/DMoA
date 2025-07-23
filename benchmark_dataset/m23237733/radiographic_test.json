@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "New small bilateral effusions; moderate cardiomegaly unchanged; well-defined 3.9 x 2.6 cm hypodensity in posterior right dome of the liver likely representing a cyst; multiple subcentimeter hypodensities in both kidneys likely representing cysts; intra-abdominal loops of bowel grossly unremarkable; pigtail catheter in right lower quadrant rim enhancing fluid collection measuring 2 x 1.2 cm; associated cecal wall thickening to 1 cm and lymphadenopathy measuring up to 1.3 cm unchanged; no free air noted; extensive atherosclerotic calcified and noncalcified mural thrombus.",
+            "changes_over_time": "Cecal wall thickening and lymphadenopathy unchanged; moderate cardiomegaly unchanged."
+        }
+    ]
+}

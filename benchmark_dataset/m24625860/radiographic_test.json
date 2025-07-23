@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated to 15mm with a large amount of fat stranding and small free fluid in the right paracolic gutter. An 8-mm hyperdensity at the appendiceal orifice is an appendicolith. Mildly distended fluid filled loops of small bowel may be a reactive ileus. The visualized lung bases are clear aside from mild dependent bibasilar atelectasis. No pleural or pericardial effusion, no renal stone, hydronephrosis or contour-altering renal mass. The liver, gallbladder, spleen, pancreas, and bilateral adrenal glands are normal. No drainable fluid collection or free air. Mild atherosclerotic calcifications noted throughout the normal caliber aorta.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

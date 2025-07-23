@@ -1,0 +1,48 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4°F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "149/97 mmHg",
+                "respiratory_rate": "16 breaths per minute"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "74 bpm",
+                "blood_pressure": "137/80 mmHg",
+                "respiratory_rate": "14 breaths per minute"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "heart_rate": "67 bpm",
+                "blood_pressure": "123/84 mmHg",
+                "respiratory_rate": "16 breaths per minute"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented to name, place and situation. Fatigued appearing but comfortable, no acute signs of distress.",
+                "HEENT": "NCAT, Pupils equal and reactive, sclerae anicteric, OP clear, MMM.",
+                "neck": "Supple, no JVD. No cervical, supraclavicular LAD.",
+                "CV": "S1S2, regular rate and rhythm, no murmurs, rubs or gallops.",
+                "resp": "Good air movement bilaterally, no rhonchi or wheezing. Decreased breath sounds at right base.",
+                "abd": "Soft, non-tender, non-distended, + bowel sounds.",
+                "extr": "No lower leg edema.",
+                "derm": "No active rash.",
+                "neuro": "non-focal.",
+                "psych": "Appropriate and calm."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

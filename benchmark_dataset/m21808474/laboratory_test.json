@@ -1,0 +1,36 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Enhances homogeneously without concerning focal lesion.",
+                "calcification": "Subcentimeter calcification in the lateral segment of the left hepatic lobe, stable since a previous unspecified date, likely representing granuloma.",
+                "gallbladder": "Normal without gallstones.",
+                "pancreas_spleen_adrenals": "Unremarkable.",
+                "gastric_bypass_changes": "Suture lines in the left hemi-abdomen; oral contrast seen within excluded stomach and duodenum/afferent limb, concerning for gastro-gastric fistula or reflux.",
+                "small_bowel": "Loop near anastomosis mildly dilated.",
+                "kidney": "Small bilateral subcentimeter renal hypodensities, too small to further characterize; no hydronephrosis.",
+                "free_air_fluid": "No free air or free fluid present.",
+                "appendix": "Fluid-filled and dilated measuring up to 9 mm; mild enhancing appendiceal wall thickening with mild adjacent periappendiceal fat stranding; does not fill with oral contrast.",
+                "pelvis": {
+                    "uterus": "Enlarged with fibroids.",
+                    "adnexa_lesion": "3.2 cm left hypodense adnexa lesion, likely a cyst.",
+                    "free_fluid": "Mild amount noted in the cul-de-sac."
+                },
+                "bone_windows": "Mild multilevel degenerative changes throughout the thoracic and lumbar spine with grade 1 retrolisthesis of L5 over S1."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": {
+                "measurement": "1.6 mmol/L",
+                "reference_range": "0.5 - 2.0 mmol/L",
+                "result_status": "Within normal range"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

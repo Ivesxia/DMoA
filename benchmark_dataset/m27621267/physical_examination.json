@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.8°F",
+                "heart_rate": "92 bpm",
+                "blood_pressure": "120/67 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, skin very warm to touch",
+                "HEENT": "No scleral icterus. Dry mucous membranes.",
+                "cardiovascular": "RRR",
+                "pulmonary": "no respiratory distress",
+                "abdominal": "soft, non-distended. Tender to palpation at RLQ and suprapubic region with voluntary guarding and rebound",
+                "extremities": "wwp, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

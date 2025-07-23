@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Cr of 2.9 (baseline 1.2-1.4)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "BUN",
+            "date": "Not specified",
+            "findings": "BUN 70 (baseline 20's)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "K 3.1 (baseline 4.1)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ABG",
+            "date": "Not specified",
+            "findings": "ABG showed 7.22 pCO2 10 pO2 126 HCO3 4",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate: 0.8",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "Mild pancreatic enlargement and hypoenhancement, particularly within the head and neck, consistent with early necrotizing pancreatitis; trace simple bilateral pleural effusions; mild fat stranding around the pancreatic tail.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Fecal Test for C. difficile",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

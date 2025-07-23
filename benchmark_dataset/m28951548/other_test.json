@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder is distended and contains a mobile gallstone measuring up to 2 cm. No gallbladder wall thickening or pericholecystic fluid. The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. No focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites. The CBD measures 4 mm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Esophagogastroduodenoscopy [EGD] with closed biopsy",
+            "date": "Not specified",
+            "findings": "Escherichia coli detected, with a result of 36.0 IU/L.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

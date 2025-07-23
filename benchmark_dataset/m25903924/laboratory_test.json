@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC",
+            "date": "Not specified",
+            "findings": "WBC count: 12.1 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase: 598 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Increase in size of pancreatic cysts: Neck cyst 24 x 30 mm (previously 17 x 25 mm); Tail cyst 25 x 27 mm (previously 16 x 14 mm). Non-enhancing filling defects in the dilated main pancreatic duct. No enhancing lesions within cysts.",
+            "changes_over_time": "Notable interval increase in the size of pancreatic cysts compared to prior study."
+        },
+        {
+            "procedure_name": "MRSA culture",
+            "date": "Not specified",
+            "findings": "No MRSA isolated.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

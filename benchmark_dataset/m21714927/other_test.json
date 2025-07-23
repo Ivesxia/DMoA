@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Virtual Colonoscopy",
+            "date": "Not specified",
+            "findings": "Thickening of the sigmoid colon; no obvious mucosal lesions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Preoperative CEA Test",
+            "date": "Not specified",
+            "findings": "CEA level was 10.",
+            "changes_over_time": "Mild elevation of the CEA is presumed related to chronic cigarette smoking and potential residual sigmoid inflammation."
+        },
+        {
+            "procedure_name": "Preoperative CA-125 Test",
+            "date": "Not specified",
+            "findings": "Normal CA-125.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Recurrent right upper quadrant (RUQ) pain, nausea, and vomiting",
+        "history_of_present_illness": "The patient developed a strong burning pain in her RUQ and the epigastrium at 10 PM the night prior to admission, which later became sharp and persistent. She experienced multiple episodes of nonbloody, nonbilious vomiting overnight, prompting her to visit the emergency department. The patient reports a history of similar symptoms approximately ___ years ago, which resolved spontaneously.",
+        "past_medical_history": "Hypertension, Diabetes mellitus type II, Hypercholesterolemia, GERD, Asthma, Hemorrhoids",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

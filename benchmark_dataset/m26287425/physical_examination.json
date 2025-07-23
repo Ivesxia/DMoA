@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "101°F",
+                "blood_pressure": "130/70 mmHg",
+                "heart_rate": "125 bpm",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "88% on RA"
+            },
+            "relevant_findings": {
+                "initial": "Dusky appearance and shivering noted. After treatment, initial vital signs showed mild hyperthermia with a temperature of 101.2°F, heart rate of 126 bpm, blood pressure of 148/92 mmHg, respiratory rate of 20 breaths/min, and oxygen saturation of 88% on 4L.",
+                "subsequent": "On admission: Alert, no acute distress; BP: 141/98 mmHg, P: 95 bpm, R: 22 breaths/min, O2: 100% on 2L."
+            },
+            "changes_over_time": "Patient presented with shivering and changes in vital signs indicating potential deterioration; however, improved to alert status and normal oxygen saturation with treatment."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.2°F",
+                "heart_rate": "122 bpm",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "19 breaths/min",
+                "oxygen_saturation": "97% on 2L"
+            },
+            "relevant_findings": {
+                "initial": "Non-verbal and close to baseline with altered responses.",
+                "subsequent": "Calm, able to follow simple commands, denies current pain."
+            },
+            "changes_over_time": "Initially presented with notable neurological deficits and shivering; subsequent examination revealed improvement in responsiveness and demeanor."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Cloudy urine with sediment, few bacteria, positive nitrites noted in UA.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

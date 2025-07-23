@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "100 bpm",
+                "blood_pressure": "137/79 mmHg",
+                "respiratory_rate": "12 breaths/min",
+                "oxygen_saturation": "100% on RA"
+            },
+            "relevant_findings": {
+                "general": "awake, alert, oriented x 3, NAD",
+                "HEENT": "NCAT, EOMI, anicteric",
+                "heart": "RRR",
+                "lungs": "normal excursion, no respiratory distress",
+                "abdomen": "soft, ND, no mass, no hernia, focal RLQ tenderness",
+                "extremities": "WWP, no CCE, no tenderness, 2+ B radial pulses",
+                "skin": "no rashes, no lesions, no ulcers",
+                "psychiatric": "normal judgment/insight, normal memory, normal mood/affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

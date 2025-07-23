@@ -1,0 +1,36 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "surgery",
+      "specific_treatment": "Laparoscopic Cholecystectomy",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Not specified"
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2023-10-___",  // date not provided, replace with appropriate date if known
+      "event": "Patient presented with fever and jaundice."
+    },
+    {
+      "date": "2023-10-___",  // date not provided, replace with appropriate date if known
+      "event": "Patient noted jaundice and dark urine, recommended to go to hospital."
+    },
+    {
+      "date": "2023-10-___",  // date not provided, replace with appropriate date if known
+      "event": "CT scan showed sludge in the gallbladder; patient transferred for evaluation for ERCP."
+    },
+    {
+      "date": "Not specified",
+      "event": "Laparoscopic Cholecystectomy performed."
+    },
+    {
+      "date": "Not specified",
+      "event": "Patient's response to treatment is not specified."
+    }
+  ]
+}
+```

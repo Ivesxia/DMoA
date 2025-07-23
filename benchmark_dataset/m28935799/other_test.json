@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "INR Test",
+            "date": "Not specified",
+            "findings": "INR is 8 today.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Estimated GFR Calculation",
+            "date": "Not specified",
+            "findings": "Estimated GFR = 33 if non African-American; Estimated GFR = 40 if African-American.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

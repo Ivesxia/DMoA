@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Intermittent abdominal pain and nausea for ~1 week.",
+        "history_of_present_illness": "Symptoms began approximately 1 week ago, with intermittent abdominal pain and nausea without vomiting. The patient experienced 1 day of diarrhea several days ago and has had PO intolerance for the entire period. The patient also reports an increased perception of abdominal size and worsening dyspnea, along with a dry cough, which is usual for him. Shaking chills were noted, but the patient is unsure about fever.",
+        "past_medical_history": "Coronary artery disease, myocardial infarction status post percutaneous coronary intervention, diabetes mellitus type 2, hypertension, chronic obstructive pulmonary disease, dyslipidemia.",
+        "family_history": "Father died of myocardial infarction at an unspecified age; mother deceased with a history of diabetes mellitus.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "5 mm ground-glass nodule in the right middle lobe; normal liver, pancreas, spleen, and adrenal glands; kidneys normal size and symmetric; wall thickening and hyperemia of the cecum; loculated fluid collection adjacent to the cecum unchanged in size (6.7 x 3.4 cm; previously 6.6 x 3.6 cm); mild wall thickening in an adjacent loop of sigmoid colon",
+            "changes_over_time": "Fluid collection unchanged in size and appearance; measured 6.7 x 3.4 cm, previously 6.6 x 3.6 cm"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "Mixed bacterial flora (>= 3 colony types), consistent with skin and/or genital contamination.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

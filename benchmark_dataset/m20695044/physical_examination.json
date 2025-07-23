@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "blood_pressure": "153/72 mmHg",
+                "heart_rate": "59 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert, lying in bed, no acute distress, interactive",
+                "HEENT": "MMM, anicteric sclera, no conjunctival pallor, clear oropharynx",
+                "neck": "Supple, no cervical or supraclavicular LAD",
+                "pulmonary": "Clear, no wheeze, rales, or rhonchi",
+                "cardiovascular": "RRR, normal S1/S2, no murmurs",
+                "abdominal": "Soft, ND, tender to palpation at epigastrium without rebound or guarding, +BS, no hepatomegaly",
+                "extremities": "Warm, no edema",
+                "neurological": "CN II-XII grossly intact, motor function grossly normal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

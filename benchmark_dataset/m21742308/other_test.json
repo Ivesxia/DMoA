@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "NGT placement",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Anticoagulant therapy",
+            "date": "Not specified",
+            "findings": "Long term (current) use of anticoagulants",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

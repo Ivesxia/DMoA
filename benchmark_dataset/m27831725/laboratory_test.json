@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase test",
+            "date": "Not specified",
+            "findings": "Lipase levels 19,540 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture for respiratory viruses",
+            "date": "Not specified",
+            "findings": "No respiratory viruses isolated. Screened for Adenovirus, Influenza A & B, Parainfluenza type 1, 2 & 3, and Respiratory Syncytial Virus.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "LIVER": {
+                    "mass": {
+                        "size": "2.2 x 2.0 cm",
+                        "echogenicity": "slightly echogenic",
+                        "change": {
+                            "previous_size": "1.7 x 1.7 cm",
+                            "description": "slightly larger"
+                        }
+                    },
+                    "other": "remaining hepatic parenchyma appears within normal limits, contour of the liver is smooth"
+                },
+                "BILE DUCTS": {
+                    "dilation": "no intrahepatic biliary dilation",
+                    "CBD_measurement": "4 mm"
+                },
+                "GALLBLADDER": {
+                    "stones": "no evidence of stones or gallbladder wall thickening",
+                    "cystic_duct_stone": {
+                        "size": "1.5 cm",
+                        "description": "likely within the cystic duct, previously seen in body of the gallbladder"
+                    }
+                },
+                "PANCREAS": {
+                    "status": "within normal limits, without masses or pancreatic ductal dilation"
+                },
+                "KIDNEY": {
+                    "right_kidney_length": "12.2 cm",
+                    "left_kidney_status": "not evaluated"
+                },
+                "VASCULATURE": "Visualized portions of aorta and IVC are within normal limits"
+            },
+            "changes_over_time": "The mass in the liver has increased in size from 1.7 x 1.7 cm to 2.2 x 2.0 cm. The cystic duct stone was previously seen in the body of the gallbladder and is now noted in the cystic duct."
+        },
+        {
+            "procedure_name": "Liver Function Tests (LFTs)",
+            "date": "Not specified",
+            "findings": "WNL (within normal limits)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "WNL (within normal limits)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 colony types), consistent with skin and/or genital contamination.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

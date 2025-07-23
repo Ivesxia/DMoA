@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "50 bpm",
+                "blood_pressure": "139/82 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, well-appearing",
+                "HEENT": "Pupils equal, round, reactive to light; Extraocular movements intact; Anicteric sclerae; No conjunctival pallor; Mucous membranes dry; Oropharynx clear",
+                "neck": "Supple; No lymphadenopathy; No jugular venous distention",
+                "cardiovascular": "Bradycardic; Regular rhythm; S1/S2 present; No murmurs, rubs, or gallops",
+                "pulmonary": "Unlabored breathing; Good air entry; Clear to auscultation bilaterally",
+                "gastrointestinal": "Soft abdomen; Normoactive bowel sounds; Non-distended; Epigastric and periumbilical tenderness; No organomegaly; No rigidity, guarding, or rebound tenderness",
+                "extremities": "Warm, well-perfused; Without edema",
+                "neurological": "Non-focal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

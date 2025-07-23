@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is homogeneous in echotexture, without evidence of a focal liver lesion. There is no intrahepatic biliary ductal dilatation, and the common bile duct measures 6 mm. The gallbladder demonstrates externally convex curvature with a non-mobile stone in the gallbladder neck. The gallbladder wall is thickened, measuring 4-5 mm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gallbladder stone examination",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

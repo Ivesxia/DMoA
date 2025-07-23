@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits. No evidence of pleural or pericardial effusion. Reticulation within both lower lobes is compatible with minimal fibrotic change. The liver demonstrates homogenous attenuation with no focal lesions and no biliary dilatation. The gallbladder is normal, and the hepatic and portal veins are patent. The pancreas has normal attenuation without lesions or ductal dilatation. The spleen is normal in size and attenuation. The right adrenal gland is normal, and a left adrenal nodule (14 mm, unchanged) is noted. Kidneys are normal with no hydronephrosis but bilateral hypodensities potentially represent cysts. A small hiatal hernia is present, with the stomach being unremarkable, and small bowel loops are normal. Fat stranding around sigmoid colon diverticula suggests possible inflammation with a small amount of extraluminal air indicating microperforation. The urinary bladder and distal ureters are unremarkable, with some pelvic free fluid noted. No lymphadenopathy is observed, and no abdominal aortic aneurysm is present. Moderate atherosclerotic disease is noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacteriological culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

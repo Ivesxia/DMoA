@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.8°F",
+                "pulse": "84 bpm",
+                "blood_pressure": "103/58 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "A+Ox3, minimally diaphoretic, NAD, asking intelligent questions",
+                "respiratory": "Clear to auscultation bilaterally",
+                "cardiovascular": "Regular rate and rhythm, normal S1/S2",
+                "abdominal": "Soft, moderately distended, tenderness isolated to the right lower quadrant with local rebound and guarding, positive Rovsing's sign, negative Psoas and Obturator signs",
+                "extremities": "Full active range of motion without difficulty"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "CT findings": "Mild atelectasis at lung bases, normal heart size, moderate hiatal hernia, mild pectus excavatum, liver enhances homogeneously, gallbladder partially collapsed, mild fatty infiltration of pancreas, stomach distended with oral contrast, presence of reactive ileus, and an appendix increased in size to 9 mm with wall hyperemia and mild surrounding fat stranding."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

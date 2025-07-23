@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4",
+                "heart_rate": "77",
+                "blood_pressure": "152/88",
+                "respiratory_rate": "16"
+            },
+            "relevant_findings": {
+                "general": "NAD. A&Ox3.",
+                "HEENT": "Anicteric. Tacky mucosal membranes.",
+                "neck": "No JVD. No LAD. No TM.",
+                "cardiovascular": "RRR.",
+                "pulmonary": "CTAB.",
+                "abdominal": "Soft. ND. +BS. Mildly TTP to RLQ. No rebound or guarding.",
+                "DRE": "Normal tone. No masses. No gross or occult blood.",
+                "extremities": "Warm and well perfused. No peripheral edema.",
+                "neurological": "Motor and sensation grossly intact."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

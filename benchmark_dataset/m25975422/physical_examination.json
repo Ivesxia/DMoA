@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "103°F",
+                "blood_pressure": "134/76 mmHg",
+                "heart_rate": "85 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% on 2L oxygen"
+            },
+            "relevant_findings": {
+                "general_condition": "noted as NAD (no acute distress)",
+                "eyes": "anicteric",
+                "lungs": "clear",
+                "cardiovascular": "regular rate and rhythm, no murmurs/rubs/gallops",
+                "abdomen": "bowel sounds present, soft, tender in right upper quadrant",
+                "extremities": "no edema, cyanosis, or clubbing",
+                "skin": "no rash",
+                "neurological": "alert, follows commands"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

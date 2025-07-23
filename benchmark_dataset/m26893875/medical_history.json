@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient reports abdominal pain since last night, which got worse throughout the night. He also experienced generalized body aches, cough, and sore throat for the past 24 hours. He had one bout of emesis and diarrhea, with worsening pain in the morning, aggravated by movement and ambulation. He took Motrin for pain relief, which was ineffective.",
+        "past_medical_history": "None",
+        "family_history": "No history of inflammatory bowel disease (IBD).",
+        "social_history": "Not specified."
+    }
+}

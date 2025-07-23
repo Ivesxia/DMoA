@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Lung bases are clear. No pleural or pericardial effusion. Liver enhances homogeneously with no focal hepatic lesions identified. Gallbladder is normal. No intra or extrahepatic biliary ductal dilatation. Portal vein is patent. Adrenal glands are normal. Pancreas is normal. Spleen is homogeneous and normal in size. Kidneys enhance symmetrically and excrete contrast without evidence of hydronephrosis or renal masses. Stomach is significantly distended with the majority of contrast remaining within the gastric fundus. No evidence of small bowel obstruction. A 10 mm appendix is seen extending into the pelvis containing an appendicolith and surrounded by fat stranding, consistent with acute appendicitis. No signs to suggest perforation. No retroperitoneal or mesenteric lymph node enlargement by CT size criteria. No intra-abdominal free air. Urinary bladder and terminal ureters are normal. Uterus and adnexa are within normal limits. There is a small amount of pelvic free fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine hCG",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

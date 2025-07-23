@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "The gallbladder is distended and contains several small intraluminal stones. There is wall thickening and pericholecystic fat stranding consistent with acute cholecystitis. Mildly irregular enhancement of the gallbladder wall is noted, particularly near the superior fundus. Intrahepatic bile ducts are not dilated. The extrahepatic bile duct measures up to 6 mm and is mildly dilated, tapering smoothly at the level of the ampulla with no evidence of choledocholithiasis or cholangitis. The liver shows homogeneous signal intensity with no significant lesions, and the pancreas, spleen, and adrenal glands appear normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Multiple thin walled cysts in the lungs; no pleural effusion or pneumothorax; pleural based nodular opacity 1.2 x 1.2 cm in the right lower lung; normal imaged heart and no pericardial effusion; two sub-4 mm nodules in left lung base; liver, pancreas, and adrenal glands normal; surgically absent spleen; enlarged kidneys with numerous cystic and fat-containing lesions; surgical clips in both kidneys; non-obstructing 5.8 mm stone in left kidney; normal stomach and bowel; right upper quadrant ventral hernia containing a portion of large bowel; small fat-containing umbilical hernia; dilated appendix (9.8 mm) with surrounding fat inflammation; normal rectum, bladder, and sigmoid; unremarkable uterus; cystic changes in both ovaries; scattered right inguinal lymph nodes do not meet CT criteria for lymphadenopathy; multiple foci of sclerosis in bones with no fractures.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

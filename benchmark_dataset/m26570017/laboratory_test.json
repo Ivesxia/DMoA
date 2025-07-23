@@ -1,0 +1,31 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "A new, moderate right pleural effusion with adjacent atelectasis.",
+                "abdomen": {
+                    "hepatobiliary": "The liver demonstrates homogenous attenuation throughout. There is no evidence of focal lesions. There is no evidence of intrahepatic or extrahepatic biliary dilatation.",
+                    "pancreas": "The pancreas has normal attenuation throughout, without evidence of focal lesions or pancreatic ductal dilatation.",
+                    "spleen": "The spleen shows normal size and attenuation throughout, without evidence of focal lesions.",
+                    "adrenals": "The right and left adrenal glands are normal in size and shape.",
+                    "urinary": "The kidneys are of normal and symmetric size with normal nephrogram. Multiple tiny bilateral renal hypodensities likely cysts, with the largest measuring 9 mm, unchanged since the previous study.",
+                    "gastrointestinal": "Multiple contiguous loops of small bowel are fluid-filled and dilated throughout the abdomen, increased in comparison to the previous study. The appendix remains enlarged and inflamed with a small adjacent rim-enhancing fluid collection compatible with an abscess, smaller but more organized compared to the previous examination."
+                },
+                "retroperitoneum": "Multiple prominent mediastinal and retroperitoneal lymph nodes are again identified, likely reactive in nature.",
+                "vascular": "There is no abdominal aortic aneurysm. Minimal calcium burden in the abdominal aorta and great abdominal arteries.",
+                "pelvis": "The urinary bladder and distal ureters are unremarkable.",
+                "reproductive_organs": "Redemonstrated is a fibroid uterus overall unchanged in position from the prior examination.",
+                "bones_and_soft_tissues": "There is no evidence of worrisome osseous lesions."
+            },
+            "changes_over_time": "The small bowel fluid-filled status is noted to have increased in comparison to a previous study, while the adjacent abscess is now more organized and smaller compared to an earlier examination."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

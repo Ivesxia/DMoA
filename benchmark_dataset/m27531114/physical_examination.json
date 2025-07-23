@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "109/84 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": "Abdomen soft, tender in right lower quadrant (RLQ), no guarding/rebound. Negative Rovsing's and Psoas signs. A&Ox3.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

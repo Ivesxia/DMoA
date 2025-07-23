@@ -1,0 +1,52 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "76 bpm",
+                "blood_pressure": "148/80 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "pulse_oximetry": "99% on room air"
+            },
+            "relevant_findings": {
+                "abdominal_examination": {
+                    "tenderness": "Yes",
+                    "guarding": "Yes",
+                    "distension": "No",
+                    "hepatosplenomegaly": "No"
+                },
+                "general_condition": {
+                    "acute_distress": "No",
+                    "alertness": "A&Ox3",
+                    "speech": "Clear, in full sentences"
+                }
+            },
+            "changes_over_time": "Patient reports significant improvement in pain after receiving ketorolac in the ED."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.3°F",
+                "heart_rate": "71 bpm",
+                "blood_pressure": "109/60 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "pulse_oximetry": "95% on room air"
+            },
+            "relevant_findings": {
+                "abdominal_examination": {
+                    "tenderness": "No",
+                    "guarding": "No",
+                    "distension": "No",
+                    "hepatosplenomegaly": "No"
+                },
+                "general_condition": {
+                    "acute_distress": "No",
+                    "alertness": "A&Ox3",
+                    "speech": "Pleasant"
+                }
+            },
+            "changes_over_time": "Physical examination shows no abdominal tenderness or guarding, indicating improvement compared to the previous examination."
+        }
+    ]
+}

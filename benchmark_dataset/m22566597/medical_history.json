@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain, nausea and vomiting",
+        "history_of_present_illness": "The patient experienced sharp mid-epigastric pain starting around midnight last night, lasting until presentation to the ED at approximately 4 AM. The pain was accompanied by nausea and several episodes of non-bloody/non-bilious vomiting. The patient denies diarrhea. Symptoms have significantly resolved since receiving IV morphine.",
+        "past_medical_history": "Schwanoma in the right neck (diagnosed in ___, scheduled for Neurosurgery referral)",
+        "family_history": "Father: HTN, CAD. No history of cancers or autoimmune disorders.",
+        "social_history": "He consumed 3 glasses of white wine the night prior to admission. Generally, he drinks approximately ___ drinks per week."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified.",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT A/P",
+            "date": "Not specified.",
+            "findings": "Evidence of stercoral colitis and fluid around right hip joint.",
+            "changes_over_time": "Size of fluid collection was stable compared to prior; noted a thicker wall around the fluid collection compared to prior."
+        }
+    ]
+}

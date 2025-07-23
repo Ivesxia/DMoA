@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound (Liver or Gallbladder)",
+            "date": "Not specified",
+            "findings": "Mild gallbladder wall edema; no gallstones; gallbladder not concerning; no pericholecystic fluid; no biliary dilatation; liver unremarkable; no ascites; spleen normal at 10.9 cm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

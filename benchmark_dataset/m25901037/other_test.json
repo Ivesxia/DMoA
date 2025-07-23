@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Reticulation within both lower lobes compatible with minimal fibrotic change; normal hepatobiliary, pancreatic, splenic, and urinary assessments; small hiatal hernia; fat stranding around sigmoid colon diverticula; small amount of extraluminal air suggesting microperforation; small amount of simple pelvic free fluid.",
+            "changes_over_time": "Left adrenal nodule previously characterized as an adenoma is unchanged, measuring up to 14 mm."
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 colony types), consistent with skin and/or genital contamination.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

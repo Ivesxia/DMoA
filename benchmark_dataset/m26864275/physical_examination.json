@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "heart_rate": "122 bpm",
+                "blood_pressure": "122/77 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "general": "AOx3 NAD",
+                "cardiovascular": "RRR S1S2",
+                "respiratory": "Normal work of breathing",
+                "abdominal": "+TTP in RLQ, +Rovsings, positive obturator",
+                "extremities": "WWP without edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

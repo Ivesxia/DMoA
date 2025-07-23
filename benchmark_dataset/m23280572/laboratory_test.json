@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is dilated up to 9 mm with the presence of intraluminal fluid and 2 appendicoliths. The wall of the appendix is hyperenhancing. No evidence of periappendiceal fat stranding, however, there is a small amount of adjacent free fluid contiguous with or centered in the pelvis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test (not specified)",
+            "date": "Not specified",
+            "findings": "8.7 mg/dL; within normal range (8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

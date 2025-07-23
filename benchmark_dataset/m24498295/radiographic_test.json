@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits. No evidence of pleural or pericardial effusion. The liver demonstrates homogenous attenuation; no focal lesions or biliary dilatation. The pancreas has normal attenuation with no focal lesions. The spleen shows normal size and attenuation. The adrenal glands are normal. The kidneys are normal with a subcentimeter hypodensity in the lower pole of the right kidney likely representing a cyst. The appendix is dilated to 1 cm, fluid filled with hyperemic mildly thickened wall, and mild periappendiceal fat stranding. No evidence of drainable fluid collection or perforation. Scattered prominent mesenteric lymph nodes in the right lower quadrant likely reactive. There is no evidence of retroperitoneal lymphadenopathy, abdominal aortic aneurysm, or significant lesions in bones and soft tissues.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

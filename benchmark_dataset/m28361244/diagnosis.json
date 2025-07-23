@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "necrotizing pancreatitis",
+        "differential_diagnosis": "acute respiratory distress syndrome, ventilator associated pneumonia, clostridium difficile colitis, H. pylori gastritis, mild dementia",
+        "diagnostic_reasoning": "The patient presented with severe left upper quadrant and back pain, nausea, and vomiting. Lab results indicated a significantly elevated lipase level (5470), which suggests pancreatitis. Imaging indicated cholelithiasis and a cyst in the pancreas without evidence of cholecystitis, supporting the diagnosis of necrotizing pancreatitis. History of abdominal pain attributed to H. pylori was noted, but the current presentation was markedly more severe."
+    }
+}

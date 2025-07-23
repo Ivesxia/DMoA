@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "71 bpm",
+                "blood_pressure": "154/74 mmHg",
+                "respiratory_rate": "18 breaths/minute",
+                "oxygen_saturation": "95% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and oriented x3, conversant",
+                "HEENT": "Extraocular movements intact, mucous membranes moist, no scleral icterus",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "No distress",
+                "abdominal": "Soft, non-distended, mildly tender to palpation in the lower abdomen, no rebound or guarding",
+                "extremities": "Warm, well-perfused, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

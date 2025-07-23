@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdomen Radiograph (Supine & Erect)",
+            "date": "Not specified",
+            "findings": "No abnormally dilated loops of large or small bowel; multiple air-filled loops of bowel are noted; no free intraperitoneal air; spinal fusion hardware projects over the lumbar spine; no unexplained soft tissue calcifications or radiopaque foreign bodies.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

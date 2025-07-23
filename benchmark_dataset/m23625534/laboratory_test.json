@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "lesion": "small hyperechoic lesion in the left lobe of the liver measuring 9 mm in diameter, consistent with a hemangioma",
+                    "appearance": "otherwise homogeneous and normal"
+                },
+                "portal_vein": {
+                    "assessment": "Doppler assessment shows patency and hepatopetal flow"
+                },
+                "ascites": "no evidence",
+                "bile_ducts": {
+                    "biliary_dilatation": "no evidence",
+                    "CBD_measurement": "3 mm"
+                },
+                "gallbladder": {
+                    "gallstones": "present",
+                    "distension": "somewhat distended"
+                },
+                "pancreas": "the tail of the pancreas is not well visualized, but the visualized portions are unremarkable",
+                "kidneys": {
+                    "right_kidney": "limited views are unremarkable"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for creatinine",
+            "date": "Not specified",
+            "findings": {
+                "baseline": "1.53-2.07 mmol/L",
+                "current": "1.4 mmol/L"
+            },
+            "changes_over_time": "Decreased from a baseline range of 1.53-2.07 mmol/L to 1.4 mmol/L"
+        },
+        {
+            "procedure_name": "Bacterial culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

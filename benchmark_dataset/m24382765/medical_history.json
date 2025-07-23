@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right sided abdominal pain",
+        "history_of_present_illness": "Pain has been constant for 4 days, gradually increasing in intensity. Patient denies fever or chills, associated with nausea but no vomiting. Tried to self induce vomiting on the first day. Normal bowel movement today, positive gas.",
+        "past_medical_history": "IDDM, HTN",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

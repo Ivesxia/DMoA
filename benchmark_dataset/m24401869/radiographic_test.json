@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver demonstrates normal echogenicity with no focal lesions. The portal vein is patent with normal hepatopetal flow. There is no intra- or extra-hepatic biliary dilatation. The common bile duct measures approximately 5 mm. The gallbladder is mildly distended with gallbladder wall edema. There are gallstones present and a positive sonographic Murphy sign. There is no pericholecystic fluid. There is a Phrygian cap with possible adherent gallstones or ring-down artifact from adenomyomatosis in the fundus. There is no free fluid within the abdomen. The visualized aorta and IVC are unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

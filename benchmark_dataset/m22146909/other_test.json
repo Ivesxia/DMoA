@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Focused abdominal exam",
+            "date": "Not specified",
+            "findings": "Soft, nondistended abdomen; tenderness to palpation in RLQ at McBurney's point; voluntary guarding in RLQ; positive Rosving's sign; positive psoas sign; no rebound tenderness; no palpable masses.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen & Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Dilated appendix measuring up to 13 mm containing an appendicolith, fluid-filled with surrounding inflammatory stranding; no intraperitoneal free fluid or free air; normal liver, spleen, adrenals, pancreas, gallbladder; normal kidneys; normal aorta; no retroperitoneal lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

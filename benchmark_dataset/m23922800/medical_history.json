@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric pain",
+        "history_of_present_illness": "The pain began the evening prior to admission after eating a full meal, with the patient experiencing nausea and vomiting. The pain was sharp and severe without any radiation. Mild lightheadedness occurred upon standing. Symptoms have not previously included gall bladder or pancreas issues.",
+        "past_medical_history": "1. Chronic myeloid leukemia (CML) on Gleevec\n2. Ischemic cardiomyopathy with an ejection fraction (EF) of 35%\n3. Type II diabetes, diet controlled\n4. Atrial fibrillation/atrial flutter with a history of wide complex tachycardia\n5. Chronic obstructive pulmonary disease (COPD)\n6. Hypertension\n7. Hyperlipidemia\n8. Mesenteric ischemia\n9. Renal insufficiency\n10. Osteoporosis\n11. Gout\n12. Hypothyroidism\n13. Depression\n14. Eczema/psoriasis\n15. Gastroesophageal reflux disease (GERD)",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

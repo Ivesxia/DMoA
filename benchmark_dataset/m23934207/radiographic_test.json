@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated and fluid-filled with wall thickening and a distal appendicolith, compatible with perforation. There is a significant amount of fat stranding and nonorganized fluid surrounding the appendiceal tip and extending within the right pericolic gutter from the inferior liver towards the pelvis. There is a small hiatal hernia. The left kidney has a subcentimeter hypodensity likely representing a cyst. The urinary bladder and distal ureters are unremarkable. There is a small amount of nonhemorrhagic free fluid within the pelvis. No focal lesions in the liver, pancreas, spleen, adrenals, or kidneys. No evidence of pneumoperitoneum. Mild atherosclerotic disease noted. Grade 1 anterolisthesis of L4 on L5, no acute fractures.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

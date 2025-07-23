@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute Pancreatitis",
+        "differential_diagnosis": "Alcoholic Hepatitis, Cholangitis, Multifocal pneumonia, Renal failure requiring hemodialysis, Drug fever",
+        "diagnostic_reasoning": "The patient presented with elevated liver enzymes, leukocytosis, jaundice, and abdominal pain, alongside significant lab findings including a notably elevated lipase level of 202, indicative of pancreatitis. The imaging studies showed changes consistent with hepatic issues but no significant findings indicative of other diagnoses."
+    }
+}

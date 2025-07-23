@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The lung bases are clear. There is no pleural effusion. The heart is normal in size. The liver demonstrates no focal lesion. The gallbladder, spleen, pancreas, adrenal glands, and kidneys appear unremarkable. The small and large bowel loops are normal in caliber. There is normal contrast progression distally to the colon. There is diffuse inflammation of the appendix and mural hyperemia with subjacent fat stranding, with the appendix measuring up to 7 mm in diameter, consistent with appendicitis. There is no free air or periappendiceal abscess. There is no intra-abdominal lymphadenopathy. The bladder, prostate, and rectum appear unremarkable. There is no free fluid within the pelvis. There is no inguinal or pelvic sidewall lymphadenopathy. Osseous structures are intact.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

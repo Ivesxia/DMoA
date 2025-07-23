@@ -1,0 +1,19 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "Admission": {
+                    "General": "Patient is lying on bed motionless and complaining of pain. Prefers to have knees flexed.",
+                    "HEENT": "No scleral icterus, mucous membranes dry.",
+                    "Cardiovascular": "RRR, No M/G/R appreciated.",
+                    "Pulmonary": "Clear to auscultation b/l, no wheezes or rhonchi.",
+                    "Abdomen": "Hypoactive bowel sounds throughout. Tender to palpation, not percussion on RUQ, epigastrium, and LUQ. Voluntary guarding on same distribution. Murphy's sign positive. No rebound tenderness or involuntary guarding. Negative psoas and obturator test. No palpable masses.",
+                    "Extremities": "No edema, warm and well perfused"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

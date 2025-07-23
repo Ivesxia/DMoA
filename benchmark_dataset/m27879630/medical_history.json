@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "One day of abdominal pain that worsened this morning, accompanied by nausea and vomiting.",
+        "history_of_present_illness": "Symptoms began one day prior to admission, worsening in intensity this morning. Abdominal pain started in the upper abdomen and later migrated to the right lower quadrant. The patient is passing flatus and had a bowel movement yesterday.",
+        "past_medical_history": "History of hypertension; ex-smoker with possible early COPD; no prior abdominal surgeries.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

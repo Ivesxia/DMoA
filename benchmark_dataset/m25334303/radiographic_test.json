@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Trace right pleural effusion and dependent right lower lobe atelectasis. Wedge-shaped area of relative ___ in the right hepatic lobe, segment VII, likely a result of transient hepatic attenuation difference. Large 9.7 cm simple cyst in the left hepatic lobe, unchanged from prior. Multiple loops of the small bowel appear distended and fluid filled without abrupt caliber change. New 8.5 x 7.4 x 5.4 cm fluid collection in the cul-de-sac with peritoneal enhancement.",
+            "changes_over_time": "Large 9.7 cm simple cyst in the left hepatic lobe, unchanged from prior. Other liver hypodensities, unchanged. CBD mildly prominent but unchanged from prior. Fibroid uterus and bilateral adnexa unchanged."
+        }
+    ]
+}

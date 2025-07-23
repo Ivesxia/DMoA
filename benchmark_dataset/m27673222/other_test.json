@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Sludge and multiple gallstones within the gallbladder; gallbladder not fully distended; gallbladder wall is thin; no evidence of focal lesions or textural abnormality in the liver; no evidence of intrahepatic or extrahepatic biliary dilatation; unremarkable pancreas; normal spleen size; normal kidney sizes; normal caliber aorta; normal visualized portions of the inferior vena cava; patent main portal vein with normal hepatopetal flow; no ascites.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic cholecystectomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Values (lab test)",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "blood_pressure": "130/85 mmHg",
+                "heart_rate": "110 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "95% on RA"
+            },
+            "relevant_findings": {
+                "general": "Elderly female sitting up in bed, appears tired.",
+                "HEENT": "Hyperpigmentation noted and dry mucous membranes, jugular venous pressure visible sitting at 90 degrees.",
+                "cardiovascular": "Irregularly irregular heart rhythm, mildly tachycardic, grade 3 systolic ejection murmur with diastolic component.",
+                "respiratory": "Moving air well bilaterally, no wheezes or rales appreciated currently.",
+                "abdominal": "Soft, mildly distended, obese, non-tender to palpation, bowel sounds present.",
+                "genitourinary": "No Foley catheter.",
+                "extremities": "2+ pitting edema at ankles bilaterally.",
+                "dermatological": "Diffuse purpura, bruising.",
+                "psychological": "Alert, normal affect, endorses feeling down."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

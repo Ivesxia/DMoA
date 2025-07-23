@@ -1,0 +1,10 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinary Filtration",
+            "date": "Not specified",
+            "findings": "< 10,000 CFU/mL (reference range: 25.0 - 36.5)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

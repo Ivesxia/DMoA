@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with acute abdominal pain, worsening over two days, localized primarily around the umbilicus and migrating to the right lower quadrant. Physical examination revealed tenderness at McBurney's point with involuntary guarding. A CT scan of the abdomen and pelvis showed an enlarged appendix with hyperemic walls and fat stranding, indicating appendicitis."
+    }
+}

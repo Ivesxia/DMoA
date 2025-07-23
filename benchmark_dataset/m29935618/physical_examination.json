@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2 °F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "122/81 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "HEENT": "Normocephalic, atraumatic, Pupils equal, round and reactive to light, Extraocular muscles intact, Oropharynx within normal limits",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm, Normal first and second heart sounds",
+                "abdominal": "Soft, Nondistended, Tender to palpation at McBurney's point",
+                "GU/Flank": "No costovertebral angle tenderness",
+                "extremities/back": "No cyanosis, clubbing or edema",
+                "skin": "No rash, Warm and dry",
+                "neurologic": "Speech fluent",
+                "psych": "Normal mood, Normal mentation",
+                "additional": "No petechiae"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.3°F",
+                "heart_rate": "64 bpm",
+                "blood_pressure": "126/77 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "o2_saturation": "100%"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "heent": "Normocephalic, atraumatic",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm",
+                "abdominal": "Soft, RUQ tenderness to palpation, no lower quadrant tenderness",
+                "pelvic": "Unremarkable per resident exam",
+                "rectal": "Heme Negative",
+                "skin": "No rash",
+                "neuro": "Speech fluent"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

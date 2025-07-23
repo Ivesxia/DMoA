@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5 F",
+                "heart_rate": "70 bpm",
+                "blood_pressure": "146/80 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "94% on RA"
+            },
+            "relevant_findings": {
+                "general": "well-nourished woman with flat affect and slightly slurred speech in no acute distress",
+                "HEENT": "NCAT, no scleral icterus",
+                "abdominal": "soft, not distended, tender to palpation in the RUQ, positive ___ sign",
+                "extremities": "WWP, no c/c/e"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

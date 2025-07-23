@@ -1,0 +1,50 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.6°F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "112/72 mmHg",
+                "respiratory_rate": "19 breaths/min",
+                "oxygen_saturation": "98%",
+                "weight": "206.8 lbs",
+                "BMI": "31.9 kg/m2"
+            },
+            "relevant_findings": {
+                "general": "Pleasant, no acute distress",
+                "HEENT": "PERRL, EOMI. OP-clear. MM dry",
+                "neck": "Supple, no cervical adenopathy",
+                "pulmonary": "Lungs clear to auscultation bilaterally without wheezes, rales, rhonchi",
+                "cardiovascular": "Regular rate S1 S2 no m/r/g",
+                "abdominal": "+bowel sounds, +TTP in RUQ, no rebound, no organomegaly or masses",
+                "extremities": "Warm, well perfused, no edema, 2+ distal pulses",
+                "neurological": "Alert, appropriate. CN grossly intact, full strength, sensation intact to light touch",
+                "skin": "Mild roughness/granularity on upper back, no erythema or rash visible"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "102.8°F",
+                "heart_rate": "74 bpm",
+                "blood_pressure": "116/70 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "Pleasant, no acute distress",
+                "HEENT": "PERRL, EOMI. OP-clear. MM dry",
+                "neck": "Supple, no cervical adenopathy",
+                "pulmonary": "Lungs clear to auscultation bilaterally without wheezes, rales, rhonchi",
+                "cardiovascular": "Regular rate S1 S2 no m/r/g",
+                "abdominal": "Soft, +bowel sounds, +TTP in RUQ, no rebound, no organomegaly or masses",
+                "extremities": "Warm, well perfused, no edema, 2+ distal pulses",
+                "neurological": "Alert, appropriate. CN grossly intact, full strength, sensation intact to light touch",
+                "skin": "Mild roughness/granularity on upper back, no erythema or rash visible"
+            },
+            "changes_over_time": "Increased temperature from 100.6°F to 102.8°F; other findings remain consistent."
+        }
+    ]
+}

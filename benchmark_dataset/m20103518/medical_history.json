@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Diffuse, sharp abdominal pain for the last 12 hours.",
+        "history_of_present_illness": "Pain began suddenly at 12pm on ___ and is rated ___ in severity. It is diffuse and worse in the lower quadrants of the abdomen. The patient also reports subjective fever and chills.",
+        "past_medical_history": "Ulcerative Colitis, Gastritis, Diverticulosis, Uric Acid Kidney Stone.",
+        "family_history": "No family history of IBD, early MI, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Blood Test",
+            "date": "Not specified",
+            "findings": "8.9 mg/dL, within normal range (8.4 - 10.3)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen & Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Appendix dilated up to 9 mm, somewhat hyperemic, surrounding inflammation noted. Previous measurement of appendix was 5 mm.",
+            "changes_over_time": "Appendix increased in size from 5 mm to 9 mm"
+        }
+    ]
+}

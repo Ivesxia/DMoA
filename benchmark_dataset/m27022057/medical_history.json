@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Generalized abdominal pain with associated nausea/vomiting and subjective fevers.",
+        "history_of_present_illness": "Patient felt gassy and unwell 4 days ago. Pain started yesterday morning, described as vague and diffuse, with nausea and emesis x2. Subjective fevers noted this morning. Last bowel movement was normal this AM.",
+        "past_medical_history": "Benign pancreatic cyst, Lap Cholecystectomy, Open Distal Pancreatectomy & splenectomy for pancreatic cysts.",
+        "family_history": "Lung cancer in mother.",
+        "social_history": "Personal history of tobacco use."
+    }
+}

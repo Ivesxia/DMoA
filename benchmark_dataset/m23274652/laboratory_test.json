@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "CT examination showed minimal bibasilar dependent atelectasis, 1.4 cm hypodense lesion in hepatic segment 4A, numerous gallstones in the gallbladder, normal pancreas, kidneys had 1.8 cm cyst in the right kidney and 1.2 cm cyst in the left kidney, enlarged prostate gland, and 9 mm preaortic lymph node.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

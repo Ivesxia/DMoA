@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": "Normal echogenicity of the liver, no focal hepatic lesions, moderate intrahepatic biliary dilatation (main hepatic duct about 5 mm), extrahepatic ducts dilated (mid common bile duct up to 1.4 cm), multiple gallstones in the gallbladder with moderate wall edema and thickening, normal pancreatic duct size (3 mm), mild right-sided hydronephrosis, significantly dilated urinary bladder.",
+            "changes_over_time": "The intra- and extra-hepatic biliary dilatation is new since ___. The gallbladder is only slightly distended, similar to ___."
+        }
+    ]
+}

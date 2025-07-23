@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Right-sided PICC line is in adequate position at the cavoatrial junction; low lung volumes; feeding tube and right jugular line are in adequate position; no pneumothorax; small pleural effusions, if any.",
+            "changes_over_time": "Remaining of the exam is unchanged."
+        }
+    ]
+}

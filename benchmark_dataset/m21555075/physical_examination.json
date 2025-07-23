@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.3°F",
+                "heart_rate": "105 bpm",
+                "blood_pressure": "115/74 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, well-nourished",
+                "HEENT": "Normocephalic/atraumatic, sclerae non-icteric, moist mucous membranes",
+                "lungs": "Clear to auscultation bilaterally, no crackles or wheezes",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, rubs, or gallops",
+                "abdomen": "Bowel sounds positive, tender to palpation in the right upper quadrant, gallbladder palpable, non-tender",
+                "extremities": "Warm, no edema, 2+ dorsalis pedis pulses",
+                "neurological": "Pupils equal, round, reactive to light, extraocular movements intact; decreased facial sensation and droop on right side, decreased hearing in right ear, intact other cranial nerves, decreased sensation to light touch on left anterior leg"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

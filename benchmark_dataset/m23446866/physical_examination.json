@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2°F",
+                "heart_rate": "95 bpm",
+                "blood_pressure": "111/75 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing, in no acute distress",
+                "HEENT": "Anicteric sclerae, moist mucous membranes, no cervical lymphadenopathy",
+                "pulmonary": "Clear to auscultation bilaterally",
+                "cardiovascular": "Regular rate and rhythm, normal heart sounds, no murmurs, rubs or gallops",
+                "abdominal": "Soft, non-distended, no rebound or guarding, normal bowel sounds, significantly tender to palpation in left lower quadrant, right lower quadrant, and suprapubic area, milder tenderness in right upper quadrant",
+                "extremities": "Warm, well-perfused, no cyanosis, no peripheral edema",
+                "neurological": "Alert and oriented to person, place, and time"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

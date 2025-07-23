@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver demonstrates normal echotexture. An echogenic and shadowing granuloma is seen adjacent to the middle and left hepatic veins, likely from remote granulomatous disease. No intrahepatic or extrahepatic biliary duct dilatation. The common bile duct measures 6 mm. No stone is seen within the common bile duct although the entirety of the duct is not visualized with ultrasound. The gallbladder appears full measuring up to 3.6 cm in width. A number of small gallstones are seen within the gallbladder. There is a suggestion of gallbladder wall edema. The main portal vein demonstrates patency and hepatopetal flow. There is no ascites in the upper abdomen. The pancreatic body is unremarkable without focal lesions or ductal dilatation. Pancreatic head and tail are not visualized secondary to overlying bowel gas.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

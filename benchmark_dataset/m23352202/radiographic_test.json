@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Portable abdomen",
+            "date": "Not specified",
+            "findings": "A single supine view of the abdomen demonstrates NG tube terminating in the stomach. There is no evidence of dilated bowel loops or air-fluid levels to suggest obstruction. There is no free air or pneumatosis. Visualized osseous structures are intact.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

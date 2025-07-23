@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "PICC placement",
+            "date": "Not specified",
+            "findings": "Right-sided PICC which terminates in the caval atrial junction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Chest",
+            "date": "Not specified",
+            "findings": "Stable multichamber cardiomegaly with coronary artery calcifications; stable enlargement of the main pulmonary artery suggestive of pulmonary artery hypertension; stable left greater than right lower lobe airspace disease with trace pleural effusions.",
+            "changes_over_time": "Stable masslike enlargement of the left thyroid lobe increased in size from 3.8 x 4.2 x 3.5 cm to 5.4 x 3.7 x 6.4 cm compared to prior CT."
+        }
+    ]
+}

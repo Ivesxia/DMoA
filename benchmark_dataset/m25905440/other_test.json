@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT abdomen/pelvis with contrast",
+            "date": "Not specified",
+            "findings": "The appendix is fluid-filled and dilated with a maximum diameter of 1.0 cm, mild wall thickening, wall hyperemia, adjacent fat stranding, trace adjacent free fluid. There are small linear appendicoliths. No rim enhancing fluid collection. Other abdominal and pelvic organs are unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Physical examination",
+            "date": "Not specified",
+            "findings": "Patient exhibits soft abdominal with RLQ pain on palpation, voluntary guarding, no rebound tenderness, and overall comfortable condition. Vital signs show mild tachycardia.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

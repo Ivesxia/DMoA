@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder is distended, with wall thickening measuring up to 9 mm, and gallstones are seen within the gallbladder. A positive sonographic sign is elicited. No significant pericholecystic fluid is seen, and the common bile duct is normal in size measuring 3 mm. The visualized liver is normal in echogenicity. Limited views of the kidneys demonstrate no hydronephrosis. The pancreas is normal in appearance.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

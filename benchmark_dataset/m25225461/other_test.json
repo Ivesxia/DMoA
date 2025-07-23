@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "US",
+            "date": "Not specified",
+            "findings": "Multiple gallstones observed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS W & W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Bibasilar atelectasis, small left pleural effusion, diffuse enlargement of the pancreas with marked peripancreatic fat stranding, mild thickening of the common bile duct wall, numerous calculi in both kidneys, and moderate amount of free fluid in the pelvis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Mild thickening of the common bile duct wall with associated hyperenhancement likely related to recent ERCP.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic Cholecystectomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

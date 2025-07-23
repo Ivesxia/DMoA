@@ -1,0 +1,32 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites. A simple appearing 1.1 cm perihepatic cyst is noted.",
+                "bile_ducts": "There is no intrahepatic biliary dilation.",
+                "chd": "4 mm",
+                "gallbladder": "The gallbladder contains stones. A small amount of gallbladder wall edema is present, however the gallbladder is contracted. There is no wall discontinuity or pericholecystic collection to suggest the gallbladder has perforated.",
+                "pancreas": "The imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation.",
+                "spleen": "Normal echogenicity. Spleen length: 9.0 cm.",
+                "kidneys": "Limited views of the right kidney shows no hydronephrosis.",
+                "retroperitoneum": "The visualized portions of aorta and IVC are within normal limits."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test (Unspecified)",
+            "date": "Not specified",
+            "findings": {
+                "valuestr": "3.5 mg/dL",
+                "ref_range": {
+                    "lower": 2.7,
+                    "upper": 4.5
+                },
+                "microbiological_findings": "NO GROWTH."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

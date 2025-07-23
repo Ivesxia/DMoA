@@ -1,0 +1,50 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9°F",
+                "blood_pressure": "117/62 mmHg",
+                "heart_rate": "76 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented to name, place and situation. Fatigued appearing but comfortable, no acute signs of distress.",
+                "head_neck": "NCAT, Pupils equal and reactive, sclerae non-icteric, oropharynx clear, moist mucous membranes. Supple neck, no jugular venous distension, no thyromegaly. No cervical, supraclavicular or axillary lymphadenopathy.",
+                "cardiovascular": "S1S2, regular rate and rhythm, no murmurs, rubs or gallops.",
+                "respiratory": "Good air movement bilaterally, no rhonchi or wheezing.",
+                "abdominal": "Soft, non-tender, non-distended, positive bowel sounds.",
+                "extremities": "No lower leg edema, no clubbing or cyanosis.",
+                "dermatological": "No active rash.",
+                "neurological": "Non-focal.",
+                "psychological": "Appropriate and calm."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "blood_pressure": "138/66 mmHg",
+                "heart_rate": "85 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Initial vital signs showed a slightly lower heart rate and blood pressure with improved oxygen saturation after transfer."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "blood_pressure": "109/65 mmHg",
+                "heart_rate": "82 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": "Patient reports improved nausea with no abdominal pain.",
+            "changes_over_time": "Nausea improved over time from initial presentation."
+        }
+    ]
+}

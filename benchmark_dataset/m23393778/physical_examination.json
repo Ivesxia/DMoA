@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.4°F",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "112/68 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": {
+                "general": "Awake, alert, no acute distress",
+                "HEENT": "EOMI, PERRL, anicteric sclera, moist mucous membranes",
+                "neck": "Supple, no JVD or bruits",
+                "lungs": "Mild bibasilar rales, no wheeze",
+                "heart": "Regular rate and rhythm, normal S1 S2, no murmurs/rubs/gallops",
+                "abdomen": "Slightly obese, positive bowel sounds, soft, non-tender, non-distended, slightly tympanitic to percussion",
+                "extremities": "Warm, well-perfused, 2+ distal pulses, no edema",
+                "skin": "No rashes",
+                "neurological": "Awake and alert, cranial nerves II-XII intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

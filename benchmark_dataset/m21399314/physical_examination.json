@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "102.1°F",
+                "heart_rate": "67 bpm",
+                "blood_pressure": "145/42 mmHg",
+                "respiratory_rate": "24 breaths/min",
+                "oxygen_saturation": "95% on room air"
+            },
+            "relevant_findings": "Afebrile, vital signs stable, heart rate ranged from 70-130 bpm prior to examination.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Heart size is at the upper limits of normal. Bibasilar opacities secondary to effusion atelectasis are present.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

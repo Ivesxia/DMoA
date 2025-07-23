@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.5°F",
+                "blood_pressure": "133/87 mmHg",
+                "heart_rate": "74 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, NAD (no acute distress)",
+                "cardiovascular": "RRR (regular rate and rhythm), no murmurs, gallops, or rubs",
+                "respiratory": "CTA bilaterally, normal effort",
+                "abdominal": "Abdomen soft, appropriately tender to palpation, surgical sites clean/dry/intact, no rebound, no guarding, non-distended",
+                "extremities": "No edema, warm, well-perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

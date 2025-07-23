@@ -1,0 +1,49 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Temperature": "98.4°F",
+                "Blood Pressure": "158/70 mmHg",
+                "Heart Rate": "119 bpm",
+                "Respiratory Rate": "18 breaths/min",
+                "Oxygen Saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "General": "Alert and oriented x3, no acute distress.",
+                "HEENT": "Pupils equal, round, reactive to light and accommodation. Mucous membranes moist. No lymphadenopathy. No jugular venous distention. Neck supple.",
+                "Cardiovascular": "Tachycardic, regular rate and rhythm. S1/S2 normal. No murmurs, gallops, or rubs.",
+                "Pulmonary": "No dullness to percussion, clear to auscultation bilaterally. No crackles or wheezes.",
+                "Abdomen": "Soft, bowel sounds present. Diffusely tender to palpation, no rebound or guarding. No hepatosplenomegaly. Negative Murphy's sign. No inguinal lymphadenopathy.",
+                "Extremities": "Warm, well-perfused. No edema. Dorsalis pedis and posterior tibial pulses 2+.",
+                "Skin": "No rashes or bruising.",
+                "Neurological/Psychiatric": "Cranial nerves II-XII intact. Full strength in upper/lower extremities. Deep tendon reflexes 2+."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Temperature": "101.4°F",
+                "Heart Rate": "110 bpm",
+                "Blood Pressure": "153/55 mmHg",
+                "Respiratory Rate": "18 breaths/min",
+                "Oxygen Saturation": "97% RA"
+            },
+            "relevant_findings": "Lactate 3.7, Sodium 131, ALT 55, AST 90. CBC significant for WBC 4.7, Hematocrit 29.6, ANC 4260. Urinalysis with 1 WBC, few bacteria, glucose >1000.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Temperature": "101.3°F",
+                "Heart Rate": "92 bpm",
+                "Blood Pressure": "146/83 mmHg",
+                "Respiratory Rate": "16 breaths/min",
+                "Oxygen Saturation": "100% RA"
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

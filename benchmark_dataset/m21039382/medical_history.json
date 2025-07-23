@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right lower quadrant pain for the last 3 days with increasing intensity in the last day.",
+        "history_of_present_illness": "Symptoms began 3 days ago, with intensity increasing over the last day. The patient denies nausea, vomiting, fevers, or chills.",
+        "past_medical_history": "H pylori, chronic epididymitis, GERD.",
+        "family_history": "Non-contributory - no colon cancer in the family.",
+        "social_history": "Not specified."
+    }
+}

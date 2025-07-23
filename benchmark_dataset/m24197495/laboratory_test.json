@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level of 2632, which is outside normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Liver is slightly nodular in contour consistent with cirrhosis. Mild drop in hepatic signal consistent with steatosis. Few small T2 hyperintense non-enhancing cystic lesions in liver, largest measuring 10 mm consistent with biliary hamartomas. Gallbladder distended with multiple gallstones. Pancreas mildly atrophic but normal signal intensity. Moderate right and small left pleural effusions.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "VRE test",
+            "date": "Not specified",
+            "findings": "No VRE isolated.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

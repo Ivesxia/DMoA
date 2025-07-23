@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2°F",
+                "heart_rate": "95 bpm",
+                "blood_pressure": "135/80 mmHg",
+                "respiratory_rate": "12 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "NAD, comfortable on stretcher",
+                "cardiovascular": "RRR",
+                "respiratory": "CTA B S",
+                "abdominal": "ND, exquisitely tender through the bilateral lower quadrants, with voluntary guarding, upper abdomen is benign",
+                "rectal_examination": "normal, no gross or occult blood"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

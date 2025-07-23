@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Small bilateral pleural effusions, multiple diffuse T2 hyperintense lesions in the liver consistent with cysts or hamartomas, 2.3 cm area of arterial hyperenhancement in segment 4B, mild intrahepatic biliary tree dilatation, gallbladder distension with marked wall edema and multiple gallstones, small amounts of free fluid around gallbladder and liver.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Admission Physical Exam",
+            "date": "Not specified",
+            "findings": "Mild tenderness in epigastrium, RUQ non-tender, vitals T 98.1, HR 62, BP 132/70, RR 11, 98% RA.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

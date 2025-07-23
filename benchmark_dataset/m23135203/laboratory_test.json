@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Several large gallstones within the gallbladder. The largest stone in the gallbladder head measures up to 3 cm. Gallbladder wall thickening up to 8 mm. Focal stripe of gallbladder wall edema and a thin layer of pericholecystic edema. No extrahepatic biliary dilatation. Common bile duct measures 6 mm. Main portal vein is patent with hepatopetal flow. Limited views of the kidney show a 4 cm anechoic simple cyst.",
+            "changes_over_time": "Gallbladder wall thickening up to 8 mm is new since the last evaluation."
+        },
+        {
+            "procedure_name": "Laboratory examination (no specific name provided)",
+            "date": "Not specified",
+            "findings": "0.6 mg/dL, NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

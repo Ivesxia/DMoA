@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.2°F",
+                "heart_rate": "76 bpm",
+                "blood_pressure": "162/67 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "O2_saturation": "97%"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "HEENT": "Normocephalic, atraumatic",
+                "oropharynx": "Within normal limits",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular rate and rhythm",
+                "abdominal": "Soft, nondistended, mild tenderness"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

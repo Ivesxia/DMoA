@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Troponin",
+            "date": "Not specified",
+            "findings": "Troponin elevation to 0.55 pg/mL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bilirubin",
+            "date": "Not specified",
+            "findings": "Rising bilirubin to >7.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Innumerable filling defects throughout the common duct, moderate diffuse dilatation of the common duct measuring up to 1.5 cm, placement of a plastic common bile duct stent with residual filling defects adjacent to the stent consistent with retained stones.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CBC (Anemia)",
+            "date": "Not specified",
+            "findings": "Anemic to an unclear nadir.",
+            "changes_over_time": "Received 2 units of pRBC."
+        }
+    ]
+}

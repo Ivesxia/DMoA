@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver demonstrates homogenous attenuation throughout with no focal lesions. Moderate intra and extrahepatic biliary dilation, with the common bile duct measuring up to 12 mm. Noted bowel wall thickening with associated pericolonic stranding involving the sigmoid colon, concerning for acute diverticulitis, and a 1.2 cm hypodense fluid collection concerning for a small abscess.",
+            "changes_over_time": "There is moderate intra and extrahepatic biliary dilation, somewhat increased from a prior exam."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

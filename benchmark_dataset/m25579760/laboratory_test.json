@@ -1,0 +1,31 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "APTIMA COMBO 2 Assay for Neisseria gonorrhoeae",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria gonorrhoeae",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pelvis Non-Obstetric Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "uterus": {
+                    "dimensions": "6.0 x 2.0 x 4.1 cm",
+                    "endometrium": "3 mm homogeneous"
+                },
+                "right_ovary": {
+                    "dimensions": "3.1 x 2.9 cm",
+                    "follicles": "multiple, largest 1.4 cm"
+                },
+                "left_ovary": {
+                    "dimensions": "3.3 x 2.5 x 2.1 cm",
+                    "follicles": "multiple"
+                },
+                "appendix": "Not clearly seen",
+                "free_fluid": "No free fluid seen"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

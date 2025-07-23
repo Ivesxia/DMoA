@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.8°F",
+                "heart_rate": "131 bpm",
+                "blood_pressure": "125/67 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "Overall ill appearing with rigors during physical exam but no acute distress.",
+                "HEENT": "NC/AT, EOMI, no scleral icterus",
+                "respiratory": "Breathing comfortably on room air",
+                "cardiovascular": "Regular rhythm, tachycardic",
+                "abdomen": "Soft and non-distended, mild tenderness to deep palpation in the RLQ without rebound or guarding",
+                "extremities": "Warm, well-perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

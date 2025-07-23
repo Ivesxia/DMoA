@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient experienced abdominal pain since yesterday, initially thought to be normal gastritis. He was helped with a GI cocktail but then noted new lower abdominal pain. He also endorses nausea and some chills.",
+        "past_medical_history": "History of gastritis endoscopy proven, H. pylori positive s/p triple therapy.",
+        "family_history": "Father with coronary artery disease; family history of hypertension and grandfather with liver cancer.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Endoscopic sphincterotomy and papillotomy",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": "unremarkable in appearance, no focal liver lesion identified",
+                "biliary_dilatation": "none, common duct measures 0.5 cm",
+                "gallbladder": "several small shadowing gallstones, largest measures 5 mm, no gallbladder wall edema or pericholecystic fluid",
+                "pancreas": "obscured from view by overlying bowel gas",
+                "spleen": "unremarkable, measures 10.9 cm",
+                "kidneys": "no hydronephrosis",
+                "ascites": "none in upper abdomen",
+                "IVC": "visualized portion is unremarkable"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

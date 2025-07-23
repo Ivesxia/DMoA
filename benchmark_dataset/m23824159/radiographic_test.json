@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "AP single view of the chest demonstrates poor inspirational effort with relatively high-positioned diaphragms. Otherwise, there is no cardiac enlargement, no pulmonary congestion or any acute parenchymal infiltrates and the lateral pleural sinuses are free.",
+            "changes_over_time": "No significant interval change that has occurred since the previous examination."
+        }
+    ]
+}

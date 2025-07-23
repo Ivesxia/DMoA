@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Glucose 1000, Ketones present.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Extensive periduodenal inflammation around the second and third part of the duodenum. Hemorrhagic material present within inflammatory debris/phlegmon. No pancreatic duct dilatation. Gallbladder contains sludge and sludge balls but no definite evidence of gallstones.",
+            "changes_over_time": "The duodenum was reportedly normal at recent EGD, indicating potential progression of inflammatory changes."
+        }
+    ]
+}

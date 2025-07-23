@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "pulse": "60 bpm",
+                "blood_pressure": "158/64 mmHg",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "92% on RA"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing elderly male in NAD.",
+                "HEENT": "Sclera are icteric.",
+                "neck": "Supple with no thyromegaly or lymphadenopathy.",
+                "chest": "Normal respirations and breathing comfortably on room air. Lungs with rales at bases bilaterally that improve with deep inspiration.",
+                "cardiovascular": "PMI normal size and not displaced. Regular rhythm. Normal S1, S2. III/VI HSM best heard at RUSB but heard throughout precordium. No diastolic murmur. JVP 6 cm. 2+ carotids.",
+                "abdomen": "Normal bowel sounds. Moderate tenderness in epigastric region. Tenderness on deep palpation of RUQ. Positive Murphy's sign.",
+                "skin": "Icteric. Fine erythematous rash on trunk and neck.",
+                "neurological": "Alert, oriented x1. Calmed and pleasant, attempts to answer questions but knows little history. CN II-XI intact."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Opacification of a mildly dilated common bile duct and intrahepatic ducts with relative smooth narrowing of the common hepatic duct; the cystic duct is not opacified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

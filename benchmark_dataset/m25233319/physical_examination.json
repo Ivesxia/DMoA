@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "well appearing, no acute distress, sitting upright in bed",
+                "HEENT": "no conjunctival injection, extraocular movements intact, anicteric, mucous membranes moist",
+                "neck": "supple",
+                "chest": "bilateral air exit, no wheezes, crackles, or rubs",
+                "heart": "normal S1, S2, regular rate, no murmurs, rubs, or gallops",
+                "abdomen": "bowel sounds present, soft, minimal epigastric tenderness to palpation, no guarding or rebound, non-distended",
+                "extremities": "no cyanosis, clubbing, or edema, pulses 2+",
+                "neurological": "face symmetric, speech fluent",
+                "psychological": "calm, cooperative",
+                "skin": "no apparent rash"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

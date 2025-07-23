@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient has a history of ulcerative colitis and was initially seen by ACS with a phlegmon/mass in the right lower quadrant. She returned to the ER with continuing abdominal pain that has worsened, noting it is identical to the pain that led her to the ER previously. Additionally, she experienced multiple episodes of bilious vomiting and coffee ground emesis, but denies hematochezia or melena. No fever, chills, or night sweats were reported.",
+        "past_medical_history": "Ulcerative colitis, Osteoporosis",
+        "family_history": "Mother died of pulmonary embolism at age unknown. No family history of early myocardial infarction, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.",
+        "social_history": "Tobacco use disorder"
+    }
+}

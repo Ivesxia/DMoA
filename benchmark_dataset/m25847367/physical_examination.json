@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9 °F",
+                "heart_rate": "98 bpm",
+                "blood_pressure": "125/74 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "constitutional": "In mild distress, appears uncomfortable",
+                "cardiopulmonary": "Regular rate and rhythm (RRR). Non-labored breathing on room air.",
+                "abdominal": "Midline supraumbilical incisional scar. Soft, non-distended, tender to palpation over right lower quadrant with rebound tenderness and guarding.",
+                "extremities": "Warm and well perfused. No edema.",
+                "neurologic": "Alert and oriented x 3. No deficits.",
+                "anorectal": "No lesions on inspection or digital rectal exam. Dark stools not grossly bloody but guaiac positive."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

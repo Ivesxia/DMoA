@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Tests (LFT's)",
+            "date": "Not specified",
+            "findings": "LFT's were found to be 645, 396, AP 244, Tbili 4.4.",
+            "changes_over_time": "Persistently elevated."
+        },
+        {
+            "procedure_name": "Abdominal Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder is distended with shadowing stones and sludge along with a 6 mm obstructing stone at the gallbladder neck/cystic duct. Common bile duct with greater dilatation of the proximal common bile duct, measuring 10 mm, and prominence of the common hepatic duct, measuring 4 mm.",
+            "changes_over_time": "Findings raise concern for stent malfunction."
+        },
+        {
+            "procedure_name": "Cytology Brushings",
+            "date": "Not specified",
+            "findings": "Negative for malignancy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "No MRSA Isolation",
+            "date": "Not specified",
+            "findings": "No MRSA isolated.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

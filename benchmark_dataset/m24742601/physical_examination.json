@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.0°F",
+                "heart_rate": "62 bpm",
+                "blood_pressure": "116/62 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "SpO2": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Pleasant lady in no acute distress, alert and oriented",
+                "HEENT": "No scleral icterus, moist mucous membranes",
+                "CV": "Regular rate and rhythm",
+                "pulmonary": "Clear to auscultation bilaterally",
+                "abdominal": "Soft, appropriately tender incisionally, non-distended",
+                "extremities": "Warm and well perfused, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

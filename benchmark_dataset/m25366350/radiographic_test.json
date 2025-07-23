@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Large distended gallbladder with multiple shadowing stones including one up to 1.7 cm lodged in the neck. Gallbladder wall edema is present with the gallbladder wall measuring up to 1.3 cm in areas. The portal vein is patent. Limited views of the liver are unremarkable. The common bile duct is not dilated measuring 6 mm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Thick-walled dilated gallbladder which was massively distended with multiple large stones.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Bibasilar atelectasis at the lung bases. Two heterogenously hypodense liver lesions, one in segment VII measuring 3.5 x 3.5 cm and second near confluence of the portal vein, measuring 1.8 x 1.8 cm; no evidence of intra- or extra-hepatic biliary duct dilatation. No free air or free fluid. Scattered diverticula in the colon with marked wall thickening and adjacent mild fat stranding of the sigmoid colon. A 4 x 3 cm hypodense lesion in the left adnexa; no pathologically enlarged lymph nodes in the pelvic or inguinal area. Severe degenerative changes in the thoracolumbar spine with a chronic compression deformity of L1.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

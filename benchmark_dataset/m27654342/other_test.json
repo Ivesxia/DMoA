@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is fluid-filled and dilated measuring up to 1.8 cm with adjacent fat stranding, consistent with appendicitis. Additionally, lung bases demonstrate dependent atelectasis, and there are prominent left periaortic lymph nodes likely reactive in etiology.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "ESCHERICHIA COLI",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

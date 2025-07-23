@@ -1,0 +1,25 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Mild dependent atelectasis bilaterally; no evidence of pleural or pericardial effusion.",
+                "abdomen": {
+                    "hepatobiliary": "Liver demonstrates homogenous attenuation with no focal lesions or biliary dilatation; gallbladder normal.",
+                    "pancreas": "Normal attenuation throughout; no focal lesions or ductal dilatation.",
+                    "spleen": "Normal size and attenuation; no focal lesions.",
+                    "adrenals": "Normal size and shape.",
+                    "urinary": "Normal symmetrical kidneys with no suspicious lesions; 3 mm left upper pole hypodensity not characterized.",
+                    "gastrointestinal": "Mild pericolonic fat stranding at the junction of distal descending and proximal sigmoid colon concerning for acute diverticulitis; severe diverticulosis of the sigmoid colon; circumferential wall thickening likely due to muscular hypertrophy.",
+                    "pelvis": "Mild free fluid in the pelvis.",
+                    "reproductive_organs": "Normal sized uterus; no adnexal abnormalities.",
+                    "lymph_nodes": "No lymphadenopathy.",
+                    "vascular": "No abdominal aortic aneurysm or atherosclerotic disease.",
+                    "bones_and_soft_tissues": "No evidence of worrisome osseous lesions or acute fracture; small umbilical hernia containing fat."
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

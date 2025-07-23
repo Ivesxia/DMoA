@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9 °F",
+                "heart_rate": "70 bpm",
+                "blood_pressure": "108/70 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "94% on room air"
+            },
+            "relevant_findings": {
+                "constitutional": "No acute distress, normal affect",
+                "neurological": "Alert and oriented to person, place, and time",
+                "cardiac": "Regular rate and rhythm, no murmurs/rubs/gallops, normal S1/S2",
+                "lungs": "Clear to auscultation, bilaterally",
+                "abdomen": "Soft, appropriate tenderness, non-distended",
+                "wounds": "Clean, dry, intact",
+                "extremities": "No clubbing, cyanosis or edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

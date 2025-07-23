@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The hepatic parenchyma appears mildly echogenic. The contour of the liver is smooth. There is no focal liver mass. Main portal vein is patent with hepatopetal flow. There is no ascites. No intrahepatic biliary dilation. The CBD measures 5 mm. Stones in the distended gallbladder with thickened wall. No pericholecystic fluid. Sonographic ___ sign was negative. Spleen normal echogenicity, measuring 11 cm. Limited views of the bilateral kidneys demonstrate no hydronephrosis or stones.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

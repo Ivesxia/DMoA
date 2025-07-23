@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Cloudy urine with few bacteria, positive nitrites, no WBC or leukesterase.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CLOSTRIDIUM DIFFICILE test",
+            "date": "Not specified",
+            "findings": "CLOSTRIDIUM DIFFICILE detected.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI of Head with and without contrast",
+            "date": "Not specified",
+            "findings": "Stable appearance of extra-axial enhancing mass abutting the posteroinferior aspect of the right temporal bone measuring 2 x 1.5 cm; stable en plaque meningiomas measuring 13 x 16 mm at the right frontal convexity; extensive periventricular and deep white matter high signal intensity consistent with chronic microvascular ischemia; encephalomalacia within the right cerebellum.",
+            "changes_over_time": "Stable appearance of lesions compared to previous imaging."
+        }
+    ]
+}

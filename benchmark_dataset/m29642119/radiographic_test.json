@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "New left-sided PICC line with the tip over the cavoatrial junction, no evidence of complications or pneumothorax. A small parenchymal opacity at the right lung base is constant and unchanged. No other parenchymal changes.",
+            "changes_over_time": "The small parenchymal opacity at the right lung base is constant and unchanged."
+        }
+    ]
+}

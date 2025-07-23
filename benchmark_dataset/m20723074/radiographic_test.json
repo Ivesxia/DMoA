@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic with focal fatty sparing near the gallbladder fossa. A focal hypoechoic lesion is seen in the left lobe of the liver near the dome, measuring 1.4 x 1.2 cm, with slightly heterogeneous internal echotexture and internal flow. No ascites; cholelithiasis without gallbladder wall thickening.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

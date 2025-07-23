@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Leukocytosis of 11.8 (mild), Platelets 148.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "AST 26, ALT 15, Tbili 0.6.",
+            "changes_over_time": "ALT was 15, AST was 19 previously."
+        },
+        {
+            "procedure_name": "Creatinine Test",
+            "date": "Not specified",
+            "findings": "Creatinine 0.3.",
+            "changes_over_time": "Creatinine was 0.4 previously."
+        },
+        {
+            "procedure_name": "Amylase Test",
+            "date": "Not specified",
+            "findings": "Amylase 56.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "Gallstones with sludge at the neck, moderate to severe hydronephrosis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

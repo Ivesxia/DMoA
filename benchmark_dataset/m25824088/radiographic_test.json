@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The pancreas demonstrates diffuse relative T1 hypointensity and indistinct margins, consistent with diffuse edema. Portions of the head and uncinate process of the pancreas show T1 hyperintensity with corresponding hypoenhancement, consistent with areas of necrosis. The pancreatic duct is not well seen due to diffuse edema. The gallbladder is mildly distended with multiple small stones but otherwise normal. There is diffuse fatty infiltration of the liver. No intra- or extra-hepatic biliary dilatation. The portal, hepatic, superior mesenteric, and splenic veins are patent. The hepatic arteries are also patent. A large ventral hernia is present with portions of the excluded stomach and loops of large and small bowel. The adrenal glands and spleen are normal. Small cysts in the upper pole of the right kidney. Small bilateral pleural effusions are present, new since the prior recent CT.",
+            "changes_over_time": "Small bilateral pleural effusions are present, new since the prior recent CT."
+        }
+    ]
+}

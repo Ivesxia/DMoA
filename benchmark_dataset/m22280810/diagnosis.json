@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with right lower quadrant pain, associated fever, and physical exam findings such as tenderness in the right lower quadrant, positive Rovsing's sign, and Psoas sign. CT imaging showed hyperemia and wall thickening of the appendix, consistent with acute appendicitis."
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Blood cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of the liver or gallbladder",
+            "date": "Not specified",
+            "findings": "Cholelithiasis, including gallstones in the gallbladder neck; no gallbladder wall edema or pericholecystic fluid seen. Mild intrahepatic biliary ductal dilatation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT C/A/P with contrast",
+            "date": "Not specified",
+            "findings": "Mild central intrahepatic biliary dilation and pericholecystic fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

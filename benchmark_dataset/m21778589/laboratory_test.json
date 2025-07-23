@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Diffuse dropout of liver signal on out of phase images compatible with hepatic steatosis (Fat fraction is 2%). Millimetric mildly T2 hyperintense lesion in segment 7 likely a hemangioma. Intra and extrahepatic bile ducts normal caliber. Small gallstone in gallbladder with small amount of pericholecystic fluid. Pancreas demonstrates homogeneous signal; pancreatic duct not dilated. Normal spleen size. Right adrenal gland unremarkable; 0.6 cm nodular thickening of the left adrenal gland likely benign. Millimetric T2 hyperintense lesion in upper pole of left kidney compatible with renal cyst; no hydronephrosis. Stomach and both small and large bowel loops normal caliber. No lymphadenopathy. Abdominal aorta normal caliber. No suspicious bone or soft tissue lesion identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

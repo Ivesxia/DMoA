@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ABDOMEN (SUPINE & ERECT)",
+            "date": "Not specified",
+            "findings": "Multiple dilated loops of small bowel measuring up to 5.4 cm in diameter with corresponding air-fluid levels consistent with early or partial small-bowel obstruction. Gas and stool is seen within the right colon. No evidence of free air.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

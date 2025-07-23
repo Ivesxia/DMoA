@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric/RUQ abdominal pain for 1 day.",
+        "history_of_present_illness": "The patient reports that the pain started after a dinner of cake, ice cream, and a single sausage. He had a similar pain in the past, which led to a workup identifying H. pylori infection.",
+        "past_medical_history": "Cholelithiasis, gastritis, H. pylori infection (s/p treatment), asthma.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

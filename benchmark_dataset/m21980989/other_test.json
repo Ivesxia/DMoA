@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "There is no intrahepatic biliary ductal dilatation. The extrahepatic common duct is mildly dilated up to 7 mm, with no stones visualized. The gallbladder is full with a mildly thickened wall and contains numerous shadowing stones. No evidence for intramural edema or pericholecystic fluid. Possible hypoechoic lesion noted, but may be artifactual.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic cholecystectomy",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

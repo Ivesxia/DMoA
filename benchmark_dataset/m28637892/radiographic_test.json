@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Gallbladder distention and CBD dilation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "US",
+            "date": "Not specified",
+            "findings": "GB distention and wall edema but no stones and no pericholecystic fluid.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Mild dilation of the common bile duct, with otherwise unremarkable ductal systems. No stricture, filling defect, or contour abnormality identified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

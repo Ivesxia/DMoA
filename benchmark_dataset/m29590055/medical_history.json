@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The pain started at 1am last night, woke the patient up from sleep, and has been ongoing since then. The patient reports some decreased appetite but denies fevers, chills, nausea, or vomiting.",
+        "past_medical_history": "Not specified",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Homogeneous liver with normal signal intensity; sub cm right hepatic lesion likely representing biliary hamartoma; dilated central hepatic ducts; complete obliteration of the lumen of the common bile duct for a segment of approximately 15 mm; 14 x 19 mm T1 hypointense lesion at pancreatic head; prominent pancreatic duct with small dilated pancreatic side branches; pancreatic parenchymal bulkiness; no splenomegaly; normal adrenal glands; no hydronephrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "US RUQ",
+            "date": "Not specified",
+            "findings": "Concerning for mid-distal CBD obstruction with proximal dilation to 1.2 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT A/P",
+            "date": "Not specified",
+            "findings": "Concerning for mid-distal CBD obstruction with proximal dilation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "cholangiogram",
+            "date": "Not specified",
+            "findings": "No filling defects and a patent CBD stent.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

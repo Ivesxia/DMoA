@@ -1,0 +1,26 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Visualized lung fields are within normal limits. There is no evidence of pleural or pericardial effusion.",
+                "abdomen": {
+                    "hepatobiliary": "The liver demonstrates homogeneous attenuation throughout. There is no suspicious focal lesion. There is no evidence of intrahepatic or extrahepatic biliary dilatation. The gallbladder is within normal limits.",
+                    "pancreas": "The pancreas has normal attenuation throughout, without evidence of focal lesions or pancreatic ductal dilatation. There is no peripancreatic stranding.",
+                    "spleen": "The spleen shows normal size and attenuation throughout, without evidence of focal lesions.",
+                    "adrenals": "The right and left adrenal glands are normal in size and shape.",
+                    "urinary": "The kidneys are of normal and symmetric size with normal nephrogram. There is no evidence of solid renal lesions. There is no perinephric abnormality. There is no hydronephrosis or hydroureter. The urinary bladder is unremarkable.",
+                    "gastrointestinal": "The stomach is unremarkable. Small bowel loops demonstrate normal caliber, wall thickness, and enhancement. The colon and rectum are within normal limits. The appendix is fluid-filled and dilated measuring up to 1.1 cm with surrounding inflammation and fat stranding consistent with acute appendicitis. No evidence of rupture or abscess formation.",
+                    "pelvis": "There is no free fluid in the pelvis.",
+                    "reproductive_organs": "Patient is status post vasectomy. The prostate and seminal vesicles are unremarkable.",
+                    "lymph_nodes": "There is no retroperitoneal or mesenteric lymphadenopathy. There is no pelvic or inguinal lymphadenopathy.",
+                    "vascular": "There is no abdominal aortic aneurysm.",
+                    "bones": "There is a predominantly sclerotic lesion in the proximal right femur, which may represent an enchondroma or liposclerosing myxofibrous tumor. A sclerotic lesion in the left femoral head is consistent with a bone island. There are mild multilevel degenerative changes of the visualized thoracolumbar spine.",
+                    "soft_tissues": "The abdominal and pelvic wall is within normal limits."
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

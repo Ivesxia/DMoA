@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Multiple diverticula are seen scattered throughout the colon with fat stranding seen near the ascending colon. The kidneys enhance symmetrically and excrete contrast without hydronephrosis. No free air or free fluid is seen.",
+            "changes_over_time": "Slight fullness to the right adrenal gland, unchanged from prior exam."
+        }
+    ]
+}

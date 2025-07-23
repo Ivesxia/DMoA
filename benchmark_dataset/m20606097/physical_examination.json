@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "101°F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "gen": "A&O, NAD",
+                "heent": "No scleral icterus, mucus membranes moist",
+                "cv": "RRR, No M/G/R",
+                "pulm": "Clear to auscultation b/l, No W/R/R",
+                "abd": "Soft, nondistended, nontender, no rebound or guarding, normoactive bowel sounds, no palpable masses",
+                "dre": "Normal tone, no gross or occult blood",
+                "ext": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

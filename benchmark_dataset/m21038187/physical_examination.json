@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "130/75 mmHg",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "A&O X3, NAD, mild discomfort with movement",
+                "HEENT": "No scleral icterus, mucous membranes moist and OP clear",
+                "cardiovascular": "RRR, No M/G/R",
+                "pulmonary": "Clear to auscultation bilaterally, No W/R/R",
+                "abdominal": "Soft, nondistended, positive McBurney's, no Rovsing sign, negative psoas or obturator sign, no guarding, normoactive bowel sounds, no palpable masses",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

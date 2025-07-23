@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The CT scan shows bases of the lungs demonstrate atelectasis. The liver is homogeneous with no focal lesions. No intrahepatic biliary dilatation. Common bile duct is prominent measuring 9 mm. The kidneys show a simple cyst (8.6 x 6.6 cm) in the left renal cortex. There is a 7.6 x 8.3 mm focus at the left ureteropelvic junction, likely a stone. Sigmoid colon has a 15 cm loop with wall thickening and an adjacent fluid collection (1.3 x 2.6 cm). Scattered diverticula in the colon. No suspicious lytic or blastic lesions identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

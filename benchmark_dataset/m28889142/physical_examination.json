@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Temperature": "98°F",
+                "Heart Rate": "80 bpm",
+                "Blood Pressure": "135/79 mmHg",
+                "Respiratory Rate": "18 breaths per minute",
+                "Oxygen Saturation": "100%"
+            },
+            "relevant_findings": {
+                "General": "NAD, morbidly obese",
+                "HEENT": "Normocephalic, atraumatic",
+                "Cardiovascular": "RRR, S1S2, no MRG",
+                "Pulmonary": "CTAB",
+                "Abdomen": "Soft, tender to palpation in RUQ",
+                "Extremities/Back": "No cyanosis, clubbing or edema",
+                "Skin": "No rash",
+                "Neurological": "Grossly intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

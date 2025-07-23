@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "90 bpm",
+                "blood_pressure": "133/68 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, comfortable; multiple facial scars",
+                "cardiovascular": "Regular rate and rhythm (RRR)",
+                "pulmonary": "Clear to auscultation bilaterally (CTA)",
+                "abdominal": "Non-distended (ND), positive bowel sounds (+BS), soft, tender in right upper quadrant (RUQ) without rebound or guarding; multiple abdominal scars"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Small bilateral nonhemorrhagic pleural effusions with associated atelectasis greater on the right than the left, smaller in size compared to the prior study. The liver shows homogenous attenuation with no lesions, gallbladder contains a cholecystostomy tube, degree of inflammation has decreased. Previously seen ascites has decreased, with a small amount of fluid in the right pericolic gutter. Increased inflammation around the pancreas, slight heterogeneity of enhancement in the pancreatic head without necrosis. Mild wall thickening of the duodenum, inflammation around hepatic flexure likely reactive. Degenerative changes in the lumbar spine.",
+            "changes_over_time": "Small bilateral nonhemorrhagic pleural effusions and gallbladder inflammation have decreased in size compared to the prior study."
+        }
+    ]
+}

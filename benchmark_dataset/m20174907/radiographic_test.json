@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung bases demonstrate minimal dependent atelectatic changes. No pleural effusion. Heart size is normal without pericardial effusion. Subpleural nodular opacity in the right middle lobe measures 3-4 mm. The liver is of homogeneous attenuation without distinct masses or lesions. No evidence of intrahepatic or extrahepatic biliary ductal dilatation. The gallbladder, spleen, and adrenal glands are unremarkable. The appendix is dilated, hyperemic with thickened walls (10 mm in diameter), with extensive surrounding fat stranding and a small amount of free fluid in the right lower quadrant. Several prominent mesenteric nodes noted. No evidence of appendiceal perforation. No definite cecal inflammation. The bladder, distal ureters, prostate and rectum appear unremarkable. Scattered diverticula within the sigmoid colon. A small amount of fluid is noted in the left inguinal canal. No suspicious lytic or sclerotic lesions seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

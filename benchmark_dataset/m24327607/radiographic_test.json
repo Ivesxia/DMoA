@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver shows no focal or textural abnormality. Doppler assessment of the main portal vein shows patency and normal hepatopetal flow. There is no intrahepatic bile duct dilation. Dilation of the common duct to 9 mm is unchanged from ultrasound. A 1.2 cm stone within the gallbladder neck does not move with patient repositioning. The gallbladder is more distended than on prior ultrasound with trace pericholecystic fluid. Sonographic Murphy sign is equivocal with mild tenderness. The visualized portions of the pancreatic head, body and tail are normal although the inferior head and distal tail are not well seen due to overlying bowel gas. The pancreatic duct is normal measuring 3 mm, unchanged. Visualized portions of the IVC are normal. There is no right hydronephrosis.",
+            "changes_over_time": "Dilation of the common duct to 9 mm is unchanged from ultrasound. The gallbladder is more distended than on prior ultrasound."
+        }
+    ]
+}

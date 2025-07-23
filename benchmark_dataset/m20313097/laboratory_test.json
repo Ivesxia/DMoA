@@ -1,0 +1,63 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": {
+                "TBili": 1.8,
+                "AST": 1079,
+                "ALT": 1259,
+                "Alk Phos": 418,
+                "WBC": 12.5,
+                "Lipase": "within normal limits"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": {
+                "Urine Bili": 2.0,
+                "WBCs": "13",
+                "RBCs": "few",
+                "Bacteria": "few",
+                "Squamous Cells": "3",
+                "Mucous": "few"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": {
+                "WBC": 11.5,
+                "UA": {
+                    "Bili": "small",
+                    "Urobilinogen": "2",
+                    "Leuk Esterase": "negative",
+                    "WBCs": "3"
+                },
+                "ALT": 926,
+                "AST": 492,
+                "Alk Phos": 408,
+                "TBili": 1.0,
+                "Albumin": 4.1
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": {
+                "Liver": "Homogeneous signal intensity, 1.3 cm hyperenhancing lesion in segment IV",
+                "Biliary": "Multiple gallstones, no choledocholithiasis, no biliary dilation",
+                "Pancreas": "Normal",
+                "Spleen": "Normal",
+                "Kidneys": "Normal",
+                "GI Tract": "Unremarkable",
+                "Uterus": "Enlarged and heterogeneous, consistent with postpartum status"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

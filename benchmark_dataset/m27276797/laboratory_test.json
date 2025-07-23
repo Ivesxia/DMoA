@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver enzymes, amylase, lipase",
+            "date": "Not specified",
+            "findings": "Elevated liver enzymes, amylase, lipase observed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "No intra- or extra-hepatic biliary ductal dilatation. Common duct unremarkable without filling defect. Main pancreatic duct not dilated with homogeneous enhancement throughout. Several small pancreatic cysts, one measuring 1.0 x 0.8 cm and another 1.1 x 0.8 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lab test for blood urea nitrogen (BUN)",
+            "date": "Not specified",
+            "findings": "Blood urea nitrogen level is 7.8 mg/dL (normal range: 8.4 - 10.2 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung_bases": "clear",
+                "heart": "normal size",
+                "pericardial_effusion": "none",
+                "liver": "unremarkable",
+                "gallbladder": "unremarkable",
+                "spleen": "unremarkable",
+                "pancreas": "unremarkable",
+                "adrenal_glands": "unremarkable",
+                "kidneys": "enhance symmetrically without hydronephrosis or hydroureter",
+                "appendix": {
+                    "hyperemia": "present",
+                    "fat_stranding": "present",
+                    "enlargement": "borderline enlargement to 7 mm"
+                },
+                "perforation": "none",
+                "abscess": "none",
+                "great_vessels": "patent",
+                "bladder": "unremarkable",
+                "uterus": "unremarkable",
+                "adnexa": "unremarkable",
+                "rectum": "unremarkable",
+                "inguinal_lymphadenopathy": "none",
+                "pelvic_sidewall_lymphadenopathy": "none",
+                "free_fluid": "small amount within pelvis",
+                "bones": "no focal concerning lesion"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "New marked mucosal and submucosal thickening, minimal quantity of new pericholecystic fluid, irregularity suggesting ulceration, unchanged size and configuration of the gallbladder, shadowing gallstones visualized, common duct not dilated.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

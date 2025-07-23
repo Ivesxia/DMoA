@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is noted in retrocecal position, coursing medially and posteriorly relative to the ascending colon. It is fluid filled and dilated up to 10 mm, with mild circumferential wall thickening and mucosal hyperemia. Mild reactive wall thickening is noted at the base of the cecum. Inflammatory fat stranding is centered around the appendiceal tip, and extends along the right paracolic gutter and lateral wall of the proximal ascending colon. Scattered prominent mesenteric and retroperitoneal lymph nodes are present, measuring up to 6 mm, and likely reactive. There are no extraluminal air or fluid collections to suggest perforation. The gallbladder is partially collapsed. The kidneys enhance and excrete contrast promptly and symmetrically, without masses or hydronephrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Exam - Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Exam - Various Assays",
+            "date": "Not specified",
+            "findings": "9.0 mg/dL (This is within the reference range of 6.0 to 20.0 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

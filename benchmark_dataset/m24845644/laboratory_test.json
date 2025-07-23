@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory test for MRSA",
+            "date": "Not specified",
+            "findings": "No MRSA isolated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Extensive fat stranding, multiple locules of free air in the mesentery in the right iliac fossa, loculated fluid collection measuring 3.5 x 2.8 cm. Wall thickening of lower ascending colon, cecum, and terminal ileum.",
+            "changes_over_time": "Inflammatory process and fluid collection have considerably decreased since the earlier study where the collection measured 5.3 x 4.5 cm."
+        }
+    ]
+}

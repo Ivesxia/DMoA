@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "ALT 670 IU/L (normal range: 0-40 IU/L), AST 545 IU/L (normal range: 0-40 IU/L), Alkaline Phosphatase 227 IU/L (normal range: 44-147 IU/L), Lipase >1000 IU/L (normal range: 0-160 IU/L), Amylase 1753 IU/L (normal range: 30-110 IU/L). All results are outside normal ranges.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Glucose Test",
+            "date": "Not specified",
+            "findings": "Blood Glucose = 66 mg/dL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Peri-splenic pouch, pericholecystic fluid, gallstones, gallbladder wall thickening.",
+            "changes_over_time": "Findings suggest acute cholecystitis."
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Normal liver, multiple small layering stones in gallbladder, minimal gallbladder wall edema and thickening. No significant pancreatic mass or ductal dilatation, borderline dilated common bile duct (6.8 mm), normal spleen, adrenal glands, and kidneys.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

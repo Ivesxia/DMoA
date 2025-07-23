@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "No intrauterine pregnancy is seen. The uterus is normal. A 3.6 x 2.7 x 3.6 cm hemorrhagic cyst in the right ovary, previously measuring 4.2 x 2.8 x 3.8 cm. The right ovary does not appear edematous, and internal flow is demonstrated. No evidence of torsion. The left ovary is unchanged, with a 2.0 cm isoechoic structure likely representing an early hemorrhagic cyst or endometrioma. A tubular blind-ending structure consistent with the appendix is present, appearing normal, with a small amount of fluid surrounding it.",
+            "changes_over_time": "The hemorrhagic cyst in the right ovary decreased in size from 4.2 x 2.8 x 3.8 cm to 3.6 x 2.7 x 3.6 cm."
+        }
+    ]
+}

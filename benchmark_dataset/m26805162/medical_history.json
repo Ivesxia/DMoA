@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Chest/abdominal pain",
+        "history_of_present_illness": "Symptoms started last night at approximately 8PM after dinner, initially located in the chest, later localized in the epigastrium with radiation to the back. Accompanied by nausea and subsequent episodes of vomiting. Persistent RUQ pain noted since admission.",
+        "past_medical_history": "HTN, DM2, beta-thalassemia trait, chronic anemia",
+        "family_history": "HTN, CAD, gallstones",
+        "social_history": "Not specified"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Test",
+            "date": "Not specified",
+            "findings": "3.2 mg/dL (within normal range: 2.7 - 4.5)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver demonstrates normal, homogeneous echotexture. No intrahepatic biliary dilatation. Evidence of cholelithiasis and sludge in gallbladder with mild gallbladder wall thickening. No pericholecystic fluid. Common bile duct normal in caliber (0.3 cm).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

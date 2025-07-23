@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Heart rate between 48-52 beats per minute, irregular rhythm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Gallbladder shows severe wall thickening (up to 9 mm), irregular heterogeneous wall, pericholecystic fluid, stones, and sludge. The liver is normal in echogenicity, with no focal lesions present.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scan",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

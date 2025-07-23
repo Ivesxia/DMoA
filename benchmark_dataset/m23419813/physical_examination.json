@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.1°F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "137/81 mmHg",
+                "respiratory_rate": "Not specified",
+                "saturation": "97% on RA"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing man in NAD, laying flat, comfortable, appropriate.",
+                "HEENT": "Dry mucous membranes, OP clear.",
+                "neck": "Supple, no thyromegaly, no JVD, no carotid bruits.",
+                "heart": "S1 & S2 irregular, no murmurs appreciated.",
+                "lungs": "Pectus deformity; respirations short with possible accessory muscle use; limited air movement; crackles at both lung bases regardless of positioning.",
+                "abdomen": "Distended, tender to palpation with guarding & rebound worse in epigastrium. BS present. No echymoses.",
+                "extremities": "2+ distal pulses without edema.",
+                "skin": "No rashes or lesions appreciated, scars from various surgical procedures.",
+                "lymph": "No cervical LAD.",
+                "neuro": "Awake, A&Ox3, CNs II-XII grossly intact."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

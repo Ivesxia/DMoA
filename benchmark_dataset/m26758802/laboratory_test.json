@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "No Growth Test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "169.0 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-Ray",
+            "date": "Not specified",
+            "findings": "Cardiac silhouette size appears mildly enlarged, unchanged. No focal consolidation, pleural effusion or pneumothorax is present.",
+            "changes_over_time": "Sclerotic focus in the left fifth rib posteriorly is unchanged, likely a bone island."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is normal in shape and contour. There are no focal hepatic lesions. The main portal vein is patent with normal direction of flow. There is a small amount of pneumobilia. There is no intra- or extra-hepatic biliary duct dilation. The common bile duct measures 5 mm. Multiple large gallstones within the gallbladder. The gallbladder wall is thickened, measuring up to 5 mm. No tense distention, gallbladder wall edema, or pericholecystic fluid. Spleen normal, measuring 10.7 cm. No ascites.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "3.3 mg/dL, normal range 2.7-4.5 mg/dL.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

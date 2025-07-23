@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "RLQ abdominal pain",
+        "history_of_present_illness": "Symptoms began at 3am yesterday, awakening the patient from sleep. The patient experienced 36 hours of right lower quadrant abdominal pain, along with nausea throughout the day and a lack of appetite for dinner. One episode of diarrhea occurred last night. The patient also had a fever to 101.8°F at home last night. Denies any similar pain in the past.",
+        "past_medical_history": "HTN, OSA (home CPAP at night), endometriosis; Past surgical history includes laparoscopic cholecystectomy ___ years ago, multiple laparoscopies, and 1 laparotomy for endometriosis.",
+        "family_history": "Mother with HNPCC; sister died at age ___ from colon cancer (unknown if HNPCC positive).",
+        "social_history": "Not specified."
+    }
+}

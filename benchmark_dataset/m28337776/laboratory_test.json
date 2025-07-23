@@ -1,0 +1,35 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": "The liver is diffusely echogenic with a smooth contour. No focal liver mass. The main portal vein is patent with hepatopetal flow. No ascites.",
+                "bile_ducts": "No intrahepatic biliary dilation. The common bile duct was not definitely visualized due to a large amount of overlying bowel gas and shadowing from multiple gallbladder stones.",
+                "gallbladder": "Stones in the distended gallbladder with a thickened and edematous wall, measuring up to 9 mm.",
+                "pancreas": "Not well visualized, largely obscured by overlying bowel gas.",
+                "kidneys": "Limited views of the right kidney show no hydronephrosis.",
+                "retroperitoneum": "Visualized portions of aorta and IVC are within normal limits."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Leukocytosis",
+            "date": "Not specified",
+            "findings": "Leukocytosis of 24.5.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bilirubin",
+            "date": "Not specified",
+            "findings": "0.2 mg/dL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

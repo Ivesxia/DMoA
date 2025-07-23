@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified.",
+        "diagnostic_reasoning": "The patient presented with RLQ pain, nausea, and chills, with a CT scan showing a dilated appendix up to 9 mm with enhancing wall and adjacent fat stranding, consistent with appendicitis. No signs of appendiceal rupture or fluid collection were observed."
+    }
+}

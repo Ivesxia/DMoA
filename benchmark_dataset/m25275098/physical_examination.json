@@ -1,0 +1,42 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.5°F",
+                "blood_pressure": "144/67 mmHg",
+                "heart_rate": "91 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "93% on RA"
+            },
+            "relevant_findings": {
+                "general": "Alert, tired appearing, diaphoretic, slightly jaundiced, dry mucous membranes.",
+                "eyes": "Anicteric, pupils equally round.",
+                "cardiovascular": "Heart regular, no murmur, no S3, no S4, no JVD.",
+                "respiratory": "Lungs clear to auscultation with good air movement bilaterally, non-labored breathing.",
+                "gastrointestinal": "Abdomen soft, nontender, nondistended; percutaneous chole drain placed with minimal bloody drainage.",
+                "genitourinary": "No suprapubic fullness or tenderness.",
+                "skin": "No obvious rashes or ulcerations noted.",
+                "neurological": "Alert, oriented, face symmetric, speech fluent, moves all limbs.",
+                "psychiatric": "Pleasant, appropriate affect."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.1°F",
+                "blood_pressure": "97-109/47 mmHg",
+                "heart_rate": "95 bpm",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "97% on RA"
+            },
+            "relevant_findings": {
+                "general": "Appears unwell; pale; diaphoretic.",
+                "gastrointestinal": "Epigastric tenderness.",
+                "cardiovascular": "RRR, no murmurs."
+            },
+            "changes_over_time": "Vital signs show a range in blood pressure from normal to low, indicating possible hemodynamic instability."
+        }
+    ]
+}

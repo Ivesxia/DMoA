@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix measures up to 15 mm in diameter, is hyperenhancing, and has extensive inflammation surrounding it. No evidence of obstruction in the kidneys or bowels. Minimal dependent atelectasis observed in the visualized lung base. No focal lesion or intrahepatic biliary dilatation in the liver. Gallbladder shows no stones or wall edema. Normal spleen, pancreas, and adrenal glands. Unremarkable bladder, prostate, and rectum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation test",
+            "date": "Not specified",
+            "findings": "PT: 12.7 sec (normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

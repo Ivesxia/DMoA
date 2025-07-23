@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal without focal or echotextural abnormality. The gallbladder is distended and contains a moderate amount of mobile sludge but is otherwise normal without wall thickening or gallstone. No reported sonographic Murphy's sign. The common duct measures 4 mm and there is no intra- or extra-hepatic bile duct dilatation. The visualized portion of the pancreas is unremarkable. The pancreatic tail is obscured by overlying bowel gas. The spleen is borderline enlarged, measuring 13.2 cm. No hydronephrosis or stone demonstrated in the kidneys. There is a small right pleural effusion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

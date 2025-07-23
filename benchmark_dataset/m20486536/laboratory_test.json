@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Targeted views of the right lower quadrant demonstrate a dilated, fluid-filled appendix with a thickened hyperemic wall, overall measuring 9 mm in diameter. The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites. There is no intrahepatic biliary dilation. The CBD measures 1 mm. No evidence of stones or gallbladder wall thickening. Imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation. Normal echogenicity spleen measuring 10.7 cm. Limited views of the bilateral kidneys demonstrate no mass, stone, or hydronephrosis. Visualized portions of the aorta and IVC are within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture Test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Lung bases are clear without nodule, opacity, or effusion. Hypoattenuating enhancing liver lesions are stable, characterized as hemangiomas. A percutaneous cholecystostomy tube is within the expected region of the gallbladder. No perigallbladder fluid collection or abnormalities detected. No intra- or extrahepatic biliary ductal dilatation. Several foci of gas within the common duct presumed secondary to cholecystostomy tube placement. The pancreas is normal without focal mass lesion or ductal dilatation. The portal vein is patent. The spleen, kidneys, collecting systems, and visualized large and small bowel are unremarkable. In the pelvis, the rectum, uterus, and opacified loops of small bowel are unremarkable. A 1.5 cm cyst is noted in the left adnexa stable since previous study. Follicular activity is present within the right ovary. No suspicious lytic or sclerotic lesions in osseous structures.",
+            "changes_over_time": "Stable hemangiomas in liver and stable 1.5 cm cyst in left adnexa."
+        }
+    ]
+}

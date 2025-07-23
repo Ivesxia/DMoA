@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Small bilateral pleural effusions with associated compressive lower lobe atelectasis; a segment 3 hypointense T1 nonenhancing lesion is likely a cyst biliary hamartoma; gallbladder is markedly distended with multiple small gallstones, thickening of gallbladder wall, mural edema, and pericholecystic stranding; suspicious of gangrenous cholecystitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture/Cerebrospinal fluid (CSF) test",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

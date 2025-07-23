@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ABDOMEN US (COMPLETE STUDY)",
+            "date": "Not specified",
+            "findings": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites. Reactive nodes in the porta hepatis are noted, normal in morphology. There is minimal intrahepatic biliary dilation. Distally the common bile duct is decompressed measuring 2 mm. Proximally, a stone is identified either within the gallbladder neck or alternatively within the common hepatic duct, difficult to discern. A large stone within the gallbladder lumen measures 1.8 cm and is associated with gallbladder wall thickening and sludge. There is no pericholecystic fluid. The imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation, with portions of the pancreatic tail obscured by overlying bowel gas. Spleen normal echogenicity, measuring 10.3 cm. A small accessory splenule measures 1.5 cm. The right kidney measures 9.5 cm. The left kidney measures 10.9 cm. Normal cortical echogenicity and corticomedullary differentiation is seen bilaterally. There is no evidence of masses, stones, or hydronephrosis in the kidneys. The visualized portions of aorta and IVC are within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

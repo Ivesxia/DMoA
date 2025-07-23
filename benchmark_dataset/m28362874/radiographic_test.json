@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Low lung volumes are present though there is no focal consolidation, effusion, or pneumothorax. The cardiomediastinal silhouette is normal. No acute osseous abnormalities are identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

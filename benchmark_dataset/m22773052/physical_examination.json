@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99°F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "114/55 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": "Patient is alert and oriented to person, place, and time (AAOx3). Regular rate and rhythm (RRR) of heart sounds. Clear to auscultation (CTA). Abdomen soft, non-distended, tender to palpation in right lower quadrant (RLQ), no rebound tenderness, no guarding.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "CT scan findings: appendix fluid-filled and dilated up to 13 mm with hyperenhancing wall; moderate periappendiceal fat stranding at mid appendix and appendiceal base; no evidence of abscess formation, free air, or free fluid. Mild atherosclerotic calcifications of the abdominal aorta and bilateral simple renal cysts, the largest 4 x 3.5 cm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

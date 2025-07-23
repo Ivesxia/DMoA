@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in echogenicity. There is an 8 mm calcification in the right lobe, likely a calcified granuloma. The portal vein is patent with hepatopetal flow. There is no intrahepatic or extrahepatic biliary duct dilatation. Common bile duct measures 4 mm. The gallbladder wall is thickened and edematous and there are gallstones. The patient has a positive sonographic ___ sign. There is likely a reactive node in the portacaval region. Limited views of the right kidney are unremarkable. The pancreatic head and proximal body are unremarkable, and the distal body and tail are not well visualized due to overlying bowel gas. The spleen is normal and measures 10 cm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

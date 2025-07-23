@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "1.2 mmol/L (within normal range of 0.5 to 2.0 mmol/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Culture test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver demonstrates homogeneous attenuation with a peripherally hyperenhancing 1.2 x 1.5 cm lesion in segment 6 of the liver. The appendix is dilated and fluid-filled measuring up to 1 cm with calcified fecaliths and periappendiceal stranding.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

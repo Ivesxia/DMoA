@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Intraoperative cholangiogram",
+            "date": "Not specified",
+            "findings": "4.1 mg/dL (normal range: 2.7 - 4.5 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CTA ABD W&W/O C & RECONS",
+            "date": "Not specified",
+            "findings": "9-mm stone in the gallbladder neck; mild gallbladder wall thickening; multiple bilateral low-attenuation renal cortical lesions; 4-mm calculus in the left interpolar region; no focal hepatic lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

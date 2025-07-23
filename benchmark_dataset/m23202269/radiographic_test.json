@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic, compatible with fatty infiltration. No focal hepatic lesion is identified. The main portal vein is patent with hepatopetal flow. The gallbladder is minimally distended, without evidence of gallstones, gallbladder wall edema, or sonographic sign. A trace amount of pericholecystic fluid is nonspecific. There is no intra- or extra-hepatic biliary ductal dilatation with the CBD measuring 6 mm. The pancreas is poorly visualized due to overlying bowel gas.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

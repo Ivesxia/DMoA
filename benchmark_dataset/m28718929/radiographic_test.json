@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI (ABDOMEN & PELVIS) W&W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "In the left upper quadrant retroperitoneal space, there is an 8.7 x 6.2 x 7.6 cm well-circumscribed, lobulated, predominantly T2 hyperintense mass with hairline thin T2 hypointense septations. The mass demonstrates high signal on the high b-value images as well as the ADC map. There is mild delayed enhancement. The mass abuts the posterior wall of the body of the stomach as well as the tail of the pancreas. No pleural or pericardial effusion. The liver is homogeneous in signal characteristics. The pancreatic parenchyma maintains normal bulk. The kidneys are normal in size and signal characteristics. Free fluid in the pelvis was noted. No significant lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Moderate bilateral nonhemorrhagic pleural effusions; multiple subcentimeter hypodensities in the liver unchanged from prior; 3 mm hypodensity in the lower pole of the left kidney; hyperdense fluid extending from the right pericolic gutter into the pelvis compatible with hemoperitoneum. No areas of focal contrast extravasation to suggest active bleed.",
+            "changes_over_time": "New moderate bilateral nonhemorrhagic pleural effusions; multiple subcentimeter hypodensities in the liver unchanged from prior."
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

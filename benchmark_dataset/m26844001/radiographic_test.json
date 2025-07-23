@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "T2 hyperintensity surrounding the head of the pancreas consistent with edema; surrounding fat stranding; compressed pancreatic duct within the head of the pancreas; multiple subcentimeter pancreatic cystic lesions in the body of the pancreas; mildly enlarged lymph node superior to the pancreatic neck; multiple T2 hyperintense cystic lesions within the liver; lesion in the right adrenal gland consistent with right adrenal adenoma; subcentimeter simple cyst within the upper pole of the right kidney.",
+            "changes_over_time": "Lesion in the right adrenal gland is unchanged since the previous CT."
+        }
+    ]
+}

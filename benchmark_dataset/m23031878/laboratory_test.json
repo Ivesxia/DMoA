@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver function tests (LFT's)",
+            "date": "Not specified",
+            "findings": "Elevated LFT's",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase test",
+            "date": "Not specified",
+            "findings": "Elevated lipase",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Innumerable small gallstones within gallbladder lumen; 0.3 cm stone in the very distal common bile duct; borderline common bile duct diameter 0.7 cm; gallbladder not dilated; mild linear gallbladder wall enhancement, suggestive of chronic or very early acute cholecystitis.",
+            "changes_over_time": "Images are moderately compromised by motion."
+        }
+    ]
+}

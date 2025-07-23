@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated up to 9 mm and demonstrates a thickened wall and adjacent fat stranding, consistent with appendicitis. The liver is homogeneous, gallbladder normal, kidneys unremarkable, and other abdominal organs normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for specific markers",
+            "date": "Not specified",
+            "findings": "0.8 mmol/L, within the reference range of 0.5 to 2.0.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

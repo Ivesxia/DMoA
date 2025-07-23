@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "83 bpm",
+                "blood_pressure": "112/73 mmHg",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "NAD (no acute distress)",
+                "HEENT": "MMM (moist mucous membranes)",
+                "CV": "RRR (regular rate and rhythm)",
+                "chest": "CTAB (clear to auscultation bilaterally)",
+                "abdomen": "Soft, obese, nondistended; tender in the ___ region; no rebound tenderness or guarding",
+                "extremities": "WWP (warm well perfused)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

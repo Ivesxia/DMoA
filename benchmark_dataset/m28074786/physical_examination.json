@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "105 bpm",
+                "blood_pressure": "137/95 mmHg",
+                "respiratory_rate": "18 breaths per minute",
+                "SpO2": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "well-appearing male, lying in bed, in no acute distress",
+                "HEENT": "No scleral icterus, mucous membranes moist",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "Clear to auscultation bilaterally, normal work of breathing",
+                "abdominal": "Soft, nondistended, tenderness to palpation in RLQ without rebound or guarding. Positive Rovsing's, psoas, and obturator signs. No hepatosplenomegaly appreciated.",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

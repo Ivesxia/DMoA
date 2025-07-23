@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.4°F",
+                "heart_rate": "77 bpm",
+                "blood_pressure": "120/70 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, AOx3",
+                "cardiovascular": "RRR",
+                "lungs": "CTAB",
+                "abdominal": "soft, ND, tenderness in lower abdomen into the groin bilaterally. No guarding/rebound, not peritoneal. No hernia felt.",
+                "genital": "Testicles tender to palpation",
+                "extremities": "WWP"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

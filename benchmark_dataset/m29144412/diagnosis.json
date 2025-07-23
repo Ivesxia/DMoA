@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "CT imaging revealed an enlarged, fluid-filled appendix with extensive wall hyperemia and periappendiceal inflammatory change, consistent with acute appendicitis. There was no evidence of abscess, perforation, or free air."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.1°F",
+                "heart_rate": "105 bpm",
+                "blood_pressure": "150/83 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": "NAD, pleasant. Stoic. No jaundice or icterus. Clear to auscultation bilaterally. Regular rate and rhythm. Abdomen soft, non-distended, tender to palpation in right upper quadrant greater than right lower quadrant. Guarding and rebound tenderness in right upper quadrant. No shake or tap tenderness. No edema.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

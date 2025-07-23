@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Noncontrast CT images show a hyperdense structure likely representing an appendicolith and surrounding inflammatory changes with associated bowel wall thickening, particularly of the cecum. No drainable fluid collection and the bladder and small bowel loops appear normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Examination (not specified)",
+            "date": "Not specified",
+            "findings": "Value: 1.0 (Ref range: 0.9 - 1.1)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

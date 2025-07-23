@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in echogenicity with no focal lesions present. The pancreas is well seen with a 2-mm pancreatic duct. The aorta and IVC are normal in caliber. The portal vein is patent with hepatopetal flow. The gallbladder is well seen with multiple small gallbladder polyps, but no cholelithiasis. The common bile duct measures 5 mm and is normal. The spleen measures 10 cm and is normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is fluid-filled and enlarged, measuring up to 11 mm in diameter, with surrounding fat stranding, concerning for appendicitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lab Test (not specified)",
+            "date": "Not specified",
+            "findings": "1.9 mg/dL, Reference range: 2.7 - 4.5 mg/dL (outside normal range).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

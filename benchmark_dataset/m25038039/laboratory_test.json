@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Elevated lipase to 484, otherwise normal LFTs.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "WBC count",
+            "date": "Not specified",
+            "findings": "WBC was 6.4 with 79% PMNs.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RUQ Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in echogenicity with no focal lesions present. The gallbladder and pancreas are unremarkable. The common bile duct measures 3 mm and is normal. The spleen measures 10.6 cm and is normal. The portal vein is patent with hepatopetal flow.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

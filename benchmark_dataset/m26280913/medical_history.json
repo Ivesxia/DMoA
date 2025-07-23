@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute onset RLQ pain",
+        "history_of_present_illness": "Patient presents with a ___ day history of acute onset right lower quadrant pain that progressively worsened over time. The pain is constant and does not radiate. Patient denies nausea, vomiting, fever, and chills, but complains of anorexia since the pain started.",
+        "past_medical_history": "Rheumatoid arthritis; past surgical history includes breast cyst excision (benign) and eye surgery.",
+        "family_history": "No history of cancer, diabetes mellitus, or heart disease.",
+        "social_history": "Not specified."
+    }
+}

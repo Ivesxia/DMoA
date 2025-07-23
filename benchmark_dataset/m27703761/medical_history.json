@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Persistent pain following recent hepatic resection and ERCP.",
+        "history_of_present_illness": "The patient is a ___ year old female who is 3.5 months post-segment IVb hepatic resection for a benign biliary cystadenoma. She has had persistent alkaline phosphatase elevation since the procedure. Symptoms progressed to requiring an MRCP, which revealed dilation of the left hepatic duct and areas of stricture. Pain is currently reported at a scale of ___ and is accompanied by headaches. Denies fever, chills, nausea, or vomiting.",
+        "past_medical_history": "Hyperlipidemia; history of spontaneous abortion; history of estrogen-based OCP use; 6 months of Lupron injections pre-hysterectomy for class IV dysplasia of the uterine wall.",
+        "family_history": "Maternal history of chronic myeloid leukemia (CML); grandmother with bone, brain, and lung cancers.",
+        "social_history": "Current smoker."
+    }
+}

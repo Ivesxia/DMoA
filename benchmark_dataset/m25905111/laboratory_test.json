@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase is notably in excess of 9000.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal Ultrasound",
+            "date": "Not specified",
+            "findings": "Cholelithiasis without gallbladder wall thickening; hepatic parenchyma within normal limits; no focal liver mass; main portal vein patent; no ascites; no intrahepatic biliary dilation; normal spleen echogenicity.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

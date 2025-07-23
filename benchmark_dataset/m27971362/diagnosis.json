@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with generalized abdominal pain that migrated to the right lower quadrant, associated with nausea and vomiting. A CT scan of the abdomen and pelvis showed a hyperemic and distended appendix with associated periappendiceal fat stranding, consistent with appendicitis."
+    }
+}

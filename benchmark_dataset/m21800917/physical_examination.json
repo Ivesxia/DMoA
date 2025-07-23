@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.0°F",
+                "heart_rate": "108 bpm",
+                "blood_pressure": "127/76 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "NAD (No acute distress)",
+                "cardiovascular": "RRR (Regular rate and rhythm)",
+                "pulmonary": "CTA (Clear to auscultation)",
+                "abdominal": "No scars, abdomen soft, nondistended, tender focally in RLQ",
+                "extremities": "No edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

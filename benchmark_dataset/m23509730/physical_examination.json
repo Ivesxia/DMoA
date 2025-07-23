@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "heart_rate": "105 bpm",
+                "blood_pressure": "145/70 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "93% RA"
+            },
+            "relevant_findings": {
+                "general": "in no acute distress",
+                "HEENT": "sclera anicteric, mucus membranes slightly dry, nares clear, trachea at midline",
+                "CV": "sinus tachycardia, no appreciable murmurs, rubs, gallops",
+                "pulm": "clear to auscultation bilaterally",
+                "abd": "obese, chronic dermatitis of rectus sheath procurement site, mildly distended, tender to palpation in lower quadrants (LLQ>RLQ), able to appreciate fullness in the LLQ likely phlegmon without overlying skin changes",
+                "GU": "DRE performed earlier demonstrated no blood, + sphincter tone",
+                "MSK": "warm, well perfused with well-healed LLE myocutaneous flap",
+                "neuro": "alert, oriented to person, place, time"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated with hyperemic wall measuring up to 12 mm in diameter with adjacent extensive inflammatory changes and small amount of fluid. Minimal cecal wall thickening is noted. Cholelithiasis with no evidence of pericholecystic fluid is seen. The liver, spleen, adrenals, pancreas, kidneys are normal. No bowel obstruction. A cystic lesion measuring up to 1.8 cm in the right adnexa, likely an ovarian cyst, is noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION. The value is 8.0 mg/dL with a reference range of 8.4 - 10.2 mg/dL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

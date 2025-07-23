@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Abdominal pain began this morning (approximately 18 hours prior to assessment), associated with nausea and no vomiting. The patient felt well prior to this episode. The pain is mostly right-sided and worsened with movement, continuing to worsen throughout the day.",
+        "past_medical_history": "PCOS",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

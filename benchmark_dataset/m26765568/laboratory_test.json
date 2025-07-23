@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level is 1065 U/L, elevated",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate level is 2.5 mmol/L, elevated",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood urea nitrogen (BUN)",
+            "date": "Not specified",
+            "findings": "BUN level is 1.7 mg/dL, within the reference range (1.6-2.6 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with achy diffuse abdominal pain that localized to the right lower quadrant (RLQ), associated with nausea. CT imaging revealed a dilated, fluid-filled appendix with an appendicolith and wall enhancement, which is compatible with acute appendicitis."
+    }
+}

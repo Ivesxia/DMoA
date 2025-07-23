@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is inflamed and dilated up to 11 mm in diameter, with suggestion of appendicolith at the base. There is marked associated stranding and mild thickening of the adjacent colon, likely reactive. No evidence for perforation or abscess formation. The lung bases are clear, no pleural effusion. The heart is normal in size without pericardial effusion. The liver demonstrates no focal lesion. The kidneys enhance normally without hydronephrosis or hydroureter. Trace free fluid within the pelvis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

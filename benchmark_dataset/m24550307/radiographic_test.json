@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Abdomen U.S. (Complete Study)",
+            "date": "Not specified",
+            "findings": "Liver appears echogenic, compatible with diffuse fatty infiltration. No focal intrahepatic lesions are detected. There is no intrahepatic biliary ductal dilatation. The gallbladder appears normal. A 3-mm polyp is present at the fundus of the gallbladder, which does not contain any stones. The CBD is not dilated, measuring 4 mm. The pancreatic body and head appear normal, and there is no pancreatic ductal dilatation. The tail of the pancreas is obscured by overlying bowel gas. The aorta appears normal. The right kidney measures 10.8 cm and left kidney measures 10.1 cm, with no evidence of stones or hydronephrosis. The spleen measures 10.2 cm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

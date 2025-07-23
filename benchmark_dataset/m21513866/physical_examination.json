@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "General: as noted in HPI. HEENT: all normal, denies changes in vision/hearing. Respiratory: all normal, denies SOB/DOE/cough/wheeze/hemoptysis/pain. Cardiac: all normal, denies angina/palpitations. GI: as noted in HPI. GU: all normal, denies dysuria. Skin: all normal, denies rash/lesions/pruritis. Musculoskeletal: all normal, denies joint pain/swelling, denies back pain. Neurological: all normal, denies headache, denies numbness/tingling. Endocrine: all normal, denies sensitivity to heat/cold. Hematologic: all normal, denies easy bruising/bleeding. Psychiatric: all normal, denies mood change.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bilirubin",
+            "date": "Not specified",
+            "findings": "Bilirubin elevated to 8.8 (normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP BILIARY&PANCREAS BY GI UNIT",
+            "date": "Not specified",
+            "findings": "Endoscopic cannulation and contrast opacification of a prominent CBD and intrahepatic biliary tree without focal stenosis or filling defects. Sludge was removed by balloon sweep.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bile Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

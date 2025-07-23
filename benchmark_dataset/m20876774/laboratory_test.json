@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Common bile duct appears mildly dilated diffusely. There are no areas of stricture or narrowing. At least one filling defect is seen within the common bile duct with two stones measuring up to 10 mm in diameter extracted. Intrahepatic ducts are mildly dilated diffusely. A small portion of the pancreatic duct within the head of the pancreas was opacified and appears normal in course and caliber without filling defects.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biliary Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

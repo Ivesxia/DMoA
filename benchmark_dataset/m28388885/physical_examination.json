@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "heart_rate": "98 bpm",
+                "blood_pressure": "107/78 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress",
+                "HEENT": "No scleral icterus, moist mucous membranes",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/gallops/rubs",
+                "pulmonary": "Clear to auscultation bilaterally",
+                "abdominal": "Soft, nondistended, mildly tender to palpation in bilateral lower quadrants, no rebound or guarding, no palpable masses",
+                "drains": "Left-sided drain with minimal clear fluid, right-sided drain with brownish fluid, both insertion sites clean, dry, and intact",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

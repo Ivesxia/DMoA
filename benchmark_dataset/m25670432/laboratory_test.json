@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Hyperenhancing diverticulum along the antimesenteric border of the ascending colon (2:45) has surrounding fat stranding and is consistent with acute uncomplicated ascending colon diverticulitis. The liver is normal without focal or diffuse abnormality. The gallbladder is absent. The kidneys enhance symmetrically and excrete contrast promptly. No retroperitoneal or mesenteric lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Viral Testing",
+            "date": "Not specified",
+            "findings": "NO VIRUS ISOLATED.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

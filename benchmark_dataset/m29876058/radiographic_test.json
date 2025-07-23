@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Portable abdomen radiograph",
+            "date": "Not specified",
+            "findings": "Punctate soft tissue subcutaneous gas noted in the right abdomen, moderate amount of retained oral contrast throughout the small bowel and colon. No evidence of bowel obstruction or ileus.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

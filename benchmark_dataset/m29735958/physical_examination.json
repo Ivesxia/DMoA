@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2",
+                "heart_rate": "103",
+                "blood_pressure": "165/92",
+                "respiratory_rate": "Not specified",
+                "supplemental_oxygen": "100% RA"
+            },
+            "relevant_findings": {
+                "HEENT": "Sclera icteric, dry MM, oropharynx clear, EOMI, PERRL",
+                "Neck": "Supple, JVP not elevated, no LAD",
+                "CV": "Regular rate and rhythm with PVCs, normal S1 + S2, SEM throughout precordium",
+                "Lungs": "Clear to auscultation bilaterally, no wheezes, rales, rhonchi",
+                "Abdomen": "Soft, tender difficult to elicit given MS, non-distended, bowel sounds present, no organomegaly, no rebound or guarding",
+                "GU": "(+) foley",
+                "Extremities": "Warm, well perfused, 2+ pulses, no clubbing, cyanosis, 1+ pitting edema bilateral to knees",
+                "Neuro": "CN II-XII intact, strength upper/lower extremities grossly normal sensation, 2+ reflexes bilaterally, gait deferred"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

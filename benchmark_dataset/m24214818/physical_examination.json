@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "pulse": "98 bpm",
+                "blood_pressure": "142/85 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "Pale flushed elderly male, who appears ill",
+                "HEENT": "Non-icteric, moist mucous membranes",
+                "neck": "Supple",
+                "cardiovascular": "S1S2, tachycardia, regular, no murmurs, rubs, or gallops",
+                "respiratory": "Right lower lobe crackles",
+                "abdominal": "Markedly distended, diminished bowel sounds, + guarding, + rebound, not rigid",
+                "extremities": "No cyanosis, clubbing, or edema; 2+ pulses bilaterally",
+                "dermatological": "No rash",
+                "neurological": "Face symmetric, speech fluent",
+                "psychiatric": "Calm, cooperative"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

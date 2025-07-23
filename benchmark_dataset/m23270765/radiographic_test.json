@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI ABDOMEN W/O & W/CONTRAST",
+            "date": "Not specified",
+            "findings": "A 15 x 10 mm T2 hyperintense lesion in the right hepatic lobe consistent with a biliary hamartoma; mild intra and extra hepatic biliary dilatation with CBD measuring 7 mm; distended gallbladder with mild wall edema and pericholecystic fluid; diffusely low signal pancreas with restricted diffusion in the pancreatic head and neck; marked duodenal wall edema; mild dilatation of the main pancreatic duct measuring 4 mm; small amount of fluid in the pancreaticoduodenal groove; reactive lymph nodes in porta hepatis; 12-mm left adrenal nodule consistent with an adrenal adenoma; areas of scarring in upper pole of right kidney; small contour abnormality in the spleen consistent with an old infarct; trace bilateral pleural effusions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

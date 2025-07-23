@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute Pancreatitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with severe epigastric pain, elevated lipase levels (217), and other clinical signs consistent with acute pancreatitis. The abdominal ultrasound showed sludge in the gallbladder but no evidence of acute cholecystitis, ruling out gallstone-related pancreatitis."
+    }
+}

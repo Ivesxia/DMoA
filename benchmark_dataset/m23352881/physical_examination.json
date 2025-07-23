@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "blood_pressure": "126/59 mmHg",
+                "heart_rate": "51 bpm",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "HEENT": "Anicteric, dry mucous membranes",
+                "NECK": "Supple, JVP not elevated, no lymphadenopathy",
+                "CHEST": "Clear to auscultation bilaterally without rales or wheeze",
+                "CARDIOVASCULAR": "S1 S2 bradycardic regular without murmur/rub/gallop",
+                "ABDOMEN": "Soft, mildly distended, hypoactive bowel sounds, minimally tender to palpation in epigastrium, no masses or palpable organomegaly, well-healed appendectomy scar",
+                "EXTREMITIES": "No cyanosis/clubbing/edema. No foot ulcers.",
+                "NEUROLOGICAL": "Detailed and fluent historian, CN II-XII intact, no pronator drift, no asterixis",
+                "PSYCHIATRIC": "Calm, pleasant, appropriate"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CTA CHEST W&W/O C&RECONS, NON-CORONARY",
+            "date": "Not specified",
+            "findings": "Patchy ground-glass opacities throughout both lungs consistent with air trapping in the setting of small airways disease. Areas of dense atelectasis at the bases. No evidence of pulmonary embolism to the subsegmental level.",
+            "changes_over_time": "Note is made of a 7 mm splenic lesion which is unchanged from the prior exam."
+        },
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "Small lung volumes but no focal consolidations.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

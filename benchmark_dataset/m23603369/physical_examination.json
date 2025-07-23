@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "blood_pressure": "111/52 mmHg",
+                "heart_rate": "72 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "A&Ox3, NAD",
+                "head_and_neck": "No scleral icterus, mucus membranes moist",
+                "cardiovascular": "RRR",
+                "pulmonary": "No respiratory distress",
+                "abdominal": "Soft, nondistended, nontender, no rebound or guarding",
+                "dressings": "Clean, dry, intact, and closed with steri strips",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

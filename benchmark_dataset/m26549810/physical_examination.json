@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9°F",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "111/65 mmHg",
+                "respiratory_rate": "15 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "No apparent distress",
+                "neurological": "Alert and oriented x3",
+                "HEENT": "Extraocular movements intact, no scleral icterus",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/rubs/gallops",
+                "pulmonary": "Clear to auscultation bilaterally",
+                "abdomen": "Soft, no surgical scars, right upper quadrant tenderness, positive Murphy's sign",
+                "extremities": "Warm, well-perfused, distal pulses intact",
+                "dermatological": "No jaundice"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

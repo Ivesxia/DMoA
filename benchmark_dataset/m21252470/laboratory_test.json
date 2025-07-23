@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Acid Fast Bacilli Smear",
+            "date": "Not specified",
+            "findings": "No acid fast bacilli seen on direct smear. No acid fast bacilli seen on concentrated smear.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "There is a linear opacity at the left lung base, possibly scarring. No pneumonia, pleural effusion, or pericardial effusion detected. Liver appears normal in size with no biliary duct dilatation. Cholelithiasis present without evidence of acute cholecystitis. Right kidney shows no hydronephrosis, left kidney is surgically absent. Free extraluminal intraperitoneal air in the left upper-mid abdomen; few diverticula in the small bowel with no bowel obstruction or evidence of colitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5",
+                "heart_rate": "Not specified",
+                "blood_pressure": "132/77",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": {
+                "general": "Well appearing female, Nourishment: good, Grooming good, Mentation: WNL",
+                "eyes": "EOMI without nystagmus, Conjunctiva: clear",
+                "ENT": "Moist",
+                "cardiovascular": "Regular, S1, S2, Systolic Murmur at LUSB, Edema: 2+ DPP b/l",
+                "respiratory": "CTA bilaterally, Comfortable",
+                "gastrointestinal": "Soft, diffuse abdominal tenderness, periumbilical and b/l lower quadrants, no rebound",
+                "musculoskeletal": "Upper and lower extremity strength symmetrical",
+                "neurological": "Alert and oriented x 3, fluent speech",
+                "integument": "Warm, dry",
+                "psychiatric": "Appropriate"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9",
+                "heart_rate": "104",
+                "blood_pressure": "165/77",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits. There is a small pericardial effusion, likely physiologic, present on prior study, unchanged in volume. The liver demonstrates homogenous attenuation throughout with no evidence of focal lesions or biliary dilatation. The pancreas, spleen, and adrenal glands are normal. Kidneys are of normal size with cortical hypodensities stable from prior exams, likely cysts. A large hernia contains loops of nonobstructed bowel. There are pelvic hypodensities and possible abscesses associated with thickened vaginal wall.",
+            "changes_over_time": "Cortical hypodensities within the kidneys were present on prior examinations, stable and likely cysts. Hernia findings were also reported in previous examinations."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

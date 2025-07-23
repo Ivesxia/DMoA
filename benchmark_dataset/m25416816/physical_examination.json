@@ -1,0 +1,18 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.6°F",
+                "heart_rate": "90 bpm",
+                "blood_pressure": "107/47 mmHg",
+                "respiratory_rate": "24 breaths/min"
+            },
+            "relevant_findings": {
+                "description": "NAD, lying comfortably in bed; RRR, CTA B; S/ND/tender in the epigastrium; WWP",
+                "date": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

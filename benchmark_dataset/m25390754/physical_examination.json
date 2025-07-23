@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "78 bpm",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "NAD, lying comfortably on stretcher",
+                "cardiovascular": "RRR",
+                "pulmonary": "CTAB",
+                "gastrointestinal": "Slightly tender just to the right of and inferior to the umbilicus, some rebound tenderness, no guarding, pain with movement",
+                "digital_rectal_exam": "Normal tone, brown stool in vault, guaiac negative, no palpable masses",
+                "pelvic": "Small amount of old spotting, brownish blood mixed with some mucous"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

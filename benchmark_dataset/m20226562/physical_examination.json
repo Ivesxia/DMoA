@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "78 bpm",
+                "blood_pressure": "136/77 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "consciousness": "Alert and oriented x 3",
+                "general": "No acute distress",
+                "lungs": "Clear to auscultation bilaterally",
+                "heart": "Regular rate and rhythm",
+                "abdominal": "Tenderness to the right upper quadrant, soft, minimally distended, no hepatosplenomegaly"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

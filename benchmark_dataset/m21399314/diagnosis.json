@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "cholecystitis",
+        "differential_diagnosis": "E.coli and bacteroides bacteremia/biliary sepsis, paroxysmal atrial fibrillation, complete heart block, hypertension, gout, anxiety",
+        "diagnostic_reasoning": "The patient presented with severe abdominal pain primarily in the epigastrium, accompanied by nausea and vomiting. Laboratory findings indicated the presence of gram-negative rods, suggesting a bacterial infection. The clinical picture evolved to include fevers and had similarities to a previous episode of abdominal discomfort. Given the symptoms, findings, and microbiological evidence, cholecystitis was identified as the primary diagnosis."
+    }
+}

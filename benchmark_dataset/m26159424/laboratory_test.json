@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC count",
+            "date": "Not specified",
+            "findings": "WBC 20K, thrombocytopenia, mildly elevated ALP, TBili normal, LFTs WNL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C. difficile toxin A & B test",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Heart size is upper limits of normal, prominent pericardial fat, blunting of the left CP angles (consistent with known pleural effusion), likely atelectasis at the lung bases, no signs for overt pulmonary edema or focal consolidation.",
+            "changes_over_time": "Comparison is made to the prior CT abdomen and pelvis."
+        }
+    ]
+}

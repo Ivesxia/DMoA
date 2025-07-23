@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "APTIMA COMBO 2 Assay",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria gonorrhoeae. Validated for use on urine samples by the Microbiology Laboratory.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "No evidence of concerning focal lesion in the liver, gallbladder unremarkable, kidneys normal, concerning for acute appendicitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

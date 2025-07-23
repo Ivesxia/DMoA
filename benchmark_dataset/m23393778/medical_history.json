@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric discomfort",
+        "history_of_present_illness": "The patient states that for the last 3 days he has noted epigastric pressure in the form of a gassy feeling as well as heartburn. His symptoms are intermittent, lasting for hours. It is non-exertional, but perhaps comes with food. He endorsed nausea, but denies overt chest pain, shortness of breath, diaphoresis, or radiation. He further denies vomiting or change in bowel movements. He has had these symptoms (gas, bloating, and heartburn) in the past.",
+        "past_medical_history": "Diabetes mellitus type II, hypertension, dyslipidemia, gastro-esophageal reflux disease, depression, benign prostatic hypertrophy",
+        "family_history": "Positive for colon polyps, diabetes, negative for colon cancer",
+        "social_history": "Not specified"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Cholelithiasis with equivocal sonographic evidence; gallbladder is distended, CBD is enlarged.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is normal in shape and contour with increased echogenicity likely due to fatty infiltration. No focal hepatic lesions are identified. The gallbladder is normal without pericholecystic fluid or gallbladder wall thickening. There are no gallstones. No intra- or extra-hepatic biliary duct dilation. The common bile duct measures 4 mm. The imaged portions of the pancreas are normal. The tail and head are obscured by overlying bowel gas. The spleen is normal in size, measuring 11.8 cm. The right kidney measures 10.2 cm. The left kidney measures 10.5 cm. There are no renal masses, renal stones, or evidence of hydronephrosis. The abdominal aorta is normal in caliber. The imaged portions of the IVC are normal. There is no intra-abdominal ascites in the lower quadrants.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests (LFTs)",
+            "date": "Not specified",
+            "findings": "Elevated levels (specific values not provided)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Leukocyte Count",
+            "date": "Not specified",
+            "findings": "Leukocytosis of 15.7 (high)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound - Liver or Gallbladder",
+            "date": "Not specified",
+            "findings": "There is cholelithiasis, including gallstones in the gallbladder neck. No gallbladder wall edema or pericholecystic fluid. Mild intrahepatic biliary ductal dilatation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

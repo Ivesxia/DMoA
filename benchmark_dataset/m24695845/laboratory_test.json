@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated up to 15 mm in diameter with a fluid-filled lumen and hyperenhancement with surrounding fat stranding and a few small probably reactive nodes in the right lower quadrant measuring up to 5 mm in shortest dimension. There is no evidence for abscess or perforation.",
+            "changes_over_time": "A persistent ill-defined soft tissue density correlating with an opacity visible on a remote prior CT that has not really changed since that time. The nodule in the right lung base and left lower lobe are unchanged from prior examinations."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

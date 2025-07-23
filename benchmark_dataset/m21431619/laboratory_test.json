@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C. difficile toxin test",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile by the Illumigene DNA amplification assay. (Reference Range - Negative)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Findings include: Cardiomegaly with left ventricular enlargement; atelectasis and small pleural effusion; stable hepatic hemangioma and cyst; unchanged cortical irregularity in the right kidney; significant fat stranding and rim enhancing fluid collection consistent with abscess due to perforated appendix.",
+            "changes_over_time": "Stable findings regarding the liver lesions and unchanged renal irregularity since previous CT."
+        }
+    ]
+}

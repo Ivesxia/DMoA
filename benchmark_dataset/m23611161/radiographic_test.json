@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W & W/O CONTRAST, ADDL SECTIONS",
+            "date": "Not specified",
+            "findings": "The bases of the lungs are clear. The heart and pericardium are unremarkable. The liver enhances homogeneously, without focal lesions or intrahepatic biliary duct dilatation. The gallbladder is unremarkable. The portal vein is patent. The pancreas shows no focal or diffuse abnormalities. The spleen is normal in size and homogeneous. The adrenal glands are unremarkable. The kidneys present symmetric nephrograms and excretion of contrast with no focal lesions or urinary stones. No lymph node enlargement, free fluid, or free air in the upper abdomen. The appendix measures up to 9 to 10 mm in diameter without definite adjacent stranding. There is a small amount of pelvic free fluid. No lesions suspicious for malignancies are present.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

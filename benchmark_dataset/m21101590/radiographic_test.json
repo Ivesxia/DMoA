@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized lung bases are clear. The heart is normal in size and there is no evidence of pericardial effusion. The liver is normal in appearance and without focal abnormality. The portal venous system is patent. There is no evidence of intrahepatic or extrahepatic biliary dilatation. The gallbladder, pancreas, spleen, and bilateral adrenal glands are normal. The kidneys enhance symmetrically and are without suspicious solid mass. The stomach is grossly unremarkable in appearance. The small and large bowel are normal in caliber and without evidence of wall thickening. The appendix is fluid-filled and dilated up to approximately 1.0 cm. The appendiceal tip appears enlarged and somewhat indistinct, making early or impending rupture difficult to exclude. There is no retroperitoneal lymphadenopathy by CT size criteria. There is no free abdominal fluid or pneumoperitoneum. The aorta and iliac branches are normal in course and caliber. The celiac trunk and SMA are grossly patent. The bladder, sigmoid colon, and rectum are grossly unremarkable. There is no pelvic side-wall or inguinal lymphadenopathy by CT size criteria. No free pelvic fluid is identified. A sclerotic focus within the left ilium likely represents a bone island.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100°F",
+                "heart_rate": "103 bpm",
+                "blood_pressure": "130/73 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "93% on RA"
+            },
+            "relevant_findings": {
+                "general": "No acute distress (NAD), elderly, hard of hearing (HOH)",
+                "HEENT": "Clear conjunctivae, extraocular movements intact (EOMI), dry mucous membranes (MM)",
+                "cardiovascular": "Regular rate and rhythm (RRR), no murmur",
+                "lungs": "Clear to auscultation bilaterally (CTAB)",
+                "abdominal": "Soft, mild distention, positive tenderness to palpation (TTP) in right upper quadrant (RUQ), positive rebound tenderness, decreased bowel sounds (BS) throughout",
+                "extremities": "No edema",
+                "neurological": "Alert and oriented x3 (AAOx3)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

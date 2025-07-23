@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.1",
+                "blood_pressure": "121/82",
+                "heart_rate": "53",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "98% on RA"
+            },
+            "relevant_findings": {
+                "general": "Thin female laying in bed. NAD. Nourishment: OK. Grooming: good. Mentation: alert, speaks in full sentences.",
+                "eyes": "NC/AT, EOMI without nystagmus, no scleral icterus noted.",
+                "ears_nose_mouth_throat": "MMM, no lesions noted in OP.",
+                "neck": "Supple, no JVD or carotid bruits appreciated.",
+                "respiratory": "Lungs CTA bilaterally without R/R/W.",
+                "cardiovascular": "RRR, nl. S1S2, no M/R/G noted.",
+                "gastrointestinal": "Soft, diminished bowel sounds, no masses or organomegaly noted. + guarding and RLQ tenderness.",
+                "genitourinary": "No CVA tenderness, L adnexal tenderness.",
+                "rectal": "Guiac negative stool.",
+                "skin": "Very tanned with signs of chronic sun damage. R hip ecchymosis.",
+                "extremities": "No C/C/E bilaterally, 2+ radial, DP and ___ pulses bilaterally.",
+                "neurologic": "Alert, oriented x 3. Able to relate history without difficulty. Cranial nerves II-XII intact. Normal bulk, strength, and tone throughout."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "T = Tm = 100.6",
+                "blood_pressure": "132/87",
+                "heart_rate": "68",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "96% RA"
+            },
+            "relevant_findings": "Significant RLQ tenderness with guarding and rebound.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

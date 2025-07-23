@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.7 °F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "104/54 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "93% on room air"
+            },
+            "relevant_findings": {
+                "general": "A&O x 3, NAD",
+                "pulmonary": "Breathing comfortably on room air",
+                "cardiac": "RRR, no m/r/g/c",
+                "abdominal": "Mildly tender around incision, incision c/d/i, no erythema or drainage, nondistended, +BS",
+                "extremities": "+pulses, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

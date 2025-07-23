@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Methylprednisolone IV",
+            "date": "Not specified",
+            "findings": "Patient received 500mg IV x 1.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

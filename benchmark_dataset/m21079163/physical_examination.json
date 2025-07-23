@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9 °F",
+                "heart_rate": "125 bpm",
+                "blood_pressure": "125/75 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "well appearing, no acute distress",
+                "HEENT": "PERRLA, no icterus, moist mucous membranes",
+                "neck": "no JVD",
+                "cardiovascular": "regular rate and rhythm, soft ejection murmur audible over precordium",
+                "pulmonary": "breathing comfortably on room air, large anterior-posterior diameter suggestive of hyperinflation, clear to auscultation bilaterally",
+                "abdominal": "soft, without rebound or guarding, biliary drain in place with green-tinged clear drainage",
+                "neurological": "alert and oriented to person, place and time without gross focal deficit",
+                "musculoskeletal": "left lower extremity examined, notable for left hallux post-amputation with a clean-appearing surgical site, left second and third toes tender with palpation and movement, small blistering lesions with tense skin over the toe but no overt cellulitis or drainage visible",
+                "skin": "warm and dry",
+                "access": "peripheral intravenous access, right upper extremity arteriovenous fistula"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

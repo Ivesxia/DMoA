@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Foley catheter placement",
+            "date": "Not specified",
+            "findings": "Dark amber urine",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Angiography of the Chest",
+            "date": "Not specified",
+            "findings": "No evidence of aneurysm or dissection; normal caliber of the main pulmonary artery; bibasilar atelectasis, left greater than right, increased since previous imaging.",
+            "changes_over_time": "Increased bibasilar atelectasis since previous imaging."
+        },
+        {
+            "procedure_name": "ABG (Arterial Blood Gas)",
+            "date": "Not specified",
+            "findings": "Respiratory alkalosis",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

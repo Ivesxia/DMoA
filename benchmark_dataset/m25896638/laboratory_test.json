@@ -1,0 +1,76 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC count 7.3 with 86% PMNs",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ProBNP",
+            "date": "Not specified",
+            "findings": "ProBNP 54",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chem 7",
+            "date": "Not specified",
+            "findings": "Normal with exception of bicarb 19, BUN 27",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Troponin",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Initial elevated at 4.3; 2.1 on repeat after 2L NS",
+            "changes_over_time": "Lactate decreased from 4.3 to 2.1"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Large leukocyte esterase, large blood, 30 protein, RBCs, 48 WBCs, few bacteria, negative nitrites",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "D-dimer",
+            "date": "Not specified",
+            "findings": "Elevated at 3252",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Influenza PCR",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Influenza swab",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CTA Chest",
+            "date": "Not specified",
+            "findings": "Patchy ground-glass opacities throughout both lungs consistent with air trapping; no evidence of pulmonary embolism",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Chest",
+            "date": "Not specified",
+            "findings": "7 mm splenic lesion unchanged from the prior exam; borderline low hepatic density",
+            "changes_over_time": "Splenic lesion unchanged from prior exam"
+        },
+        {
+            "procedure_name": "Bacterial culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (≥ 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

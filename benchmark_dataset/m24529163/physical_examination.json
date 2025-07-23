@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "97 bpm",
+                "blood_pressure": "136/78 mmHg",
+                "respiratory_rate": "20 rpm",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "NAD (No Acute Distress)",
+                "HEENT": "Neck supple, trachea midline, sclera non-icteric",
+                "cardiovascular": "Regular rate and rhythm",
+                "respiratory": "Unlabored respirations",
+                "abdominal": "Soft, nontender, focal tenderness in right lower quadrant, positive Rovsing's sign, negative psoas and obturator signs",
+                "extremities": "No cyanosis, clubbing or edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

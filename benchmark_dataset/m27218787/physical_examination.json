@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6",
+                "heart_rate": "103",
+                "respiratory_rate": "16",
+                "blood_pressure": "144/66",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "alertness": "Alert and oriented",
+                "heart": "Regular rate and rhythm (RRR)",
+                "lungs": "Clear to auscultation (CTA)",
+                "abdomen": "Soft, non-distended, tender to palpation in right lower quadrant (RLQ) and suprapubic area",
+                "edema": "No edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

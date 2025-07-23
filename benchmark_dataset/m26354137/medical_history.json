@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain for 1 day.",
+        "history_of_present_illness": "The patient has a 1-day history of abdominal pain, difficulty recounting earlier symptoms, but she appeared unwell upon examination. Symptoms have been stable with no pain at rest and some urinary frequency.",
+        "past_medical_history": "Schizophrenia, OCD, hypothyroidism, hypertension, hyperlipidemia, aortic stenosis, strabismus, peripheral vascular disease, uterine prolapse.",
+        "family_history": "Not specified.",
+        "social_history": "Lives in a facility."
+    }
+}

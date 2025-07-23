@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Pain started last night at 9 PM in the epigastric area, radiating down to the umbilical area. It is described as crampy and sharp, not radiating to the back. Associated with multiple episodes of nausea and vomiting (7 times today). Patient has had 3 prior attacks lasting approximately 24 hours each, with the first attack occurring a few weeks ago.",
+        "past_medical_history": "Gastritis, Osteopenia",
+        "family_history": "Mother is alive, has hypertension. Father passed at age ___ from kidney cancer. Aunt had breast cancer at age ___.",
+        "social_history": "Denies any recent alcohol use."
+    }
+}

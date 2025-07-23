@@ -1,0 +1,42 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung_bases": "no nodule, opacity or pleural effusion",
+                "liver": "unremarkable",
+                "spleen": "unremarkable",
+                "pancreas": "unremarkable",
+                "adrenal_glands": "unremarkable",
+                "kidneys": "unremarkable",
+                "ureters": "unremarkable",
+                "small_bowel": "unremarkable",
+                "appendix": "borderline in size, measuring 6 mm, fluid filled with multiple appendicoliths",
+                "right_lower_quadrant": "slight inflammatory stranding",
+                "bowel_obstruction": "no evidence",
+                "pelvis": {
+                    "rectum": "unremarkable",
+                    "sigmoid_colon": "unremarkable",
+                    "bladder": "unremarkable",
+                    "prostate": "normal",
+                    "osseous_structures": "unremarkable",
+                    "fluid_collection": "no abnormal fluid collection to suggest abscess"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": {
+                "result": "0.2 mg/dL",
+                "reference_range": {
+                    "lower": 0.2,
+                    "upper": 1.0
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

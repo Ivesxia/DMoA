@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified.",
+            "findings": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites. CBD measures 7.2 mm (upper limit of normal). There is a 5 mm stone in the gallbladder neck, in addition to several additional stones adjacent to the neck. The gallbladder wall is mildly thickened, measuring up to 4 mm. The gallbladder does not appear distended and there is no pericholecystic fluid. Imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation. The right kidney measures 10.6 cm, and is without evidence of hydronephrosis or nephrolithiasis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified.",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Values measurement",
+            "date": "Not specified.",
+            "findings": "1.3 mmol/L (ref range: 0.5 - 2.0).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

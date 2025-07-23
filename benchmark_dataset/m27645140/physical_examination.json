@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "additional_info": {
+                    "Levophed": "0.18",
+                    "IVF": "5000",
+                    "UO": "1570",
+                    "OG": "500",
+                    "intubated": true,
+                    "sedated": true,
+                    "arousable": true
+                }
+            },
+            "relevant_findings": {
+                "lung_exam": "Lung volumes are low.",
+                "endotracheal_tube_position": "Approximately 1 cm from the carina.",
+                "central_venous_catheter_position": "Remains in good position.",
+                "NGT_position": "In satisfactory position.",
+                "abdominal_exam": "Tender bilateral lower quadrants, no peritonitis.",
+                "incision": "Lower midline incision well healed.",
+                "other": "Copious diarrhea, non-bloody guaiac positive."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

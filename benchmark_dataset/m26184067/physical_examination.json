@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.5 °F",
+                "heart_rate": "104 bpm",
+                "blood_pressure": "132/93 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "NAD, resting comfortably",
+                "cardiovascular": "RRR",
+                "respiratory": "clear, no wheezing",
+                "abdominal": "oft, scaphoid, ttp in RLQ with voluntary guarding, negative Rovsing, obturator, or psoas sign, no prior surgical incisions, no hernias",
+                "extremities": "no c/c/e"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

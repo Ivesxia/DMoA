@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F PO",
+                "blood_pressure": "135/92 mmHg",
+                "heart_rate": "93 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and in no apparent distress, laying in bed, looks comfortable",
+                "eyes": "Anicteric",
+                "ent": "Ears and nose without visible erythema, masses, or trauma. Oropharynx without visible lesion, erythema or exudate. Moist mucus membranes.",
+                "cv": "Heart regular, no murmur, no S3, no S4. 2+ radial pulses bilaterally.",
+                "resp": "Lungs clear to auscultation with good air movement bilaterally. Breathing is non-labored on room air.",
+                "gi": "Abdomen soft, non-distended, tender in RUQ. Bowel sounds present. No rebound or guarding.",
+                "gu": "No suprapubic fullness or tenderness to palpation, no Foley.",
+                "msk": "Moves all extremities. No edema. Reproducible pain with palpation of chest.",
+                "skin": "No rashes or ulcerations noted.",
+                "neuro": "Alert, oriented, face symmetric, speech fluent.",
+                "psych": "Pleasant, appropriate affect, calm, cooperative."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

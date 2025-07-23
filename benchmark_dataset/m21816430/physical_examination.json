@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "General: Alert and oriented ×3, no apparent distress. Heart: Regular rate and rhythm, no murmurs. Lungs: Clear to auscultation bilaterally, no respiratory distress or effort. Abdomen: Soft, Rovsing negative, tenderness in right lower quadrant with no peritoneal signs.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

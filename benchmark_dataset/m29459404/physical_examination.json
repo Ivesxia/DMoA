@@ -1,0 +1,19 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "blood_pressure": "147/86 mmHg",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "cardiovascular": "rate, rhythm is regular",
+                "respiratory": "bilateral breath sounds clear",
+                "abdominal": "obese, nondistended abdomen, positive right upper quadrant pain, no rebound, positive ___ sign"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Small mobile gallstones identified within a mildly distended gallbladder; small amount of pericholecystic fluid without wall edema; no intrahepatic biliary dilation; hepatic parenchyma appears within normal limits; no focal liver mass; the main portal vein is patent; no ascites; imaged portion of pancreas appears within normal limits; no masses or pancreatic ductal dilation; no masses, hydronephrosis, or stones in kidneys.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

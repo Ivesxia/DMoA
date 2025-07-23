@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Tm 101.3",
+                "temperature_alternate": "Tc 100.2",
+                "heart_rate": "Not specified",
+                "blood_pressure": "140-150s/90s",
+                "respiratory_rate": "Not specified",
+                "SpO2": "100% on RA"
+            },
+            "relevant_findings": {
+                "general": "Appears uncomfortable, AAOx3",
+                "HEENT": "Neck supple, trachea midline",
+                "cardiovascular": "RRR",
+                "pulmonary": "CTAB",
+                "abdominal": "Soft, non-distended, exquisite tenderness in RLQ, negative psoas/obturator sign, + Rovsing's, no guarding",
+                "rectal": "No perirectal tenderness appreciated, no blood, + stool, normal tone",
+                "extremities": "Non-edematous, warm, well-perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

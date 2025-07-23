@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right-sided abdominal pain",
+        "history_of_present_illness": "Pain began at 2 AM; patient experienced what he perceived as 'gas pain' throughout the abdomen, with significant belching. Pain persisted despite a normal bowel movement. It waxed and waned but never decreased below a certain baseline. Prior to presenting to the ED, the pain was diffuse but became localized to the RUQ after administration of morphine, decreasing in intensity. The pain was constant, not radiating, and not sharp.",
+        "past_medical_history": "Significant coronary artery disease (NSTEMI), hypertension, hyperlipidemia, obesity, OSA on CPAP, history of hypersensitivity vasculitis, history of CMV infection, GERD, PUD, hemorrhoids, systolic CHF with LVEF 37%, mild to moderate aortic insufficiency, dilated aortic root.",
+        "family_history": "Father deceased at age unspecified, sudden death; paternal uncle had lung cancer.",
+        "social_history": "Not specified."
+    }
+}

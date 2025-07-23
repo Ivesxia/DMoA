@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "108 bpm",
+                "blood_pressure": "103/59 mmHg",
+                "respiratory_rate": "19 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented to person and place but confused; no acute distress.",
+                "HEENT": "No scleral icterus. Conjunctivae clear.",
+                "cardiovascular": "Irregular rhythm, normal S1 and S2, no murmurs, gallops, or rubs.",
+                "pulmonary": "Clear to auscultation anteriorly.",
+                "abdominal": "Soft, distended, exquisitely tender to palpation in the right lower quadrant with rebound and guarding; minimal diffuse tenderness; palpable umbilical hernia in well-healed surgical incision without overlying skin changes.",
+                "neurological": "Alert, able to relay recent history, face is symmetric."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The stomach, duodenum, and small bowel are within normal limits, without evidence of wall thickening or obstruction. Scattered colonic diverticula are noted. There is wall thickening and extensive surrounding fat stranding centered around the cecum. There is no evidence of macro perforation or abscess formation. There is mild reactive changes at the base of the appendix, which is large in diameter, up to 10mm but otherwise unremarkable and distally filled with air.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

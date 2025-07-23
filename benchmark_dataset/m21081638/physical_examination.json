@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.7°F",
+                "blood_pressure": "125/87 mmHg",
+                "heart_rate": "125 bpm",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "Pleasant, elderly female appears uncomfortable.",
+                "HEENT": "No conjunctival pallor. No icterus. Mucous membranes moist.",
+                "neck": "Supple. Jugular venous pressure low.",
+                "cardiovascular": "Regular. Tachycardic. Normal S1, S2. No murmurs.",
+                "lungs": "Clear to auscultation bilaterally.",
+                "chest": "Left subclavian port site clean, dry, and intact.",
+                "abdomen": "Normoactive bowel sounds. Soft. Mildly distended. Tender to palpation in right upper quadrant (RUQ) and right lower quadrant (RLQ) (RLQ > RUQ) without rebound or rigidity. Allows deep palpation in RUQ but not RLQ.",
+                "extremities": "Warm, well-perfused. 1+ bilateral edema. Full distal pulses.",
+                "neurological": "Alert and oriented times three. Appropriate. Cranial nerves grossly intact. Moving all extremities."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

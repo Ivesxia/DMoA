@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient's symptoms of recurrent abdominal pain, particularly right-sided pain, and imaging findings from the CT scan showing a fluid-filled and dilated appendix consistent with appendicitis support the final diagnosis."
+    }
+}

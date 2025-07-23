@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right lower quadrant abdominal pain.",
+        "history_of_present_illness": "Pain is constant. Initially periumbilical, then moved to right lower quadrant. Subjective fevers noted at home. Previous similar episode occurred ___ years ago.",
+        "past_medical_history": "Irritable bowel syndrome.",
+        "family_history": "No Crohn's or ulcerative colitis. Maternal grandfather died of unknown cancer.",
+        "social_history": "Not specified."
+    }
+}

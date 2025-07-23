@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2 °F",
+                "heart_rate": "91 bpm",
+                "blood_pressure": "132/79 mmHg",
+                "respiratory_rate": "15 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and awake, oriented to person, place, and time.",
+                "heart": "Regular rate and rhythm, normal S1 and S2.",
+                "pulmonary": "Clear to auscultation bilaterally.",
+                "abdominal": "Soft, nontender, mild distention, with non-saturated dressings over three trocar sites.",
+                "extremities": "Peripheral pulses intact bilaterally.",
+                "neurological": "Motor and sensation intact bilaterally."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

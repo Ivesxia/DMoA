@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Pain present for about 48 hours, located in the epigastric and right upper quadrant (RUQ), constant and nonradiating. Associated with nausea, vomiting (emesis), and decreased oral intake. Denies fever and diarrhea. Had similar pain 6 months ago.",
+        "past_medical_history": "Hepatic steatosis, gout, celiac disease, hypertension, hypertriglyceridemia, benign prostatic hyperplasia.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

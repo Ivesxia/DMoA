@@ -1,0 +1,46 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The transplanted kidney fails to take up contrast. Embolization coils are noted. The degree of stranding seen around the transplanted kidney has decreased from prior study. There is no fluid collection or evidence of abscess.",
+            "changes_over_time": "The degree of stranding seen around the transplanted kidney has decreased from prior study."
+        },
+        {
+            "procedure_name": "TTE",
+            "date": "Not specified",
+            "findings": "No evidence of vegetation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Doppler renal US",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ECHO",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT abdomen",
+            "date": "Not specified",
+            "findings": "Demonstrated slightly increased stranding around the failed right lower quadrant renal transplant reflecting continued rejection post embolization or infection.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "PET scan",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

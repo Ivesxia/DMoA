@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain for 48 hours.",
+        "history_of_present_illness": "Symptoms began 48 hours ago; the pain is constant, diffuse at first but localized towards the left lower quadrant (LLQ) in the last 24 hours. Pain worsens with bending over or rolling on her side and improves when laying still on her back. No prior episodes of similar pain.",
+        "past_medical_history": "Chronic back pain, Rosacea, Iron deficiency anemia, Irregular uterine bleeding.",
+        "family_history": "Father had myocardial infarction, Mother had a stroke; Mother has hypertension.",
+        "social_history": "Not specified."
+    }
+}

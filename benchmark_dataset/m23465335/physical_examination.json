@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.7°F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "147/93 mmHg",
+                "respiratory_rate": "15 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "In NAD. Appears to be in pain.",
+                "cardiovascular": "RRR, no m/r/g; radial and DP pulses 2+ b/l",
+                "respiratory": "CTA b/l. Normal breath sounds.",
+                "abdominal": "Bowel sounds normal. Soft, tender to palpation in epigastrium, and non-distended. No rebound tenderness.",
+                "neurological": "Alert and oriented x 3 with no deficits.",
+                "extremities": "Warm and well-perfused. No edema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

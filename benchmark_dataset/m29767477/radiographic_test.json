@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in echotexture without focal lesions. Normal common bile duct measuring 3 mm. The pancreas is normal but not well seen. Normal aorta and IVC. Right kidney without hydronephrosis. Gallbladder distended with multiple gallstones, including two in the neck measuring up to 2 cm. No mural thickening or pericholecystic fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

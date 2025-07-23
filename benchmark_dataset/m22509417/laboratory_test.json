@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is visualized and appears dilated to 8 mm, has wall enhancement and is fluid filled. No evidence of free fluid, free air or abdominal wall hernias.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture (Concentration)",
+            "date": "Not specified",
+            "findings": "2.0 mmol/L (reference range 0.5 - 2.0).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

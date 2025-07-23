@@ -1,0 +1,35 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "36.7 C",
+                "pulse": "104 bpm",
+                "blood_pressure": "224/76 mmHg",
+                "respiratory_rate": "18 bpm"
+            },
+            "relevant_findings": {
+                "general": "Obese male in NAD",
+                "HEENT": "anicteric sclera, PERRL, EOMI, MOM, OP clear",
+                "neck": "supple, non-tender, no JVD, no LAD",
+                "lungs": "non-labored, CTAB",
+                "CV": "RRR, no MRG",
+                "abdomen": "protuberant, distended but soft, TTP epigastrium and RUQ, no rebound/guarding",
+                "extremities": "warm well perfused, RLE with well healed surgical incision and 2+ edema to knee, LLE with 1+ pedal edema",
+                "neurological": "A&O, SILT, MAE"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0 F",
+                "pulse": "109 bpm",
+                "blood_pressure": "215/89 mmHg",
+                "respiratory_rate": "26 bpm"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Hypertension increased to 221/102 while in ED"
+        }
+    ]
+}

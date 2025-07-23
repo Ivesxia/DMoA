@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated measuring 8 mm with no oral contrast seen within it. There is mild mucosal hyperemia and likely mural thickening.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

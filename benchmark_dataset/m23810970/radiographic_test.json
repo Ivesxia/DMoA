@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Small dependent filling defects in the common bile duct likely representing sludge and/or tiny stones. The gallbladder contains sludge and multiple gallstones. Diffuse gallbladder wall edema is present. Slightly decreased gallbladder distention compared to the CT from ___.",
+            "changes_over_time": "Slightly decreased gallbladder distention compared to the CT from ___."
+        }
+    ]
+}

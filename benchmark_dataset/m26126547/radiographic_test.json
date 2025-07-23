@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "No substantial interval change from the previous examination with no pneumothorax or new focal consolidation. Scattered areas of calcification within the pleura and right lung base, as seen on prior chest CT and worrisome for metastatic calcification.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "SCROTAL U.S.",
+            "date": "Not specified",
+            "findings": "The right testicle measures: 2.0 x 2.1 x 3.5 cm. The left testicle measures: 2.1 x 2.9 x 3.8 cm. The testes are heterogeneous bilaterally, left greater than right, however no discrete nodule or focal mass is visualized. Punctate nonshadowing echogenicities bilaterally in the testes are compatible with microlithiasis. A cyst at the head of the right epididymis measures 4 mm. Cystic structure or small spermatocele in the right epididymal body measuring 1.4 x 0.5 x 1.2 cm. Bilateral hydroceles noted, left greater than right.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

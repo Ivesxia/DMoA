@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "95.0",
+                "heart_rate": "116",
+                "blood_pressure": "124/69",
+                "respiratory_rate": "20",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "No acute distress (NAD), no scleral icterus",
+                "cardiovascular": "Tachycardic",
+                "respiratory": "Clear to auscultation bilaterally (CTA-B)",
+                "abdominal": "Soft, epigastric tenderness, mild right lower quadrant/left lower quadrant tenderness, + rebound tenderness, no guarding",
+                "extremities": "No cyanosis/clubbing/edema (c/c/e)",
+                "digital_rectal_examination": "Reportedly guaiac negative"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

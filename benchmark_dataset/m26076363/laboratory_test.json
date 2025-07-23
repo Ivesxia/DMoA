@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Fluoroscopy of Gallbladder and Bile Ducts using Other Contrast",
+            "date": "Not specified",
+            "findings": "Fluoroscopic images demonstrate injection of contrast into the gallbladder and cystic duct with opacification of the intrahepatic biliary tree and common bile duct with passage of contrast into the duodenum. Stones are noted within the gallbladder. No filling defects identified within the cystic duct and CBD.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "4.1 mg/dL (Normal range: 2.7 - 4.5 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

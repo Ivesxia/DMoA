@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Multiple gallstones are visualized in the gallbladder with one stone at the ostium of the cystic duct. The gallbladder wall appears mildly but uniformly thickened. There is mild bibasilar atelectasis. No pericholecystic inflammatory stranding, no free fluid or free air in the abdomen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

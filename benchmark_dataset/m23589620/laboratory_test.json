@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "No MRSA isolated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Interval placement of a right-sided PICC line noted; lung volumes slightly low but better expanded compared to the previous study. Less crowding of the pulmonary vasculature and improved bibasilar atelectasis. Stable cardiomediastinal contours. No pleural effusions or pneumothorax.",
+            "changes_over_time": "Lungs appear better expanded compared to the previous study."
+        }
+    ]
+}

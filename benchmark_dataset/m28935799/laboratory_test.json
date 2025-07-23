@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "INR",
+            "date": "Not specified",
+            "findings": "INR is 8 today, which is outside the normal range (usually at range ___).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "Not specified",
+            "findings": "Serum creatinine value of 1.6, with estimated GFR = 33 if non-African-American and 40 if African-American. GFR < 60 indicates Chronic Kidney Disease.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "VRE Isolation",
+            "date": "Not specified",
+            "findings": "No VRE isolated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Pulmonary vessels are less engorged, consistent with some improvement in pulmonary venous pressure.",
+            "changes_over_time": "In comparison with the study of ___, there is little change, except for removal of endotracheal and nasogastric tubes."
+        }
+    ]
+}

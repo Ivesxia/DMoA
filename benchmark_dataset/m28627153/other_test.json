@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABDOMEN AND PELVIS WITHOUT IV CONTRAST",
+            "date": "Not specified",
+            "findings": "The previously noted right small pleural effusion has resolved. There is a persistent small left pleural effusion which is not significantly changed. There is minimal atelectasis in the left lower lobe. The liver is without focal lesions. A stone is identified in the gallbladder. The spleen, pancreas, adrenal glands, and left kidney are unremarkable. In the right kidney, there is a 1.1 cm hypodense lesion that is too small to characterize, stable in size and likely represents a cyst. Extensive diverticula are seen throughout the colon. There is minimal focal dilatation of the aorta to 2.5 cm in the infrarenal portion, unchanged. A colostomy is noted in the left lower quadrant.",
+            "changes_over_time": "The collection in the left lower quadrant has decreased in size, from 5.7 x 3.4 cm to 4.7 x 2.7 cm. A small collection in the right lower quadrant is also decreased in size, from 3.5 x 2.2 cm to 2.8 x 2.1 cm."
+        },
+        {
+            "procedure_name": "CSF Test",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA. (Reference Range-Negative).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

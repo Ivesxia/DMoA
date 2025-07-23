@@ -1,0 +1,43 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "107 bpm",
+                "blood_pressure": "149/97 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Comfortable, non-toxic, no acute distress",
+                "GI": "Soft abdomen with diffuse tenderness, most pronounced in the LLQ, active bowel sounds, well-healed colostomy scar",
+                "rectal": "Large area of erythema with multiple superficial abrasions, very tender to palpation"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "81 bpm",
+                "blood_pressure": "118/62 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "94% on room air"
+            },
+            "relevant_findings": {
+                "general": "Pleasant middle-aged man, sitting on side of bed, appears comfortable",
+                "HEENT": "AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, MMM",
+                "neck": "Supple",
+                "heart": "RRR, normal S1/S2, no murmurs, gallops, thrills, or rubs",
+                "lungs": "CTAB, no wheezes, rales, rhonchi",
+                "abdomen": "Soft, obese, non-distended, LLQ tenderness on deep palpation, hyperactive bowel sounds",
+                "rectal": "External exam with diffuse erythema and erosions, significant tenderness",
+                "extremities": "Warm and well-perfused, no cyanosis, clubbing, or edema",
+                "neurological": "A&Ox3, moving all 4 extremities with purpose",
+                "skin": "Warm and well-perfused, eczematous lesions"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

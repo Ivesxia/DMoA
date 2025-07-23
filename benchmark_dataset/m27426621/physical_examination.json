@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "90 bpm",
+                "blood_pressure": "133/84 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "NAD, appears stated age, A&Ox3",
+                "cardiovascular": "RRR",
+                "respiratory": "unlabored respirations on RA",
+                "abdomen": "Soft, TTP in the RUQ, worse with deep breath. No rebound or guarding. Well healed old appy and hysterectomy surgical scars",
+                "extremities": "WWP"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

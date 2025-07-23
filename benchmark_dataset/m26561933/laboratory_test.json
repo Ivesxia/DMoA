@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Stool Culture",
+            "date": "Not specified",
+            "findings": "NO ENTERIC GRAM NEGATIVE RODS FOUND. NO SALMONELLA OR SHIGELLA FOUND.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "The cardiomediastinal silhouette and hilar contours are normal. The right lung is clear. The right hemidiaphragm is elevated. An ill-defined linear opacity is noted within the left upper lobe which might represent a focus of atelectasis/scarring. No pleural effusion or pneumothorax is detected.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.9°F",
+                "heart_rate": "103 bpm",
+                "blood_pressure": "129/73 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "NAD, A+Ox3",
+                "cardiovascular": "tachycardic",
+                "pulmonary": "clear to auscultation, bilaterally",
+                "abdominal": "soft, mildly distended, tender to palpation RLQ with mild voluntary guarding, no rebound tenderness",
+                "extremities": "warm, well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

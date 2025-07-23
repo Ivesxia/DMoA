@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "No evidence of free intraperitoneal gas; however, the clarity of the films is uncertain, and free air may not be detectable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

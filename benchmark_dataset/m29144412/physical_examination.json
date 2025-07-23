@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "heart_rate": "104 bpm",
+                "blood_pressure": "100/60 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "supplemental_oxygen": "98% on 2L"
+            },
+            "relevant_findings": {
+                "general_appearance": "alert and oriented x 3, NAD",
+                "cardiovascular": "normal S1, S2, no murmurs",
+                "respiratory": "CTAB",
+                "abdominal": "soft, obese abdomen, non-distended, appropriate tenderness at port sites and RLQ, incisions c/d/i, minimal serosanguinous drainage onto port site dressings"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

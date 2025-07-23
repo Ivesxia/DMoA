@@ -1,0 +1,49 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "status": "within normal limits",
+                    "contour": "smooth",
+                    "focal_mass": "none"
+                },
+                "bile_ducts": {
+                    "intrahepatic_dilation": "none",
+                    "CHD_measurement": "3 mm"
+                },
+                "gallbladder": {
+                    "wall_thickening": "present",
+                    "wall_edema": "present",
+                    "sludge": "present",
+                    "distension": "not significantly distended"
+                },
+                "pancreas": {
+                    "visualization": "not well visualized",
+                    "obscured_by": "overlying bowel gas"
+                },
+                "spleen": {
+                    "echogenicity": "normal",
+                    "measurement": "12 cm"
+                },
+                "kidneys": {
+                    "hydronephrosis": "none"
+                },
+                "retroperitoneum": {
+                    "visualized_vessels": "within normal limits"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": {
+                "fungus_isolated": "NO FUNGUS ISOLATED",
+                "recommendation": "A swab is not optimal for recovery of mycobacteria or filamentous fungi. A negative result should be interpreted with caution."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "A millimetric perifissural nodule on the left is likely a lymph node. The liver enhances homogeneously without focal lesions. Normal gallbladder with no intra or extrahepatic biliary ductal dilation. The spleen, pancreas, and adrenal glands are unremarkable. The kidneys enhance symmetrically and excrete contrast without hydronephrosis. Noted a duplicated right renal collecting system. The base of the appendix is dilated to 9 mm, compatible with acute appendicitis. There is para-appendiceal stranding, no extraluminal air, and no free fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Blood Test",
+            "date": "Not specified",
+            "findings": "1.2 mmol/L, within normal range (0.5 - 2.0 mmol/L).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

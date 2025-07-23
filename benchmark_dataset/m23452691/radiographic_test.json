@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The lung bases are clear. The heart is normal in size. There is no pericardial effusion. The liver, gallbladder, spleen, pancreas, and adrenal glands are unremarkable. Bilateral kidneys enhance symmetrically without hydronephrosis or hydroureter. Contrast opacifies the stomach and progresses normally to the level of descending colon. There is no evidence of obstruction. Appendiceal hyperemia and subjacent fat stranding with borderline enlargement to 7 mm. No evidence of perforation or abscess formation. The bladder, uterus, adnexa, and rectum appear unremarkable. There is no inguinal or pelvic sidewall lymphadenopathy. Small amount of free fluid within the pelvis. No focal concerning lesion on bone window.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

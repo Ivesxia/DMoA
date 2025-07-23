@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The tip of the appendix is dilated, fluid filled and measures 10 mm with subtle mild surrounding inflammation consistent with appendicitis. Visualized lung fields are within normal limits. No evidence of pleural or pericardial effusion. The liver enhances homogeneously without focal lesion or intrahepatic biliary dilatation. The gallbladder is unremarkable, and the portal vein is patent. Pancreas, spleen, and adrenal glands are unremarkable. Kidneys present symmetric nephrograms and excretion of contrast with no focal lesions, stones, or hydronephrosis. Small and large bowel are normal in caliber without evidence of obstruction. No retroperitoneal or mesenteric lymphadenopathy by CT size criteria. No ascites, free air or abdominal hernia. Urinary bladder is unremarkable. No evidence of pelvic or inguinal lymphadenopathy. No free fluid in the pelvis. No lytic or sclerotic lesion suspicious for malignancy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

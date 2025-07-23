@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "HOLD. SPECIMEN TO BE HELD 48 HOURS AND DISCARDED.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "12-mm hypoattenuating lesion at the liver dome likely representing a simple cyst; 11 mm lesion in the spleen likely representing a small hemangioma or cyst; appendix fluid filled and dilated measuring 10 mm with an intraluminal appendicolith; periappendiceal fat stranding without evidence of abscess formation or perforation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

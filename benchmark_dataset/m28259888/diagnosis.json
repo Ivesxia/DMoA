@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with acute onset sharp right lower quadrant (RLQ) pain, a finding consistent with appendicitis. Imaging (CT abdomen and pelvis) revealed an enlarged appendix measuring 1.2 cm with hyperemic and thickened walls, significant surrounding fat stranding, and phlegmonous changes, indicating appendiceal perforation with possible abscess formation."
+    }
+}

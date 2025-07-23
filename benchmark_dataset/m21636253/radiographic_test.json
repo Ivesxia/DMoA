@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Fluid-filled and mildly dilated appendix measuring 8 mm with associated hyperemia of the walls, mild surrounding fat stranding; imaged lung bases clear without pulmonary nodules or pleural effusions; normal heart and pericardium; liver enhances homogeneously without focal lesions; normal gallbladder, kidneys enhancing and excreting contrast without hydronephrosis; normal adrenal glands, spleen, pancreas; normal abdominal aorta; no significant retroperitoneal or mesenteric lymphadenopathy; normal stomach, small and large bowel; urinary bladder and distal ureters normal; trace pelvic free fluid within physiologic range; normal rectum and sigmoid colon; 2.1 cm left adnexal cyst within physiologic range; no bone lesions suspicious for infection or malignancy; severe levoconvex scoliosis of the lumbar spine, with sacralization of the fifth lumbar vertebra.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Illumigene DNA amplification assay",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is echogenic, denoting fatty infiltration. Mild sparing near the gallbladder fossa. No focal intrahepatic lesion or intrahepatic bile duct dilation. The main portal vein is patent. CBD is not distended, measuring 6 mm. Gallbladder is distended, containing an immobile 2.5 cm stone. Gallbladder wall is slightly thickened with a small amount of pericholecystic fluid. Irregular gallbladder wall near the fundus concerning for ulceration. Mild focal tenderness present.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

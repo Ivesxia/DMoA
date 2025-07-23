@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient reports abdominal pain that started as vague periumbilical pain but is now focused in the right lower quadrant (RLQ).",
+        "past_medical_history": "IDDM, anxiety, hyperlipidemia (HLD), hypothyroidism, history of supraventricular tachycardia (SVT) status post ablation.",
+        "family_history": "Not specified.",
+        "social_history": "Personal history of tobacco use."
+    }
+}

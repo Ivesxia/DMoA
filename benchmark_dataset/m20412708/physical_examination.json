@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6 °F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "122/87 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular rate and rhythm",
+                "abdominal": "Soft, nondistended, significant tenderness to palpation in the right lower quadrant and McBurney's point",
+                "pelvic": "Normal pelvic examination",
+                "gu_flank": "No costovertebral angle tenderness",
+                "skin": "No rash, warm and dry"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

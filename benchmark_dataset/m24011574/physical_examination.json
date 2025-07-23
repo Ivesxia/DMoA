@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "blood_pressure": "146/71 mmHg",
+                "heart_rate": "78 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "NAD but appearing uncomfortable",
+                "heent": "AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, MMM. NG tube taped in place.",
+                "neck": "nontender supple neck, no JVD",
+                "cardiac": "RRR, S1/S2, II/VI SEM, no gallops, or rubs",
+                "lung": "CTAB, no wheezes, rales, rhonchi, breathing comfortably without use of accessory muscles",
+                "abdomen": "Mild distention, decreased BS, nontender in all quadrants, no rebound/guarding, no hepatosplenomegaly. No CVAT",
+                "extremities": "no cyanosis, clubbing or edema, moving all 4 extremities with purpose",
+                "pulses": "2+ DP pulses bilaterally",
+                "neuro": "CN II-XII intact, AAOx3, speaking although can speak some ___",
+                "skin": "warm and well perfused, no excoriations or lesions, no rashes"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute abdominal pain.",
+        "history_of_present_illness": "Reports 2 days of abdominal cramping, constipation, and most recently diarrhea. Additionally, he endorses fevers (Tmax 101.2) earlier today. Denies any nausea or vomiting and has not had any blood in his stools.",
+        "past_medical_history": "Metastatic melanoma (currently starting on pembrolizumab), CAD and MI (s/p cardiac stent), Atrial fibrillation on Xarelto, CHF, OSA on CPAP, HTN, HLD, TIA, Colonic polyps, Port placement.",
+        "family_history": "Maternal aunt - breast cancer; cousin - breast cancer; grandmother - skin cancer; brother - brain tumor.",
+        "social_history": "Not specified."
+    }
+}

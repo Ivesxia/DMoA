@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97°F",
+                "blood_pressure": "106/80 mmHg",
+                "heart_rate": "83 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on RA"
+            },
+            "relevant_findings": {
+                "general": "Laying in bed, appearing uncomfortable but otherwise no acute distress.",
+                "heent": "Anicteric sclera, oral cavity clear.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, rubs, or gallops.",
+                "lungs": "Clear to auscultation bilaterally, exam limited by pain on inhalation.",
+                "abdomen": "Bowel sounds present, soft, non-distended, bandage in right lower quadrant is clean, dry, and intact.",
+                "tenderness": "Tenderness to palpation in right lower quadrant radiating to back.",
+                "neurological": "Motor grossly intact.",
+                "skin": "No rashes or other lesions aside from bandages over surgical site."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

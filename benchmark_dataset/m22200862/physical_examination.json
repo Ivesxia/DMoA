@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "78 bpm",
+                "blood_pressure": "133/45 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented x 3, no apparent distress",
+                "HEENT": "Normal cephalic/atraumatic, extraocular movements intact",
+                "cardiovascular": "Harsh III/VI systolic and diastolic murmur",
+                "respiratory": "Clear to auscultation bilaterally, normal work of breathing",
+                "abdominal": "Soft, mildly distended, tenderness to palpation in right lower quadrant, positive Rovsing's sign",
+                "extremities": "Warm, well perfused without edema",
+                "neurological": "No focal deficits",
+                "psychiatric": "Pleasant, appropriate affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9°F",
+                "heart_rate": "76 bpm",
+                "blood_pressure": "111/66 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and oriented x3, pleasant and conversant.",
+                "HEENT": "Extraocular movements intact, mucous membranes moist, no scleral icterus.",
+                "cardiovascular": "Regular rate and rhythm.",
+                "pulmonary": "Clear to auscultation bilaterally.",
+                "abdominal": "Soft, nondistended, tender in the lower abdomen with most severe pain in the right lower quadrant, positive guarding, no rebound tenderness.",
+                "extremities": "Warm, well-perfused, no edema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

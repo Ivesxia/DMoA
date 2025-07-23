@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "Liver": "Limited views of the hepatic parenchyma are unremarkable. No focal liver lesions seen.",
+                "Bile Ducts": "No intrahepatic biliary dilation. CBD measures 4 mm.",
+                "Gallbladder": "Gallbladder is distended and contains sludge with a shadowing stone seen at the gallbladder neck. Mild gallbladder wall edema along the perihepatic portion and trace pericholecystic fluid in this region.",
+                "Pancreas": "Pancreatic head is normal. Body and tail not well evaluated.",
+                "Spleen": "Normal echogenicity, measuring 8.0 cm."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

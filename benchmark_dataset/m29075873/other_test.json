@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Occult blood test",
+            "date": "Not specified",
+            "findings": "Occult blood negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal examination",
+            "date": "Not specified",
+            "findings": "Abdomen: Soft; Nondistended; Umbilical hernia; No tenderness guarding or rebound.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

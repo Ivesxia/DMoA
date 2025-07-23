@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6 °F",
+                "heart_rate": "71 bpm",
+                "blood_pressure": "123/55 mmHg",
+                "respiratory_rate": "15 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x 3, in mild distress",
+                "HEENT": "PERRLA, no scleral icterus, mucus membranes moist, no erythema in oropharynx",
+                "neck": "No lymphadenopathy or thyromegaly",
+                "cardiovascular": "PMI non-displaced, regular rate and rhythm, normal S1 S2, no murmurs, gallops, or rubs",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes, rales, or rhonchi",
+                "abdominal": "Soft, mildly-distended, tender to palpation in the epigastrium, most significant in RUQ, without rebound or guarding, bowel sounds not audible, no palpable masses, no hepatosplenomegaly, Murphy's sign negative",
+                "extremities": "No edema, warm and well-perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

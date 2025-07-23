@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4°F",
+                "blood_pressure": "112/77 mmHg",
+                "heart_rate": "106 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "Pleasant, well-developed young female in no acute distress.",
+                "HEENT": "Sclera anicteric, pupils equal and reactive, ocular examination clear.",
+                "neck": "Supple without lymphadenopathy.",
+                "heart": "Tachycardic, regular, no murmurs.",
+                "lungs": "Clear.",
+                "abdomen": "Soft, with mild tenderness in left lower quadrant, minimal epigastric pain.",
+                "extremities": "No edema, lesions, or rash."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

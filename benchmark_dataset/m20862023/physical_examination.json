@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "100 bpm",
+                "blood_pressure": "129/67 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "Soft abdomen, minimally tender to palpation at incision sites only. Incisions clean, dry, intact with original postoperative dressing in place. No erythema or induration. No masses, guarding, or organomegaly.",
+                "cardiovascular": "Normal rate and rhythm.",
+                "lungs": "Clear to auscultation bilaterally.",
+                "extremities": "No edema or deformities."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

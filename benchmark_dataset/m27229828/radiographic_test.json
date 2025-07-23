@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Bibasilar atelectasis is mild, no pleural effusion; liver enhances homogeneously without focal lesions; gallbladder surgically absent with clips in the cholecystectomy bed; normal spleen, pancreas, adrenal glands, and kidneys; no hydronephrosis or hydroureter; 15 mm rounded soft tissue compatible with a splenule; unremarkable stomach, duodenum, and small bowel; small mesenteric lymph nodes not pathologically enlarged; no free air or fluid in the intra-abdominal cavity; mildly inflamed appendix measures 10 mm with mild periappendiceal fat stranding; no periappendiceal fluid or air; grossly unremarkable colon; normally distended urinary bladder without focal abnormality; enlarged prostate measures 4.5 x 3.3 cm; no free air, fluid, or lymphadenopathy in the pelvis; no suspicious osteolytic or osteosclerotic lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "78 bpm",
+                "blood_pressure": "137/78 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": "NAD, RRR, CTA b/l, abdomen soft and tender focally in right mid abdomen laterally, no guarding or rebound, no edema",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

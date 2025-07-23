@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "94 bpm",
+                "blood_pressure": "131/81 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Patient appears well, reclined in bed.",
+                "heent": "PERRL, EOMI, slightly dry mucosal membranes, oropharynx clear.",
+                "respiratory": "Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.",
+                "cardiovascular": "Regular rate and rhythm, II/VI systolic ejection murmur, normal S1 S2, JVP < 7 cm.",
+                "abdominal": "Normal bowel sounds, slightly distended, tenderness to palpation in lower and epigastric areas, no RUQ pain, no rebound or guarding.",
+                "extremities": "Warm, well perfused, no clubbing or edema, 2+ pulses.",
+                "neurological": "Alert and oriented to person, place, and time."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

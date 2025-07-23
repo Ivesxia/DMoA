@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "The cardiac silhouette is mildly enlarged and there is tortuosity of the aorta. However, no pneumonia, vascular congestion, or pleural effusion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

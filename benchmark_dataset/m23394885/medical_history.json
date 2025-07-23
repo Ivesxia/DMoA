@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain and fever",
+        "history_of_present_illness": "Symptoms started with abdominal pain and fever. The patient experienced persistent fevers with a peak of 101.9. The pain was described as crampy and localized to the midline umbilical and pelvic areas. There were reports of anorexia and intermittent nausea, but no vomiting. Some loose stools noted. Fever broke but pain persisted until presentation to urgent care where CT showed perforated appendicitis with pelvic abscess.",
+        "past_medical_history": "IDDM with diabetic retinopathy, Hyperlipidemia, Hypertension, Nephrolithiasis",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

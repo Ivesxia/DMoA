@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Trace bilateral pleural effusions with bibasal atelectasis/consolidation. Homogeneous attenuation of the liver parenchyma with bright signal on T2 weighted sequences suggesting some degree of background edema. No periportal edema. The common bile duct is normal in caliber, measuring up to 4 mm in diameter. No MR evidence of CBD transsection. No filling defect or choledocholithiasis. No fluid collection within the surgical bed to suggest bile leak. Surgical drain in situ.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

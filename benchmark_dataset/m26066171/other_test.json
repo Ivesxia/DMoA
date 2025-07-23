@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Electrocardiogram",
+            "date": "Not specified",
+            "findings": "New inferior Q waves with 1-2mm ST elevations.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac catheterization",
+            "date": "Not specified",
+            "findings": "Severe multivessel disease.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Insertion of intra-aortic balloon pump",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

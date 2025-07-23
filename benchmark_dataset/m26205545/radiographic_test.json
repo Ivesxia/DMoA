@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "There is a 2.2 x 2.0 cm slightly echogenic mass in the right hepatic lobe which is slightly larger. The remaining hepatic parenchyma appears within normal limits. The contour of the liver is smooth. The main portal vein is patent with hepatopetal flow. There is no ascites. There is no intrahepatic biliary dilation. The CBD measures 4 mm. There is no evidence of stones or gallbladder wall thickening. A 1.5 cm stone is identified likely within the cystic duct. The imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation.",
+            "changes_over_time": "The mass in the right hepatic lobe increased from 1.7 x 1.7 cm to 2.2 x 2.0 cm. The second lesion seen on the prior ultrasound is not seen on the current study. The stone previously noted in the body of the gallbladder is now identified in the cystic duct."
+        }
+    ]
+}

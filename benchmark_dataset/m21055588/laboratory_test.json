@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood tests",
+            "date": "Not specified",
+            "findings": "Calcium level: 8.7 mg/dL (reference range: 8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Diverticulosis of the sigmoid colon with focal wall thickening and adjacent mesenteric fat stranding; multiple extraluminal locules of gas adjacent to the sigmoid colon, likely sequelae of micro perforation. No evidence of abscess or free air in the abdomen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

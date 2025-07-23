@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The bases of the lungs are clear. The liver enhances heterogenously without focal lesions or intrahepatic biliary dilatation. The gallbladder is unremarkable and the portal vein is patent. The pancreas, spleen and adrenal glands are unremarkable. The kidneys demonstrate symmetric nephrograms and excretion of contrast with no pelvicaliceal dilation or perinephric abnormalities. The stomach, duodenum and small bowel are unremarkable. The colon demonstrates intramural fat deposition diffusely. The appendix is dilated measuring up to 9 mm, fluid-filled and has surrounding fat stranding consistent with acute appendicitis. There is no free fluid, free air or drainable fluid collection. The urinary bladder is unremarkable with no pelvic free fluid. No inguinal or pelvic wall lymphadenopathy. No lytic or sclerotic lesions consistent with malignancy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

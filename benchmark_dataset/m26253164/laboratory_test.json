@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver is homogeneous in background attenuation, without focal lesion or intra or extrahepatic biliary duct dilation. The spleen is homogeneous and borderline in size, measuring 12.8 cm. The kidneys are symmetric and normal in size, demonstrating normal nephrograms and excreting contrast promptly. A retrocecal fluid-filled appendix is visualized, with mildly hyperemic and thickened wall, measuring 6-7 mm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PT (Prothrombin Time)",
+            "date": "Not specified",
+            "findings": "10.8 sec (reference range: 9.4 - 12.5 sec)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

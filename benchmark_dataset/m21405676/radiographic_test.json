@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Slight bibasilar dependent atelectasis, coronary artery calcifications, normal spleen, adrenals, pancreas, and liver, hyperdense material in the gallbladder (stones or sludge) without cholecystitis, markedly atrophic left kidney with multiple hypodense lesions, low-attenuation mass in the right kidney (3.4 cm) with peripheral calcifications, 6.2 x 5.5 x 5.5 cm abdominal aorta aneurysm with possible penetrating ulcer, scattered lymph nodes not meeting criteria for enlargement, no free air or fluid, and a fat-containing ventral wall hernia. Extensive pericolonic fat stranding and pancolonic diverticulosis noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

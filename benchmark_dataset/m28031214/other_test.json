@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "One blood culture grew out a pan-sensitive Klebsiella pneumonia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "EKG was unchanged.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Troponin Test",
+            "date": "Not specified",
+            "findings": "Troponin was mildly elevated at 0.02.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Head without Contrast",
+            "date": "Not specified",
+            "findings": "No acute hemorrhage or acute vascular territorial infarction; chronic small vessel ischemic disease noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

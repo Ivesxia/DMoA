@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 541 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ALT",
+            "date": "Not specified",
+            "findings": "ALT 76 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "AST",
+            "date": "Not specified",
+            "findings": "AST 97 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "WBC",
+            "date": "Not specified",
+            "findings": "WBC 15.2 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "Alk Phos 168 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "INR",
+            "date": "Not specified",
+            "findings": "INR 2.5 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine (Cr)",
+            "date": "Not specified",
+            "findings": "Creatinine 2.2 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnesium (Mg)",
+            "date": "Not specified",
+            "findings": "Magnesium 1.5 (below normal range)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

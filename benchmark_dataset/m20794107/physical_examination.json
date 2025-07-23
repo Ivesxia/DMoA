@@ -1,0 +1,43 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "pulse": "76 bpm",
+                "blood_pressure": "140/77 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "94% on room air"
+            },
+            "relevant_findings": {
+                "general": "Jaundice, sleepy but arousable, disoriented, diaphoretic.",
+                "eyes": "PERRL, EOMI, icteric sclera.",
+                "ears_nose_mouth_throat": "MMM, no lesions noted in oral cavity.",
+                "neck": "Supple.",
+                "respiratory": "Decreased breath sounds diffusely.",
+                "cardiovascular": "Regular rhythm, S1S2 sounds, no murmurs/rubs/gallops noted.",
+                "gastrointestinal": "Soft, non-tender/non-distended, positive bowel sounds, no masses or organomegaly noted.",
+                "genitourinary": "No flank tenderness.",
+                "skin": "No rashes or lesions noted.",
+                "extremities": "No cyanosis/clubbing/edema bilaterally, 1+ dorsalis pedis pulses bilaterally.",
+                "neurologic": "Alert but disoriented, cranial nerves II-XII intact, normal motor bulk, no sensory deficits to light touch."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "103°F",
+                "pulse": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Developed fever and chills, worsening jaundice, and anorexia.",
+                "gastrointestinal": "Not specified."
+            },
+            "changes_over_time": "Patient's condition worsened over the weekend, with initial health deterioration leading to fever and jaundice."
+        }
+    ]
+}

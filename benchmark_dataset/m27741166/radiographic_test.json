@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Trace bilateral pleural effusions, a markedly dilated appendix measuring up to 1.5 cm with wall hyperemia and surrounding inflammatory changes. No evidence of focal lesions in the liver, pancreas, spleen, kidneys, or biliary dilatation. No organized drainable fluid collection or pneumoperitoneum.",
+            "changes_over_time": "Overall similar in extent and morphology compared to ____."
+        }
+    ]
+}

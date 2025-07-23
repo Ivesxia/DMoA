@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT CHEST W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Thyroid is homogeneous. No axillary lymphadenopathy. Numerous calcified mediastinal and hilar lymph nodes correspond to previously seen discrete high-density foci in the mediastinum. No pathologically enlarged lymph nodes. Heart is normal size; no pericardial effusion noted. Thoracic aorta and main pulmonary artery normal in caliber. Airway patent to subsegmental level. Multiple pulmonary nodules measured up to 4 mm. A moderate mildly complex left pleural effusion unchanged. No right pleural effusion. Mild bibasilar atelectasis but no consolidation.",
+            "changes_over_time": "A moderate mildly complex left pleural effusion is unchanged over the short time interval since the previous exam."
+        },
+        {
+            "procedure_name": "Liver biopsy",
+            "date": "Not specified",
+            "findings": "Stage II inflammation and grade 2 to 3 fibrosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hepatitis C viral load test",
+            "date": "One month into treatment",
+            "findings": "Viral load was negative after initial viral load was over 4 million units per mL.",
+            "changes_over_time": "Initial viral load declined to negative one month into treatment."
+        }
+    ]
+}

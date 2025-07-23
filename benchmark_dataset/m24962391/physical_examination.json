@@ -1,0 +1,31 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4°F",
+                "heart_rate": "94 bpm",
+                "blood_pressure": "120/64 mmHg",
+                "respiratory_rate": "14 breaths per minute",
+                "oxygen_saturation": "97% on 2L NC"
+            },
+            "relevant_findings": {
+                "vital_signs": {
+                    "temperature": "97.6°F",
+                    "blood_pressure": "135/56 mmHg",
+                    "heart_rate": "76 bpm",
+                    "respiratory_rate": "18 breaths per minute",
+                    "oxygen_saturation": "100%"
+                },
+                "general": "Alert, mildly disoriented",
+                "HEENT": "Sclera anicteric, dry mucous membranes, oropharynx clear",
+                "neck": "Supple, JVP not elevated, no lymphadenopathy",
+                "lungs": "Clear to auscultation anteriorly, no wheezes, rales, or rhonchi",
+                "cardiovascular": "Regular rate and rhythm, normal S1/S2, soft grade II/VI systolic ejection murmur over left upper sternal border",
+                "abdomen": "Soft, mild diffuse tenderness to palpation, bowel sounds present, no guarding",
+                "extremities": "Warm, well perfused, 2+ pulses, no clubbing, cyanosis, or edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

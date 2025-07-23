@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified.",
+            "findings": "Cardiomegaly is unchanged. Bilateral pleural effusions have improved slightly. Persistent left retrocardiac opacity. Mild prominence of the interstitial markings consistent with mild pulmonary edema. Lines and tubes are unchanged.",
+            "changes_over_time": "Bilateral pleural effusions have improved slightly."
+        }
+    ]
+}

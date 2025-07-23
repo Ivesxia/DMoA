@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endobronchial Stenting",
+            "date": "Not specified",
+            "findings": "Stenting has been successfully placed in the right lower lobe.",
+            "changes_over_time": "Dyspnea has improved significantly since stenting."
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis",
+            "date": "Not specified",
+            "findings": "No focal lesions in the pancreas; new fat stranding surrounding the pancreas and fluid tracking along the left anterior pararenal space. Multiple metastatic lesions in the liver increased in size compared to a prior study.",
+            "changes_over_time": "Stable size of the right hilar mass, unchanged pulmonary nodules. Increased size of splenic metastasis and an enlarged lymph node in the left lower quadrant."
+        }
+    ]
+}

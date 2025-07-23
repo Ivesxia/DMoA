@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Bilateral linear atelectases in the lung bases; geographic dropout in signal in the liver consistent with patchy fatty infiltration; high intensity lesion in segment VII of the liver measuring 0.7 cm consistent with hemangioma; no evidence of intrahepatic or extrahepatic biliary dilatation; gallbladder unremarkable; no evidence of stones or abnormal enhancement; prior Nissen funduplication with surgical clips causing blooming artifact; area of slightly low intensity in the midbody of the pancreas likely artifactual; origin of celiac axis is narrowed; left kidney shows a 2.7 cm Bosniak type 2 cyst; no evidence of retroperitoneal lymphadenopathy; right lower lobe atelectasis noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

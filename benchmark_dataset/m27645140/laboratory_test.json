@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cryptosporidium and Giardia Testing",
+            "date": "Not specified",
+            "findings": "NO CRYPTOSPORIDIUM OR GIARDIA SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Lung volumes are low. The tip of the endotracheal tube is approximately 1 cm from the carina. The right internal jugular central venous catheter remain in good position. New NGT in satisfactory position. The remainder of the chest is stable since very recent comparison.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

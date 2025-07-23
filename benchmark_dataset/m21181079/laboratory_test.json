@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Elevated lipase, specific level not provided.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Amylase",
+            "date": "Not specified",
+            "findings": "Amylase level of 656, specific unit not provided.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Liver does not demonstrate focal lesions or textural abnormality; no intrahepatic biliary dilatation; common bile duct measures 7 mm; gallbladder shows mild wall thickening with multiple stones; spleen markedly enlarged measuring 21 cm.",
+            "changes_over_time": "Spleen size similar to prior CT findings."
+        },
+        {
+            "procedure_name": "Bacterial culture",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

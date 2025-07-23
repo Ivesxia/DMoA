@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "Mixed bacterial flora",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "The tip of the right PICC projects over the distal SVC. The lung volumes are low. Linear atelectasis is re-visualized in the right midlung. There is no new consolidation, pneumothorax or large pleural effusion. The size of the cardiac silhouette is unchanged.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

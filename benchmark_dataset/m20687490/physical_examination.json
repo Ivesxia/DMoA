@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Temperature": "98.0 F",
+                "Blood Pressure": "152/82 mmHg",
+                "Heart Rate": "76 bpm",
+                "Respiratory Rate": "18 breaths/min",
+                "O2 saturation": "95%",
+                "date_recorded": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "NAD, AxOx3",
+                "cardiovascular": "Regular rate",
+                "pulmonary": "No respiratory distress",
+                "abdominal": "Soft, appropriately tender at laparoscopic incision sites, covered in dermabond with no surrounding erythema or active drainage, bleeding",
+                "extremities": "No edema, warm well-perfused",
+                "date_recorded": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The background liver echotexture is normal. No focal liver lesions are demonstrated. The main portal vein is patent with the appropriate direction of flow. There is equivocal intrahepatic biliary ductal prominence. The gallbladder is distended, full of homogeneous sludge. The gallbladder wall is slightly edematous. The common duct is borderline in size, measuring 7 mm.",
+            "changes_over_time": "The distension and contents of the gallbladder are probably not significantly changed from the prior CT, given differences in technique."
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "193.0 mg/dL, which is below the normal range (ref range: 200.0 - 360.0 mg/dL); NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

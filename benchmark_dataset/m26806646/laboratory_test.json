@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Liver does not show focal lesions or textural abnormality. The gallbladder is moderately distended and contains multiple small stones, which layer dependently. There is borderline gallbladder wall thickening and no pericholecystic fluid. The pancreas is unremarkable. There is no intrahepatic biliary dilatation. CBD measures 8 mm at the porta hepatis, but only 3 mm in the head of the pancreas. Portal vein is patent with hepatopetal flow.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Test",
+            "date": "Not specified",
+            "findings": "2.8 mg/dL (within normal range of 2.7 to 4.5 mg/dL). No growth.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

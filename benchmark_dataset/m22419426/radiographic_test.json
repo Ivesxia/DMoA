@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT Abdomen & Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "The appendix is fluid-filled and dilated measuring up to 8 mm with surrounding inflammatory changes consistent with acute appendicitis. No evidence of abscess or perforation. Visualized lung fields are within normal limits. No pleural or pericardial effusion. The liver, pancreas, spleen, kidneys, and urinary bladder are unremarkable. No significant atherosclerotic disease or abdominal aortic aneurysm noted. No worrisome osseous lesions or acute fractures.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

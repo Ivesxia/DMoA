@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.4°F",
+                "heart_rate": "90 bpm",
+                "blood_pressure": "110/60 mmHg",
+                "respiratory_rate": "18"
+            },
+            "relevant_findings": {
+                "general": "laying down in bed, NAD (no acute distress), talking and breathing without difficulty",
+                "neurological": "A&Ox3 (alert and oriented times three)",
+                "cardiovascular": "RRR (regular rate and rhythm)",
+                "lungs": "CTAB (clear to auscultation bilaterally)",
+                "abdominal": "soft, non-distended, very TTP (tender to palpation) RLQ with focal pain, (+) rebound, (+) Rovsing's sign and guarding, Guaiac negative"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

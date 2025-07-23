@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.1°F",
+                "heart_rate": "90 bpm",
+                "blood_pressure": "118/77 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "well appearing female in mild distress from pain",
+                "HEENT": "anicteric sclera, dry mucous membranes",
+                "cardiovascular": "regular rate and rhythm, normal S1/S2, no murmurs/rubs/gallops",
+                "lungs": "clear to auscultation bilaterally, non-labored breathing",
+                "abdomen": "hyperactive bowel sounds, soft, very tender to light palpation in both lower quadrants, less so in upper quadrants, no significant rebound pain or guarding, non-distended",
+                "back": "no costovertebral angle tenderness, left gluteal drain with clean/dry/intact bandage and no tenderness along entry site, draining serosanguinous fluid",
+                "genitourinary": "no Foley catheter",
+                "extremities": "warm and well perfused, no edema, 2+ dorsalis pedis pulses bilaterally",
+                "neurological": "moving all extremities with purpose, alert and oriented"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

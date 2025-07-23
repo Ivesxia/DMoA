@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The gallbladder wall is notably edematous. There is a gallstone seen within the gallbladder, which measures approximately 6 mm. There are no stones seen within the common duct. The common duct measures 3 mm in diameter. There is no pancreatic ductal dilation. The pancreatic parenchyma appears unremarkable without evidence of complications related to pancreatitis. A 2.3 cm cystic focus with a somewhat thick wall is seen arising from the inferior aspect of the spleen. The liver demonstrates mild drop of signal on the out of phase images compared with the in phase images, consistent with hepatic steatosis. Multiple renal pelvic cysts are seen on the left. Punctate nonenhancing foci within the kidneys, less than 4 mm in diameter, probably representing cysts. No evidence of hydronephrosis or renal mass. The bilateral adrenal glands appear unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

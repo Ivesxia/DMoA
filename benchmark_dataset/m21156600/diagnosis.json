@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with 1.5 days of abdominal pain that started peri-umbilically and migrated to the right lower quadrant, which is characteristic of appendicitis. The ultrasound findings showed a noncompressible loop of bowel, bowel wall edema, and the presence of an appendicolith, indicating acute appendicitis. The absence of fever, chills, nausea, or vomiting does not rule out appendicitis considering the other signs and symptoms."
+    }
+}

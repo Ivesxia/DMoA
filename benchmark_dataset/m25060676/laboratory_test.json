@@ -1,0 +1,49 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Visualized lung fields are within normal limits. There is no evidence of pleural or pericardial effusion.",
+                "abdominal_findings": {
+                    "liver": "Demonstrates homogenous attenuation throughout. No evidence of focal lesions.",
+                    "gallbladder": "Within normal limits.",
+                    "pancreas": "Has normal attenuation throughout, without evidence of focal lesions or pancreatic ductal dilatation.",
+                    "spleen": "Shows normal size and attenuation throughout, without evidence of focal lesions.",
+                    "adrenals": "Right and left adrenal glands are normal in size and shape.",
+                    "kidneys": "Normal and symmetric size with normal nephrogram. No evidence of focal renal lesions or hydronephrosis.",
+                    "gastrointestinal": "Stomach unremarkable. Small bowel loops normal caliber, wall thickness, and enhancement. Colon and rectum within normal limits. Appendix dilated to 10 mm, fluid-filled with fecaliths, hyperemia of the wall, mild surrounding inflammatory stranding, no extraluminal air or drainable collection.",
+                    "pelvis": "Urinary bladder and distal ureters unremarkable. Trace free fluid in the pelvis.",
+                    "reproductive_organs": "Uterus notable for several exophytic fibroids, largest measuring 2.5 x 2.3 x 2.9 cm.",
+                    "lymph_nodes": "No retroperitoneal or mesenteric lymphadenopathy. No pelvic or inguinal lymphadenopathy.",
+                    "vascular": "No abdominal aortic aneurysm.",
+                    "bones": "No evidence of worrisome osseous lesions or acute fracture.",
+                    "soft_tissues": "Abdominal and pelvic wall within normal limits."
+                },
+                "notification": "Patient had been transferred for treatment at time of interpretation."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Test",
+            "date": "Not specified",
+            "findings": {
+                "result": "NO GROWTH.",
+                "reference_range": {
+                    "lower": 25.0,
+                    "upper": 36.5
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation Test",
+            "date": "Not specified",
+            "findings": {
+                "result": "29.8 sec",
+                "normal_range": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

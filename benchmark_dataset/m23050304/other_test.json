@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Mild intrahepatic bile duct dilatation, mildly distended gallbladder, cholelithiasis, gallbladder sludge, mild circumferential gallbladder wall thickening and enhancement, trace pericholecystic fluid, and extrahepatic biliary dilatation with CBD measuring up to 1.1 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Percutaneous cholecystostomy with drain placement",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

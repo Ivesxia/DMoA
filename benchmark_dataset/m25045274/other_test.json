@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated throughout its course with wall thickening and mucosal enhancement; the maximum diameter of the appendix measures approximately 12 mm. There is adjacent fat stranding and prominence of the right lateral conal fascia. No evidence of macroperforation or intraabdominal fluid collection. No bowel perforation or pneumatosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

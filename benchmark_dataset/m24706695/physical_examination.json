@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1",
+                "heart_rate": "83",
+                "blood_pressure": "140/71",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "General": "Pleasant male, NAD",
+                "HEENT": "Dry mucous membranes, sclera anicteric",
+                "Neck": "Supple, no LAD",
+                "Cardiovascular": "RRR, no m/r/g",
+                "Lungs": "Prolonged expiratory phase, no wheezes/rales/rhonchi",
+                "Abdomen": "+BS. Diffusely tender without rebound/guarding",
+                "Extremities": "2+ peripheral pulses, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

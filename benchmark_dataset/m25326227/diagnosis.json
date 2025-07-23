@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis s/p laparoscopic appendectomy",
+        "differential_diagnosis": "Fecal impaction, cecal bascule, SMA syndrome, hypophosphatemia",
+        "diagnostic_reasoning": "The diagnosis of appendicitis was supported by the patient's acute, severe abdominal pain, leukocytosis, lactate level of 2.0, and CT findings indicating a large retrocecal appendix with wall thickening and fecoliths. The patient's history of familial visceral myopathy, which contributes to impaired gastrointestinal motility, was also considered in the evaluation."
+    }
+}

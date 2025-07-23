@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "78 bpm",
+                "blood_pressure": "119/75 mmHg",
+                "respiratory_rate": "18 breaths per minute",
+                "saturation": "98% on room air"
+            },
+            "relevant_findings": "NAD (no acute distress), alert and oriented, CTA (clear to auscultation) bilaterally, RRR (regular rate and rhythm), abdomen soft, tender to palpation in RUQ with positive Murphy's sign, extremities no edema.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

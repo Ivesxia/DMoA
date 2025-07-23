@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4°F",
+                "heart_rate": "46 bpm",
+                "blood_pressure": "134/74 mmHg",
+                "respiratory_rate": "19 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "well appearing in NAD, no jaundice noted",
+                "HEENT": "PEERLA, OP clear, sclera non-icteric",
+                "neck": "no JVD",
+                "cardiovascular": "RRR, clear S1/S2",
+                "pulmonary": "clear to auscultation bilaterally",
+                "abdominal": "+BS, non-distended thin abdomen that is soft, tympanic to percussion with tenderness and involuntary guarding to light palpation in the RUQ, tender in right epigastrium, no shifting dullness, negative ___ exam, no masses appreciated",
+                "extremities": "warm, well perfused with +DP pulses, no c/c/e",
+                "neurological": "AxO3, displeased with plan, desires to go home"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.7°F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "95% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert, Uncomfortable",
+                "HEENT": "NC/AT, OP clear",
+                "neck": "Supple",
+                "CV": "RRR, no m/r/g",
+                "respiratory": "CTA bilaterally",
+                "abdomen": "Obese, diffusely TTP worst in the RUQ, no masses appreciated, hypoactive bowel sounds",
+                "extremities": "1+ BLE edema, diffusely TTP in both legs",
+                "skin": "no apparent rashes",
+                "neuro": "non-focal",
+                "psych": "calm, appropriate"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.4°F",
+                "heart_rate": "105 bpm",
+                "blood_pressure": "198/88 mmHg",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "95% RA"
+            },
+            "relevant_findings": {
+                "abdominal_pain": "Ongoing abdominal pain, transient radiation to left shoulder which improved with repositioning",
+                "overall": "Not specified"
+            },
+            "changes_over_time": "Patient's abdominal pain persists; previously reported abdominal tenderness and emesis improved with IV fluids."
+        }
+    ]
+}

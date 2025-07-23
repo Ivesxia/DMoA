@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "89 bpm",
+                "blood_pressure": "172/59 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "Obese female, comfortable appearing, no acute distress.",
+                "HEENT": "Mucous membranes moist, no scleral icterus, pupils equal, round, reactive to light and accommodation.",
+                "cardiovascular": "Regular rate and rhythm, normal S1 and S2, systolic ejection murmur present.",
+                "pulmonary": "Limited by habitus, clear to auscultation bilaterally, no wheezes.",
+                "abdominal": "Tenderness to palpation in the epigastric area, soft, bowel sounds present, no hepatosplenomegaly appreciated, no rebound or guarding.",
+                "neurological": "Alert and oriented x3, impaired attention, cannot spell 'world' backwards.",
+                "extremities": "Trace edema to bilateral extremities, dorsalis pedis pulses intact bilaterally."
+            },
+            "changes_over_time": "Patient has no complaints on the floor, reports no consistent abdominal pain or diarrhea since ED visit."
+        }
+    ]
+}

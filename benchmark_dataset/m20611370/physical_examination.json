@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2°F",
+                "heart_rate": "79 bpm",
+                "blood_pressure": "156/78 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "general": "in no acute distress",
+                "HEENT": "sclera anicteric, mucus membranes moist, nares clear, trachea at midline",
+                "CV": "regular rate, rhythm. No appreciable murmurs, rubs, gallops",
+                "pulmonary": "clear to auscultation bilaterally",
+                "abdomen": "+ bowel sounds, moderately tender to palpation in suprapubic and LLQ. Soft, non-distended. No rebound or guarding. Well-healed scar in RLQ.",
+                "GU": "non-thrombosed, non-bleeding external hemorrhoids. Moderate sphincter tone, no gross blood, guiac -",
+                "MSK": "warm, well perfused",
+                "neuro": "alert, oriented to person, place, time"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

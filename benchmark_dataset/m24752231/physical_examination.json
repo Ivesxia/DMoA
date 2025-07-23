@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "127/78 mmHg",
+                "respiratory_rate": "20 breaths/min"
+            },
+            "relevant_findings": {
+                "general_appearance": "alert and oriented x 3, NAD",
+                "HEENT": "normal EOM",
+                "cardiovascular": "RRR, normal S1, S2, no murmurs",
+                "respiratory": "clear to auscultation bilaterally",
+                "abdominal": "soft, obese abdomen, non-tender, patient reports abdomen size is as per his normal size",
+                "extremities": "warm, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

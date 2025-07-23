@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "heart_rate": "77 bpm",
+                "blood_pressure": "124/75 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "alertness": "A&O x 3",
+                "general_appearance": "NAD",
+                "heart": "RRR",
+                "lungs": "CTAB",
+                "abdomen": {
+                    "soft": true,
+                    "nondistended": true,
+                    "tender": "tender in RLQ over McBurney's point with voluntary guarding",
+                    "bowel_sounds": "active"
+                },
+                "extremities": "warm, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

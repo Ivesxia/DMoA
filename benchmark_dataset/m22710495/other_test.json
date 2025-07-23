@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Pelvic examination",
+            "date": "Not specified",
+            "findings": "Scant blood on peripad; a small amount of blood on the exam glove; cervix is closed; no uterine tenderness to palpation; no adnexal tenderness to palpation, rebound, or guarding.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen & Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Visualized loops of small bowel are normal; a tubular blind ending structure in the right lower quadrant consistent with an inflamed appendix measuring 11 mm in diameter; simple free fluid within the pelvis; normal appearance of the uterus and adnexa.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

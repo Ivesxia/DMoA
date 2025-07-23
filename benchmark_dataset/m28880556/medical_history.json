@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Abdominal pain started in the periumbilical region and then gradually migrated to the right lower quadrant (RLQ) over 12 hours. The patient also reported some nausea but no vomiting, fevers, or chills.",
+        "past_medical_history": "Left shoulder surgery, right knee surgery, left hand surgery",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

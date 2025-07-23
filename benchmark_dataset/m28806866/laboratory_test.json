@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The cecum is atypically located in the mid upper abdomen, normal in caliber, with marginal mucosal hyperenhancement and possible mild periappendiceal fat stranding. The appendix is prominent measuring up to 9 mm (top normal), with similar findings.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test (not specified)",
+            "date": "Not specified",
+            "findings": "Valuestr: 1.1; Reference range: 0.9 - 1.1. The result is at the upper limit of normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

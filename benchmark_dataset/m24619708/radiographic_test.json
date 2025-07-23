@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified.",
+            "findings": "Diverticulosis in the descending and sigmoid colons with focal thickening of the sigmoid colon and adjacent inflammatory changes consistent with early intramural abscess formation (measuring about 2.5 x 2 cm). Lung bases are clear. No focal hepatic lesions. Two gallstones present, but no evidence of acute cholecystitis. Normal pancreas, spleen, and bilateral adrenal glands. Kidneys are homogenously enhancing without evidence of hydronephrosis, stones, or masses. No free air, no free fluid, normal portal venous and systemic venous systems. A 1.9 cm likely functional cyst in the left ovary, trace pelvic free fluid noted. Moderate degenerative changes at L5/S1.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

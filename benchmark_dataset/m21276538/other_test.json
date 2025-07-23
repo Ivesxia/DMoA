@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Therapeutic bronchoscopy and aspiration of mucous plugs",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Guaiac test",
+            "date": "Not specified",
+            "findings": "Rectal is guaiac negative with brown stool",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

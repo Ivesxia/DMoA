@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 103°F",
+            "relevant_findings": "General: young adult white male in NAD, healthy weight. HEENT: atraumatic, no scleral icterus, PERRL. CV: RRR, normal S1/S2, no murmurs or extra heart sounds, no elevated JVP. PULM: lungs CTAB, no crackles/wheezes/stridor, no increased WOB. ABD: non-distended, no surgical scars noted, normoactive bowel sounds, soft, non-tender, no peritoneal signs, no hepatosplenomegaly, RUQ pigtail drain with scant serious material. MSK: no gross deformities, no peripheral edema. SKIN: no rash/bruising/lesions.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

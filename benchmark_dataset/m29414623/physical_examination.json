@@ -1,0 +1,31 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "90 bpm",
+                "blood_pressure": "157/80 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "SpO2": "99% on RA"
+            },
+            "relevant_findings": {
+                "temperature": "97.5°F",
+                "blood_pressure": "135/79 mmHg",
+                "heart_rate": "83 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "SpO2": "94% on RA",
+                "HEENT": "EOMI, anicteric sclera, MMM, OP clear, poor dentition",
+                "Neck": "supple, no LAD, no obvious JVD",
+                "Lungs": "CTAB no wheeze or crackles",
+                "Heart": "distant heart sounds, RRR, nl S1 S2, no m/r/g",
+                "Abdomen": "obese, soft, diffuse tenderness, negative ___ sign",
+                "Back": "bilateral CVA tenderness",
+                "Extremities": "warm, well perfused, no edema",
+                "Skin": "no rash",
+                "Rectal": "no stool in vault, guaic negative"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Significant hepatic steatosis and hepatomegaly. Mild pericholecystic fluid and edema within the gallbladder wall near the fundus. Gallstone in the gallbladder. No dilatation of the intra or extrahepatic biliary tree.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "US (Ultrasound)",
+            "date": "Not specified",
+            "findings": "CBD 4mm, gallbladder with mobile 2.5mm stone, pericholecystic fluid, gallbladder wall thickness 3.7mm, positive sonographic sign. No evidence of choledocholithiasis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

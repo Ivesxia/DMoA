@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "LLQ abdominal pain and left back pain",
+        "history_of_present_illness": "LLQ abdominal pain began 3 days ago, followed shortly by left back pain. Pain described as sharp and constant with no clear relieving or exacerbating factors. The abdominal pain worsened progressively over the days leading to hospital presentation. Associated symptoms include decreased appetite and nausea, with reports of decreased frequency of urination and bowel movements attributed to decreased appetite.",
+        "past_medical_history": "Crohn's disease with multiple small bowel resections and resultant short gut syndrome, osteoporosis, renal cell carcinoma, status post left nephrectomy.",
+        "family_history": "Grandfather and sister with alcohol use; brother with unspecified substance abuse.",
+        "social_history": "Self-reported binge drinker, with last binge episode occurring the day before presentation, consuming an unspecified volume of whiskey."
+    }
+}

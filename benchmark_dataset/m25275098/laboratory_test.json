@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver function tests",
+            "date": "Not specified",
+            "findings": "AST: 800, ALT: Not specified, AP: 494, Tbili: 2.4, Alb: 3.3; troponins: negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "No focal masses identified in the liver. Biliary sludge noted within the gallbladder with gallbladder wall thickening and a tiny filling defect in the cystic duct.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder is mildly distended and filled with stones. There is mild gallbladder wall thickening. No pericholecystic fluid is seen. The liver demonstrates normal parenchymal echogenicity. A previously noted echogenic lesion within the right lobe of the liver measuring about 1.8 cm appears stable with imaging characteristics compatible with a hemangioma. No intra- or extra-hepatic biliary duct dilatation is present.",
+            "changes_over_time": "The echogenic lesion within the right lobe of the liver measuring about 1.8 cm appears stable."
+        }
+    ]
+}

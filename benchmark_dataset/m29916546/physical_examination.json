@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3 °F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "128/78 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "constitutional": "no acute distress, pleasant and interactive",
+                "HEENT": "Normocephalic, atraumatic, Extraocular muscles intact, Oropharynx within normal limits",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular rate and rhythm, S1S2",
+                "abdominal": "Soft, Nondistended, mild tenderness, abdominal incision with intact staples, dressing clean, dry, and intact",
+                "GU/flank": "No costovertebral angle tenderness",
+                "extremities/back": "No cyanosis, clubbing or edema, + pulses",
+                "skin": "No rash, warm and dry, ecchymosis to right inner arms from IV line",
+                "neurological": "Speech fluent, full strength, no sensory deficits",
+                "psychological": "Normal mood, normal mentation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

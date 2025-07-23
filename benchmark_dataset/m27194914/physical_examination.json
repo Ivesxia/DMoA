@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "heart_rate": "119 bpm",
+                "blood_pressure": "108/77 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "general": "AAOx3, NAD",
+                "HEENT": "EOMI, PERRLA, oropharynx clear",
+                "neck": "Supple, no lymphadenopathy",
+                "cardiovascular": "Normal S1+S2, no murmurs/rubs/gallops",
+                "pulmonary": "Clear to auscultation bilaterally, no rhonchi, rales, or wheezing",
+                "abdomen": "Bowel sounds present, tympanitic to percussion in the epigastrium, tender to deep palpation in the RUQ, no rebound tenderness",
+                "extremities": "Warm, well-perfused, 2+ pulses, no cyanosis/clubbing/edema",
+                "neurological": "Motor function grossly intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

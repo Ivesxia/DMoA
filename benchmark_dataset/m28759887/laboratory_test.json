@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound (Pelvis, Non-Obstetric)",
+            "date": "Not specified",
+            "findings": "Transabdominal and transvaginal examinations were performed. Uterus measures 6 cm x 4 cm x 4 cm with the endometrium measuring approximately 3 mm. No focal uterine lesion is identified. Both ovaries are normal in size with appropriate vascular waveforms identified, without evidence for torsion. There is a trace amount of free fluid in the pelvic cul-de-sac, likely physiologic. Neither kidney demonstrates hydronephrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "Negative results, with reference range lower limit of 0.2 mg/dL and upper limit of 1.0 mg/dL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

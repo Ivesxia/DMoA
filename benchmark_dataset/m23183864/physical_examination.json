@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.0°F",
+                "pulse": "78 bpm",
+                "blood_pressure": "112/88 mmHg",
+                "respiratory_rate": "18",
+                "saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x3",
+                "HEENT": "Pupils equal, round, reactive to light; extraocular movements intact",
+                "cardiovascular": "Normal S1S2, no murmurs/gallops/rubs",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes/rhonchi/rails",
+                "abdominal": "Soft, appropriately tender, non-distended, no rebound or guarding",
+                "extremities": "No cyanosis/clubbing/edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

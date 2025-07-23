@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4°F",
+                "heart_rate": "86 bpm",
+                "blood_pressure": "104/42 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "cardiovascular": "Regular rate and rhythm",
+                "respiratory": "Clear to auscultation bilaterally",
+                "abdomen": "Midline incision well healed. No erythema. Soft, diffusely tender, nondistended, no tap tenderness."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

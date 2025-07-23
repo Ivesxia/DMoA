@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated up to 1.6 cm, fluid-filled, and demonstrates mucosal hyperemia with surrounding fat stranding, trace fluid, and fascial thickening. 2 appendicoliths are seen measuring up to 1.3 cm. Other findings include a 1.8 cm simple cyst in the upper pole of the left kidney and diverticulosis of the sigmoid colon without wall thickening and fat stranding.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Examination (WBC Count, etc.)",
+            "date": "Not specified",
+            "findings": "NEG.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

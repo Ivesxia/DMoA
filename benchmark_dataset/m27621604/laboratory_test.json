@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Polymerase Chain Reaction for Microorganisms",
+            "date": "Not specified",
+            "findings": "3+ (5-10 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "Hepatic parenchyma appears within normal limits; hyperechoic lesion compatible with known hemangioma; mild intrahepatic biliary dilation; gallbladder markedly distended with sludge and stones; gallbladder wall slightly thickened.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

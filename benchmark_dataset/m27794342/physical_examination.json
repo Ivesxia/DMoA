@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "126/72 mmHg",
+                "respiratory_rate": "14 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and oriented x3",
+                "lungs": "Clear bilaterally",
+                "cardiovascular": "Regular rate and rhythm, normal S1 and S2",
+                "abdominal": "Soft, tenderness to palpation in right lower quadrant, non-distended, no rebound, no guarding, no hernias, positive Rosving's sign, positive psoas sign",
+                "extremities": "No clubbing or edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

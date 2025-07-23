@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.4°F",
+                "heart_rate": "110 bpm",
+                "blood_pressure": "110/68 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "NAD, AAOx3",
+                "cardiovascular": "RRR",
+                "respiratory": "CTA b/l",
+                "abdominal": "soft, nondistended, tender to palpation, no rebound or guarding",
+                "extremities": "no peripheral edema or cyanosis"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

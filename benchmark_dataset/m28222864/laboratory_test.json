@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W & W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Dependent subsegmental atelectasis at the lung bases, fatty infiltration of the liver, normal gallbladder, pancreas, spleen, and bilateral adrenal glands. The kidneys enhance and excrete contrast symmetrically without evidence of hydronephrosis or hydroureter. A 4.0 x 3.8 cm hypodense lesion in the interpolar region of the right kidney, compatible with a cyst. Other hypodensities in the bilateral kidneys are likely cysts. A blind-ending structure in the right lower quadrant demonstrates a surrounding halo of inflammation, concerning for appendicitis. No evidence of perforation. A small appendicolith may be present. Scattered diverticula in the descending colon noted. No free air or fluid in the abdomen. The urinary bladder and associated structures are normal with mild sigmoid diverticulosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test (specific test not provided)",
+            "date": "Not specified",
+            "findings": "8.6 mg/dL, within the normal range (8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

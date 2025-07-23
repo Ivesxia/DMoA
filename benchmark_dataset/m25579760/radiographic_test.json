@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The uterus measures 6.0 x 2.0 x 4.1 cm with a homogeneous endometrium measuring 3 mm. The right ovary measures 3.1 x 2.9 cm and contains multiple follicles. The left ovary measures 3.3 x 2.5 x 2.1 cm and contains multiple follicles. The appendix was not clearly seen. No free fluid is seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

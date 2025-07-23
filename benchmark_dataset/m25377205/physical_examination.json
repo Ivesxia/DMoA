@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "blood_pressure": "94/60 mmHg",
+                "heart_rate": "76 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "general": "Well appearing, NAD, AOx3",
+                "HEENT": "EOMI, MMM, no scleral icterus",
+                "cardiovascular": "RRR",
+                "pulmonary": "nonlabored breathing",
+                "abdominal": "soft, non-distended; mild tenderness in periumbilical and infraumbilical regions, no rebound or guarding",
+                "extremities": "Intact, appropriate strength"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The lung bases demonstrate multiple pulmonary nodules measuring 6.6 mm, 6.2 mm, 8.4 mm, with additional smaller sub-2-mm nodules in the left lower lobe. The liver shows diffusely decreased attenuation suggesting hepatic steatosis. Evidence of diverticulosis with wall thickening and adjacent fat stranding in the sigmoid colon.",
+            "changes_over_time": "New pulmonary nodules identified since prior study, and smaller sub-2-mm nodules in the left lower lobe were also new since prior study."
+        }
+    ]
+}

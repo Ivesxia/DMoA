@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Stable CBC with no leukocytosis, anemia at baseline.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CRP",
+            "date": "Not specified",
+            "findings": "CRP was downtrending from prior at 30 today compared to > 100 previously.",
+            "changes_over_time": "CRP levels decreased from greater than 100 to 30."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "UA showed 30K whites with bacteria.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

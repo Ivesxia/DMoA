@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Gen: Alert and oriented. Neck: No palpable adenopathy. Resp: CTAB. CV: Regular rate and rhythm. Abd: Soft, nontender, nondistended. Ext: WWP, pulses intact.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "New, moderate right pleural effusion with adjacent atelectasis. Atelectasis within the anterior right middle lobe and left lower lobe. The appendix is enlarged and inflamed, with a small adjacent rim-enhancing fluid collection compatible with an abscess.",
+            "changes_over_time": "The abscess was noted to be smaller in comparison to the previous examination but now more organized."
+        }
+    ]
+}

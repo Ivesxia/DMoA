@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The gallbladder is moderately distended with an indistinct and hazy wall at several points, containing radiopaque gallstones in the neck and cystic duct. There is trace pericholecystic free fluid. The liver enhances homogeneously without focal abnormality. No intra or extrahepatic bile duct dilation. Normal appearance of pancreas, spleen, and adrenal glands. Kidneys show simple cysts and additional smaller hypodensities. Bowel is normal without wall thickening or mass. No ascites, fluid collection, or pneumoperitoneum. Patent portal, splenic, and mesenteric veins, normal abdominal aorta with minimal atherosclerotic calcification. No lymphadenopathy noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

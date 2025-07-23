@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified.",
+            "findings": {
+                "liver": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites.",
+                "bile_ducts": "There is no intrahepatic biliary dilation. Mild pneumobilia is noted, likely on a background of recent ERCP. The common bile duct is only partially visualized and measures up to 8 mm in diameter. The biliary stent is not confidently identified.",
+                "gallbladder": "The gallbladder is distended. There is mild pericholecystic fluid and gallbladder wall thickening, up to 9 mm. No overt gallbladder wall hyperemia. There remains a non-mobile 13 mm calculus at the gallbladder neck, as seen on the CT performed ___.",
+                "pancreas": "The imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation.",
+                "spleen": "Normal echogenicity. Spleen length: 9.6 cm.",
+                "kidneys": "Limited views of the kidneys show no hydronephrosis. A simple cyst at the interpolar region of the left kidney measuring approximately 4 cm in maximal dimension. The 6 mm calculus at the lower pole of the left kidney seen on the CT performed ___ is not definitely identified on today's ultrasound. Right kidney: 11.8 cm, Left kidney: 10.9 cm.",
+                "retroperitoneum": "The visualized portions of aorta and IVC are within normal limits."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified.",
+            "findings": {
+                "leukocytes": "1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+                "ref_range": "94.0 to 250.0 IU/L",
+                "measurement": "315.0 IU/L"
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

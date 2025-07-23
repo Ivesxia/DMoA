@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "The lungs are clear with no consolidation or effusion. The hilar, cardiac and mediastinal contours are normal. There is minimal elevation of the left hemidiaphragm. Remainder of the visualized soft tissue and osseous structures are normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

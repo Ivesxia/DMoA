@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Wall thickening and hyperenhancement of the appendiceal base which is dilated to approximately 16 mm with an appendicolith. Distally, the appendix is poorly defined and there is significant surrounding inflammatory change. Regions of peripheral enhancement with central low density measuring overall approximately 4.0 x 2.7 cm without large discrete low-density component. There is no visualized extraluminal/free intraperitoneal air. There is a small amount of free fluid in the pelvis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "White Blood Cell Count",
+            "date": "Not specified",
+            "findings": "9.0 mg/dL (Polymorphonuclear leukocytes 1+ (<1 per 1000X FIELD): NO MICROORGANISMS SEEN). Reference range: 8.4 - 10.3 mg/dL",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

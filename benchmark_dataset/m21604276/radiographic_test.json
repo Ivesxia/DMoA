@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CTU (ABD/PEL) W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "There are 2 left lower lobe pulmonary nodules, stable since ___, benign. The liver is homogeneous in attenuation aside from 2 right lobe hypodensities, likely representing cysts. Enlarged porta hepatis lymph node. Right adrenal gland contains an adenoma measuring 2.4 cm. The right kidney demonstrates a parenchymal calcification measuring 9 mm. The left kidney contains a linear calcification at the lower pole, either vascular calcification or nonobstructive renal stone. There are 2 left lower pole renal hypodensities, likely cysts. Small hiatal hernia. Several diverticula and pericolonic inflammation compatible with diverticulitis. Moderate degenerative changes of the left femoral acetabular joint. No concerning osseous lesions. No acute fracture.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.3°F",
+                "blood_pressure": "140/86 mmHg",
+                "heart_rate": "86 bpm",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "92%"
+            },
+            "relevant_findings": {
+                "general": "mild jaundiced but otherwise well-appearing male in NAD, comfortable",
+                "heent": "NC/AT, PERRLA, EOMI, sclerae icteric, MMM, OP clear",
+                "lungs": "diffuses wheezes, using accessory muscles for inspiration",
+                "heart": "RRR, no MRG, nl S1-S2",
+                "abdomen": "obese, NABS, soft/NT/ND, no masses or HSM, no rebound/guarding",
+                "extremities": "trace pedal edema, 2+ peripheral pulses (radials, DPs)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

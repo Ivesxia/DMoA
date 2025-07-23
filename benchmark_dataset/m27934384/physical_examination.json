@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "76 bpm",
+                "blood_pressure": "141/86 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, resting comfortably",
+                "HEENT": "Pupils equal, round, reactive to light; sclera anicteric",
+                "pulmonary": "Clear to auscultation bilaterally",
+                "cardiovascular": "Regular rate and rhythm, normal S1, S2, no murmurs/rubs/gallops",
+                "abdominal": "Normal bowel sounds, soft, obese, non-distended, moderately tender to palpation in right upper quadrant, negative Murphy's sign, no peritoneal signs, no costovertebral angle tenderness, CVA percussion produces pain in RUQ",
+                "extremities": "Warm, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

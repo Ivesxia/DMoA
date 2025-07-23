@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Severe abdominal pain.",
+        "history_of_present_illness": "Abdominal pain started in the left lower quadrant 8 days ago, initially with fevers and chills, which later migrated to the right side. Fever and chills resolved; abdominal pain has improved considerably but continues. The patient also experienced decreased appetite, mild diarrhea, but no nausea or vomiting. Symptoms do not change with eating or bowel movements.",
+        "past_medical_history": "Chronic renal failure (CRF), Hypertension (HTN), Right eye macular degeneration, Hypothyroidism, Gout.",
+        "family_history": "Grandfather died of stroke.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Hemoglobin: 8.6 mg/dL; Reference Range: 8.4 - 10.3 mg/dL; finding is outside normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Markedly dilated appendix measuring up to 1.5 cm with wall hyperemia and extensive surrounding inflammatory and phlegmonous changes. No organized drainable fluid collection or pneumoperitoneum.",
+            "changes_over_time": "Overall appearance similar in extent and morphology compared to previous findings (not specified when)."
+        }
+    ]
+}

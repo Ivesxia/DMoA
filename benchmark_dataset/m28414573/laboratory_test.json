@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate: 4.1, 5.7, 7.3 (rising values)",
+            "changes_over_time": "Lactate levels are progressively increasing from 4.1 to 7.3."
+        },
+        {
+            "procedure_name": "PTT",
+            "date": "Not specified",
+            "findings": "PTT: 23.3",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "INR",
+            "date": "Not specified",
+            "findings": "INR: 1.3",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ALT",
+            "date": "Not specified",
+            "findings": "ALT: 49 (within normal range)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "AP",
+            "date": "Not specified",
+            "findings": "AP: 200 (not specified whether within range)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Total Bilirubin",
+            "date": "Not specified",
+            "findings": "Total Bilirubin: 2.2 (elevated)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Albumin",
+            "date": "Not specified",
+            "findings": "Albumin: Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "AST",
+            "date": "Not specified",
+            "findings": "AST: 85 (elevated)",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

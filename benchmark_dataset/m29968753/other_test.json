@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "EKG at baseline with no ischemic changes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "liver": "The hepatic architecture is coarsened and nodular in appearance. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is a scant trace of ascites. A small left pleural effusion is also noted.",
+                "bile_ducts": "There is no intrahepatic biliary dilation. The CBD measures 0.3 cm.",
+                "gallbladder": "A small adherent stone or tiny sludge ball is noted in the gallbladder. The gallbladder is partially collapsed and the wall is thickened likely due to third spacing.",
+                "pancreas": "The pancreas is obscured from view by overlying bowel gas.",
+                "spleen": "Normal measuring 10.6 cm."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

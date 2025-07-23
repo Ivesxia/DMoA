@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized lung bases appear clear. There are no pleural effusions. In the right lobe of the liver, a small hypodense focus measuring 5 mm in diameter is too small to characterize. The spleen is normal in size and appearance. There is no biliary dilatation. The gallbladder, pancreas, adrenal glands, and kidneys appear within normal limits. The stomach is non-distended. The small bowel appears within normal limits. The appendix is dilated up to 14 mm in diameter with intramural fluid and discernible mural enhancement. The colon appears normal. There is a small amount of ascites near the appendix and cecum that tracks into the pelvic cul-de-sac. Mild peritoneal enhancement suggests peritoneal irritation. The bladder appears normal. There is an appropriately situated T-shaped intrauterine device. The major mesenteric arteries and veins appear patent. There is no lymphadenopathy. There are no suspicious lytic or blastic bone lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites. There is no intrahepatic biliary dilation. The CHD measures 5 mm. Gallbladder contains multiple stones, without abnormal luminal distension. There is gallbladder wall thickening measuring up to 5 mm. No pericholecystic fluid identified. The imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation. Normal echogenicity of spleen, measuring 9.8 cm. Limited images of the right kidney reveal no evidence of hydronephrosis. The visualized portions of aorta and IVC are within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Normal major papilla. Cannulation of the biliary duct was successful and deep. The CBD and CHD measured 5mm in diameter. The left and right hepatics and intrahepatics were non-dilated. There was a possible filling defect consistent with sludge noted in the distal CBD. Otherwise no evidence of strictures or stones. The cystic duct and neck of the gallbladder was opacified and well visualized. Balloon sweeps were performed of the common bile duct which yielded scant sludge. Completion occlusion cholangiogram revealed no further filling defects.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

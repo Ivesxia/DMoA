@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "76 bpm",
+                "blood_pressure": "153/91 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "NAD, comfortable appearing",
+                "HEENT": "Ncat anicteric MMM",
+                "cardiovascular": "S1S2 RRR ? soft SEM at ___",
+                "respiratory": "B/L ae no w/c/r",
+                "gastrointestinal": "+bs, soft, NABS, + b/l lower quadrant/periumbilical tenderness. No guarding or rebound.",
+                "musculoskeletal": "No c/c/e 2+pulses",
+                "skin": "No rash",
+                "neurological": "Face symmetric, speech fluent",
+                "psychological": "Calm, cooperative"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.6°F",
+                "heart_rate": "122 bpm",
+                "blood_pressure": "121/68 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x 3, no acute distress",
+                "head_and_neck": "PERRL, EOMI, anicteric",
+                "cardiovascular": "Regular rate and rhythm (RRR)",
+                "respiratory": "Clear to auscultation bilaterally (CTAB)",
+                "abdominal": "Soft, nondistended, moderately tender in the right lower quadrant (RLQ) over McBurney's point, no rebound or guarding, normal bowel sounds",
+                "pelvic_exam": "Nontender"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

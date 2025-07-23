@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Partially imaged lung bases are clear. There is no pleural effusion. Liver enhances homogeneously without focal lesions. There is minimal central intrahepatic biliary dilatation. The gallbladder is moderately distended with a diffusely thickened wall and marked surrounding fat stranding. The common bile duct is mildly prominent measuring up to 7 mm. The spleen, pancreas and adrenal glands are unremarkable. Kidneys enhance and excrete symmetrically without focal lesions or hydronephrosis. Stomach is largely decompressed. Non-dilated loops of small bowel are normal in course and caliber. Wall thickening and mucosal hyperenhancement along the rectum and distal sigmoid colon is unchanged and likely relates to the patient's known history of ulcerative colitis. Wall thickening along a collapsed segment of the distal transverse colon adjacent to an area of inflammatory change near the gallbladder likely relates to secondary involvement and underdistension. There is no mesenteric or retroperitoneal lymphadenopathy. Abdominal aorta is of normal caliber throughout. The bladder is unremarkable. A prominent hyperenhancing fibroid is present in the anterior wall of the uterus. A small amount of simple free fluid in the pelvis could be physiologic or related to inflammatory changes in the abdomen. There is no pelvic or inguinal lymphadenopathy. No concerning osteolytic or osteosclerotic lesion identified.",
+            "changes_over_time": "Wall thickening and mucosal hyperenhancement along the rectum and distal sigmoid colon is unchanged."
+        }
+    ]
+}

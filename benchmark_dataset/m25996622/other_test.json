@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "PCR Test for Neisseria Gonorrhoeae",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria Gonorrhoeae by PCR.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Circular calcifications consistent with appendicoliths and fluid-filled tubular rim enhancing structure with mild surrounding inflammatory changes; focal cecal wall thickening surrounding appendiceal base.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

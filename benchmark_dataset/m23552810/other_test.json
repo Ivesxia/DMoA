@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal CT",
+            "date": "Not specified",
+            "findings": "Diffuse pancreatic enlargement with surrounding inflammation, multiple gallstones, no CBD dilatation, no signs of obstruction and no free air.",
+            "changes_over_time": "While admitted, his enzymes and WBC began to trend down."
+        }
+    ]
+}

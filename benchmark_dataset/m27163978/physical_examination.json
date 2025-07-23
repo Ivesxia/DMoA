@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "85 bpm",
+                "blood_pressure": "156/67 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "93% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and oriented.",
+                "heent": "Anicteric, oral pharynx clear, neck supple.",
+                "lungs": "Clear to auscultation bilaterally.",
+                "heart": "Regular rate and rhythm, no murmurs, rubs, or gallops.",
+                "abdomen": "Soft, positive epigastric tenderness, no rebound or guarding, no masses, no hepatosplenomegaly.",
+                "extremities": "No edema.",
+                "skin": "No rash, petechiae, or bruising."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

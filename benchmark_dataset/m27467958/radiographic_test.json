@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Radiograph",
+            "date": "Not specified",
+            "findings": "NG tube tip within the stomach; multiple dilated predominantly small bowel loops with multiple air-fluid levels consistent with ileus; oral contrast seen in small bowel loops and the cecum; no free intra-abdominal air noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

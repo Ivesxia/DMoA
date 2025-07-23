@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Lung bases demonstrate mild atelectatic change. The heart is not enlarged. There is no pericardial effusion. Liver, gallbladder, spleen, adrenals, kidneys, pancreas appear unremarkable. Abdominal aorta and iliac vessels are unremarkable. There is no lymphadenopathy. There is no bowel obstruction. The appendix is dilated and fluid filled with hyperemic wall and mild surrounding fat stranding compatible with acute appendicitis. There is mild cecal wall thickening adjacent to the inflamed appendix. There is no drainable fluid collection or pneumoperitoneum. Urinary bladder, distal ureters, seminal vesicles, and prostate gland as well as rectum are unremarkable. There is no bony lesion to suggest malignancy or infection.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "1.2 mmol/L (within normal ranges)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

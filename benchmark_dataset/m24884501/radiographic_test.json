@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "The cardiac and mediastinal contours are within normal limits with slight unfolding of the aorta. There are no pleural effusions and the pulmonary vasculature is within normal limits. The lungs are clear. Ingested oral contrast is seen within the stomach.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

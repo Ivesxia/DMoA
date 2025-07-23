@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Elevated lipase of 2944",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total Bilirubin",
+            "date": "Not specified",
+            "findings": "Total bilirubin increased from 1.66 to 2.4",
+            "changes_over_time": "Increased over time"
+        },
+        {
+            "procedure_name": "AST",
+            "date": "Not specified",
+            "findings": "AST increased from 137 to 138",
+            "changes_over_time": "Slight increase over time"
+        },
+        {
+            "procedure_name": "ALT",
+            "date": "Not specified",
+            "findings": "ALT of 79",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

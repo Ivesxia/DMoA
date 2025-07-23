@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is normal in size, echogenicity and architecture. The gallbladder is mildly distended, contains mobile shadowing gallstones, and has mild gallbladder wall edema. There is no intra- or extra-hepatic biliary dilatation, the common duct measures 5 mm, and there is normal hepatopetal flow in the main portal vein. There is no perihepatic ascites.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "Bilirubin level: 9.0 mg/dL (Normal range: 8.4 - 10.2 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

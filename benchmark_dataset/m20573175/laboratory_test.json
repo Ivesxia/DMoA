@@ -1,0 +1,30 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level: 6930 (elevated, normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "LIVER": "Echogenicity is homogeneous, contour is smooth, no focal liver mass, main portal vein patent with hepatopetal flow, no ascites.",
+                "BILE DUCTS": "No intrahepatic biliary dilation, CBD measures 3 mm.",
+                "GALLBLADDER": "No stones or gallbladder wall thickening, gallbladder sludge present.",
+                "PANCREAS": "Head of pancreas normal, tail and body not visualized due to gas.",
+                "SPLEEN": "Normal echogenicity, measuring 11.7 cm.",
+                "KIDNEYS": "Right kidney 11.6 cm, left kidney 11.8 cm, simple cyst in left kidney measuring 3.4 x 3.5 x 3.4 cm, normal cortical echogenicity.",
+                "RETROPERITONEUM": "Visualized portions of aorta and IVC normal."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

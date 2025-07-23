@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ERCP BILIARY&PANCREAS BY GI UNIT",
+            "date": "Not specified",
+            "findings": "No common bile duct stones were identified. Mild dilation of the common hepatic duct was noted, and no contrast was seen entering the gallbladder.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bilirubin Test",
+            "date": "Not specified",
+            "findings": "2.8 g/dL , which is below the normal range (3.5 - 5.2 g/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

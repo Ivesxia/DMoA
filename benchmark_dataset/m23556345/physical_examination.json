@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: Not specified, Heart Rate: Not specified, Blood Pressure: Not specified, Respiratory Rate: Not specified, O2 saturation: Not specified",
+            "relevant_findings": "General: awake, alert, oriented x 3, extremely anxious, tearful; HEENT: NCAT; Heart: RRR, NMRG; Lungs: CTAB, normal excursion; Chest: non-tender; Abdomen: soft, ND, obese, + Rosvings sign, minimal right lower quadrant tenderness; Skin: no rashes, no lesions, no ulcers",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

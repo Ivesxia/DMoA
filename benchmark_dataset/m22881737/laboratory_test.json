@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver demonstrates homogenous attenuation throughout with no focal lesions or biliary dilatation. The pancreas, spleen, and adrenal glands show normal findings, except the left adrenal which has an indeterminate density nodule measuring 1.7 x 1.5 cm. The kidneys are normal with no hydronephrosis or focal lesions. The stomach is unremarkable. The appendix contains an appendicolith and remains dilated measuring up to 1.5 cm with surrounding fat stranding. There is a small to moderate volume of free fluid in the pelvis which has slightly increased since a prior CT. New fluid collection in the anterior abdominal wall measures 2.9 x 1.4 x 3.6 cm.",
+            "changes_over_time": "Compared to the prior CT, there is relatively decreased small bowel dilation indicating resolving/partial obstruction, and the free fluid in the pelvis has slightly increased since the prior CT."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Test",
+            "date": "Not specified",
+            "findings": "NEG.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

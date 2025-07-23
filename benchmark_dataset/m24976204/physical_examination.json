@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "84 bpm",
+                "blood_pressure": "160/97 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "general": "NAD (No Acute Distress), uncomfortable.",
+                "HEENT": "Anicteric, dry mucosal membranes.",
+                "cardiovascular": "Regular rate and rhythm.",
+                "pulmonary": "Course breath sounds, decreased on right.",
+                "abdominal": "Distended and tympanic, tender diffusely with focal tenderness in epigastrum, +guarding, no rebound.",
+                "digital_rectal_examination": "Normal tone, no masses, no gross or occult blood.",
+                "extremities": "Warm and well perfused, no peripheral edema.",
+                "neurological": "Motor and sensation grossly intact."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

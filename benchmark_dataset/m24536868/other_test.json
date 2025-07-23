@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "NAD/A&Ox3 CTAB RRR Abd soft, minimally tender, nondistended Wounds: CDI",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Fluid filled and dilated appendix measuring 9 mm in diameter, well-circumscribed dense intraluminal structure compatible with an appendicolith, and surrounding fat stranding without locules of free air.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

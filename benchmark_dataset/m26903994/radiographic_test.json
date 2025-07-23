@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic consistent with fatty infiltration. The gallbladder is minimally distended with wall thickening. A 1.7 cm stone is seen in the neck of the gallbladder. The common bile duct measures 6 mm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

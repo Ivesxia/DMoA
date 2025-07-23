@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "No superficial fluid collections seen at the left lower quadrant port site. No large deeper fluid collections. Small deep collections may be obscured by overlying bowel.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

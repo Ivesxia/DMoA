@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Worsening chest pain",
+        "history_of_present_illness": "The patient has a history of chronic chest pain, experiencing roughly 4 episodes per day lasting about ___ minutes. On the day of admission, he had 5 episodes of chest pain, with the ___ episode bringing him to the ER due to its duration exceeding 90 minutes. The chest pain is described as substernal pressure with left arm numbness, associated with shortness of breath, and nausea/vomiting. The patient occasionally feels lightheaded and palpitates during episodes. Symptoms are reproducible with walking up 2 flights of stairs.",
+        "past_medical_history": "Hypertrophic Obstructive Cardiomyopathy, chronic chest pain, Hyperlipidemia, Secundum ASD, Chronic Low Back Pain with RLE Radiculopathy, GERD, Spontaneous Pneumothorax S/P Rt lobectomy, Left testicular seminoma S/P bilateral orchiectomy, Hemorrhoids s/p hemorrhoidectomy, s/p Appendectomy, s/p Tonsillectomy.",
+        "family_history": "Notable for a number of family members with myocardial infarction and sudden cardiac death. Uncle had sudden death. Brother and sister have hypertrophic cardiomyopathy.",
+        "social_history": "Not specified"
+    }
+}

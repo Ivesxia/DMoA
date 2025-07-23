@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "heart_rate": "154 bpm",
+                "blood_pressure": "154/102 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress (NAD)",
+                "HEENT": "Anicteric sclera, pink conjunctiva, patent nares, dry mucous membranes, poor dentition",
+                "neck": "Nontender, supple, no lymphadenopathy (LAD), no jugular venous distention (JVD)",
+                "cardiac": "Regular, slightly tachycardic (rate not specified), normal S1/S2, no murmurs, gallops, or rubs",
+                "lung": "Clear to auscultation bilaterally (CTAB), no wheezes, rales, or rhonchi",
+                "abdomen": "Soft, tender to palpation (TTP) in epigastric and periumbilical regions, slightly distended, hyperactive bowel sounds, no rebound or guarding, no hepatosplenomegaly",
+                "extremities": "Moving all extremities well, no cyanosis, clubbing, or edema",
+                "pulses": "2+ dorsalis pedis pulses bilaterally",
+                "neurological": "Cranial nerves II-XII grossly intact, acutely intoxicated with poor attention, unwilling to further participate, no asterixis",
+                "skin": "Warm and well perfused, no excoriations, lesions, or rashes"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.3°F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "146/103 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

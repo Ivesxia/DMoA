@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Hepatic parenchyma appears within normal limits. Contour smooth. No focal liver mass. Main portal vein patent with hepatopetal flow. No ascites.",
+                "bile_ducts": "No intrahepatic biliary dilation. CHD measures 2 mm.",
+                "gallbladder": "Cholelithiasis without gallbladder wall thickening or other findings suggestive of pathology.",
+                "pancreas": "Appears within normal limits without masses or pancreatic ductal dilation.",
+                "spleen": "Normal echogenicity, measuring 12.5 cm.",
+                "kidneys": "Limited views of the right kidney show no hydronephrosis.",
+                "retroperitoneum": "Visualized portions of aorta and IVC are within normal limits.",
+                "fetal_heartrates": "Fetal heart rates were within normal limits, measuring between 134 and 144 beats per min."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": {
+                "valuestr": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+                "valuestr_x": "NEG."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

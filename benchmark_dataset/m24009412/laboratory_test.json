@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified.",
+            "findings": "Locules of free air seen interposed between the base of cecum and adjacent sigmoid colon. An inflamed diverticulum along the mid sigmoid colon. Mild adjacent stranding likely reactive in the setting of acute perforated diverticulitis. No evidence of drainable fluid collection.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified.",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

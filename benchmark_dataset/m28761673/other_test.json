@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Test for Salmonella/Shigella",
+            "date": "Not specified",
+            "findings": "NO SALMONELLA OR SHIGELLA FOUND.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EDG",
+            "date": "Not specified",
+            "findings": "gastric ulcer, persistent gastritis, + H pylori.",
+            "changes_over_time": "Repeat EDG in ___ with continued ulcer; repeat in ___ (not done with other ongoing issues)."
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "internal hemorrhoids.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Breath test for SIBO",
+            "date": "Not specified",
+            "findings": "+ for SIBO.",
+            "changes_over_time": "treated with oral antibiotics."
+        }
+    ]
+}

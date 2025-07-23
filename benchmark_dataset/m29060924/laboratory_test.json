@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "ALT 523, AST 275, Total Bilirubin 2.3, Alkaline Phosphatase 220 (elevated).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The common bile duct measures up to 8 mm in diameter, with a focal filling defect consistent with choledocholithiasis. No intrahepatic biliary ductal dilatation.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

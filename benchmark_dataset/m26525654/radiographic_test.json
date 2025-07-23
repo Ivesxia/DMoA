@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI ABDOMEN W/O & W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The pancreatic parenchyma demonstrates diffusely low T1 signal relative to the liver. There is decreased but homogeneous contrast enhancement. No significant fat stranding, free fluid, pseudocysts, or focal hyper/hypoenhancement to suggest acute inflammation or parenchymal necrosis. The pancreatic duct is diffusely irregular, with variant anatomy suggestive of prominent dorsal duct versus pancreas divisum. No caliber transition, filling defects, or intraluminal enhancement to indicate obstructing stones/masses. A prominent 9-mm portocaval node is noted. The liver is normal in signal intensity. Gallbladder is unremarkable. No intra- or extra-hepatic biliary dilation. Spleen is normal in size. The adrenals are normal. Left renal atrophy is noted, with irregular enhancement and multiple areas of cortical thinning/lobulation, suggesting prior postischemic or postinfectious injury. Multiple tiny bilateral simple cysts are present. Two 3-mm foci in the right renal interpole and an 8-mm exophytic cyst in the left lower renal pole demonstrate T1-hyperintense signal, compatible with hemorrhagic/proteinaceous cysts. No renal masses or hydronephrosis. Abdominal rectus diastasis and a small fat-containing umbilical hernia are noted. The stomach and visualized portions of small and large bowel are unremarkable. Retroperitoneal and mesenteric lymph nodes are not pathologically enlarged. Mild bibasilar atelectasis is noted, without pleural effusions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

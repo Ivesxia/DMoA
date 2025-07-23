@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Dilated, mildly hyperemic noncompressible tubular structure measuring 7 mm with mild surrounding fluid but intact appearing mucosa consistent with appendicitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "A midline percutaneous drainage catheter is unchanged in position. The gas and fluid collection medial to the sigmoid measures 4.1 x 3.8 x 4.5 cm, significantly smaller than previous but slightly increased in size compared to an earlier measurement of 3.2 x 2.4 x 2.9 cm. A smaller fluid collection to the right of the main collection measures 2.3 x 2.1 cm and is unchanged from prior. Significant fat stranding in the surrounding pelvis is stable. Residual intra-abdominal free air is slightly decreased in size compared with the previous exam. There are no dilated loops of bowel.",
+            "changes_over_time": "The gas and fluid collection medial to the sigmoid is significantly smaller than previous imaging but has slightly increased in size compared to an earlier measurement. The smaller fluid collection to the right remains unchanged. Residual intra-abdominal free air has decreased in size."
+        }
+    ]
+}

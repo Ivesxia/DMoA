@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is retrocecal, has wall hyperemia and is dilated measuring 8 mm with surrounding fat stranding and an appendicolith noted. No evidence of perforation or fluid collection. The visualized lung bases are clear with no pleural effusions, pneumothorax or focal opacities. The liver enhances homogeneously with no focal lesions. The gallbladder is unremarkable and contains no radiopaque gallstones. The spleen is normal in size and shape. The pancreas enhances homogeneously without ductal dilation or peripancreatic fat stranding. The adrenal glands are normal in size and shape. The kidneys are normal in size and shape with no hydronephrosis. The stomach is mildly distended and the small bowel is without obstruction. No pathologically enlarged lymph nodes are observed. The bladder is relatively well distended without wall thickening.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

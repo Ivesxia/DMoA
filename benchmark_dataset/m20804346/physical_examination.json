@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "40 bpm",
+                "blood_pressure": "102/53 mmHg",
+                "respiratory_rate": "28 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No distress, A&O x3",
+                "HEENT": "Pupil Equal, Reactive to Light and Accommodation (PERLA), Extraocular Movements Intact (EOMI), anicteric, no rashes",
+                "neck": "Supple",
+                "chest": "Regular Rate and Rhythm (RRR), lungs clear",
+                "abdomen": "Soft, nondistended, epigastric and right upper quadrant tenderness to palpation, no rebound or guarding",
+                "extremities": "No edema, palpable pulses"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

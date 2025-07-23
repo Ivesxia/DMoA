@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute abdominal pain",
+        "history_of_present_illness": "The patient developed abdominal pain at 3 PM, which worsened with inspiration, was non-radiating, and not associated with food. The pain intensified over the next few hours, leading to an emergency department admission.",
+        "past_medical_history": "ETOH Cirrhosis (complicated by alcoholic hepatitis, portal hypertension with grade III varices), DMII, HTN, HL, ETOH abuse, GERD, depression, OSA on CPAP, panic disorder, hypogonadism, history of Afib status post cardioversion not on anticoagulation.",
+        "family_history": "Father had alcohol abuse, sister has panic disorder.",
+        "social_history": "Not specified."
+    }
+}

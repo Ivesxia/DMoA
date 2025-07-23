@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated measuring up to 14 mm, with mural edema and periappendiceal stranding noted. There are numerous scattered mesenteric lymph nodes in the right lower quadrant measuring up to 11 mm in short axis, which are likely reactive. There is a small amount of free fluid within the pelvis, without evidence for a fluid collection. The visualized lung bases are clear and there is no pleural effusion. The liver, gallbladder, spleen, pancreas, adrenal glands, and kidneys are unremarkable. The remainder of the bowel is otherwise unremarkable, other than to note fecal loading throughout the colon. There is no free air.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

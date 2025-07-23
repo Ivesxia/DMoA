@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified.",
+        "diagnostic_reasoning": "The CT scan revealed a dilated tip of the appendix (up to 9 mm) with significant surrounding stranding, indicating appendicitis. The examination also noted severe widespread diverticulosis, but the findings in the appendix suggested either a microperforation or impending perforation, which directed the diagnosis towards appendicitis."
+    }
+}

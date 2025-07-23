@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Post-pneumonectomy changes on the right with rightward mediastinal shift, wall thickening of a collapsed descending and sigmoid colon with extensive diverticula, sigmoid colonic inflammation, severe compression deformity of the L2 vertebral body with retropulsion and canal narrowing, healing left rib fracture, and no free intraperitoneal air or ascites.",
+            "changes_over_time": "Worse since recent prior MR."
+        }
+    ]
+}

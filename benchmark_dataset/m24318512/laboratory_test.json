@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The pancreas has normal attenuation throughout, without evidence of focal lesions or pancreatic ductal dilatation. There is slight cortical thinning in the left kidney compared with the right. There are bilateral low-density renal lesions consistent with cysts, the largest measuring up to 2.3 cm in the right midpole. The liver demonstrates homogenous attenuation throughout with no evidence of focal lesions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EIA (Enzyme Immunoassay)",
+            "date": "Not specified",
+            "findings": "NEGATIVE BY EIA. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

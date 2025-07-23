@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "heart_rate": "87 bpm",
+                "blood_pressure": "157/85 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": "AAOX3, NAD, RRR, CTAB, soft abdomen, RLQ very tender to mild palpation, no diffuse guarding or rebound, rectal exam guaiac negative, no masses, no edema, extremities warm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

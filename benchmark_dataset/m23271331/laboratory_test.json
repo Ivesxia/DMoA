@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC count",
+            "date": "Not specified",
+            "findings": "WBC 16.3, which is up from baseline (normal range: 9.4 - 12.5)",
+            "changes_over_time": "WBC count increased from baseline."
+        },
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Gallbladder demonstrates layering stones without evidence of extrahepatic biliary dilatation. The common hepatic duct measures 4 mm. No gallbladder wall thickening or pericholecystic fluid collection. The gallbladder is distended. The spleen measures 8.7 cm.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

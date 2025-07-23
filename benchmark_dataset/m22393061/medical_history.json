@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Subacute worsening of abdominal pain with bloating.",
+        "history_of_present_illness": "The patient presents with worsening abdominal pain and bloating that started 5 days ago, with fairly sudden onset of abdominal pain prior to admission. The pain is epigastric and in the lower abdominal areas, with some radiation to the back. Associated symptoms include nausea, but no vomiting or diarrhea. The patient has had episodic abdominal pain over the past year and associated severe bloating, which is not relieved with bowel movements. There was suspicion of a dietary trigger.",
+        "past_medical_history": "History of small intestine bacterial overgrowth (SIBO), H. Pylori treated with antibiotics.",
+        "family_history": "Mother had breast cancer; no family history of cardiac disease, stroke, thyroid disease, or autoimmune diseases. Maternal aunt has fibromyalgia.",
+        "social_history": "The patient has traveled recently for 5 days, but symptoms did not worsen during that time. Other social history is not specified."
+    }
+}

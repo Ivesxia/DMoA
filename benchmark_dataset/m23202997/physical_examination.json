@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "118/95 mmHg",
+                "respiratory_rate": "16 rpm",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "No respiratory distress",
+                "abdominal": "Obese, soft, nondistended, tender focally on the right side of abdomen between RUQ and RLQ.",
+                "extremities": "No edema"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "In the right lower quadrant, there is a periappendiceal abscess with adjacent fatty stranding which measures 6.7 x 5.6 cm, significantly increased from a previous measurement of 3.4 x 3.2 cm.",
+            "changes_over_time": "The size of the periappendiceal abscess has increased over time."
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient presents with 2 days of abdominal pain, described as a dull ache in the right lower quadrant (RLQ), which has been unchanged. No fever, chills, nausea/vomiting, or anorexia reported.",
+        "past_medical_history": "Tuberous sclerosis, bilateral spontaneous pneumothorax treated with talc pleurodesis, sinusitis, anxiety, seizure disorder, impaired renal function, hypertension. Past surgical history includes bilateral partial nephrectomies for kidney tumors, splenectomy, and cholecystectomy.",
+        "family_history": "Maternal grandfather and grandmother both with lung cancer; no family history of tuberous sclerosis.",
+        "social_history": "Not specified."
+    }
+}

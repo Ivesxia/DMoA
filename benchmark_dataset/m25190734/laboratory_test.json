@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Limited view of the lung bases shows mild dependent atelectasis. No pleural effusion. Intra-abdominal organs are within normal limits. Inflammatory changes are seen within the right lower quadrant surrounding a dilated and thickened appendix. An appendicolith is noted measuring 5 mm. Several prominent right lower quadrant lymph nodes are likely reactive. No evidence of extraluminal gas or discrete fluid collections or abscess. The remainder of the colon shows diverticulosis without diverticulitis. No free fluid or free air within the abdomen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

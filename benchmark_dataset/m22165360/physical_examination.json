@@ -1,0 +1,48 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "102.5 F",
+                "heart_rate": "124 bpm",
+                "blood_pressure": "123/81 mmHg",
+                "respiratory_rate": "24 breaths/min",
+                "oxygen_saturation": "93% RA"
+            },
+            "relevant_findings": {
+                "general": "Acutely-ill appearing lady, in no acute distress, lying in bed comfortably.",
+                "HEENT": "Icteric sclerae, PERLL, mucous membranes dry, OP with faint erythema, no mucositis.",
+                "cardiac": "Regular rate and rhythm, normal heart sounds, no murmurs, rubs or gallops.",
+                "lung": "Appears in no respiratory distress, clear to auscultation bilaterally, no crackles, wheezes or rhonchi.",
+                "abdomen": "Non-distended, normal bowel sounds, soft, non-tender, no guarding, no palpable masses, no organomegaly.",
+                "extremities": "Warm, well perfused. No lower extremity edema. No erythema or tenderness.",
+                "neurological": "A&Ox3, good attention and linear thought, CN II-XII intact. Strength full throughout. Sensation to light touch intact.",
+                "skin": "No significant rashes.",
+                "port": "Faint erythema surrounding site of port matching surface of transparent dressing, mild tenderness on palpation."
+            },
+            "changes_over_time": "Initial examination revealed no significant changes. By discharge, the patient was still acutely ill appearing, but without additional significant relevant findings."
+        },
+        {
+            "date": "Discharge Exam (Not specified)",
+            "vital_signs": {
+                "temperature": "98.1-97.8 F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "74 (Not specified)",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "95% RA"
+            },
+            "relevant_findings": {
+                "general": "Comfortable appearing lady, in no acute distress, lying in bed comfortably.",
+                "HEENT": "Icteric sclerae, PERLL, mucous membranes dry, OP with faint erythema, no mucositis.",
+                "cardiac": "Regular rate and rhythm, normal heart sounds, no murmurs, rubs or gallops.",
+                "lung": "CTAB, no wheezes or rhonchi.",
+                "abdomen": "Non-distended, normal bowel sounds, soft, non-tender, no guarding, no palpable masses, no organomegaly.",
+                "extremities": "Warm, well perfused. No lower extremity edema. Tenderness to palpation in bilateral calves.",
+                "neurological": "A&Ox3, good attention and linear thought, CN II-XII intact. Strength full throughout. Sensation to light touch intact.",
+                "skin": "No significant rashes.",
+                "port": "Faint erythema surrounding site of port matching surface of transparent dressing, mild tenderness on palpation at 7 o'clock in port."
+            },
+            "changes_over_time": "No significant change in general appearance noted; however, tenderness in bilateral calves was a new finding at discharge."
+        }
+    ]
+}

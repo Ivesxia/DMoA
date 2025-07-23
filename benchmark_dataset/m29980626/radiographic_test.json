@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The lung bases are clear. No focal lesions in the liver. The kidneys enhance and excrete contrast symmetrically. The appendix is dilated measuring 9 mm with air in the proximal portion and fluid in the distal portion. No free fluid, free air, or lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

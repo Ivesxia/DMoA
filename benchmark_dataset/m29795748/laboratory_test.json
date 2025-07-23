@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test (transaminitis)",
+            "date": "Not specified",
+            "findings": "AST > ALT",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Elevated lipase to 160",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of the Abdomen",
+            "date": "Not specified",
+            "findings": "Increased liver echogenicity likely from fatty deposition; 8mm echogenicity in liver consistent with hemangioma. No CBD dilatation or evidence of cholecystitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Peripancreatic inflammation involving the head and body with heterogeneous enhancement; small-to-moderate peripancreatic fluid; 8mm hypodense lesion in left interpolar kidney likely representing a simple cyst.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

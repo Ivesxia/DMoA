@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver demonstrates no focal or textural abnormality. There is no appreciable intrahepatic biliary dilatation. The common duct is dilated to 11 mm. The gallbladder contains multiple shadowing stones near the neck. Closer to the fundus is a focal 4-mm echogenic non-shadowing structure which could represent a polyp or adherent stone. There is normal hepatopetal flow within the portal vein. Partially visualized pancreas appears unremarkable. The spleen measures 8.6 cm. The abdominal aorta is normal in caliber. The gallbladder is mildly distended, without mural thickening or pericholecystic fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

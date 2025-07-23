@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver demonstrates homogenous attenuation throughout. No evidence of focal lesions. No intrahepatic or extrahepatic biliary dilatation. The gallbladder is within normal limits. Periportal edema is mild. The pancreas has normal attenuation without evidence of focal lesions. The spleen shows normal size and attenuation. The adrenal glands are normal in size and shape. Kidneys are normal and symmetric in size. Mildly dilated loops of small bowel up to 3.1 cm with fecalized material and mild wall hyperenhancement. The appendix appears to be retrocecal, with minimal fat stranding and fluid around it. Moderate free fluid in the pelvis. Urinary bladder is moderately distended and unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION. NONE /hpf.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Cardiac enzymes and ECG were unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound - Liver or Gallbladder",
+            "date": "Not specified",
+            "findings": "Intrahepatic biliary dilatation; gallbladder distended with a thickened and edematous wall containing sludge; no definite gallstone seen.",
+            "changes_over_time": "Intrahepatic biliary dilatation similar to prior MR; gallbladder findings were also similar to prior MR."
+        },
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "No MRSA isolated.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The epigastric pain started approximately two days ago after eating burritos. Symptoms include associated nausea and vomiting, which improved after vomiting. The pain subsequently moved to the right upper quadrant and left upper quadrant. The patient reports feeling fatigued and tired, with fevers present but no chills. There have been no bowel movements for the past two days.",
+        "past_medical_history": "Umbilical hernia, past appendectomy, diverticulitis",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

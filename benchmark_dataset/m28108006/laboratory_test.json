@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is slightly, diffusely enlarged to approximately 8mm diameter with ill-defined margins and mild adjacent fat stranding. No pneumonia at the lung bases, no pleural or pericardial effusion, liver enhances homogeneously, no intra- or extra-hepatic biliary duct dilatation, normal gallbladder, normal spleen, normal bilateral adrenal glands, kidneys enhance symmetrically without evidence of hydronephrosis, small hypodensities in both kidneys. No bowel obstruction, no free air or stranding about the colon, no pathologically enlarged lymph nodes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test (e.g. renal function test)",
+            "date": "Not specified",
+            "findings": "1.4 mmol/L (reference range 0.5 - 2.0)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

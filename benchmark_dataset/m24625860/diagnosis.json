@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient's clinical presentation included abdominal pain with significant tenderness in the right lower quadrant, positive guarding, rebound tenderness, and imaging findings showing a dilated appendix with fat stranding and an appendicolith. These findings supported the diagnosis of appendicitis."
+    }
+}

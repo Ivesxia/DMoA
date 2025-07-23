@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The diagnosis of appendicitis was supported by a CT scan which showed a fluid-filled and dilated appendix, measuring up to 10 mm, with trace surrounding fat stranding. The patient's symptoms included right lower quadrant abdominal pain and fever, which are consistent with appendicitis."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laparoscopic appendectomy",
+            "date": "Not specified",
+            "findings": "Enlarged and fluid-filled appendix with apparent fecal material within the base of the appendix, measuring up to 2.1 cm in greatest diameter at the base. Surrounding inflammatory fat stranding present. Multiple small reactive lymph nodes in the right lower quadrant. No evidence of extraluminal air or drainable fluid collection.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Calcifications within the left hepatic lobe, no suspicious focal lesions in the liver, patent portal vein, normal appearance of pancreas, adrenal glands, spleen and kidneys, and findings consistent with appendicitis in the right lower quadrant.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

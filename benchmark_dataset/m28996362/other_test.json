@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is edematous and dilated up to 1.2 cm with mural edema and hyperemia. A hyperdensity near the proximal appendix is consistent with represent a fecalith. There is severe right lower quadrant stranding with trace, nonenhancing fluid. There is thickening of the cecum and the terminal ileum, likely reactive to the adjacent inflammation. Tiny foci of extraluminal air are concerning for perforation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Admission Vitals",
+            "date": "Not specified",
+            "findings": "Temperature: 101.9°F; Heart rate: 103 bpm; Blood pressure: 156/69 mmHg; Respiratory rate: 21/min; Oxygen saturation: 95% on room air.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

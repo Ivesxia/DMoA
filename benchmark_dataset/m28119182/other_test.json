@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is hyperenhancing, with mucosal thickening, measuring a maximal diameter of 11 mm, concerning for uncomplicated early appendicitis. No evidence of pleural or pericardial effusion. All other organs visualized (liver, pancreas, spleen, kidneys) appear normal. No retroperitoneal or mesenteric lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic appendectomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

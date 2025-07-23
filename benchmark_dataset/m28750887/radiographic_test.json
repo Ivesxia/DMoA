@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "A non-compressible blind-ending tubular structure measuring 11 mm with mild wall hyperemia arising from the cecum below the ileocecal valve, trace adjacent free fluid, and increased adjacent echogenicity suggesting surrounding fat stranding.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

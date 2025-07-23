@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Trace protein, 1 hyaline cast, no signs of UTI.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS W & W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Largely fatty replaced pancreas with mild peripancreatic fat stranding; native kidneys atrophic with hypodensities bilaterally; no evidence of obstruction in small and large bowel; normal appendix; no free air or fluid in the abdomen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

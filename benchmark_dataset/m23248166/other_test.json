@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Normal hepatic parenchymal signal intensity without focal liver lesion. No intra- or extra-hepatic biliary dilatation. The portal vein is patent. No gallstones are evident within the gallbladder. No evidence for choledocholithiasis. Note is made of pancreas divisum. There is slight irregularity of the duct noted within the tail of the pancreas. Normal homogeneous signal intensity to the pancreas which enhances normally. No pancreatic cystic lesion or mass identified. No peripancreatic fluid. Incidental note is made of an accessory renal artery on the right side.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "NO OVA AND PARASITES SEEN. This test does not reliably detect Cryptosporidium, Cyclospora or Microsporidium. While most cases of Giardia are detected by routine O+P, the Giardia antigen test may enhance detection when organisms are rare.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

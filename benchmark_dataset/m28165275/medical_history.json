@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric and right upper quadrant abdominal pain.",
+        "history_of_present_illness": "Patient was in his usual state of health until dinner 4 days ago, when he developed epigastric pain approximately 2 hours after the meal. The following day, the pain radiated to the right upper quadrant and around to the back. The pain is described as constant with a sharp component upon movement, exacerbated by eating, leading to reduced food intake. The patient has not had a bowel movement in 5 days, but does not feel distended.",
+        "past_medical_history": "History of HCV, Type 2 Diabetes Mellitus (last HgA1c 13), Anxiety, history of intravenous drug use.",
+        "family_history": "Mother with diabetes, gallstones, Alzheimer's, died last year. Multiple family members with diabetes.",
+        "social_history": "Denies alcohol use or recent travel."
+    }
+}

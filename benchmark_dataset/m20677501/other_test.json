@@ -1,0 +1,26 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Sentinel Lymph Node Biopsy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": {
+                "pleural_effusion": "Bilateral small pleural effusions, right greater than left, with associated compressive atelectasis.",
+                "liver": "Enhances homogeneously without focal lesion or intrahepatic biliary duct dilation.",
+                "gallbladder": "Demonstrates no stone, wall thickening or edema, or pericholecystic fluid.",
+                "spleen": "Homogeneous and normal in size.",
+                "pancreas": "Enlarged and edematous, with surrounding fat stranding and trace free fluid.",
+                "pancreatic_duct": "At the upper limits of normal, measuring 3 mm, with no obstructing stone or mass.",
+                "kidneys": "Symmetric nephrograms with a 1.8 cm simple cyst in the right kidney.",
+                "GI": "Small and large bowel within normal limits.",
+                "os_seous_structures": "Multilevel degenerative changes of the thoracolumbar spine."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

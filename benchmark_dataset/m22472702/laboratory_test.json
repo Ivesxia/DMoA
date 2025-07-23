@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder is mildly distended and contains numerous gallstones. There is gallbladder wall thickening with mural edema. There is no intrahepatic or extrahepatic biliary dilatation. The common bile duct measures 6 mm. The liver is otherwise unremarkable. There is no evidence of free fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "WBC count (presumed due to elevated WBC mentioned)",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "ENTEROCOCCUS SP., PRESUMPTIVE STREPTOCOCCUS BOVIS",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "164.0 IU/L - elevated; reference range is 94.0 - 250.0 IU/L.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

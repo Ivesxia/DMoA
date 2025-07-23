@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CMV DNA PCR",
+            "date": "Not specified",
+            "findings": "CMV DNA not detected. Performed by PCR. Detection Range: 600 - 100,000 copies/ml.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "There is a new small left pleural effusion, no focal consolidation, nodules, or masses. Extensive heterogeneous enhancement, edema, and fat stranding suggestive of inflammatory changes involving the pancreatic head. The transplant kidney enhances homogeneously without signs of hydronephrosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

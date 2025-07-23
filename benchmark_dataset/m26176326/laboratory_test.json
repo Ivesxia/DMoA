@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bacterial culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Improvement in CHF findings. There is residual upper zone redistribution. There are also residual patchy opacities at both lung bases, with mild hilar prominence. No gross effusion. Increased retrocardiac density is present.",
+            "changes_over_time": "Compared with a previous exam at 17:52 p.m., there has been improvement in CHF findings."
+        }
+    ]
+}

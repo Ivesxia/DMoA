@@ -1,0 +1,15 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain localized in the epigastrium, radiating around to the right side and back.",
+        "history_of_present_illness": "The patient reports that the abdominal pain has been present for 3 days, with sharp quality and high intensity (10 out of 10). The pain worsens with deep inspiration or movement and is relieved by rest. There are multiple painful attacks throughout the day. The patient also reports a decreased appetite over the past 3 days, endorsing nausea but no vomiting. She has been intermittently constipated at home but had a regular bowel movement yesterday.",
+        "past_medical_history": "Past medical history includes congestive heart failure, hypertension, multiple myeloma, chronic kidney disease, renal cell carcinoma (status post nephrectomy), multifocal papillary thyroid cancer (diagnosed and status post total thyroidectomy), osteoporosis with complications, atrial fibrillation, and history of femur and spinal compression fractures.",
+        "family_history": {
+            "mother": "Liver cancer",
+            "father": "Congestive heart failure",
+            "brother": "Healthy",
+            "nephew": "Multiple diagnosed at a young age",
+            "maternal_aunt": "Cancer"
+        },
+        "social_history": "Not specified"
+    }
+}

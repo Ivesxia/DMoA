@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.0°F",
+                "heart_rate": "96 bpm",
+                "blood_pressure": "131/71 mmHg",
+                "respiratory_rate": "20 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Trans-gender female, appears younger than stated age, NAD, no icterus, morbidly obese.",
+                "HEENT": "NC/AT, EOMI, PERRLA bilat., moist MM, without cervical LAD.",
+                "cardiovascular": "RRR without m/g/r, no JVD, no bruits.",
+                "lungs": "CTA bilat.",
+                "abdominal": "Soft, obese, protuberant, diffusely tender but mostly at L-mid abdomen, + diffuse percussion tenderness, well-healed scars.",
+                "extremities": "Warm feet, no edema, dry healing ulcer at R medial malleolus."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

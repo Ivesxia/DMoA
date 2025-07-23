@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1 °F",
+                "heart_rate": "75 bpm",
+                "blood_pressure": "98/64 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "No apparent distress.",
+                "abdominal": "Soft, tender to palpation in right flank and right lower quadrant, no peritoneal signs.",
+                "extremities": "No edema."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

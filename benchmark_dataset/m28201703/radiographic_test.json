@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Opacity identified primarily at the right lung base, which appears slightly nodular. The liver is slightly nodular in contour, suggesting underlying cirrhosis. Scattered hypodensities identified within the right dome. Air identified in the common duct and at the gallbladder neck. Large gallstone identified within the fundus of the gallbladder. Kidneys demonstrate delayed enhancement and contrast excretion, compatible with acute renal failure. Mild degenerative change in the lumbar spine with grade 1 anterolisthesis of L4 on L5.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

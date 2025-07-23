@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Pain in the right lower quadrant (RLQ)",
+        "history_of_present_illness": "Began as a feeling of 'stomach upset' and progressed to sharp, constant pain in RLQ. The pain is worse with movement.",
+        "past_medical_history": "Diabetes on oral medications",
+        "family_history": "Positive for diabetes in mother and siblings",
+        "social_history": "Not specified"
+    }
+}

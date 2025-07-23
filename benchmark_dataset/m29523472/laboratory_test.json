@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "blood culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "serum creatinine",
+            "date": "Not specified",
+            "findings": "2.0 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Fluid-filled appendix with wall thickening and hyperemia, measures 1.1 cm in largest diameter, compatible with acute appendicitis. Other abdominal and pelvic organs are unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right lower quadrant abdominal pain",
+        "history_of_present_illness": "Pain localized to the right lower quadrant; associated with nausea and vomiting. Symptoms followed a colonoscopy performed 1 day prior, which was conducted to evaluate for months of diarrhea, abdominal cramping, tenesmus, and fecal urgency.",
+        "past_medical_history": "History of diarrhea, abdominal cramping, tenesmus, and fecal urgency with recent colonoscopy findings of colitis.",
+        "family_history": "No inflammatory bowel disease or celiac disease.",
+        "social_history": "Not specified."
+    }
+}

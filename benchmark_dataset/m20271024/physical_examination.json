@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "blood_pressure": "168/83 mmHg",
+                "heart_rate": "56 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "Pleasant, well-appearing, in no apparent distress.",
+                "HEENT": "Normocephalic, atraumatic, no conjunctival pallor or scleral icterus, PERRLA, EOMI, OP clear, dry mucous membranes.",
+                "neck": "Supple, no cervical lymphadenopathy, no thyromegaly, JVP flat.",
+                "cardiac": "Regular rate and rhythm, normal S1/S2, no murmurs, rubs or gallops.",
+                "pulmonary": "Clear to auscultation bilaterally, without wheezes or rhonchi.",
+                "abdomen": "Normal bowel sounds, soft, non-distended, mild tenderness to palpation diffusely with more concentrated pain over the left lower quadrant.",
+                "extremities": "Warm, well-perfused, no cyanosis, clubbing or edema.",
+                "skin": "Without rash.",
+                "neurologic": "Alert and oriented to 2-3, unable to state president's name or answer higher level questions, strength not specified."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

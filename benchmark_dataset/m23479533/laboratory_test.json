@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Test for Unknown Parameter",
+            "date": "Not specified",
+            "findings": "<5, which is negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CHEST PORT. LINE PLACEMENT (Radiograph)",
+            "date": "Not specified",
+            "findings": "Left internal jugular central venous line with tip overlying the brachiocephalic/SVC junction. No pneumothorax, no focal consolidation or effusion, mild cephalization of the pulmonary vasculature possibly indicating mild volume overload.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

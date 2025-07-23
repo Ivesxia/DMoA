@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "Elevated WBC count; specific measurement not provided.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RUQ Ultrasound",
+            "date": "Not specified",
+            "findings": "Distended GB with stones and sludge, borderline GB wall thickening, mild pericholecystic fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "New opacification of the right lung base with moderate right pleural effusion. Blunting of the left costophrenic angle with a small left pleural effusion. Streaky opacification of the left lung base likely reflects atelectasis.",
+            "changes_over_time": "Compared to the remote prior study, new findings of opacification and pleural effusions observed."
+        }
+    ]
+}

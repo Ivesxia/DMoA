@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is fluid-filled measuring up to 1 cm with wall edema. There is periappendiceal fluid. No free air in the abdomen. Lung bases are clear without nodule, mass or pleural effusion. The liver, gallbladder, pancreas, spleen, and bilateral adrenal glands are normal. The kidneys enhance and excrete contrast symmetrically without evidence of hydronephrosis or hydroureter. The non-opacified stomach and intra-abdominal loops of small bowel are unremarkable. The remainder of the large bowel is unremarkable. There is a small amount of free fluid around the tip of the appendix. The urinary bladder, distal ureters, seminal vesicles, prostate, sigmoid colon, and rectum are unremarkable. No suspicious lytic or sclerotic osseous lesion is identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

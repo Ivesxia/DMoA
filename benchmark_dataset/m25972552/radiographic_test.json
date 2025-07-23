@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder is markedly distended, with a 2.5 cm x 2.1 cm x 1.6 cm impacted stone at the neck. Multiple additional stones are present in the gallbladder fundus, and demonstrate mobility with patient repositioning. There is a large amount of layering sludge, with distinct hyper- and hypoechoic components suggesting combined cholesterol and bilirubin sediments, and possible superimposed hemorrhage. Diffuse gallbladder wall edema is present, measuring up to 7 mm. The wall appears slightly irregular, although no dirty shadowing is seen to indicate intramural air. There is a small amount of pericholecystic fluid at the gallbladder fundus. Ultrasonographic ___ sign is positive. The liver is normal in echogenicity, without focal lesions. There is normal hepatopetal flow in the portal vein. There is mild intrahepatic biliary dilation. The common duct measures 4 mm, and is not well seen beyond the level of the impacted gallstone. The pancreatic head and body are normal, and the tail is not well visualized due to shadowing bowel gas. There is no pancreatic ductal dilatation. Incidental note is made of a 1.3 cm simple cyst in the right upper renal pole.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

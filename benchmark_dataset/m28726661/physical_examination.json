@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4 °F",
+                "heart_rate": "77 bpm",
+                "blood_pressure": "130/85 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "HEENT": "Extraocular muscles intact, Mucous membranes moist",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Normal first and second heart sounds without murmur",
+                "abdominal": "Soft with right lower quadrant tenderness",
+                "GU/Flank": "No costovertebral angle tenderness",
+                "extr/back": "No edema or calf tenderness",
+                "skin": "No zoster",
+                "neuro": "Speech fluent",
+                "psych": "Normal mood"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

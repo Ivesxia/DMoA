@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with abdominal pain localized to the right lower quadrant, worsening pain with movement, and associated symptoms of nausea. Imaging (CT abdomen and pelvis with contrast) revealed an enlarged, fluid-filled appendix measuring up to 11 mm, with surrounding stranding, consistent with appendicitis."
+    }
+}

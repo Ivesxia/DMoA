@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8",
+                "heart_rate": "105",
+                "blood_pressure": "105/65",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "92% on 2L"
+            },
+            "relevant_findings": {
+                "general": "Pleasant, NAD, sitting in bed.",
+                "head": "NCAT, dry MM with dentures, no oral lesions.",
+                "heart": "RRR, JVP 10cm, equal pulses bilaterally.",
+                "lung": "Bibasilar crackles, otherwise clear.",
+                "abdominal": "Soft, mildly tender epigastrium without rebound.",
+                "extremities": "No asymmetric swelling or tender cords.",
+                "neurological": "A&Ox3, sensation intact to LT, EOMI, pupils constricted but reactive."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

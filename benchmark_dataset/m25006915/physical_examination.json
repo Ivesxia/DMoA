@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Temperature": "99.1°F",
+                "Heart rate": "80 bpm",
+                "Blood pressure": "109/65 mmHg",
+                "Respiratory rate": "18 breaths/min",
+                "Oxygen saturation": "99% on room air",
+                "Weight": "81.6 kg"
+            },
+            "relevant_findings": {
+                "General": "No acute distress",
+                "HEENT": "Normocephalic, atraumatic; PERRL; extraocular movements intact; moist mucous membranes; no conjunctival injection, pallor, or icterus",
+                "Neck": "No lymphadenopathy, no thyromegaly or nodules",
+                "Cardiovascular": "Regular rate and rhythm; no murmurs, rubs, or gallops; normal S1 and S2",
+                "Lungs": "Bilateral basilar rales; no wheezes or rhonchi",
+                "Abdomen": "Positive guarding and rebound tenderness; tender to palpation in the right upper quadrant; bowel sounds present but sluggish",
+                "Genitourinary": "No costovertebral angle tenderness",
+                "Extremities": "No edema, cyanosis, or clubbing",
+                "Neurological": "Cranial nerves II-XII intact; moves all four extremities; antalgic gait due to abdominal pain; otherwise normal",
+                "Skin": "No rashes on exposed areas"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Temperature": "100.6°F",
+                "Heart rate": "99 bpm",
+                "Blood pressure": "128/72 mmHg",
+                "Respiratory rate": "16 breaths/min",
+                "Oxygen saturation": "95% on room air"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Vital signs show a slight reduction in heart rate and blood pressure from initial assessment to admission."
+        }
+    ]
+}

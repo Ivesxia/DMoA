@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "PICC line placement",
+            "date": "Not specified",
+            "findings": "Right PICC tip is in a superficial vein off of the right subclavian vein. No pneumothorax.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Heterogeneous opacity in the left lower lobe with blunting of the costophrenic angle is consistent with small pleural effusion. Right lung is clear without pleural effusion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

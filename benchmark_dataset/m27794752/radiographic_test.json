@@ -1,0 +1,31 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Visualized lung fields are within normal limits. There is no evidence of pleural or pericardial effusion.",
+                "abdomen": {
+                    "hepatobiliary": "The liver demonstrates homogenous attenuation throughout. There is no evidence of focal lesions. No evidence of biliary dilatation. The gallbladder is within normal limits.",
+                    "pancreas": "Normal attenuation throughout, without evidence of focal lesions or pancreatic ductal dilatation. No peripancreatic stranding.",
+                    "spleen": "Normal size and attenuation throughout, without evidence of focal lesions.",
+                    "adrenals": "Normal in size and shape.",
+                    "urinary": "Normal and symmetric size with normal nephrogram. No focal renal lesions or hydronephrosis. No perinephric abnormality.",
+                    "gastrointestinal": {
+                        "stomach": "Unremarkable.",
+                        "small_bowel": "Normal caliber, wall thickness, and enhancement throughout.",
+                        "colon": "Extensive colonic diverticulosis with mural thickening and inflamed diverticula noted within proximal transverse colon at the hepatic flexure.",
+                        "appendix": "Normal."
+                    },
+                    "pelvis": "Urinary bladder and distal ureters are unremarkable. No free fluid in the pelvis.",
+                    "reproductive_organs": "Uterus is surgically absent. A complex 3.8 x 2.0 x 3.6 cm cystic structure in the left adnexa is new/increased in size, may represent a left hematosalpinx or an ovarian hemorrhagic cyst.",
+                    "lymph_nodes": "No retroperitoneal or mesenteric lymphadenopathy. No pelvic or inguinal lymphadenopathy.",
+                    "vascular": "No abdominal aortic aneurysm. No noted atherosclerotic disease.",
+                    "bones": "No evidence of worrisome osseous lesions or acute fracture.",
+                    "soft_tissues": "Abdominal and pelvic wall is within normal limits."
+                }
+            },
+            "changes_over_time": "Complex cystic structure in the left adnexa is new/increased in size since the MR pelvis."
+        }
+    ]
+}

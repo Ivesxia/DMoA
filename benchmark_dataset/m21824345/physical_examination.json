@@ -1,0 +1,47 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2",
+                "heart_rate": "120",
+                "blood_pressure": "120/67",
+                "respiratory_rate": "20",
+                "oxygen_saturation": "95% RA"
+            },
+            "relevant_findings": {
+                "general": "Awakens to voice, NAD",
+                "heent": "Sclera anicteric, dry MM; would not cooperate to open eyes for exam, but reportedly blind",
+                "neck": "Supple, JVP not elevated, no LAD",
+                "cardiovascular": "Tachycardic, normal S1 + S2, no murmurs, rubs, gallops",
+                "lungs": "Poor inspiratory effort, not cooperating with exam, but bibasilar crackles",
+                "abdomen": "Soft, non-tender, non-distended, bowel sounds present, no organomegaly, no rebound or guarding",
+                "neurological": "A&Ox1 (name), not cooperating with further neuro exam but moving all extremities"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4",
+                "heart_rate": "118",
+                "blood_pressure": "133/71",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "98% with Nasal Cannula"
+            },
+            "relevant_findings": {
+                "general": "Patient in NAD",
+                "labs": {
+                    "leukocytosis": "30",
+                    "platelet_count": "128",
+                    "lipase": "295",
+                    "BUN": "36",
+                    "glucose": "203",
+                    "lactate": "2.6"
+                },
+                "CXR": "Possible RLL infiltrate"
+            },
+            "changes_over_time": "Tachycardia improved with fluids"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.4°F",
+                "heart_rate": "92 bpm",
+                "blood_pressure": "123/64 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "alertness": "Alert, oriented to person, disoriented to time and place",
+                "cardiovascular": "Regular rate and rhythm",
+                "respiratory": "Clear to auscultation bilaterally",
+                "abdominal": "Tenderness to palpation in epigastrium, non-distended",
+                "edema": "No edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

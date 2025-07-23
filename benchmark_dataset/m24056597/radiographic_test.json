@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. No focal liver mass. The main portal vein is patent with hepatopetal flow. No ascites. No intrahepatic biliary dilation. The common hepatic duct measures 5 mm. Positive sonographic Murphy sign. A nonmobile shadowing stone at the gallbladder neck, measuring 2.5 cm. The gallbladder is distended, measuring up to 11.4 cm. No gallbladder wall thickening or pericholecystic fluid. Layering sludge and a few small stones. The imaged portion of the pancreas appears within normal limits. Normal echogenicity of spleen, measuring 10.2 cm. Limited views of right kidney show no hydronephrosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

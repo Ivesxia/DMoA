@@ -1,0 +1,35 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Aside from bibasilar atelectasis, the lung bases are clear. There is no pleural or pericardial effusion.",
+                "abdomen": {
+                    "hepatobiliary": "The liver is unremarkable. No biliary dilatation. The gallbladder is within normal limits.",
+                    "pancreas": "Unremarkable. There is no peripancreatic stranding.",
+                    "spleen": "Unremarkable.",
+                    "adrenals": "Unremarkable.",
+                    "urinary": "The kidneys are unremarkable except for a few minute hypodensities bilaterally are too small to fully characterize, stable.",
+                    "gastrointestinal": {
+                        "drainage_catheter": "Post percutaneous left lower quadrant pigtail drainage catheter placement into a posterior abscess, which measures 4.1 x 1.7 cm, previously 4.9 x 1.7 cm.",
+                        "abscess": "There has been interval resolution of the fluid component of this collection with minimal residual air. The previously described intramural abscess within the sigmoid colon has decreased in size and now contains only a small amount of gas (2:65).",
+                        "retrouterine_abscess": "The retrouterine abscess is grossly stable measuring up to 3.1 x 2.2 cm containing fluid and a small amount of gas (2:70). There is no new or enlarging abscess.",
+                        "inflammatory_changes": "Extensive inflammatory changes surrounding the sigmoid colon are otherwise similar to the prior study."
+                    }
+                },
+                "pelvis": "There is no free fluid in the pelvis. The uterus and bilateral adnexae are otherwise unremarkable.",
+                "lymph_nodes": "There is no abdominopelvic lymphadenopathy.",
+                "bones": "Unchanged.",
+                "soft_tissues": "Gas within the low anterior abdominal wall is likely related to injections (2:71)."
+            },
+            "changes_over_time": "The pigtail drainage catheter's abscess size has decreased from 4.9 x 1.7 cm to 4.1 x 1.7 cm. The intramural abscess within the sigmoid colon has decreased in size with only a small amount of gas remaining."
+        }
+    ]
+}

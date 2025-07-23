@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "heterogeneous attenuation throughout the liver, normal pancreas and spleen, incompletely characterized left adrenal nodule (9 x 15 mm), extensive diverticulosis of the colon with focal fat stranding and bowel wall thickening consistent with possible small intramural abscess (1.0 x 0.7 cm), no evidence of perforation or fistula, enlarged fibroid uterus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

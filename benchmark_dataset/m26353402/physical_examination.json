@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6 °F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "150/82 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "cardiac": "RRR. No systolic murmurs appreciated",
+                "pulmonary": "CTAB",
+                "abdominal": "Soft, ND. Some tympany in upper quadrants. Tender to deep palpation in RUQ, otherwise no tenderness. Negative ___ sign. No rebound or guarding.",
+                "extremities": "No edema",
+                "skin": "No jaundice",
+                "eyes": "No icterus"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

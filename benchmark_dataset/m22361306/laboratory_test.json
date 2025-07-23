@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver function tests",
+            "date": "Not specified",
+            "findings": "Total bilirubin 10 mg/dL (elevated), WBC count 12 x 10^9/L (elevated), INR 2.8 (elevated, normal range 0.9-2.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP BILIARY & PANCREAS",
+            "date": "Not specified",
+            "findings": "Three discrete filling defects in the distal common bile duct with proximal dilatation of the central biliary tree.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2°F",
+                "blood_pressure": "151/76 mmHg",
+                "heart_rate": "104 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress.",
+                "HEENT": "Lips with sloughing; White patches of posterior oropharynx and infralengual mucosa; Sclerae anicteric; No conjunctival pallor noted.",
+                "neck": "JVP not elevated; No lymphadenopathy.",
+                "cardiovascular": "Regular rate and rhythm; No murmurs, rubs.",
+                "pulmonary": "Clear to auscultation bilaterally; No wheezes, rales or rhonchi.",
+                "abdominal": "Soft, non-tender, non-distended; Bowel sounds present; No hepatosplenomegaly.",
+                "extremities": "Desquamating of palms and bullae of left hand between ___ and ___ digits; Desquamation of soles of feet; Skin intact; Fluctuant mass with erythema of right upper extremity.",
+                "neurological": "Alert and oriented x3; CN II-XII intact.",
+                "skin": "No ulcerations or rashes noted."
+            },
+            "changes_over_time": "After ___ days of antibiotic treatment, the rash on the arm got better but developed redness of palms and feet."
+        }
+    ]
+}

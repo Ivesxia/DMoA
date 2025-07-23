@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "not specified",
+            "date": "not specified",
+            "findings": "partly distended gallbladder with signs of wall thickening and pericholecystic fluid",
+            "changes_over_time": "not specified"
+        },
+        {
+            "procedure_name": "biopsy",
+            "date": "not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "not specified"
+        },
+        {
+            "procedure_name": "CSF test",
+            "date": "not specified",
+            "findings": "1.6 mg/dL",
+            "changes_over_time": "not specified"
+        }
+    ]
+}

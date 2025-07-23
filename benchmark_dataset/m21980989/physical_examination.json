@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4°F",
+                "heart_rate": "100 bpm",
+                "blood_pressure": "156/77 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Awake and alert",
+                "cardiovascular": "Regular rate and rhythm",
+                "lungs": "Clear to auscultation bilaterally",
+                "abdomen": "Soft, obese, minimal RUQ tenderness without evidence of rebound/guarding, hypoactive bowel sounds",
+                "extremities": "Warm, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

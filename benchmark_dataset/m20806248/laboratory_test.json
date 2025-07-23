@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Cr. 0.8 (within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chem 7",
+            "date": "Not specified",
+            "findings": "WNL (within normal limits)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CK",
+            "date": "Not specified",
+            "findings": "CK 44 (within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "WBC",
+            "date": "Not specified",
+            "findings": "WBC 7.1 (within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "Hct 25.8 (baseline)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "UA with 13 WBC, few bacteria, many yeast, small leukocytes, negative for blood",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "Liver normal, gallbladder distended with moderate mobile sludge, common duct measures 4 mm, spleen borderline enlarged at 13.2 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C. difficile test",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile by the Illumigene DNA amplification assay (Reference Range - Negative)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

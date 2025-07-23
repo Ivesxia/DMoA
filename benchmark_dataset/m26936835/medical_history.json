@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The abdominal pain began 2 days prior to admission. The patient was nauseous 4 days prior to admission but has not been vomiting. Initially, the pain was diffuse and dull, then migrated to the right lower quadrant. The pain is dull at baseline and exacerbates to a sharp sensation intermittently. There are no relieving or exacerbating factors reported.",
+        "past_medical_history": "Similar episode of abdominal pain one year ago but did not seek medical care. Past medical history is otherwise unremarkable with no relevant conditions specified.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is slightly dilated and measures up to 9 mm in diameter with adjacent fat stranding and probably reactive wall thickening of the adjacent terminal ileum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacteroides Fragilis Group",
+            "date": "Not specified",
+            "findings": "7.8 mg/dL (Ref range: 8.4 - 10.3 mg/dL, outside normal range)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

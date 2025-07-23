@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Initial elevated lipase to 240; subsequent elevated lipase to >3000.",
+            "changes_over_time": "Lipase levels increased from 240 to >3000."
+        },
+        {
+            "procedure_name": "Liver function tests (LFTs)",
+            "date": "Not specified",
+            "findings": "Bilirubin 2.6, AST 224, ALT 168, AP 164.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Liver shows nodular contour compatible with cirrhosis. Common bile duct measures 7 mm with gallstones but no wall thickening. Spleen enlarged measuring 15.3 cm.",
+            "changes_over_time": "Stable size of a 2.6 x 1.6 cm hypointense lesion in the lower pole of the left kidney, going back to previous imaging (exact date not specified)."
+        },
+        {
+            "procedure_name": "CBC (Thrombocytopenia)",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

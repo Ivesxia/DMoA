@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.3°F",
+                "heart_rate": "92 bpm",
+                "blood_pressure": "123/80 mmHg",
+                "respiratory_rate": "28 breaths/min",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "general": "Awake, alert, oriented, well-appearing but in discomfort.",
+                "abdominal": "Right lower quadrant tenderness with rebound, no guarding or rigidity.",
+                "respiratory": "Tachypneic but clear to auscultation.",
+                "cardiovascular": "Regular rate and rhythm, normal first and second heart sounds.",
+                "neuro": "Speech fluent, moves all extremities.",
+                "psych": "Normal mentation."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

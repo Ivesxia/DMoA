@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "Moderate-to-severe cardiomegaly, stable; slight bibasilar atelectasis; low lung volumes; no focal consolidations, pneumothorax, or pleural effusions present.",
+            "changes_over_time": "Stable"
+        }
+    ]
+}

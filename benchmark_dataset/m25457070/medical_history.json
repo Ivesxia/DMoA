@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Migratory abdominal pain",
+        "history_of_present_illness": "Symptoms began 3 days ago with vague periumbilical pain and nausea. On the following day, the nausea resolved, and the abdominal pain became sharp and localized to the right lower quadrant (RLQ). No subsequent nausea, fevers, chills, anorexia, or diarrhea.",
+        "past_medical_history": "Hypertension, episode of 'infectious jaundice' at ___ years of age, last colonoscopy reportedly ___ years ago with 2 non-cancerous polyps. No history of abdominal surgeries.",
+        "family_history": "No history significant for colorectal cancer or hepatobiliary disease.",
+        "social_history": "Not specified"
+    }
+}

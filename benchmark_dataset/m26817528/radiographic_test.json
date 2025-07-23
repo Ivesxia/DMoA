@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "No focal consolidation is seen. There is no pleural effusion or pneumothorax. Cardiac and mediastinal silhouettes are unremarkable. No evidence of free air is seen beneath the diaphragm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

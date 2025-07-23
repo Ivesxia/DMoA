@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.4 °F",
+                "heart_rate": "74 bpm",
+                "blood_pressure": "125/76 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and oriented x3",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "Unlabored respirations",
+                "abdomen": "Soft, non-distended, tender to palpation just below umbilicus and in the suprapubic area, non-tender everywhere else, no rebound or guarding",
+                "extremities": "Warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

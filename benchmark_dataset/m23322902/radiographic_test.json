@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The hepatic parenchyma appears within normal limits with a smooth contour. No focal liver mass. The main portal vein is patent with hepatopetal flow. No ascites. No intrahepatic biliary dilation. The CHD measures 5 mm. No evidence of stones or gallbladder wall thickening. Positive sonographic ___ sign elicited. The head and body of the pancreas are within normal limits, tail not visualized due to gas. The spleen shows normal echogenicity, measuring 10.3 cm. No hydronephrosis in limited views of the bilateral kidneys.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "heart_rate": "75 bpm",
+                "blood_pressure": "108/63 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and oriented times three.",
+                "cardiovascular": "Regular rate and rhythm, normal S1 S2.",
+                "pulmonary": "Clear to auscultation bilaterally.",
+                "abdominal": "Soft, nondistended, tender in right upper quadrant, Murphy's sign negative, no rebound or guarding.",
+                "extremities": "Warm, well-perfused, no edema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

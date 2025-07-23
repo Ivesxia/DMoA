@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Illumigene DNA amplification assay for toxigenic C. difficile",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile. (Reference Range-Negative)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT of the abdomen and pelvis with contrast",
+            "date": "Not specified",
+            "findings": "Ill-defined subcentimeter hepatic lesions demonstrating peripheral hyperenhancement, slightly enlarged and increased in number since earlier examination. Mild bibasilar atelectasis, dilated and edematous gallbladder with pericholecystic fluid, and mild neighboring fat stranding.",
+            "changes_over_time": "Lesions previously measured at 11 mm and 9 mm are now slightly enlarged and increased in number since earlier examination."
+        }
+    ]
+}

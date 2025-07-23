@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Bilateral lung base heterogeneous airspace opacities, blunting of the right costophrenic angle suggestive of small pleural effusion, perihilar vascular congestion. Heart size is normal. No pneumothorax.",
+            "changes_over_time": "Bilateral lung base heterogeneous airspace opacities have progressed since prior exam. Small pleural effusion has increased since prior."
+        }
+    ]
+}

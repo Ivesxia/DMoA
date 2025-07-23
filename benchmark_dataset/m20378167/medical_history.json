@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Acute abdominal pain began approximately 2 hours prior to admission, associated with nausea but no vomiting. Patient has been diaphoretic since the onset of symptoms, with no fever, chills, diarrhea, or rectal bleeding.",
+        "past_medical_history": "GIST, HTN, GERD, mitral valve prolapse, DU (prior to GIST resection), HL, Colitis",
+        "family_history": "Father with aortic aneurysm, HTN, CAD. Mother with ALS.",
+        "social_history": "Not specified."
+    }
+}

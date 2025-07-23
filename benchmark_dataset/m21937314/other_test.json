@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Multiple PVCs, QTc 466, and no acute ST/T wave changes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in contour and echotexture. A large gallstone is seen within the gallbladder neck, measuring 2.3 cm. No gallbladder wall thickening or pericholecystic fluid. No intra or extrahepatic biliary ductal dilation. The spleen is top normal in size, measuring 14 cm, unchanged.",
+            "changes_over_time": "The common bile duct is 7 mm and is unchanged."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Transaminases elevated at 393.0 IU/L (normal range 0.0 - 100.0 IU/L)",
+            "changes_over_time": "Patient had previous episodes of elevated transaminases that returned to normal."
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Liver parenchyma unremarkable; common duct measuring 5 mm; stable peripheral left hepatic lesion with calcification; small gallbladder stones; pancreatic parenchyma normal; renal lesions noted with size changes: left largest measuring 8.4 x 9 cm, right lesion doubled to 14 x 18 x 18 mm.",
+            "changes_over_time": "The largest lesion in the right kidney increased in size from 7 x 9 mm to 14 x 18 x 18 mm."
+        }
+    ]
+}

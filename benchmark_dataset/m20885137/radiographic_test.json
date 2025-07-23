@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized lung bases show mild dependent atelectasis. The appendix is dilated measuring up to 8 mm, is fluid filled, demonstrates mild increased wall enhancement, and has mild periappendiceal stranding. No free air or free fluid within the abdomen. No focal lytic or sclerotic lesion suspicious for malignancy identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

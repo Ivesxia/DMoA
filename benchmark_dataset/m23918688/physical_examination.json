@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "blood_pressure": "152/58 mmHg",
+                "heart_rate": "72 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x3, pleasant, no acute distress.",
+                "HEENT": "Mucous membranes moist, extraocular movements intact.",
+                "cardiovascular": "Systolic murmur present, normal S1/S2.",
+                "respiratory": "Clear to auscultation bilaterally with faint crackles over left mid-lung, no increased work of breathing, no respiratory difficulty, no tachypnea.",
+                "abdominal": "Soft, non-tender, non-distended, hypoactive bowel sounds, unable to assess hepatosplenomegaly.",
+                "genitourinary": "No foley catheter in place.",
+                "extremities": "Warm, well-perfused, no edema.",
+                "neurological": "Alert and oriented x3.",
+                "skin": "Warm, dry, no rashes."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

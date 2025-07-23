@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Perfusion study normal with EF 56%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver shows no focal or textural abnormality. There is no biliary dilatation. The gallbladder is normal without evidence of stones. The pancreas is obscured from view by overlying bowel gas. The spleen is unremarkable, measuring 8.8 cm, with a small granuloma incidentally noted. No ascites is identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

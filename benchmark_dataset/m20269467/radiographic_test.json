@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "High insertion of the cystic duct; pancreatic stent identified; distal common bile duct appears unremarkable; decreased contrast within the common bile duct adjacent to the cystic duct with mild dilation of the common hepatic duct; no contrast seen entering the gallbladder; no common bile duct stones identified; biliary stent noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Bibasilar atelectasis, right greater than left. No nodule, opacity, or pleural effusion is identified at the lung bases. Multiple sigmoid diverticula. Thickening of the sigmoid colon in the left lower quadrant with inflammatory fat stranding. Small pockets of fluid with contained locules of extraluminal air consistent with microperforation. No drainable fluid collection or abscess. No suspicious lytic or sclerotic osseous lesion identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

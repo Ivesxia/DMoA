@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "NG Tube placement",
+            "date": "Not specified",
+            "findings": "Multiple dilated loops of small bowel with air-fluid levels are visualized. No appreciable interval change in the bowel gas pattern from this morning's abdominal radiographs.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

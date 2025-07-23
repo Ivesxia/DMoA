@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Slightly elevated to 293 initially and later 8400.",
+            "changes_over_time": "Lipase levels increased from 293 to 8400."
+        },
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Intrahepatic biliary dilatation noted. CBD measures 9 mm proximally, tapering distally to 4 mm. Gallbladder is distended with a thickened and edematous wall; contains sludge. No definite gallstone seen.",
+            "changes_over_time": "Intrahepatic biliary dilatation and gallbladder thickening similar to prior MR."
+        },
+        {
+            "procedure_name": "Cardiac enzymes",
+            "date": "Not specified",
+            "findings": "Unremarkable.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

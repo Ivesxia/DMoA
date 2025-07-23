@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "101.2 °F",
+                "blood_pressure": "132/55 mmHg",
+                "heart_rate": "114 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "NAD, comfortable, appropriate",
+                "abdominal": "Tenderness on deep palpation to RUQ, otherwise soft",
+                "heart": "RRR, no MRG, nl S1-S2",
+                "lungs": "CTA bilat, good air movement, resp unlabored",
+                "skin": "No rashes or lesions"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.6 °F",
+                "blood_pressure": "130/97 mmHg",
+                "heart_rate": "96 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "NAD, comfortable, appropriate",
+                "heent": "No scleral icterus, PERRLA, EOMI, MMM, OP clear",
+                "neck": "Supple, no thyromegaly, no JVD, no carotid bruits",
+                "neurological": "Awake, A&Ox3, CNs II-XII grossly intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "Escherichia coli, Streptococcus anginosus (Milleri) group.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Lesion of intermediate density in liver, possible hemangioma; hypodense lesion in right liver lobe; small angiomyolipoma in the right kidney; fluid collection in the right lower quadrant; regional peritonitis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

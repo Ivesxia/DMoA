@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2 °F",
+                "heart_rate": "86 bpm",
+                "blood_pressure": "147/95 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD",
+                "cardiovascular": "RRR, No M/G/R",
+                "pulmonary": "Clear to auscultation b/l, No W/R/R",
+                "abdomen": "Soft, nondistended. TTP RUQ",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "ultrasound": [
+                    "The liver is diffusely echogenic.",
+                    "The contour of the liver is smooth.",
+                    "There is no focal liver mass.",
+                    "The main portal vein is patent with hepatopetal flow.",
+                    "There is no ascites.",
+                    "There is no intrahepatic biliary dilation.",
+                    "Gallbladder wall is diffusely thickened.",
+                    "A hyperechoic tiny focus could represent a very small adherent stone measuring less than 5 mm.",
+                    "There is no pericholecystic edema.",
+                    "The head and body of the pancreas are within normal limits.",
+                    "No hydronephrosis in kidneys."
+                ]
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

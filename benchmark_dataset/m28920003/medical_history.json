@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Symptoms began 2 weeks prior with pain starting in the right upper quadrant (RUQ) exacerbated by food. Initially able to work, the patient subsequently developed nausea, constipation, and generalized abdominal pain with radiation to the back. Symptoms did not improve with Zantac.",
+        "past_medical_history": "Acne, bilateral inguinal hernia repair, interstitial cystitis now resolved after treatment.",
+        "family_history": "No family history of pancreatic disease.",
+        "social_history": "Binge drinks a few times per week, typically consuming ___ drinks at a time. Has been taking around 600mg of NSAIDs per week for pain."
+    }
+}

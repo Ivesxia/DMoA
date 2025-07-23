@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "blood_pressure": "140/36 mmHg",
+                "heart_rate": "91 bpm",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Patient appears tired, no acute distress",
+                "HEENT": "No conjunctival injection, extraocular movements intact, anicteric",
+                "neck": "Supple",
+                "chest": "Bilateral air entry, no wheezes, crackles, or rhonchi",
+                "RUQ": "Port site clean, dry, intact",
+                "cardiac": "S1, S2 regular, no murmurs, rubs, or gallops",
+                "abdomen": "+ bowel sounds, soft, + tenderness to palpation in epigastric and RUQ, + well healed old surgical scar, no guarding or rebound tenderness",
+                "extremities": "No cyanosis, clubbing, or edema, 2+ pulses",
+                "neurological": "Face symmetric, speech fluent",
+                "psychological": "Calm, cooperative"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

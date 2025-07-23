@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified.",
+            "findings": "Mild bilateral dependent atelectasis in the lung bases. Liver, gallbladder, spleen, pancreas, adrenal glands, and kidneys appear unremarkable. A 9 x 7 mm appendicolith is seen in the pelvis with a dilated appendix up to 12 mm and surrounding inflammatory fat stranding. A smaller appendicolith measuring 3 mm is near the tip. No free air or fluid collection is observed. Colonic diverticulosis is present. Several likely reactive lymph nodes are seen in the right lower quadrant. Bladder, distal ureters and prostate gland appear unremarkable. No concerning osseous lesions are noted.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified.",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

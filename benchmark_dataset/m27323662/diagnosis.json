@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute Pancreatitis",
+        "differential_diagnosis": "Acute Hypoxemic Respiratory Failure, Acute Respiratory Distress Syndrome, Shock, Central Line Associated Bloodstream Infections, Ventilator Acquired Pneumonia, Acute Pulmonary Emboli, Atrial Fibrillation",
+        "diagnostic_reasoning": "The patient presented with symptoms significant for acute pancreatitis including emesis resembling coffee grounds, hypoxia, and supportive lab findings such as elevated lactate and creatinine levels. Intubation and supportive care were necessary indicating severe respiratory distress. Additionally, imaging studies suggested issues around the pancreas without evidence of necrosis, consistent with pancreatitis."
+    }
+}

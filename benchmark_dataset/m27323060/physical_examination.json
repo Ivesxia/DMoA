@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "blood_pressure": "110/66 mmHg",
+                "heart_rate": "78 bpm",
+                "respiratory_rate": "20 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Pleasant, calm",
+                "heent": "Mild conjunctival pallor. No icterus. MMM. OP clear.",
+                "neck": "No JVP",
+                "lymph": "No cervical or supraclavicular LAD",
+                "cardiovascular": "RRR, no murmurs",
+                "lungs": "Breathing/speaking comfortably on RA, lungs CTAB",
+                "abdomen": "Soft, NT, ND.",
+                "extremities": "WWP. No edema.",
+                "skin": "No rashes/lesions, petechiae/purpura, ecchymoses.",
+                "neurological": "A&Ox3."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Tmax of 99.9°F during transfusion",
+                "blood_pressure": "SBP in the low 100's (normally in the 120-130's)",
+                "heart_rate": "Tachycardic in the low 100's"
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Patient experienced elevated temperature, tachycardia, and hypotension prior to starting transfusion."
+        }
+    ]
+}

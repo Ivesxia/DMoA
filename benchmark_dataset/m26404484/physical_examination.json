@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "95 bpm",
+                "blood_pressure": "133/80 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD",
+                "cardiovascular": "RRR",
+                "pulmonary": "no distress",
+                "abdominal": "soft, nondistended, tender in RLQ without rebound/guarding/rigidity, +Rosving's sign",
+                "rectal": "deferred",
+                "extremities": "no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

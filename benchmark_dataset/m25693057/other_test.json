@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "14 spot fluoroscopic images were obtained during the course of the ERCP.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Stent placement",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

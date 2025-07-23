@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "heart_rate": "143 bpm",
+                "blood_pressure": "65/143 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "general": "Still has headache",
+                "heent": "AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, MMM, good dentition, no scalp tenderness",
+                "neck": "Nontender supple neck, no LAD, no JVD",
+                "cardiac": "RRR, S1/S2, no murmurs, gallops, or rubs",
+                "lung": "CTAB, no wheezes, rales, rhonchi, breathing comfortably without use of accessory muscles",
+                "abdomen": "Nondistended, +BS, tender in LLQ, no hepatosplenomegaly",
+                "extremities": "No cyanosis, clubbing or edema, moving all 4 extremities with purpose",
+                "pulses": "2+ DP pulses bilaterally",
+                "neuro": "CN II-XII intact",
+                "skin": "Warm and well perfused, no excoriations or lesions, no rashes"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "83 bpm",
+                "blood_pressure": "134/85 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": "Patient reports her headache as being the same as her prior migraines.",
+            "changes_over_time": "Patient reported improvement in headache from previous significant pain to very mild after administration of fioricet."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Gallbladder wall is thick and edematous, measuring 6 mm, with fat stranding in the surrounding tissue. No focal lesions are seen in the liver. The spleen, adrenal glands, and kidneys are normal. The pancreas is atrophic. There is a biliary stent in place. No periportal, mesenteric or retroperitoneal lymphadenopathy. No free fluid or free air. The large and small bowel appear within normal limits. Two well-circumscribed lytic lesions within the L4 vertebral body adjacent to the superior endplate with surrounding sclerosis. An elongated lucent lesion along the inferior endplate of L3 vertebral body, similar in appearance.",
+            "changes_over_time": "Two well-circumscribed lytic lesions seen again as on prior CT. An elongated lucent lesion along the inferior endplate of L3 vertebral body appears similar in appearance to prior imaging."
+        }
+    ]
+}

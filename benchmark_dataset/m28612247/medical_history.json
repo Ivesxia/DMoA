@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Abdominal pain started at 3:30 PM today, radiating to both flanks. The pain worsens with movement. Nausea is present, with regular bowel movements reported this morning. The patient also experienced three similar episodes in the past.",
+        "past_medical_history": "History of asthma; previous tonsillectomy.",
+        "family_history": "Father died due to pulmonary fibrosis.",
+        "social_history": "Not specified."
+    }
+}

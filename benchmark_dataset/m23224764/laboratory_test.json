@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver function tests",
+            "date": "Not specified",
+            "findings": "Elevated liver function tests.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Estimated GFR",
+            "date": "Not specified",
+            "findings": "GFR = 64 if non African-American, GFR > 75 if African-American.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

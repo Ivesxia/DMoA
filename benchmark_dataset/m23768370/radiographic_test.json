@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The lung bases are clear. The liver and gallbladder are normal. No intra- or extra-hepatic biliary dilatation. The pancreas, spleen, and bilateral adrenal glands are normal. The kidneys are homogeneously enhancing and excreting urine without evidence of hydronephrosis, stones, or masses. The portal venous, systemic venous and systemic arterial system of the abdomen and pelvis are normal. No free air and no free fluid. The esophagus, stomach, and small bowel are normal. The appendix is dilated measuring up to 13 mm and fluid filled, with no periappendiceal fat stranding. No evidence of perforation or abscess formation. The remainder of the large bowel is normal. The uterus, bilateral ovaries, and urinary bladder are normal. No retroperitoneal or mesenteric lymphadenopathy. No pelvic hernias. No suspicious lytic or sclerotic bony lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

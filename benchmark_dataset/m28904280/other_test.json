@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "C. difficile PCR test",
+            "date": "Not specified",
+            "findings": "Negative. A negative C. diff PCR test indicates a low likelihood of CDI or carriage.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CBD stent exchange",
+            "date": "Not specified",
+            "findings": "Now has fully covered metal stent in place.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound-guided percutaneous cholecystostomy placement",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "blood_pressure": "151/79 mmHg",
+                "heart_rate": "57 bpm",
+                "respiratory_rate": "17 breaths/min",
+                "oxygen_saturation": "96%",
+                "oxygen_delivery": "RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, laying in bed",
+                "HEENT": "anicteric sclera, MMM, OP without lesions",
+                "neck": "no JVP/JVD",
+                "chest": "CTAB, normal WOB at rest",
+                "cardiovascular": "RR, systolic murmur heard best at upper sternal borders, no rubs or gallops",
+                "abdomen": "soft, not tender to firm palpation throughout",
+                "genitourinary": "no suprapubic fullness or tenderness",
+                "back": "no significant pain with palpation over spinous processes, no significant pain with palpation over lumbar musculature",
+                "musculoskeletal": "no large joint swelling, erythema, or warmth",
+                "skin": "no jaundice or large rashes",
+                "neurological": "awake, alert, conversant with clear speech, follows 1-step commands, moving all 4s with grossly normal coordination; no tremor",
+                "psychological": "calm, cooperative"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "afebrile",
+                "blood_pressure": "160/90 mmHg",
+                "heart_rate": "70s bpm",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "saturating well on RA",
+                "oxygen_delivery": "RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, A&O x 3",
+                "cardiovascular": "no cardiac distress",
+                "pulmonary": "breathing comfortably on room air",
+                "abdomen": "soft, nontender, nondistended, no palpable masses or hernias, no rebound, no guarding, negative sign, L flank tenderness",
+                "extremities": "warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

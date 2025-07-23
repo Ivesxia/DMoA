@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Diverticulitis / sigmoid mass",
+        "differential_diagnosis": "Colon cancer vs infectious colitis",
+        "diagnostic_reasoning": "The patient presented with new onset right lower quadrant pain, nausea, poor appetite, and fevers/chills alongside a significant family history of colon cancer. A CT scan showed asymmetric thickening of the sigmoid colon concerning for an underlying mass, prompting surgical evaluation that suggested possibilities of colon cancer or infectious colitis."
+    }
+}

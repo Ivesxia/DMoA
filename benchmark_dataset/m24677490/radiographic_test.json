@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "No acute abnormalities.",
+            "changes_over_time": "T wave inversions compared to prior (which appear to have normalized from unspecified date)."
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Liver parenchyma is homogenous with no focal lesions identified, patent portal vein with normal hepatopetal flow, common duct measuring 4 mm, gallbladder normal, visualized pancreatic head and body unremarkable, aorta normal caliber, spleen normal size, right kidney measures 11.8 cm, left kidney measures 12 cm, no hydronephrosis or renal calculi, 9 x 13 x 8-mm thinly septated benign-appearing left interpolar lateral renal cyst noted.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "69 bpm",
+                "blood_pressure": "118/56 mmHg",
+                "respiratory_rate": "20 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "A&O3, NAD",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "CV": "RRR, pacemaker over L chest wall",
+                "pulmonary": "unlabored, CTAB",
+                "abdominal": "3 well healed surgical scars, soft, nondistended, TTP in RLQ, + rebound, normoactive bowel sounds, no palpable masses",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Pancreatitis",
+        "differential_diagnosis": "Aspiration pneumonia, Dehydration",
+        "diagnostic_reasoning": "The patient presented with vomiting and abnormal lab results including leukocytosis, elevated lipase, and signs of possible aspiration pneumonia on chest radiograph. The elevated lipase is particularly indicative of pancreatitis, while the leukocytosis and bibasilar crackles support the consideration of a respiratory complication."
+    }
+}

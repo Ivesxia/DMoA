@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated up to 11 mm in thickness, with mural hyperemia and surrounding fat stranding. The liver enhances homogeneously. Curvilinear calcifications likely outlining a hemangioma or previous injury/inflammation noted. The pancreas, spleen, and adrenal glands appear normal. There are several parapelvic cysts on the left. No ascites, fluid collection, or pneumoperitoneum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

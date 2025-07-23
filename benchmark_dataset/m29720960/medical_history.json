@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Fever and right upper quadrant (RUQ) pain.",
+        "history_of_present_illness": "Symptoms began yesterday morning after eating breakfast, described as left-sided chest discomfort which felt like indigestion or constipation. The discomfort later migrated to the LUQ. There was no nausea, vomiting, or diaphoresis. After taking magnesium oxide, the patient experienced watery diarrhea but the RUQ pain persisted, was constant, and worsened with deep breaths and bumps in the road while traveling to the hospital. The patient reported chills but did not experience fever at that moment.",
+        "past_medical_history": "Multiple myeloma, s/p allo BMT, CAD s/p NSTEMI with stenting, history of DVT, GERD, HTN, depression, ORIF, compression fractures, osteoporosis, lytic lesions in hip and back, history of C. difficile.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

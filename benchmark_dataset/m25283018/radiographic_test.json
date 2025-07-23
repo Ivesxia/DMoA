@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified.",
+            "findings": "The liver is normal in shape and contour with normal echogenicity. No focal hepatic lesions. The main portal vein is patent with normal hepatopetal flow. No intra- or extra-hepatic biliary duct dilation. The common bile duct measures 4 mm. The gallbladder is mildly distended with sludge but no evidence of stones, and there is gallbladder wall thickening and gallbladder wall edema, more marked than in the prior exam. Positive sonographic ___ sign. The imaged portions of the pancreas are normal. Normal kidneys without evidence of hydronephrosis. Very trace perihepatic fluid.",
+            "changes_over_time": "Gallbladder wall thickening and edema are more marked than in the prior exam."
+        }
+    ]
+}

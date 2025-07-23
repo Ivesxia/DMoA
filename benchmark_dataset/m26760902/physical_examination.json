@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.0",
+                "heart_rate": "100",
+                "blood_pressure": "137/82",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "100"
+            },
+            "relevant_findings": {
+                "constitutional": "The patient smiles appropriately in response to social overtures and does not grimace or demonstrate other outward evidence of distress.",
+                "HEENT": "NC/AT Moist mucous membranes.",
+                "chest": "CTA.",
+                "cardiovascular": "No murmur.",
+                "abdominal": "Mild RLQ tenderness. No guarding, rigidity, or rebound.",
+                "GU/Flank": "No CVAT.",
+                "extremities/back": "No edema.",
+                "skin": "No rash.",
+                "neurologic": "The patient moves all extremities with symmetric strength.",
+                "psych": "Appropriate mood."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

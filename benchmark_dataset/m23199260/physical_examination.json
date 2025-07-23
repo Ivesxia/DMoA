@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6 °F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "158/79 mmHg",
+                "respiratory_rate": "26 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "elderly female, obese, NAD, no icterus",
+                "HEENT": "NC/AT, EOMI, PERRLA bilat., dry MM, without cervical LAD",
+                "cardiovascular": "RRR without m/g/r, no JVD, no bruits",
+                "lungs": "CTA bilat.",
+                "abdomen": "soft, obese, distended with mild tympany, mild RUQ tenderness with no ___ sign, no masses, no hernias",
+                "extremities": "warm feet, 2+ pitting edema L>R, to knees"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

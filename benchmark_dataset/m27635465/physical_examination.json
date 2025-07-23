@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.4°F",
+                "blood_pressure": "98/51 mmHg",
+                "heart_rate": "112 bpm",
+                "respiratory_rate": "26 breaths/min",
+                "oxygen_saturation": "96% on 2L NC"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, no acute distress",
+                "HEENT": "Sclera icteric, MMM, oropharynx clear",
+                "neck": "Supple, unable to assess JVP",
+                "lungs": "Clear to auscultation anteriorly, no wheezes, rales, rhonchi",
+                "cardiovascular": "Irregular, tachycardic, S1 + S2, no murmurs, rubs, gallops",
+                "abdomen": "Morbidly obese, chronic skin changes, anasarca, soft, mild tenderness in RUQ, bowel sounds present, no rebound tenderness or guarding, no organomegaly, no ecchymoses at flanks",
+                "genitourinary": "Foley catheter in place",
+                "extremities": "Chronic venous stasis changes, positive distal pulses",
+                "neurological": "Alert and oriented x3, no focal deficits"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

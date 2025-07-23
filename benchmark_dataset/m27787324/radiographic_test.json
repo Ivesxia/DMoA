@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver shows no evidence of focal lesions or textural abnormality. There is no evidence of intrahepatic biliary dilatation. The common bile duct measures 8 mm in the porta hepatis but tapers somewhat distally to 6 mm. There is cholelithiasis with a distended gallbladder with mild wall edema. Patient was tender over entire upper abdomen. The pancreas was not well visualized due to overlying bowel gas.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "98°F",
+                "heart_rate": "68 bpm",
+                "blood_pressure": "124/78 mmHg",
+                "respiratory_rate": "18"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "CV": "RRR, No M/G/R",
+                "pulmonary": "Clear to auscultation b/l, No W/R/R",
+                "abdominal": "Soft, scaphoid, notable for moderate TTP in the RLQ on light/deep palpation, without guarding. No masses or hernias. Appropriately healed midline laparotomy scar.",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

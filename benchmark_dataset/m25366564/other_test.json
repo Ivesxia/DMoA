@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Liver appears somewhat echogenic suggesting fatty infiltration. No focal hepatic mass lesions are seen. No evidence of intra- or extra-hepatic biliary dilatation. The gallbladder appears grossly unremarkable. The spleen measures 5.8 cm and appears grossly unremarkable.",
+            "changes_over_time": "Direct comparison is made to prior exam; findings suggest possible progression to cirrhosis or fibrosis due to fatty infiltration."
+        }
+    ]
+}

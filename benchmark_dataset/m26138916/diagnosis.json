@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Pancreatitis",
+        "differential_diagnosis": "Atypical chest pain",
+        "diagnostic_reasoning": "The patient presented with worsening chest pain, nausea, and vomiting, alongside a history of pancreatitis. Imaging showed increased hepatic echogenicity and dilated proximal common duct, supporting the diagnosis of pancreatitis. Atypical chest pain was also noted but was considered secondary."
+    }
+}

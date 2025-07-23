@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "blood_pressure": "113/63 mmHg",
+                "heart_rate": "77 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "Patient is an obese AA female, lying in bed, appears tired and uncomfortable but in NAD.",
+                "HEENT": "NCAT, EOMI, sclera anicteric, conjunctiva WNL.",
+                "oral": "MM mildly dry appearing, poor dentition.",
+                "neck": "Obese, JVP not visible.",
+                "chest": "Few course expiratory sounds but generally CTA anterior and posterior.",
+                "cardiovascular": "RRR, normal S1/S2. No M/R/G.",
+                "abdomen": "Obese, mod distended. Hypoactive bowel sounds. Soft, mod tenderness in epigastrium with voluntary guarding. No rebound.",
+                "rectal": "Guaiac negative in the ED.",
+                "extremities": "No cyanosis, clubbing, edema."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "blood_pressure": "106/63 mmHg",
+                "heart_rate": "78 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": "Labs pertinent for a lipase of 647 with otherwise normal LFTs.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

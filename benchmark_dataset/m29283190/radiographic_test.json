@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic, smooth contour, no focal liver mass, main portal vein patent, no ascites. No intrahepatic biliary dilation, CHD measures 4 mm. Gallbladder is mildly distended with a large nonmobile stone in the gallbladder neck, no gallbladder wall thickening, mural edema, or pericholecystic fluid. Positive ___ sign during the exam. The pancreas appears within normal limits. Spleen normal echogenicity. Right kidney measures 11.9 cm, left kidney measures 10.9 cm, no mass, stone, or hydronephrosis identified. Visualized portions of aorta and IVC are within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

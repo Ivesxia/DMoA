@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "132 bpm",
+                "blood_pressure": "132/86 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "healthy, young pleasant, NAD",
+                "HEENT": "anicteric sclera",
+                "cardiovascular": "RRR, no murmur",
+                "pulmonary": "clear bilaterally",
+                "abdominal": "soft, TTP RLQ, +guarding, -obturator, +psoas, +rosuvings",
+                "extremities": "WWP, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

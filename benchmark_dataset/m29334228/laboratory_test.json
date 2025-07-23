@@ -1,0 +1,42 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC of 14k (14,000 cells/uL), which is outside the normal range (normal typically up to 10k).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung": "Mild atelectasis at the lung bases with scarring on the right; no pleural effusions.",
+                "heart": "Normal in size, without pericardial effusion.",
+                "abdominal findings": {
+                    "liver": "Enhances homogeneously.",
+                    "gallbladder": "Partially collapsed.",
+                    "pancreas": "Mild fatty infiltration.",
+                    "biliary ducts": "No intra- or extra-hepatic biliary ductal dilatation.",
+                    "spleen": "Normal in size.",
+                    "kidneys": "Enhance and excrete contrast promptly and symmetrically, without masses or hydronephrosis.",
+                    "stomach": "Distended with oral contrast.",
+                    "small bowel": "Mildly prominent and fluid filled, measuring up to 3 cm in the left abdomen.",
+                    "appendix": "Increased in size to 9 mm with evidence of wall hyperemia and mild surrounding fat stranding."
+                },
+                "pelvic findings": {
+                    "bladder": "Distended with urine.",
+                    "prostate": "Slightly enlarged."
+                },
+                "lymph nodes": "Multiple small retroperitoneal and mesenteric lymph nodes present, not pathologically enlarged.",
+                "bone findings": "No suspicious lytic or sclerotic osseous lesions identified."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lab result",
+            "date": "Not specified",
+            "findings": "Bilirubin: 8.0 mg/dL (normal range: 8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

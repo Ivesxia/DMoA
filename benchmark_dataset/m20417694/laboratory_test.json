@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound of Liver or Gallbladder",
+            "date": "Not specified.",
+            "findings": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. Main portal vein is patent with hepatopetal flow. There is no ascites. There is no intrahepatic biliary dilation. The CBD measures 7 mm. Multiple gallstones are seen within a distended gallbladder. There is no gallbladder wall edema or pericholecystic fluid. Focal areas in the gallbladder wall at the fundus with ring down artifact is compatible with adenomyomatosis. The pancreas was not well seen secondary to overlying bowel gas. The spleen has normal echogenicity, measuring 11.4 cm. The right kidney measures 11.1 cm. The left kidney measures 12.8 cm. Survey views of both kidneys do not demonstrate any masses, stones or hydronephrosis. Visualized portions of aorta and IVC are within normal limits.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lab Analysis",
+            "date": "Not specified.",
+            "findings": "1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN. Valuestr: 43.0 IU/L.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

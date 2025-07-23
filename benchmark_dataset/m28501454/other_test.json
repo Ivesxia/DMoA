@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Liver biopsy",
+            "date": "Not specified.",
+            "findings": "Features suggestive of recurrent chronic HCV and features suggestive of venous outflow obstruction.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Doppler ultrasound",
+            "date": "Not specified.",
+            "findings": "Patent hepatic vessels and common hepatic stent.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRA/MRV",
+            "date": "Not specified.",
+            "findings": "Suggestion of possible narrowed appearance of the hepatocaval anastomosis.",
+            "changes_over_time": "Formal read pending."
+        }
+    ]
+}

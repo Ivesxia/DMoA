@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "blood_pressure": "106/58 mmHg",
+                "heart_rate": "66 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "Well developed, well nourished in no acute distress.",
+                "HEENT": "Normocephalic, atraumatic, extraocular movements intact, anicteric.",
+                "cardiovascular": "Regular rate and rhythm, no jugular venous distention.",
+                "pulmonary": "Normal excursion, no respiratory distress.",
+                "abdominal": "Soft, mild tenderness to palpation in right lower quadrant, non-distended, no mass or hernia, incisions clear, dry, intact.",
+                "extremities": "Warm, well perfused, no cyanosis, clubbing, or edema, 2+ bilateral radial pulses.",
+                "neurological": "Alert and oriented times three, no focal neurologic deficits.",
+                "psychiatric": "Normal judgment/insight, normal memory, normal mood/affect."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

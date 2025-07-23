@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "A 1.4 x 1.4 cm hypodensity in segment II of the liver likely represents a cyst or hamartoma. A hypodensity in the lateral edge of the left lobe of the liver, measuring 1.8 x 1.2 cm likely represents a hemangioma. An area of hypodensity in segment VIII measures 2 x 1.9 cm is likely a hemangioma but is not fully characterized. Significant stranding seen adjacent to the cecum and appendix with an appendicolith observed; the appendix is markedly dilated, measuring 1.6 cm. Discontinuity of the appendiceal wall compatible with a perforation. A small non-drainable fluid collection seen adjacent to the wall discontinuity indicative of phlegmonous changes/developing early abscess.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbiology Testing",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbiology Testing",
+            "date": "Not specified",
+            "findings": "HOLD. DISCARD GREATER THAN 4 HOURS OLD.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.3 F",
+                "heart_rate": "92 bpm",
+                "blood_pressure": "157/94 mmHg",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD (No Acute Distress)",
+                "cardiovascular": "RRR (Regular Rate and Rhythm)",
+                "abdominal": "Soft, TTP (Tender to Palpation) RUQ",
+                "extremities": "No cyanosis/clubbing/edema"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Small bilateral pleural effusions with overlying minimal subsegmental atelectasis. No focal parenchymal consolidation suggestive of pneumonia.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

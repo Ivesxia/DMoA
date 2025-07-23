@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EGD",
+            "date": "Not specified",
+            "findings": "Erosive gastritis, but otherwise unremarkable.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ECHO",
+            "date": "Not specified",
+            "findings": "Normal LVEF 55-60%, moderate TR, and moderate pulmonary HTN.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood cultures",
+            "date": "Not specified",
+            "findings": "CoNS in 1 bottle of blood cultures.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT abdomen/pelvis",
+            "date": "Not specified",
+            "findings": "Notable for generalized ileus and 12cmx5cm L retroperitoneal hematoma along the iliopsoas muscle.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Physical Exam",
+            "date": "Not specified",
+            "findings": "Sclera icteric, irregular tachycardia, mild tenderness in RUQ, and chronic venous stasis changes.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

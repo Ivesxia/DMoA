@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP with sphincterotomy and sludge removal",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lipase test",
+            "date": "Not specified",
+            "findings": "Lipase > 1000.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Multiple small layering stones within the gallbladder lumen, minimal gallbladder wall edema and thickening, stone in gallbladder neck with surrounding hyperenhancement, surrounding peripancreatic inflammatory change and edema.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

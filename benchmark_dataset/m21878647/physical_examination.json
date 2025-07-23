@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "85/47 mmHg",
+                "respiratory_rate": "25 breaths/min",
+                "SpO2": "96% on 2 L NC"
+            },
+            "relevant_findings": {
+                "general": "Patient appears alert and cooperative, mildly uncomfortable but in no acute distress.",
+                "HEENT": "Right pupil round, reactive to light; left pupil fixed and elliptical shaped (previous surgery on left eye).",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/rubs/gallops.",
+                "lungs": "Clear to auscultation bilaterally.",
+                "abdomen": "Soft, obese, non-distended; tenderness to palpation in RUQ without rebound/guarding; Murphy's sign negative (limited exam due to body habitus); incarcerated umbilical hernia present, non-tender, no overlying skin changes.",
+                "extremities": "No edema or cyanosis; peripheral pulses present; bruising on ankles bilaterally."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

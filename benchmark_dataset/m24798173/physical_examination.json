@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "101.4°F",
+                "heart_rate": "89 bpm",
+                "blood_pressure": "105/74 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "spo2": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress.",
+                "abdominal": "Well healed laparotomy incisions. Soft, nondistended. Tender to palpation, left greater than right, upper quadrant greater than lower quadrant. Denies tap tenderness.",
+                "extremities": "No edema, warm and well perfused."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

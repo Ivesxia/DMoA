@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Subsegmental atelectasis in both lung bases. Gallbladder slightly distended measuring 9 x 5.5 cm containing a T1 hyperintense and T2 hypointense sludge ball at the gallbladder neck. Gallbladder wall thickened with pericholecystic inflammatory changes and fat stranding. No significant intrahepatic biliary duct dilatation. Known hepatic metastatic lesions not adequately evaluated. Trace amount of perihepatic ascites. Enlarged spleen measuring 14.3 cm. Both kidneys symmetric in size bilaterally with bilateral simple renal cortical cysts.",
+            "changes_over_time": "Small fluid collection adjacent segment VI is unchanged from prior study, compatible with postoperative hematoma/seroma."
+        },
+        {
+            "procedure_name": "Gram Stain",
+            "date": "Not specified",
+            "findings": "GRAM NEGATIVE ROD(S). Percent value was 1.7%. Reference range is 0.4 to 2.0.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

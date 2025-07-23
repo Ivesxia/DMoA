@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Dependent subsegmental atelectasis at the lung bases. A 4-mm hypodensity in the right lobe of the liver, likely a cyst. Normal gallbladder, pancreas, spleen, and bilateral adrenal glands. Kidneys enhance and excrete contrast symmetrically without evidence of hydronephrosis or hydroureter. No free air or fluid in the abdomen. At the junction of the descending and sigmoid colon, there is wall thickening and free fluid. A tiny focus of gas may represent a contained rupture, with free fluid adjacent to the inflamed segment of colon. No pathologic lymphadenopathy noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for creatinine",
+            "date": "Not specified",
+            "findings": "Creatinine level is 1.8 mg/dL (ref range: 1.6 - 2.6 mg/dL), which is within normal range.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

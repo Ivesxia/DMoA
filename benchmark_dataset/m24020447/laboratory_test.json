@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Abdomen shows a thickened, dilated appendix with surrounding soft tissue inflammation and small foci of hypodensity concerning for microperforation. There is reactive thickening of the base of cecum. Multiple subcentimeter hypodensities in the liver, too small to characterize. No evidence of intrahepatic or extrahepatic biliary dilatation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory examination for creatinine",
+            "date": "Not specified",
+            "findings": "9.0 mg/dL, within normal range (ref range: 8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

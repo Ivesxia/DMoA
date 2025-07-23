@@ -1,0 +1,24 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopic Retrograde Cholangiopancreatography (ERCP) with sphincterotomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of the liver or gallbladder",
+            "date": "Not specified",
+            "findings": {
+                "liver": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites.",
+                "bile_ducts": "Moderate intrahepatic biliary dilation. The common bile duct measures up to 12 mm proximally, and 11 mm at the head of the pancreas, previously measuring 7 mm. No intraluminal filling defect is noted.",
+                "gallbladder": "Interval cholecystectomy performed.",
+                "pancreas": "The imaged portion appears within normal limits, with portions obscured by bowel gas. The proximal pancreatic duct is mildly dilated up to 4 mm.",
+                "spleen": "Normal echogenicity, measuring 7.9 cm.",
+                "kidneys": "Limited views of the right kidney show no hydronephrosis.",
+                "retroperitoneum": "Visualized portions of aorta and IVC are within normal limits."
+            },
+            "changes_over_time": "Common bile duct previously measured 7 mm; currently measures up to 12 mm proximally and 11 mm at the head of the pancreas."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Small nodule in the left lower lobe measures up to 3 mm in diameter. Small calcified granuloma present at the right lung base. A small hypoattenuating lesion in the sixth segment of the liver measuring up to 15 mm corresponding to a benign hemangioma. The common hepatic duct is dilated up to 12 mm. The gall bladder is mildly distended with mild irregular wall thickening and filled with stones. No intrahepatic biliary dilatation, no inflammatory change about the pancreas, normal spleen and adrenals, no evidence for stones or solid masses in either kidney, normal stomach and small bowel, unremarkable large bowel, normal uterus adnexa and bladder, trace free fluid likely physiological, no lymphadenopathy, moderate degenerative changes in lower lumbar facet joints.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

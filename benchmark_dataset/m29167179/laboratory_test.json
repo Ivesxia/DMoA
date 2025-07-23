@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bacterial culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray (Portable AP)",
+            "date": "Not specified",
+            "findings": "The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities. No visualized free intraperitoneal air.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

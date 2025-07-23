@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "No evidence of pleural or pericardial effusion. The liver demonstrates homogenous attenuation, no focal lesions, no biliary dilatation. The pancreas has normal attenuation, no focal lesions. The spleen shows normal size and attenuation. Normal size kidneys with normal nephrogram. Colon has multiple diverticula with diverticulum in sigmoid colon with surrounding fat stranding and wall thickening. An intramural hypodensity of approximately 1.1 x 0.9 cm consistent with a small intramural abscess. Small amount of free fluid in pelvis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

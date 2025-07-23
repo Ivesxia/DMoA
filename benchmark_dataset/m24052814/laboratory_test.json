@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver demonstrates normal, homogeneous echotexture without focal intrahepatic lesion seen. There is no evidence of intrahepatic biliary dilatation. The common bile duct is mildly dilated proximally at 0.7 cm, full course of the CBD is not well assessed. The pancreas is not seen due to overlying bowel/stomach gas. The gallbladder contains shadowing stones. Ring-down artifact along its anterior wall consistent with cholesterol polyps or adenomyomatosis. No frank gallbladder wall thickening or pericholecystic fluid is seen. Sonographic ___ sign was absent. The spleen is normal in size, measuring 10.9 cm in length.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbiological Culture",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

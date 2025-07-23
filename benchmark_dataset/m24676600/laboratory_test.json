@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Liver enhances homogeneously without focal lesions. Minimal central intrahepatic biliary dilatation. Gallbladder moderately distended with a diffusely thickened wall and marked surrounding fat stranding. Common bile duct mildly prominent measuring up to 7 mm. Spleen, pancreas, and adrenal glands are unremarkable. Kidneys enhance and excrete symmetrically without focal lesions or hydronephrosis. Wall thickening and mucosal hyperenhancement along the rectum and distal sigmoid colon is unchanged. Wall thickening along a collapsed segment of the distal transverse colon likely relates to secondary involvement and underdistension. No mesenteric or retroperitoneal lymphadenopathy. Bladder is unremarkable. A prominent hyperenhancing fibroid is present in the anterior wall of the uterus. A small amount of simple free fluid in the pelvis could be physiologic or related to inflammatory changes. No pelvic or inguinal lymphadenopathy. No concerning osteolytic or osteosclerotic lesion identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for leukocytes",
+            "date": "Not specified",
+            "findings": "1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for blood glucose",
+            "date": "Not specified",
+            "findings": "8.8 mg/dL, within the reference range (8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

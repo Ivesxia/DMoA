@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopic retrograde cholangiopancreatography (ERCP)",
+            "date": "Not specified",
+            "findings": "Stent placed in the pancreatic duct during the procedure.",
+            "changes_over_time": "Stent was no longer in the pancreatic duct and was in the small bowel."
+        },
+        {
+            "procedure_name": "Vital Signs Assessment",
+            "date": "Not specified",
+            "findings": "Temperature 98.5, Heart Rate 78, Blood Pressure 162/101, Respiratory Rate 16, O2 Saturation 98% on room air.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

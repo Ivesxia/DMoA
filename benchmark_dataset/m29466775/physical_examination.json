@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "heart_rate": "81 bpm",
+                "blood_pressure": "153/82 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "AA&O x 3, NAD, calm, cooperative",
+                "HEENT": "No lymphadenopathy, mucous membranes moist, trachea midline, extraocular movements intact, pupils equal, round, reactive to light",
+                "chest": "Clear to auscultation bilaterally, no cyanosis",
+                "abdomen": "Soft, mildly tender to palpation incisionally, non-distended",
+                "incisions": "Clean, dry and intact, with staples on top half of wound, wound vac in place on lower half of wound, no erythema or fluctuance noted",
+                "extremities": "Warm, well perfused, pulses palpable, +/- edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

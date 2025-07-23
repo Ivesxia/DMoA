@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Chest and abdominal pain",
+        "history_of_present_illness": "Pain began 4 days prior to admission with gradual onset, up to ___ severity, worsening with movement. The patient experienced a similar pain in the past but with less severity. The onset occurred while shopping on the ___ prior to admission. Pain did not resolve after an initial visit where an ultrasound showed a right renal cyst.",
+        "past_medical_history": "Fibromyalgia, Gastroesophageal reflux disease, Hypertension",
+        "family_history": "Mother had a nephrectomy (patient unsure of the reason) and died of MI in her ___; Father died of MI in ___",
+        "social_history": "Not specified"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Moderate amount of ascites, nodular liver, no obvious source of perforation or sepsis. The liver shows no focal mass, though is minimally nodular in contour. There is a small right pleural effusion and bibasilar subsegmental atelectasis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Tests",
+            "date": "Not specified",
+            "findings": {
+                "AGap": 19,
+                "Calcium": 9.2,
+                "Magnesium": 2.0,
+                "Phosphorus": 4.7,
+                "ALT": 15,
+                "Alkaline Phosphatase": 115,
+                "Total Bilirubin": 1.9,
+                "AST": 16,
+                "Lipid": 92,
+                "WBC": {
+                    "Total": 12.4,
+                    "Neutrophils": 54,
+                    "Bands": 21,
+                    "Monocytes": 8,
+                    "Eosinophils": 0,
+                    "Metas": 1
+                },
+                "PTT": 39.7,
+                "INR": 3.9,
+                "Lactate": 2.9
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "62 bpm",
+                "blood_pressure": "128/60 mmHg",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "Awake and alert x 3; regular rate and rhythm; clear to auscultation bilaterally; bowel sounds present; tenderness in left lower quadrant; tenderness in suprapubic area with guarding and rebound; guaiac negative; no clubbing, cyanosis, or edema.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

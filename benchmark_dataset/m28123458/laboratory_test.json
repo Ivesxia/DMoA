@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is fluid filled, measuring up to 12 mm in maximum diameter. Periappendiceal fat stranding is mild. No periappendiceal fluid or free gas is noted. The visualized lung bases are clear without pleural effusions. The liver enhances homogeneously without focal lesions. The gallbladder, spleen, pancreas, adrenal glands, and kidneys are normal. No free air, fluid or lymphadenopathy in the intra-abdominal cavity.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

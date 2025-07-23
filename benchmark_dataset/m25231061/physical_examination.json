@@ -1,0 +1,73 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2°F",
+                "heart_rate": "103 bpm",
+                "blood_pressure": "148/54 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "General": "Well-appearing elderly male in no distress",
+                "HEENT": "NCAT, sclera anicteric, mucous membranes dry, oropharynx clear",
+                "Neck": "Supple, JVP not elevated, no LAD",
+                "CV": "RRR, nl S1/S2, no MRG",
+                "Lungs": "Faint crackles at bases, no wheezes, no rhonchi",
+                "Abdomen": "Soft, NTND, normoactive bowel sounds",
+                "GU": "No Foley",
+                "Ext": "Warm, well-perfused, no cyanosis/clubbing/edema",
+                "Neuro": "AAOx3, CN II-XII intact, moving all extremities",
+                "Skin": "Excoriations over right eye and left foot"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "102.4°F",
+                "heart_rate": "104 bpm",
+                "blood_pressure": "140/73 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "General": "Not specified",
+                "HEENT": "Not specified",
+                "Neck": "Not specified",
+                "CV": "Not specified",
+                "Lungs": "Not specified",
+                "Abdomen": "Not specified",
+                "GU": "Not specified",
+                "Ext": "Not specified",
+                "Neuro": "Not specified",
+                "Skin": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.3°F",
+                "heart_rate": "78 bpm",
+                "blood_pressure": "143/79 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "General": "Not specified",
+                "HEENT": "Not specified",
+                "Neck": "Not specified",
+                "CV": "Not specified",
+                "Lungs": "Not specified",
+                "Abdomen": "Not specified",
+                "GU": "Not specified",
+                "Ext": "Not specified",
+                "Neuro": "Not specified",
+                "Skin": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

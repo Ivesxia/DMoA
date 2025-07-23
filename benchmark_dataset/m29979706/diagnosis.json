@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified.",
+        "diagnostic_reasoning": "The patient's presentation included ~10 hours of right lower quadrant abdominal pain, nausea, and five episodes of non-bloody, non-bilious vomiting, coupled with CT findings showing a dilated, fluid-filled appendix measuring 10 mm with surrounding inflammation, consistent with acute appendicitis."
+    }
+}

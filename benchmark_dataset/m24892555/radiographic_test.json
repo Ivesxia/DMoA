@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is a 10 x 9 x 9 cm cyst in the right hepatic lobe. No other focal liver masses seen. The main portal vein is patent with hepatopetal flow. There is no ascites. No intrahepatic biliary dilation. The CBD measures 4 mm. Sludge is seen in the gallbladder. No stones are seen. There is no pericholecystic fluid, gallbladder wall thickening, gallbladder distention, or other indications of acute cholecystitis. The imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation. Normal echogenicity of spleen. No hydronephrosis in limited views of right kidney. The visualized portions of aorta and IVC are within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98 °F",
+                "heart_rate": "79 bpm",
+                "blood_pressure": "178/73 mmHg",
+                "respiratory_rate": "27",
+                "oxygen_saturation": "93%"
+            },
+            "relevant_findings": {
+                "General": "Nauseated and uncomfortable, AOx3, mood and affect appropriate.",
+                "HEENT": "NCAT, sclera anicteric, PERRL, EOMI, conjunctiva pink, no pallor or cyanosis of oral mucosa, no xanthalesma.",
+                "Neck": "Supple with JVP of 2 cm above sternal angle.",
+                "Cardiac": "PMI located in ___ intercostal space, midclavicular line, regular rate, normal S1, S2, no murmurs/rubs/gallops, no thrills or lifts, no S3 or S4.",
+                "Lungs": "No chest wall deformities, resp unlabored, no accessory muscle use, clear to auscultation bilaterally, mild bi-basilar crackles.",
+                "Abdomen": "Tenderness at RUQ, otherwise soft, no hepatosplenomegaly.",
+                "Extremities": "Trace bilateral lower extremity edema, no femoral bruits.",
+                "Skin": "No stasis dermatitis, ulcers, scars, or xanthomas.",
+                "Pulses": "Carotid 2+, Femoral 2+, Popliteal 2+, Dorsalis Pedis 2+ bilaterally."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

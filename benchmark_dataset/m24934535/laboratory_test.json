@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Leukocyte count",
+            "date": "Not specified",
+            "findings": "Leukocytosis to 16,000 (normal range not specified, but suggests elevated WBC count)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "Gallstone, with no signs of acute cholecystitis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal radiograph",
+            "date": "Not specified",
+            "findings": "No abnormally dilated loops of large or small bowel. No free intraperitoneal air. Osseous structures are unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "hepatobiliary": "Multiple hypodense liver lesions, largest 1.2 cm, characterized as hemangiomas.",
+                "pancreas": "Normal attenuation, no focal lesions.",
+                "spleen": "Normal size and attenuation, no focal lesions.",
+                "urinary": "2 subcentimeter hypodensities in lower pole of left kidney, unchanged, characterized as angiomyolipomas.",
+                "gastrointestinal": "Multiple diverticular in descending and sigmoid colon, focal segment of sigmoid colonic wall thickening, microperforation indicated by extra-luminal air and free fluid.",
+                "pelvis": "No abnormalities, urinary bladder and distal ureters are unremarkable."
+            },
+            "changes_over_time": "The hypodensities in the kidneys and liver lesions have been previously characterized and are unchanged."
+        }
+    ]
+}

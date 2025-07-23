@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Microbial Culture",
+            "date": "Not specified",
+            "findings": "SERRATIA MARCESCENS, ENTEROCOCCUS SP.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound - Abdomen",
+            "date": "Not specified",
+            "findings": "Distended gallbladder with a thickened wall measuring up to 12 mm. Dependently layering stones are seen filling approximately 40% of the gallbladder lumen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

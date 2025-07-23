@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Gallbladder does not appear overtly distended but does demonstrate mild wall thickening and multiple stones. The spleen is markedly enlarged measuring 21 cm.",
+            "changes_over_time": "Similar to prior CT findings."
+        }
+    ]
+}

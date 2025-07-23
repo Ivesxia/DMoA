@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "102.5°F",
+                "blood_pressure": "144/56 mmHg",
+                "heart_rate": "112 bpm",
+                "respiratory_rate": "22 bpm"
+            },
+            "relevant_findings": {
+                "general": "Fatigued-appearing female in NAD, slightly sleepy, AO x 3",
+                "heent": "Anicteric sclerae, MM quite dry, OP clear",
+                "neck": "Supple, flat JVP",
+                "chest": "Decreased BS at bases, otherwise CTA-B",
+                "cardiovascular": "RR tachy, S1 S2 normal, no m/g/r",
+                "abdomen": "Soft, ND/NABS, with TTP over the epigastric area, no peritoneal signs",
+                "extremities": "No c/c/e, wwp",
+                "skin": "Warm, dry"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

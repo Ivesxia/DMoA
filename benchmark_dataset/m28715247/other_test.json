@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "No stone retrieval from common bile duct given spontaneous stone passage, complicated by post-ERCP pancreatitis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Surgical consultation",
+            "date": "Not specified",
+            "findings": "Patient had a surgical clinic visit last week to schedule management with cholecystectomy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Rib Unilateral X-ray",
+            "date": "Not specified",
+            "findings": "No focal consolidation, pleural effusion, or pneumothorax identified. Prominent right epicardial fat noted. Cardiac silhouette size within normal limits. No acute displaced left rib fractures identified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

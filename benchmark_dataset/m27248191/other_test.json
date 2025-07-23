@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "The liver demonstrates a mildly increased echotexture without evidence of focal lesion. There is no intrahepatic biliary dilatation. The gallbladder demonstrates one shadowing stone within it. The gallbladder is not particularly distended, but there are areas of focal gallbladder wall thickening measuring up to 5 mm. Additionally, within the cystic duct is an impacted shadowing stone, measuring approximately 13 x 15 mm. No pericholecystic fluid is seen. A Sonographic Murphy sign was absent; however, the patient had received morphine prior to this exam. The CBD measures 5 mm in caliber.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "Mixed bacterial flora-culture screened for B. fragilis, C. perfringens, and C. septicum. None isolated.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

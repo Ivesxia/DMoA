@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "93 bpm",
+                "blood_pressure": "124/71 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert",
+                "head_and_neck": "Atraumatic, normocephalic, soft, supple, no masses",
+                "heart": "Regular rate and rhythm, no murmurs",
+                "lungs": "Clear to auscultation bilaterally, no rhonchi, no crackles",
+                "abdomen": "Soft, non-distended, positive bowel sounds, tender in right lower quadrant with rebound tenderness and guarding",
+                "rectal": "Deferred, guaiac negative",
+                "extremities": "Warm, well-perfused, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC and lipase",
+            "date": "Not specified",
+            "findings": "WBC mildly elevated; lipase 12.5 and mid 80's, respectively.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Atelectasis at lung bases; hepatic steatosis; gallbladder with 2 nonobstructive stones; splenomegaly (14 cm); minimal inflammatory changes within pancreatic uncinate process and inferior head; minimal intrapancreatic edema and progressive pancreatic enhancement.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

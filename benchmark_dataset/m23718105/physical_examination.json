@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "101.4°F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x3, no acute distress",
+                "HEENT": "No scleral icterus, atraumatic",
+                "cardiovascular": "Regular rate and rhythm, no murmur/gallop/rubs",
+                "pulmonary": "Clear to auscultation bilaterally",
+                "abdominal": "Soft, nondistended, nontender, no rebound or guarding, normoactive bowel sounds, no palpable masses",
+                "additional": "Incision: dressings are clean, dry, intact; extremities: no edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

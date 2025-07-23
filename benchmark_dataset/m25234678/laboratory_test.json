@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Chemistry",
+            "date": "Not specified",
+            "findings": "8.4 mg/dL (Normal range: 8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiograph - ABDOMEN (SUPINE & ERECT)",
+            "date": "Not specified",
+            "findings": "Multiple dilated loops of small bowel measuring up to 5.4 cm in diameter with corresponding air-fluid levels consistent with early or partial small-bowel obstruction. Gas and stool is seen within the right colon. No evidence of free air.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

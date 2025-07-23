@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "There is a 2.2 x 2.0 cm slightly echogenic mass in the right hepatic lobe which is slightly larger compared to the prior ultrasound where it measured 1.7 x 1.7 cm. The second lesion seen on the prior ultrasound is not seen on the current study. No intrahepatic biliary dilation. A 1.5 cm stone is identified likely within the cystic duct.",
+            "changes_over_time": "The mass in the right hepatic lobe increased in size from 1.7 x 1.7 cm to 2.2 x 2.0 cm. The second lesion seen previously is no longer present."
+        },
+        {
+            "procedure_name": "Physical Examination",
+            "date": "Not specified",
+            "findings": "T: 98, BP: 111/64, HR: 110, RR: 18. Abdomen is gravid, soft, tender with light palpation of lower sternum to epigastric area.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

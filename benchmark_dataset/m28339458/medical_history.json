@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right lower quadrant abdominal pain",
+        "history_of_present_illness": "Abdominal pain started yesterday at 3pm, initially diffuse and gassy/crampy, progressively localized to the right lower quadrant with associated nausea, vomiting, fever, and chills.",
+        "past_medical_history": "Anxiety; wrist surgery, no abdominal surgeries",
+        "family_history": "Father had myocardial infarction",
+        "social_history": "Not specified"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT Abdomen",
+            "date": "Not specified",
+            "findings": "Diffuse gallbladder wall edema with minimal peripancreatic fat stranding.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RUQ Ultrasound",
+            "date": "Not specified",
+            "findings": "Cholelithiasis but no gallbladder distension or wall thickening.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound (Liver or Gallbladder)",
+            "date": "Not specified",
+            "findings": "Hepatic parenchyma appears within normal limits; multiple shadowing gallstones; no intrahepatic biliary dilation; pancreas appears within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

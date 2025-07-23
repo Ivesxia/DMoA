@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Pelvic Ultrasound",
+            "date": "Not specified",
+            "findings": "Transabdominal and transvaginal examination shows uterus measuring 6.2 x 3.2 x 3.6 cm with an intrauterine device in standard position. Ovaries are normal with normal arterial and venous Doppler waveforms, no evidence of ovarian torsion. Small amount of free fluid in the pelvis. In the right lower quadrant, a tubular structure measuring 5 mm in diameter is noted, with no hyperemia and compression not verified. Findings may represent a dilated appendix, but are inconclusive.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC count",
+            "date": "Not specified",
+            "findings": "Elevated WBC count of 11.5, no fever.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood glucose",
+            "date": "Not specified",
+            "findings": "8.3 mg/dL, within normal range (ref range: 8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix hyperemic and distended measuring up to 1.5 cm, containing 2 large appendicoliths; significant adjacent inflammation; no abscess formation identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

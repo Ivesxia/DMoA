@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain increasing in severity, associated with nausea and vomiting.",
+        "history_of_present_illness": "Abdominal pain began yesterday morning and increased in severity over the course of yesterday into today. The pain is described as dull and achy, radiating to the flank.",
+        "past_medical_history": "1. Hypertension. 2. Hyperlipidemia. 3. Valvular heart disease (moderate AS, 1+MR, 1+TR). 4. Dilated ascending aorta (4.2 cm), ascending aorta (4.6 cm) and aortic arch (4.4 cm). 5. Atrial fibrillation. 6. Morbid obesity. 7. Diabetes mellitus. 8. Obstructive sleep apnea (OSA) on CPAP.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Spleen is borderline in size measuring 13.8 cm in coronal dimension. Kidneys show symmetric nephrograms and excretion of contrast. Cortical hypodensity within the lower pole of the right kidney is too small to characterize. Appendix is visualized within the right lower quadrant, dilated to 9mm, fluid-filled, thickened wall, with surrounding inflammatory changes consistent with acute appendicitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "3.3 mg/dL, within normal ranges (ref range: 2.7 - 4.5).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

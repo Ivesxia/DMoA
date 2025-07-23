@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Mixed Bacterial Flora Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA; Reference range: 8.4 - 10.3",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdomen Radiograph (Supine & Erect)",
+            "date": "Not specified",
+            "findings": "Mild 6.4 mm dilation of the distal colon. Multiple air-fluid levels on upright view. Paucity of air within the small bowel, concerning for postoperative ileus. No free intraperitoneal air.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

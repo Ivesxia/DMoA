@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.5",
+                "heart_rate": "97",
+                "blood_pressure": "122/68",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "98% on 2L"
+            },
+            "relevant_findings": {
+                "general": "Patient in no apparent distress",
+                "cardiovascular": "Regular rate and rhythm",
+                "respiratory": "Clear to auscultation bilaterally",
+                "abdominal": "Soft, non-tender, moderate distension",
+                "extremities": "No cyanosis, clubbing, or edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

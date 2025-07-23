@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Pancreatitis",
+        "differential_diagnosis": "End Stage Renal Disease, Hypertension, Diabetes Mellitus Type II, Gastroesophageal Reflux Disease",
+        "diagnostic_reasoning": "The patient presented with severe abdominal pain, worsening renal function, and elevated lipase levels (363), indicating pancreatitis. Additionally, prior imaging suggested pancreatic cysts, and symptoms started after a recent hospitalization."
+    }
+}

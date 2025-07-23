@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated measuring 9 mm in diameter. The wall of the appendix is enhancing. There is surrounding fat stranding. There is no evidence of abscess or perforation. The bases of the lungs are clear. The liver is normal in shape and contour. There are no focal hepatic masses. The gallbladder, spleen, pancreas, adrenal glands, and kidneys are normal. There are no renal masses or hydronephrosis. The stomach and small bowel are unremarkable. There is no abdominal lymphadenopathy. The abdominal vasculature is normal in course and caliber. The large bowel is unremarkable without focal wall thickening. The bladder and prostate are normal. There is no pelvic or inguinal lymphadenopathy. There are no concerning lytic or sclerotic bone lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

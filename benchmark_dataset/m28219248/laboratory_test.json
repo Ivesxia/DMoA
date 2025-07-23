@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Extensive inflammatory changes surrounding the sigmoid colon have undergone considerable interval improvement, with only very mild residual mesenteric fat stranding. No fluid collection to indicate abscess formation. Moderate diverticulosis noted, with no new focus of inflammatory change.",
+            "changes_over_time": "Improvement in inflammatory changes surrounding the sigmoid colon compared to the prior study."
+        },
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "cholecystitis, C. diff colitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with fever, altered mental status, and urinary symptoms suggesting a UTI. Imaging revealed findings consistent with cholecystitis, including a partially dilated gallbladder and wall edema. Additionally, the presence of Clostridium difficile indicates colitis, consistent with the patient's condition."
+    }
+}

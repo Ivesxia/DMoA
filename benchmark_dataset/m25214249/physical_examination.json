@@ -1,0 +1,19 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "99.5°F",
+                "heart_rate": "96 bpm",
+                "blood_pressure": "114/75 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "well appearing in no acute distress",
+                "gastrointestinal": "focally tender to deep palpation in right lower quadrant, negative psoas sign, positive obturator sign"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

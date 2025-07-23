@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5",
+                "blood_pressure": "122/80",
+                "heart_rate": "90",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "96 RA"
+            },
+            "relevant_findings": {
+                "general": "Generally well appearing, in no acute distress, markedly jaundiced.",
+                "HEENT": "PERRLA. Oropharynx clear with moist mucous membranes. No gum hypertrophy. +scleral icterus.",
+                "lymph": "No palpable cervical or supraclavicular lymphadenopathy.",
+                "CV": "Regular rate and rhythm, S1, S2, systolic murmur at unspecified position.",
+                "resp": "CTAB, no crackles, wheeze, rhonchi.",
+                "abdomen": "Soft, non-distended, positive bowel sounds. Diffusely tender to palpation, most prominent in epigastric region. Negative for rebound or guarding.",
+                "extremities": "Warm, without edema.",
+                "neuro": "Alert and oriented. Grossly normal strength, coordination, and gait.",
+                "skin": "No rashes or bruising.",
+                "lines": "Left PIV without erythema or tenderness."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

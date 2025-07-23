@@ -1,0 +1,37 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "parenchyma": "within normal limits",
+                    "contour": "smooth",
+                    "cyst": "1.1 cm simple cyst in the right lobe of liver"
+                },
+                "bile_ducts": {
+                    "intrahepatic_biliary_dilation": "None",
+                    "CHD_measurement": "6 mm"
+                },
+                "gallbladder": {
+                    "status": "Distended",
+                    "contains": "stones with pericholecystic fluid",
+                    "wall_thickening": "Mild",
+                    "sonographic_sign": "Present"
+                },
+                "portal_vein": {
+                    "status": "patent",
+                    "flow": "hepatopetal"
+                },
+                "ascites": "No"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

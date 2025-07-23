@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right lower quadrant pain",
+        "history_of_present_illness": "Patient began experiencing right lower quadrant pain on the evening of an unspecified date. Over the subsequent four days, the pain has increased in severity and extended into the right upper quadrant. Patient also reports nausea but no vomiting and a temperature of 101.2F. Pain occasionally radiates to his back.",
+        "past_medical_history": "Significant for depression, hyperlipidemia, and multiple diverticula found on colonoscopy after a year of episodes of diarrhea, but no diverticulitis.",
+        "family_history": "Significant for diverticulitis in his father and brother. Also significant for heart disease.",
+        "social_history": "Not specified."
+    }
+}

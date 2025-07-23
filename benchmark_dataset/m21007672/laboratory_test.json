@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Test (WBC)",
+            "date": "Not specified",
+            "findings": "Elevated WBC.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is echogenic, consistent with fatty infiltration. There are no concerning focal liver lesions. The portal vein is patent with normal flow. No evidence of ascites. The gallbladder is moderately distended with a thickened wall. There are multiple stones within the lumen of the gallbladder. The common bile duct measures 5 mm.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood test",
+            "date": "Not specified",
+            "findings": "8.2 mg/dL (normal range: 8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

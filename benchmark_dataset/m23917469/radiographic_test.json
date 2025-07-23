@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT HEAD W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "1. Slight interval decrease in size or conspicuity of the right extra-axial density, likely a subacute subdural hematoma. No mass effect is seen. 2. Re-demonstrated large left frontoparietal encephalomalacia, likely related to old infarct. Left basal ganglia lacunar infarcts. No evidence of new hemorrhage, acute large territorial infarction, edema, or mass. Stable appearance of left basal ganglia lacunar infarcts and hypodensity within the posterior limb of the left internal capsule, likely representing old lacunar infarction.",
+            "changes_over_time": "There is a slight interval decrease in size of the right extra-axial density, indicating possible improvement of the subacute subdural hematoma. The left frontoparietal encephalomalacia and left basal ganglia lacunar infarcts are unchanged."
+        },
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "Cardiomediastinal silhouette is within normal limits. There are bibasilar opacities more confluent at the right medial base. This may represent pneumonia or aspiration. There are no pneumothoraces.",
+            "changes_over_time": "Follow up to resolution is recommended, but no specific changes over time are documented."
+        }
+    ]
+}

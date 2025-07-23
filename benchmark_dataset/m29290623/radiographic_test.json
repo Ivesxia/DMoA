@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Peripancreatic fat stranding with a small amount of free fluid around the pancreaticojejunostomy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT-guided pancreatic transplant biopsy",
+            "date": "Not specified",
+            "findings": "Single 18-gauge core biopsy of the tail of the pancreas obtained with no immediate complications.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

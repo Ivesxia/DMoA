@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Frontal and lateral views of the chest demonstrate low lung volumes, clear lungs, borderline enlarged heart, normal mediastinal and hilar contours, no pleural effusion or pneumothorax, and normal pleural surfaces.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

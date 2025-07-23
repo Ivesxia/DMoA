@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.8°F",
+                "heart_rate": "116 bpm",
+                "blood_pressure": "117/72 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Uncomfortable with movement, A+Ox3",
+                "lungs": "Clear to auscultation bilaterally",
+                "cardiovascular": "Regular rate and rhythm",
+                "abdominal": "Soft, non-distended, tender with guarding in the right upper quadrant, positive Murphy's sign, no rebound tenderness",
+                "extremities": "No cyanosis, clubbing, or edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

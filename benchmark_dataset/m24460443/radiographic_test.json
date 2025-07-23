@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Low lung volumes. Cardiomediastinal silhouette is within normal limits. The lungs are clear. No effusion or pneumothorax. No displaced rib fractures identified. No evidence of free abdominal air.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

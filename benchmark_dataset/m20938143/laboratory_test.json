@@ -1,0 +1,23 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites.",
+                "bile_ducts": "There is mild intrahepatic biliary dilation, better appreciated on the concurrently performed CT abdomen. The CHD measures 4 mm.",
+                "gallbladder": "The gallbladder is distended without gallbladder wall thickening. A few shadowing stones measuring up to 2.4 cm are lodged in the neck of the gallbladder. There is mild pericholecystic fluid.",
+                "pancreas": "The imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation, with portions of the pancreatic tail obscured by overlying bowel gas.",
+                "kidneys": "Limited views of the right kidney show no hydronephrosis.",
+                "retroperitoneum": "The visualized portions of aorta and IVC are within normal limits."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Viridans Streptococci Test",
+            "date": "Not specified",
+            "findings": "Viridans Streptococci detected, within reference range of 0.0 to 10.0.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

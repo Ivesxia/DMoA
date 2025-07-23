@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "90 bpm",
+                "blood_pressure": "139/49 mmHg",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "alertness": "A&O (Alert and Oriented)",
+                "general": "No acute distress (NAD)",
+                "cardiovascular": "Regular Rate and Rhythm (RRR)",
+                "respiratory": "Clear to auscultation bilaterally (CTA)",
+                "abdominal": {
+                    "consistency": "Soft",
+                    "tenderness": "Tender to palpation (TTP) in right lower quadrant (RLQ)",
+                    "special_tests": {
+                        "rovsings_sign": "Positive",
+                        "straight_leg_raise": "Positive"
+                    },
+                    "rebound": "No rebound tenderness",
+                    "guarding": "No guarding"
+                },
+                "extremities": "No extremity edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

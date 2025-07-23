@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F (Tm 99.1°F)",
+                "blood_pressure": "116/70 mmHg (109-134/70-91 mmHg)",
+                "heart_rate": "95 bpm (95-100 bpm)",
+                "respiratory_rate": "18 breaths/min (Not specified)",
+                "oxygen_saturation": "92% (91-94%)",
+                "oxygen_delivery": "RA",
+                "date_recorded": "last updated ___ @ 1532"
+            },
+            "relevant_findings": {
+                "general": "Alert, NAD",
+                "HEENT": "NC/AT",
+                "cardiovascular": "RRR, no m/r/g",
+                "pulmonary": "CTA B",
+                "gastrointestinal": "S/NT/ND, BS present",
+                "neurological": "Non-focal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

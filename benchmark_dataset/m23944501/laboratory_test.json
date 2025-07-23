@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "PT (Prothrombin Time)",
+            "date": "Not specified",
+            "findings": "24.7 sec, outside normal range (normal range: 22.0 - 35.0 sec)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix dilated to 7.8cm, tip normal with gas; no periappendiceal stranding or fluid, no enlarged lymph nodes, no intraperitoneal free fluid or free air.",
+            "changes_over_time": "Small loculated right hydropneumothorax, improved compared with prior."
+        }
+    ]
+}

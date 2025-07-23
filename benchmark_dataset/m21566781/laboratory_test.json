@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The lung bases are clear. The liver, spleen, kidneys, adrenal glands, pancreas and contracted gallbladder are unremarkable. The stomach and small bowel are normal in caliber. The appendix measures up to 8 mm in diameter with mild surrounding inflammation. There is no extraluminal air or drainable collection. The bladder, uterus and adnexae are unremarkable. There is no free intraperitoneal fluid or free air. There is no intra-abdominal adenopathy. Abdominal aorta is normal in caliber. No suspicious osseous lesions identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

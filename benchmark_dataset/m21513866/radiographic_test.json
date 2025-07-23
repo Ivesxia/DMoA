@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Abdomen: The visualized lung bases are clear. The liver enhances homogeneously. A 5 mm hypodensity in the mid right lobe is too small to characterize. There are no concerning liver lesions. The portal and hepatic veins are patent. The gallbladder is mildly distended without pericholecystic fluid. The pancreas and spleen are unremarkable. The kidneys enhance symmetrically and excrete contrast promptly. There is a 3.1 cm AP x 1.9 cm TV x 2.1 cm CC soft tissue lesion arising from the left adrenal gland. The right adrenal gland is normal. There is no ascites or abdominal adenopathy. The stomach, small and abdominal large bowel are unremarkable. There is a small amount of contrast refluxing into the distal esophagus. No free air. Pelvis: The appendix is distended to 8 mm and filled with fluid. The wall is hyperemic and mildly thickened, with mild adjacent stranding. There is a tiny appendicolith at the appendix base. There is no adjacent fluid collection or extraluminal gas. The remainder of the bowel is unremarkable. There is a small pocket of mildly complex free fluid in the rectouterine pouch. There is no inguinal or pelvic adenopathy. There is no concerning lytic or sclerotic bone lesion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

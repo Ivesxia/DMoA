@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "White count 15.8",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Toxigenic C. difficile assay",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile by the Cepheid nucleic acid amplification assay. Reference Range-Negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver, pancreas, spleen, and right adrenal gland are normal; left adrenal gland is absent due to renal agenesis. Right kidney is large (13 cm) with no lesions. Small fluid collection in the right paracolic gutter, and a new organized fluid collection in the posterior pelvis (4.8 x 2.3 x 1.8 cm). Postsurgical changes around the cecum.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

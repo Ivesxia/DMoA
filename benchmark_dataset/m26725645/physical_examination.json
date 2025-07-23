@@ -1,0 +1,53 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Temperature": "97.5 F",
+                "Blood Pressure": "102/50 mmHg",
+                "Heart Rate": "73 bpm",
+                "Respiratory Rate": "23 breaths/min",
+                "O2 Saturation": "93% on 2L"
+            },
+            "relevant_findings": {
+                "General": "Confused, friendly, alert",
+                "HEENT": "NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear, Nasal Cannula in place running at 2L",
+                "Lungs": "Bases have crackles bilaterally, no rhonchi or rales; crackles do not resolve with coughing",
+                "Heart": "PMI non-displaced, RRR, no MRG, nl S1-S2",
+                "Abdomen": "NABS, soft/NT/ND, no masses or HSM, no rebound/guarding",
+                "Extremities": "WWP, pitting edema bilaterally in lower extremities, 2+ peripheral pulses (radials, DPs)",
+                "Skin": "No rashes or lesions",
+                "Neuro": "Awake, A&Ox1"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Temperature": "99.1 F",
+                "Blood Pressure": "179/71 mmHg",
+                "Heart Rate": "98 bpm",
+                "Respiratory Rate": "18 breaths/min",
+                "O2 Saturation": "97% on 2L"
+            },
+            "relevant_findings": {
+                "Labs": {
+                    "WBC": "12.4",
+                    "ALT": "49",
+                    "AST": "76",
+                    "Lipase": "77",
+                    "Alkaline Phosphatase": "121",
+                    "Troponin": "0.07"
+                },
+                "EKG": "Notable for Q waves in III (unchanged from prior) and new decreased R wave progression in the precordial leads and left atrial enlargement; otherwise NSR, stable compared to prior"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "At baseline, she has short/long term memory problems; ankle swelling has increased lately."
+        }
+    ]
+}

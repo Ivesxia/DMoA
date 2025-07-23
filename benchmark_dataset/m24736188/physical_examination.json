@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "AF",
+                "blood_pressure": "150/80",
+                "respiratory_rate": "Not specified",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Pleasant, NAD",
+                "HEENT": "Normocephalic, Oropharynx clear",
+                "Neck": "Supple",
+                "Lungs": "Clear to auscultation",
+                "Heart": "Regular",
+                "Abdomen": "Obese, minimally tender in RLQ",
+                "Extremities": "No edema",
+                "Neurologic": "Alert and oriented",
+                "Skin": "Warm and dry, no rash or significant lesions",
+                "Psych": "Appropriate"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

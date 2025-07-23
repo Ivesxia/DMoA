@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Lower abdominal pain",
+        "history_of_present_illness": "The patient has experienced intermittent lower abdominal pain for 2 weeks, initially severe but gradually decreasing. The pain has been sharp in nature and centered in the lower abdomen without radiation. Pain is not related to food and was reportedly exacerbated by a recurrence that led to a visit to the ED for evaluation. Tylenol was taken occasionally with some relief.",
+        "past_medical_history": "Atrial fibrillation on Coumadin, ulcerative colitis, diverticulosis, chronic obstructive pulmonary disease (COPD), depression, left patellar fracture, and a history of appendectomy. Last ulcerative colitis flare occurred years ago. Previous episodes of UC pain included blood in stool.",
+        "family_history": "Mother alive, father deceased due to diabetes mellitus and atrial fibrillation, sister with aplastic anemia.",
+        "social_history": "Not specified."
+    }
+}

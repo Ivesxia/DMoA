@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "There is a left lower lobe consolidation with associated volume loss, which is concerning for a pneumonia, possibly postobstructive. The right lung appears clear without focal consolidation. There is no pulmonary edema or pneumothorax. The heart size is obscured by adjacent opacities but likely normal. The mediastinum is mildly widened, possibly due to reactive lymphadenopathy. The hilar contours are normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

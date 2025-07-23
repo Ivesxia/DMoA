@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "sepsis secondary to acute cholecystitis",
+        "differential_diagnosis": "acute renal failure, cholestatic jaundice secondary to extrinsic compression of common bile duct, atrial fibrillation, history of pulmonary embolism, wegeners granulomatosis, gout",
+        "diagnostic_reasoning": "Patient presented with jaundice, confusion, abdominal cramps, and tenderness, along with imaging showing air in the biliary system and a large gallstone. Laboratory findings indicated severe coagulopathy (INR > 20), hyperkalemia (K 6.6), and significant renal impairment (Cr 7.3), supporting the diagnosis of sepsis secondary to acute cholecystitis."
+    }
+}

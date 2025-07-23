@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Abscess Drainage",
+            "date": "Not specified.",
+            "findings": "The 5 cm abscess under the diaphragm was drained under CT guidance, and a drain was left in place.",
+            "changes_over_time": "The intra-abdominal abscess showed decreased in size on follow-up CT scan."
+        },
+        {
+            "procedure_name": "MRI Brain",
+            "date": "Not specified.",
+            "findings": "Several areas of hyperintensity in the left parietal region and a small focus in the left occipital region indicative of subacute infarcts. Chronic infarct seen in the right occipital lobe. Mild-to-moderate small vessel disease and moderate brain atrophy identified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRA Head",
+            "date": "Not specified.",
+            "findings": "Absence of flow signal in the left internal carotid artery indicative of occlusion. Flow signal identified in the left middle cerebral artery likely due to collateral flow.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

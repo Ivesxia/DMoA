@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EKG",
+            "date": "Not specified",
+            "findings": "Sinus rhythm at 8-bpm, LAD, LBBB, unchanged from prior.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Liver is normal in shape and contour with normal echogenicity. No focal hepatic lesions, main portal vein is patent, no intra- or extra-hepatic biliary duct dilation. Gallbladder is normal without wall edema or pericholecystic fluid, no cholelithiasis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

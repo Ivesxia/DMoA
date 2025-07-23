@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver demonstrates diffusely increased echogenicity without focal mass lesion. No appreciable intrahepatic or extra-hepatic biliary ductal dilatation and the proximal common bile duct measures 4 mm. The distal common bile duct is not evaluated. There is trace fluid around the gallbladder. Borderline thickening of the wall is of uncertain significance in the setting of an incompletely distended gallbladder. There are several small mobile stones within the gallbladder. The main portal vein is patent with hepatopetal flow.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Coagulation Test",
+            "date": "Not specified",
+            "findings": "31.3 sec, within normal range (Ref: 22.0 - 35.0 sec).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Culture Test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

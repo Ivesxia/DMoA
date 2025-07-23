@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "The course of the catheter is unremarkable. The tip of the catheter projects over the superior SVC. There is no evidence of pneumothorax. The other monitoring and support devices are unchanged. Unchanged pleural effusions. No evidence of newly occurred focal parenchymal opacities.",
+            "changes_over_time": "The previously placed double-lumen right-sided central venous catheter has been exchanged against a single lumen device. The other monitoring and support devices are unchanged."
+        }
+    ]
+}

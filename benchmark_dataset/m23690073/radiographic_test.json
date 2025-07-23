@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT-guided percutaneous left lower quadrant abscess drainage",
+            "date": "Not specified",
+            "findings": "A 5.2 x 4.5 cm left lower quadrant abscess containing gas and fluid adjacent to the sigmoid colon. The sigmoid colon wall is thickened. Inflammatory changes involve the surrounding fat.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

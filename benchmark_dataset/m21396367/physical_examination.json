@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.4°F",
+                "heart_rate": "118 bpm",
+                "blood_pressure": "134/83 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "abdominal": "Diffusely tender with focal tenderness in the right lower quadrant",
+                "HEENT": "Extraocular muscles intact, supple",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Normal first and second heart sounds",
+                "GU/Flank": "No costovertebral angle tenderness",
+                "extremities": "No edema, calf tenderness",
+                "skin": "Warm and dry",
+                "neurological": "Speech fluent",
+                "psychological": "Normal mentation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

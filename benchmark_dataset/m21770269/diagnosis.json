@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis with superior mesenteric artery (SMA) thrombosis",
+        "differential_diagnosis": "? hyper-coaguability",
+        "diagnostic_reasoning": "The patient presented with diffuse abdominal pain, fever, and vomiting, along with a dilated hyperemic appendix noted on CT imaging, indicating appendicitis. Additionally, the CT findings revealed a thrombosed mesenteric vein and SMA thrombosis, which were corroborated by the presence of surrounding inflammatory changes and prominent mesenteric lymph nodes. The absence of free air or fluid helped in ruling out perforation, confirming the diagnosis of appendicitis alongside SMA thrombosis."
+    }
+}

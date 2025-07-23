@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "blood_pressure": "178/72 mmHg",
+                "heart_rate": "68 bpm",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented to name, place and situation. Fatigued appearing but comfortable, no acute signs of distress.",
+                "eyes": "Pupils equal and reactive, sclerae anicteric.",
+                "ent": "Normocephalic, atraumatic, oropharynx clear, dry mucous membranes.",
+                "neck": "Supple, no jugular venous distension.",
+                "lymph_nodes": "No cervical, supraclavicular lymphadenopathy.",
+                "cardiovascular": "S1S2, regular rate and rhythm, systolic ejection murmur, no rubs or gallops.",
+                "respiratory": "Good air movement bilaterally, no rhonchi or wheezing. No accessory muscle use.",
+                "abdominal": "Soft, tender to palpation in the epigastric and right upper quadrant, non-distended, positive bowel sounds.",
+                "extremities": "No lower leg edema, no clubbing or cyanosis.",
+                "dermatological": "No active rash.",
+                "neurological": "Cranial nerves grossly intact, muscle strength normal in all major muscle groups, sensation to light touch intact, non-focal.",
+                "psychiatric": "Appropriate and calm."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

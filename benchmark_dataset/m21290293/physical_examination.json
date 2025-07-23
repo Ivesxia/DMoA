@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.0°F",
+                "heart_rate": "68 bpm",
+                "blood_pressure": "165/94 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "General": "well-appearing, NAD",
+                "HEENT": "PERRL, EOMI, sclera anicteric, moist mucus membranes",
+                "Cardiac": "RRR",
+                "Chest": "CTAB",
+                "Abdomen": "Soft, focally tender to palpation at RLQ/suprapubic region, mildly distended. Negative Rovsing, obturator, psoas signs. No rebound or guarding. Reducible umbilical hernia with 2-cm defect. No inguinal hernias.",
+                "Extremities": "WWP, no edema, palpable DP bilaterally"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

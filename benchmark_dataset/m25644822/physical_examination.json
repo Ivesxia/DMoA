@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.5°F",
+                "heart_rate": "105 bpm",
+                "blood_pressure": "132/76 mmHg",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "HEENT": "Pupils equal, round and reactive to light; Normocephalic; Atraumatic; Oropharynx within normal limits",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm",
+                "abdominal": "Soft, RLQ pain on palpation",
+                "GU/flank": "No costovertebral angle tenderness",
+                "skin": "No rash",
+                "neuro": "Speech fluent"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

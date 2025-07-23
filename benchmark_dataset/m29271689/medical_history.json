@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient started having abdominal pain yesterday afternoon around 4pm, which has been constant and was not experienced in this manner before. The pain has been significant enough to cause the patient to be unable to sleep. There was some nausea but no vomiting or diarrhea. The patient occasionally consumes alcohol.",
+        "past_medical_history": "Chronic back pain, eczematous dermatitis, migraine headaches, GERD, history of pneumonia",
+        "family_history": "Not specified",
+        "social_history": "Occasional alcohol use; no specific lifestyle factors or habits mentioned"
+    }
+}

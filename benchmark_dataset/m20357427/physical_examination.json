@@ -1,0 +1,31 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.7°F",
+                "blood_pressure": "120/70 mmHg",
+                "heart_rate": "80 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "saturation": "93% (RA)"
+            },
+            "relevant_findings": {
+                "general": "Patient is comfortable and conversational, nontoxic, in no apparent distress. Mild confusion in fact finding/verbal response.",
+                "skin": "Few small skin-colored 1mm papules on left side of abdomen. No petechiae/ecchymoses. No jaundice.",
+                "pulmonary": "Breath sounds diminished bilaterally at bases, extending up 20-30 cm from base on left, and 10 cm from base on right. Positive egophony noted bilaterally, with transition at the levels of diminished breath sounds. Slight dullness to percussion, with transition at same levels. No rales/wheezes/rhonchi.",
+                "cardiac": "Regular rate and rhythm. No m/r/g. PMI was firmly tapping, quarter-sized, located between intercostal space along midclavicular line.",
+                "lymphatic": "No cervical or supraclavicular lymphadenopathy.",
+                "gi": "+Bowel sounds, abdomen soft. Moderate distention. Moderate tenderness to palpation in mid-epigastrum. No organomegaly.",
+                "neuro": "AAOx3. PEERLA, EOMI, tongue midline, face symmetric.",
+                "extremities": "WWP. Radial and DP pulses 2+ bilaterally. No edema. ROM intact."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Reduced effusions are seen bilaterally, with some left basilar atelectasis but no patchy consolidation. Pulmonary vascular markings, cardiac silhouette, and mediastinal contours are normal.",
+            "changes_over_time": "Left greater than right residual effusions when comparing with the frontal view."
+        }
+    ]
+}

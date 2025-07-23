@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level 122, elevated.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "UA was negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CBC, Chemistry, and LFTs",
+            "date": "Not specified",
+            "findings": "CBC, Chemistry, and LFTs were within normal limits.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

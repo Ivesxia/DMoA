@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with right lower quadrant pain, abdominal cramping, mild fever, and an imaging study (CT of abdomen and pelvis) showed a massively dilated appendix with mild fat stranding, consistent with appendicitis."
+    }
+}

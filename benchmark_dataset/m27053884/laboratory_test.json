@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC count",
+            "date": "Not specified",
+            "findings": "4.2 (normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin/Hematocrit (H/H)",
+            "date": "Not specified",
+            "findings": "Hemoglobin 10.3, Hematocrit 31.1 (somewhat low)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests (LFTs)",
+            "date": "Not specified",
+            "findings": "AST 152, ALT 331, Alk Phos 430 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 137 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Chest with Contrast",
+            "date": "Not specified",
+            "findings": "Mild to moderate atherosclerotic calcification in head and neck vessels; mild relaxation atelectasis at the right base and minimal edema at the left; small nonhemorrhagic pleural effusions present.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Specimen Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

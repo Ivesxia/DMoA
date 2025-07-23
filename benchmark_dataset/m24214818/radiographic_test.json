@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": {
+                "Lower Thorax": "Tiny bilateral pleural effusions. The lung bases are clear. Heart size normal. No pericardial effusion.",
+                "Liver": "Mild hepatic steatosis with no concerning solid or cystic lesions.",
+                "Biliary": "No intra- or extra-hepatic duct dilatation; gallbladder unremarkable.",
+                "Pancreas": "Fatty atrophy with mild edematous change in the neck and proximal body; 10 mm cystic lesion in the neck consistent with a side-branch IPMN.",
+                "Spleen": "Normal in size and signal characteristics; no focal lesions.",
+                "Adrenal Glands": "Normal in size and signal characteristics; no focal lesions.",
+                "Kidneys": "Normal in size and signal characteristics; no lesions.",
+                "Gastrointestinal Tract": "Normal caliber.",
+                "Lymph Nodes": "No significant lymphadenopathy.",
+                "Vasculature": "Patent abdominal aorta and proximal mesenteric vessels.",
+                "Osseous and Soft Tissue Structures": "Normal signal characteristics; no concerning osseous lesions."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

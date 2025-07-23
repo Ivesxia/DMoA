@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Acute onset of lower abdominal pain since last night, initially severe causing patient to curl up in bed. Pain subsided somewhat over the next hour or two but returned in the right lower quadrant (RLQ). Pain improved compared to 11 PM. Patient reports intermittent diarrhea over the last few weeks. Denies fevers, nausea, or vomiting, but had chills last night. Additionally, describes a 6-week history of epigastric pain precipitated by days of heavy drinking, relieved somewhat with prilosec. Reports a small amount of weight loss over recent weeks.",
+        "past_medical_history": "Asthma, allergic rhinitis, bilateral inguinal hernias, tonsillectomy, ear tubes",
+        "family_history": "No history of Crohn's",
+        "social_history": "Not specified"
+    }
+}

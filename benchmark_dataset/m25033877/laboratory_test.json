@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "White Blood Cell Differential",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urea Nitrogen (BUN)",
+            "date": "Not specified",
+            "findings": "23.4 ug/mL",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

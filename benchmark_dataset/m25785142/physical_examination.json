@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.2 F",
+                "heart_rate": "110 bpm",
+                "blood_pressure": "110/62 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "101.2 F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4 F",
+                "heart_rate": "61 bpm",
+                "blood_pressure": "143/82 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "94% RA"
+            },
+            "relevant_findings": "General: well appearing man, no acute distress; HEENT: PERRL, EOMI, oropharynx is clear with moist mucous membranes; CV: r/r/r, no murmurs; Resp: CTA bilaterally without crackles or wheezing; Abd: soft, mildly tender around laparoscopic incisions, slightly distended, no guarding; Incisions: CD&I without signs of infection; Ext: wwp, no edema; Neuro: alert and oriented, CN II-XII intact, moving all extremities.",
+            "changes_over_time": "Patient reports that his pain is now a 5 and improved, but he can feel it returning."
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Blood Pressure": "118/74 mmHg",
+                "Heart Rate": "80 bpm",
+                "Temperature": "97.9 °F",
+                "Respiratory Rate": "12 breaths/min"
+            },
+            "relevant_findings": "HEENT: PERRLA; Neck: supple w/o LAD; CV: rrr, no m/r/g; Lungs: CTAB; Abd: hypoactive bs, soft, tender in both RLQ and LLQ; rectal exam -> guiac neg, no stool in vault, good rectal tone; no edema.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "Increase in size of a 2.2 cm rounded masslike opacity in the superior segment of the right lower lobe. Previously noted right lower lobe consolidative opacity has substantially improved. No new pneumonia, pleural effusion, or pulmonary edema.",
+            "changes_over_time": "Increase in size of the right lower lobe mass compared to prior chest CT."
+        },
+        {
+            "procedure_name": "CTA CHEST",
+            "date": "Not specified",
+            "findings": "1.9 x 2.1 x 2.2 cm lobulated mass within the superior segment of the right lower lobe, unchanged eccentric calcifications. No evidence of pulmonary embolism or aortic abnormality. Improved ground-glass opacities at the right lung base.",
+            "changes_over_time": "Mass larger than 1.4 cm on prior CT."
+        }
+    ]
+}

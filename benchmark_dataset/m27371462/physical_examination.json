@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2",
+                "heart_rate": "98 bpm",
+                "blood_pressure": "138/63 mmHg",
+                "respiratory_rate": "17 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Pleasant, well appearing in NAD",
+                "heent": "Normocephalic, atraumatic. No conjunctival pallor. No scleral icterus. MMM. OP clear. Neck supple, no LAD, no thyromegaly.",
+                "cardiac": "Regular rhythm, normal rate. Normal S1, S2. No murmurs, rubs or gallops.",
+                "lungs": "CTAB, good air movement bilaterally.",
+                "abdomen": "NABS. Soft, mildly tender in the LLQ and suprapubic tenderness, no rebound, no guarding, slightly distended. No HSM.",
+                "extremities": "No edema or calf pain, 2+ dorsalis pedis/posterior tibial pulses.",
+                "skin": "No rashes/lesions, ecchymoses.",
+                "neuro": "A&Ox3. Appropriate. CN grossly intact. Strength throughout. 2+ reflexes, equal.",
+                "psych": "Listens and responds to questions appropriately, pleasant."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

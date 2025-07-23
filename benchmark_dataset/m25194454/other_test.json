@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "T2 hyperintense signal around the gallbladder fossa with subtle parenchymal hyperemia; moderate signal drop on out of phase imaging consistent with hepatic steatosis (fat fraction 17%); gallbladder notable for cholelithiasis and sludge; mildly dilated gallbladder with heterogenous enhancement and mild pericholecystic free fluid with gallbladder wall edema.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal CT",
+            "date": "Not specified",
+            "findings": "Signs of gallbladder inflammation and edema.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Thickened gallbladder wall, multiple gallstones, and a positive sonographic Murphy's sign.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

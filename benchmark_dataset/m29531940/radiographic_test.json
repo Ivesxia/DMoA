@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The gallbladder is distended with wall edema and layering stones. Intra and extrahepatic bile ducts are normal in caliber. No filling defects. Normal morphology and signal intensity of liver, pancreas, spleen, and kidneys. No evidence of ascites, hiatal hernia, or enlarged lymph nodes.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

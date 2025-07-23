@@ -1,0 +1,10 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory test for fungus",
+            "date": "Not specified",
+            "findings": "1.6 mg/dL, reference range 2.7 - 4.5 mg/dL, NO FUNGUS ISOLATED.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

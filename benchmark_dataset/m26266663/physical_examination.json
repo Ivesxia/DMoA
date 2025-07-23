@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.1°F",
+                "heart_rate": "56 bpm",
+                "blood_pressure": "100/70 mmHg",
+                "respiratory_rate": "14 breaths/min"
+            },
+            "relevant_findings": "NAD (No Acute Distress), RRR (Regular Rate and Rhythm), no M/R/G (Murmurs/Rubs/Gallops), CTAB (Clear to Auscultation Bilaterally), Soft abdomen, non-tender, non-distended, WWP (Warm with Pulses)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

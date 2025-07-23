@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "There is diffusely increased hepatic echogenicity. No focal liver lesion is seen. There is limited visualization of the pancreas, particularly the distal pancreas. Normal Doppler flow within the portal vein. The gallbladder is normal. The proximal common duct is dilated, measuring up to 8.4 mm in diameter. Spleen is normal, measuring 9.9 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PT/INR",
+            "date": "Not specified",
+            "findings": "27.4 sec (reference range: 22.0 - 35.0 sec)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "31.0 IU/L (normal range unspecified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "The liver shows no focal lesion or intrahepatic biliary dilatation. The spleen is mildly enlarged, measuring up to 14 cm. The gallbladder is distended with circumferential wall edema and surrounding fat stranding. Possible small high density in the neck of the gallbladder may represent a stone.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

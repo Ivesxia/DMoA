@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97°F",
+                "heart_rate": "144 bpm",
+                "blood_pressure": "144/86 mmHg",
+                "respiratory_rate": "24 breaths/min",
+                "oxygen_saturation": "97% on 5L"
+            },
+            "relevant_findings": {
+                "general": "Pleasant elderly man mildly tachypneic with pursed lip breathing",
+                "HEENT": "Sclera with mild icterus, conjunctiva pink, MMM with palatal jaundice",
+                "neck": "No JVD",
+                "pulmonary": "Lungs with diminished breath sounds bilaterally, few rales at R base, no wheezing",
+                "cardiovascular": "Heart sounds distant, no murmurs appreciated",
+                "abdominal": "Soft, distended, tender RUQ and epigastrium, no rigidity or guarding, +bowel sounds",
+                "genitourinary": "Heme+ stool on ER exam",
+                "extremities": "Warm, no edema, palpable distal pulses",
+                "neurological": "Alert, awake and answering appropriately, moving all extremities",
+                "dermatological": "Mildly jaundiced, no rash",
+                "lines_tubes_drains": "Foley draining amber urine"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "Not specified",
+            "findings": "3.4 mg/dL (within normal range: 2.7 - 4.5 mg/dL)",
+            "changes_over_time": "Last Creatinine level was 1.66 in an unspecified date prior to this admission."
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "blood_pressure": "127/61 mmHg",
+                "heart_rate": "91 bpm",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "Speaking male in NAD",
+                "HEENT": "NCAT, sclera anicteric, PERRLA. Oropharynx clear.",
+                "neck": "JVD halfway up neck",
+                "heart": "RRR normal S1S2, no murmurs",
+                "lungs": "CTAB, no wheezes",
+                "abdomen": "+BS, soft, slightly distended, tender to palpation in center and RUQ. No rebound or guarding.",
+                "extremities": "Warm and well perfused, no edema, DP 2+ bilaterally",
+                "neurological": "A&Ox3, strength not specified in upper and lower extremities, no asterixis"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

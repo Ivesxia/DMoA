@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.0°F",
+                "heart_rate": "98 bpm",
+                "blood_pressure": "148/108 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm, Normal first and second heart sounds",
+                "abdominal": "Soft, Nondistended, grossly obese, positive right lower quadrant tenderness with Rovsing sign",
+                "gu_flank": "No costovertebral angle tenderness",
+                "extr_back": "No cyanosis, clubbing or edema",
+                "skin": "Warm and dry",
+                "neuro": "Speech fluent",
+                "psych": "Normal mentation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

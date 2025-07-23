@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated up to 15 mm, though contains gas. A possible appendicolith is in the region of the appendiceal neck; there is no surrounding inflammatory stranding. There is no intraperitoneal free fluid, or free air. No concerning osseous lesions are seen. The lung bases are clear, and the other abdominal organs are normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

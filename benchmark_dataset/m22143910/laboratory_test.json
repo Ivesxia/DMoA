@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver demonstrates normal echogenicity without focal lesions or intrahepatic biliary dilatation. The gallbladder is distended with sludge and at least two stones, with the largest stone in the neck measuring approximately 3.5 cm. There is mild gallbladder wall thickening measuring 5.5 mm. There is no pericholecystic fluid. The common bile duct is in the upper limits of normal measuring 8 mm. Limited visualization of the pancreatic head and body is unremarkable. There is no free fluid in the right upper quadrant.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver function test (presumed from findings)",
+            "date": "Not specified",
+            "findings": "Values indicate 38.0 IU/L, specific test name not provided. NO GROWTH noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

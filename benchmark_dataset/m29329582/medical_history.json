@@ -1,0 +1,37 @@
+{
+    "medical_history": {
+        "chief_complaint": "Severe epigastric abdominal pain following dinner.",
+        "history_of_present_illness": "The patient has had abdominal pain different from her usual flares for the past 3 months. Last night, 6 hours after dinner, she developed severe epigastric abdominal pain and back discomfort. No emesis, and her ostomy is functional.",
+        "past_medical_history": {
+            "chronic_conditions": [
+                "Short bowel syndrome",
+                "Intermittent small bowel obstructions",
+                "Left bundle branch block",
+                "History of line sepsis",
+                "Nephrolithiasis",
+                "Osteomyelitis of the distal right femur",
+                "Osteoporosis",
+                "Elevated alkaline phosphatase (of bone origin)"
+            ],
+            "past_surgeries": [
+                "Ileocolectomy",
+                "Transverse colostomy for pelvic abscesses and small bowel obstruction",
+                "Pan proctocolectomy with ileostomy",
+                "Ileal resection",
+                "Lysis of adhesions complicated by wound infection and enterocutaneous fistula",
+                "Exploratory laparotomy and lysis of adhesions with take down of enterocutaneous fistula",
+                "Synovectomy and debridement of right distal femur",
+                "Tonsillectomy and adenoidectomy",
+                "Exploratory laparotomy and take down of enterovesicular cutaneous fistula",
+                "Incision and drainage of intraabdominal abscess",
+                "Laparotomy and lysis of adhesions and excision on enterocutaneous and enterovesicular fistulas",
+                "Exploratory laparotomy take down of enterocutaneous fistula and small bowel resection"
+            ]
+        },
+        "family_history": {
+            "mother": "Inflammatory bowel disease",
+            "father": "Died of heart problems and TIAs in his early life"
+        },
+        "social_history": "Not specified"
+    }
+}

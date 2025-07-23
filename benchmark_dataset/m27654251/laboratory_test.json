@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Angiography Chest",
+            "date": "Not specified",
+            "findings": "Bilateral small pleural effusions with adjacent atelectasis. Bilateral predominantly upper lobe peripheral ground-glass airspace opacities. The visualized liver is low in attenuation suggestive of steatosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

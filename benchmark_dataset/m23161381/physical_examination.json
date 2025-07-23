@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "120/70 mmHg",
+                "heart_rate": "84 bpm",
+                "temperature": "101.2°F",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress (NAD)",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/gallops/rubs (M/G/R)",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes/rales/ronchi (W/R/R)",
+                "abdominal": "Distended, soft, with positive tenderness to palpation (TTP) in bilateral lower quadrants (BLQ) with localized rebound, no masses palpated",
+                "digital_rectal_exam": "Normal tone, positive occult blood, no gross blood",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

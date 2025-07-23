@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "UA (Urinalysis)",
+            "date": "Not specified",
+            "findings": "Cloudy urine with few bacteria, positive nitrites, no WBC or leukesterase.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT abdomen",
+            "date": "Not specified",
+            "findings": "Multiple non-specific findings including partially dilated gallbladder with mild fundal wall edema, mild rectal wall thickening, and mild bladder wall thickening.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MR HEAD W & W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Evidence of partial right temporal lobectomy, postoperative change, dilatation of the temporal horn, extensive high signal intensity consistent with chronic microvascular ischemia, stable enhancing mass, and stable en plaque meningiomas.",
+            "changes_over_time": "Stable appearance to existing masses and findings."
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Homogeneous with no focal lesion identified.",
+                "intrahepatic biliary ductal dilatation": "Not present.",
+                "gallbladder": "Distended with surrounding inflammatory changes and wall edema, punctate hyperdensity within the gallbladder neck compatible with a stone.",
+                "pancreas, spleen, bilateral adrenal glands": "Unremarkable.",
+                "kidneys": "No nephrolithiasis, bilateral cortical hypodensities, largest extending from the inferior pole of the left kidney measured 5.4 x 5.2 cm, most compatible with a simple cyst, stranding about bilateral kidneys is symmetric.",
+                "abdominal aorta": "Moderate atherosclerotic calcifications, infrarenal aorta aneurysmal measuring 3.5 x 2.5 cm.",
+                "stomach, duodenum, and loops of small bowel": "Grossly unremarkable, no obstruction.",
+                "appendix": "Unremarkable.",
+                "colon": "Moderate diverticular disease without evidence of diverticulitis.",
+                "pelvis": "Bladder moderately distended and grossly unremarkable, prostate gland and seminal vesicles within normal limits, no pelvic free fluid.",
+                "inguinal hernias": "Small bilateral fat containing inguinal hernias noted.",
+                "umbilical hernia": "Fat containing hernia noted.",
+                "osseous structures": "No suspicious lytic or blastic lesions, multilevel degenerative changes most prominent at the L4-L5 level."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

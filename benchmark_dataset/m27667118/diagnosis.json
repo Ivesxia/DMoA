@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The diagnosis of appendicitis was supported by the patient's presentation of right lower quadrant pain, nausea, and vomiting, along with the findings of a large appendicolith and a dilated, fluid-filled appendix on CT imaging. There were no signs of perforation or intra-abdominal free fluid."
+    }
+}

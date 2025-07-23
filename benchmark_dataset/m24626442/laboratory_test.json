@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Specimen Holding",
+            "date": "Not specified",
+            "findings": "HOLD. SPECIMEN TO BE HELD 48 HOURS AND DISCARDED.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated up to 11 mm in diameter with a perceptible enhancing wall and surrounding fat stranding, most consistent with acute uncomplicated appendicitis. A hypodense focus measuring 3 mm in segment VII of the liver is noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

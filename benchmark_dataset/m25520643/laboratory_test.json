@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Gram Stain",
+            "date": "Not specified",
+            "findings": "GRAM POSITIVE BACTERIA detected.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "8.9 mg/dL (within reference range of 8.4 to 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "No focal consolidation, pleural effusion, or pneumothorax identified. Size of the cardiomediastinal silhouette is within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

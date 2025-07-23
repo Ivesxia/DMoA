@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laparoscopic Cholecystectomy",
+            "date": "Not specified",
+            "findings": "Early acute cholecystitis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "No focal consolidation; mild left base linear atelectasis/scarring; no pleural effusion or pneumothorax; stable cardiac and mediastinal silhouettes.",
+            "changes_over_time": "Mild left base linear atelectasis/scarring in the same location as seen on the prior study."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Interventional radiology placing two drains",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "New right-sided internal jugular central line, no evidence of pneumothorax, increased interstitial and vascular markings, no pleural effusion, rightward deviation of the trachea likely secondary to a prominent aortic knob, vertebroplasty cement in the lower thoracic spine redemonstrated.",
+            "changes_over_time": "No significant change in appearance of the thorax compared with the prior exam."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "laparoscopic appendectomy",
+            "date": "Not specified",
+            "findings": "The appendix demonstrates wall thickening and adjacent adenopathy with trace surrounding fat stranding. An appendicolith is noted at the origin of the appendix. There is no drainable fluid collection.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Small hypodensities in segment II and segment VI of the liver likely represent small cysts or biliary hamartomas. No suspicious liver lesion is identified. The gallbladder is normal. The appendix shows wall thickening and adjacent adenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

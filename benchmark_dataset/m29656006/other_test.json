@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "liver biopsy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Multiple stones within the gallbladder including a 13-mm stone at the gallbladder neck; slight gallbladder wall edema; no hyperemia in the surrounding liver parenchyma; no filling defects within the CBD; no intrahepatic biliary ductal dilatation; slight fatty infiltration of the liver; normal hepatic vasculature; normal spleen, kidneys, adrenals, pancreas; normal aorta and mesenteric branches; no free fluid or adenopathy; normal bone marrow signal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

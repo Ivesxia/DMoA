@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "A large thoracic aortic aneurysm in the left hemithorax, mild signal loss consistent with hepatic steatosis, cholelithiasis with pericholecystic free fluid, multiple subcentimeter cystic lesions in pancreas suggesting side branch IPMN, normal spleen and adrenal glands, bilateral cortical cysts in kidneys, small hiatus hernia in GI tract, moderate atherosclerotic disease in abdominal aorta.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "BCx (Blood Culture)",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

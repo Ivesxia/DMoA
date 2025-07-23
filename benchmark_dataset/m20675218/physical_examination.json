@@ -1,0 +1,18 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Afebrile, hemodynamically stable",
+            "relevant_findings": {
+                "general": "A&O, NAD",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "CV": "RRR, No M/G/R",
+                "Pulmonary": "Clear to auscultation b/l, No W/R/R",
+                "Abdomen": "Soft, nondistended, appropriately tender near incisions, no rebound or guarding, normoactive bowel sounds, no palpable masses. Port sites c/d/i.",
+                "DRE": "Normal tone, no gross or occult blood",
+                "Extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The echogenicity of the liver is homogeneous. The contour of the liver is smooth. There is no focal liver mass. Main portal vein is patent with hepatopetal flow. There is no ascites. Mild intrahepatic biliary dilation. The CBD measures 1.2 mm. No evidence of gallbladder wall thickening. Numerous gallstones are seen, measuring up to 2 cm. The pancreas is poorly visualized due to shadowing from overlying bowel gas, as well as bandaging in the midline of the abdomen related to a jejunostomy tube.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

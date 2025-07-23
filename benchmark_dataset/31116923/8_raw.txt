@@ -1,0 +1,84 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "azithromycin",
+      "start_date": "2019-05-13",  // Assuming the evaluation date is the current date based on the context
+      "end_date": "2019-05-18",
+      "dosage_or_details": "5-day course",
+      "treatment_response": "resulted in decreased fatigue and malaise and reduced frequency of cough"
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "ivermectin",
+      "start_date": "2019-05-19",
+      "end_date": "2019-05-20",
+      "dosage_or_details": "specific dosage not provided",
+      "treatment_response": "not specified"
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "doxycycline",
+      "start_date": "2019-05-21",
+      "end_date": "2019-06-10",
+      "dosage_or_details": "21-day course",
+      "treatment_response": "not specified"
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "diethylcarbamazine",
+      "start_date": "2019-06-11",
+      "end_date": "2019-06-24",
+      "dosage_or_details": "14-day course",
+      "treatment_response": "respiratory symptoms completely subsided and peripheral eosinophilia diminished"
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "praziquantel",
+      "start_date": "2019-05-22",
+      "end_date": "2019-05-22", // Presumed to be a single administration
+      "dosage_or_details": "specific dosage not provided",
+      "treatment_response": "not specified"
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2019-05-13",
+      "event": "Patient evaluated for cough"
+    },
+    {
+      "date": "2019-05-13",
+      "event": "Azithromycin prescribed"
+    },
+    {
+      "date": "2019-05-18",
+      "event": "Completion of azithromycin course"
+    },
+    {
+      "date": "2019-05-19",
+      "event": "Ivermectin administered"
+    },
+    {
+      "date": "2019-05-21",
+      "event": "Doxycycline started"
+    },
+    {
+      "date": "2019-06-10",
+      "event": "Completion of doxycycline course"
+    },
+    {
+      "date": "2019-06-11",
+      "event": "Diethylcarbamazine treatment started"
+    },
+    {
+      "date": "2019-06-24",
+      "event": "Completion of diethylcarbamazine course"
+    },
+    {
+      "date": "2019-05-22",
+      "event": "Praziquantel administered"
+    }
+  ]
+}
+```

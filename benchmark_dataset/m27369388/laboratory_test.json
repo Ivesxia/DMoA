@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Mild gallbladder wall edema, mild amount of dependent gallbladder sludge within a nondistended gallbladder, common bile duct mildly prominent (8.3 mm), mild intrahepatic biliary ductal dilation, no stones seen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "3.0 mg/dL, within normal range (ref range: 2.7 - 4.5 mg/dL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture Test",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

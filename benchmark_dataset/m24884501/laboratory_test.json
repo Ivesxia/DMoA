@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood test for growth",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood test for potassium",
+            "date": "Not specified",
+            "findings": "8.9 mg/dL (normal range: 8.4 - 10.2 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Gallstone Pancreatitis",
+        "differential_diagnosis": "Acute Cholecystitis, Dysphagia, Acute Blood loss anemia",
+        "diagnostic_reasoning": "The patient presented with acute abdominal pain, leukocytosis, elevated lipase, and imaging confirmed a distended gallbladder with stones and sludge, supporting the diagnosis of gallstone pancreatitis. Additional findings include acute cholecystitis and acute blood loss anemia, indicated by a decrease in hemoglobin and positive guaiac stool."
+    }
+}

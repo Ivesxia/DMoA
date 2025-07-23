@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.4°F",
+                "heart_rate": "89 bpm",
+                "blood_pressure": "157/82 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "91% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD",
+                "HEENT": "AT/NC, anicteric sclera, MMM, poor dentition",
+                "neck": "supple, no JVD appreciated",
+                "CV": "RRR, S1/S2, no murmurs, gallops, or rubs",
+                "pulm": "CTAB, no wheezes, rales, rhonchi, breathing comfortably without use of accessory muscles",
+                "GI": "abdomen soft, nondistended, nontender in all quadrants, no rebound/guarding, no hepatosplenomegaly",
+                "extremities": "no cyanosis, clubbing, or edema, RUE contracted",
+                "pulses": "2+ radial pulses bilaterally",
+                "neuro": "Opens eyes to command, dysarthric, intermittently follows commands on left side (squeeze hand, move left foot), withdraws to pain left side",
+                "derm": "warm and well perfused, no excoriations or lesions, no rashes"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.3°F",
+                "heart_rate": "100 bpm",
+                "blood_pressure": "155/76 mmHg",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "93% RA"
+            },
+            "relevant_findings": {
+                "neurological": "non-communicative and only intermittently follows commands"
+            },
+            "changes_over_time": "Patient reportedly more lethargic than his baseline; examination findings suggest decline in cognitive responsiveness."
+        }
+    ]
+}

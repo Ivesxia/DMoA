@@ -1,0 +1,10 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Candida Albicans Test",
+            "date": "Not specified",
+            "findings": "Results show Candida Albicans presence with a reference range of 94.0 to 250.0.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Heart size is normal. The mediastinal and hilar contours are normal. There is mild pulmonary edema. There is slight blunting of the costophrenic angles bilaterally secondary to small pleural effusions and overlying atelectasis. No pneumothorax is seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

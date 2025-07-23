@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Lower chest: Left basilar atelectasis. Small left pleural effusion, slightly decreased in volume when compared to the study performed previously and unchanged from later examination. Mild right basilar atelectasis. Abdomen: Patient is status-post transhepatic ultrasound-guided placement of tube, which is in satisfactory position. There is no significant fat stranding surrounding the gallbladder. No high-density hematoma or fluid collection along the tract of the new percutaneous catheter. Patient is status-post vertical sleeve gastrectomy. Previously described small focal dehiscence in the fundal suture is not well visualized on this non-contrast scan. Residual air and fluid containing collection which measures approximately 3.1 x 7.4 cm, previously 3.4 x 7.7 cm. A pigtail catheter remains within this collection. There are no new fluid collections within the upper abdomen. No evidence of increasing free intra-abdominal fluid. Previously described liver cysts are unchanged. No new solid organ findings.",
+            "changes_over_time": "The residual air and fluid containing collection decreased in size from 3.4 x 7.7 cm to 3.1 x 7.4 cm."
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver Function Test (indicated by presence of values)",
+            "date": "Not specified",
+            "findings": "Values: 3.7 mg/dL, ref range: 2.7 - 4.5 mg/dL (within normal range).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "70 bpm",
+                "blood_pressure": "203/84 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on RA"
+            },
+            "relevant_findings": "Admission examination shows dry mucosa with poor dentition, soft abdomen with mild tenderness on very deep epigastric palpation, normoactive bowel sounds, comfortable appearance, and 2+ pulses palpable bilaterally.",
+            "changes_over_time": "Transfer vital signs indicate improvement with temperature 97.9°F, heart rate 60 bpm, blood pressure 185/70 mmHg, respiratory rate 14 breaths/min, and oxygen saturation 100% on RA."
+        }
+    ]
+}

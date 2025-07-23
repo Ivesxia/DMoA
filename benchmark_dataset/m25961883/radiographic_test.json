@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "New small left pleural effusion, diffuse coronary artery calcifications, extensive heterogeneous enhancement, edema, and fat stranding suggestive of inflammatory changes involving the pancreatic head. There is a small region of perihepatic fluid. No focal lesions in the liver, no pericardial effusion, no significant dilatation of the pancreatic duct or CBD, and no free air. Osseous findings include significant degenerative changes noted at T12, T11, T10, T9 with no pathologic fracture.",
+            "changes_over_time": "The encasement of vessels by inflammatory tissue should be followed closely to rule out an underlying mass."
+        }
+    ]
+}

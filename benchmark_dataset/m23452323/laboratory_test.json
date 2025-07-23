@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "CT images show clear imaged lung bases aside from mild basilar atelectasis. No pleural or pericardial effusion. Small hiatal hernia is noted. The liver is normal in attenuation with tiny segment II hypodensity, which is too small to be accurately characterized by CT. No intra or extrahepatic biliary ductal dilatation. The portal and hepatic veins appear patent. The gallbladder, pancreas, spleen, and bilateral adrenal glands are unremarkable. The kidneys enhance and excrete contrast symmetrically without hydronephrosis. Descending and sigmoid colon show extensive diverticulosis. In the proximal sigmoid colon, there are 2 adjacent inflamed diverticula with surrounding fat stranding and fascial thickening without focal fluid collection or free air. Accompanying reactive lymph node enlargement without pathological lymphadenopathy. The appendix appears surgically absent. No pelvic or inguinal lymph node enlargement. No free pelvic fluid. No lytic or sclerotic bony lesions to suggest osseous malignancy. Mild multilevel lumbar spine degenerative changes noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

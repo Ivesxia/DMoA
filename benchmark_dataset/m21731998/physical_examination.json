@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "63 bpm",
+                "blood_pressure": "142/62 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "92% on 2L"
+            },
+            "relevant_findings": {
+                "general": "NAD (no acute distress)",
+                "cardiovascular": "RRR (regular rate and rhythm), Normal S1, S2",
+                "pulmonary": "CTAB (clear to auscultation bilaterally), nonlabored breathing",
+                "abdominal": "Appropriately tender, incision sites c/d/i (clean, dry, intact) with steristrips, soft, nondistended",
+                "extremities": "No c/c/e (cyanosis, clubbing, or edema)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

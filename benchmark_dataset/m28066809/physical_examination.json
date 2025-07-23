@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4°F",
+                "heart_rate": "112 bpm",
+                "blood_pressure": "131/90 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "constitutional": "Uncomfortable",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm, Normal first and second heart sounds",
+                "abdominal": "Soft, tender to palpation in RUQ, no rebound tenderness, nondistended",
+                "gu_flank": "No costovertebral angle tenderness",
+                "extr_back": "No cyanosis, clubbing or edema",
+                "skin": "No rash, Warm and dry",
+                "neuro": "Speech fluent",
+                "psych": "Normal mood, Normal mentation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

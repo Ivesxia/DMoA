@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.3°F",
+                "heart_rate": "65 bpm",
+                "blood_pressure": "193/112 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "95%"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "cardiovascular": "RRR, No M/G/R",
+                "pulmonary": "Clear to auscultation b/l, No W/R/R",
+                "abdominal": "Soft, well healed lower midline and L-sided transverse surgical scars, distended, RUQ TTP, negative ___ sign. Normoactive bowel sounds, no palpable masses",
+                "DRE": "normal tone, no gross or occult blood",
+                "extremities": "No ___ edema, ___ warm, diminished pedal pulses"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

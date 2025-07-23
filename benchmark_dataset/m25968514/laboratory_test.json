@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Liver: 1.4 cm hypodense lesion at the liver dome, slightly increased compared to prior study, likely represents a cyst. Appendix is dilated and measures up to 9 mm with surrounding fat stranding consistent with ___.",
+            "changes_over_time": "Slightly increased compared to prior study."
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Coagulation Test",
+            "date": "Not specified",
+            "findings": "29.4 sec, reference range: 25.0 to 36.5 sec.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

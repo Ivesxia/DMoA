@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Marked gallbladder wall thickening to 1.6 cm, numerous gallstones within the gallbladder lumen, normal liver echogenicity without focal lesions, no hydronephrosis demonstrated in limited views of bilateral kidneys, normal caliber common bile duct measuring 4 mm, normal caliber aorta measuring 2.1 cm, normal hepatopetal flow within the main portal vein, normal spleen size measuring 8.7 cm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

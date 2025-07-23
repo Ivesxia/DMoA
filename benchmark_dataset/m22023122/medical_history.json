@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient presents with twelve hours of abdominal pain, beginning near the umbilicus and migrating to the right lower quadrant over the course of the day. She reports multiple bowel movements with one episode of diarrhea. No fevers, chills, or anorexia noted.",
+        "past_medical_history": "breast cancer s/p chemo and radiation; right lumpectomy s/p chemo/rads; right oophorectomy; knee operation",
+        "family_history": "breast cancer",
+        "social_history": "Not specified"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute onset abdominal pain.",
+        "history_of_present_illness": "The patient experienced acute abdominal pain this morning, after having an episode of diarrhea last night. He reports nausea and two episodes of vomiting, along with chills but no fever.",
+        "past_medical_history": "Anxiety, Depression.",
+        "family_history": "Not specified.",
+        "social_history": "Tobacco use."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver shows no evidence of focal lesions or textural abnormality. There is mild intrahepatic biliary dilitation vs. prominent intrahepatic ducts, unchanged in appearance from prior. The common bile duct measures 5 mm. The distal common bile duct was not visualized. Again seen is cholelithiasis. There is no gallbladder wall edema or pericholecystic fluid. However, the gallbladder was distended and the sonographic ___ sign is positive. The pancreatic head is unremarkable.",
+            "changes_over_time": "Unchanged in appearance from prior."
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

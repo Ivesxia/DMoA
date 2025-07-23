@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Liver has increased echogenicity, but without focal liver lesion. No intrahepatic biliary ductal dilatation. The gallbladder contains multiple mobile gallstones and is without distention, wall thickening or pericholecystic fluid. The common bile duct is not dilated measuring 4 mm. The pancreas is not well evaluated due to overlying bowel gas. The demonstrated portions of the aorta and inferior vena cava appear normal. Doppler assessment of the main portal vein shows patency and hepatopetal flow.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

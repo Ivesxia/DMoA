@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated with mural thickening and enhancement in addition to slight fat stranding near the tip. Findings are consistent with acute uncomplicated appendicitis. Other organs including liver, gallbladder, pancreas, spleen, adrenal glands, kidneys, stomach, small bowel, colon, prostate, seminal vesicles, and bladder appear within normal limits. Scattered subcentimeter retroperitoneal lymph nodes are probably reactive. There are no suspicious lytic or blastic bone lesions. There is mild spondylolisthesis of L5 on S1 associated with bilateral spondylolysis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lab Test",
+            "date": "Not specified",
+            "findings": "1.5 mmol/L (within normal range: 0.5 - 2.0)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

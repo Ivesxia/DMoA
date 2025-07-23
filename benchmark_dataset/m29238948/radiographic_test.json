@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Marked gallbladder wall thickening with hyperemic wall, multiple shadowing gallstones (one likely in the gallbladder neck), positive sonographic Murphy sign. Liver adjacent to the gallbladder fossa is hypoechoic, likely reactive/edema. No intra- or extra-hepatic biliary dilatation; common bile duct measures 0.4 cm. A 1.5 x 2.0 x 1.9 cm hyperechoic lesion in the right lobe of the liver with mild peripheral vascularity. No pancreatic ductal dilatation, a 2.6 x 1.7 x 2.1 cm hypoechoic structure in the right kidney likely representing a cyst. No hydronephrosis; kidneys and spleen within normal size ranges. No free fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

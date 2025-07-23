@@ -1,0 +1,24 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lungs": "Mild bibasilar atelectasis is symmetric. No pericardial or pleural effusion.",
+                "liver": "Homogenous attenuation throughout. No focal lesions or biliary dilatation. Gallbladder within normal limits.",
+                "pancreas": "Normal attenuation throughout. No focal lesions or pancreatic ductal dilatation. No peripancreatic stranding.",
+                "spleen": "Mildly enlarged, measuring up to 16 cm.",
+                "adrenals": "Normal in size and shape.",
+                "kidneys": "Normal and symmetric size with normal nephrogram. No focal renal lesions or hydronephrosis.",
+                "gastrointestinal": "Small hiatal hernia noted. Appendix dilated and fluid-filled, measuring 1.5 cm with peripheral stranding and mucosal hyperemia.",
+                "pelvis": "Urinary bladder unremarkable. No free fluid in the pelvis.",
+                "reproductive organs": "Unremarkable.",
+                "lymph nodes": "Scattered mesenteric nodes in right lower quadrant likely reactive. No pelvic or inguinal lymphadenopathy.",
+                "vascular": "No abdominal aortic aneurysm or atherosclerotic disease noted.",
+                "bones": "No evidence of worrisome osseous lesions or acute fracture.",
+                "soft tissues": "Abdominal and pelvic wall within normal limits."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "105/61 mmHg",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "98% on NC"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress, conversant and interactive.",
+                "HEENT": "Sclerae anicteric, mucous membranes moist.",
+                "CV": "Regular rate and rhythm, no audible murmurs.",
+                "pulm_chest": "Clear to auscultation bilaterally, breathing comfortably on room air.",
+                "abdominal": "Soft, mildly tender in the RUQ.",
+                "extremities": "No lower extremity edema, distal extremities warm and well-perfused."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

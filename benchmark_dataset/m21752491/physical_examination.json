@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "heart_rate": "117 bpm",
+                "blood_pressure": "117/78 mmHg",
+                "respiratory_rate": "17 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "in obvious pain",
+                "cardiovascular": "tachycardia, regular rhythm",
+                "pulmonary": "clear to auscultation bilaterally",
+                "abdominal": "soft, diffusely & exquisitely tender, non-distended, positive bowel sounds",
+                "extremities": "no cyanosis, clubbing, or edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

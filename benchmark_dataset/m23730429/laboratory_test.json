@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase noted to be 2829 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "AST/ALT",
+            "date": "Not specified",
+            "findings": "AST 439, ALT 273 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total Bilirubin",
+            "date": "Not specified",
+            "findings": "Total Bilirubin 1.2 (mild elevation)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal Radiograph",
+            "date": "Not specified",
+            "findings": "Prominent air-filled right colonic loop. No evidence of obstruction. No free air.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

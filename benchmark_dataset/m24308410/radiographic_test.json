@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan of abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Distended tip of appendix up to 12mm without fat stranding, distended gallbladder containing multiple stones with subtle fat stranding. Findings quoted as 'very limited' given body habitus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RUQ US",
+            "date": "Not specified",
+            "findings": "GB wall thickening to 4.2mm, multiple gallstones, CBD 4mm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Port-A-Cath tip residing in the low SVC or cavoatrial junction. Lung volumes are markedly low, with no overt evidence for pneumonia, CHF, large effusion or pneumothorax. Basilar atelectasis likely present.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

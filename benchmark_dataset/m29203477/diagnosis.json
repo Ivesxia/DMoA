@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "gallstone pancreatitis, cholangitis, choledocholithiasis, coagulopathy",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with a history of loose stools, fever, and abdominal pain. Elevated liver enzymes and bilirubin were noted, suggesting cholangitis. Ultrasound revealed cholelithiasis without cholecystitis. The patient's INR was also elevated, requiring vitamin K administration. The diagnosis was supported by clinical symptoms, lab findings, and imaging results."
+    }
+}

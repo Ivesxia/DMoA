@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "102.7°F",
+                "heart_rate": "105 bpm",
+                "blood_pressure": "126/56 mmHg",
+                "respiratory_rate": "17 breaths per minute",
+                "oxygen_saturation": "100% on RA"
+            },
+            "relevant_findings": {
+                "general": "awake, alert, oriented x 3, NAD",
+                "heent": "NCAT, EOMI, icteric sclera",
+                "heart": "RRR",
+                "lungs": "normal excursion, no respiratory distress",
+                "back": "no vertebral tenderness, no CVAT",
+                "abdomen": "soft, ND, moderate periumbilical tenderness, no RLQ tenderness, mild LLQ tenderness, no guarding/rebound",
+                "extremities": "WWP, no CCE, no tenderness",
+                "psychiatric": "normal judgment/insight, normal memory, normal mood/affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

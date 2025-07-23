@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Abrupt onset of abdominal pain starting the evening prior to presentation, lasting 18 hours. The patient reports one episode of vomiting without nausea or fevers/chills, and states this pain feels significantly different than her previous GERD symptoms.",
+        "past_medical_history": "History of GERD, HL, Hepatitis (unknown type), Narrow angle glaucoma",
+        "family_history": "Noncontributory. No malignancy.",
+        "social_history": "Not specified."
+    }
+}

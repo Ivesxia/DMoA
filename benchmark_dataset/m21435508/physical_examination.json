@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 99.0°F, Heart Rate: 102 bpm, Blood Pressure: 105/70 mmHg, Respiratory Rate: 18 breaths/min, Oxygen Saturation: 95% on Room Air",
+            "relevant_findings": "General: NAD, A&O x 3, Skin: Warm. HEENT: Non-icteric sclera, moist mucous membranes. Cardiovascular: Regular Rate and Rhythm. Pulmonary: No respiratory distress. Abdominal: Soft, non-distended; focal tenderness in RLQ with guarding, no rebound. Extremities: No cyanosis, clubbing, or edema.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

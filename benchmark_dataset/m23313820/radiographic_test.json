@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in echogenicity with no focal hepatic lesion. No intra- or extra-hepatic biliary dilatation. The common bile duct is normal, measuring up to 2 mm in diameter. The gallbladder is mildly distended with cholelithiasis, containing a large impacted gallstone measuring up to 1.5 cm, and a smaller mobile stone measuring 6 mm. The gallbladder wall is normal in thickness with no pericholecystic fluid. The spleen and limited evaluation of the kidneys are normal. The main portal vein is patent. The IVC is normal. Limited visualization of the pancreas due to overlying bowel gas.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

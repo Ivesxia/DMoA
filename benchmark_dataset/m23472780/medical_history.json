@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient experienced abdominal discomfort and fullness the previous night, which became painful early this morning around 6 am. The pain was initially generalized but migrated to the right lower quadrant. The patient reports nausea without vomiting, lightheadedness, and chills, denying fevers. Last bowel movement was yesterday, without diarrhea, and last flatus was also yesterday.",
+        "past_medical_history": "Syncopal episodes thought to be secondary to the flu and dehydration; past nasal sinus surgery; no history of abdominal surgery.",
+        "family_history": "Mother with ovarian cancer; father with hypertension and thyroid problems.",
+        "social_history": "Not specified."
+    }
+}

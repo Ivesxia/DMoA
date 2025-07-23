@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix appears fluid-filled, measuring up to 10 mm with minimal mucosal hyperemia and with mild periappendiceal fat stranding consistent with appendicitis. The visualized lung bases are clear, no focal consolidation or pleural effusion. The liver, gallbladder, spleen, pancreas, bilateral adrenal glands and bladder appear unremarkable. Both kidneys enhance and excrete contrast symmetrically without evidence of hydronephrosis or renal calculi. No free air or free fluid within the abdomen. Retroperitoneal and mesenteric lymph nodes do not meet CT size criteria for pathology.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

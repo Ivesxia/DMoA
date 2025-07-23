@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Dependent atelectases are present. The visualized lung bases are clear. No pleural effusion. The liver, gallbladder, spleen, and adrenal glands are normal. Hypodensities in the interpolar region of the right kidney are too small to characterize, may reflect a cyst. Hypodensity in the interpolar region of the left kidney is incompletely characterized. A partially duplex left renal collecting system is noted. Extensive diverticulosis of the sigmoid colon is present with a focal area of wall thickening involving a segment of the sigmoid colon measuring approximately 5 cm. Associated sigmoid inflammatory stranding and fluid along the perisigmoid fascia. Two tiny locules of air appear extraluminal, representing local microperforation. No drainable fluid collection or gross free air is identified. Small amount of fluid tracks along the right paracolic gutter, likely from redistribution. The appendix is normal in caliber without evidence of appendicitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

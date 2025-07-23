@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT PERITINEAL DRAIN EXCLUDING APPENDICEAL",
+            "date": "Not specified",
+            "findings": "Several fluid collections observed, the largest in the deep pelvis anterior to the rectum. Post-procedure CT showed marked interval collapse in the size of the collection, a moderate-sized hematoma in the right piriformis muscle measuring approximately 6.1 x 9.3 cm.",
+            "changes_over_time": "Post-procedure CT demonstrated no change in the size of the hematoma."
+        },
+        {
+            "procedure_name": "Fluid Aspiration & Analysis",
+            "date": "Not specified",
+            "findings": "1+ polymorphonuclear leukocytes (<1 per 1000X FIELD); no microorganisms seen.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

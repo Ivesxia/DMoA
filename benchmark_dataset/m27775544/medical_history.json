@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient developed abdominal pain 3 days ago, located in the bilateral lower quadrants. Over the past day, she has experienced semi-formed stools but not her normal bowel movements while continuing to have abdominal pain. She denies fever but reports chills and anorexia. She is primarily on a liquid diet.",
+        "past_medical_history": "1) Mild intermittent Asthma. No prior hx of intubation/hospitalization. 2) Osteoarthritis (OA). 3) Irritable Bowel Syndrome (IBS). 4) Hypertriglyceridemia. 5) Gastroesophageal reflux disease (GERD). 6) Idiopathic neuropathy. 7) History of gastrointestinal bleeding (GIB).",
+        "family_history": "Mother: colon cancer; Father: lung cancer; Sister: colon cancer; Sister: breast cancer.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "heart_rate": "75 bpm",
+                "blood_pressure": "124/67 mmHg",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "heent": "Normocephalic, atraumatic, Extraocular muscles intact",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm, Normal first and second heart sounds",
+                "abdominal": "Soft, Nontender",
+                "extremities_back": "No cyanosis, clubbing or edema, no focal TTP of the LUE",
+                "skin": "No rash, Warm and dry",
+                "neurological": "Speech fluent, MAEE",
+                "psych": "cooperative, Normal mood, Normal mentation",
+                "additional": "No petechiae"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

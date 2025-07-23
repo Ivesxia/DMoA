@@ -1,0 +1,17 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "79 bpm",
+                "blood_pressure": "125/62 mmHg",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "abdominal_exam": "Soft, distended, with tenderness in the RLQ"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

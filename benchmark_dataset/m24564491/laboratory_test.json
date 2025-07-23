@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The liver and spleen are normal. The adrenals and kidneys are normal. High signal intensity within the body of the pancreas and to a lesser extent the head. Heterogeneous enhancement of the pancreatic parenchyma with decreased enhancement in the body compared to the tail. Some heterogeneous enhancement noted in the head and uncinate process. Some free fluid noted in the right subhepatic space and in the paracolic gutters bilaterally. No significant lymphadenopathy. Normal appearance of the visualized bowel and gallbladder.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbial culture",
+            "date": "Not specified",
+            "findings": "Escherichia coli and Viridans streptococci were identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

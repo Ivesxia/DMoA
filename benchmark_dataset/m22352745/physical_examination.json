@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "heart_rate": "106 bpm",
+                "blood_pressure": "148/83 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "Vomiting, complaint of left abdominal pain",
+                "HEENT": "MM dry, EOMI",
+                "cardiovascular": "RRR, no murmur",
+                "respiratory": "CTAB",
+                "abdominal": "Soft, + BS, mild tenderness to palpation in LUQ and left flank, no rebound/guarding",
+                "extremities": "No edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

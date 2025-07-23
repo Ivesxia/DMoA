@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97°F",
+                "heart_rate": "71 bpm",
+                "blood_pressure": "143/104 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "AAOx3, NAD, morbidly obese",
+                "HEENT": "MMM, Anicteric",
+                "cardiovascular": "RRR",
+                "pulmonary": "Inspiratory wheezes bilateral",
+                "abdominal": "Soft, non-distended, TTP RUQ. Well healed RLQ and lower midline scars.",
+                "extremities": "No edema, palpable pulses."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

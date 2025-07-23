@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Afebrile",
+                "heart_rate": "Regular Rate and Rhythm (RRR)",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Breathing comfortably on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress (NAD), Alert and Oriented x3, pleasant, conversant",
+                "cardiovascular": "Regular Rate and Rhythm (RRR)",
+                "respiratory": "Breathing comfortably on room air",
+                "abdominal": "Soft, tender in the right lower quadrant (RLQ), no rebound or guarding",
+                "extremities": "Warm, well-perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

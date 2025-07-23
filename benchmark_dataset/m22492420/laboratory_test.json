@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is distended up to 1.4 cm thick with adjacent fatty stranding. No drainable collection or abscess. Small amount of free fluid in the pelvis. No focal liver lesion, intrahepatic or extrahepatic ductal dilation. Unremarkable findings in the lung bases, gallbladder, pancreas, spleen, kidneys, adrenals, and vascular structures. No pathologically enlarged nodes, and bladder is grossly unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "BIopsy",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "The lung volumes are very low. Moderate cardiomegaly with areas of atelectasis at both the left and the right lung bases. Minimal fluid overload is present. No larger pleural effusions. No pneumonia, no pneumothorax. Mild gastric overdistention.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The distal portion of the appendix is dilated up to 12 mm, demonstrates an appendicolith, and is fluid filled and surrounded by fat stranding. No retroperitoneal or mesenteric lymphadenopathy. A small amount of free fluid is noted in the pelvis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation Test",
+            "date": "Not specified",
+            "findings": "32.4 sec (within normal range: 25.0 - 36.5 sec).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Suggestion of mild diffuse fatty liver. The contour of the liver is smooth. No focal liver mass. The main portal vein is patent with hepatopetal flow. No ascites. No intrahepatic biliary dilation. The CHD measures 4 mm, and distal to this common bile duct measures 1.0 cm. There are stones and biliary sludge in the distended gallbladder with wall edema. The gallbladder wall thickening, edema, measuring 0.3 cm to 0.4 cm. There may be trace pericholecystic fluid. The pancreatic imaged portion appears within normal limits, without masses or pancreatic ductal dilation. Spleen normal echogenicity, measuring 12.6 cm. Kidneys normal size (right 12 cm, left 12 cm) with no hydronephrosis, stones, or masses.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

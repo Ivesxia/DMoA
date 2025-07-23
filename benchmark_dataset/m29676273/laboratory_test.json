@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level: 217 (elevated, normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "AST/ALT",
+            "date": "Not specified",
+            "findings": "AST: 247 (elevated), ALT: 68 (within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "Hematocrit: 33.0 (not specified if within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis",
+            "date": "Not specified",
+            "findings": "Diffusely hypodense liver indicating fatty infiltration, sludge in gallbladder, borderline splenomegaly (spleen measures 13.4 cm), no evidence of acute cholecystitis or biliary duct dilation, kidneys are normal, pancreas enhances homogeneously.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Salmonella and Shigella Test",
+            "date": "Not specified",
+            "findings": "No Salmonella or Shigella found.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

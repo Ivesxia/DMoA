@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Initial lactate of 6.5 with a subsequent decrease to 1.6 after 2L NS.",
+            "changes_over_time": "Decreased from 6.5 to 1.6."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Creatinine of 1.4, considered abnormal as it is above the normal range (1.4 - 1.8).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Leukocytosis",
+            "date": "Not specified",
+            "findings": "Leukocytosis with a count of 15.5.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic, contour smooth, no suspicious mass. Anechoic avascular fluid collection near gallbladder fossa measures 2.4 x 1.4 x 3.1 cm, reduced from 3.8 x 1.8 cm on prior examination. No ascites. Cholelithiasis without gallbladder distention.",
+            "changes_over_time": "Fluid collection decreased in size from 3.8 x 1.8 cm to 2.4 x 1.4 x 3.1 cm."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "1 cm cystic lesion in the uncinate process may represent an intraductal papillary mucinous neoplasm. Appendix is fluid-filled, enlarged measuring maximally 13 mm with hyperemic mucosa and wall edema. No bowel obstruction. No free fluid or pneumoperitoneum, no abscess seen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

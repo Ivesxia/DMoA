@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Examination for Abnormal Reaction",
+            "date": "Not specified",
+            "findings": "0.4 mg/dL (Reference range: 0.0 - 1.5 mg/dL), within normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ABDOMEN (SUPINE & ERECT)",
+            "date": "Not specified",
+            "findings": "The stomach is considerably less distended compared to a previous abdominal radiograph. There are multiple loops of dilated small bowel consistent with ileus, and small bowel obstruction cannot be completely ruled out. No evidence of free air. Surgical drain is in place in the right lower quadrant.",
+            "changes_over_time": "The stomach is considerably less distended than compared to the abdominal radiograph on a previous unspecified date."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hemoglobin and Hematocrit",
+            "date": "Not specified",
+            "findings": "Initial H/H was 9.6 and 33. On day of admission, H/H was 6.2/18.6 (rechecked 6.___/18.3).",
+            "changes_over_time": "Decreased H/H from 9.6 and 33 to 6.2/18.6, indicating acute blood loss."
+        },
+        {
+            "procedure_name": "INR",
+            "date": "Not specified",
+            "findings": "INR was 4.6.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Toxigenic C. difficile testing",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile by the Cepheid nucleic acid amplification assay (Reference Range-Negative).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver function tests",
+            "date": "Not specified",
+            "findings": "LFT's unremarkable.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

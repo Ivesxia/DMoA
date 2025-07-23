@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "General": "In NAD, appears younger than stated age",
+                "HEENT": "Normocephalic, mmm, EOMI, PERRL, no supraclavicular or submandibular LAD, no thyroid masses palpable",
+                "CV": "RRR, nl S1 and S2, no m/r/g, no JVD",
+                "Resp": "CTAB, good BS heard throughout",
+                "GI": "NT, ND, nl BS, no spider angiomata or caput medusae present",
+                "GU": "No CVAT, no tenderness w/ palpation of spine",
+                "Ext": "No peripheral edema, w/wp, 2+ ___ pulses palpated bilaterally, no palmar erythema",
+                "Neuro": "CN II-XII intact, ___ strength throughout UE and ___, sensation to fine-touch grossly intact, bilateral 2+ BR/biceps/triceps/patellar/ankle reflexes, FTN and finger-tapping intact, no asterixis present",
+                "Psych": "A/O x 3, mood depressed, affect appropriate"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "heart_rate": "139 bpm",
+                "blood_pressure": "133/85 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "Patient appears in NAD, but anxious. Appears stated age. Non-toxic appearing.",
+                "HEENT": "Normocephalic, atraumatic. PERRL. EOMI. Nares clear. Oropharynx with no notable lesions, plaques or exudates. Good dentition.",
+                "cardiac": "Regular rate and rhythm. No murmurs. S1 and S2 noted.",
+                "respiratory": "Demonstrates unlabored breathing. Clear to auscultation bilaterally.",
+                "abdominal": "Soft but with involuntary guarding, moderate tenderness in epigastrum and mildly tender in lower quadrants, distended with normoactive bowel sounds; no significant abdominal scars; no hepatosplenomegaly or palpable masses; non-peritoneal although has tap tenderness.",
+                "extremities": "Warm, well-perfused distally; no cyanosis, clubbing or peripheral edema.",
+                "dermatological": "Skin appears intact with no significant rashes or lesions. No ecchymosis or Gray Turner's.",
+                "neurological": "Alert and oriented. Normal bulk and tone. Motor and sensory function are grossly normal. Gait deferred."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

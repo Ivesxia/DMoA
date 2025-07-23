@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "96 bpm",
+                "blood_pressure": "159/65 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on RA"
+            },
+            "relevant_findings": {
+                "general_appearance": "uncomfortable appearing but does not appear toxic",
+                "HEENT": "ncat anicteric MMM",
+                "cardiovascular": "s1s2 rr no m/r/g",
+                "respiratory": "b/l ae no w/c/r",
+                "gastrointestinal": "+bs, soft, + epigastric tenderness ND, no guarding or rebound",
+                "musculoskeletal": "no c/c/e, 2+ pulses",
+                "skin": "hyperpigmented macular rash on lateral aspect of RLE",
+                "neurological": "face symmetric speech fluent",
+                "psychiatric": "calm, cooperative",
+                "lymphadenopathy": "No cervical LAD"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "100 bpm",
+                "blood_pressure": "137/67 mmHg",
+                "respiratory_rate": "15 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

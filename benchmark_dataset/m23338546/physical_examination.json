@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "120 bpm",
+                "temperature": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "AVSS Anicteric",
+                "oropharynx": "OP clear",
+                "neck": "supple, no bruits",
+                "chest": "CTA bilat w/o wheeze, rhonchi",
+                "cardiovascular": "RRR no MRG, nl PMI, nl S1, S2",
+                "abdominal": "(+) epigastric tenderness w/ voluntary guarding, (+) BS, no HSM/masses",
+                "extremities": "no edema",
+                "musculoskeletal": "no bruising, no bone pain",
+                "skin": "no rash",
+                "neurological": "(+) numbness bottom of bilat feet, otherwise normal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

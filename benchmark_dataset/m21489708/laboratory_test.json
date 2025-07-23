@@ -1,0 +1,72 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung_bases": {
+                    "description": "mild bibasilar atelectasis, otherwise clear",
+                    "no_nodules": true,
+                    "no_consolidation": true,
+                    "no_effusion": true
+                },
+                "abdomen": {
+                    "liver": {
+                        "shape": "normal",
+                        "lesions": "none",
+                        "biliary_dilation": "none"
+                    },
+                    "gallbladder": {
+                        "distension": "not distended",
+                        "appearance": "normal"
+                    },
+                    "spleen": "normal",
+                    "pancreas": "normal",
+                    "adrenal_glands": "normal",
+                    "medullary_calcifications": {
+                        "description": "multiple, consistent with medullary sponge kidney",
+                        "not_changed": true
+                    },
+                    "hydronephrosis": "none",
+                    "large_stone": "none",
+                    "focal_renal_masses": "none",
+                    "abdominal_vasculature": "normal caliber",
+                    "atherosclerotic_disease": "mild along the descending aorta and common iliac arteries"
+                },
+                "pelvis": {
+                    "large_bowel": "normal in course and caliber",
+                    "fecal_load": "normal",
+                    "appendix": {
+                        "size": "enlarged, measuring up to 12 mm",
+                        "condition": "air filled previously, now smaller tip with minimal surrounding stranding",
+                        "appendicolith": "none",
+                        "lymph_nodes": "prominent but not pathologically enlarged",
+                        "free_fluid": "trace",
+                        "free_air": "none",
+                        "perforation": "none"
+                    },
+                    "bladder": "unremarkable",
+                    "hysterectomy": "status post"
+                },
+                "osseous_structures": {
+                    "lytic_sclerotic_lesions": "none",
+                    "degenerative_changes": "noted in lower thoracic spine"
+                }
+            },
+            "changes_over_time": {
+                "appendix": {
+                    "description": "appeared air filled and normal on the prior exam, now enlarged"
+                },
+                "medullary_calcifications": "not significantly changed"
+            }
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": {
+                "culture_result": "NO GROWTH"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

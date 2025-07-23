@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Esophageal balloon",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Arterial catheterization",
+            "date": "Not specified",
+            "findings": "No significant growth.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Right-sided PICC line is in adequate position at the cavoatrial junction. The remaining of the exam is unchanged with low lung volumes. Feeding tube and right jugular line is in adequate position. There is no pneumothorax. Pleural effusions are small if any.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

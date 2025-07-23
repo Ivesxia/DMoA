@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "heart_rate": "175 bpm",
+                "blood_pressure": "175/94 mmHg",
+                "respiratory_rate": "22",
+                "pulse_oximetry": "100%"
+            },
+            "relevant_findings": {
+                "general": "Looks well; adequately hydrated",
+                "lungs": "Clear bilateral",
+                "heart": "Regular rate and rhythm; Systolic murmur",
+                "abdomen": "Soft; Nondistended; Umbilical hernia; No tenderness, guarding, or rebound",
+                "rectal": "Large prostate; Occult blood negative"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

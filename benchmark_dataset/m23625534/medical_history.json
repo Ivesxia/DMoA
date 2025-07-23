@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right upper quadrant (RUQ) pain",
+        "history_of_present_illness": "Patient presents with 1 day of RUQ pain that began after a steak and lobster roll lunch at 1pm yesterday, becoming severe at 10pm. She experienced nausea and vomiting around 11 pm, with 6 episodes of emesis. The pain has been constant in the RUQ, reported as severe at its worst and is non-radiating. No fevers, chills, chest pain, or shortness of breath reported.",
+        "past_medical_history": "Chronic systolic heart failure, coronary artery disease, hypertension, dyslipidemia, diabetes complicated by nephropathy, left bundle branch block, moderate mitral regurgitation.",
+        "family_history": "Brother died at age ___ from myocardial infarction. Father died suddenly in his ___ in ___ (unknown cause).",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Numerous gallstones within the gallbladder without signs of acute cholecystitis. Normal caliber biliary tree and pancreatic duct without filling defects. Mildly increased T2-weighted signal of the peripancreatic fat. Several tiny cystic lesions in the pancreas (up to 5 mm) with no enhancement, nodularity, or septation. Slight decrease in signal intensity of hepatic parenchyma consistent with fatty infiltration. Tiny simple cyst in the right hepatic lobe. Small bilateral pleural effusions, numerous bilateral parapelvic cysts, and a few small bilateral simple cortical renal cysts (largest 13 mm at right upper pole). Unremarkable spleen, adrenal glands, stomach, and small bowel. A 16-mm lipoma in the wall of the descending colon. Focal ectasia of the infrarenal aorta noted. Degenerative changes of the spine with no concerning focal bone marrow signal abnormality.",
+            "changes_over_time": "Focal ectasia of the infrarenal aorta is better seen on yesterday's CT examination when it was fully included in the field of view."
+        }
+    ]
+}

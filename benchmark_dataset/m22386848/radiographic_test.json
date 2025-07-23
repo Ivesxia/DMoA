@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT CHEST W/CONTRAST",
+            "date": "Not specified",
+            "findings": "There are trace bilateral pleural effusions with associated bibasilar atelectasis. There is no mediastinal or axillary adenopathy. There is a tiny focus of free air likely related to the recent surgery. Mild atherosclerotic calcifications noted in the aortic arch. Degenerative changes noted in the spine. There is a 0.5 cm hypoattenuating lesion in the right kidney, likely represents a cyst. Small fat-containing right inguinal hernia.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

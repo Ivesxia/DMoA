@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "acute right lower quadrant (RLQ) pain",
+        "history_of_present_illness": "The patient developed RLQ pain around 16:00 on ___, after feeling unwell earlier that day with symptoms including lack of appetite, slight nausea, and fatigue. She also experienced fevers the day before. The RLQ pain was ongoing at the time of admission and was accompanied by slight nausea, without associated nausea, vomiting, or changes in bowel movements. The patient reported never having abdominal pain like this before.",
+        "past_medical_history": "COPD, Hypertension, history of NSTEMI, history of pneumonia, non-obstructive coronary artery disease",
+        "family_history": "No family history of early myocardial infarction, arrhythmia, cardiomyopathies, or sudden cardiac death.",
+        "social_history": "Not specified"
+    }
+}

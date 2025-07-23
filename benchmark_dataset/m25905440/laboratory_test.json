@@ -1,0 +1,26 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Visualized lung fields are within normal limits. No evidence of pleural or pericardial effusion.",
+                "abdominal": {
+                    "hepatobiliary": "Liver demonstrates homogenous attenuation throughout. No evidence of focal lesions or biliary dilatation. Gallbladder normal.",
+                    "pancreas": "Normal attenuation throughout, no focal lesions or ductal dilatation.",
+                    "spleen": "Normal size and attenuation, punctate splenic calcification likely related to prior granulomatous inflammation.",
+                    "adrenals": "Normal size and shape.",
+                    "urinary": "Normal symmetric kidneys with no focal lesions or hydronephrosis.",
+                    "gastrointestinal": "Appendix fluid-filled and dilated, maximum diameter 1.0 cm, mild wall thickening, wall hyperemia, adjacent fat stranding, trace free fluid, small linear appendicoliths.",
+                    "pelvis": "Unremarkable urinary bladder and ureters, trace free fluid in pelvis.",
+                    "reproductive_organs": "Hypoattenuating probable posterior uterine fundus fibroid measuring approximately 1.7 x 1.4 cm.",
+                    "lymph_nodes": "No retroperitoneal or mesenteric lymphadenopathy.",
+                    "vascular": "No abdominal aortic aneurysm or atherosclerotic disease.",
+                    "bones": "No evidence of worrisome osseous lesions or acute fracture.",
+                    "soft_tissues": "Small fat-containing umbilical hernia."
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

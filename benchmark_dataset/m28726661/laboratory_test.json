@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is visualized, which appears dilated measuring approximately 9 mm in diameter. Its wall is hyperemic and the lumen is fluid filled. There is moderate periappendiceal fat stranding. Mild inflammatory changes along the base of the cecum are also noted. No abscess formation is seen. There is no extraluminal air.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood test",
+            "date": "Not specified",
+            "findings": "8.9 mg/dL (reference range: 8.4 - 10.3 mg/dL), within normal range.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

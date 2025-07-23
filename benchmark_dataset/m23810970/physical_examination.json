@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "blood_pressure": "160/70 mmHg",
+                "heart_rate": "81 bpm",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well appearing man laying in bed in no acute distress",
+                "HEENT": "Scleral icterus, extraocular movements intact",
+                "lungs": "Crackles at bilateral bases",
+                "cardiovascular": "Regular rate and rhythm, S1 S2 present",
+                "abdomen": "Soft, slightly tender on deep palpation of upper quadrant",
+                "genitourinary": "Scrotal edema, non-tender",
+                "extremities": "No edema",
+                "skin": "Jaundice, no rash",
+                "neurological": "Alert and oriented to person and place, not to time, inappropriate answers",
+                "psychological": "Pleasant and cooperative"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

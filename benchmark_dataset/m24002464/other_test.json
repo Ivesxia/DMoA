@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is visualized, measuring 6-7 mm with a portion that is fluid filled. The wall appears mildly thickened and hyperemic. No evidence of extraluminal air or drainable fluid collection.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

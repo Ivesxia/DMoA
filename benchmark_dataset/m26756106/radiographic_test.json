@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "A 1 cm left lower lobe pulmonary nodule; no evidence of pleural effusion or airspace consolidation; hepatic parenchyma within normal limits; few small subcentimeter gallstones near the gallbladder neck; mild inflammatory changes surrounding the pancreatic head; multiple bilateral renal cysts; extensive colonic diverticulosis; no enlarged lymph nodes; unremarkable vasculature; no aggressive bone lesions.",
+            "changes_over_time": "Follow-up with CT in 3 months for the left lower lobe pulmonary nodule."
+        }
+    ]
+}

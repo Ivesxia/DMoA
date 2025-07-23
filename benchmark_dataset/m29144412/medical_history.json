@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Shifting abdominal pain",
+        "history_of_present_illness": "The patient reported shifting abdominal pain since this morning, starting in the epigastric region and moving to the left lower quadrant (LLQ) and now constant and increasing in intensity since 7 AM. The pain is non-radiating. Nausea and vomiting have occurred for the past three days, with multiple non-bloody emesis episodes today. There has been no relief with bowel movement earlier today, nor with ondansetron or morphine.",
+        "past_medical_history": "Endometriosis, morbid obesity, pelvic inflammatory disease (PID) twice. No previous surgeries.",
+        "family_history": "Family history of diabetes. Mother died of perioperative blood clot, and there is a question of an uncle with a clot. Patient has not had a formal hypercoagulable workup.",
+        "social_history": "Occasional alcohol consumption (none in recent times), former smoker. Lives on campus as a student."
+    }
+}

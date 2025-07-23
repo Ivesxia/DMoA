@@ -1,0 +1,18 @@
+{
+    "medical_history": {
+        "chief_complaint": "Colicky epigastric and right upper quadrant (RUQ) pain associated with nausea.",
+        "history_of_present_illness": "Symptoms began approximately 4 days ago, resolving for a day, then resuming as constant, severe, sharp RUQ and epigastric pain on the morning of admission. The patient attempted to vomit but was unable. Reports of flatus; last bowel movement was the morning of admission. Denies fevers, chills, or diarrhea.",
+        "past_medical_history": [
+            "Hypercholesterolemia",
+            "Osteoarthritis",
+            "Right breast grade II ductal carcinoma in situ; status post biopsy and surgical excision",
+            "Cervical radiculopathy secondary to a herniated disk with foraminal narrowing at C4-C5 and C5-C6",
+            "Seasonal allergies",
+            "Hypertension",
+            "Hyperlipidemia",
+            "Type II Diabetes"
+        ],
+        "family_history": "Family history remarkable for two sisters with breast cancer, one sister with ___ disease diagnosed at the age of ___, another sister with a pacemaker placed at the age of ___. Mother with diabetes and hypertension. No history of myocardial infarctions or cerebrovascular accidents in the family.",
+        "social_history": "Not specified."
+    }
+}

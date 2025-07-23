@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Drainage of pancreatic collection",
+            "date": "Not specified",
+            "findings": "Positive drainage of pancreatic collections.",
+            "changes_over_time": "Upsizing of drain noted."
+        },
+        {
+            "procedure_name": "Laparoscopic pancreatic necrosectomy",
+            "date": "Not specified",
+            "findings": "Necrotizing pancreatitis confirmed.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Insertion of endotracheal tube",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "I&D of pancreatic fluid collection",
+            "date": "Not specified",
+            "findings": "Fluid collection identified and drained.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

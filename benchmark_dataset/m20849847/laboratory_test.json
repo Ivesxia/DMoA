@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Cr 2.4, baseline creatinine 2.0-2.1",
+            "changes_over_time": "Rising creatinine levels from baseline of 2.0-2.1 to 2.4."
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 1250",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "UA negative",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is normal in shape and contour, with normal echogenicity. No focal hepatic lesions. The main portal vein is patent. No intra- or extra-hepatic biliary duct dilation. The common bile duct measures 4 mm. The gallbladder is normal without wall edema or pericholecystic fluid. No cholelithiasis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

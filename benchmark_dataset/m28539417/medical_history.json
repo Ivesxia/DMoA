@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Back pain, chest pain, and epigastric pain.",
+        "history_of_present_illness": "Symptoms began 1 day prior to admission, starting with back pain, chest pain, and epigastric pain in the afternoon. The patient experienced nausea and vomiting after dinner, with the epigastric pain radiating to the back. Initial EKG showed possible ST depressions in specific leads, but repeat EKG showed no apparent changes.",
+        "past_medical_history": "Obesity, achilles tendon rupture ___ years ago.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

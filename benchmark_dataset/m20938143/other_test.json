@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Percutaneous Cholecystostomy",
+            "date": "Not specified",
+            "findings": "Presence of shadowing stones measuring up to 2.4 cm lodged in the neck of the gallbladder, mild intrahepatic biliary dilation, and mild pericholecystic fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound - Liver or Gallbladder",
+            "date": "Not specified",
+            "findings": "Hepatic parenchyma within normal limits, smooth liver contour, no focal liver mass, patent main portal vein, no ascites, distended gallbladder without wall thickening, and normal pancreas.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

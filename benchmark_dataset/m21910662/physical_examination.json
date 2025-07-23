@@ -1,0 +1,48 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "blood_pressure": "120/64 mmHg",
+                "heart_rate": "66 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, no acute distress",
+                "HEENT": "Sclera anicteric, MMM, oropharynx clear",
+                "neck": "Supple, JVP not elevated, no LAD",
+                "lungs": "Clear to auscultation bilaterally, no wheezes, rales, ronchi",
+                "cardiovascular": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+                "abdomen": "Tenderness to palpation along right flank and RLQ, no rebound tenderness or guarding, no organomegaly, +BS",
+                "extremities": "Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "blood_pressure": "135/93 mmHg",
+                "heart_rate": "63 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "94% RA"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Vitals on transfer indicated a decrease in temperature and heart rate, as well as adjustments in blood pressure and respiratory rate."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "blood_pressure": "106/70 mmHg",
+                "heart_rate": "64 bpm",
+                "respiratory_rate": "15 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

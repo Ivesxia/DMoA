@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Yeast Culture",
+            "date": "Not specified",
+            "findings": "YEAST detected.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray (Portable AP)",
+            "date": "Not specified",
+            "findings": "Crescentic lucency underlying the left hemidiaphragm, bibasilar linear atelectasis, trace left pleural effusion, no focal consolidation, pulmonary edema, or pneumothorax.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

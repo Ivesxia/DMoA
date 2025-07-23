@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver displays normal echogenic pattern and architecture without focal mass lesion identified within. There is no intrahepatic biliary ductal dilatation. The common duct size measures maximum dimension of 6 mm, which is upper limits of normal as before. The gallbladder is mildly dilated, which is nonspecific and can be compatible with a fasting state. Numerous shadowing gallstones are again demonstrated within the gallbladder lumen. No gallbladder wall edema or pericholecystic fluid is identified. Real-time scanning by the radiology resident demonstrates diffuse mid and right upper quadrant abdominal pain.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "1.5 ug/mL (reference range: 5.0 - 10.0 ug/mL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

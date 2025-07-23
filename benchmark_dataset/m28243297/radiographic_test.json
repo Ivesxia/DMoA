@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "LIVER": {
+                    "echogenicity": "diffusely echogenic",
+                    "contour": "smooth",
+                    "focal_mass": "no focal liver mass",
+                    "portal_vein": "patent with hepatopetal flow",
+                    "ascites": "no ascites"
+                },
+                "BILE DUCTS": {
+                    "intrahepatic_dilation": "no intrahepatic biliary dilation",
+                    "CBD_size": "5 mm"
+                },
+                "GALLBLADDER": {
+                    "distention": "mildly distended",
+                    "gallstones": "multiple gallstones",
+                    "wall_thickness": "markedly thickened measuring up to 1.2 cm",
+                    "hyperemia": "minimal associated hyperemia",
+                    "pericholecystic_fluid": "no sulci pericholecystic fluid",
+                    "sonographic_sign": "positive Sonographic ___ sign"
+                },
+                "PANCREAS": {
+                    "appearance": "within normal limits",
+                    "ductal_dilation": "no pancreatic ductal dilation",
+                    "obscuration": "portions of the pancreatic tail obscured by overlying bowel gas"
+                },
+                "SPLEEN": {
+                    "echogenicity": "normal echogenicity",
+                    "size": "0.6 cm"
+                },
+                "KIDNEYS": {
+                    "echogenicity": "cortical echogenicity and corticomedullary differentiation",
+                    "masses_stones_hydronephrosis": "no evidence of masses, stones, or hydronephrosis"
+                },
+                "RETROPERITONEUM": {
+                    "aorta_IVC": "visualized portions of aorta and IVC are within normal limits"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

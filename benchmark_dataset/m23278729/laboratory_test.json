@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "PCR for Neisseria Gonorrhoeae",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria Gonorrhoeae by PCR.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is fluid filled, hyperemic and distended measuring up to 7 mm, findings concerning for early appendicitis. The rest of the abdominal organs show no significant abnormalities.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2°F",
+                "heart_rate": "89 bpm",
+                "blood_pressure": "86/51 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "94%"
+            },
+            "relevant_findings": {
+                "general": "Patient is comfortable.",
+                "HEENT": "Normocephalic, atraumatic; oropharynx within normal limits.",
+                "abdominal": "Soft, mild tenderness.",
+                "extremities_back": "No cyanosis, clubbing or edema.",
+                "skin": "No rash.",
+                "neurological": "Speech fluent.",
+                "psychological": "Normal mood.",
+                "other": "No petechiae."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT PELVIS W&W/O C",
+            "date": "Not specified",
+            "findings": "Numerous diverticula of the sigmoid colon with bowel wall thickening. A left pelvic fluid collection previously measured 3 cm has almost resolved, now a tiny residual fluid focus of 1.1 cm is present at the prior fluid collection site. Trace fluid in the pelvis is unchanged.",
+            "changes_over_time": "A left pelvic fluid collection that had previously measured 3 cm has almost resolved since the prior exam."
+        },
+        {
+            "procedure_name": "Culture test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

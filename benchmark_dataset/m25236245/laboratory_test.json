@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "New pneumoperitoneum with likely moderate sigmoid ____; multiple liver and renal cysts are noted bilaterally. Largest lesion in liver measures 5.2 x 7.5 cm. No hydronephrosis or hydroureter. Small amount of fluid seen tracking anteriorly along the mesentery suggesting site of perforation.",
+            "changes_over_time": "The largest lesion in the liver has decreased in size from 5.4 x 7.6 cm to 5.2 x 7.5 cm."
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

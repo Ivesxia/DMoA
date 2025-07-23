@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver demonstrates homogenous attenuation with mild periportal edema. No focal lesions or biliary dilatation. Gallbladder within normal limits. Pancreas normal without focal lesions. Spleen normal. Adrenal glands normal. Kidneys normal in size with no lesions or hydronephrosis. Small bowel and colon within normal limits. The retrocecal appendix is dilated and fluid-filled measuring 1.3 cm with mucosal hyperenhancement and adjacent fat stranding. Minimal fluid around the appendiceal tip. Small volume nonhemorrhagic free fluid in the pelvis. A 1.6 x 1.6 cm cystic lesion in the right adnexa consistent with a physiologic follicular cyst. No lymphadenopathy or vascular abnormalities noted. No significant bony lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

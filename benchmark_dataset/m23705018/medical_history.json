@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient presents with abdominal pain that began 2 weeks ago, worsening with laying down. The pain is described as mild epigastric pain, non-radiating, and the patient reports no nausea currently.",
+        "past_medical_history": "History of cholecystectomy 2 weeks ago.",
+        "family_history": "Father and paternal grandfather with coronary artery disease; grandmother with diabetes.",
+        "social_history": "Not specified."
+    }
+}

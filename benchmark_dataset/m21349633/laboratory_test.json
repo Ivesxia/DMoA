@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Periportal edema is present which can be seen in the setting of fluid resuscitation. The liver is otherwise unremarkable. Trace pericholecystic fluid is likely due to third spacing. The appendix is dilated to 15 mm with hyperemic wall, surrounding fat stranding, and small amount of free fluid. Focal irregularities of the wall of the appendix could suggest early perforation, although no pneumoperitoneum or pneumatosis is appreciated. There is trace fluid in the pelvis. No enlarged lymph nodes or aggressive osseous lesions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood test",
+            "date": "Not specified",
+            "findings": "9.1 mg/dL (mixed bacterial flora, >= 3 colony types, consistent with skin and/or genital contamination).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

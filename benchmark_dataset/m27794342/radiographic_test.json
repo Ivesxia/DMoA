@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Minimal dependent atelectatic changes in the visualized lung bases, no pleural or pericardial effusion, small hiatal hernia, normal liver, gallbladder, spleen, pancreas, adrenal glands, left kidney, both ureters, tiny 3 mm hypodensity in the lower pole of the right kidney likely represents a tiny cyst, unremarkable stomach, small bowel, and colon, no free air or free fluid within the abdomen, no lymph node enlargement meeting criteria for adenopathy, normal caliber abdominal aorta. In the right lower quadrant, there is evidence of appendicitis with an appendicolith located at the neck of the appendix and dilation of the appendix to 14 mm, periappendiceal stranding with adjacent 8-mm lymph node, no drainable fluid collection or free air within the pelvis, normal terminal ileum, normal urinary bladder, prostate with coarse calcifications, calcification along the vas deferens.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

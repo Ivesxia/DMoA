@@ -1,0 +1,49 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2°F",
+                "heart_rate": "60 bpm",
+                "blood_pressure": "135/91 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, no acute distress",
+                "HEENT": "Sclera anicteric, MMM, oropharynx clear",
+                "neck": "Supple, no cervical LAD",
+                "lungs": "Clear to auscultation bilaterally, no wheezes, rales, rhonchi",
+                "cardiovascular": "S1, S2, no murmurs, rubs, gallops",
+                "abdomen": "Soft, tender to palpation in epigastric and RUQ, non-distended, bowel sounds present, no rebound tenderness or guarding",
+                "extremities": "Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema",
+                "neurological": "CNs intact, motor function grossly normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "heart_rate": "64 bpm",
+                "blood_pressure": "142/92 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": "In the morning, pain was worse and epigastric tenderness was worse.",
+            "changes_over_time": "Pain reported as sharper and crampy, worsening after eating dinner prior to ED visit."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "70 bpm",
+                "blood_pressure": "138/91 mmHg",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": "Patient is resting comfortably in bed. Reports relief of pain with Tylenol and compazine.",
+            "changes_over_time": "Appetite improvement noted, willingness to try crackers or bread."
+        }
+    ]
+}

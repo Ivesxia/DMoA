@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood tests for biochemical analysis",
+            "date": "Not specified",
+            "findings": "1.6 mmol/L (within normal range: 0.5 - 2.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix dilated to 12 mm, contains fluid and air, as well as a 5-mm appendicolith. Appendix wall is mildly hyperenhancing.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

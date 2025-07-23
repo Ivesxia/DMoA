@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "A 9mm diameter blind-ending, tubular structure in the right lower quadrant corresponds to an abnormal appendix. The patient was focally tender over the noncompressible appendix. Doppler ultrasound demonstrates hyperemia in the appendix wall. There was no adjacent fluid collection.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

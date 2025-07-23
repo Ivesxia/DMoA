@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "89 bpm",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Patient appears very anxious, alert and oriented times three (A&O x 3).",
+                "abdomen": "Soft, nondistended, hyperactive bowel sounds, mild right lower quadrant (RLQ) tenderness to deep palpation without rebound or guarding.",
+                "pelvic_exam": "Nontender adnexa.",
+                "rectal_exam": "No gross blood."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

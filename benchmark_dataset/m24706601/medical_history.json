@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Nausea and vomiting with abdominal pain",
+        "history_of_present_illness": "Symptoms began three days prior to admission, with worsening abdominal pain correlated with increased retching. The patient has been dry heaving since arrival to the floor. Symptoms developed following last alcohol intake yesterday morning.",
+        "past_medical_history": "Alcohol dependence/abuse, history of aspiration pneumonia, seizures during alcohol withdrawal, asthma, left inferior orbital floor fracture status post repair.",
+        "family_history": "Mother with lung cancer.",
+        "social_history": "Lives on the street, usually staying at a shelter at night."
+    }
+}

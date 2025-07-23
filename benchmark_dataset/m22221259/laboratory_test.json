@@ -1,0 +1,51 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound - LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "echogenicity": "diffusely echogenic",
+                    "fatty_infiltration": "consistent with fatty infiltration",
+                    "focal_fat_sparing": "areas of focal fat sparing, particularly around the gallbladder fossa",
+                    "contour": "smooth",
+                    "focal_liver_mass": "No focal liver mass",
+                    "portal_vein": "main portal vein is patent with hepatopetal flow",
+                    "ascites": "No ascites"
+                },
+                "bile_ducts": {
+                    "dilation": "No intrahepatic biliary dilation",
+                    "CBD_measured": "3.4 mm"
+                },
+                "gallbladder": {
+                    "echogenic_sludge": "large amount of echogenic sludge within the slightly distended gallbladder",
+                    "wall_thickness": "thickened measuring up to 7 mm",
+                    "pericholecystic_fluid": "No pericholecystic fluid"
+                },
+                "pancreas": {
+                    "findings": "Imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation"
+                },
+                "kidneys": {
+                    "right_kidney_measured": "11.9 cm"
+                },
+                "retroperitoneum": {
+                    "findings": "Visualized portions of aorta and IVC are within normal limits"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": {
+                "value": "9.1 mg/dL",
+                "ref_range": {
+                    "lower": "8.4 mg/dL",
+                    "upper": "10.3 mg/dL"
+                },
+                "within_normal_range": "Yes"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

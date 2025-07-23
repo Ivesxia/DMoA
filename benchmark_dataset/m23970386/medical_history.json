@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain associated with nausea and vomiting.",
+        "history_of_present_illness": "The patient has experienced epigastric/subxiphoid pain, nausea, and vomiting daily for an unspecified duration. The pain has been severe, up to unspecified intensity and sometimes burning in nature. Two weeks prior, the patient had significant bloating. Nausea, vomiting, pain, and diarrhea persisted over the week before presentation, after being diagnosed with gastroenteritis two days prior and sent home. The patient could not tolerate oral intake, tried a cracker and subsequently had another episode of diarrhea and vomiting.",
+        "past_medical_history": "Depression, anxiety, irritable bowel syndrome (IBS), nephrolithiasis.",
+        "family_history": "Father has hyperlipidemia (HLD), grandmother has IBS and diverticulitis status post resection.",
+        "social_history": "Patient denies excessive alcohol use."
+    }
+}

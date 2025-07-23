@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver demonstrates homogenous attenuation throughout with no evidence of focal lesions or biliary dilatation. There is a persistent cholecystoduodenal fistula and the gallbladder contains gas and multiple gallstones. The pancreas, spleen, and adrenal glands are normal with no focal lesions. Trace air in the urinary bladder suggests recent instrumentation. There is no free fluid in the pelvis and no evidence of retroperitoneal or mesenteric lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

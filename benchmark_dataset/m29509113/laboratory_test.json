@@ -1,0 +1,10 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C. difficile PCR",
+            "date": "Not specified",
+            "findings": "NEGATIVE. (Reference Range-Negative). The C. difficile PCR is highly sensitive for toxigenic strains of C. difficile and detects both C. difficile infection (CDI) and asymptomatic carriage. A negative C. diff PCR test indicates a low likelihood of CDI or carriage.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

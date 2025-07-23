@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 101°F; O2 Saturation: 91% on room air.",
+            "relevant_findings": "General: Alert and oriented times three, obese body habitus. HEENT: Normocephalic/atraumatic. Cardiovascular: Regular rate and rhythm. Pulmonary: Clear to auscultation bilaterally. Abdomen: Soft, tender around tube site. Percutaneous tube with dressing securely in place draining blood-tinged serous fluid. Extremities: +2 pulses bilaterally.",
+            "changes_over_time": "Gallbladder wall thickening up to 8 mm is new since previous examination."
+        }
+    ]
+}

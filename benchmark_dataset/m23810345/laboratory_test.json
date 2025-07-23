@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The rectum and sigmoid are normal. The uterus and adnexa are unremarkable. There is a left ovarian enhancing adnexal cystic lesion, compatible with a corpus luteum. An IUD is in standard position within the uterine fundus. Distal ureters and bladder are normal. There is trace free fluid in the pelvis. There is no adenopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test Result",
+            "date": "Not specified",
+            "findings": "12.0 mg/dL (Reference Range: 6.0 - 20.0 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

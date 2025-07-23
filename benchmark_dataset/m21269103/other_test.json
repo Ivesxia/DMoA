@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "CBD obstruction, elevated LFTs (ALT 249, AST 189) and elevated bilirubin (tbili 2.6, dbili 1.4).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RUQ ultrasound",
+            "date": "Not specified",
+            "findings": "RUQ fullness felt, mild TTP palpation in RUQ, no rebound/guarding.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endoscopic sphincterotomy and papillotomy",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

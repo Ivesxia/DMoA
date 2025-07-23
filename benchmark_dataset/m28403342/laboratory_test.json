@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 379 (elevated).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ABG",
+            "date": "Not specified",
+            "findings": "7.16/95/105/36 (acidosis).",
+            "changes_over_time": "Worsened from initial ABG to 7.16."
+        },
+        {
+            "procedure_name": "Gram stain",
+            "date": "Not specified",
+            "findings": ">25 PMNs and >10 epithelial cells/100X field. Indicated extensive contamination with upper respiratory secretions.",
+            "changes_over_time": "Bacterial culture results are invalid; suggested submitting another specimen."
+        },
+        {
+            "procedure_name": "Abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "Liver shows normal echotexture, no focal lesions, portal venous flow is hepatopetal, CBD measures 3 mm, pancreas not well visualized, kidneys normal size with a 4mm hyperechoic focus in the left kidney likely representing a small angiomyolipoma, no free fluid in the abdomen.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

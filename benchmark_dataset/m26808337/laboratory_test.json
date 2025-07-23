@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase of nearly ___ (exact value not provided).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS W & W/O CONTRAST, ADDL SECTIONS",
+            "date": "Not specified",
+            "findings": "Unchanged 4-mm left lower lobe nodule, normal liver, several hypodensities likely simple cysts, mild central biliary ductal dilatation, distended gallbladder with slight pericholecystic fluid, common bile duct not dilated at 8 mm, atrophic pancreas with minimal peripancreatic stranding, patent portal, hepatic veins and splenic vein, unremarkable spleen and adrenal glands, kidneys enhance and excrete contrast symmetrically, unremarkable stomach and bowel, post-surgical changes noted in the rectum, no free air or fluid, and no adenopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood glucose",
+            "date": "Not specified",
+            "findings": "9.6 mg/dL (normal range 8.4-10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

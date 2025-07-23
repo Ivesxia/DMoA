@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver echotexture is normal. There are no focal hepatic lesions. The gallbladder is mildly distended with several multiple stones visible. The patient has a positive sonographic Murphy's sign. There is no overt gallbladder wall thickening or pericholecystic fluid. The common bile duct measures 5-7 mm, which is top normal. There is no intra- or extra-hepatic biliary dilatation. The spleen is mildly enlarged at 13 cm. The main portal vein is patent.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lab culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PT/INR Test",
+            "date": "Not specified",
+            "findings": "27.6 sec, within reference range (22.0 - 35.0 sec).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

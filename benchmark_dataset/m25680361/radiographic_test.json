@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "The distal tip of right PICC projects in the mid SVC. There has been interval removal of the endotracheal tube and NG tube. The remainder of the study including the position of the AICD leads and the cardiopulmonary status appear unchanged.",
+            "changes_over_time": "Interval removal of the endotracheal tube and NG tube; otherwise unchanged."
+        }
+    ]
+}

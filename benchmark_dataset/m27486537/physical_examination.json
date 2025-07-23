@@ -1,0 +1,43 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "92 bpm",
+                "blood_pressure": "119/80 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "abdominal_examination": "RLQ tenderness, rectal guaiac negative",
+                "laboratory_results": {
+                    "wbc": "7",
+                    "hct": "39"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "heart_rate": "62 bpm",
+                "blood_pressure": "110/60 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "O2_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "Uncomfortable, non-toxic",
+                "HEENT": "Sclerae anicteric, mucous membranes dry",
+                "neck": "No JVD, no cervical lymphadenopathy",
+                "chest": "Clear to auscultation bilaterally",
+                "cardiovascular": "Normal S1/S2, RRR, no murmurs appreciated",
+                "abdominal": "Soft, TTP in RLQ, no rebound/guarding, nondistended, with hyperactive bowel sounds",
+                "extremities": "No edema, 2+ DP pulses bilaterally",
+                "neurological": "Alert and oriented x 3",
+                "skin": "No rash"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

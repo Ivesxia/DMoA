@@ -1,0 +1,40 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "intravenous immunoglobulin",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "2g/kg body weight divided over five days",
+      "treatment_response": "Despite treatment, symptoms persisted and insidiously progressed."
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2021-01-01",  // Approximation based on the 1.5 years of dizziness prior to the presentation
+      "event": "Patient began experiencing dizziness, initially rotatory and episodic."
+    },
+    {
+      "date": "2023-08-01", // Approximation of three months prior to follow-up presentation
+      "event": "Patient developed additional slowness of activity, affecting daily tasks."
+    },
+    {
+      "date": "Not specified",
+      "event": "Patient evaluated by an otolaryngologist and started on labyrinthine sedatives."
+    },
+    {
+      "date": "Not specified",
+      "event": "Lumbar puncture revealed elevated protein levels, no cells, and normal glucose."
+    },
+    {
+      "date": "Not specified",
+      "event": "Patient treated with intravenous immunoglobulin for symptoms."
+    },
+    {
+      "date": "Not specified",
+      "event": "BVP (bilateral vestibulopathy) confirmed with reduced caloric response bilaterally."
+    }
+  ]
+}
+```

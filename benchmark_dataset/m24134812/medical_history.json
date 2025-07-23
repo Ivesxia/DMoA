@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute onset abdominal pain",
+        "history_of_present_illness": "The patient experienced acute onset abdominal pain starting on an unspecified date, which has persisted consistently. She was febrile on an unspecified date but has not been febrile since, and has experienced some nausea throughout. Previous episodes of biliary colic have been self-limited.",
+        "past_medical_history": "Hepatitis C, Hypertension (HTN), Hyperlipidemia (HL), Cholelithiasis, Gastroesophageal Reflux Disease (GERD), Obesity",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

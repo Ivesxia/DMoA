@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver function test (LFTs)",
+            "date": "Not specified",
+            "findings": "Elevated LFTs",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase test",
+            "date": "Not specified",
+            "findings": "Elevated lipase",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Gallbladder wall thickening, pericholecystic fluid, cholelithiasis, CBD 6mm",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray (CHEST (PRE-OP PA & LAT))",
+            "date": "Not specified",
+            "findings": "Small bilateral pleural effusions, bibasilar opacities likely reflecting atelectasis, stable moderate enlargement of cardiac silhouette, tortuosity of the thoracic aorta",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute appendicitis",
+        "differential_diagnosis": "Acute uncomplicated diverticulitis",
+        "diagnostic_reasoning": "The patient's symptoms included 48 hours of abdominal pain localized to the right lower quadrant (RLQ), associated with nausea but no vomiting or fever. A CT scan revealed an enlarged and edematous appendix with wall thickening and associated fat stranding, consistent with acute appendicitis, while also showing findings of acute uncomplicated diverticulitis, which was considered but ultimately ruled out in favor of appendicitis as the primary diagnosis."
+    }
+}

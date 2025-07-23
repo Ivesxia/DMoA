@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "blood_pressure": "140/85 mmHg",
+                "heart_rate": "78 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on RA"
+            },
+            "relevant_findings": {
+                "general": "NAD",
+                "HEENT": "AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, MMM, good dentition",
+                "cardiac": "RRR, S1/S2, no murmurs, gallops, or rubs",
+                "lung": "CTAB, no wheezes, rales, rhonchi, breathing comfortably without use of accessory muscles",
+                "abdomen": "Obese, Nondistended, +BS, TTP in the epigastric region, no rebound/guarding, no appreciated hepatosplenomegaly",
+                "extremities": "Moving all extremities well, no cyanosis, clubbing or edema",
+                "back": "No TPP over the spinous processes in the thoracic and lumbar spine",
+                "pulses": "2+ DP pulses bilaterally",
+                "neuro": "CN II-XII intact; strength in the UE and LE bilaterally",
+                "skin": "Warm and well perfused, no excoriations or lesions, no rashes"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "blood_pressure": "136/89 mmHg",
+                "heart_rate": "84 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": "Significant lab values include lipase 740, AST 227, ALT 153, Alk Phos 330, INR 1.2. CBC notable for left shift.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

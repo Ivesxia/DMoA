@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "blood_pressure": "182/99 mmHg",
+                "heart_rate": "84 bpm",
+                "respiratory_rate": "18 bpm",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "Appears uncomfortable.",
+                "heent": "NC/AT, PERRL, EOMI, sclerae anicteric, MMM, OP clear.",
+                "lungs": "CTA bilat, with some bronchial breath sounds at the bases, R>L.",
+                "heart": "PMI non-displaced, RRR, no MRG, nl S1-S2.",
+                "abdomen": "Hypoactive BS, soft, TTP in epigastrium, mildly distended. No rebound.",
+                "extremities": "WWP, no c/c/e, 2+ peripheral pulses (radials, DPs).",
+                "skin": "No rashes or lesions.",
+                "neuro": "Slight tremor in hands. Awake, A&Ox3, CNs II-XII grossly intact, no focal deficits."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

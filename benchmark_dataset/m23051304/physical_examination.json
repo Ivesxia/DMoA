@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "95/52 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "General": "Alert, oriented, no acute distress",
+                "HEENT": "Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL, neck supple, JVP not elevated, no LAD",
+                "CV": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+                "Lungs": "Clear to auscultation bilaterally, no wheezes, rales, rhonchi",
+                "Abdomen": "Soft, non-tender, midline scar, non-distended, bowel sounds present, no organomegaly, no rebound or guarding, negative ___ sign",
+                "GU": "No foley",
+                "Ext": "Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema",
+                "Neuro": "CNII-XII intact, ___ strength upper/lower extremities, grossly normal sensation, 2+ reflexes bilaterally, gait deferred"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

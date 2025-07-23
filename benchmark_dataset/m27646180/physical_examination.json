@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8 F",
+                "heart_rate": "91 bpm",
+                "blood_pressure": "134/71 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and oriented x3",
+                "cardiovascular": "Regular rate and rhythm, S1 and S2 audible",
+                "pulmonary": "No respiratory distress",
+                "abdominal": "Soft, tenderness to palpation in right lower quadrant, positive Rovsing's sign, positive psoas sign, negative obturator sign"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lab Test for 1.7 mg/dL",
+            "date": "Not specified",
+            "findings": "1.7 mg/dL (within normal range of 1.6 - 2.6).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound (US ABD LIMIT, SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "No ascites identified. No discrete fluid collection is identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

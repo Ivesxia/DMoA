@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.4",
+                "blood_pressure": "134/56",
+                "heart_rate": "74",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "94% RA"
+            },
+            "relevant_findings": {
+                "General": "Well formed, well appearing women in no acute distress",
+                "HEENT": "Anciteric sclera, oropharynx clear",
+                "Neck": "Supple, without LAD",
+                "Lungs": "Clear to auscultation bilaterally with crackles or wheezes",
+                "CV": "Regular rate and rhythm, no M/G/R",
+                "Abdomen": "Soft, non-distended, appropriately tender around the incision sites, abdominal incisions c/d/i without extensive findings"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

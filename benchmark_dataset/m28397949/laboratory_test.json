@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "Initial WBC count was 13 (elevated).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Findings consistent with cholecystitis: GB wall thickening (4mm), gallstones, negative pericholecystic fluid.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Small left pleural effusion with overlying atelectasis. Patchy left base retrocardiac opacity may relate to effusion and atelectasis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

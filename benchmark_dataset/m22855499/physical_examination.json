@@ -1,0 +1,48 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8 °F",
+                "heart_rate": "83 bpm",
+                "blood_pressure": "MAP 60",
+                "respiratory_rate": "17 breaths/min",
+                "oxygen_saturation": "91%"
+            },
+            "relevant_findings": {
+                "general": "Well appearing male, contracted left upper extremity, NAD, eyes closed for much of interview.",
+                "heent": "EOMI, PERRLA",
+                "neck": "Supple. JVP not visualized.",
+                "cardiac": "VAD hum heard throughout the precordium.",
+                "lungs": "CTAB.",
+                "abdomen": "No erythema, warmth, or redness at site of driveline. Soft, distended, nontender.",
+                "extremities": "WWP, no edema in either leg.",
+                "neuro": "MS WNL. CNs intact. Left UE contracted.",
+                "skin": "No significant skin lesions or rashes.",
+                "pulses": "Distal pulses palpable and symmetric."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9 °F",
+                "heart_rate": "52-65 bpm",
+                "blood_pressure": "MAPs 64-84",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": {
+                "general": "Comfortable, in NAD.",
+                "heent": "NC/AT, PERRL, EOMI",
+                "neck": "Supple, no appreciable JVD",
+                "lungs": "CTAB, breathing comfortably on RA without use of accessory mm., no crackles/wheezes/rhonchi.",
+                "heart": "LVAD hum appreciated throughout the precordium, RRR.",
+                "abdomen": "Soft, NT/ND. Laparoscopic incision sites line dressing intact visualized thru tegaderm without erythema. Normoactive bowel sounds.",
+                "extremities": "No edema. Warm, well perfused.",
+                "access": "PICC c/d/i, nontender to palpation."
+            },
+            "changes_over_time": "Overall condition improved as indicated by stable vital signs and lack of distress during examination."
+        }
+    ]
+}

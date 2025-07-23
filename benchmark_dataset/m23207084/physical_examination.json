@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "116/61 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and oriented x 3",
+                "lungs": "Clear bilaterally",
+                "cardiovascular": "Regular rate and rhythm, normal S1 and S2",
+                "abdomen": "Tenderness to palpation in left lower quadrant with guarding and rebound tenderness; rest of the abdomen is soft, nontender, nondistended, no masses, no hernias",
+                "rectal": "Guaiac negative, no masses",
+                "extremities": "No cyanosis, clubbing, or edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

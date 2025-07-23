@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT Abdomen and Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "10.6-mm retrocecal, fluid-filled, blind-ending tubular structure projecting off of the cecum with hyperenhancing walls, concerning for appendicitis. Small amount of adjacent free fluid with minimal fat stranding. Urinary bladder wall is mildly thickened.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic Appendectomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits. There is no evidence of pleural or pericardial effusion. The liver demonstrates homogeneous attenuation with scattered tiny hypodensities possibly indicating hepatic cysts. The pancreas shows normal attenuation without lesions. The spleen is normal. The adrenal glands are normal. The kidneys show tiny hypodensities, no evidence of lesions or hydronephrosis. The small bowel is unremarkable but shows focal bowel wall thickening with surrounding inflammatory fat stranding along a segment of diverticula in the transverse colon. No abnormal fluid collection for abscess. The appendix is normal. The urinary bladder and distal ureters are unremarkable. No lymphadenopathy. Mild atherosclerotic disease noted. No acute fracture; multiple Schmorl's nodes and a probable hemangioma in the L3 vertebrae.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbial Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

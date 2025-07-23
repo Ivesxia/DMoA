@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild bibasilar dependent atelectasis, emphysematous changes in the lung bases, multiple small hypodense foci within the left lobe of the liver, thickened sigmoid colon with adjacent stranding and fluid, and small foci of extraluminal gas consistent with sigmoid diverticulitis with microperforation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bone Window Analysis",
+            "date": "Not specified",
+            "findings": "Lumbarization of S1 with partial pseudoarthrosis on the left, areas of sclerosis in the left seventh rib, L1 and L5 vertebral bodies, right ilium, right posterior ischium, left acetabulum, and left sacrum; findings are concerning for osseous metastases.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

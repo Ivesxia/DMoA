@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC at that time was 9.2 (normal range unspecified).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Several calculi are identified within the lumen of the gallbladder, largest measuring 1.0 cm x 0.9 cm; 1.0 cm x 1.2 cm calculus impacted within gallbladder neck/cystic duct; mild generalized mural thickening of the gallbladder wall; small amount of pericholecystic fluid and stranding; CBD normal in caliber; no intraluminal filling defects in CBD; small amount of free fluid in perihepatic and perisplenic areas; heterogeneous enhancement within liver parenchyma on arterial phase imaging, resolving on portal venous phase; tiny cortical cyst in left kidney measuring 0.6 cm x 0.5 cm; right kidney normal; both adrenal glands normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.  NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

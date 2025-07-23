@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0",
+                "heart_rate": "70",
+                "blood_pressure": "199/89",
+                "respiratory_rate": "24",
+                "oxygen_saturation": "99% on RA"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and oriented x3, no rash, no jaundice",
+                "neck": "No cervical lymphadenopathy",
+                "cardiovascular": "Clear to auscultation, regular rate and rhythm",
+                "abdomen": "Soft, right upper quadrant tenderness, guaiac positive, no palpable hernia or mass, no rebound or guarding, no inguinal lymphadenopathy"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

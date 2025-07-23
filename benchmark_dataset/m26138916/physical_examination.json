@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "96 bpm",
+                "blood_pressure": "130/70 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "temperature": "96.5°F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "120/85 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% on room air",
+                "general": "No acute distress. Oriented to person, place, and time. Mood and affect appropriate.",
+                "HEENT": "Normocephalic, atraumatic. Sclera anicteric, pupils equal, round, reactive to light, extraocular movements intact. Conjunctivae pink, no pallor or cyanosis of oral mucosa. No xanthalesma.",
+                "neck": "Supple with JVP of 11 cm.",
+                "cardiovascular": "PMI located in the midclavicular line, normal S1 and S2, semilunar murmur increased with Valsalva maneuver. No thrills, lifts. No S3 or S4.",
+                "respiratory": "No chest wall deformities, breathing unlabored, no accessory muscle use, clear to auscultation bilaterally, no crackles, wheezes, or rhonchi.",
+                "abdomen": "Soft abdomen with tenderness in LLQ and LUQ, no pain at rest, no rebound or guarding. No hepatosplenomegaly.",
+                "extremities": "No clubbing, cyanosis, or edema. No femoral bruits.",
+                "skin": "No stasis dermatitis, ulcers, scars, or xanthomas."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

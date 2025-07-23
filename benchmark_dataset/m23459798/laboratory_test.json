@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bactrim treatment (presumed UTI)",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood test",
+            "date": "Not specified",
+            "findings": "8.3 mg/dL, normal range is between 8.4 - 10.3 mg/dL, indicating low value.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CHEST RADIOGRAPH",
+            "date": "Not specified",
+            "findings": "No relevant change compared to the previous radiograph; normal structure and transparency of lung parenchyma, normal size and shape of cardiac silhouette, normal hilar and mediastinal structures, no pleural effusions, no pneumonia.",
+            "changes_over_time": "No relevant change."
+        }
+    ]
+}

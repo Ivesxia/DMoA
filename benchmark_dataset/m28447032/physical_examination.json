@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "blood_pressure": "116/77 mmHg",
+                "heart_rate": "73 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert, lying in bed, no acute distress",
+                "HEENT": "MM dry anicteric sclerae, no conjunctival pallor",
+                "neck": "Supple without LAD",
+                "pulmonary": "Generally CTA b/l without wheeze or rhonchi",
+                "cardiovascular": "RRR (+)S1/S2 no m/r/g. mid-systolic click appreciated.",
+                "abdominal": "Soft, mildly-tender to palpation in epigastrium. Negative Murphy's sign. Abd distended but not tympanitic. No fluid wave. No guarding.",
+                "extremities": "Warm, well-perfused, no edema",
+                "neurological": "CN II-XII grossly intact, motor function grossly normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "126/60 mmHg",
+                "heart_rate": "77 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "VSS (vital signs stable) at a later time with a temperature of 98.2°F, blood pressure of 99/63 mmHg, heart rate of 66 bpm, respiratory rate of 16 breaths/min, and oxygen saturation of 97% RA."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN AND PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "spleen": "Moderately enlarged measuring up to 13.9 cm, with normal attenuation.",
+                "liver": "Homogenous attenuation throughout, no evidence of focal lesions.",
+                "gallbladder": "Within normal limits.",
+                "pancreas": "Normal attenuation throughout, no evidence of focal lesions or pancreatic ductal dilatation.",
+                "kidneys": "Normal and symmetric size with normal nephrogram, no focal renal lesions or hydronephrosis.",
+                "diverticulosis": "Present in the colon, with a segment of sigmoid colon demonstrating significant bowel wall thickening and inflammatory fat stranding.",
+                "lymph nodes": "No mesenteric lymphadenopathy; multiple prominent retroperitoneal lymph nodes likely reactive.",
+                "other": "No evidence of pleural or pericardial effusion, normal prostate and seminal vesicles."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

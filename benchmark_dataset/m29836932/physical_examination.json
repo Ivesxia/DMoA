@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.6°F",
+                "heart_rate": "77 bpm",
+                "blood_pressure": "180/81 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on 2 liters"
+            },
+            "relevant_findings": {
+                "general": "NAD, alert and oriented, sitting in chair reading paper",
+                "cardiovascular": "RRR, no S3 or S4",
+                "pulmonary": "Clear upper, diminished bases",
+                "abdomen": "Soft, extremely tender to palpation RUQ, +G, no rebound; well-healed incisions",
+                "extremities": "No pedal edema bilaterally"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

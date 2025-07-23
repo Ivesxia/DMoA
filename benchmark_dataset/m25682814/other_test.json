@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Patient was noted to be in afib with HR in the 120s.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Increased lactate testing",
+            "date": "Not specified",
+            "findings": "Elevated lactate of 3.2.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Scheduled for outpatient in several days",
+            "findings": "Last performed colonoscopy was reportedly negative for any findings, including diverticulosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

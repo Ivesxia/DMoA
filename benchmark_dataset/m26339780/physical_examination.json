@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "T98.9",
+                "heart_rate": "HR98",
+                "blood_pressure": "BP140/79",
+                "respiratory_rate": "RR16",
+                "oxygen_saturation": "SpO299% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, AAOx3, calm, pleasant",
+                "HEENT": "trachea midline",
+                "cardiovascular": "RRR",
+                "pulmonary": "normal unlabored breathing, CTAB",
+                "abdominal": "soft, obese, ND, midline laparotomy well-healed with no hernia defect, RUQ tender to palpation with + ___ sign, no guarding",
+                "extremities": "no peripheral edema, left toe amputation site clean, DP, ___ palp bilaterally"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

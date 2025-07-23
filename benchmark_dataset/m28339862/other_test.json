@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Negative troponin levels.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "UA",
+            "date": "Not specified",
+            "findings": "Moderate blood, few bacteria, negative leukocytes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate measurement",
+            "date": "Not specified",
+            "findings": "Initial lactate of 2.5, rising lactate noted prior to transfer.",
+            "changes_over_time": "Rising lactate and worsening somnolence."
+        }
+    ]
+}

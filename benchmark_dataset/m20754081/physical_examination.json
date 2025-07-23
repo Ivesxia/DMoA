@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Gen: NAD, A&Ox3, MMM (-) scleral icterus; Pul: CTAB; Cor: RRR; Abd: soft/ND (+) LLQ/hypogastric tenderness (-) rebound (-) tympani.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "CT findings: Lung bases clear, normal heart size, diffusely fatty liver, focal thickening of the sigmoid with fatty stranding and localized air bubbles in the mesentery, scattered diverticulosis throughout the descending colon.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Visualized lung fields are within normal limits. There is no evidence of pleural or pericardial effusion.",
+                "abdomen": {
+                    "hepatobiliary": "The liver demonstrates homogenous attenuation throughout. There is no evidence of focal lesions. There is no evidence of intrahepatic or extrahepatic biliary dilatation. The gallbladder is within normal limits.",
+                    "pancreas": "The pancreas has normal attenuation throughout, without evidence of focal lesions or pancreatic ductal dilatation. There is no peripancreatic stranding.",
+                    "spleen": "The spleen shows normal size and attenuation throughout, without evidence of focal lesions.",
+                    "adrenals": "The right and left adrenal glands are normal in size and shape.",
+                    "urinary": "The kidneys are of normal and symmetric size with normal nephrogram. There is no evidence of focal renal lesions or hydronephrosis. There is no perinephric abnormality.",
+                    "gastrointestinal": "The stomach is unremarkable. Small bowel loops demonstrate normal caliber, wall thickness, and enhancement throughout. Large colonic stool burden. The colon and rectum are otherwise within normal limits. The appendix is dilated measuring up to 7.8 mm. There is no intraluminal air. There is mild hyperenhancement of the wall.",
+                    "pelvis": "The urinary bladder and distal ureters are unremarkable. There is no free fluid in the pelvis.",
+                    "reproductive_organs": "The visualized reproductive organs are unremarkable.",
+                    "lymph_nodes": "There are few prominent, though nonenlarged, right lower quadrant mesenteric lymph nodes, measuring 0.4 cm. There is no retroperitoneal or mesenteric lymphadenopathy.",
+                    "vascular": "There is no abdominal aortic aneurysm. No atherosclerotic disease is noted.",
+                    "bones": "There is no evidence of worrisome osseous lesions or acute fracture.",
+                    "soft_tissues": "The abdominal and pelvic wall is within normal limits."
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": {
+                "culture": "NO GROWTH."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": {
+                "measurement": "277.0 pg/mL"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

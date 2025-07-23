@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8 F",
+                "heart_rate": "65 bpm",
+                "blood_pressure": "157/56 mmHg",
+                "respiratory_rate": "16"
+            },
+            "relevant_findings": {
+                "general": "NAD, A&Ox3",
+                "HEENT": "MMM, no jaundice",
+                "cardiovascular": "RRR w/o murmur",
+                "pulmonary": "CTA w/o wheeze",
+                "abdominal": "soft, nondistended, mildly tender to palpation in the RUQ, no ___ sign, no signs of peritonitis",
+                "extremities": "warm, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

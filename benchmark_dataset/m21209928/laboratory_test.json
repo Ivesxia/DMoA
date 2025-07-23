@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites. There is no intrahepatic biliary dilation. The CBD measures 5 mm. Small mobile gallstones are identified within a mildly distended gallbladder. There is a small amount of pericholecystic fluid without wall edema. Note is made of a Phrygian cap with echogenic foci within its wall with ringdown artifacts compatible with adenomyomatosis. The imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation. Survey views of the right kidney do not demonstrate any masses, hydronephrosis, or stones. Visualized portions of aorta and IVC are within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Specimen Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

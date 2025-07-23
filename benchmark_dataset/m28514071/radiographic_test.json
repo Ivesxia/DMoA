@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "A simple cyst is seen in the left adnexum measuring 5.5 x 4.6 x 3.3 cm. No suspicious vascularity or nodularity is seen within this cyst. This cyst appears to be contiguous with the left ovary. Note is made that the right ovary is not identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

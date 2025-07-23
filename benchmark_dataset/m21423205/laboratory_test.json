@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound of Abdomen",
+            "date": "Not specified",
+            "findings": "In the right lower quadrant, there is a well-circumscribed fluid collection measuring 2.7 x 3.1 cm, with low-level internal echoes. Adjacent to this collection, there is a small amount of free fluid in the right lower quadrant, which appears simple in echotexture.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "Mixed bacterial flora present.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

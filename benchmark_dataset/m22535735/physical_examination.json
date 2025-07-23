@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96°F",
+                "heart_rate": "64 bpm",
+                "blood_pressure": "90/59 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": "A&O x 3, NAD, PERRL, EOMI, anicteric sclera, RRR, CTAB. Abdomen soft, nondistended, tender in epigastric region without rebound or guarding; negative ___ warm, no edema.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

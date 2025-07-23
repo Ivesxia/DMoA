@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild bibasilar atelectasis in lower chest, no pericardial or pleural effusion. The liver shows homogenous attenuation, a hypodensity adjacent to the falciform ligament, no biliary dilatation. The pancreas, spleen, and adrenal glands are normal. Kidneys normal and symmetric with no focal lesions or hydronephrosis. Appendix dilated up to 12 mm with proximal mucosal hyperenhancement and surrounding fat stranding. Trace free fluid in the pelvis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "HOLD."
+        }
+    ]
+}

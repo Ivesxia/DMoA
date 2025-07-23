@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Patchy bibasilar opacities in the setting of low lung volumes likely reflecting atelectasis; however, unable to exclude early infection.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan of the cervical spine",
+            "date": "Not specified",
+            "findings": "Anterolisthesis of C4 on C5, likely chronic; no fractures; moderate to severe multilevel degenerative changes with moderate to severe multilevel neural foraminal stenosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan of the head",
+            "date": "Not specified",
+            "findings": "No acute intracranial abnormalities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound of the liver or gallbladder",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic with a smooth contour, no suspicious liver mass; anechoic avascular fluid collection near the gallbladder fossa measures 2.4 x 1.4 x 3.1 cm, compared to 3.8 x 1.8 cm on prior; no ascites; cholelithiasis without gallbladder distention.",
+            "changes_over_time": "Anechoic avascular fluid collection decreased in size from 3.8 x 1.8 cm on prior to 2.4 x 1.4 x 3.1 cm."
+        }
+    ]
+}

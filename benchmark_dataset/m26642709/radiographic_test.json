@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "There is cholelithiasis; however, there is no evidence of acute cholecystitis. The abnormal appendix measures 10 mm with thick wall and imaging appearance concerning for acute on chronic appendicitis. There is possible mild reactive terminal ileitis. The loops of small and large bowel appear within normal limits. No bowel obstruction or hydronephrosis. No pneumonia, pleural effusion, or pericardial effusion. The liver, spleen, pancreas, bilateral adrenal glands, kidneys, urinary bladder, rectum, sigmoid colon, and ovaries appear normal. The uterus is bulky, possibly due to fibroids. No suspicious lytic or sclerotic lesions in osseous structures.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

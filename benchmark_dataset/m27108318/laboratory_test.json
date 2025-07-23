@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Klebsiella pneumoniae culture",
+            "date": "Not specified",
+            "findings": "Positive for Klebsiella pneumoniae",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Distended gallbladder with thickened wall, large gallstone at the gallbladder neck, small fluid collections surrounding the gallbladder concerning for perforation, diffuse intrahepatic biliary duct dilation, and kidneys with hypodense lesions compatible with simple renal cysts.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

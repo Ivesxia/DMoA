@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Elevated lipase levels",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD W&W/O C",
+            "date": "Not specified",
+            "findings": "Inflammatory stranding/fluid surrounding the pancreas, consistent with pancreatitis; no ductal dilatation or focal mass, no evidence of parenchymal necrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "Result: 2.2 mg/dL; Reference range: 2.7 - 4.5 mg/dL (below normal range)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

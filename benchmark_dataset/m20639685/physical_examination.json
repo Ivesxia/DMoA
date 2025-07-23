@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "122 bpm",
+                "blood_pressure": "155/65 mmHg",
+                "temperature": "Afebrile",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general_examination": "Well developed, well nourished, alert and cooperative, appears to be in no acute distress.",
+                "head": "Normocephalic.",
+                "eyes": "PERRL, EOMI. Fundi normal, vision is grossly intact.",
+                "ears": "External auditory canals and tympanic membranes clear, hearing grossly intact."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

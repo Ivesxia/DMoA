@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Legionella serogroup 1 antigen test",
+            "date": "Not specified",
+            "findings": "NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT CHEST W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Evaluation of the lungs shows left lower lobe consolidation with ground-glass opacity and small associated effusion, and dense consolidation in the right lower lobe with a small-to-moderate effusion. A granuloma is noted in the right upper lobe.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

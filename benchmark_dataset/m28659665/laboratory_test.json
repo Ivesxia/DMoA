@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC 16 (91% PMNs), elevated above normal range (normal range typically 4.0-11.0 x 10^3/uL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 1089, elevated above normal range (normal range typically 0-160 U/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate 2.8, elevated above normal range (normal range typically 0.5-2.2 mmol/L).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

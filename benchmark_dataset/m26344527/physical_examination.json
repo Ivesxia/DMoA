@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "heart_rate": "67 bpm",
+                "blood_pressure": "136/77 mmHg",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": "Patient in moderate discomfort. Regular rate and rhythm, S1S2 normal. Abdomen soft, nondistended, mild diffuse tenderness to palpation in upper quadrants bilaterally. Extremities warm, well-perfused without edema.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

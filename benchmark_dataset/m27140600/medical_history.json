@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Patient experienced lightheadedness leading to a loss of consciousness and subsequent abdominal pain, nausea, and vomiting.",
+        "history_of_present_illness": "The patient started feeling lightheaded while walking in her house earlier today. She experienced a sensation of imminent fainting and slumped to the floor with a loss of consciousness, duration unclear. After about 10 minutes, she felt weak, sweaty, and began having nausea and vomiting. On the morning of presentation, she experienced stomach and back pain which improved with pain medications. The patient has been somewhat constipated with a recent small, soft bowel movement prior to transfer.",
+        "past_medical_history": "Breast cancer diagnosis of stage IIA (T2, N0, Mx), grade III, triple negative invasive breast cancer involving the right breast status post mastectomy and chemotherapy. Other conditions include hypertension, sinusitis, migraines, and a history of C-section and sinus surgery.",
+        "family_history": "She has no known family history of breast or ovarian cancer and no other cancers run in her family.",
+        "social_history": "Not specified."
+    }
+}

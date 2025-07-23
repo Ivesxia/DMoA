@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver demonstrates homogeneous echogenicity without focal lesion. The common bile duct measures 4 mm and is not dilated. There is a large shadowing gallstone just proximal to the gallbladder fundus. Mild circumferential wall thickening beyond the stone is noted, gallbladder is not distended, and there is no pericholecystic fluid. The spleen measures 10 cm and is normal in appearance. The pancreas appears normal. There is no free fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbial Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

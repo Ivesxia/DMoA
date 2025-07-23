@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT Troponin",
+            "date": "Not specified",
+            "findings": "<0.01. CTROPNT > 0.10 NG/ML SUGGESTS ACUTE MI.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-Ray (PA & LAT)",
+            "date": "Not specified",
+            "findings": "The lungs are clear. The cardiac and mediastinal contours are normal. There are no pleural abnormalities.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "A portable semi-erect chest film submitted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

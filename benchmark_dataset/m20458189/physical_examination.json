@@ -1,0 +1,48 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "blood_pressure": "114/81 mmHg",
+                "heart_rate": "82 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "O2_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing woman in NAD",
+                "HEENT": "NC/AT, PERRLA",
+                "lungs": "Clear to auscultation on the left side, not present on the right",
+                "heart": "RRR, no MRG, nl S1-S2",
+                "abdomen": "Hypoactive BS throughout. TTP and guarding in RLQ, mild rebound. No HSM. NABS, soft/NT/ND, no masses or HSM, no rebound/guarding",
+                "extremities": "WWP, no c/c/e, 2+ peripheral pulses (radials, DPs)",
+                "neuro": "Awake, A&Ox3",
+                "rectal": "Per ED report, +guiac positive, no gross blood, no visible external hemorrhoids"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "98.9°F",
+                "blood_pressure": "138/90 mmHg",
+                "heart_rate": "84 bpm",
+                "respiratory_rate": "24 breaths/min",
+                "O2_saturation": "97% RA"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing woman in NAD",
+                "HEENT": "NC/AT, PERRLA",
+                "lungs": "Clear to auscultation bilaterally",
+                "heart": "RRR, no MRG, nl S1-S2",
+                "abdomen": "Hypoactive BS throughout. TTP and guarding in RLQ, mild rebound. No HSM. NABS, soft/NT/ND, no masses or HSM, no rebound/guarding",
+                "extremities": "WWP, no c/c/e, 2+ peripheral pulses (radials, DPs)",
+                "neuro": "Awake, A&Ox3",
+                "rectal": "+guiac positive, no gross blood, no visible external hemorrhoids"
+            },
+            "changes_over_time": {
+                "abdomen": "There was tenderness and guarding in the RLQ with mild rebound noted at admission."
+            }
+        }
+    ]
+}

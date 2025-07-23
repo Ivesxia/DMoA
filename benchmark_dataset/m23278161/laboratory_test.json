@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is enlarged measuring 9-11 mm, fluid-filled, with enhancing wall and minimal fat stranding. There is bilateral thickening in the adrenal glands. There are atherosclerotic changes in the abdominal aorta and its branches. Bilateral multiple renal hypodensities, with a large renal cyst in the interpolar region of the left kidney, measuring 5.7 x 5.3 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "Value: 9.5 mg/dL (Normal range: 8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

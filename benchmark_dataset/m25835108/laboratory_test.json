@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRI brain",
+            "date": "Not specified",
+            "findings": "Several areas of hyperintensity on diffusion images in the left parietal region and a small focus in the left occipital region. Most areas are isointense on ADC map with periventricular abnormalities indicating subacute infarcts. No evidence of chronic blood products, mass effect, or midline shift. Mild-to-moderate changes of small vessel disease and moderate brain atrophy identified. A chronic infarct is seen in the right occipital lobe. Absence of flow signal in the left internal carotid artery indicative of occlusion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Intra-abdominal abscess still present, however decreased in size.",
+            "changes_over_time": "Abscess size decreased over time."
+        },
+        {
+            "procedure_name": "Legionella culture",
+            "date": "Not specified",
+            "findings": "No legionella isolated.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

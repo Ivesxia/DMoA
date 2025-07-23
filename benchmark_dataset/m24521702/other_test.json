@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Endotracheal tube tip is low lying, terminating approximately 1.8 cm from the carina. Orogastric tube is seen with tip appearing to terminate in the distal esophagus. Lung volumes remain low. Heart size remains moderately enlarged. Unchanged mediastinal widening, likely related to low lung volumes. Worsening pulmonary edema, now mild to moderate in extent with probable small bilateral pleural effusions. Focal opacity within the periphery of the right mid-to-upper lung field could reflect an infectious process. No pneumothorax is clearly evident.",
+            "changes_over_time": "Unchanged mediastinal widening; worsening pulmonary edema; other findings not specified."
+        },
+        {
+            "procedure_name": "Exam (PE)",
+            "date": "Not specified",
+            "findings": "Moderate distress, tachycardic HR 147, mildly hypotensive BP 107/55, tachypneic respiratory rate 35, spO2 94% on 2 L NC. Severely tender to palpation in RUQ and RLQ, with distension and positive sign.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

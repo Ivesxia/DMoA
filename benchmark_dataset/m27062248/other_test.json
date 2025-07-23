@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy (FNA)",
+            "date": "Not specified",
+            "findings": "Cytology revealed the aspirated mediastinal lymph node to be negative for malignant cells.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endoscopic Ultrasound (EUS)",
+            "date": "Not specified",
+            "findings": "Mucosal resection performed of the 1.5-cm esophageal nodule at the GE junction; lesion totally removed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EGD",
+            "date": "Not specified",
+            "findings": "Esophagitis noted; brushings negative for malignancy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Revealed polyps in the cecum and descending colon; EGD revealed 8-mm localized polyp at the GEJ with intestinal metaplasia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scan of the Head",
+            "date": "Not specified",
+            "findings": "No evidence of infarction, fracture, hemorrhage, edema, mass effect, or shift of normally midline structures. Minimal periventricular white matter hypodensities compatible with chronic microvascular ischemic disease.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "PCR for Neisseria Gonorrhoeae",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria Gonorrhoeae by PCR.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pelvic Ultrasound",
+            "date": "Not specified",
+            "findings": "The uterus measures 9.0 x 3.8 x 5.5 cm, normal in size and shape. The endometrium measures 2 mm and appears normal. A 1.3 x 1.3 x 1.1 cm round slightly hyperechoic structure is seen in the endometrial cavity without vascularity. The right ovary measures 3.2 x 2.4 x 3.3 cm and the left ovary measures 2.6 x 1.9 x 2.7 cm, with normal arterial and venous flow. A small amount of pelvic free fluid is noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

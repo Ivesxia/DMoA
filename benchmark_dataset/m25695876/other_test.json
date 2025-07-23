@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EKG",
+            "date": "Not specified",
+            "findings": "New LBBB on EKG, which was new from prior exams.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Not performed as the patient has never had a colonoscopy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "DRE",
+            "date": "Not specified",
+            "findings": "Normal tone, +external hemorrhoids; hard stool in the rectal vault. No gross blood but occult positive.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal CT",
+            "date": "Not specified",
+            "findings": "Sigmoid perforation with diffuse peritonitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

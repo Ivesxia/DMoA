@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix appears dilated throughout its course, measuring up to 12 mm in maximum diameter, with a thickened wall and filled with fluid. There is periappendiceal mesenteric stranding, but no evidence of microperforation or focal fluid collection. No pleural effusion, focal consolidation, nodules or opacities present in the lung bases. A thin-walled cyst is seen in the left lower lobe. Minimal left basilar atelectasis. The liver enhances homogeneously with no perfusion defects or focal liver lesions identified. Gallbladder normal without evidence of stones. The spleen is normal in size with a 9-mm splenule noted. The pancreas and adrenal glands are normal. Both kidneys enhance symmetrically without hydronephrosis. No free air or ascites.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Visualized lung fields are within normal limits. There is no evidence of pleural or pericardial effusion.",
+                "hepatobiliary": "Hypodense 0.8 cm lesion in the periphery of the right lobe in segment 6 with subtle peripheral nodular hyperenhancement may represent a hemangioma. No intrahepatic or extrahepatic biliary dilatation. The gallbladder is within normal limits.",
+                "pancreas": "The pancreas has normal attenuation throughout, without evidence of focal lesions or pancreatic ductal dilatation. There is no peripancreatic stranding.",
+                "spleen": "The spleen shows normal size and attenuation throughout, without evidence of focal lesions. Incidental note is made of a 1 cm accessory spleen.",
+                "adrenals": "The right and left adrenal glands are normal in size and shape.",
+                "urinary": "The kidneys are normal in size. Subtle hypoenhancement of the left renal parenchyma raises concern for superinfection. Gas is seen within the left renal pelvis and left ureter extending up from the bladder. Mild left perinephric stranding is noted. Small amount of gas is seen within the right renal midpole calyx. No gross signs for right pyelonephritis though superinfection cannot be excluded.",
+                "gastrointestinal": "Colonic diverticulosis is present with enteric contrast seen throughout. There is a large diverticulum arising from the mid sigmoid colon containing fecal material and gas which appears slightly thickened with mild surrounding fat stranding. A soft tissue tract containing gas and contrast extends inferiorly from the sigmoid near the diverticular neck concerning for colovesicular fistula. There is associated segmental thickening of the colon at the level of the diverticulum and fistula.",
+                "pelvis": {
+                    "urinary_bladder": "Gas is noted within the bladder. Abnormal thickening is seen along the posterior wall of the urinary bladder with loss of fat plane with the adjacent sigmoid colon. Contrast is seen within the urinary bladder. Gas is seen extending into the left ureter and left renal pelvis.",
+                    "reproductive_organs": "There is mild prostatomegaly. The seminal vesicles are unremarkable.",
+                    "lymph_nodes": "There is no retroperitoneal or mesenteric lymphadenopathy. There is no pelvic or inguinal lymphadenopathy.",
+                    "vascular": "There is no abdominal aortic aneurysm. Moderate atherosclerotic disease is noted.",
+                    "bones": "There is no evidence of worrisome osseous lesions or acute fracture.",
+                    "soft_tissues": "The abdominal and pelvic wall is within normal limits."
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

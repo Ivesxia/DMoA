@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Physical Exam",
+            "date": "Not specified",
+            "findings": "Afebrile. Not in acute distress. No edema in extremities. Eczematous rash over left elbow. No synovitis, increased warmth, or tenderness. Movement of the first MTP joint causes no pain. Neurologic exam nonfocal. Abdomen soft, minimally distended with appropriate tenderness at port sites.",
+            "changes_over_time": "Improved condition with no synovitis or increased tenderness noted."
+        },
+        {
+            "procedure_name": "Laparoscopic Appendectomy",
+            "date": "Not specified",
+            "findings": "Surgical procedure performed for acute appendicitis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

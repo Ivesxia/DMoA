@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The diagnosis of acute appendicitis was supported by clinical presentation of right lower quadrant pain, nausea, and vomiting, along with imaging findings from the CT abdomen and pelvis, which revealed an enlarged appendix measuring 12 mm without surrounding free air, free fluid, or evidence of abscess, indicating acute uncomplicated appendicitis."
+    }
+}

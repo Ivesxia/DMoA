@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "There is bibasilar atelectasis, right greater than left. No nodule, opacity or pleural effusion is identified at the lung bases. The liver, gallbladder, pancreas, spleen and adrenal glands are unremarkable. The kidneys enhance and excrete contrast symmetrically. The intra-abdominal loops of bowel are unremarkable including the appendix. No mesenteric or retroperitoneal lymphadenopathy is identified. There is no free air or fluid in the peritoneal cavity. There are multiple sigmoid diverticula. There is thickening of the sigmoid colon in the left lower quadrant with inflammatory fat stranding. There are small pockets of fluid with contained locules of extraluminal air consistent with microperforation. There is no drainable fluid collection or abscess. The urinary bladder, distal ureters, prostate and rectum are normal. No pelvic or inguinal lymphadenopathy is identified. No suspicious lytic or sclerotic osseous lesion is identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

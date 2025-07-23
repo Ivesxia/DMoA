@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "109 bpm",
+                "blood_pressure": "114/56 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing female in no apparent distress",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/rubs/gallops",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes, crackles, or rales",
+                "abdominal": "Soft and non-distended abdomen, tenderness to palpation in right lower quadrant with guarding and rebound, negative obturator, psoas, and Rovsing signs, positive McBurney's sign"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

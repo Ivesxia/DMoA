@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endotracheal Tube Placement",
+            "date": "Not specified",
+            "findings": "The tip of the endotracheal tube projects over the midthoracic trachea.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Orogastric Tube Placement",
+            "date": "Not specified",
+            "findings": "The orogastric tube extends to the distal esophagus and advancement by at least 10 cm is recommended to ensure that the side port lies beyond the EG junction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Physical Examination",
+            "date": "Not specified",
+            "findings": "Distended abdomen with diffuse peritonitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

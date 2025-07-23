@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2°F",
+                "heart_rate": "Stable",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "No icterus/jaundice. Lungs clear to auscultation bilaterally. Heart regular. Abdomen mildly tender in the right upper quadrant, yet soft, nondistended. No hernias.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

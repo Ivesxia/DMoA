@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRSA culture",
+            "date": "Not specified",
+            "findings": "No MRSA isolated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Vital signs",
+            "date": "Not specified",
+            "findings": "BP: 139/79, HR: 77, RR: 18, Oxygen Saturation: 98% (2 liters)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Some residual opacification at the left base consistent with atelectasis and possible effusion. No evidence of pulmonary vascular congestion.",
+            "changes_over_time": "In comparison with the study of ___, there is little change in the amount of free intraperitoneal gas beneath the hemidiaphragm, consistent with prior surgery."
+        }
+    ]
+}

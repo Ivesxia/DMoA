@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.3°F",
+                "heart_rate": "97 bpm",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "20",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general": "in no acute distress",
+                "HEENT": "sclera anicteric, mucus membranes moist, nares clear, trachea at midline",
+                "CV": "regular rate, rhythm. No appreciable murmurs, rubs, gallops",
+                "Pulm": "clear to auscultation bilaterally",
+                "Abd": "+ bowel sounds, tender to palpation in lower quadrant, non-distended. No hernias, masses or scars.",
+                "MSK": "warm, well perfused",
+                "Neuro": "alert, oriented to person, place, time"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "PICC line placement",
+            "date": "Not specified",
+            "findings": "The distal tip of the PICC line projects over the cavoatrial junction versus high right atrium. Left lower lobe atelectasis and a left pleural effusion are noted.",
+            "changes_over_time": "The cardiomediastinal contours are unchanged from prior radiograph. The bilateral lungs are unchanged in appearance, but there is evidence of left lower lobe atelectasis and a left pleural effusion which is layering on the current film."
+        },
+        {
+            "procedure_name": "NG tube removal",
+            "date": "Not specified",
+            "findings": "The NG tube has been removed.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

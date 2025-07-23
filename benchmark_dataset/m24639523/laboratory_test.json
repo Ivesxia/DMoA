@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "NEGATIVE BY EIA. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Cardiomegaly and tortuosity of the thoracic aorta present. Old pacemaker wires and left-sided pacemaker generator with dual leads unchanged. No focal consolidation or pneumothoraces.",
+            "changes_over_time": "Changes were noted to be unchanged."
+        }
+    ]
+}

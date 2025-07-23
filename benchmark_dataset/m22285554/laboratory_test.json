@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The proximal portion of the visualized appendix appears normal; however, the more distal portion of the appendix is dilated up to 8 mm and does not fill with contrast or air. No free air or free fluid is present. Minimal fat stranding in the region of the appendix.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lab Test",
+            "date": "Not specified",
+            "findings": "0.7 mmol/L (within normal range of 0.5 to 2.0 mmol/L).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

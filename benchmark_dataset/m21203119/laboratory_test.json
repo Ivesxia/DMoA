@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The liver is not nodular in contour and does not demonstrate any loss of signal on out-of-phase compared to in-phase T1-weighted images to suggest the presence of hepatic steatosis. There are three well-circumscribed T2 hyperintense lesions in segment VIII, segment VI/VII, and segment VI, consistent with simple cysts or hamartomas. No concerning liver lesions are seen. The hepatic arterial anatomy is conventional. The portal vein and hepatic veins are patent; however, on the most delayed available phase post-contrast, the liver is somewhat heterogenous in signal intensity, possibly due to congestion. No biliary duct dilatation, the gallbladder is surgically absent. The common bile duct is not dilated measuring 4 mm. At the level just proximal to the ampulla, there is an eccentric filling defect which demonstrates blooming on in-phase compared to out-of-phase T1-weighted images, consistent with a small retained stone in the distal CBD, measuring 4 x 4 mm. The pancreas is normal in signal intensity and morphology. Both adrenal glands and both kidneys are unremarkable in appearance. The spleen is not enlarged. There are scattered small lymph nodes at the porta hepatis, measuring up to 1 cm in short axis. Large duodenal diverticulum. A short segment dissection of the superior mesenteric artery is better assessed on the recent CT.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "heart_rate": "70 bpm",
+                "blood_pressure": "148/81 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "well-appearing, NAD",
+                "HEENT": "PERRL, EOMI, sclera anicteric, moist mucous membranes",
+                "cardiac": "RRR",
+                "chest": "no respiratory distress, CTAB",
+                "abdomen": "soft, non-tender, non-distended, negative Rovsing and obturator sign, positive psoas sign, no rebound or guarding",
+                "extremities": "no clubbing, cyanosis or edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

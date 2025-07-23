@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "PT (Prothrombin Time)",
+            "date": "Not specified",
+            "findings": "22.0 sec, within normal range (22.0 - 35.0 sec)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is dilated measuring 9.5 cm with mild wall thickening and hyperenhancement; no significant periappendiceal stranding; mild intrahepatic biliary duct dilatation; large hiatal hernia; no free air or fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

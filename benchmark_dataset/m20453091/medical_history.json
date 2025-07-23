@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Diffuse abdominal pain",
+        "history_of_present_illness": "The patient's abdominal pain started at 6AM this morning and has been described as diffuse. Associated symptoms include nausea but no vomiting. Her last bowel movement was normal earlier that morning. The patient's condition has progressed to show significant discomfort, with a tender abdomen during examination.",
+        "past_medical_history": "Metastatic adenocarcinoma of the right upper lung with brain metastases, COPD (not on home O2), Hepatitis C cirrhosis, GERD, fibromyalgia, and opiate use disorder on maintenance therapy.",
+        "family_history": "No family history of lung cancer.",
+        "social_history": "Not specified."
+    }
+}

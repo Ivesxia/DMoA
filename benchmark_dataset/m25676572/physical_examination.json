@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "heart_rate": "122 bpm",
+                "blood_pressure": "122/46 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "96% RA"
+            },
+            "relevant_findings": {
+                "general": "Patient appears well, alert and oriented to person, place, and time.",
+                "cardiovascular": "Regular rate and rhythm, S1 and S2 present, no murmurs, rubs, or gallops.",
+                "pulmonary": "Clear to auscultation bilaterally and anteriorly.",
+                "abdominal": "Bowel sounds present, non-distended, diffuse tenderness to palpation without rebound or guarding.",
+                "extremities": "Warm, well perfused, motor function grossly intact."
+            },
+            "changes_over_time": "Patient reported slowly resolving pain after admission to ED."
+        }
+    ]
+}

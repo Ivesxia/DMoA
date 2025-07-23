@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with abdominal pain localized to the right lower quadrant, associated with fever, nausea, and vomiting. CT imaging demonstrated pericecal fat stranding and a partially visualized appendix consistent with acute appendicitis."
+    }
+}

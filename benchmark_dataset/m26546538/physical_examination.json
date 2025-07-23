@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99°F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "111/75 mmHg",
+                "respiratory_rate": "16 bpm",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/rubs/gallops.",
+                "pulmonary": "Clear to auscultation bilaterally.",
+                "abdominal": "Soft, tenderness to palpation in right lower quadrant, no rebound or guarding. Surgical scars in midline and right subcostal area, no masses or hernias.",
+                "extremities": "Right lower extremity with scaling and erythematous rash over knee and distal thigh without blistering, no edema."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

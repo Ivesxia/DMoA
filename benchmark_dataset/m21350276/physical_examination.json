@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.3°F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "149/60 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "95%"
+            },
+            "relevant_findings": {
+                "general": "No acute distress; alert and fully oriented",
+                "cardiac": "Regular rate and rhythm; normal S1 and S2",
+                "pulmonary": "Lungs clear to auscultation bilaterally",
+                "abdominal": "Soft, acutely tender to palpation in the right upper quadrant; mild tenderness in the left upper quadrant and epigastrium; mild rebound; no guarding; well-healed scar in the right lower quadrant; no rigidity",
+                "extremities": "Warm and well-perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

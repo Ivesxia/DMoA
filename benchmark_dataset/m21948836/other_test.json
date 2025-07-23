@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "MRI ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Gallbladder is diffusely edematous with a small amount of hyperintense T1-weighted signal suggesting tiny stones or sludge. No appreciable pancreatic edema or fluid collections. Mild focal narrowing at the origin of the left hepatic duct with distal dilatation to 9 mm. Mild narrowing at the origin of the right hepatic duct with no appreciable distal dilatation. The common bile duct is moderately narrowed at the ampulla.",
+            "changes_over_time": "Gallbladder was edematous similar to prior ultrasound findings."
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Few areas of narrowing and dilatation of the intra- and extra-hepatic biliary tree. No evidence of choledocholithiasis. No MR evidence of pancreatitis. Edematous nondistended gallbladder with small amount of sludge/tiny stones.",
+            "changes_over_time": "Follow-up MRCP recommended to evaluate for resolution."
+        }
+    ]
+}

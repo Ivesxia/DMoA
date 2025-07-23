@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Illumigene DNA amplification assay for C. difficile",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile. Reference Range-Negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is not visualized separate from a complex fluid collection in the right lower quadrant, measuring 5.5 x 2.1 cm. There is wall thickening of the adjacent cecum. Other organs such as liver, pancreas, spleen, and adrenal glands show normal findings.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for creatinine",
+            "date": "Not specified",
+            "findings": "2.4 mg/dL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

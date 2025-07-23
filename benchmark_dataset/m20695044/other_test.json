@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EUS with FNA/FNB",
+            "date": "Not specified",
+            "findings": "Biopsy of pancreatic head mass; severe pain post-procedure; no specified findings.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Placement of 10 mm x 60 mm fully covered metal stent; brushings of distal CBD stricture.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Reportedly negative.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

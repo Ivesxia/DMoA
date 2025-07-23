@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "75 bpm",
+                "blood_pressure": "108/51 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "appears younger than stated age, no apparent distress, non-toxic",
+                "HEENT": "no scleral icterus, moist mucous membranes",
+                "cardiovascular": "regular rate and rhythm",
+                "pulmonary": "no respiratory distress",
+                "abdominal": "soft, diffusely tender without guarding or rebound, moderately distended",
+                "extremities": "warm, well-perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

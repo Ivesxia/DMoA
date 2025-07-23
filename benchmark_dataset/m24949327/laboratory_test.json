@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "INR",
+            "date": "Not specified",
+            "findings": "INR: 4.4 (outside normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "WBC",
+            "date": "Not specified",
+            "findings": "WBC: 5.6 (91% PMNs, within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "Hct: 18.8 (20.3 on recheck, both outside normal range)",
+            "changes_over_time": "Decreased from 20.3 to 18.8"
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "Not specified",
+            "findings": "Na: 137 (within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "K: 5.2 (within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "Not specified",
+            "findings": "Gluc: 604 (outside normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US",
+            "date": "Not specified",
+            "findings": "Liver demonstrates heterogeneous echotexture with no evidence of focal lesion; gallbladder surgically absent; common bile duct 0.3 cm; no ascites present; hypoechoic lesion in right kidney suggestive of cyst unchanged since previous CT.",
+            "changes_over_time": "Hypoechoic lesion in the right kidney is unchanged since the CT from a previous date."
+        }
+    ]
+}

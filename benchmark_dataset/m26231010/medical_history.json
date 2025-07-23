@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain after ERCP.",
+        "history_of_present_illness": "Mr. ___ developed severe abdominal pain while eating a bagel after being sent home following ERCP. The pain was in his mid abdomen, more severe than he had ever experienced. It was associated with nausea but no vomiting. He returned to the ED for further evaluation.",
+        "past_medical_history": "Hyperlipidemia, Anxiety",
+        "family_history": "No family history of pancreatic diseases. Father died of prostate cancer. Mother still alive.",
+        "social_history": "Not specified."
+    }
+}

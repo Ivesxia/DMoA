@@ -1,0 +1,21 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "MRCP W/O CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_thorax": "Trace right-sided pleural effusion",
+                "liver": "Unremarkable",
+                "biliary": "Multiple small stones in gallbladder and cystic duct, mild gallbladder wall thickening, mild edema/trace pericholecystic fluid, common bile duct normal",
+                "pancreas": "Multiple cystic lesions likely side-branch type IPMNs, largest 1.2 cm in uncinate process, main pancreatic duct normal",
+                "spleen": "Unremarkable",
+                "adrenal_glands": "1.9 cm left adrenal lesion compatible with lipid rich adenoma",
+                "kidneys": "A few subcentimeter probable cysts in left kidney, otherwise unremarkable",
+                "gastrointestinal_tract": "No bowel obstruction",
+                "lymph_nodes": "No enlarged upper abdominal lymph nodes",
+                "osseous_and_soft_tissue_structures": "No aggressive osseous lesions"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

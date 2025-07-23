@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver is diffusely low in attenuation suggestive of hepatic steatosis. The appendix measures up to 8 mm with slight hyperenhancing wall. There are subcentimeter hypodensities in the upper and lower poles of the right kidney which are too small to characterize. No pathologically enlarged retroperitoneal or mesenteric lymph nodes by CT size criteria.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Other Laboratory Test",
+            "date": "Not specified",
+            "findings": "NEG.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

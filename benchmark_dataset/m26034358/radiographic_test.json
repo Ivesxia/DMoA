@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in shape and contour with normal echogenicity; no focal hepatic lesions; main portal vein is patent. The gallbladder appears distended with hyperechoic material consistent with sludge and some shadowing echogenic foci likely small stones; gallbladder wall minimally thickened with pericholecystic fluid. No intra- or extra-hepatic biliary duct dilation; common bile duct measures 5 mm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

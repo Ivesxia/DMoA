@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT Abdomen W/O Contrast",
+            "date": "Not specified",
+            "findings": "The appendix does not fill with oral contrast material, is dilated up to 11 mm, with wall thickening. No significant periappendiceal fat stranding is demonstrated, and there is no evidence of abscess or extraluminal gas to suggest perforation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic appendectomy",
+            "date": "Not specified",
+            "findings": "Discharge diagnosis of acute appendicitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

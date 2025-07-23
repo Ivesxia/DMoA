@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient reports sudden onset of sharp epigastric abdominal pain after eating breakfast in the morning. The pain was constant and radiated to either side of the abdomen, with the most severe intensity ___ (not quantified). Upon arrival to the ED, pain had subsided to ___ (not quantified) without any intervention. Denies any nausea, vomiting, diarrhea, fevers, chest pain, or shortness of breath. No change in bowel habits, no bright red blood per rectum or melena. Denies any recent alcohol intake. Previous upper respiratory infection/cough that has since resolved.",
+        "past_medical_history": "1. Second-degree AV block, Wenckebach type. 2. Atrial fibrillation. 3. Hypothyroidism. 4. Hypertensive heart disease without heart failure. 5. Gout.",
+        "family_history": "No known history of hepatobiliary disease.",
+        "social_history": "Not specified."
+    }
+}

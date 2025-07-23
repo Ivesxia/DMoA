@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "heart_rate": "137 bpm",
+                "blood_pressure": "137/54 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% on 5L"
+            },
+            "relevant_findings": {
+                "general": "Elderly man, alert, oriented, uncomfortable with movement in bed, ambulatory",
+                "heent": "PERRL, EOMI +arcus senilis",
+                "neck": "No carotid bruits, JVD",
+                "lungs": "CTA bilaterally, no wheezes, rhonchi, or crackles",
+                "heart": "RRR, normal S1 S2, no murmurs, rubs, or gallops. Sternal scar consistent with CABG",
+                "abdomen": "Tense abdomen with guarding diffusely, tender to palpation diffusely, more so in epigastrium, moderate distension, bowel sounds present, no palpable masses",
+                "extremities": "No cyanosis, clubbing, or edema",
+                "neurologic": "Alert and oriented x3"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

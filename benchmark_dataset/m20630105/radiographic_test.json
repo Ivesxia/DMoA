@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lungs are within normal limits. No evidence of pleural or pericardial effusion. Liver demonstrates homogenous attenuation with no focal lesions or biliary dilation. Pancreas shows normal attenuation without focal lesions or ductal dilation. Spleen normal in size and attenuation. Adrenal glands are normal. Kidneys are normal and symmetric in size with no lesions or hydronephrosis. Stomach unremarkable; small bowel loops normal in caliber and enhancement; thickening about the cecum may be reactive. Appendix is dilated up to 1.0 cm, fluid-filled, hyperenhancing with subtle periappendiceal stranding. No local fluid collection or appendicolith. Urinary bladder and distal ureters unremarkable. No free fluid in pelvis. No lymphadenopathy. No abdominal aortic aneurysm or atherosclerotic disease noted. No worrisome osseous lesions or acute fracture. A small fat-containing umbilical hernia seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2°F",
+                "heart_rate": "109 bpm to 90s bpm",
+                "blood_pressure": "118/68 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "SaO2": "100%"
+            },
+            "relevant_findings": {
+                "general": "Thin female appearing younger than stated age, no acute distress, appears comfortable currently.",
+                "cardiovascular": "Regular rate and rhythm, normal S1 and S2.",
+                "chest": "Clear to auscultation.",
+                "abdominal": "Soft, nondistended, tender to palpation in right lower quadrant and suprapubic areas, no rebound or guarding, negative psoas and Rovsing's signs.",
+                "pelvic": "No cervical motion tenderness.",
+                "rectal": "Stool is heme negative.",
+                "extremities": "Warm and well perfused, no edema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

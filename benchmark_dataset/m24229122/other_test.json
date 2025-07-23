@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Rectal examination",
+            "date": "Not specified",
+            "findings": "Large area of erythema with multiple superficial abrasions around rectum, very tender to palpation, no palpable mass or fluctuant mass, no purulent drainage.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Recommendation for colonoscopy after treatment due to significant distally located inflammation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

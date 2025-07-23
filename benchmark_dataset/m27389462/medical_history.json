@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain following a fatty meal.",
+        "history_of_present_illness": "The abdominal pain started after eating a fatty meal on an unspecified date and now radiates to the back. It comes and goes, with no associated nausea, vomiting, diarrhea, or fever, but has led to decreased appetite. The patient experienced some shortness of breath attributed to pain and not eating. Initial pain was significant, but it improved to a level of 1% upon admission.",
+        "past_medical_history": "Stage II clear-cell renal cell carcinoma, s/p right nephrectomy; metastatic pleural nodules; hypertension; hyperlipidemia; myocardial infarction; congestive heart failure with last EF 55%; atrial flutter; thyroid nodules; GERD; colonic polyps.",
+        "family_history": "Mother had ovarian cancer; one brother died of liver cancer; another brother had end-stage renal disease and died of complications; father had a lymph node removed and received radiotherapy, but diagnosis is unknown.",
+        "social_history": "Not specified."
+    }
+}

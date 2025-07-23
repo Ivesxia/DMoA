@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6 °F",
+                "blood_pressure": "149/68 mmHg",
+                "heart_rate": "66 bpm",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, mild distress from abdominal pain at times",
+                "HEENT": "Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL, neck supple, JVP not elevated, no LAD",
+                "CV": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+                "lungs": "Clear to auscultation bilaterally",
+                "abdomen": "Soft, +BS in all quadrants, moderately distended, TTP epigastrium with voluntary guarding, no rebound, +steri-strips c/d/i",
+                "GU": "No foley, no CVAT",
+                "extremities": "Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema",
+                "neurological": "CN II-XII intact, strength upper/lower extremities grossly normal, 2+ reflexes bilaterally, gait deferred"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

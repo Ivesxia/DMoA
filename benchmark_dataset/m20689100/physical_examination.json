@@ -1,0 +1,68 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.8 F",
+                "heart_rate": "92 bpm",
+                "blood_pressure": "156/68 mmHg",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "89%"
+            },
+            "relevant_findings": {
+                "abdominal_exam": "tender RUQ and epigastrum",
+                "labs": {
+                    "leukocytosis": "17.4",
+                    "lipase": "4050",
+                    "LFTs": "elevated",
+                    "bilirubin": "elevated"
+                },
+                "radiology": {
+                    "CT": "concern for cholecystitis, distended gallbladder with multiple stones"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "76",
+                "heart_rate": "108 bpm",
+                "blood_pressure": "121/52 mmHg",
+                "respiratory_rate": "17",
+                "oxygen_saturation": "95%"
+            },
+            "relevant_findings": {
+                "physical_exam": "Alert, oriented, no acute distress, trace tenderness in epigastrium, soft abdomen, no rebound tenderness or guarding"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6 F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "121/52 mmHg",
+                "respiratory_rate": "17",
+                "oxygen_saturation": "95% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, no acute distress",
+                "HEENT": "Sclera anicteric, MMM, oropharynx clear",
+                "neck": "supple, JVP not elevated, no LAD",
+                "lungs": "Clear to auscultation bilaterally, with faint crackles at the bilateral lung bases",
+                "cardiovascular": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+                "abdomen": "soft, trace tenderness in epigastrium, non-distended, bowel sounds present, no organomegaly"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "chest_radiograph": "Opacities have slightly worsened in the axillary portion of the right lung and right lower lobe, concerning for pneumonia. Asymmetric pulmonary edema has improved in the left lung but worsened in the right lung."
+            },
+            "changes_over_time": "Right lung findings worsened whereas left lung improved."
+        }
+    ]
+}

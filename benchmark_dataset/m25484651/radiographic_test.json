@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "A plastic stent is seen in the common bile duct which was removed. Injection of contrast in the common bile duct demonstrates a diffusely dilated duct with numerous filling defects.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Bright red blood per rectum.",
+        "history_of_present_illness": "The patient was found in the bathroom with blood streaming down her leg. Approximately 100cc of blood clots were found in her pad. She initially presented to the ED with stable vital signs but passed a large amount of blood, leading to a drop in SBP. Bleeding stopped promptly during the hospital stay.",
+        "past_medical_history": "1) Hypertension (HTN), 2) Gastroesophageal reflux disease (GERD), 3) Atrial fibrillation (AFib), 4) Hypothyroidism, 5) Hyperlipidemia (HL), 6) Parkinson's disease, 7) Alzheimer's dementia, 8) Diabetes mellitus, non-insulin dependent (DM), 9) Recent ICU admission for urinary tract infection (UTI) and pneumonia (pna), 10) Diverticulosis.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

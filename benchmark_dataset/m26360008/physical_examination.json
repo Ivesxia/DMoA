@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5 °F",
+                "heart_rate": "101 bpm",
+                "blood_pressure": "126/77 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "95% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, no distress",
+                "HEENT": "Normocephalic, atraumatic, extraocular movement intact, pupils equal, round, reactive to light, no scleral icterus, mucous membranes moist, no lymphadenopathy",
+                "cardiovascular": "Regular rate and rhythm, S1/S2, no murmurs/rubs/gallops",
+                "pulmonary": "Clear to auscultation, no crackles or rhonchi",
+                "gastrointestinal": "Soft, distended, pain greater in left lower quadrant than right lower quadrant, no guarding, rebound, or peritoneal signs, positive bowel sounds in four quadrants",
+                "incision/wounds": "Clean, dry, intact; no hematoma or ecchymosis",
+                "extremities/ms/skin": "No cyanosis/clubbing/edema; feet warm, good perfusion"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

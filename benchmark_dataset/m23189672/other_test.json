@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "A single stricture was noted in the lower part of the CBD; the two existing plastic stents were removed and a metal stent was positioned into place.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "EUS",
+            "date": "Not specified",
+            "findings": "Noted an ill-defined mass at the porta hepatis and lymph node at the porta hepatis without discrete pancreatic mass seen.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Lymph node biopsy from the EUS shows a high-grade neuroendocrine tumor, with Ki-67 of ~50%, with tumor cells positive for CK7, chromogranin, and CDX-2, and negative for TTF-1, synaptophysin, and CK20.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

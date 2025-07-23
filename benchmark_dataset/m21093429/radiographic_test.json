@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Clear to auscultation b/l",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "Constitutional": "Appears slightly uncomfortable, non-toxic.",
+                "HEENT": "Normocephalic, atraumatic, Pupils equal, round and reactive to light, Extraocular muscles intact, Oropharynx within normal limits",
+                "Chest": "Clear to auscultation",
+                "Cardiovascular": "Regular Rate and Rhythm",
+                "Abdominal": "Soft, Appropriately tender, Minimally distended, No rebound/guarding, Laparoscopic incisions C/D/I",
+                "Extr/Back": "No cyanosis, clubbing or edema",
+                "Skin": "No rash",
+                "Neuro": "Speech fluent",
+                "Psych": "Normal mood, Normal mentation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

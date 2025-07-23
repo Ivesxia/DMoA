@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right sided abdominal pain and vomiting",
+        "history_of_present_illness": "The patient was in his usual state of health until today when he experienced gradually worsening right upper abdominal pain and episodes of dark brown emesis. Symptoms began this morning and have not been experienced before. No diarrhea, hematochezia/melena, fevers, chest pain or shortness of breath reported.",
+        "past_medical_history": "Chronic kidney disease (baseline Cr 2.5), hypertension, hyperlipidemia, gastroesophageal reflux disease (GERD), history of cerebrovascular accident (CVA), history of hyperkalemia, hyperparathyroidism, vitamin D deficiency, spinal stenosis/spondylosis, history of traumatic spine injury.",
+        "family_history": "Hypertension",
+        "social_history": "Denies alcohol abuse."
+    }
+}

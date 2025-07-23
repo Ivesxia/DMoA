@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Elevated liver function tests; specific measurement 8.6 mg/dL with a reference range of 8.4 - 10.2 mg/dL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP BILIARY&PANCREAS BY GI UNIT",
+            "date": "Not specified",
+            "findings": "Presence of a pancreatic duct stent, cannulation of the common bile duct, no definite filling defects, mildly irregular proximal portions of the extrahepatic biliary ducts.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

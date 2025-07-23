@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "6mm CBD dilation, suspected pancreatic duct dilation, GB edema.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Multiple small filling defects seen at the lower third of the CBD, three small stones removed, mild irregularity at the origin of the pancreatic duct.",
+            "changes_over_time": "Comparison is made with prior MRCP; details of changes over time not specified."
+        }
+    ]
+}

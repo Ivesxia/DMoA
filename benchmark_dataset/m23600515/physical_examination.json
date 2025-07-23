@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "T 102.5, HR 97, BP 121/69, RR 18, O2 sat 99% on RA",
+            "relevant_findings": "Patient is laying in bed with knees flexed in visible discomfort. ABD: nbs, soft, tender to palpation in left quadrant to periumbilical area with localized rebound tenderness, guarding, nondistended.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

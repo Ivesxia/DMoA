@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Troponin Test",
+            "date": "Not specified",
+            "findings": "Elevated troponin.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "Yeast growth detected.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Steroid Course",
+            "date": "Completed 2 weeks ago",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Vital Signs Assessment",
+            "date": "Admission",
+            "findings": "Tachycardic, mildly dyspneic, slightly jaundiced.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

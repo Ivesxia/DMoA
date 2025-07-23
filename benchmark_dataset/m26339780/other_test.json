@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Urethral stricture dilation",
+            "date": "Not specified.",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "HIDA scan",
+            "date": "Not specified.",
+            "findings": "GB ejection fraction 63%.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified.",
+            "findings": "No wall thickening, Cholelithiasis without evidence of ____.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

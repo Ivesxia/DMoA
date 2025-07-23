@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Abdominal pain started in the epigastric region and migrated to the right lower quadrant (RLQ) yesterday. No fevers, chills, nausea, vomiting, or diarrhea.",
+        "past_medical_history": "1. Exercise-induced asthma 2. Depression",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

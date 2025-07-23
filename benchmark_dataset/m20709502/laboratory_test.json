@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized lung bases are clear. The spleen, adrenals, pancreas, gallbladder appear normal. The remaining liver parenchyma appears normal. The kidneys enhance and excrete contrast symmetrically without masses or hydronephrosis. Stomach and abdominal loops of small bowel appear normal. There is no free air, or free fluid. There is no significant adenopathy. In a retrocecal location is an 11-mm fluid-filled dilated tubular structure with surrounding mesenteric edema. There is trace fluid in the dependent portion of the pelvis. The remaining pelvic loops of small and large bowel appear normal. There is a moderate amount of stool in the colon. The bladder, seminal vesicles, and prostate appear normal. There are no suspicious-appearing sclerotic or lytic lesions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin/Total Protein/Bilirubin",
+            "date": "Not specified",
+            "findings": "NONE",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

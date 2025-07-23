@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient is a ___ year old male who was admitted with 3 days of abdominal pain, fevers, sweats, nausea/vomiting, constipation, and jaundice. The pain is located in the epigastric region and right upper quadrant, radiating to the back. After treatment, the patient currently reports no pain or fevers and is tolerating clear liquids.",
+        "past_medical_history": "Cardiomyopathy (LVEF 35-40%), hypertension (HTN), hypercholesterolemia (^chol), diabetes mellitus (DM), chronic obstructive pulmonary disease (COPD), history of pneumonia (h/o PNA), obesity, persistent epistaxis (s/p surgical clipping), cervical and lumbar disc disease (s/p). Past surgical history includes exploration for right lower quadrant stab wound, appendectomy, and coronary artery bypass grafting (CABG).",
+        "family_history": "Brother with possible congenital heart disorder, died at 55 in military service.",
+        "social_history": "Not specified."
+    }
+}

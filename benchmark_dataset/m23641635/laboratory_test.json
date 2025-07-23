@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Toxigenic C. difficile Test",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile by the Illumigene DNA amplification assay. Reference Range-Negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT Abdomen & Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Acute peripancreatic fluid collections with the largest measures: 1.5 x 3.8 cm and another 2.5 x 7.3 cm, which has increased significantly in size from previous.",
+            "changes_over_time": "The peripancreatic fluid collections have increased significantly in size from previous."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.1°F",
+                "heart_rate": "70 bpm",
+                "respiratory_rate": "11 breaths/min",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "general": "no acute distress, lying comfortably in bed",
+                "HEENT": "Clear oral cavity, dry mucous membranes",
+                "neck": "Supple, no lymphadenopathy (LAD), no jugular vein distension (JVD)",
+                "cardiovascular": "Regular rate and rhythm. Normal S1, S2. No murmurs, rubs or gallops",
+                "lungs": "Clear to auscultation, breath sounds normal, no wheezes/rales/crackles",
+                "abdomen": "Soft, non-tender, non-distended. Normal bowel sounds. No hepatosplenomegaly (HSM)",
+                "extremities": "No edema, 2+ dorsalis pedis pulses",
+                "skin": "No lesions",
+                "neurological": "Alert and oriented x 3. Appropriate responses. Cranial nerves grossly intact. Preserved sensation throughout. Normal strength throughout. Coordination normal.",
+                "psychological": "Listens and responds to questions appropriately, pleasant"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

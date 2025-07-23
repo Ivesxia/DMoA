@@ -1,0 +1,31 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "On arrival": {
+                    "Temperature": "98.8 °F",
+                    "Heart Rate": "119 bpm",
+                    "Blood Pressure": "118/73 mmHg",
+                    "Respiratory Rate": "16 breaths/min",
+                    "Oxygen Saturation": "100% RA"
+                },
+                "At 11:57": {
+                    "Temperature": "101.7 °F",
+                    "Heart Rate": "130 bpm",
+                    "Blood Pressure": "115/67 mmHg",
+                    "Respiratory Rate": "16 breaths/min",
+                    "Oxygen Saturation": "94% RA"
+                }
+            },
+            "relevant_findings": {
+                "General": "Tired appearing",
+                "Cardiovascular": "Tachycardic, regular rhythm, normal S1, S2, no murmurs, rubs or gallops",
+                "Pulmonary": "Lungs clear to auscultation bilaterally. No increased work of breathing.",
+                "Abdomen": "Soft, mild tenderness to palpation in right lower quadrant. No rebound or guarding. Negative obturator and psoas signs.",
+                "Back": "No CVA tenderness"
+            },
+            "changes_over_time": "Heart rate increased from 119 bpm to 130 bpm; temperature increased from 98.8 °F to 101.7 °F."
+        }
+    ]
+}

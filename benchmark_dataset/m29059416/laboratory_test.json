@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Mixed Bacterial Flora Test",
+            "date": "Not specified",
+            "findings": "Mixed bacterial flora (>= 3 colony types), consistent with skin and/or genital contamination.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in echotexture without focal abnormalities. No intra- or extra-hepatic biliary ductal dilatation. Common duct measures 4 mm. Main portal vein demonstrates normal hepatopetal flow. No ascites. The gallbladder is normal without evidence of stones. No pericholecystic fluid, wall thickening, or other evidence of acute cholecystitis. The pancreatic head and body are unremarkable. The pancreatic tail is not well seen due to overlying bowel gas.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

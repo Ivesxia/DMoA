@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Imaged lung bases are clear with the exception of dependent atelectasis. No pleural or pericardial effusion. The liver is normal without focal lesion, intra- or extra-hepatic biliary ductal dilatation. Hepatic and portal veins appear patent. Gallbladder, pancreas, spleen and bilateral adrenal glands are unremarkable. The kidneys enhance and excrete contrast symmetrically without evidence of hydronephrosis. The small and large bowel are unremarkable with the exception of incidentally noted duodenal diverticulum and redundant ascending and sigmoid colon. The appendix is fluid filled and dilated to 10 mm with hyperemia and periappendiceal stranding. No free air or adjacent fluid collection is identified. There is no mesenteric or retroperitoneal lymphadenopathy with the exception of periappendiceal reactive lymph nodes. The bladder is underdistended. Prostatic calcifications are identified. The rectum is unremarkable. There is no free pelvic fluid. Bilateral fat containing inguinal hernias noted. There is no enlarged pelvic or inguinal lymph nodes. Osseous structures show no lytic or sclerotic lesion concerning for osseous malignant process with mild degenerative change noted in the hips.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

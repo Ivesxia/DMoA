@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild bilateral lower lobe dependent atelectasis; scattered coronary artery calcifications; dilated retrocecal appendix to 16 mm with surrounding fat stranding; mild wall thickening within the cecum; no focal liver lesions; no intra or extrahepatic biliary duct dilatation; unremarkable gallbladder, spleen, pancreas, adrenal glands, kidneys, stomach, and small bowel; no free fluid or free air in abdomen; normal-sized abdominal aorta; scattered aortic and bilateral iliac artery calcifications; noncalcified atheromatous disease in aorta and left common iliac artery; unremarkable bladder; no free fluid or pathologically enlarged lymph nodes in pelvis; no osseous lesions concerning for infection or malignancy; multilevel degenerative changes in spine.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

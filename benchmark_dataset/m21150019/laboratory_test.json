@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cepheid nucleic acid amplification assay for C. difficile",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Small bilateral pleural effusions with associated atelectasis. Gallbladder decompressed with a pigtail catheter, no pericholecystic abnormality, no biliary duct dilation, normal pancreas, spleen, kidneys, and urinary system. Enlarged prostate. Mild atherosclerotic disease noted.",
+            "changes_over_time": "Subcentimeter hypodensity in segment II at the dome is unchanged."
+        }
+    ]
+}

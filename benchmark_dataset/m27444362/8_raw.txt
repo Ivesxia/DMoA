@@ -1,0 +1,36 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "surgery",
+      "specific_treatment": "ultrasound-guided percutaneous cholecystostomy",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Not specified"
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2023-09-01",  // Approximate 5 weeks before discharge
+      "event": "Patient presented with abdominal pain."
+    },
+    {
+      "date": "2023-09-01",  // Approximate same date
+      "event": "Patient underwent extensive workup including ERCP."
+    },
+    {
+      "date": "2023-09-01",  // Approximate same date
+      "event": "ERCP revealed a stricture in the proximal pancreas."
+    },
+    {
+      "date": "2023-09-01",  // Approximate same date
+      "event": "Patient had pancreatic stenting done."
+    },
+    {
+      "date": "2023-10-01",  // Date of discharge assumed post workup and treatment
+      "event": "Patient underwent ultrasound-guided percutaneous cholecystostomy."
+    }
+  ]
+}
+```

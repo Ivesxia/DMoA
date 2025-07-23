@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Test (unspecified)",
+            "date": "Not specified",
+            "findings": "7.7 mg/dL (outside normal range of 8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Portable Abdomen Radiograph",
+            "date": "Not specified",
+            "findings": "Gas throughout the small and large bowel compatible with ileus. A new drain is seen in the right lower abdomen. No free air on supine. Subsegmental bibasilar atelectasis noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

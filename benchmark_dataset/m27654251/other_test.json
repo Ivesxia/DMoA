@@ -1,0 +1,25 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopic removal of stone(s) from biliary tract",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CTA CHEST W&W/O C&RECONS, NON-CORONARY",
+            "date": "Not specified",
+            "findings": {
+                "aorta": "Normal caliber without evidence of aneurysm or dissection.",
+                "pulmonary_arities": "Well opacified without filling defect.",
+                "lymph_nodes": "Not pathologically enlarged.",
+                "heart_media": "Normal; pericardium intact without effusion.",
+                "airways": "Patent to subsegmental levels.",
+                "pulmonary": "Bilateral small pleural effusions with adjacent atelectasis; bilateral predominantly upper lobe peripheral ground-glass airspace opacities.",
+                "liver": "Low in attenuation suggestive of steatosis.",
+                "osseous_structures": "No focal lytic or sclerotic lesions concerning for malignancy."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

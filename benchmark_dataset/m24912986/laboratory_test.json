@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Hematocrit 10.8, Hemoglobin 32.1",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "AST 653, ALT 462, Alkaline Phosphatase 109, Total Bilirubin 2.9",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal Function Test",
+            "date": "Not specified",
+            "findings": "Creatinine 1.5",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate Test",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Trop Test",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal Ultrasound",
+            "date": "Not specified",
+            "findings": "Right kidney measures 10.1 cm, left kidney measures 11.0 cm, mild fullness of bilateral renal pelves without hydronephrosis, no stones or renal masses.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

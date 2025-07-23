@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Prothrombin Time (PT)",
+            "date": "Not specified",
+            "findings": "30.1 sec",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Low lung volumes, but clear lungs; borderline enlarged heart; normal mediastinal and hilar contours; no pleural effusion or pneumothorax; normal pleural surfaces.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

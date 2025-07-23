@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Sinus at 90 bpm, QRS 96, QTc 408, nonspecific lateral T wave flattening.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Endoscopic Ultrasound",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "No VRE isolated.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

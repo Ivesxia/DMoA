@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Inflammation surrounding a diverticulum at the cecum, with small foci of air likely within the diverticulum. Secondary wall thickening of the cecum. Minimal hyperemia at the base of the appendix, otherwise normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Stool Culture",
+            "date": "Not specified",
+            "findings": "NO ENTERIC GRAM NEGATIVE RODS FOUND. NO SALMONELLA OR SHIGELLA FOUND.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

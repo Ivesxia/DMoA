@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "In the left lower quadrant at the site of the left lower port site, no superficial fluid collections are seen. No large deeper fluid collections are seen in this region. Small deep collections may be obscured by overlying bowel.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

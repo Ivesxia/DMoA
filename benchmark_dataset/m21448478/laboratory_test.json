@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC 20K with 84% polys",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hemoglobin/Hematocrit",
+            "date": "Not specified",
+            "findings": "H/H 9.___.0",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Plt 256",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "BUN/Creatinine",
+            "date": "Not specified",
+            "findings": "BUN 107, Cr 5.9, stable from last week",
+            "changes_over_time": "Stable from last week"
+        },
+        {
+            "procedure_name": "INR",
+            "date": "Not specified",
+            "findings": "INR 1.3",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate of 1.5",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis (UA)",
+            "date": "Not specified",
+            "findings": "UA with small blood, 3 WBC, few bacteria, no epis, >600 protein",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

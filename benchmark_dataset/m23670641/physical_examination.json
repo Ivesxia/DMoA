@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4 °F",
+                "blood_pressure": "114/76 mmHg -> 160/75 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% RA -> 96% on 2L NC"
+            },
+            "relevant_findings": {
+                "general": "well-appearing male in moderate to severe distress, appears younger than stated age, no icterus, + expiratory wheeze, + dyspneic",
+                "HEENT": "NC/AT, EOMI, PERRLA bilat., dry MM, without cervical LAD",
+                "cardiac": "RRR without m/g/r, no JVD, no bruits",
+                "lungs": "CTA bilat., diminished breath sounds at bases",
+                "abdominal": "+BS, rigid upper abdomen, no masses, well-healed infra-umbilical scar, mildly tender at upper abdomen",
+                "extremities": "warm feet, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

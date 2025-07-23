@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "84 bpm",
+                "blood_pressure": "110/69 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x3, non-toxic appearance",
+                "HEENT": "Left strabismus, no scleral icterus",
+                "CV": "Regular rate and rhythm",
+                "pulmonary": "Clear to auscultation bilaterally",
+                "abdomen": "Soft, nondistended, moderately tender in right upper quadrant, no rebound or guarding, normoactive bowel sounds",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

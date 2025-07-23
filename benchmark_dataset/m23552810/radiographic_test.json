@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Low lung volumes; unremarkable mediastinal and hilar contours; free intraperitoneal air noted under each hemidiaphragm; air in the stomach and splenic flexure of the colon; small air-fluid level over the gallbladder fossa; opacity with air bronchograms in the left lower lobe suggestive of atelectasis or pneumonia; no effusion or pneumothorax.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

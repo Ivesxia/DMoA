@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Mild dependent atelectasis, normal lung fields, no pleural or pericardial effusion.",
+                "abdominal": {
+                    "hepatobiliary": "Liver normal, mild periportal edema, no focal lesions, normal gallbladder.",
+                    "pancreas": "Normal attenuation, no focal lesions or ductal dilatation.",
+                    "spleen": "Normal size and attenuation.",
+                    "adrenals": "Normal size and shape.",
+                    "urinary": "Normal kidneys with no focal lesions or hydronephrosis.",
+                    "gastrointestinal": {
+                        "stomach": "Unremarkable.",
+                        "small_bowel": "Normal caliber and wall thickness, enhancement.",
+                        "appendix": "Dilated at 1.1 cm, thickened wall with adjacent fat stranding, no perforation or abscess.",
+                        "colon": "Mild thickening of cecal wall, remaining colon within normal limits."
+                    },
+                    "pelvis": "Unremarkable urinary bladder and distal ureters.",
+                    "reproductive_organs": {
+                        "uterus": "Enlarged with a large, submucosal fibroid (5.8 x 4.8 cm), moderate fluid in endometrium.",
+                        "adnexa": "Cystic structure in right adnexa (1.6 x 1.8 cm) likely representing a corpus luteum cyst, trace pelvic fluid."
+                    },
+                    "lymph_nodes": "No lymphadenopathy.",
+                    "vascular": "No abdominal aortic aneurysm or atherosclerotic disease.",
+                    "bones": "No acute fractures or worrisome osseous lesions, bilateral pars defects at L5-S1 with mild anterolisthesis."
+                },
+                "soft_tissues": "Tiny fat containing umbilical hernia."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

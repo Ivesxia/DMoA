@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Admission physical examination reveals the patient denies night sweats, chills, loss of vision, dry mouth, sore throat, palpitations, dry cough, coughing up blood, blood or black tarry stool, dysuria, muscle aches, rash, headache, and polyuria.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "MRCP findings show a small left and trace right pleural effusion, gallbladder wall edema, multiple gallstones, a 6 mm well-circumscribed T2 hyperintense lesion likely representing a side branch IPMN, and bilateral simple renal cysts.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

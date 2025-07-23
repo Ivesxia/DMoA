@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Temporary pacing wire placement",
+            "date": "Not specified.",
+            "findings": "Patient was found to be in complete heart block after the scrotal abscess I&D procedure.",
+            "changes_over_time": "Improved capture was documented post procedure, with no reported symptoms."
+        },
+        {
+            "procedure_name": "I&D of the left scrotal abscess",
+            "date": "Not specified.",
+            "findings": "Left scrotal swelling with overlying redness; confirmed abscess post-operative.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

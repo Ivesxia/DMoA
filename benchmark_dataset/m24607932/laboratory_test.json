@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Minimal subsegmental atelectasis at the left lung base. Normal imaged cardiac apex. The liver shows homogeneous parenchymal enhancement without suspicious focal lesion. Grossly patent hepatic veins and portal venous system. No intra- or extra-hepatic biliary ductal dilatation identified. Gallbladder has a small amount of sludge or stones, otherwise normal. Mild heterogeneous enhancement of the pancreatic head without suggestion of mass lesion. Normal spleen and adrenal glands. Symmetric kidney enhancement and excretion without suspicious focal lesion or hydronephrosis. Abdominal aorta and branch vessels are non-aneurysmal and patent. Stomach and small bowel loops normal. No abdominal free fluid or free air. No mesenteric edema or pathologically enlarged mesenteric or retroperitoneal lymph nodes. Appendix normal. Rectum and colon normal. Mildly distended bladder appears normal. No visualized uterus and adnexa, likely due to prior surgical resection. No pelvic free fluid or pathologically enlarged pelvic or inguinal lymph nodes. No bone destructive lesions or acute fractures.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for organisms",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

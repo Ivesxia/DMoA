@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.2 °F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "95% on RA",
+                "date_recorded": "Not specified"
+            },
+            "relevant_findings": {
+                "mental_status": "Alert, oriented to name, place and situation.",
+                "general": "Fatigued appearing but comfortable, no acute signs of distress.",
+                "HEENT": "NCAT, Pupils equal and reactive, sclerae anicteric, OP clear, MMM.",
+                "neck": "Supple, no JVD, No cervical, supraclavicular LAD.",
+                "cardiovascular": "S1S2, regular rate and rhythm, no murmurs, rubs or gallops.",
+                "respiratory": "Good air movement bilaterally, no rhonchi or wheezing.",
+                "abdominal": "Soft, mildly tender in epigastrium to palpation, non-distended, + bowel sounds.",
+                "extremities": "No lower leg edema, no clubbing or cyanosis.",
+                "dermatological": "No active rash.",
+                "neurological": "Moving all four extremities purposefully, non-focal.",
+                "psychological": "Appropriate and calm."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

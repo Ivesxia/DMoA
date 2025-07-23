@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized lung bases are clear with minimal scarring at the left base. The liver enhances homogeneously with no focal liver lesions. The portal and hepatic veins are patent with no intra or extrahepatic biliary dilatation. The gallbladder is thin walled and nondistended. The pancreas and spleen enhance homogeneously. The kidneys enhance symmetrically and excrete contrast promptly. There is no ascites or abdominal adenopathy. The appendix is mildly dilated to 9 mm with a small appendicolith at the tip and no surrounding stranding or fluid collection. The remainder of the bowel, bladder, uterus, and ovaries are normal with no free pelvic fluid or inguinal/pelvic adenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

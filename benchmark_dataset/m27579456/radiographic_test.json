@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Mild cardiomegaly and mediastinal vascular engorgement without pulmonary edema is unchanged. Atelectasis of both lower lobes is unchanged with interval increase in small pleural effusion on the left. An NG tube and right subclavian catheter terminate appropriately, unchanged.",
+            "changes_over_time": "Interval increase in small pleural effusion on the left."
+        }
+    ]
+}

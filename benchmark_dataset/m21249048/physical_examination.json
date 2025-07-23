@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.3°F",
+                "heart_rate": "84 bpm",
+                "blood_pressure": "107/73 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "95% on room air"
+            },
+            "relevant_findings": {
+                "general": "Pleasant, well-appearing gentleman in no acute distress.",
+                "heent": "No scleral icterus or conjunctival injection. Moist mucous membranes. Oropharynx clear. No cervical lymphadenopathy.",
+                "lungs": "Clear to auscultation bilaterally. Non-labored breathing.",
+                "heart": "Regular rate and rhythm.",
+                "abdomen": "Soft, mildly tender to palpation incisionally, nondistended.",
+                "wound": "Lap incisions covered with clean gauze and tegaderm. No surrounding erythema or induration. Former site clean, dry and intact.",
+                "extremities": "Warm and well-perfused, peripheral pulses intact."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

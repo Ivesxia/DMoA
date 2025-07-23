@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT-guided drainage of left pelvic collection",
+            "date": "Not specified",
+            "findings": "Demonstrated a 10.6 x 3.6 cm multi loculated perisigmoid collection containing fluid and gas.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of Pelvis, Non-Obstetric",
+            "date": "Not specified",
+            "findings": "The uterus measures 9.8 x 4.8 x 5.1 cm. Pigtail catheter in the left adnexa partially visualized with multiple foci of air, small amount of fluid, and inflammatory changes seen in the left adnexa extending to the sigmoid colon.",
+            "changes_over_time": "Collection appears to extend to the margin of the left ovary; small residual fluid and air remains in the pocket with catheter in place."
+        }
+    ]
+}

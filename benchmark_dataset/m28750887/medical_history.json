@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain for 12 hours.",
+        "history_of_present_illness": "The patient awoke at 3am with diffuse abdominal pain, which was accompanied by 2 episodes of non-bloody vomiting and diarrhea. She could not sleep for the rest of the night due to the pain, which later localized to the right lower quadrant (RLQ) by morning. The pain is described as sharp and non-radiating. The patient reports abdominal distension and increased pain upon palpation of the area. She has experienced a loss of appetite but denies fever, chills, and other systemic symptoms. She has not had further diarrhea since morning and has not passed gas.",
+        "past_medical_history": "History of gastroesophageal reflux disease (GERD), rectal bleeding with prior colonoscopy showing internal hemorrhoids, menopause, phyloides tumor of the right breast with mastectomy, and a left tibial fracture after being hit by a car.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

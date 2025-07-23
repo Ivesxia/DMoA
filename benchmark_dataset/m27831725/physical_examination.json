@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "Respiratory": "no audible breath sounds",
+                "Cardiovascular": "no cardiac activity",
+                "Abdominal": "open abdomen, surgical dressing and drains in place",
+                "Extremities": "2+ edema b/l U&L extremities"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

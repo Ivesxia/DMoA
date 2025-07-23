@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "heart_rate": "143 bpm",
+                "blood_pressure": "143/80 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "94% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD (No Acute Distress)",
+                "pain": "Not specified",
+                "HEENT": "EOMI (Extraocular Movements Intact), MMM (Moist Mucous Membranes), - OP Lesions",
+                "pulmonary": "CTA B/L (Clear to Auscultation Bilaterally)",
+                "cardiovascular": "RRR with frequent ectopy, S1/S2, - MRG",
+                "abdominal": "Mild LUQ TTP (Left Upper Quadrant Tenderness), ND (Non-Distended), + BS (Bowel Sounds), - CVAT (Costovertebral Angle Tenderness)",
+                "extremities": "- CCE (Cyanosis, Clubbing, Edema)",
+                "neurological": "CAOx3 (Alert and Oriented to Person, Place, and Time), Non-Focal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

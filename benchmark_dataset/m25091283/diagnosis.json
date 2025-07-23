@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Pancreatitis",
+        "differential_diagnosis": "Diabetes mellitus, Hyperlipidemia, Hypertension, Back pain",
+        "diagnostic_reasoning": "The patient presented with three weeks of right upper quadrant and epigastric abdominal pain, worsening over the past five days, along with nausea and weight loss. Notably, the laboratory results showed a significantly elevated lipase level of 2652, which supports the diagnosis of pancreatitis. An ultrasound indicated diffuse fatty liver but no evidence of gallstones, ruling out biliary causes of pancreatitis. The patient's clinical history of diabetes and hyperlipidemia is also relevant, as these conditions can contribute to pancreatitis."
+    }
+}

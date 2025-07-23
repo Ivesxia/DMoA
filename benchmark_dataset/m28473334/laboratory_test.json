@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "CT abdomen pelvis with contrast shows multiple loculated rim enhancing fluid collections with extensive fat stranding in the right lower quadrant likely reflecting an inflamed ruptured appendix. The largest fluid collection measures up to 3.8 x 2.6 x 2.2 cm. There are also subcentimeter hypodensities in the liver likely representing biliary hamartomas, with no evidence of biliary dilatation or other significant abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Additional Test",
+            "date": "Not specified",
+            "findings": "27.2 sec (prolonged) with a reference range of 25.0 - 36.5 sec and NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

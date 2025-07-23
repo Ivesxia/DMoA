@@ -1,0 +1,32 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "liver": "homogenous attenuation, no focal lesions, no biliary dilatation",
+                "gallbladder": "within normal limits",
+                "pancreas": "normal attenuation, no focal lesions, no ductal dilatation",
+                "spleen": "mildly enlarged, 15.2 cm in length",
+                "adrenals": "normal size and shape",
+                "kidneys": "normal and symmetric size, normal nephrogram, no lesions",
+                "stomach": "unremarkable",
+                "small bowel": "normal caliber, wall thickness, and enhancement",
+                "colon": "within normal limits",
+                "appendix": "mildly enlarged at 8 mm with hazy increased attenuation in adjacent fat and hypervascularity",
+                "free fluid": "none observed",
+                "lymph nodes": "no lymphadenopathy",
+                "vascular": "no abdominal aortic aneurysm or atherosclerotic disease",
+                "bones": "no worrisome lesions or acute fractures",
+                "soft tissues": "very small fat-containing umbilical hernia"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

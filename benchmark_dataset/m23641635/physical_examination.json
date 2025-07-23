@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7",
+                "pulse": "108",
+                "blood_pressure": "106/69",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "94% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well appearing middle aged female laying in bed",
+                "eyes": "Pin point pupils, conjunctiva clear",
+                "cardiovascular": "Regular rhythm, tachycardia, S1 and S2 present, no systolic murmur",
+                "gastrointestinal": "Abdomen soft, tender diffusely, mildly distended, diminished bowel sounds",
+                "musculoskeletal": "Upper and lower extremity strength symmetrical",
+                "neurological": "Alert and oriented, WNL",
+                "integument": "Warm, dry",
+                "psychiatric": "Appropriate, pleasant demeanor"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

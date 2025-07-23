@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Legionella serogroup 1 antigen test",
+            "date": "Not specified",
+            "findings": "NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN. (Reference Range-Negative). A negative result does not rule out infection due to other L. pneumophila serogroups or other Legionella species.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Physical Exam",
+            "date": "Not specified",
+            "findings": "Patient was fatigued but arousable, in moderate distress. Noted sinus tachycardia. Abdomen was soft, distended, diffusely tender to palpation with rebound and guarding. Bilateral 2+ pitting edema.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

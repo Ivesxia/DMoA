@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "heart_rate": "94 bpm",
+                "blood_pressure": "122/65 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Elderly female, laying in bed. Appears comfortable but states that she is cold.",
+                "HEENT": "No conjunctival injection, anicteric sclera, dry mucous membranes, left pupil surgical, right pupil 5 mm sluggish.",
+                "CV": "S1S2 regular rate and rhythm, no murmurs/rubs/gallops.",
+                "RESP": "Bilateral air entry without wheezes/cackles/crackles.",
+                "GI": "+ bowel sounds, distended soft abdomen, tenderness in left lower quadrant, no rebound or guarding.",
+                "MSK": "No cyanosis, +2 pulses, chronic venous stasis changes.",
+                "SKIN": "Erythematous rash on left lower quadrant and left lower extremity.",
+                "NEURO": "Facial symmetry, fluent speech, alert and oriented x1, able to raise bilateral lower extremities, symmetric cranial nerves.",
+                "PSYCH": "Calm, cooperative.",
+                "LAD": "No cervical lymphadenopathy.",
+                "RECTAL": "Trace/scant amount of dark blood on finger."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "89 bpm",
+                "blood_pressure": "97/47 mmHg",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

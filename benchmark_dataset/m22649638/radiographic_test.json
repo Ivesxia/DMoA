@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Lung bases are clear. The liver, spleen, pancreas, adrenals, and gallbladder are normal in appearance. Two hypoattenuating lesions within the right kidney which are too small to be fully characterized. The kidneys are otherwise unremarkable. No hydronephrosis or definite stone. Intra-abdominal bowel loops are normal in caliber. No abdominal lymphadenopathy by size criteria. Abdominal aorta is normal in course and caliber. Appendix is dilated, measuring a maximum up to 8-9 mm with wall irregularity and fluid-filled appearance. No drainable periappendiceal abscess. Trace free fluid within the pelvis. Uterus is grossly normal. No bowel obstruction. Bladder is unremarkable. No suspicious osseous lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EGD",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Percutaneous cholecystostomy tube placement",
+            "date": "Not specified",
+            "findings": "Gallbladder contains sludge and small stones. Small amount of pericholecystic fluid. Gallbladder not distended, decreased in caliber since the recent prior CT. Gallbladder wall not significantly thickened.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

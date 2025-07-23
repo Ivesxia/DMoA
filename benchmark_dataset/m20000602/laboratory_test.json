@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "A high attenuation focus is seen in the mid appendix which may represent an appendicolith (versus retained material/contrast). Beyond this hyperdense focus there is relative dilation of the appendix with mild surrounding fat stranding. There is no periappendiceal fluid collection.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Organism Count",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

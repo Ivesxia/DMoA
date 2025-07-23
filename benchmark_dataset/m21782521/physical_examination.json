@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "61 bpm",
+                "blood_pressure": "129/69 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Well, NAD, A&Ox3",
+                "cardiovascular": "RRR, No R/G/M",
+                "respiratory": "CTAB",
+                "abdominal": "Soft, Non-distended, minimal RLQ tenderness to deep palpation, No rebound, No guarding"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

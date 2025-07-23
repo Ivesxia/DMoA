@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99 °F",
+                "blood_pressure": "141/59 mmHg",
+                "heart_rate": "73 bpm",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Asian male, lying in bed, pleasant, conversational and cooperative with exam",
+                "cardiac": "Normal S1/S2, no appreciable murmurs",
+                "pulmonary": "Clear bilaterally",
+                "abdominal": "Soft and nontender; numerous palpable masses across epigastrium and right upper abdomen; minimal bowel sounds",
+                "extremities": "No swelling noted"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "80/54 mmHg",
+                "heart_rate": "60 bpm",
+                "blood_sugar": "110 mg/dL"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Blood pressure was initially noted to be low at 80/54 mmHg with a heart rate of 60 bpm upon EMS arrival."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Streaky opacities in the bilateral lung bases compatible with minimal bibasilar atelectasis. Lungs are otherwise clear. Liver enhances homogeneously without evidence of concerning focal lesion. No intrahepatic biliary ductal dilation. Portal vein is patent. Gallbladder does not display stones or evidence of wall thickening. No peripancreatic stranding or ductal dilation. Adrenals are unremarkable. No splenomegaly or focal splenic lesion. Normal symmetric nephrograms with no hydronephrosis. Non-dilated loops of small bowel are normal. A tubular, blind-ending structure, 8 mm in diameter, arises from the cecum, showing mildly thickened wall and fluid-filled lumen. These findings are equivocal for early or mild appendicitis. No evidence of mesenteric or retroperitoneal lymphadenopathy. Abdominal aorta normal. No free intraperitoneal air. In the right adnexa, a peripherally enhancing, 1.8 cm hypodensity compatible with a corpus luteal cyst is seen. Trace free pelvic fluid within physiologic range. Uterus and bladder are normal. No evidence of pelvic or inguinal lymphadenopathy. Minimal degenerative joint change of the imaged thoracolumbar spine.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver appears normal in echotexture. No focal liver lesions identified. The common bile duct measures 0.6 cm. The gallbladder appears unremarkable. A gallstone in the neck of the gallbladder is noted which did not move with position change. A second area with shadowing in the vicinity of the gallbladder neck likely represents air in the duodenal bulb, less likely a shadowing gallstone. The visualized pancreas appears unremarkable. The main portal vein is patent. There is no free fluid within the right upper quadrant.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

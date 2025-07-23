@@ -1,0 +1,43 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung_bases": "dependent atelectasis, no pleural or pericardial effusion",
+                "cardiac_silhouette": "enlarged, dilatation of the left atrium",
+                "liver": "4-mm hypoattenuating lesion within the high right hepatic lobe, otherwise normal",
+                "gallbladder": "normal",
+                "spleen": "normal",
+                "stomach": "small hiatal hernia, otherwise normal",
+                "small_bowel": "normal",
+                "adrenal_glands": "normal",
+                "intra-abdominal_aorta": "normal",
+                "kidneys": "multiple hypoattenuating lesions, largest left measuring 3.3 x 3.2 cm (simple cyst), largest right measuring 11 x 8 mm",
+                "right_kidney": "well-defined hypoattenuated focus involving the interpolar portion, duplication of right-sided collecting system",
+                "free_air_free_fluid": "none",
+                "pathologically_enlarged_lymph_nodes": "none",
+                "right_hepatic_artery": "replaced off the SMA",
+                "pelvis": {
+                    "bowel": "marked eccentric wall thickening involving mid sigmoid colon with inflammatory changes in adjacent mesenteric fat",
+                    "intramural_lesion": "well-defined 15 x 20 mm hypoattenuating lesion",
+                    "microperforation": "none",
+                    "extraluminal_abscess": "none",
+                    "diverticulosis": "evidence of mild, otherwise unremarkable",
+                    "urinary_bladder": "normal",
+                    "uterus_adnexa": "normal",
+                    "free_fluid": "none",
+                    "pathologically_enlarged_lymph_nodes": "none"
+                },
+                "bone": "mild degenerative changes noted within the lower lumbar spine, disk space narrowing at L2-L3"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

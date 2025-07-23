@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "The cardiomediastinal and hilar contours are within normal limits. Lungs are well expanded and clear. There is no focal consolidation, pleural effusion or pneumothorax. There is no evidence of free air. Old deformity is seen in the left mid shaft clavicle.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "White Blood Cell Count (WBC)",
+            "date": "Not specified",
+            "findings": "WBC count elevated to 13.2, which is outside the normal range (normal range: 4.5 - 11.0 × 10^9/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Inflammatory changes surrounding multiple sigmoid diverticula, focal bowel wall thickening, and minor free fluid in the pelvis suggestive of peritonitis. No evidence of perforation, with mild dilation of the common bile duct.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

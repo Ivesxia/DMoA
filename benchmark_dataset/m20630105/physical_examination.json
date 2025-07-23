@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9°F",
+                "blood_pressure": "120/76 mmHg",
+                "heart_rate": "83 bpm",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "98%",
+                "date_recorded": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "NAD, AxOx3",
+                "cardiovascular": "RRR, no m/r/g",
+                "pulmonary": "CTAB, no respiratory distress",
+                "abdominal": "Soft, non-distended, normal bowel sounds. Moderate tenderness around laparoscopy sites.",
+                "wounds": "c/d/i",
+                "extremities": "No edema, warm well-perfused",
+                "date_examined": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

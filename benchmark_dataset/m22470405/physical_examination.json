@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "T 97.8",
+                "blood_pressure": "BP 106/57",
+                "heart_rate": "HR 77",
+                "respiratory_rate": "RR 16",
+                "oxygen_saturation": "SaO2 96% on RA"
+            },
+            "relevant_findings": {
+                "general": "Resting comfortably, in no acute distress.",
+                "HEENT": "NC/AT. Neck supple, JVD flat. No carotid bruits.",
+                "pulmonology": "CTAB, no wheezes.",
+                "cardiac": "RRR, normal S1/S2, III/VI SEM @ LUSB radiating to the carotids.",
+                "abdominal": "Soft, nontender, nondistended, bowel sounds hypoactive. No rebound or guarding.",
+                "extremities": "WWP, no c/c/e.",
+                "neurologic": "A&Ox3. CNII-XII grossly intact. Strength throughout normal. Sensation normal."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "In the ED",
+            "vital_signs": {
+                "temperature": "T 98",
+                "heart_rate": "HR 109",
+                "blood_pressure": "BP 160/81",
+                "respiratory_rate": "RR 18",
+                "oxygen_saturation": "SaO2 95% RA"
+            },
+            "relevant_findings": {
+                "general": "Dry lips, lightheadedness when sitting up."
+            },
+            "changes_over_time": "Initially elevated heart rate at 109 and blood pressure at 160/81, noted decline to HR 82 and BP 106/60 upon transfer."
+        }
+    ]
+}

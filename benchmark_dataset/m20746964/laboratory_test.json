@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is enlarged, with hyperemia and wall thickening, measuring up to 11 mm. There is extensive surrounding phlegmonous changes with a 1.6 cm rounded hypodense area with peripheral enhancement adjacent to the appendiceal tip concerning for a small abscess. There is also a small amount of free fluid in the pelvis surrounding the inflamed appendix.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood test",
+            "date": "Not specified",
+            "findings": "8.5 mg/dL (the context of what this measurement refers to is not specified but in relation to normal ranges of 8.4 to 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

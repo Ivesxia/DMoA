@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatinine Test",
+            "date": "Not specified",
+            "findings": "Serum creatinine value of 1.6. Estimated GFR = 41 if non African-American, and 50 if African-American. GFR < 60 indicates chronic kidney disease.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture Test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

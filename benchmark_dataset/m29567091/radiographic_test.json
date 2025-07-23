@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Minor atelectasis at each lung base; trace bilateral pleural effusions; many small stones in the gallbladder (4 to 8 mm); no biliary dilatation; gallbladder mostly full with no wall thickening or edema; inflammatory changes in fat adjacent to the pancreas; pancreas enhances throughout; no organized fluid collection; normal spleen size; normal adrenal appearance; medium sized simple cyst in the mid left kidney (25 mm); no lymphadenopathy; widely patent major vascular structures; incidental replaced hepatic artery; unremarkable bone marrow signal intensities.",
+            "changes_over_time": "Inflammatory changes in the fat adjacent to the pancreas consistent with acute interstitial changes, similar to those seen on the recent CT scan."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The abdominal examination shows a dilated retrocecal appendix with surrounding fat stranding consistent with acute uncomplicated appendicitis. An appendicolith is seen at the base of the appendix. Right kidney is atrophic. No other significant findings noted in the liver, pancreas, spleen, adrenal glands, stomach, small bowel, colon, rectum, urinary bladder, or reproductive organs.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test (unspecified)",
+            "date": "Not specified",
+            "findings": "Value: 1.1, Reference Range: 0.9 - 1.1 (result is at the upper limit of normal).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

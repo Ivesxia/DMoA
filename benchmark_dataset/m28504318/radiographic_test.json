@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver shows no evidence of focal lesions or textural abnormality. There is no evidence of intrahepatic or extrahepatic biliary dilatation. A three mm calcification in the left lobe of the liver is not evident on the CT scan and of doubtful clinical significance. The gallbladder is nondistended with a thickened and edematous wall measuring 6 mm. Mobile gallstones are present. The common bile duct measures 3 mm. The sonographic ___ sign is negative. The pancreas is unremarkable, without evidence of focal lesions or pancreatic duct dilatation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

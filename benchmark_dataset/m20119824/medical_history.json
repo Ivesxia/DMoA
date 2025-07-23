@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric and substernal chest pain.",
+        "history_of_present_illness": "Symptoms began on ___ with intermittent nausea and vomiting. On ___ at 10 am, the patient developed acute onset epigastric pain with radiation to the mid chest, associated with shortness of breath. The pain started after vomiting and was described as never having been experienced before. Overall, the patient's pain has improved upon arrival to the floor, although she continues to report epigastric pain associated with nausea.",
+        "past_medical_history": "Hypertension, hyperlipidemia, hypothyroidism, palpitations, POTS followed by a specialist every six months, cardiac murmur, nephrolithiasis, and history of cholecystectomy for gallstones.",
+        "family_history": "Brother with lung cancer, brother with melanoma of the eye requiring resection, son died from unspecified colon/liver cancer.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "68 bpm",
+                "blood_pressure": "124/66 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": "In pain, Alert and oriented x3 (A+OX3), Regular rate and rhythm (RRR), Clear to auscultation bilaterally (CTAB), Soft abdomen, diffusely tender with no peritoneal signs, (+) Rovsing's sign, Rectal exam deferred.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

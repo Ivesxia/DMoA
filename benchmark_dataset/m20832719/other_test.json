@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Biopsies of the cecal mass were benign.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "FOLFOX chemotherapy",
+            "date": "Started on ___, finished on ___",
+            "findings": "Patient experienced lethargy but continued to work.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Multiple areas of linear plate-like atelectasis seen bilaterally over the lower lobes. No focal consolidation concerning for pneumonia. Stable small right-sided pleural effusion. Mild cardiomegaly. No evidence of pneumothorax or left effusion.",
+            "changes_over_time": "No significant interval change since examination from ___."
+        }
+    ]
+}

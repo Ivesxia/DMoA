@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9 °F",
+                "heart_rate": "118 bpm",
+                "blood_pressure": "191/77 mmHg",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "92% on room air"
+            },
+            "relevant_findings": {
+                "general": "Mildly diaphoretic and uncomfortable appearing",
+                "HEENT": "Non-conjunctival anicteric, moist mucous membranes",
+                "cardiovascular": "S1S2 regular rate and rhythm, no murmurs, rubs, or gallops",
+                "respiratory": "Bilateral air entry, no wheezes, crackles, or rubs",
+                "gastrointestinal": "+ bowel sounds, mildly distended, somewhat firm, no guarding or rebound, + epigastric tenderness",
+                "musculoskeletal": "No cyanosis, clubbing, or edema, 2+ pulses",
+                "skin": "No rash",
+                "neurological": "Face symmetric, speech fluent",
+                "psychological": "Calm, cooperative"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

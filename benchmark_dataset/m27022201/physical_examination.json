@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.0 F",
+                "heart_rate": "100 bpm",
+                "blood_pressure": "126/67 mmHg",
+                "respiratory_rate": "18 bpm",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "HEENT": "Normocephalic, atraumatic; Oropharynx within normal limits",
+                "Chest": "Clear to auscultation",
+                "Cardiovascular": "Regular Rate and Rhythm, Normal first and second heart sounds",
+                "Abdominal": "Palpation right lower quadrant with voluntary guarding, positive Psoas and Rovsing sign",
+                "GU/Flank": "No costovertebral angle tenderness",
+                "Extr/Back": "No cyanosis, clubbing or edema",
+                "Skin": "No rash",
+                "Neuro": "Speech fluent",
+                "Psych": "Normal mood, Normal mentation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The imaged lung bases are clear. The liver, spleen, gallbladder, pancreas, and both adrenal glands appear normal. Kidneys enhance symmetrically and excrete contrast promptly. No free air is seen. A tubular blind ending dilated structure in the right lower quadrant measuring up to 12 mm in diameter is present, compatible with an appendicolith. Free fluid in the deep pelvis likely relates to the aforementioned appendicitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

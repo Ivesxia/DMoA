@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient's presentation included 3 days of right lower quadrant abdominal pain, associated with anorexia and subjective fever, and a CT scan revealed a fluid-filled structure in the right lower quadrant with hyperenhancement of the wall and surrounding fat stranding, consistent with appendicitis."
+    }
+}

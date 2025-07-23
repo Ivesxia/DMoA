@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2°F",
+                "heart_rate": "68 bpm",
+                "blood_pressure": "160/94 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": "Elevated total bilirubin and mild leukocytosis. Blood pressure unequal in both arms (140 in one arm, 170s in another).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "heart_rate": "71 bpm",
+                "blood_pressure": "157/99 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": "General: Alert, oriented, no acute distress. Abdomen: soft, mild diffuse tenderness that refers to the epigastrium, non-distended, hypoactive bowel sounds, no rebound tenderness or guarding, no organomegaly.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

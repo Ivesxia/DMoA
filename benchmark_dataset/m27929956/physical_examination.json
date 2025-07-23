@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4 degrees F",
+                "blood_pressure": "98/58 mmHg",
+                "heart_rate": "74 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Appears in mild distress",
+                "gastrointestinal": "Diffuse tenderness throughout abdomen with maximal tenderness in the epigastric and RUQ region. No guarding/rigidity elicited. Bowel sounds present. No masses or hepatosplenomegaly.",
+                "neurological": "Alert and oriented x3. Cranial nerves II-XII intact. Strength throughout is noted as unremarkable with no focal neurologic deficits.",
+                "musculoskeletal": "No cyanosis or clubbing. Trace edema noted."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EKG",
+            "date": "Not specified",
+            "findings": "Reportedly unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Holter monitor consideration",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biliary Colic Evaluation",
+            "date": "Approximately 18 months ago",
+            "findings": "Patient's WBC was elevated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic cholecystectomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

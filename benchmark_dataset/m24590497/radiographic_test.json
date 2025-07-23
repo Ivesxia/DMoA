@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "The area of increased FLAIR signal and T2 signal in the left frontal lobe appears similar compared to prior with an oval cystic component measuring 18 mm in AP dimension and 10 mm in transverse dimension. Very faint enhancement just medial to the cystic component is again seen. Several scattered FLAIR hyperintense foci in the subcortical white matter suggest sequela of chronic small vessel ischemic disease, although these are nonspecific. Major intracranial arteries and venous sinuses appear patent. Perfusion imaging demonstrates decreased relative cerebral blood volume in the left frontal abnormality. No significant hyperperfusion is noted on the ASL sequence. MR spectroscopy does not include the cystic component of the lesion. In the adjacent area of FLAIR signal abnormality, there is uniformly decreased NAA, which is nonspecific. There is no definite tumoral spectrum. Choline and creatinine peaks are roughly the same in the abnormal and normal areas. The functional paradigms demonstrate the expected activation areas during the movement of the hands and feet in the primary motor cortex. During the movement of the right hand, BOLD activation areas are visualized in close relation with the left frontal lesion posteriorly. The language paradigm demonstrates the majority of the activation on the left cerebral hemisphere adjacent to the left opercular region, likely related to dominance, areas of BOLD signal are visualized posterior to the left frontal lesion during the movement of the tongue. On the DTI/Tractography images, there is no significant deviation of the association, commissural and cortico-spinal tracts.",
+            "changes_over_time": "The area of increased FLAIR signal and T2 signal in the left frontal lobe appears similar compared to prior."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "There is trace atelectasis at the lung bases. There is a small hiatal hernia. There is no pericardial or pleural effusion. The liver is normal. The common bile duct shows minimal enhancement. There is no intra- or extra-hepatic biliary ductal dilatation. The CBD measures 9 mm. The gallbladder has a 14-mm stone. It is distended with trace pericholecystic fluid. The pancreas, spleen, and adrenals are normal. There are tiny renal cysts bilaterally, the largest measuring 7 mm at the interpolar region on the left. The intra-abdominal small and large bowel is normal. There is no free fluid, free air, or adenopathy. There is dense calcification of the abdominal aorta and the common iliac arteries. In the pelvis, there is a Foley catheter within the bladder. There is extensive sigmoid diverticulosis without diverticulitis. The rectum is normal. The uterus and adnexa are normal. There is no free fluid in the pelvis. There is no inguinal or pelvic adenopathy. There is mild degenerative change in the lumbar spine.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

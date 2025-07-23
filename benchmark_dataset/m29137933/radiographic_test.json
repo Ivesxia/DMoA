@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Dependent subsegmental atelectasis at the lung bases, free air in the abdomen, predominant in the perihepatic region, segment of sigmoid colon with wall thickening in the left lower quadrant, associated fat stranding, multiple locules of gas within the mesocolon.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "Possible free air under the diaphragm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

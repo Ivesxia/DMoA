@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.5F",
+                "blood_pressure": "119/67 mmHg",
+                "heart_rate": "80 bpm",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "A&O, appears ill, rigoring",
+                "HEENT": "Sclerae icterus?, EOM intact, o/p clear, mmm",
+                "neck": "Supple, no thyromegaly",
+                "lymph_nodes": "No cervical, supraclavicular, axillary, or inguinal LAD",
+                "cardiovascular": "S1S2, reg rate and rhythm, no murmurs, rubs or gallops",
+                "respiratory": "Good air movement bilaterally, no added sounds",
+                "abdomen": "Soft, RUQ tender, no guarding or rebound, non-distended, no HSM palpable",
+                "extremities": "+1 RLE edema, no calf tenderness, no clubbing",
+                "dermatological": "Left toe periungual erythema and severe tenderness, no rash",
+                "neurological": "No focal deficits",
+                "psychological": "Appropriate and calm"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

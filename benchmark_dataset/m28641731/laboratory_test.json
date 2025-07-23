@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Tests (LFTs)",
+            "date": "Not specified",
+            "findings": "Normal LFTs.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "White Blood Cell (WBC) Count",
+            "date": "Not specified",
+            "findings": "WBC count is 6 (normal).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Tortuosity of the descending aorta; cardiomediastinal and hilar contours within normal limits; lungs well expanded and clear; no focal consolidation, pleural effusion, or pneumothorax.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

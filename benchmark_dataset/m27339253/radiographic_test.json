@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder is mildly distended with circumferential wall edema, multiple calcified internal stones, and trace pericholecystic fluid. The liver is normal in echogenicity, without focal lesions. Normal hepatopetal flow in the portal vein. No intrahepatic biliary dilation. The common bile duct is top normal for age at 8 mm. Spleen measures 10.8 cm. Pancreas is not visualized, due to shadowing bowel gas.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

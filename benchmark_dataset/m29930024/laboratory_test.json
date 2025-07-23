@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Significantly elevated lipase.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Normal outline to the liver and normal hepatic parenchymal signal intensity. Gallbladder distended with numerous gallstones, wall edematous up to 7 mm with hyperemia but intact. Mild surrounding pericholecystic stranding and free fluid consistent with acute cholecystitis. Common bile duct normal in diameter (4 mm). Pancreas normal in caliber with no peripancreatic stranding.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "Mixed bacterial flora (≥ 3 colony types), consistent with fecal contamination.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

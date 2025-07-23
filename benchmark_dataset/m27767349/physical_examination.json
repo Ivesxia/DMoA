@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2",
+                "heart_rate": "102",
+                "blood_pressure": "167/75",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "well appearing, in NAD",
+                "heent": "NC/AT, PERRLA, EOMI, sclerae anicteric, MMM",
+                "neck": "supple, no LAD",
+                "lungs": "CTA bilat, no r/rh/wh, good air movement, resp unlabored, no accessory muscle use",
+                "heart": "RRR, no MRG, nl S1-S2 present",
+                "abdomen": "normoactive bowel sounds, soft, slightly tender on deep palpation of LLQ. No rebound no guarding. No masses.",
+                "extremities": "No edema, 2+ pulses DP. (diminished on R)",
+                "neuro": "awake, A&Ox3, CNs II-XII grossly intact, muscle strength ___ throughout"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0",
+                "heart_rate": "20",
+                "blood_pressure": "155/75",
+                "respiratory_rate": "20",
+                "oxygen_saturation": "95% RA"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

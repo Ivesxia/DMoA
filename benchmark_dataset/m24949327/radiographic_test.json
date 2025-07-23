@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver demonstrates heterogeneous echotexture with no evidence of focal lesion. There is no evidence of intrahepatic or extrahepatic biliary dilatation. The gallbladder is surgically absent. There is no evidence of common bile duct or pancreatic ductal dilatation. The common bile duct measures 0.3 cm. There is no evidence of choledocholithiasis. No ascites is present. The main portal vein demonstrates normal hepatopetal flow. The visualized portions of the inferior vena cava appear normal. Hypoechoic lesion in the right kidney with posterior acoustic enhancement, suggestive of a cyst.",
+            "changes_over_time": "Hypoechoic lesion in the right kidney with posterior acoustic enhancement, suggestive of a cyst, is unchanged since the CT from ___."
+        }
+    ]
+}

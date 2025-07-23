@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "A single new high-signal intensity lesion in segment III of the liver measuring 8 mm, consistent with either cyst or hemangioma. CBD is dilated up to 1 cm with mild left intrahepatic biliary dilatation. Multiple small stones in the gallbladder, no gallbladder distention or wall thickening. Normal pancreas, spleen, adrenals; right kidney shows moderate hydronephrosis with proximal hydroureter.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

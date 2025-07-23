@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "Mixed bacterial types (>=3) including P. aeruginosa, S. aureus, and beta strep; susceptibility will be performed on P. aeruginosa and S. aureus if sparse growth or greater.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Electrolytes",
+            "date": "Not specified",
+            "findings": "Sodium level reported as 39.0 mEq/L.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph (Portable AP)",
+            "date": "Not specified",
+            "findings": "Low lung volumes; left moderate pleural effusion increased; left basilar atelectasis unchanged; large hiatal hernia unchanged; mild cardiomegaly unchanged.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

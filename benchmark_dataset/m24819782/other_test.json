@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Consistent with cholangiocarcinoma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PTC and exchange of internal-external biliary drainage catheter",
+            "date": "Not specified",
+            "findings": "Patient had decreased output from his biliary drain and was managed on his own for 6 months.",
+            "changes_over_time": "For two weeks after the procedure he felt better but then the pain returned."
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

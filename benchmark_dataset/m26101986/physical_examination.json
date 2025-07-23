@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "114/70 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "general": "Patient appears in no apparent distress.",
+                "HEENT": "No scleral icterus, mucous membranes moist, oropharynx clear, no lymphadenopathy, pupils bilaterally and equally reactive.",
+                "cardiovascular": "Regular rate and rhythm, S1 and S2, no murmurs/gallops/rubs.",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes/rales/rhonchi.",
+                "abdominal": "+ bowel sounds, soft, nondistended, tenderness to palpation in right lower quadrant with evidence of Rovsing's sign, no rebound tenderness or guarding, no palpable masses.",
+                "extremities": "Some edema around ankles, warm and well perfused, dorsalis pedis pulse present bilaterally."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

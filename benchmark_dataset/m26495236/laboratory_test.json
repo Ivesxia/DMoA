@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC (Complete Blood Count)",
+            "date": "Not specified",
+            "findings": "WBC Count: 39.6 fL (Reference Range: 35.1 - 46.3 fL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Dilated retrocecal appendix up to 1 cm in diameter and fluid-filled; mild adjacent peritoneal thickening and minimal surrounding fat stranding; kidneys normal; no lesions or hydronephrosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

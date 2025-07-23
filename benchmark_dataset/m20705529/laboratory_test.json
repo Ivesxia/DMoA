@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is mildly thickened measuring 9 mm in diameter. No gas is demonstrated within the appendix. There is small volume pelvic free fluid. The left ovary contains a 2.5 x 2.3 cm cyst with a thick common slightly irregular, hyperdense wall.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "No Growth Culture",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lab Test for Liver Function",
+            "date": "Not specified",
+            "findings": "8.5 mg/dL, which is within the reference range of 8.4 - 10.3 mg/dL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Thickening of the lower portion of the sigmoid colon, collection of air and fluid surrounding the uterus, dependent collections measuring 6.4 x 1.9 cm and 4.7 x 2.0 cm. No active extravasation of intraluminal contrast. No pathologic adenopathy or inguinal adenopathy. Normal rectum and bladder.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRSA culture",
+            "date": "Not specified",
+            "findings": "No MRSA isolated.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "MRI Abdomen",
+            "date": "Not specified",
+            "findings": "Complex pseudocyst with multiloculated fluid collection abutting GE junction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Consult in AM - GI pancreas",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Psychiatric evaluation",
+            "date": "Not specified",
+            "findings": "Extensive psychiatric medication list but patient unable to verify doses or schedule.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

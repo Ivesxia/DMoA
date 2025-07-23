@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4 °F",
+                "heart_rate": "92 bpm",
+                "blood_pressure": "156/72 mmHg",
+                "respiratory_rate": "24 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, in pain.",
+                "HEENT": "No scleral icterus, mucous membranes moist.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, gallops, or rubs.",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.",
+                "abdominal": "Soft, tender to palpation most in the indicated area but also in epigastrum, left upper quadrant, right lower quadrant; no rebound or guarding.",
+                "extremities": "No edema, warm and well perfused."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

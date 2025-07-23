@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "The endotracheal tube and nasogastric tubes have been removed. The pulmonary vessels are less engorged, consistent with some improvement in pulmonary venous pressure.",
+            "changes_over_time": "Otherwise, little change."
+        }
+    ]
+}

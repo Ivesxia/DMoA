@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "142/76 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on RA"
+            },
+            "relevant_findings": {
+                "general": "Alert and in no apparent distress.",
+                "eyes": "Anicteric, pupils equally round.",
+                "ENT": "Ears and nose without visible erythema, masses, or trauma. Oropharynx without visible lesion, erythema or exudate.",
+                "cardiovascular": "Heart regular, no murmur, no S3, no S4. No JVD.",
+                "respiratory": "Lungs clear to auscultation with good air movement bilaterally. Breathing is non-labored.",
+                "gastrointestinal": "Abdomen soft, non-distended, LLQ tenderness at the site of the lovenox shots. Diminished bowel sounds are present. No rebound or guarding. Diffuse ecchymoses bilaterally at the site of lovenox injections.",
+                "genitourinary": "No suprapubic fullness or tenderness to palpation.",
+                "musculoskeletal": "Neck supple, moves all extremities, strength grossly full and symmetric bilaterally in all limbs.",
+                "skin": "No rashes or ulcerations noted.",
+                "neurological": "Alert, oriented, face symmetric, gaze conjugate with EOMI, speech fluent, moves all limbs, sensation to light touch grossly intact throughout.",
+                "psychological": "Pleasant, appropriate affect."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

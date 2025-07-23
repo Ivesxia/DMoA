@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Diffusely increased hepatic echogenicity. No focal liver lesion is seen. There is limited visualization of the pancreas, particularly the distal pancreas. Normal Doppler flow within the portal vein. The gallbladder is normal. The proximal common duct is dilated, measuring up to 8.4 mm in diameter. Spleen is normal, measuring 9.9 cm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

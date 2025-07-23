@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Uterus measures 5.2 x 3.1 x 4.8 cm. A trace of fluid is confirmed within the endometrial canal. No pelvic soft tissue mass or fluid collection is identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Elevated lipase",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CRP",
+            "date": "Not specified",
+            "findings": "Elevated CRP",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Salmonella and Shigella Test",
+            "date": "Not specified",
+            "findings": "No Salmonella or Shigella found.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "Thickening of the bowel wall at the splenic flexure and descending colon with minimal fat stranding which could suggest colitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

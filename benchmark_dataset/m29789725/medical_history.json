@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "RUQ abdominal pain",
+        "history_of_present_illness": "The patient reports an apparently unprovoked onset of abdominal pain that started on an unspecified date. Initially, the pain was generalized before migrating to the right upper quadrant (RUQ). It is associated with chills and lightheadedness but not with nausea/vomiting or changes in stools. He has had limited oral intake recently due to the pain. Chronic constipation was initially suspected, but he ultimately had a normal bowel movement this morning.",
+        "past_medical_history": "Hypertension, Obstructive sleep apnea (on CPAP), Pre-diabetes, Morbid obesity, Guillain-Barré syndrome (GBS), History of DVT (Deep Vein Thrombosis), currently on Coumadin.",
+        "family_history": "Denies family history of autoimmune diseases.",
+        "social_history": "Not specified."
+    }
+}

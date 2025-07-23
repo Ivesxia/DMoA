@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Coagulation Test",
+            "date": "Not specified",
+            "findings": "PT (prothrombin time) is 26.1 sec (reference range: 22.0 - 35.0 sec)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Small amount of fluid around the pancreatic body and tail, smooth pancreatic duct with normal caliber, 7 mm cystic lesion adjacent to main duct, numerous gallstones, normal intra- and extra-hepatic bile ducts, 12-mm lesion of hepatic segment IV consistent with hemangioma, tiny simple cyst of the right kidney, no concerning hepatic lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Coagulation Test",
+            "date": "Not specified",
+            "findings": "23.5 sec (within normal range 22.0 - 35.0 sec)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Heart size, mediastinal and hilar contours are normal. No focal airspace opacification, pneumothorax, or pleural effusion. Pulmonary vasculature is within normal limits. Osseous structures are grossly unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

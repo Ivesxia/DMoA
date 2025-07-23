@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The CT scan shows sigmoid colonic diverticulosis with an area of adjacent fat stranding and wall thickening in the left lower quadrant, compatible with diverticulitis. There is hyperdense material identified in the appendix, potentially an appendicolith, and the distal tip of the appendix measures approximately 7-8 mm in diameter. No evidence of free intraperitoneal air or drainable fluid collection.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbiological Culture",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

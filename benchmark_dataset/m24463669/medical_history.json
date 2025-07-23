@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric pain, nausea, and dry heaves following a drinking binge.",
+        "history_of_present_illness": "Pain started the morning after the patient's last drink. He experienced shakes and diaphoresis that improved over time. He denies having previous alcohol withdrawal episodes.",
+        "past_medical_history": "1. Diabetes Mellitus type 2 (DM2), 2. Hypertension (HTN), 3. Sleep apnea requiring CPAP, 4. Cholelithiasis, 5. Morbid obesity (BMI 53.6 kg/m² prior to surgery).",
+        "family_history": "Mother who died at age ___ with multiple myeloma.",
+        "social_history": "Reported a drinking binge last week, consuming up to 1 and ___ liters of rum daily."
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient has had 2 months of intermittent chest pain and recently developed generalized abdominal pain described as 'achy pressure' several days ago, along with nausea, vomiting, and low appetite. Symptoms worsened with deep breathing and included 2 episodes of vomiting with blood two days prior to admission.",
+        "past_medical_history": "Post-strep nephritis ___ years ago, Left wrist fracture with surgical repair ___ years ago (age ___).",
+        "family_history": "Currently hospitalized at ___ for brain mass. MGF with heart disease. Both parents and brother alive and healthy.",
+        "social_history": "Not specified."
+    }
+}

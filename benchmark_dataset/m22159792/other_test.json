@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Extremely stenotic papilla preventing cannulation of CBD despite multiple attempts with different wires, catheters and sphincterotomes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Barium swallow",
+            "date": "Not specified",
+            "findings": "Hold up at the GEJ.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen",
+            "date": "Not specified",
+            "findings": "Small bowel loops contain gas and appear less distended compared to the prior study. More contrast has passed to the transverse colon since the last study. No intraperitoneal air is noted.",
+            "changes_over_time": "More contrast has passed to the transverse colon since the last study."
+        }
+    ]
+}

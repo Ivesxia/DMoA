@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Focal hypodensity in the region of the porta hepatis likely represents focal fat; otherwise, the liver parenchyma is homogeneous. Small benign calcification abutting the right hepatic dome. No concerning focal hepatic lesion. No intrahepatic or extrahepatic biliary ductal dilatation. The kidneys are normal in size and appear symmetric. Tiny hypodensities in the cortex of the left upper renal pole likely represent cysts. The appendix is dilated throughout with wall thickening and mucosal enhancement (maximum diameter approximately 12 mm) and adjacent fat stranding.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

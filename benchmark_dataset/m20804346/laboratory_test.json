@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Scan",
+            "date": "Not specified",
+            "findings": "The pancreas is enlarged. Elevated serum lipase, peripancreatic fluid seen. Mild central intrahepatic biliary dilatation noted, with the common bile duct measuring 1.1 cm in diameter.",
+            "changes_over_time": "The pancreas is enlarged in size compared to the previous study without discrete pancreatic mass seen."
+        }
+    ]
+}

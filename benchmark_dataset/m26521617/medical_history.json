@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "2 days of epigastric abdominal pain and vomiting.",
+        "history_of_present_illness": "The patient experienced epigastric abdominal pain that recurred 2 days ago, much more severe than a similar episode 2 weeks ago, which resolved spontaneously. The patient denies diarrhea, nausea, fever, and chills. He reports having one episode of emesis during the previous episode.",
+        "past_medical_history": "Diabetes mellitus, prostate cancer status post resection, GERD, appendectomy for ruptured appendix, prostatectomy.",
+        "family_history": "Not specified.",
+        "social_history": "The patient reports drinking ___ glasses of scotch daily."
+    }
+}

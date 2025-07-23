@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.6°F",
+                "blood_pressure": "133/60 mmHg",
+                "heart_rate": "91 bpm",
+                "respiratory_rate": "13 breaths/min",
+                "SaO2": "92% on 2L"
+            },
+            "relevant_findings": {
+                "general": "Adequately hydrated.",
+                "neurological": "Alert and oriented.",
+                "pulmonary": "Clear bilateral.",
+                "cardiovascular": "Regular S1 S2, no murmurs/rubs/gallops.",
+                "abdominal": "Soft, tender in right upper quadrant and epigastric region.",
+                "rectal": "No masses; occult blood negative.",
+                "extremities": "Warm, no edema."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

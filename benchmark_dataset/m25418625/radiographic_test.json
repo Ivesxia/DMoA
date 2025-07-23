@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Noncontrast CT images demonstrate no drainable fluid collection, an appendicolith in the expected region of the appendix, surrounding inflammatory changes and stranding with associated bowel wall thickening of the cecum. The visualized bladder and small bowel loops are otherwise normal, and the uterus and adnexa are within normal limits. Osseous structures are intact.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

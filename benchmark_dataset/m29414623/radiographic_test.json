@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT abdomen",
+            "date": "Not specified",
+            "findings": "Increased stranding.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Increased liver echotexture consistent with fatty infiltration; gallbladder unremarkable; no evidence of cholelithiasis; normal hepatopetal flow in the portal vein; pancreatic tail not well visualized due to overlying bowel gas.",
+            "changes_over_time": "The changes are better seen on the patient's prior CT scan performed the night prior."
+        }
+    ]
+}

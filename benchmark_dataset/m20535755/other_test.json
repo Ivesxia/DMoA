@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Multiple gallstones and increased echogenicity of central liver and portal triads representing possible hepatitis. Gallbladder wall thickening. Negative Murphy's sign.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Large stone in the gallbladder with thickened gallbladder wall and surrounding fluid. CBD is dilated to 10 mm but an obstructing lesion could not be seen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Tube Placement",
+            "date": "Not specified",
+            "findings": "Right hemothorax post-treatment course of RFA.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

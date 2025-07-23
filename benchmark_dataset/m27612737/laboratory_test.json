@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Test",
+            "date": "Not specified",
+            "findings": "2.0 ng/mL.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

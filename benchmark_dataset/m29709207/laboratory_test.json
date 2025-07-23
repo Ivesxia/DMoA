@@ -1,0 +1,44 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Comprehensive Metabolic Panel",
+            "date": "Not specified",
+            "findings": {
+                "sodium": "136",
+                "potassium": "4.3",
+                "creatinine": "0.8",
+                "AST": "25",
+                "ALT": "21",
+                "AP": "64",
+                "total_bilirubin": "0.9",
+                "lipase": "10",
+                "WBC": "5.39",
+                "troponin": "negative"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": {
+                "WBC": "6.5"
+            },
+            "changes_over_time": "Increase from 5.39 to 6.5"
+        },
+        {
+            "procedure_name": "Ultrasound of the Gallbladder",
+            "date": "Not specified",
+            "findings": {
+                "gallbladder": {
+                    "status": "not distended",
+                    "contents": "sludge and stones",
+                    "wall_thickness": "moderate circumferential edema"
+                },
+                "CBD": {
+                    "status": "1.0 cm thickening"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

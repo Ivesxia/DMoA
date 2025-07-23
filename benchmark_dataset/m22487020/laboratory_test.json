@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound of Abdomen",
+            "date": "Not specified",
+            "findings": "Abdominal aortic aneurysm measures up to 4.6 cm in greatest dimension, compared to 5.2 cm previously. The gallbladder contains a calculus in the gallbladder neck, measuring approximately 6 mm, and a tiny gallbladder polyp. No gallbladder wall edema or pericholecystic edema. Gallbladder wall is not thickened. No perihepatic ascites. The main portal vein is patent. The common duct measures 3 mm.",
+            "changes_over_time": "The abdominal aortic aneurysm size decreased from 5.2 cm to 4.6 cm, although the difference in measurements is likely due to different techniques."
+        },
+        {
+            "procedure_name": "Laboratory test for unspecified parameter",
+            "date": "Not specified",
+            "findings": "1.3 mmol/L (Reference range: 0.5 - 2.0 mmol/L)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

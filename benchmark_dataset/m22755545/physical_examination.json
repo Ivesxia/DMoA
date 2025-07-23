@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "95.9 F",
+                "heart_rate": "68 bpm",
+                "blood_pressure": "165/90 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": "Exam benign, EKG showed ST depression, isolated lead in II.",
+            "changes_over_time": "Developed fever to 101.2 F with vital signs 98 F, 160/100 mmHg, 18 breaths/min, and 98% RA."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "101.1 F",
+                "heart_rate": "125 bpm",
+                "blood_pressure": "75 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": "General: NAD, appears well and younger than stated age. HEENT: EOMI, mucous membranes dry. Lungs: Scattered fine bibasilar crackles, otherwise good air movement. CV: RRR, S1 S2, no MRG. Abdomen: +BS, not distended, tenderness to palpation RUQ and epigastrium, no rebound or guarding, no hepatosplenomegaly. Ext: Warm, well-perfused, no cyanosis, clubbing, edema b/l, DP pulses 2+ b/l. Skin: Warm, dry, no rashes. Neuro: Alert, oriented, good historian, moving all extremities, sensation grossly intact.",
+            "changes_over_time": "Patient feels that his abdominal pain is still in the same location but has improved."
+        }
+    ]
+}

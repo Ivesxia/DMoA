@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Patient presents after a mechanical fall at home with tachycardia and hypotension.",
+        "history_of_present_illness": "Symptoms began following a mechanical fall in the morning. Patient was unable to get up and found on the floor at approximately 5 PM. Denies syncope or loss of consciousness but was sleepy on arrival to MICU. Initially, heart rate was 160; received IV adenosine with transient improvement but had intolerance to esmolol due to hypotension.",
+        "past_medical_history": "AVNRT, atrial fibrillation, status post pacemaker, congestive heart failure, hypertension, myasthenia gravis, tachy-brady syndrome, C. difficile colitis, upper GI bleed (gastric antral ulcer), MRSA bacteremia, fibromyalgia, benign prostatic hyperplasia, glaucoma, history of multiple episodes of syncope.",
+        "family_history": "History of cardiovascular disease in both parents. Father passed away in his 60s, mother in her 70s. Sister has diabetes.",
+        "social_history": "Not specified."
+    }
+}

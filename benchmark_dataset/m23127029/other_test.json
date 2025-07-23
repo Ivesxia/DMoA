@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Cholelithiasis without gallbladder wall thickening; hepatic parenchyma within normal limits; smooth contour of liver; no focal liver mass; main portal vein patent with hepatopetal flow; no ascites; no intrahepatic biliary dilation; common hepatic duct diameter 6 mm; pancreas appears within normal limits; normal echogenicity of spleen with length 10.5 cm; limited views of kidneys show no hydronephrosis; visualized portions of aorta and IVC within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic Cholecystectomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

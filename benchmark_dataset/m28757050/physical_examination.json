@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6 °F",
+                "blood_pressure": "161/86 mmHg",
+                "heart_rate": "81 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "93% on room air"
+            },
+            "relevant_findings": {
+                "eyes": "PERRLA, EOMI, no conjunctival injection, anicteric",
+                "ENT": "no sinus tenderness, MMM, oropharynx without exudate or lesions, no supraclavicular or cervical lymphadenopathy, no JVD, no carotid bruits, no thyromegaly or palpable thyroid nodules",
+                "respiratory": "CTA bilaterally with good air movement throughout",
+                "cardiovascular": "NS1/S2, RRR, systolic murmur",
+                "gastrointestinal": "soft, distended, NABS, diffusely tender",
+                "extremities": "no cyanosis, clubbing, or edema, +2 DP pulses",
+                "skin": "warm, no rashes/no jaundice/no skin ulcerations noted",
+                "neurological": "AXOX3, CN II-XII intact, tremor in upper extremities appreciated, no asterixis",
+                "musculoskeletal": "strength in upper extremities not specified"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

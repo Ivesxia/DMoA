@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "5.7 mg/dL, elevated (normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "363 U/L, elevated (normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Doppler examination of the transplanted kidney",
+            "date": "Not specified",
+            "findings": "Resistive indices within the upper, mid and lower poles are 0.78, 0.83 and 0.79 respectively, elevated and increased compared to the prior exam.",
+            "changes_over_time": "Elevated and increased compared to the prior exam."
+        },
+        {
+            "procedure_name": "Renal transplant ultrasound",
+            "date": "Not specified",
+            "findings": "Transplanted kidney measures 11.7 cm with stable mild hydronephrosis; small amount of perinephric fluid; ascites in all four quadrants; thickening of the bladder wall is unchanged.",
+            "changes_over_time": "Stable mild hydronephrosis; thickening of bladder wall unchanged."
+        }
+    ]
+}

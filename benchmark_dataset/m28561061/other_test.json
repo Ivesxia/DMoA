@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Approximately 10 cm segment of the sigmoid colon centered around what appears to be an inflamed diverticulum demonstrates moderate wall thickening, edema, and extensive surrounding fat stranding, consistent with acute diverticulitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Vitamin K administration",
+            "date": "Not specified",
+            "findings": "Initial INR was 14 without active bleeding; after administration of 2 doses of vitamin K, INR improved to 5.6.",
+            "changes_over_time": "Improvement in INR from 14 to 5.6 after two doses of vitamin K."
+        },
+        {
+            "procedure_name": "Rectal exam",
+            "date": "Not specified",
+            "findings": "Guiac positive brown stool, no melena, no gross blood.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI Abdomen",
+            "date": "Not specified",
+            "findings": "The study was aborted prior to contrast injection. Multiple renal cortical cysts are seen, including a 3.3 cm exophytic cyst in the right kidney with hemorrhagic content. Indeterminate lesions in the right kidney noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

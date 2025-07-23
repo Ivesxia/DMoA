@@ -1,0 +1,50 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "70 bpm",
+                "blood_pressure": "140/74 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "additional_notes": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, very pleasant older woman in no acute distress.",
+                "HEENT": "Sclera anicteric, pupils symmetric at 3mm, mucous membranes are dry.",
+                "neck": "Supple, JVP not elevated, no lymphadenopathy, no thyromegaly.",
+                "lungs": "Minimal late inspiratory crackles at bilateral bases, no wheezing or rhonchi.",
+                "cardiovascular": "Regular rate and rhythm, II/VI systolic ejection murmur at RUSB.",
+                "abdomen": "Soft, non-distended, RUQ tender to palpation, positive sign, no guarding or rigidity.",
+                "genitourinary": "No foley, no CVA tenderness.",
+                "extremities": "Warm, well perfused, 2+ DP pulses, trace ankle edema, slightly worse on R leg.",
+                "skin": "No rash, no jaundice.",
+                "neurological": "Alert, oriented, full and equal strength in all extremities."
+            },
+            "changes_over_time": "Patient was noted to be tachypneic prior to ICU admission but was pain free and resolved nausea upon arrival."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "83 bpm",
+                "blood_pressure": "128/63 mmHg",
+                "respiratory_rate": "15 breaths/min",
+                "additional_notes": "97% on 2L nasal cannula"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented.",
+                "HEENT": "Sclera anicteric, pupils symmetric at 3mm, dry mucous membranes.",
+                "neck": "Supple, JVP not elevated, no lymphadenopathy, no thyromegaly.",
+                "lungs": "Minimal late inspiratory crackles, no wheezing or rhonchi.",
+                "cardiovascular": "Regular rate and rhythm, II/VI systolic ejection murmur at RUSB.",
+                "abdomen": "Soft, non-distended, tender RUQ, positive sign, no guarding or rigidity.",
+                "genitourinary": "No foley, no CVA tenderness.",
+                "extremities": "Warm, well perfused, 2+ DP pulses, trace ankle edema, slightly worse on R leg.",
+                "skin": "No rash, no jaundice.",
+                "neurological": "Alert and oriented, full strength in all extremities, wearing bilateral hearing aides."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

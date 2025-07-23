@@ -1,0 +1,32 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "LOWER CHEST": "Mild bibasilar atelectasis is symmetric. There is no pericardial or pleural effusion.",
+                "ABDOMEN": {
+                    "HEPATOBILIARY": "The liver demonstrates homogenous attenuation throughout. No evidence of focal lesions or biliary dilatation.",
+                    "PANCREAS": "Normal attenuation throughout, no focal lesions or pancreatic ductal dilatation.",
+                    "SPLEEN": "Mildly enlarged measuring up to 16 cm in coronal dimension.",
+                    "ADRENALS": "Normal in size and shape.",
+                    "URINARY": "Kidneys of normal and symmetric size, no lesions, hydronephrosis, or perinephric abnormality.",
+                    "GASTROINTESTINAL": "Stomach unremarkable aside from small hiatal hernia. The appendix is dilated and fluid-filled measuring 1.5 cm with peripheral stranding and mucosal hyperemia.",
+                    "PELVIS": "Urinary bladder and distal ureters unremarkable, no free fluid in pelvis.",
+                    "REPRODUCTIVE ORGANS": "Visualized reproductive organs are unremarkable.",
+                    "LYMPH NODES": "No retroperitoneal nodes, scattered mesenteric nodes likely reactive.",
+                    "VASCULAR": "No abdominal aortic aneurysm, no atherosclerotic disease.",
+                    "BONES": "No evidence of worrisome osseous lesions or acute fracture.",
+                    "SOFT TISSUES": "Abdominal and pelvic wall within normal limits."
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

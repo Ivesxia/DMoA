@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "blood_pressure": "181/99 mmHg",
+                "heart_rate": "62 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "NAD, comfortable appearing",
+                "HEENT": "ncat EOMI anicteric Dry MM",
+                "neck": "supple",
+                "chest": "b/l ae no w/c/r",
+                "heart": "s1s2 rr no m/r/g",
+                "abdomen": "+bs, soft, +TTP epigastric area, no guarding or rebound",
+                "extremities": "no c/c/e 2+ pulse",
+                "neurological": "face symmetric speech fluent",
+                "psychological": "calm, cooperative"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "102°F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "physical_examination": "NAD, CTAB, RRR, S/ND/ appropriately tender"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

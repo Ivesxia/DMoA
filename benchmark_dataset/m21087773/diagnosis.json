@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with abdominal pain localized to the right lower quadrant, tenderness upon examination, and CT findings demonstrating a fluid-filled and borderline dilated appendix with mild periappendiceal stranding and hyperenhancement of the wall, supporting the diagnosis of acute appendicitis."
+    }
+}

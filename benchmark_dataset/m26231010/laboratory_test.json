@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase found to be over 9000.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS W & W/O CONTRAST, ADDL SECTIONS",
+            "date": "Not specified",
+            "findings": "15 x 11 mm hypodense lesion in the tail of the pancreas consistent with IPMN. Mild peripancreatic stranding consistent with post-ERCP. No pseudocyst formation or pancreatic necrosis noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

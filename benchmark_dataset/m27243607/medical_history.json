@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient developed abdominal pain at 4am this morning. He describes the pain as mainly epigastric extending to his right lower quadrant (RLQ). He denies nausea, vomiting, or diarrhea, and has no fevers or chills. The patient had a similar pain about ___ years ago, which he thought was 'upset stomach' and it resolved on its own.",
+        "past_medical_history": "Seizure disorder (last seizure ___ years ago, not on any anti-seizure medications since ___ years), pilonidal cysts, GI polyp, rectal tear.",
+        "family_history": "Non-Contributory",
+        "social_history": "Not specified"
+    }
+}

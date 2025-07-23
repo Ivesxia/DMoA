@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix appears dilated throughout its course, measuring up to 12 mm in maximum diameter, with a thickened wall and filled with fluid. There is periappendiceal mesenteric stranding, but no evidence of microperforation or focal fluid collection. The base of the cecum shows an edematous thickened wall adjacent to the ostium of the appendix. All other examined areas were unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized lung bases are clear. No pleural or pericardial effusion. There is a dilated, hyperdense structure in the right lower quadrant likely representing the appendix with mucosal hyperenhancement and wall thickening. Inflammatory changes at the base of the cecum and the whole wall of the appendix. Two enlarged lymph nodes in the mesentery adjacent to the ascending colon, with surrounding inflammatory changes. Small amount of simple free fluid in the pelvis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

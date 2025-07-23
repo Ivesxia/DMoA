@@ -1,0 +1,30 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "surgery",
+      "specific_treatment": "laparoscopic cholecystectomy",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Not specified"
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2023-10-01",  // Example date for surgery, please replace with the actual date if provided
+      "event": "Laparoscopic cholecystectomy performed"
+    },
+    {
+      "date": "2023-09-28",  // Example date of symptom onset, please replace with the actual date if provided
+      "event": "Patient experienced colicky epigastric and RUQ pain associated with nausea"
+    },
+    {
+      "date": "2023-09-29",  // Example date for admission, please replace with the actual date if provided
+      "event": "Pain resumed as constant, severe, sharp RUQ and epigastric pain"
+    }
+  ]
+}
+``` 
+
+**Note**: The dates used in the treatment timeline are placeholders and should be replaced with the actual dates if provided in the case report.

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "103°F",
+                "blood_pressure": "157/75 mmHg",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "17 bpm",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert & oriented x3, obese, grumpy but cooperative, burping frequently, no emesis.",
+                "heent": "No scleral icterus, mucous membranes moist.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, gallops or rubs.",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes, rhonchi or rales.",
+                "abdominal": "Soft, protuberant, tender RUQ with voluntary guarding, no rebound tenderness, normoactive bowel sounds, no palpable masses.",
+                "extremities": "No edema, warm and well perfused."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

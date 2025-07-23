@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "115 bpm",
+                "blood_pressure": "103/64 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on 2L NC"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x3, no acute distress, slightly jaundiced",
+                "HEENT": "Scleral icterus",
+                "cardiovascular": "Sinus tachycardia",
+                "pulmonary": "Non-labored breathing on 2L NC",
+                "abdominal": "Soft, somewhat distended, tenderness to palpation diffusely but especially in bilateral lower quadrants, <1cm reducible umbilical hernia",
+                "extremities": "1+ bilateral edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

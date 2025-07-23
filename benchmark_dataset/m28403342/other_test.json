@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": ">25 PMNs and >10 epithelial cells/100X field. Gram stain indicates extensive contamination with upper respiratory secretions. Bacterial culture results are invalid. PLEASE SUBMIT ANOTHER SPECIMEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver demonstrates normal echotexture. No focal hepatic lesions are seen. Portal venous flow is hepatopetal. Spleen is within normal limits in size. No intra- or extra-hepatic biliary ductal dilatation. The CBD measures 3 mm in size. The pancreas is not well visualized. The right kidney measures 12 cm in size and the left kidney measures 9.0 cm in size. There is a well-defined hyperechoic focus measuring about 4 mm in size within the left mid kidney likely representing a small angiomyolipoma. No free fluid is seen in the abdomen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

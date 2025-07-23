@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC 11.7* (out of normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 1645* (out of normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine UCG",
+            "date": "Not specified",
+            "findings": "Urine UCG negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of Pancreas",
+            "date": "Not specified",
+            "findings": "No evidence for focal pancreatic mass; no pancreatic ductal dilatation; normal color flow and arterial and venous waveforms; resistive index of intra pancreatic arteries measures between 0.61 to 0.64; small amount of peripancreatic free fluid noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

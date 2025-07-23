@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ERCP BILIARY&PANCREAS BY GI UNIT",
+            "date": "Not specified.",
+            "findings": "There is a stent in the pancreatic duct. The biliary tree is diffusely moderately dilated, likely due to biliary stenosis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

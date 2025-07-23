@@ -1,0 +1,25 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Diffuse echogenicity with smooth contour, no focal liver mass, patent main portal vein with hepatopetal flow, no ascites.",
+                "bile_ducts": "No intrahepatic biliary dilation.",
+                "cholangiogram": "5 mm CHD.",
+                "gallbladder": "Multiple echogenic gallbladder stones with posterior shadowing and surrounding sludge. Gallbladder is distended with wall thickening, consistent with acute calculus cholecystitis.",
+                "pancreas": "Not well visualized.",
+                "spleen": "Normal echogenicity, spleen length: 9.4 cm.",
+                "kidneys": "Limited views show no hydronephrosis.",
+                "retroperitoneum": "Visualized portions of aorta and IVC are within normal limits."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test for Polymorphonuclear Leukocytes",
+            "date": "Not specified",
+            "findings": "No polymorphonuclear leukocytes seen. No microorganisms seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

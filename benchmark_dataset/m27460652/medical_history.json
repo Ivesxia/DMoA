@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain with associated nausea and vomiting.",
+        "history_of_present_illness": "The patient reports that the abdominal pain started six days ago and has been associated with nausea and vomiting. The pain is located in the left upper quadrant (LUQ) and has led to an inability to keep food or fluids down. The emesis has appeared to contain food content, with associated fever and chills. The patient also reports an increased watery consistency of ostomy output without signs of obstruction.",
+        "past_medical_history": "Crohn's disease, rectovaginal fistula, erythema nodosum, pyoderma gangrenosum, LLE fracture, H. pylori, C. diff, and DVT associated with surgery.",
+        "family_history": "Mother and cousin with Crohn's disease; mother with hypertension; father with heart disease; no family history of colorectal cancer.",
+        "social_history": "Not specified."
+    }
+}

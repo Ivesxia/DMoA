@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99°F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "162/88 mmHg",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "97% on 3L NC"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "Non-labored breathing, no respiratory distress, saturating adequately on nasal cannula",
+                "abdominal": "Obese, soft, nondistended, moderate right upper quadrant tenderness to palpation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

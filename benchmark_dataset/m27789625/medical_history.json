@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Left lower quadrant pain",
+        "history_of_present_illness": "Patient has a 3 day history of left lower quadrant pain after initially having left low back pain for 1 week, treated with pain medication. Developed nausea, vomiting, and low-grade fever. Reports no diarrhea, hematochezia, or melena.",
+        "past_medical_history": "Hypertriglyceridemia; past surgical history includes EGD, colonoscopy, and C-section.",
+        "family_history": "Mother has lung cancer; no colon cancer reported.",
+        "social_history": "Not specified."
+    }
+}

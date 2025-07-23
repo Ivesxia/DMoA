@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Abdominal Pain: Pancreatitis vs. Gastroenteritis",
+        "differential_diagnosis": "Pancreatic Cysts, Scleroderma, Sjogren's, BOOP, GERD",
+        "diagnostic_reasoning": "The patient presented with abdominal pain following EUS for evaluation of pancreatic cysts. CT abdomen/pelvis was performed, showing a 7-mm hypodensity in the pancreatic head and a 9-mm lesion along the pancreatic tail which were unchanged, indicating potential pancreatitis. Mild wall thickening of jejunum was noted, but without surrounding fat stranding or free fluid, suggesting gastroenteritis could not be excluded."
+    }
+}

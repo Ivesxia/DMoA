@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in echotexture without intra- or extra-hepatic biliary ductal dilatation. Two adjacent cysts are thinly septated cysts in the right lobe measuring at most 1.8 cm. Common bile duct is nondilated, measuring 6 cm. Numerous gallstones are seen in the gallbladder neck with wall thickening, mural edema, hyperemia and positive sonographic findings compatible with cholecystitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

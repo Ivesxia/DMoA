@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laparoscopic cholecystectomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Tachycardic and hypertensive.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Linear opacities at the lung bases are most suggestive of atelectasis. No effusion or vascular congestion. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities identified. No free intraperitoneal air identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

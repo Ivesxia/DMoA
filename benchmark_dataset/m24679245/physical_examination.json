@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 98.4°F, Heart Rate: 80 bpm, Blood Pressure: 148/75 mmHg, Respiratory Rate: 16 breaths/min, Oxygen Saturation: 100%",
+            "relevant_findings": "General: Female in NAD, comfortable, appropriate. HEENT: NC/AT, EOMI, sclerae anicteric, MMM but dry tongue, OP clear. NECK: Supple, shotty cervical lymphadenopathy. LUNGS: CTA bilat, no r/rh/wh, good air movement, resp unlabored. HEART: RRR, no MRG, nl findings. ABDOMEN: Soft/ND, minimal tenderness to deep palpation of LLQ, no masses or HSM, no rebound/guarding. + bowel sounds. EXTREMITIES: WWP, no c/c/e, 2+ peripheral pulses. SKIN: No rashes or lesions. LYMPH: No cervical, supraclavicular, axillary, inguinal adenopathy. NEURO: Awake, A&Ox3, cranial nerves grossly intact, muscle strength throughout normal, sensation grossly intact throughout, cerebellar exam intact, steady gait.",
+            "changes_over_time": "Initial vitals showed significant hypotension (148/75 mmHg) upon arrival. Admission vitals later recorded as 99.3°F, 94 bpm, 126/65 mmHg, 20 breaths/min, 99% RA, indicating a slight improvement in parameters, especially respiratory rate and heart rate."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ekg",
+            "date": "Not specified",
+            "findings": "EKG was not concerning for ischemia and showed AFib with EKG similar to prior.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Neuro Assessment",
+            "date": "Not specified",
+            "findings": "Somnolent but arousable to voice.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF Test",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

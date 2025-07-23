@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "blood_pressure": "115/81 mmHg",
+                "heart_rate": "59 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "92% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "abdomen": "RUQ tenderness, non-distended, + bowel sounds, no rebound or guarding, no hepatosplenomegaly, + right CVA tenderness",
+                "lungs": "Clear to auscultation bilaterally, no wheezes, rales, or rhonchi, breathing comfortably without use of accessory muscles",
+                "extremities": "No cyanosis, clubbing, or edema",
+                "neurological": "Alert and oriented x3, cranial nerves II-XII grossly intact, strength 5+/5+ bilaterally throughout, minimal fine touch sensation loss in distal halluces"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

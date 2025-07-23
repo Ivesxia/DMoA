@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Hyperechoic lesion measuring 1.5 x 1.1 x 1.9 cm in segment V of the liver. The main portal vein is patent with hepatopetal flow. No ascites. Gallbladder is mildly distended with multiple gallstones and a small sliver of pericholecystic fluid. No intrahepatic biliary dilation; CBD measures 4 mm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

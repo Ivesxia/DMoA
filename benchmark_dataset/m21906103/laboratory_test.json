@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Hemoglobin (Hb) 12.6, White Blood Cell (WBC) 6.2",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "AST 46, ALP 163",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen & Pelvis",
+            "date": "Not specified",
+            "findings": "Indeterminate adrenal nodules (1.2 cm right adrenal, 1.4 cm left adrenal) and sigmoid diverticulosis observed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Stool Test",
+            "date": "Not specified",
+            "findings": "No Salmonella or Shigella found.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6 °F",
+                "heart_rate": "56 bpm",
+                "blood_pressure": "142/120 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "general": "Awake, alert, and oriented.",
+                "chest": "Clear to auscultation.",
+                "cardiovascular": "Regular rate and rhythm.",
+                "abdominal": "Soft, diffusely tender to palpation, no rebound or guarding.",
+                "neurological": "Speech fluent."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

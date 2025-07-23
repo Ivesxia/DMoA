@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Gallbladder wall thickening and gallbladder wall edema with sludge within the lumen; gallbladder is not significantly distended. The hepatic parenchyma appears within normal limits; contour of the liver is smooth; no focal liver mass; the main portal vein is patent with hepatopetal flow; no ascites; no intrahepatic biliary dilation; CHD measures 3 mm; pancreas is not well visualized; spleen has normal echogenicity, measuring 12 cm; limited views of the right kidney show no hydronephrosis; visualized portions of aorta and IVC are within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

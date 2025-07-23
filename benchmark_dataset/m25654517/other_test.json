@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "<10 PMNs and <10 epithelial cells/100X field. NO MICROORGANISMS SEEN. QUALITY OF SPECIMEN CANNOT BE ASSESSED.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "The cardiomegaly is unchanged. Bilateral pleural effusions have improved slightly. Persistent left retrocardiac opacity. Mild prominence of interstitial markings consistent with mild pulmonary edema.",
+            "changes_over_time": "Bilateral pleural effusions have improved slightly."
+        }
+    ]
+}

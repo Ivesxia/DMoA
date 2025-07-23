@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Frontal view of the chest demonstrates mild bibasilar atelectasis, new since the prior study. Remainder of the lungs are clear. No free intraperitoneal air is identified. Heart and mediastinum are within normal limits.",
+            "changes_over_time": "Mild bibasilar atelectasis, new since the prior study."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopic Retrograde Cholangiopancreatography (ERCP)",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "Marked interval improvement in the pleural effusions, small residual effusion in the left base, marked decrease in intra-abdominal fluid, an approximately 5.3 x 4.4 cm area of probable phlegmonous aggregate anteriorly in the right flank; pancreas somewhat diffusely enlarged with homogeneous enhancement without evidence of necrosis.",
+            "changes_over_time": "There has been marked decrease in the stranding posterior to the pancreas."
+        }
+    ]
+}

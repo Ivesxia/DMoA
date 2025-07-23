@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Severe lower abdominal pain",
+        "history_of_present_illness": "Patient presents with 3 days of abdominal pain, initially experiencing right lower quadrant pain. Following a visit to another hospital with normal CT and lab results, she woke up on the morning of the third day with severe lower abdominal pain, denies fever but endorses chills, has experienced nausea and one episode of emesis. Symptoms have not improved, leading her to visit the emergency department.",
+        "past_medical_history": "History of supraventricular tachycardia (SVT), previously underwent cardiac ablation procedures twice.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

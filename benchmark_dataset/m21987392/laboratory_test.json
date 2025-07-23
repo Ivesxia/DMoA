@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is dilated, measuring up to 13 mm with surrounding fat stranding most notable near the tip. There is some adjacent sigmoid bowel wall thickening likely reactive. There is diverticulosis of the sigmoid colon. Bilateral dependent atelectasis seen in the lung bases. No concerning nodules, lesions or pleural effusions. The liver, spleen, pancreas, gallbladder and bilateral adrenal glands are unremarkable. Bilateral kidneys contain subcentimeter hypodensities likely simple cysts. No free air, free fluid or pathologically enlarged lymph nodes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Specimen Holding",
+            "date": "Not specified",
+            "findings": "Specimen to be held for 48 hours and discarded.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

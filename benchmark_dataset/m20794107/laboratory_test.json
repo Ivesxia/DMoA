@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Marked intrahepatic biliary ductal dilatation. A stent is in place in the common bile duct. The gallbladder is distended, with minimal wall thickening and no pericholecystic fluid. A small 4-mm polyp is noted along its wall. Normal hepatopetal flow is seen within the main portal vein.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "3.0 mg/dL (ref range 2.7 - 4.5).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

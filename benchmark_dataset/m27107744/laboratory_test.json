@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is enlarged, measuring 13 mm in greatest diameter; no radiopaque appendicoliths are present. There is no evidence of appendiceal rupture. The liver enhances homogeneously, pancreas and kidneys do not show solid or cystic lesions. No pelvic free fluid or lymph node enlargement.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

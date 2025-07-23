@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient is a ___ yo female with a history of 3 days of abdominal pain, starting in the epigastric area and becoming more pronounced in the lower abdomen yesterday. The pain has progressively worsened, especially in the last 3.5 hours. Morphine x 2 did not alleviate the pain, while Dilaudid provided relief. She has not experienced nausea or vomiting, but her temperature in the emergency department was recorded at 102.2°F.",
+        "past_medical_history": "Metastatic melanoma to the lymph nodes; multiple excisions of skin melanoma and right axillary dissection.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

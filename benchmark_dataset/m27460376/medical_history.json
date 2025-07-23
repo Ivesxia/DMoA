@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right upper quadrant abdominal pain",
+        "history_of_present_illness": "Patient reports that her pain began one day prior to admission and was characterized by an episode of right-sided pain radiating to the back, nausea, vomiting, and diarrhea for 1 day. She felt back to normal until symptoms recurred; no fevers reported during this time. Pain was noted as 4 out of 10 at evaluation, with additional constant achy pain in the epigastrium that began that morning.",
+        "past_medical_history": "Coronary artery disease status post stenting, tracheal stenosis complicated by recurrent stenosis requiring frequent bronchoscopy, hypertension",
+        "family_history": "Father with esophageal cancer, mother with COPD",
+        "social_history": "Not specified"
+    }
+}

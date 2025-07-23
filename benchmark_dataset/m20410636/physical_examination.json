@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4 °F",
+                "heart_rate": "111 bpm",
+                "blood_pressure": "107/69 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "A+o x 3",
+                "cardiovascular": "tachycardia, regular rhythm",
+                "chest": "clear to auscultation bilaterally",
+                "abdominal": "soft, non-distended, tenderness to right lower quadrant, umbilical hernia reducible, no inguinal hernias",
+                "extremities": "no edema noted"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "serum creatinine": "8.1 mg/dL",
+                "reference_range": "8.4 - 10.2 mg/dL"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

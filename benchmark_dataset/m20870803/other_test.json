@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "MRI ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Retrocecal appendix measuring approximately 9 mm in diameter at its tip with associated periappendiceal inflammatory stranding. The appendix demonstrates restricted diffusion. Visualized hepatic parenchyma, spleen, pancreas, adrenal glands, and kidneys are normal. No intra- or extra-hepatic biliary dilatation or gallstones. Remainder of small and large bowel loops in the abdomen are unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic appendectomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

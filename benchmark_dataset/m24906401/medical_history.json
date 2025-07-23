@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute onset of abdominal pain.",
+        "history_of_present_illness": "Abdominal pain began acutely at 10:00 AM on an unspecified date. Initially sharp and constant, localized to the epigastric region but then became more diffuse. Pain worsened with movements and during transportation. Pain later referred to the right lower quadrant. Associated symptoms included abdominal distention and nausea, with no vomiting. Patient reported anorexia, denies fevers but experiences chronic chills. Normal flatus with bowel movement, no diarrhea, dysuria, chest pain, or shortness of breath.",
+        "past_medical_history": "Dysautonomia, GERD, insomnia, Sjögren's disease, Raynaud's disease, vasovagal, undifferentiated connective tissue disorder, anemia, arthralgia.",
+        "family_history": "Cousins with malignant hyperthermia, father with ruptured unspecified organ.",
+        "social_history": "Not specified."
+    }
+}

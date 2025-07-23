@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild bibasilar atelectasis; bases of lungs are clear; no discrete nodule, consolidation, or pleural effusion; liver normal; no focal hepatic lesions; gallbladder normal; spleen, pancreas, and adrenal glands normal; multiple medullary calcifications consistent with history of medullary sponge kidney; appendix enlarged, measuring up to 12 mm; minimal surrounding stranding; trace free fluid in pelvis; no evidence of appendiceal perforation",
+            "changes_over_time": "Appendix was air filled and normal appearing on prior exam, now enlarged."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Numerous gallstones within the gallbladder without signs of acute cholecystitis. Normal caliber of the biliary tree and pancreatic duct without filling defects. Mildly increased T2-weighted signal of the peripancreatic fat. Several tiny cystic lesions in the pancreas up to 5 mm, showing no enhancement, nodularity or septation. Slight decrease in signal intensity of the hepatic parenchyma on pre-contrast T1-weighted out-of-phase images. Tiny simple cyst of the right hepatic lobe, small bilateral pleural effusions, numerous bilateral parapelvic cysts, and small bilateral simple cortical renal cysts, the largest measuring 13 mm. 16-mm well-circumscribed lesion of the descending colon consistent with lipoma. Focal ectasia of the infrarenal aorta.",
+            "changes_over_time": "Focal ectasia of the infrarenal aorta was better seen on the prior CT examination when it was fully included in the field of view."
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "Tachycardia, unspecified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "General examination: NAD (no acute distress), patient alert and oriented to person, place, and time. Abdomen: Soft, Tender to palpation in RUQ and epigastric region.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

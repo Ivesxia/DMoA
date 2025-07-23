@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CRP (C-reactive protein)",
+            "date": "Not specified",
+            "findings": "Elevated CRP to 176",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CTU (ABD/PEL) W/&W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Mildly distended stomach, nonobstructing 4 mm right interpolar renal calculus, focal fat stranding around sigmoid colonic diverticula; no other significant findings.",
+            "changes_over_time": "No prior imaging results described for comparison."
+        }
+    ]
+}

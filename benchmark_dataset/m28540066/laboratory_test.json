@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC 19.1, Hct 56.8",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipid panel",
+            "date": "Not specified",
+            "findings": "Lipase 1370, ALT 88, AST 94, alk phos 106, LDH 375, total bilirubin 3.1",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine culture",
+            "date": "Not specified",
+            "findings": "No significant growth.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Enlargement of the pancreatic head with associated stranding, fluid in the mesentery, paracolic gutters, and pelvis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Gallstones in the gallbladder, common bile duct not identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "Bilateral pleural effusions and bibasilar infiltrates consistent with atelectasis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal radiographs",
+            "date": "Not specified",
+            "findings": "Normal bowel gas pattern, no evidence of obstruction, no free air, diffuse demineralization of bones, degenerative changes in lower lumbar spine.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

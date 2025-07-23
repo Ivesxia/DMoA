@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is markedly abnormal; there is wall edema with mild adjacent fat stranding, appendix measures 10-12 mm and there are appendicoliths. There is a small amount of free fluid in the pelvis. Other abdominal organs appear normal without abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "Not specified",
+            "findings": "8.5 mg/dL, which is within the normal range (8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

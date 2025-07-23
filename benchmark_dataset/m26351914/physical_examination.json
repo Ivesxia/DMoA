@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "heart_rate": "60 bpm",
+                "blood_pressure": "145/85 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well developed, well nourished male in no acute distress",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, rubs, or gallops",
+                "respiratory": "Clear to auscultation bilaterally",
+                "abdominal": "Soft, non-distended, non-tender",
+                "extremities": "No cyanosis, clubbing or edema",
+                "neurological": "Alert and oriented x3"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

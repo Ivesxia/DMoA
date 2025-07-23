@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT guided pancreatic fluid drainage and drain placement",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture (not explicitly stated but implied from findings)",
+            "date": "Not specified",
+            "findings": "2+ polymorphonuclear leukocytes, no microorganisms seen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal radiographs (supine and erect)",
+            "date": "Not specified",
+            "findings": "A singular dilated loop of small bowel overlying the left hemiabdomen, no dilated loops of large bowel, previously administered enteric contrast within the colon and rectum, moderate degenerative changes of the lumbar spine, stable positioning of neurostimulator device compared to prior CT.",
+            "changes_over_time": "Stable positioning of neurostimulator device compared to prior CT obtained."
+        }
+    ]
+}

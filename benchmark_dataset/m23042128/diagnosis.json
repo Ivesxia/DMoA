@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute appendicitis",
+        "differential_diagnosis": "Calculus of gallbladder without mention of cholecystitis, without mention of obstruction",
+        "diagnostic_reasoning": "The patient presented with symptoms of malaise, nausea, loose stools, and worsening sharp abdominal pain that migrated to the right lower quadrant, which are consistent with acute appendicitis. Physical examination revealed tenderness in the right lower quadrant without guarding, rigidity, or rebound, supporting the diagnosis. Imaging showed findings suggestive of a possible partial small bowel obstruction or ileus but did not indicate free air, ruling out perforation."
+    }
+}

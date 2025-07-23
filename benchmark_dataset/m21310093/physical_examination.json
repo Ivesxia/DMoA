@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "109-122 bpm",
+                "blood_pressure": "86/55 - 109/78 mmHg",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented to person and year only (not to place), no acute distress",
+                "HEENT": "Scleral icterus, dry mucous membranes",
+                "neck": "Supple, JVP not elevated, no lymphadenopathy",
+                "lungs": "Decreased breath sound in right lower lobe, no wheezes, rales, rhonchi",
+                "cardiovascular": "Tachycardic, regular, no murmurs, rubs, gallops",
+                "abdomen": "Soft, non-tender, non-distended, bowel sounds present, hepatomegaly",
+                "extremities": "Warm, well perfused, 2+ pulses, 1+ edema at ankles, no asterixis"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

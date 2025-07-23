@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Blood Pressure": "101/66 mmHg",
+                "Heart Rate": "Not specified",
+                "Temperature": "98.1°F",
+                "Respiratory Rate": "Not specified"
+            },
+            "relevant_findings": {
+                "General": "NAD, appears uncomfortable",
+                "Cardiovascular": "RRR",
+                "Pulmonary": "CTAB",
+                "Abdominal": "+ moderate RLQ TTP with rebound and voluntary guarding, soft, gravid, no palpable contractions, no fundal TTP",
+                "Back": "no costovertebral angle TTP",
+                "Extremities": "no TTP",
+                "Pelvic": "deferred, no external bleeding noted"
+            },
+            "changes_over_time": [
+                {
+                    "time": "15:04",
+                    "blood_pressure": "101/66 mmHg"
+                },
+                {
+                    "time": "15:18",
+                    "blood_pressure": "94/46 mmHg"
+                }
+            ]
+        }
+    ]
+}

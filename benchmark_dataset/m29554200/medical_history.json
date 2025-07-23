@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Severe RUQ pain",
+        "history_of_present_illness": "Patient reports baseline abdominal 'gas pains' but over the past 2 weeks developed post-prandial RUQ pain. Pain particularly worsened about a week ago, prompting a visit to her PCP 2 days prior where RUQ US showed multiple stones in the gallbladder with a large stone in the neck. Pain has been constant since then and escalated to an intolerable severity. The pain radiates from the RUQ to the epigastrium and RLQ, worsens with movement, palpation, and deep inspiration.",
+        "past_medical_history": "HTN, carpal tunnel syndrome, hyperlipidemia, atrial fibrillation, chronic abdominal pain, insomnia",
+        "family_history": "COPD (father), MI (mother)",
+        "social_history": "Not specified"
+    }
+}

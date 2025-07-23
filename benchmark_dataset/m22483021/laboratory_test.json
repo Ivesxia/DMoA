@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bacteriology Culture",
+            "date": "Not specified",
+            "findings": "BACTEROIDES FRAGILIS GROUP, MIXED BACTERIAL FLORA (1.1, reference range 0.9 - 1.1)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild bibasilar atelectasis. No pleural or pericardial effusion. Multiple appendicoliths at the base of the appendix with fluid collection in the right lower quadrant suggesting rupture, measuring 3.1 x 3.2 x 4.8 cm. Associated inflammatory fat stranding and small free fluid. Terminal ileum is thickened. Small volume ascites. Remaining portions of small and large bowel are unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Sharp pain in the right upper quadrant",
+        "history_of_present_illness": "The patient experienced nausea, vomiting, and anorexia for 2 days prior to admission. She awoke at 4 am with constant sharp pain in the right upper quadrant that does not go away. No fever, chills, night sweats, or diarrhea reported. Normal bowel movements with passing flatus.",
+        "past_medical_history": "Congestive Heart Failure (CHF), Tricuspid Regurgitation (TR), osteoporosis, compression fracture, Atrial Fibrillation (AFib), Hypertension (HTN), remote history of herpes zoster, chronic back pain, status post back surgery.",
+        "family_history": "Parents died due to cardiac related problems. Brother died of lung cancer.",
+        "social_history": "Not specified."
+    }
+}

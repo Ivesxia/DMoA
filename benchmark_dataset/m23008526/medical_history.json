@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain with associated nausea and hypotension.",
+        "history_of_present_illness": "Abdominal pain started as substernal chest pain ___ hours after dinner. The pain improved upon arrival to the emergency room. Later, lower abdominal pain developed that was different from the initial pain, and the patient became febrile with rigors, experiencing hypotension after admission. Additionally, the patient reported having a productive cough for ___ weeks.",
+        "past_medical_history": "History of hypertension, atrial fibrillation on coumadin, pacemaker, gastroesophageal reflux disease (GERD), small bowel obstruction (SBO), ischemic cardiomyopathy with an ejection fraction of 60%, moderate mitral regurgitation on the last echocardiogram, and previous appendectomy and esophageal stricture.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

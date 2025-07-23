@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is prominent in size measuring 9 mm in caliber, demonstrating equivocal wall edema and minimal surrounding inflammation. A few scattered lymph nodes are present in the right lower quadrant in the mesentery.",
+            "changes_over_time": "The overall appearance of this appendix is similar to slightly progressed compared to that on prior exam."
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bacterial Culture (Holding)",
+            "date": "Not specified",
+            "findings": "HOLD.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

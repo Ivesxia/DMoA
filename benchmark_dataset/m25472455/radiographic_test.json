@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Dilated fluid filled appendix with surrounding small fluid and stranding as well as hyperemic wall. No adjacent cecal wall thickening. Clear bases of the lungs bilaterally. No pericardial effusion. Liver is homogeneous, no focal lesions, no intrahepatic biliary ductal dilatation. Patent portal veins. No cholelithiasis. Kidneys show symmetric nephrograms, no focal lesions or hydronephrosis. Unremarkable stomach, duodenum, and bowel. Normal abdominal aorta. No retroperitoneal or mesenteric adenopathy. Moderately distended bladder, normal prostate and seminal vesicles, no pelvic free fluid, no adenopathy. No suspicious lytic or blastic bone lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

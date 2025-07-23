@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Amylase and Lipase",
+            "date": "Not specified",
+            "findings": "Markedly elevated",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver demonstrates no focal or textural abnormalities. No intra- or extra-hepatic biliary ductal dilatation. Gallbladder is normal without stones or wall edema. Common bile duct normal in caliber measuring 3 mm. Body and head of pancreas unremarkable. Tail of pancreas slightly obscured by overlying bowel gas. No perihepatic ascites. Main portal vein patent with hepatopetal flow.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

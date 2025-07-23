@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "There is mild bibasilar atelectasis. No pleural or pericardial effusion. Mild intrahepatic biliary duct dilatation, which appears stable since prior examination. The gallbladder is distended and contains multiple calcified gallstones. Mild amount of surrounding pericholecystic fluid and fat stranding. The CBD is prominent measuring up to 11 mm. No stones are seen within the CBD. The adjacent loops of bowel appear somewhat thickened, likely due to a reactive inflammatory response. Redemonstration of a 2.0 x 1.8 cm nodule in the left adrenal gland. Multiple bilateral hypodensities in the kidneys which are too small to further characterize. The stomach, duodenum, small bowel and colon are grossly unremarkable. No evidence of small bowel obstruction. No dilated loops of bowel. Surgical anastomosis appears grossly intact.",
+            "changes_over_time": "Mild intrahepatic biliary duct dilatation appears stable since prior examination."
+        }
+    ]
+}

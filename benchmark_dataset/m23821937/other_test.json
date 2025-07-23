@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "H. pylori serology",
+            "date": "Not specified",
+            "findings": "Notable negative result.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Physical Examination",
+            "date": "Not specified",
+            "findings": "Vitals stable; abdomen soft with positive epigastric tenderness; no jaundice, cyanosis, or edema.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

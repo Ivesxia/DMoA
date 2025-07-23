@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2",
+                "blood_pressure": "110/74",
+                "heart_rate": "64",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "Patient is lying in bed, appears tired but is in no acute distress.",
+                "HEENT": "NCAT, EOMI, sclera anicteric, conjunctiva WNL.",
+                "oral_pharynx": "MMM, no ulcers.",
+                "neck": "JVP not visible secondary to body habitus.",
+                "chest": "Generally clear to auscultation anterior and posterior.",
+                "cardiac": "Regular, no murmurs.",
+                "abdomen": "Obese, normal bowel sounds. Soft, mild tenderness in _____ to deep palpation, minimal voluntary guarding. No epigastric tenderness, remainder of exam without tenderness.",
+                "extremities": "No edema.",
+                "skin_nails": "No rash.",
+                "neurologic": "Grossly intact."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8",
+                "blood_pressure": "134/79",
+                "heart_rate": "62",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "96% RA"
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

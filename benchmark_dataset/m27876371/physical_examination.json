@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3",
+                "heart_rate": "85",
+                "blood_pressure": "146/95",
+                "respiratory_rate": "19",
+                "oxygen_saturation": "100"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "HEENT": "Normocephalic, atraumatic, Extraocular muscles intact, Oropharynx within normal limits",
+                "cardiovascular": "Regular Rate and Rhythm",
+                "abdominal": "Soft, Nondistended, + ventral hernia, mild diffuse tenderness, no guarding, no rebound",
+                "GU/Flank": "No costovertebral angle tenderness",
+                "extremities/back": "+ pulses",
+                "skin": "No rash, Warm and dry",
+                "neurologic": "Speech fluent, GCS 15, full strength",
+                "psychiatric": "Normal mood, Normal mentation",
+                "additional": "No petechi"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

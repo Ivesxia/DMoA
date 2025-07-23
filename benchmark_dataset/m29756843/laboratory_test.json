@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Leukocytosis Assessment",
+            "date": "Not specified",
+            "findings": "Leukocytosis noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase Test",
+            "date": "Not specified",
+            "findings": "Elevated lipase noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen Without Contrast",
+            "date": "Not specified",
+            "findings": "Liver demonstrates diffusely decreased attenuation, possibly reflecting hepatic steatosis. Multiple pulmonary nodules present, measuring 6.6 mm, 6.2 mm, and 8.4 mm, new since prior study. Diverticulosis with wall thickening and adjacent fat stranding in the sigmoid colon.",
+            "changes_over_time": "New pulmonary nodules compared to prior study."
+        }
+    ]
+}

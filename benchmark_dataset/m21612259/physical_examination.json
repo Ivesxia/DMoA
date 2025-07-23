@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9°F",
+                "heart_rate": "60 bpm",
+                "blood_pressure": "128/60 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "older male, appears his stated age, NAD at present, mild scleral icterus",
+                "HEENT": "NC/AT, EOMI, PERRLA bilat., dry MM, without cervical LAD",
+                "cardiovascular": "RRR without m/g/r, no JVD, no bruits",
+                "lungs": "CTA bilat.",
+                "abdomen": "+BS, soft, ND, tender at R abdomen, RUQ, + voluntary guarding, no masses, no percussion tenderness, no epigastric tenderness",
+                "extremities": "warm feet, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

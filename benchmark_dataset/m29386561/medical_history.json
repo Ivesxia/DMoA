@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Worsening abdominal pain",
+        "history_of_present_illness": "Symptoms began 24 hours prior with worsening abdominal pain that progressed to nausea, vomiting, and fevers. The pain awoke the patient from sleep yesterday, although he was able to go to work and eat a small lunch. However, later that evening, he experienced vomiting and chills along with subjective fevers. He had a 'terrible night of pain' and presented to the emergency department the following morning.",
+        "past_medical_history": "Depression, anxiety",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

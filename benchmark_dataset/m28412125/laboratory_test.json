@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix dilated with a hyperemic thickened wall measuring up to 14 mm with periappendiceal inflammatory changes, consistent with acute appendicitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "< 10,000 CFU/mL; NONE /hpf.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

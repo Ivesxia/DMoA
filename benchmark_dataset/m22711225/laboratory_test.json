@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Illumigene DNA amplification assay for toxigenic C. difficile",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile. Reference Range-Negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild bibasilar atelectasis, small bilateral pleural effusions, benign small scattered hypodensities in the liver, layering high attenuation material in the gallbladder, a parapelvic cyst on the left kidney, and evidence of prior surgical intervention. No evidence of small-bowel obstruction.",
+            "changes_over_time": "Significant reduction in the extent of inflammatory changes and phlegmon in the right lower abdomen and pelvis since prior imaging."
+        }
+    ]
+}

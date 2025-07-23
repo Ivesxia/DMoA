@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient reports epigastric and RUQ discomfort for the past 1 month, which worsened at 3am on the day of presentation. The pain is intermittent and crampy, starting in the epigastrium and radiating to the RUQ, now having spread to other parts of the abdomen, including LLQ. Over the last few weeks, she has developed associated diffuse abdominal discomfort. She tried advil twice with minimal relief.",
+        "past_medical_history": "Thalassemia (mild, unknown type, not on treatment); seasonal allergies (pollen, cats); previous surgeries include appendectomy, C-section, and left oophorectomy.",
+        "family_history": "Mother, father, and sister all had gallbladder issues and are status post cholecystectomies. Sister had an infected gallbladder with a complicated course requiring a 4-month hospital stay.",
+        "social_history": "Not specified."
+    }
+}

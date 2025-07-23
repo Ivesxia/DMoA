@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "102.1°F",
+                "pulse": "130 bpm",
+                "blood_pressure": "155/73 mmHg",
+                "respiratory_rate": "15 breaths/min",
+                "sats": "96%"
+            },
+            "relevant_findings": {
+                "general": "Cooperative, moderately distressed",
+                "neuro": "Oriented, awake, alert, no global or local deficits",
+                "HEENT": "No thyromegaly, no lymphadenopathy, no carotid bruit",
+                "chest": "Decreased breath sounds bases bilaterally",
+                "cardiac": "S1, S2 audible, no murmurs appreciated",
+                "abdomen": "Firm, tender lower abdomen, distended, ascitic, bowel sounds diminished, midline incisional hernia, abdominal wall/domain loss defect, guaic negative",
+                "extremities": "Mild edema, distal pulses palpable +1"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

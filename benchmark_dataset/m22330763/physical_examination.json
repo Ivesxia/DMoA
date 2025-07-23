@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 37.7°C, Heart Rate: 60 bpm, Blood Pressure: 146/82 mmHg, Respiratory Rate: 16 breaths/min; Vitals on transfer: 98.4°F, Heart Rate: 87 bpm, Blood Pressure: 116/81 mmHg, Respiratory Rate: 18 breaths/min, Oxygen Saturation: 99% on room air.",
+            "relevant_findings": "General: Alert and oriented x3, restless; Cardiovascular: Regular rhythm, normal rate, no murmurs/rubs/gallops, no JVD; Respiratory: Clear to auscultation bilaterally with appropriate breath sounds. No wheezes, rhonchi, or rales; Abdomen: Normal bowel sounds, non-distended. Tenderness to palpation in RUQ and LUQ, no guarding/rebound; Neurological: Gait unsteady.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Sudden onset of abdominal pain.",
+        "history_of_present_illness": "Abdominal pain began around 8 pm and was unrelenting. The patient was unable to determine if the pain was associated with food intake or what he had for dinner. This was the first occurrence of pain like this, and bowel movements did not alleviate the pain. The patient called EMS for transport due to the persistence of symptoms, but noted that he felt well currently and had no pain since midnight.",
+        "past_medical_history": "Atrial fibrillation, heart failure with preserved ejection fraction (HFpEF), benign prostatic hyperplasia (BPH), mitral regurgitation with repair, seizures, pancreatic cystic lesions, type 2 diabetes mellitus with HgbA1C of 11.8%, coronary artery disease with one-vessel CABG, chronic diastolic congestive heart failure with an EF of 50-55%, cystadenoma of the pancreas, gastroesophageal reflux disease (GERD), nephrolithiasis.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

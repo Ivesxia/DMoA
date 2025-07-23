@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "HCV Testing",
+            "date": "Not specified",
+            "findings": "HCV-RNA NOT DETECTED. Performed using the ___ HCV Test. Linear range of quantification: 43 IU/mL - 69 million IU/mL. Limit of detection: 18 IU/mL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The gallbladder is contracted with gallbladder wall edema. Multiple gallstones within the gallbladder. Subtle enhancement surrounding the gallbladder consistent with hyperemia. The biliary tree is normal with no filling defects. No intra or extrahepatic duct dilatation. The liver and other organs are within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Values",
+            "date": "Not specified",
+            "findings": "3.4 mg/dL (reference range 2.7 - 4.5 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

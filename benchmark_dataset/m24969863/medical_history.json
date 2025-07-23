@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Mild lower abdominal pain and hyperglycemia.",
+        "history_of_present_illness": "The patient reports mild lower abdominal pain for the past few days, with pain in both lower quadrants, worse on the right. The pain is associated with mild nausea but no emesis. Symptoms started after the patient's primary care physician called due to hyperglycemia, with blood work revealing glucose levels greater than 450.",
+        "past_medical_history": "Type II diabetes, hypertension, hyperlipidemia, chronic renal insufficiency (baseline creatinine 1.14-1.6), prior left vitrectomy.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

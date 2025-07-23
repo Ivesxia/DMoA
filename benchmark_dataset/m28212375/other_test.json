@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Focal segment of colon with multiple diverticula, wall thickening, surrounding inflammatory change, scattered free intraperitoneal air, and trace free fluid along the left pelvis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Central venous catheter placement",
+            "date": "Not specified",
+            "findings": "Right PICC catheter with the tip in the right atrium; bilateral patchy opacities predominantly in lower lung zones consistent with pulmonary edema; no pneumothorax; heart size enlarged but stable.",
+            "changes_over_time": "Unchanged from the prior radiograph from outside hospital."
+        }
+    ]
+}

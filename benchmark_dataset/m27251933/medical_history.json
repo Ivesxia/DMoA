@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Abdominal pain started at midnight last night, worsened throughout the day, accompanied by poor appetite and vomiting several times in the evening. Symptoms have been progressively worsening.",
+        "past_medical_history": "Remote history of ruptured cerebral aneurysm ___ years ago.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

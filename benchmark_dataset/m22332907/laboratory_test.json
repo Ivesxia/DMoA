@@ -1,0 +1,24 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound - Liver or Gallbladder",
+            "date": "Not specified",
+            "findings": {
+                "liver": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites.",
+                "bile_ducts": "There is no intrahepatic biliary dilation. The CHD measures 2 mm.",
+                "gallbladder": "Multiple gallstones are seen, 1 at the gallbladder neck. The gallbladder is moderately distended with extensive gallbladder wall edema, compatible with acute cholecystitis. The gallbladder wall also appears hyperemic. Of note, there was a positive sonographic Murphy's sign.",
+                "pancreas": "The imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation, with portions of the pancreatic tail obscured by overlying bowel gas.",
+                "spleen": "Normal echogenicity, measuring 8.6 cm.",
+                "kidneys": "Limited views of the right kidney show no hydronephrosis.",
+                "retroperitoneum": "The visualized portions of aorta and IVC are within normal limits."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

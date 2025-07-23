@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "57 bpm",
+                "blood_pressure": "103/53 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, A&O, comfortable",
+                "cardiovascular": "RRR",
+                "respiratory": "No respiratory distress",
+                "abdominal": "Soft, non-tender, non-distended",
+                "extremities": "Warm, well-perfused x4, no cyanosis/clubbing/edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

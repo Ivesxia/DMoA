@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP with sphincterotomy",
+            "date": "Not specified.",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CHEST PORT. LINE PLACEMENT",
+            "date": "Not specified.",
+            "findings": "The tip of the PICC line projects over the cavoatrial junction; the line's course is unremarkable. Pre-existing parenchymal opacities are unchanged.",
+            "changes_over_time": "The course of the line should be pulled back by approximately 3 cm for optimal positioning. No evidence of complication or pneumothorax."
+        }
+    ]
+}

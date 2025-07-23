@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "55 bpm",
+                "blood_pressure": "147/89 mmHg",
+                "respiratory_rate": "20 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "cardiovascular": "RRR, No M/G/R",
+                "pulmonary": "Clear to auscultation b/l, No W/R/R",
+                "abdominal": "Soft, nondistended, RLQ tenderness, no rebound or guarding, +diastasis recti, No hernias, no abdominal scars, Neg Mcburney's tenderness, neg psoas or obturator sign",
+                "DRE": "normal tone, no gross or occult blood",
+                "extremities": "No edema, warm and well perfused",
+                "scrotal_exam": "No scrotal tenderness, R cord mass on-tender"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

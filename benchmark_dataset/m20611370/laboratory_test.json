@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Lung bases: Atelectasis and a small right pleural effusion at the right lung base. Abdomen: liver, spleen, adrenals, gallbladder and biliary tree, pancreas appear unremarkable. Left kidney demonstrates nonobstructing calculi in its lower pole, largest measures 8 mm. A colostomy within the left lower quadrant. Small amount of free fluid within the small bowel mesentery. Severe aortic and iliac atherosclerosis. Pelvis: Surgical drain present, persistent inflammatory stranding surrounding the rectosigmoid stump and adjacent small bowel loops. No drainable abscess or fluid collection. A small left bladder diverticulum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "No Growth",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

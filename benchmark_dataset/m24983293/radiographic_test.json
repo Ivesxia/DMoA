@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Heart size is normal. Hilar and mediastinal contours are unremarkable. The lungs are well expanded and clear. No pneumothorax or pleural effusion. No pneumoperitoneum.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

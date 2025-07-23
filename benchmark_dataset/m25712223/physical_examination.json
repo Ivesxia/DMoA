@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.3°F",
+                "heart_rate": "55 bpm",
+                "blood_pressure": "145/51 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on 2L"
+            },
+            "relevant_findings": {
+                "general": "Pale elderly female who is in bed, NAD.",
+                "nutrition": "OK",
+                "grooming": "OK",
+                "mentation": "Alert, able to answer some questions",
+                "eyes": "NC/AT, PERRL, EOMI without nystagmus, no scleral icterus noted",
+                "ears_nose_mouth_throat": "dry MM, no lesions noted in OP, poor dentition, R ear with scant cerumen",
+                "neck": "supple, no JVD appreciated",
+                "respiratory": "Lungs CTA bilaterally without R/R/W",
+                "cardiovascular": "RRR, nl. S1S2, no M/R/G noted",
+                "gastrointestinal": "soft, slightly diminished bowel sounds, diffusely tender throughout without guarding or rebound, even though patient denies pain",
+                "genitourinary": "WNL",
+                "rectal": "Hard stool in vault- guiac negative",
+                "skin": "no rashes or lesions noted. No pressure ulcer",
+                "extremities": "No C/C/E bilaterally, 2+ radial, DP and ___ pulses b/l.",
+                "lymphatics": "No cervical, supraclavicular, axillary or inguinal lymphadenopathy noted.",
+                "neurologic": {
+                    "mental_status": "Alert, oriented self, hospital and ___. Unable to relate history.",
+                    "cranial_nerves": "L facial droop",
+                    "motor": "normal bulk, strength and tone throughout. No abnormal movements noted.",
+                    "DTRs": "2+ biceps, and patellar reflexes bilaterally."
+                },
+                "psychiatric": "Flat affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

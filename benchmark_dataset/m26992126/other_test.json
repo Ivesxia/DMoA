@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EGD",
+            "date": "Not specified",
+            "findings": "Extensive food impaction in the esophagus with a report of gastric stricture.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Barium swallow",
+            "date": "Not specified",
+            "findings": "Concern for obstruction in the stomach.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT Abdomen & Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Severe streak artifact from dense contrast in the stomach, mild central intrahepatic biliary duct dilation, enlarged spleen, and possible stricture of the distal stomach.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

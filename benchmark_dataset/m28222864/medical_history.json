@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute onset of abdominal pain.",
+        "history_of_present_illness": "The patient's abdominal pain began last night after consuming chicken soup. The pain is rated as ___ throughout the abdomen, especially to the right of the umbilicus and epigastrium. The patient has not had a bowel movement since yesterday and is unclear if he passed gas. He reports subjective fevers and chills at home, with no nausea or vomiting. There has been no history of weight loss or similar episodes of pain.",
+        "past_medical_history": "BPH, Hep B, Gynecomastia, normal stress test for work-up of left chest pain. Past surgical history: None.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

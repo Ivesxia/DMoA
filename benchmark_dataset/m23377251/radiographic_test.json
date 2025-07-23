@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ERCP BILIARY&PANCREAS",
+            "date": "Not specified",
+            "findings": "Cannulation of the biliary duct demonstrates no intra- or extra-hepatic biliary ductal dilation. A stone described at approximately 6 mm is seen in the lower common duct.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

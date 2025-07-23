@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "SBP in 60-70s pre op.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic appendectomy converted to open appendectomy",
+            "date": "Not specified",
+            "findings": "Surgical intervention for acute appendicitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Albumin infusion",
+            "date": "Not specified",
+            "findings": "500 albumin administered.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Dilaudid PCA for pain control",
+            "date": "Not specified",
+            "findings": "Dilaudid PCA initiated for persistent postoperative pain.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

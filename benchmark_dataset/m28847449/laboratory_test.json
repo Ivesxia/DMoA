@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "There is a 5.6 x 3.8 x 5.1 cm fluid collection with locules of air containing a 1.7 cm hyperdense lamellated lesion most likely an appendicolith. Findings are consistent with perforated appendicitis with an abscess. Adjacent bowel loops are thickened likely due to inflammation. A small amount of free fluid is noted within the pelvis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lab Result (may refer to laboratory measurements)",
+            "date": "Not specified",
+            "findings": "3.7 mg/dL, within normal range (ref range: 2.7 - 4.5 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

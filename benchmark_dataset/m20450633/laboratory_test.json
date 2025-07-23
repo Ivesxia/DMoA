@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Growth Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Estimated GFR (eGFR)",
+            "date": "Not specified",
+            "findings": "Estimated GFR is likely between 71 and >75 mL/min/1.73 m², provided the serum creatinine value is stable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

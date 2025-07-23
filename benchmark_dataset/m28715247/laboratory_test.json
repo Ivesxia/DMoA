@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood test",
+            "date": "Not specified",
+            "findings": "9.0 mg/dL (normal range: 8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Rib X-ray",
+            "date": "Not specified",
+            "findings": "No focal consolidation, pleural effusion or pneumothorax identified. Prominent right epicardial fat noted. Cardiac silhouette is within normal limits. No acute displaced left rib fractures identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

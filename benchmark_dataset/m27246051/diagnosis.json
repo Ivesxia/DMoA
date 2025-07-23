@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute appendicitis",
+        "differential_diagnosis": "Giardia gastrointestinal infection",
+        "diagnostic_reasoning": "The patient presented with abdominal pain that migrated to the right lower quadrant (RLQ), associated with nausea and vomiting, supporting the diagnosis of acute appendicitis. A CT scan showed mild mucosal hyperemia of the appendix and mild fat stranding, further supporting the diagnosis. The prior episode of giardia infection was considered but was determined to be resolved."
+    }
+}

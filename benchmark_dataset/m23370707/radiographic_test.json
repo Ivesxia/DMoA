@@ -1,0 +1,15 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "The bases of the lungs are clear. There is no nodule, consolidation, or pleural effusion.",
+                "abdomen": "The liver is normal in shape and contour. No focal hepatic lesion is identified. The portal veins are patent. No intra or extrahepatic biliary duct dilation. The gallbladder, spleen, pancreas, and adrenal glands are normal. The kidneys are normal without renal lesions, hydronephrosis, or pyelonephritis. They enhance excrete contrast symmetrically. The stomach and small bowel are normal in course and caliber. No evidence of obstruction. No focal inflammatory changes. No free air or free fluid is identified. The abdominal vasculature is normal in caliber. No mesenteric, retroperitoneum, or periportal lymphadenopathy.",
+                "pelvis": "The appendix is mildly dilated, measuring 10 mm, with wall hyperemia and minimal surrounding stranding. No evidence of surrounding free air or an abscess formation. Mild wall thickening is seen in the base of the cecum. The large bowel is normal without focal inflammatory changes or evidence of a mass. The bladder and prostate are unremarkable. No pelvic or inguinal lymphadenopathy. No free fluid is identified in the pelvis.",
+                "osseous_structures_and_soft_tissues": "No concerning lytic or sclerotic osseous lesions. A 7 mm sclerotic focus in the right acetabulum is likely a bone island. No fracture is identified. No significant degenerative changes. The soft tissues are unremarkable. No hernia."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

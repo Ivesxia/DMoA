@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Pelvis, Non-Obstetric Ultrasound",
+            "date": "Not specified",
+            "findings": "Uterus measures 6.3 x 2.5 x 3.7 cm, endometrial thickness is 2 mm, ovaries are normal in appearance and show normal blood flow, and there is trace physiologic free fluid in the pelvis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "NEG mg/dL",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

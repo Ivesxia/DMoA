@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 97.5°F, Blood Pressure: 120/70 mmHg, Heart Rate: 68 bpm, Respiratory Rate: 18 breaths/min, Oxygen Saturation: 96% on room air",
+            "relevant_findings": "Pain in infraumbilical region; abdomen soft, no guarding/rebound; no clubbing/cyanosis/edema; 2+ distal pulses; peripheral IV present; alert and oriented to person, place and situation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Abdominal pain improved after PCBD drain placement but has increased over the last few days from mild to severe. Described as constant stabbing pain that radiates to the back, with associated nausea that worsens after eating.",
+        "past_medical_history": "1. Recently diagnosed locally metastatic pancreatic cancer; 2. COPD; 3. History of gastric bypass; 4. Left total knee replacement; 5. Spinal stenosis status post multiple laminectomies; 6. Depression, with possible bipolar disorder.",
+        "family_history": "1. Mother died of coronary artery disease; 2. Father died of coronary artery disease; 3. Maternal grandmother with breast cancer; 4. Maternal aunt with pancreatic cancer; 5. Maternal niece with breast cancer.",
+        "social_history": "Not specified"
+    }
+}

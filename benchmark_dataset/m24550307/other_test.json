@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Sinus tachycardia initially, with new ST depressions noted in inferior leads (V3, V4) during observation.",
+            "changes_over_time": "Progression from sinus tachycardia to new ST depressions."
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Liver appears echogenic, compatible with diffuse fatty infiltration. No focal intrahepatic lesions, normal gallbladder with a 3-mm polyp at the fundus, and no evidence of stones or hydronephrosis in the kidneys.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

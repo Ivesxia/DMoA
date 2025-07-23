@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Dilated appendix with significant periappendiceal stranding. No drainable fluid collection or extraluminal air. Fluid is noted within the cecum and ascending colon. Bilateral renal hypodensities likely reflect simple cysts.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "VRE Isolation",
+            "date": "Not specified",
+            "findings": "No VRE isolated.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

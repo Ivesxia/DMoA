@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "pulse": "65 bpm",
+                "blood_pressure": "132/85 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and oriented x3",
+                "cardiovascular": "Regular rate and rhythm",
+                "respiratory": "Clear to auscultation bilaterally",
+                "gastrointestinal": "Bowel sounds present, soft abdomen, tenderness to palpation in the right upper quadrant, Murphy's sign positive"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

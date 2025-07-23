@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8 °F",
+                "heart_rate": "70 bpm",
+                "blood_pressure": "158/83 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, comfortable",
+                "cardiovascular": "RRR",
+                "pulmonary": "breathing comfortably on room air",
+                "abdominal": "soft, distended, tenderness to palpation in RUQ with +guarding, no rebound, negative ___ sign, reducible umbilical hernia appreciated",
+                "extremities": "WWP",
+                "neurological": "AAOx3, no focal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

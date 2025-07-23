@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "heart_rate": "69 bpm",
+                "blood_pressure": "121/67 mmHg",
+                "respiratory_rate": "16 bpm",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, in NAD",
+                "abdominal": "Soft, minimally tender in RLQ, negative Rovsing's sign, no rebound tenderness or guarding",
+                "extremities": "No cyanosis, clubbing, or edema",
+                "neurological": "Grossly intact",
+                "psychiatric": "Appropriate mood/affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

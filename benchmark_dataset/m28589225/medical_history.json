@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Progressively worsening right upper quadrant pain.",
+        "history_of_present_illness": "Pain started on ___, at which time the patient presented to ___ and was prescribed antibiotics. After being discharged, the pain worsened despite antibiotic treatment. The pain is described as aching and severe, worse with oral intake, and the patient experiences subjective fevers at home.",
+        "past_medical_history": "Not specified.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified.",
+            "findings": "The gallbladder demonstrates mild wall edema, multiple mobile stones, and appears non-flaccid. The common bile duct demonstrates concentric wall thickening but is not dilated, measuring 5 mm.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

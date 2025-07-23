@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3 °F",
+                "heart_rate": "91 bpm",
+                "blood_pressure": "120/83 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "95% on room air"
+            },
+            "relevant_findings": {
+                "general": "In bed, comfortable, feeling dehydrated",
+                "lungs": "Clear to auscultation",
+                "cardiovascular": "Regular rate and rhythm",
+                "abdomen": "Soft, slightly distended, tender to right lower quadrant, non-peritoneal, negative Rovsing's sign, negative obturator sign, negative psoas sign",
+                "extremities": "No cyanosis, clubbing, or edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

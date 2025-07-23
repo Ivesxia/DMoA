@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Examination for LFTs",
+            "date": "Not specified",
+            "findings": "7.0 units (Reference range: 5.0 - 8.0 units)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix demonstrates mural hyperemia and is dilated measuring up to 1.4 cm, significant adjacent stranding, and mild fascial thickening.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

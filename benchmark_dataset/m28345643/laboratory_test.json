@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is markedly dilated measuring 13 mm in greatest dimension containing fecal material. An appendicolith is seen at the origin. There is moderate surrounding fat stranding along with thickening of the lateroconal fascia. Diverticulosis of the descending colon and sigmoid noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "109 bpm",
+                "blood_pressure": "128/77 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, alert, oriented x3",
+                "HEENT": "+ scleral icterus",
+                "cardiovascular": "RRR, nml S1/S2",
+                "pulmonary": "clear bilaterally, regular, non-labored respirations",
+                "abdominal": "soft, no distention, well healed scars from esophagectomy, moderately tender to palpation RUQ",
+                "extremities": "+ psoriasis plaques, no swelling in lower extremities, warm, well perfused, palpable DP pulses bilaterally"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

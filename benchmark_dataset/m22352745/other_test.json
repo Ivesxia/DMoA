@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Demonstrated atrial fibrillation.",
+            "changes_over_time": "Spontaneously converted to normal sinus rhythm after pain control."
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Foley catheter placement",
+            "date": "Not specified",
+            "findings": "1400 cc total urine output (UOP).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "CT showed inflammatory stranding/fluid surrounding the pancreas. No discrete fluid collection identified. Pancreas enhances homogeneously with no ductal dilatation or focal mass.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

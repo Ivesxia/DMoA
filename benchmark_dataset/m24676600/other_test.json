@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The gallbladder is moderately distended with a diffusely thickened wall and marked surrounding fat stranding. There is minimal central intrahepatic biliary dilatation. The common bile duct is mildly prominent measuring up to 7 mm. Wall thickening and mucosal hyperenhancement along the rectum and distal sigmoid colon unchanged likely relates to the patient's known history of ulcerative colitis. Wall thickening along a collapsed segment of the distal transverse colon near an area of inflammatory change related to secondary involvement.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Percutaneous aspiration of gallbladder",
+            "date": "Not specified",
+            "findings": "1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

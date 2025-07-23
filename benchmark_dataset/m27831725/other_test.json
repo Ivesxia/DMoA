@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Tracheostomy",
+            "date": "Not specified",
+            "findings": "Tracheostomy tube terminates in the mid trachea, 2.6 cm above the carina.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "No cardiac activity.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Peritoneal lavage",
+            "date": "Not specified",
+            "findings": "No respiratory viruses isolated; culture screened for various respiratory viruses.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal washout",
+            "date": "Not specified",
+            "findings": "Open abdomen, surgical dressing and drains in place.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

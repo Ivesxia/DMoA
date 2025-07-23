@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "gallstone pancreatitis",
+        "differential_diagnosis": "obstructive jaundice, hepatic steatosis, hypertension",
+        "diagnostic_reasoning": "The patient presented with abdominal pain, hyperbilirubinemia, and elevated transaminases, suspecting gallstone pancreatitis. Imaging confirmed cholelithiasis without cholecystitis, supporting the diagnosis of gallstone pancreatitis."
+    }
+}

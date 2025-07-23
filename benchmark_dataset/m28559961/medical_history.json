@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric pain for 4 days.",
+        "history_of_present_illness": "Patient reports that abdominal pain started 4 days ago. Pain is primarily in the epigastric region, intermittent in nature, and reaches severe intensity for undetermined minutes before improving. Pain does not radiate to the back and has no relation to food. The patient has only been able to tolerate a bland diet. No constipation or diarrhea reported. Recent nausea noted. She tried peptobismol with little relief, which caused her stools to turn dark.",
+        "past_medical_history": "Asthma, pulmonary embolism, herpes, bacterial vaginosis.",
+        "family_history": "No breast or colon cancer; positive for hypertension and diabetes mellitus; antenectomy in grandmother (questionable stomach cancer); uncle with liver cancer; grandfather with heart disease.",
+        "social_history": "Patient consumes at least 1 beer and 1 shot daily."
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase was 1270, which is outside normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Tacrolimus level",
+            "date": "Not specified",
+            "findings": "Tacrolimus level drawn and still pending.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "US of kidney and pancreas were negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "CT findings included diffuse hypodensity throughout the mesentery, suggestive of diffuse edema, and periportal edema noted through the liver. No discernable abscess.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

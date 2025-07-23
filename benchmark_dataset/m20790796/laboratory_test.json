@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "The liver has a homogeneous signal without focal mass lesion. No intra or extrahepatic biliary ductal dilation. The common duct measures up to 8 mm in diameter. A 7 mm cystic focus is seen adjacent to the pancreatic tail. Moderate-sized axial hiatal hernia present. Dominant left-sided renal cyst measures 3.7 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver function tests",
+            "date": "Not specified",
+            "findings": "AST, Alk phos, Tbilli, and lipase were elevated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "Not specified",
+            "findings": "1.8 mg/dL (Ref Range: 1.6 - 2.6 mg/dL), within normal range.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

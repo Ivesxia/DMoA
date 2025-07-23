@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Test",
+            "date": "Not specified",
+            "findings": "1.2 (outside normal range, reference range: 0.9 - 1.1)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiograph",
+            "date": "Not specified",
+            "findings": "Bilateral hip joint spaces are relatively preserved. Mild acetabular spurring bilaterally consistent with mild osteoarthritis. Sacroiliac joints and lower lumbar spine are grossly within normal limits. Normal osseous mineralization.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

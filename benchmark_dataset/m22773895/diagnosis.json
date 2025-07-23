@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with lower abdominal pain for 8 days, associated with nausea and anorexia. CT scan findings showed an appendicolith, a dilated appendix measuring 12 mm, and periappendiceal fat stranding, which are compatible with acute uncomplicated appendicitis."
+    }
+}

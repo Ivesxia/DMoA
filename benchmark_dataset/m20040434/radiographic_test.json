@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT CHEST W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Status post thyroidectomy with no evidence of recurrence in the surgical bed. No supraclavicular or axillary lymphadenopathy. Small partially calcified nodule in the left breast is unchanged since ___. Moderate sliding hiatal hernia is unchanged. Few sub centimeter lymph nodes in the mediastinum are not pathologically enlarged. Moderate cardiomegaly with trace pericardial effusion, unchanged since ___. Left ventricle and left atrium has enlarged since ___. Minimal atherosclerotic calcifications of the aortic annulus. Small right and left tiny pleural effusions associated with mild adjacent compressive atelectasis. Subsegmental platelike atelectasis in both lung bases. Heterogeneous appearance of the skeleton with diffuse sclerotic and lytic appearance associated with several vertebral wedge fractures unchanged in comparison to PET-CT dated ___. Multiple healing or healed bilateral rib fractures.",
+            "changes_over_time": "Small partially calcified nodule in the left breast is unchanged. Moderate sliding hiatal hernia is unchanged. Moderate cardiomegaly with trace pericardial effusion is unchanged. Left ventricle and left atrium has enlarged since ___. Heterogeneous appearance of the skeleton with vertebral wedge fractures is grossly unchanged in comparison to PET-CT dated ___. Significant loss of height of T7 in T9 and T11 with secondary increased thoracic kyphosis is grossly unchanged in comparison to ___ but mildly increased since ___."
+        }
+    ]
+}

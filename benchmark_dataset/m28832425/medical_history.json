@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Nausea, bilious emesis, and abdominal pain.",
+        "history_of_present_illness": "Symptoms gradually worsened one week prior to admission, with around ___ episodes of clear, nonbloody, brown/green emesis per day. Abdominal pain is acute, sharp, and localized to the lower abdomen bilaterally without radiation. Symptoms occur in a predictable sequence: nausea -> burning sensation -> abdominal pain -> emesis, which relieves discomfort/pain. Decreased PO intake and noted 12 lb weight loss over past few weeks.",
+        "past_medical_history": "Left breast cancer (DCIS) s/p modified radical mastectomy, current chemotherapy with cyclophosphamide/doxorubicin; hysterectomy with removal of ovaries; left leg surgery (tibia and fibula, metal implanted); well-controlled asthma.",
+        "family_history": "Sister diagnosed with triple negative breast cancer at the age of ___. Three other healthy sisters and two healthy brothers. One son and one daughter who are ___ and ___ years old; they are healthy.",
+        "social_history": "Not specified."
+    }
+}

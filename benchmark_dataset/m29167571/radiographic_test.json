@@ -1,0 +1,29 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": [
+                "Small bilateral pleural effusions, right greater than left, new",
+                "Abnormal signal within the right lung base may represent atelectasis",
+                "Liver is normal in size, with no evidence of diffuse hepatic steatosis or focal hepatic lesions",
+                "Portal vein and splenic vein are patent, but dilated",
+                "Gallbladder is present with no biliary ductal dilatation",
+                "Decreased intrinsic T1 hyperintense signal diffusely within pancreatic parenchyma with surrounding fluid signal and stranding",
+                "Pancreatic parenchyma enhances uniformly, with no evidence of pseudoaneurysm",
+                "Pancreatic duct is not dilated",
+                "T2 hyperintense nonenhancing foci throughout the pancreatic parenchyma are unchanged in location and number, but some are slightly increased in size compared to prior MRCP",
+                "Splenomegaly measuring 14.6 cm, previously 15.5 cm",
+                "Kidneys atrophic bilaterally, consistent with medical renal disease; T2 hyperintense nonenhancing foci compatible with cysts",
+                "No suspicious renal lesions or lymphadenopathy",
+                "Diffuse mesenteric and retroperitoneal edema",
+                "No suspicious osseous lesions, diffuse anasarca"
+            ],
+            "changes_over_time": [
+                "The largest pseudocyst in the head of the pancreas increased in size from 15 x 11 mm to 16 x 15 mm",
+                "A smaller lesion in the head/uncinate process increased in size from 6 x 5 mm to 11 x 7 mm",
+                "Splenomegaly decreased from 15.5 cm to 14.6 cm"
+            ]
+        }
+    ]
+}

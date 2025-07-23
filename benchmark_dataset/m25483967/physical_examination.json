@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "70 bpm",
+                "blood_pressure": "114/70 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "93%"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm, Normal first and second heart sounds",
+                "abdominal": "Soft, mild epigastric tenderness to palpation (ttp), negative ___ sign",
+                "GU/flank": "No costovertebral angle tenderness",
+                "skin": "No rash, Warm and dry",
+                "neuro": "Speech fluent",
+                "psych": "Normal mentation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

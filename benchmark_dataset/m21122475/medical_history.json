@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "One-week history of abdominal pain.",
+        "history_of_present_illness": "Patient describes her pain as cramping, located over the epigastrium and left upper quadrant, non-radiating, which has progressively worsened over the days. She also endorses intermittent nausea, multiple episodes of non-bloody, non-bilious emesis, loose bowel movements, and poor appetite.",
+        "past_medical_history": "Hypertension, type 2 diabetes mellitus, hypothyroidism, hypercholesterolemia, GERD, sickle-cell trait, right carpal and cubital tunnel syndrome, uterine prolapse, colonic adenoma.",
+        "family_history": "No history of inflammatory bowel disease or GI malignancies.",
+        "social_history": "Personal history of tobacco use."
+    }
+}

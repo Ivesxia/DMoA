@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Fecal test for C. difficile toxin A & B",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Marked inflammatory stranding centered around the pancreas consistent with previously documented pancreatitis. Increased inflammatory changes since the previous study.",
+            "changes_over_time": "Degree of inflammatory changes appears to have increased since previous study."
+        }
+    ]
+}

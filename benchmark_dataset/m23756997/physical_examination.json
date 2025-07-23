@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "74 bpm",
+                "blood_pressure": "141/81 mmHg",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "94% on room air"
+            },
+            "relevant_findings": {
+                "anxiety": "Anxious, pacing",
+                "alertness": "Alert and oriented",
+                "abdominal_examination": "Soft abdomen, tenderness to palpation in right lower quadrant, non-distended, no rebound or guarding",
+                "extremities": "Warm to touch with pulsations in all four extremities"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

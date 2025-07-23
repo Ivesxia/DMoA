@@ -1,0 +1,10 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Test",
+            "date": "Not specified",
+            "findings": "2.6 mg/dL (ref range 2.7 - 4.5), NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

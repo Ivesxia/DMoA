@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Angiography of the Large Intestine",
+            "date": "Not specified",
+            "findings": "High density material around hepatic flexure, suggestive of active extravasation off branch of SMA. Diverticula noted throughout colon.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis",
+            "date": "Not specified",
+            "findings": "Diverticula noted throughout the large bowel. Focal area of amorphous hyperdensity in the ascending bowel concerning for active extravasation into the bowel lumen. Mild bowel wall thickening in the sigmoid colon with adjacent fat stranding and foci of air, concerning for complication by microperforation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Gallstone pancreatitis",
+        "differential_diagnosis": "Cholelithiasis",
+        "diagnostic_reasoning": "The patient presented with epigastric pain and emesis, along with elevated lipase levels greater than 3000, suggesting pancreatitis. Abdominal ultrasound showed cholelithiasis and sludge, further supporting the diagnosis of gallstone pancreatitis."
+    }
+}

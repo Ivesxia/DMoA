@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The imaged portion of the liver appears grossly unremarkable. There is a hyperenhancing lesion within segment VI measuring approximately 12 mm, likely a hemangioma. No additional lesions are seen within the liver. The gallbladder, spleen, adrenal glands, and pancreas appear normal. The kidneys enhance symmetrically and excrete contrast promptly. There is extensive fat stranding from the sigmoid mesocolon with areas of extraluminal gas, thickening along the posterior peritoneal margin with adjacent small bowel thickening, mild thickening along the sigmoid colon. There is no extraluminal fluid collection, bowel obstruction, IMV thrombus or gas, and urinary bladder and prostate gland appear normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

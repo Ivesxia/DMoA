@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Abdominal pain began suddenly 12 hours ago after eating dinner, associated with fever and chills. Patient experienced several episodes of non-bloody diarrhea since onset without improvement in pain. No nausea or vomiting reported, but bloating and anorexia occurred since the pain began.",
+        "past_medical_history": "PCOS; history of L ovarian torsion s/p lap detorsion one year ago; previous laparoscopic L ovarian cyst removal",
+        "family_history": "No history of IBD or GI malignancy.",
+        "social_history": "Not specified."
+    }
+}

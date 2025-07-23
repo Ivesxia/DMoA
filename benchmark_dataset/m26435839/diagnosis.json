@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Pancreatitis",
+        "differential_diagnosis": "Not specified.",
+        "diagnostic_reasoning": "The patient presented with abdominal pain and elevated lipase levels (1270), indicating pancreatitis. Imaging studies, including CT abdomen, did not show any abscess, fluid collection, or other acute processes that would warrant surgical intervention."
+    }
+}

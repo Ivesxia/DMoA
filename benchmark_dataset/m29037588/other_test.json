@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "No MRSA isolated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal Exam",
+            "date": "Not specified",
+            "findings": "Diffusely tender abdomen with tenderness to percussion and rebound tenderness, most markedly in epigastrum and left quadrants.",
+            "changes_over_time": "Persistent abdominal pain and nausea reported."
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "RRR, nl S1/S2.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

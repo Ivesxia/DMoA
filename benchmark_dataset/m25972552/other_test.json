@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Percutaneous cholecystotomy tube placement",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Right Upper Quadrant Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder is markedly distended with an impacted stone at the neck, multiple additional stones, large amount of layering sludge, diffuse gallbladder wall edema measuring up to 7 mm, and a small amount of pericholecystic fluid. The liver is normal in echogenicity, mild intrahepatic biliary dilation, and an incidental simple cyst in the right upper renal pole.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

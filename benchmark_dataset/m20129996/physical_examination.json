@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 102°F, Heart Rate: stable, Blood Pressure: Not specified, Respiratory Rate: Not specified",
+            "relevant_findings": "General: Patient looks very well, ambulating, tolerating a regular diet, minimal pain. Neuro: A&OX3. Cardiac: HR stable. Lungs: No increased work of breathing. Abdomen: soft, nondistended, lap sites C/D/I. Gait: strong.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver demonstrates homogenous attenuation; no evidence of focal lesions or biliary dilatation. The pancreas shows normal attenuation; no focal lesions or ductal dilatation. The spleen is normal in size and attenuation. The kidneys are of normal symmetric size with normal nephrogram. There is substantial right lower quadrant fat stranding with a dilated hyperemic, thickened fluid-filled structure likely representing the appendix.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbiology Culture",
+            "date": "Not specified",
+            "findings": "< 10,000 CFU/mL for infection present.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "0.3 mg/dL; within normal range.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

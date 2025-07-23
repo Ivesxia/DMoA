@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute onset abdominal pain",
+        "history_of_present_illness": "Patient experienced sharp and deep abdominal pain for 3 days with abrupt onset in the RUQ and epigastric region radiating to the back. No prior episodes were reported, and there were no alleviating or exacerbating factors related to PO intake.",
+        "past_medical_history": "Chronic pain from Complex Regional Pain Syndrome (CRPS) after motor vehicle crash (MVC), Hypertension (HTN), Hyperlipidemia (HLD), Reflux, Regional pain syndrome, history of nephrectomy, attempted spinal neuro stimulator implantation for Reflex Sympathetic Dystrophy (RSD), thumb surgery.",
+        "family_history": "No family history of diabetes, hypertension, heart disease, malignancies, liver, gallbladder or pancreatic disease. Father passed away from complications of aortic aneurysm surgery.",
+        "social_history": "Not specified"
+    }
+}

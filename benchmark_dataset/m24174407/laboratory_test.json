@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cytospin Smear",
+            "date": "Not specified",
+            "findings": "1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is fluid-filled with the tip enlarged measuring up to 11 mm. Small amount of surrounding stranding around the inflamed appendix noted. The liver shows a 7 mm hypodensity in segment II. No evidence of focal lesions or biliary dilatation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

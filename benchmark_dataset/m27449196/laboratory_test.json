@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Lung bases reveal bibasilar subsegmental atelectasis. The stomach, duodenum, spleen, pancreas, adrenal glands, liver, and kidneys are unremarkable. There is no free gas or free fluid in the abdomen. The colon is notable for diverticulosis, without evidence of diverticulitis. The uterus is enlarged, notable for a rim calcified lesions consistent with fibroids. The base of the appendix is air-filled and normal with minimal focal fat stranding surrounding the tip of the appendix. There is a small amount of free fluid seen in the right lower quadrant.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "1.8 mg/dL (Ref range: 1.6 - 2.6 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

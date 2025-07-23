@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level of 1523, which is outside the normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "Focal inflammatory stranding surrounding the uncinate process of the pancreas; remainder of the pancreas is unremarkable. No venous thrombosis, aneurysm, or pseudocyst formation seen. Liver appears normal. A moderate amount of intraperitoneal free fluid is present likely related to peritoneal dialysis.",
+            "changes_over_time": "Transplant kidney is unchanged in appearance from prior examination."
+        },
+        {
+            "procedure_name": "Peritoneal Tap",
+            "date": "Not specified",
+            "findings": "Did not suggest peritonitis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Salmonella or Shigella Culture",
+            "date": "Not specified",
+            "findings": "No Salmonella or Shigella found.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

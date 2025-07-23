@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Kidney Biopsy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RENAL TRANSPLANT U.S.",
+            "date": "Not specified",
+            "findings": "The transplanted kidney measures 11.7 cm with stable mild hydronephrosis. There is a small amount of perinephric fluid; there is also ascites in all four quadrants. Thickening of the bladder wall is unchanged. Doppler examination shows normal arterial and venous waveforms in the main renal artery and vein. Resistive indices within the upper, mid and lower poles are 0.78, 0.83 and 0.79 respectively, which are elevated and increased compared to the prior exam.",
+            "changes_over_time": "Resistive indices within the upper, mid, and lower poles are elevated and increased compared to the prior exam."
+        }
+    ]
+}

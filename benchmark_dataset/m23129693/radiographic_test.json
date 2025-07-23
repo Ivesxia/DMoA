@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Gallbladder wall is severely thickened with marked mural irregularity, areas of mural nonenhancement and mural ulceration. There is surrounding inflammatory change. No intra or extrahepatic biliary duct dilation. Mild basilar atelectasis noted. Trace intra-abdominal ascites. Subcentimeter cyst in the lower pole of the left kidney.",
+            "changes_over_time": "A mild compression deformity of T12 is unchanged."
+        },
+        {
+            "procedure_name": "CT A/P",
+            "date": "Not specified",
+            "findings": "Distended gallbladder with thickened wall and pericholecystic fluid with no gallstones.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "RUQ U/S",
+            "date": "Not specified",
+            "findings": "Some sludge and gallbladder wall edema.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain.",
+        "history_of_present_illness": "The abdominal pain started suddenly yesterday morning at 7 AM, localized to the bilateral lower quadrants. The crampy pain has persisted with increasing intensity. The patient reported noticing a 'pop' in the left lower abdomen yesterday afternoon. She has had mild low-grade fevers last night and has experienced flatus, with her last bowel movement being normal without blood or diarrhea today at 10 AM. She initially thought the pain might be due to constipation and took Ex-Lax this morning for relief.",
+        "past_medical_history": "Hypercholesterolemia, DVT/PE, esophageal issues, hiatal hernia, fibromyalgia.",
+        "family_history": "Mother's side significant for breast cancer at an unspecified age and a benign brain tumor. Two cousins from the mother's side with breast cancer, one diagnosed at an unspecified age and the other at an unspecified age. Maternal grandmother with breast cancer, unsure of age. Father's side unknown due to lack of information.",
+        "social_history": "Not specified."
+    }
+}

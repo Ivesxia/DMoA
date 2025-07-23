@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.8°F",
+                "heart_rate": "86 bpm",
+                "blood_pressure": "140/100 mmHg",
+                "respiratory_rate": "10 breaths per minute"
+            },
+            "relevant_findings": "A&O, NAD; No scleral icterus, mucus membranes moist; RRR, No M/G/R; Clear to auscultation b/l, No W/R/R; RUQ tenderness, negative Murphy's, no rebound or guarding; No edema, warm and well perfused.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

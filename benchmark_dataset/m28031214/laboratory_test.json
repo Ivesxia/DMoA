@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "Slightly elevated WBC count at 11.1 (normal range unspecified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Elevated lipase (value unspecified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Troponin",
+            "date": "Not specified",
+            "findings": "Mildly elevated Troponin at 0.02 (w/o CK or MB)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT HEAD W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "No acute hemorrhage or vascular territorial infarction. No mass or mass effect. Prominent ventricles and sulci due to age-related changes. Periventricular white matter hypodensities consistent with chronic small vessel ischemic disease.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

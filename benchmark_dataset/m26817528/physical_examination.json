@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9°F",
+                "blood_pressure": "117/79 mmHg",
+                "heart_rate": "83 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well appearing, no acute distress.",
+                "HEENT": "Normocephalic, atraumatic, extraocular movements intact, anicteric.",
+                "cardiovascular": "Heart sounds normalized.",
+                "pulmonary": "Normal excursion, no respiratory distress.",
+                "abdominal": "Soft, mildly tender, mildly distended; inc c/d/i noted.",
+                "extremities": "Warm, well-perfused.",
+                "neurological": "Alert and oriented times three, no focal neurologic deficits.",
+                "psychiatric": "Normal judgment and insight, normal memory, normal mood and affect."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

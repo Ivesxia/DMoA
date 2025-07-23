@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Afebrile, RRR (Regular Rate and Rhythm)",
+            "relevant_findings": "Tender in suprapubic region, positive rebound tenderness and Rovsing's sign, no CCE (costovertebral angle tenderness), AVSS (Alert, Voice, Speech, and Score), NAD (No Acute Distress)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

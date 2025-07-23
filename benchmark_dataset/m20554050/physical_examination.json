@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "heart_rate": "58 bpm",
+                "blood_pressure": "110/66 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, A&O x 3, nontoxic appearance",
+                "cardiovascular": "RRR",
+                "pulmonary": "CTAB",
+                "abdominal": "soft, ND, NT, incisions c/d/i",
+                "extremities": "no c/c/e"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

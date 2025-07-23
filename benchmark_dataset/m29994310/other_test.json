@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Troponin test",
+            "date": "Not specified",
+            "findings": "Troponins were negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Percutaneous cholecystostomy",
+            "date": "Not specified",
+            "findings": "Placement of percutaneous chole drain.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "New focal parenchymal opacities in both the left lung and at the right lung base, suspicious for pneumonia.",
+            "changes_over_time": "Compared to the previous radiograph, there are new findings; otherwise, the cardiac silhouette and other findings remained unchanged."
+        }
+    ]
+}

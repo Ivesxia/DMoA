@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "The liver is slightly nodular in contour, consistent with known history of cirrhosis. there is mild drop in hepatic signal in the out-of-phase images, consistent with steatosis. Few small T2 hyperintense non-enhancing cystic lesions in the liver, largest measuring 10 mm in segment VIII (15:9) are consistent with biliary hamartomas. There is no intra- or extra-hepatic biliary dilatation. The CBD is normal in caliber. The gallbladder is distended with multiple gallstones, without evidence for acute cholecystitis. Adrenal glands and spleen are normal. Kidneys are unremarkable, except for a subcentimeter right renal cortical cyst. The pancreas is mildly atrophic, but demonstrates normal signal intensity and enhancement. No pancreatic mass or pancreatic ductal dilatation. Extensive anasarca is seen in the abdominal soft tissues, with fluid seen in the anterior pararenal space surrounding the pancreas as well as the right paracolic gutter. Moderate right and small left pleural effusions are present, with compressive atelectasis of the right lower lobe. The abdominal aorta is normal in caliber. The celiac trunk, SMA and renal arteries are patent. There is an accessory replaced left hepatic artery arising from the left gastric artery. The portal, splenic and superior mesenteric veins are patent. The hepatic veins and IVC are normal. Paraesophageal portosystemic collaterals are seen. No marrow signal abnormality is seen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "No VRE isolated.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

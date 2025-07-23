@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Dilated retrocecal appendix measuring up to 12 mm with periappendiceal fat stranding and mucosal hyperemia. No signs of perforation. Prominent and reactive adjacent lymph nodes. Small amount of free fluid in the pelvis. No signs of ileus or obstruction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test for Leukocytosis",
+            "date": "Not specified",
+            "findings": "Leukocytosis, unspecified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation Test",
+            "date": "Not specified",
+            "findings": "26.6 sec, outside normal range (normal range: 25.0 - 36.5 sec).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture Test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

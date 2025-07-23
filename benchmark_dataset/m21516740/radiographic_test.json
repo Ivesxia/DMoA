@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is enlarged to 10 mm with surrounding inflammatory changes. No evidence of rupture or drainable collections, no free fluid or free air in the abdomen. Minor atelectatic changes in the lung bases, nonspecific ground-glass opacities in the lingula region. Multiple stable hypodensities throughout the liver, largest being a 12 x 11 mm focus in segment IVb. Normal findings in gallbladder, spleen, stomach, bowel, pancreas, adrenal glands, and kidneys. No mesenteric or retroperitoneal lymphadenopathy, normal abdominal aorta. No abnormalities in bladder, rectum, and sigmoid colon.",
+            "changes_over_time": "The hypodensities in the liver appear stable dating back to an unspecified date."
+        }
+    ]
+}

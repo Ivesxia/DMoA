@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The imaged lung bases are unremarkable. The liver, gallbladder, pancreas, spleen, and adrenal glands appear normal. The kidneys enhance normally and excrete contrast symmetrically. The stomach, duodenum, and intra-abdominal loops of bowel are unremarkable. There is no ascites or free air within the abdomen. The aorta is of normal caliber with patent main branches. There is no retroperitoneal or mesenteric lymphadenopathy. There is a tubular hyperenhancing fluid-filled structure in the right lower quadrant, likely representing an inflamed appendix, with mural thickening, mucosal hyperenhancement, and dilation to 9 mm in maximum cross-sectional diameter. Just inferior to this is a rim-enhancing structure consistent with an involuting corpus luteal cyst within the right ovary. The bladder is distended but appears normal. There is a large fecal load within the colon. Evaluation of the uterus and adnexa is limited due to the paucity of intra-abdominal fat. There is no pelvic free fluid. Bones are normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

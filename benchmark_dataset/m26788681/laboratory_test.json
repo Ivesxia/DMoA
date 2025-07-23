@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Tests",
+            "date": "Not specified",
+            "findings": "Elevated liver function tests (LFTs) observed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Decreased liver attenuation compatible with fatty deposition; calcified gallstone in gallbladder neck; small pericardial effusion; multiple kidney hypodensities; kidneys showing no evidence of hydronephrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "general": "Alert, oriented to season but not month, in a great deal of discomfort lying in bed",
+                "heent": "Sclera anicteric, L eye cataract, MMM, oropharynx clear",
+                "neck": "supple, L IJ line",
+                "lungs": "Clear to auscultation bilaterally, no wheezes, rales, rhonchi",
+                "cv": "Regular rate and rhythm, normal S1 S2, no murmurs, rubs, gallops",
+                "abd": "soft, tender on left side lateral and inferior to umbilicus, distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly",
+                "gu": "light yellow clear urine",
+                "ext": "Warm, well perfused, palpable DP pulses, no clubbing, cyanosis or edema",
+                "skin": "no ulcers/lesions",
+                "neuro": "oriented to season but not month, grossly intact, able to move all extremities"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

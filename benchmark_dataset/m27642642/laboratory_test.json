@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "The lungs are clear without focal consolidation, effusion, or edema. The cardiomediastinal silhouette is within normal limits. Multiple right lateral rib fractures are seen with callus formation. No free intraperitoneal air.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

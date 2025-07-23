@@ -1,0 +1,33 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung_bases": "clear",
+                "pleural_effusions": "none",
+                "right_lobe_liver": "small hypodense focus measuring 5 mm",
+                "spleen": "normal in size and appearance",
+                "biliary_dilatation": "none",
+                "gallbladder": "normal",
+                "pancreas": "normal",
+                "adrenal_glands": "normal",
+                "kidneys": "normal",
+                "stomach": "non-distended",
+                "small_bowel": "normal",
+                "appendix": "dilated up to 14 mm in diameter with intramural fluid and discernible mural enhancement",
+                "colon": "normal",
+                "fluid_collection": "none",
+                "free_air": "none",
+                "ascites": "small amount near the appendix and cecum",
+                "pelvic_cul_de_sac": "mild peritoneal enhancement suggesting peritoneal irritation",
+                "bladder": "normal",
+                "intrauterine_device": "appropriately situated T-shaped",
+                "mesenteric_artries_and_veins": "patent",
+                "lymphadenopathy": "none",
+                "bone_lesions": "none"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

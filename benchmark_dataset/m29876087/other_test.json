@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Transabdominal and transvaginal sonograms showed normal uterus measuring 6.3 x 2.5 x 3.7 cm, endometrial thickness of 2 mm, normal appearance and blood flow in ovaries, and trace physiologic free fluid in the pelvis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pelvic exam",
+            "date": "Not specified",
+            "findings": "Right adnexal tenderness and cervical motion tenderness noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Moderate-sized bilateral pleural effusions, irregular fluid-density collection in the right lower quadrant with the largest measuring 2.8 x 1.6 x 2.3 cm, mild cecal inflammation, and several prominent mesenteric nodes likely reactive.",
+            "changes_over_time": "Non-organized fluid was present in a similar location on the prior exam, but there has been an interval increase in size and development of enhancing walls."
+        },
+        {
+            "procedure_name": "Endotracheal tube insertion",
+            "date": "Not specified",
+            "findings": "Insertion performed.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

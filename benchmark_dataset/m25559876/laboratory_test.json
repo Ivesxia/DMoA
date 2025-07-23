@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Bilirubin 2.6 upon admission, climbing to 4.5; AlkPhos 185; mild transaminitis (60s-80s).",
+            "changes_over_time": "Bilirubin increased from 2.6 to 4.5 over time."
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Elevated lipase.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ABG",
+            "date": "Not specified",
+            "findings": "pH 7.28, pCO2 81, pO2 52, HCO3 38.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound (Liver or Gallbladder)",
+            "date": "Not specified",
+            "findings": "Liver slightly echogenic, no space-occupying lesions; gallbladder contracted around multiple stones, no significant wall edema.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

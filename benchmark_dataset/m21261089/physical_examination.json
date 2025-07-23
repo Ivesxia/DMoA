@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.1°F",
+                "heart_rate": "93 bpm",
+                "blood_pressure": "153/86 mmHg",
+                "respiratory_rate": "98 breaths/min"
+            },
+            "relevant_findings": "Moderate distress, answering questions, affect slightly off. Heart: Regular rate and rhythm (RRR). Lungs: Clear to auscultation bilaterally (CTAB). Abdomen: Soft, diffusely tender to palpation particularly in the right lower quadrant (RLQ), positive rebound tenderness. Extremities: 2+ pulses, no edema.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

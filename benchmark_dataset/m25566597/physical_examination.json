@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure_initial": "108/52",
+                "blood_pressure_final": "163/67",
+                "temperature": "Afebrile",
+                "heart_rate": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Alert and in no apparent distress",
+                "eyes": "Anicteric, pupils equally round",
+                "ent": "Ears and nose without visible erythema, masses, or trauma. Oropharynx without visible lesion, erythema or exudate",
+                "cv": "Heart regular, no murmur, no S3, no S4. JVP at clavicle",
+                "resp": "Lungs with faint rales right base that diminish but do not disappear with cough; good air movement bilaterally. Breathing is non-labored",
+                "gi": "Abdomen soft, non-distended, non-tender to palpation. Bowel sounds present. Right flank/CVA no TTP. No ecchymoses",
+                "gu": "No suprapubic fullness or tenderness to palpation",
+                "msk": "Neck supple, moves all extremities, strength grossly full and symmetric bilaterally in all limbs",
+                "skin": "No rashes or ulcerations noted",
+                "neuro": "Alert, oriented, face symmetric, gaze conjugate with EOMI, speech fluent, moves all limbs, sensation to light touch grossly intact throughout",
+                "psych": "Pleasant, appropriate affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

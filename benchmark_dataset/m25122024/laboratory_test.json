@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Microbiology Evaluation",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder US (Single Organ)",
+            "date": "Not specified",
+            "findings": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites. Mild intrahepatic biliary dilation and evidence of pneumobilia within the left hepatic lobe. A stent is identified traversing the common hepatic duct. The gallbladder appears distended with gallbladder wall thickening and edema. There is no stone present. Spleen enlarged measuring 13.6 cm. Limited views of the right kidney show no hydronephrosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

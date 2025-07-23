@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The gallbladder is distended and contains several small dependent gallstones. The wall is not thickened, and there is no adjacent fluid. The biliary tree is normal in caliber, and there is no evidence of choledocholithiasis. The spleen is markedly enlarged measuring 20 cm in craniocaudal length. There are two small non-enhancing cystic lesions of the pancreatic body which measure up to 6 mm. The hepatic parenchyma shows fatty infiltration. A non-enhancing 11 mm area in the right kidney likely represents a non-obstructing calculus. No hydronephrosis of either kidney.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION. Percentage: 25.1%.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized lung bases are clear. No pleural effusion or pneumothorax. The heart size is top normal. Innumerable hypodensities representing cysts seen throughout the liver; stable rim-calcified lesion at the dome. Cholelithiasis and adenomyomatosis unchanged. Prominent common bile duct at 1.1 cm unchanged. Enlarged spleen at 15 cm with unchanged hypodensity within the anterior portion measuring 3.9 x 2.5 cm, characterized as small cysts. Unchanged cyst posterior to the pancreas measuring 3 x 1.5 cm. Mild residual stranding in the left nephrectomy bed. No mesenteric lymphadenopathy. The transplanted kidney in the right lower pelvis fails to take up contrast; embolization coils noted. No fluid collection or evidence of abscess. No free fluid seen.",
+            "changes_over_time": "The degree of stranding seen around the transplanted kidney has decreased from prior study."
+        }
+    ]
+}

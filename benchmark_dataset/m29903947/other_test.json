@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "ERCP showed mildly dilated pancreatic duct, dilated intrahepatics, dilated CBD, filling defect suggestive of stone, and CBD stricture with upstream dilation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "1 mg Dexamethasone Suppression Test",
+            "date": "Not specified",
+            "findings": "Initial test yielded an AM cortisol of 9.2 with ACTH 6, subsequent test yielded a high AM cortisol of 13.0 and ACTH 7.",
+            "changes_over_time": "A continued suppression test yielded AM cortisol of 13.1 with ACTH 6."
+        },
+        {
+            "procedure_name": "24 hour urine free cortisols",
+            "date": "Not specified",
+            "findings": "Initially mild elevation of 24 hour urine free cortisols.",
+            "changes_over_time": "Subsequent 24 hour urine free cortisols have been normal."
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "ECG showed right bundle branch block (RBBB).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver ultrasound",
+            "date": "Not specified",
+            "findings": "Multiple hypoechoic foci noted in the liver, with the dominant focus unchanged to slightly decreased in size (from 3.1 x 1.7 x 2.9 cm to 2.8 x 1.6 x 2.3 cm).",
+            "changes_over_time": "Cluster of peripheral hypodense lesions unchanged since the prior study."
+        }
+    ]
+}

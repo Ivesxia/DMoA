@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Linear opacity at the left lung base, possibly scarring. No pneumonia, pleural effusion, or pericardial effusion at the lung bases. The liver appears normal, no biliary duct dilatation. Presence of cholelithiasis without acute cholecystitis. The pancreas appears slightly atrophic. The spleen is normal. The right kidney shows no hydronephrosis, while the left kidney is surgically absent. No pathologically enlarged lymph nodes noted. Free extraluminal intraperitoneal air in the left upper-mid abdomen adjacent to collapsed loops of small bowel with minimal stranding. Few diverticula in the small bowel and scattered diverticula in the colon, with no evidence of bowel obstruction or colitis. Normal urinary bladder, prostate, and seminal vesicles. Bilateral fat-containing inguinal hernias. Multilevel degenerative changes in the lumbar spine with a likely hemangioma appearance of the L1 vertebral body.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

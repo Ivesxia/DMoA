@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Normal findings.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Nonmobile shadowing stone in the gallbladder neck with gallbladder distention. No wall edema or pericholecystic fluid. Normal Doppler assessment in the main portal vein and no bile duct dilation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic cholecystectomy",
+            "date": "Not specified",
+            "findings": "Not applicable, post-operative procedure.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

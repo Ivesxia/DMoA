@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chem-7",
+            "date": "Not specified",
+            "findings": "Within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Cholelithiasis without cholecystitis, focus of stranding and bowel wall thickening within the sigmoid colon consistent with diverticulitis. Kidneys normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

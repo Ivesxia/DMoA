@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right lower quadrant abdominal pain",
+        "history_of_present_illness": "The patient has had sharp, sudden in onset RLQ abdominal pain since waking up, which was severe and lasted approximately ___ hours. The pain was aggravated by standing, walking, and riding over bumps in the car, and was worsened after not eating since the day before. She initially attributed the symptoms to ovarian cyst pain but presented to the ED for further evaluation when the pain persisted.",
+        "past_medical_history": "Ovarian cysts",
+        "family_history": "Not specified",
+        "social_history": "Non-smoker. Reported using alcohol. Denied using recreational drugs."
+    }
+}

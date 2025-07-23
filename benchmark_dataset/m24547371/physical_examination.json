@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.3°F in ED, 99.9°F current",
+                "blood_pressure": "143/66 mmHg",
+                "heart_rate": "67 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "General": "In no apparent distress.",
+                "HEENT": "PERRL, EOMI. No scleral icterus. No conjunctival injection. Mucous membranes moist. No oral ulcers.",
+                "Neck": "Supple, no lymphadenopathy, no JVP elevation.",
+                "Lungs": "Clear to auscultation bilaterally, no wheezes, rales, or rhonchi. Normal respiratory effort.",
+                "Cardiovascular": "Regular rate and rhythm, no murmurs, rubs, or gallops.",
+                "Abdomen": "Soft, significant right lower quadrant tenderness to palpation (light), positive epigastric tenderness, right upper quadrant tenderness, faint right flank tenderness, no clear right costovertebral angle tenderness, non-distended, positive bowel sounds.",
+                "Extremities": "Warm and well perfused, no cyanosis, clubbing, or edema. Dorsalis pedis pulses mildly diminished bilaterally.",
+                "Neurological": "Alert and oriented to person, place, and time, cranial nerves intact.",
+                "Skin": "No rashes or ulcers.",
+                "Psychiatric": "Appropriate, pleasant."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

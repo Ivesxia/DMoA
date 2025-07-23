@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD W&W/O C",
+            "date": "Not specified.",
+            "findings": "CT abdomen shows a right basal effusion with atelectasis at both lung bases. A stable tiny hypervascular focus in the right lobe of the liver, an enlarged spleen measuring 19 cm, stable thickening of the adrenal glands, a stent in the common bile duct with no intrahepatic biliary dilatation, and inflammatory changes in the peripancreatic mesentery.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Laboratory Test for Bile Duct",
+            "date": "Not specified.",
+            "findings": "Result is 14.6 ng/mL, which is within the normal reference range of 5.0 to 20.0 ng/mL.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

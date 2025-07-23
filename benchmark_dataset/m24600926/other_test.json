@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Paced EKG.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bedside bladder scan",
+            "date": "Not specified",
+            "findings": "Several hundred cc's in the bladder with no distention.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT abdomen/pelvis",
+            "date": "Not specified",
+            "findings": "Mild pericolonic fat stranding and probable wall thickening at the distal descending colon at the sigmoidal junction; exophytic left renal cyst; no abdominal free air or free fluid; extensive vascular calcifications.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Fecal occult blood test",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

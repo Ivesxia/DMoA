@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix measures 9 mm in diameter and contains some fluid and bubbles of gas, with possible mild enhancement of the appendiceal wall and minimal fat stranding surrounding it. No free air or free fluid is noted. Visualized lung bases are clear with minimal dependent atelectatic changes. The liver, gallbladder, spleen, pancreas, adrenal glands, right kidney, and both ureters appear unremarkable. Tiny 4-mm hypodensity in the medial interpolar region of the left kidney is too small to accurately characterize. The splenic flexure and descending colon is collapsed, otherwise the colon appears unremarkable. Prominent right lower quadrant nodes (8 mm) are noted, and left paraaortic nodes measure up to 11 mm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

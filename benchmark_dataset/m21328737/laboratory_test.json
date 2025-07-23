@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is abnormal in appearance, with a dilated fluid-filled lumen measuring 9-10 mm in diameter. There is moderate appendiceal wall enhancement, and surrounding periappendiceal fat stranding and numerous small lymph nodes. No free air or other definite sign of perforation. Small amount of free fluid in the lower pelvis around the rectum. Remaining pelvic loops of large and small bowel are within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test with values",
+            "date": "Not specified",
+            "findings": "2.0 mmol/L, which is at the upper limit of the reference range (0.5 - 2.0 mmol/L).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

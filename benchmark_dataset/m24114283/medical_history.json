@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain.",
+        "history_of_present_illness": "Pain started this morning, located in the right upper quadrant and radiated to the shoulder. Described as burning type pain with an acid-like taste in mouth, similar to pain experienced prior to cholecystectomy. Patient has had nausea and emesis with the pain, but denies any recent fevers, chills, diarrhea, or accompanying dyspnea. Pain was alleviated down to ___ with morphine in the ED. Appetite has been erratic with poor oral intake and a 6 lb weight loss since surgery.",
+        "past_medical_history": "1. Right knee replacement 2. Hypertension 3. High cholesterol 4. Gallbladder cancer with well-differentiated adenocarcinoma, extensive perineural invasion, and serosal invasion 5. Hay fever.",
+        "family_history": "No family history of cancer. Sister has diabetes and knee replacement. Mother has diabetes and ESRD.",
+        "social_history": "Not specified."
+    }
+}

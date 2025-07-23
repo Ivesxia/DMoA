@@ -1,0 +1,70 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC of 38, elevated; baseline unspecified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Total Bilirubin",
+            "date": "Not specified",
+            "findings": "Tbili is 36, rising to 39.6.",
+            "changes_over_time": "Elevated from baseline."
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate of 2.2.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Sodium",
+            "date": "Not specified",
+            "findings": "Sodium of 131.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "BUN",
+            "date": "Not specified",
+            "findings": "BUN 29.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Cr 0.9, baseline 0.6-0.7.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "AST",
+            "date": "Not specified",
+            "findings": "AST 175.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ALT",
+            "date": "Not specified",
+            "findings": "ALT 149.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "Alk Phos of 189.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Elevated lipase of 202.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound (Liver)",
+            "date": "Not specified",
+            "findings": "Liver normal size with periportal space prominence, slightly heterogeneous echotexture, gallbladder thickened and edematous.",
+            "changes_over_time": "Unchanged from the prior exam."
+        }
+    ]
+}

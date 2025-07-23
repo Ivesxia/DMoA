@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain for 24 hours duration.",
+        "history_of_present_illness": "Symptoms began 24 hours prior to presentation. The patient describes the pain as significantly different from previous episodes of crampy abdominal pain, which have been persistent. There is a noted decrease in appetite, chills experienced the previous evening (no temperature recorded), and persistent mild nausea throughout the duration.",
+        "past_medical_history": "History of chronic pain after an auto accident several years ago; history of oophorectomy and C-sections.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

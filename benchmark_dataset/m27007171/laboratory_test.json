@@ -1,0 +1,10 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bilirubin",
+            "date": "Not specified",
+            "findings": "299.0 ug/dL (Normal range: 260.0 - 470.0 ug/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

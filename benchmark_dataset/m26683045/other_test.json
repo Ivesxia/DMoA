@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in echotexture without intra- or extra-hepatic biliary ductal dilatation. Two adjacent thinly septated cysts are seen in the right lobe measuring at most 1.8 cm. Common bile duct is nondilated, measuring 6 cm. Numerous gallstones are seen in the gallbladder neck with wall thickening, mural edema, hyperemia and positive sonographic sign compatible with cholecystitis. The pancreas is poorly assessed due to overlying bowel gas.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "1+ (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

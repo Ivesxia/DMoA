@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The imaged lung bases demonstrate mild dependent atelectasis. No pleural or pericardial effusion is detected. There is a small hiatal hernia. The liver demonstrates homogeneous enhancement without focal lesions or biliary dilatation. The adrenal glands, spleen, and pancreas are normal. The gallbladder is moderately distended but no definite signs of acute cholecystitis are evident. Both kidneys show symmetric opacification and excretion of contrast without evidence of hydroureteronephrosis. There is mild prominence of the distal ileal loops measuring up to a maximum of 2.8 cm, with fecalization. There is moderate fecal loading in the right colon. The imaged portion of the appendix is normal. Small cecal diverticula are seen without evidence of acute diverticulitis. There is no intra-abdominal free fluid or air. The abdominal aorta is normal in course and caliber. The portal vein, splenic vein and superior mesenteric vein are patent.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bilirubin",
+            "date": "Not specified",
+            "findings": "1.8 mg/dL (reference range: 1.6 - 2.6 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

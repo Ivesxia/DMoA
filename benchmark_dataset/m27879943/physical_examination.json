@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "96 bpm",
+                "blood_pressure": "145/89 mmHg",
+                "respiratory_rate": "17 breaths/min",
+                "saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Patient alert and oriented",
+                "lungs": "Clear to auscultation bilaterally",
+                "cardiac": "Regular rate and rhythm",
+                "abdomen": "Non-distended, tender to palpation in right lower quadrant, no peritoneal signs"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.3",
+                "pulse": "62",
+                "blood_pressure": "126/74",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "general": "Well developed, well nourished, no acute distress.",
+                "neurological": "Oriented x3, Affect Normal, No acute distress, Cooperative with exam.",
+                "neck": "No masses, Trachea midline, Thyroid normal size, non-tender, no masses or nodules, No carotid bruits.",
+                "nodes": "No adenopathy.",
+                "skin": "No atypical lesions.",
+                "heart": "Regular rate and rhythm.",
+                "lungs": "Clear, Normal respiratory effort.",
+                "gastrointestinal": "Non-distended, No masses, Guarding or rebound, No hepatosplenomegaly, Not tender to palpation.",
+                "extremities": "No abnormalities noted."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The abdominal pain started suddenly yesterday evening, worsening over the course of the day. Associated symptoms include nausea and vomiting (bilious x1). Normal bowel movement this morning, no diarrhea or constipation. No dysuria or hematuria. No fevers.",
+        "past_medical_history": "Hypertension, hypothyroidism, history of supracervical hysterectomy, PDA ligation, and thyroidectomy.",
+        "family_history": "Her mother has hypertension. Her maternal grandfather died with an MI. Two uncles died of MI. Her brother has diabetes.",
+        "social_history": "Personal history of tobacco use."
+    }
+}

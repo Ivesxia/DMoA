@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "heart_rate": "79 bpm",
+                "blood_pressure": "127/87 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "temperature": "95.9°F",
+                "blood_pressure": "102/74 mmHg",
+                "heart_rate": "74 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "99% RA",
+                "general": "Uncomfortable-appearing",
+                "head_neck": "Anicteric, dry MM",
+                "neck": "no JVD",
+                "cardiovascular": "regular rate, normal S1S2, no m/r/g",
+                "pulmonary": "CTAB, no w/r/r",
+                "abdominal": "soft, nondistended, tender to light palpation of midepigastrium, no rebound, no guarding, hypoactive BS, guaiac neg",
+                "extremities": "warm, dry, +PP, no edema"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4°F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "114/77 mmHg",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

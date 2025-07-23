@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Percutaneous drain placement",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Repositioning of the drain resulted in improvement in symptoms."
+        },
+        {
+            "procedure_name": "Cystotomy closure",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

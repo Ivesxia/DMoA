@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory test for creatinine",
+            "date": "Not specified",
+            "findings": "Creatinine level: 1.9 mg/dL (Reference range: 1.6 - 2.6 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix visualized with appendicoliths; diameter of the appendix is top normal (6 mm); periportal and pericholystic edema present; no bowel obstruction or wall thickening.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

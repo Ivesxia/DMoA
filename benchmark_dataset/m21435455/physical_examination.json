@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5 F",
+                "blood_pressure": "126/72 mmHg",
+                "heart_rate": "77 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "97% on room air",
+                "glucose": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Morbidly obese, lying in bed on right decubitus, alert and oriented x3.",
+                "eyes": "Pupils equal, round, reactive to light; extraocular movements intact; conjunctiva clear and anicteric.",
+                "neck": "Supple.",
+                "cardiovascular": "Regular rate and rhythm, normal S1 and S2, no murmurs, rubs, or gallops.",
+                "pulmonary": "Clear to auscultation, no rales, rhonchi, or wheezing.",
+                "gastrointestinal": "Normal bowel sounds, marked obesity, midepigastric tenderness, no rebound tenderness, difficult to assess for hepatosplenomegaly.",
+                "extremities": "Warm, no cyanosis, clubbing, or edema.",
+                "skin": "No rashes.",
+                "neurological": "Alert, oriented x3, answers questions appropriately, follows commands, non-focal.",
+                "psychological": "Appropriate."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

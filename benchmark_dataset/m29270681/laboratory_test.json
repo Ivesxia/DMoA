@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The CT scan shows no focal lesions in the liver, pancreas, spleen, normal-sized adrenal glands, normal kidneys, no obstruction or ileus in the bowel, significant fat stranding suggesting phlegmon adjacent to an inflamed diverticulum. There were also small foci of extraluminal gas indicative of micro perforation, but no drainable fluid collection is seen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

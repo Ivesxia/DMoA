@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized lung bases are clear with minimal dependent posterior positional changes. The heart is normal in size without pericardial effusion. A small paraesophageal lymph node measuring 6 mm in short axis does not meet CT size criteria for lymphadenopathy. The liver has an abnormal morphology with hypertrophy of the left lobe, likely related to partial resection of the right lobe. No perfusion defect or focal liver lesion is detected. There is mild central biliary dilation and pneumobilia, predominantly within the right lobe which is more peripheral and compatible with recent ERCP. The left hepatic duct appears patent without evidence of obstructing mass. The gallbladder is surgically absent. The pancreas enhances normally without focal lesions. The spleen is not enlarged. The bilateral adrenal glands are unremarkable. Both kidneys enhance symmetrically and excrete contrast normally. An extrarenal pelvis is noted on the right. The stomach and intra-abdominal loops of small and large bowel are unremarkable. There is suture material in the right lower abdomen denoting prior bowel surgery. No free air or ascites is present. The abdominal aorta is normal in caliber throughout. There is focal narrowing at the ostium of the celiac artery with post-stenotic dilatation. No osseous destructive lesions concerning for malignancy are detected. The patient is status post posterior spinal fixation at the L4-5 vertebral level with grade 2 anterolisthesis of L4 on L5 and associated degenerative changes.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

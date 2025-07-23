@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "RUQ pain for 5 days",
+        "history_of_present_illness": "Symptoms began 5 days prior to admission with right upper quadrant pain. The pain has not worsened or improved during this period. There was one episode of nausea/vomiting at the beginning, which resulted in slight improvement of the pain, but no vomiting has occurred since. Bowel habits are normal, with no instances of hematochezia, melena, or hematemesis.",
+        "past_medical_history": "Glaucoma, Hypertension, Hyperlipidemia, Paroxysmal Atrial Fibrillation, Osteopenia, Breast Cancer, Moderate Mitral Regurgitation, Keratoses of the face, Herpes Zoster, Psoriasis, Migraine, Varicose veins, Right leg fracture.",
+        "family_history": "Father died, mother died of dementia, brother with pancreatic cancer and hypertension.",
+        "social_history": "Not specified"
+    }
+}

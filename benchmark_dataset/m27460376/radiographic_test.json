@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Minor atelectasis at each lung base; common hepatic duct measures 6 mm; common bile duct measures up to 7 mm; extrahepatic biliary ducts up to 12 mm; pancreatic duct measures 3 mm; gallbladder shows marked wall thickening and intramural edema, no stones; decreased signal on in-phase relative to out-of-phase images suggests iron overload in the liver and spleen; small cyst in the anterior pancreatic head suggestive of intraductal mucinous neoplasm; multifocal scarring and thinning of the left kidney, several simple cysts in both kidneys.",
+            "changes_over_time": "Recent ultrasound showed extrahepatic biliary ducts measuring up to 12 mm, whereas they appear normal on the MRCP. No stones found in gallbladder or bile ducts."
+        }
+    ]
+}

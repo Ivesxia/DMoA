@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Mural thickening of the sigmoid colon proximally with mild adjacent stranding; interval increase in size of a 4.1 x 3.2 x 6.3 cm collection containing predominantly air and fecal matter, previously measuring 3.7 x 3.3 x 4.3 cm.",
+            "changes_over_time": "Slight interval increase in size of the sigmoid colon collection."
+        }
+    ]
+}

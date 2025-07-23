@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric pain and fever.",
+        "history_of_present_illness": "Symptoms began 2 days prior to presentation, accompanied by emesis.",
+        "past_medical_history": "Hypertension, hyperlipidemia, gout.",
+        "family_history": "Positive for coronary artery disease; father died in his ___ and mother died in her ___.",
+        "social_history": "Not specified."
+    }
+}

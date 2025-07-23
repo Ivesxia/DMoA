@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Diagnostic laparoscopy and appendectomy",
+            "date": "Not specified",
+            "findings": "Pelvic and right lower quadrant scant purulence.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PCR test for Chlamydia trachomatis",
+            "date": "Not specified",
+            "findings": "Negative for Chlamydia trachomatis by PCR.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

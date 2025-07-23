@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix measures 8mm, with no significant surrounding fat stranding.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Vital Signs",
+            "date": "Not specified",
+            "findings": "Temperature: 98.1°F, Heart Rate: 76 bpm, Blood Pressure: 119/68 mmHg, Respiratory Rate: 16 breaths/min, Oxygen Saturation: 99% on Room Air.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

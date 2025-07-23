@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Basic Metabolic Panel (BMP)",
+            "date": "Not specified",
+            "findings": "K 5.3 (normal range), Na 131 (low), Cl 111 (normal), HCO3 9 (low), BUN/Cr 38/2.1 (elevated Cr, normal BUN)",
+            "changes_over_time": "Elevated creatinine levels (from baseline 1.7 to 2.1), hyperkalemia noted at 5.4"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "WBC 13.1 (elevated), H/H: 19.7/64.2 (elevated, last time here 14.8/47.0) indicating possible dehydration and/or erythrocytosis",
+            "changes_over_time": "Elevated hemoglobin and hematocrit compared to previous measurements"
+        },
+        {
+            "procedure_name": "Amylase and Lipase",
+            "date": "Not specified",
+            "findings": "Amylase 300 (elevated), Lipase 170 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pancreas Ultrasound",
+            "date": "Not specified",
+            "findings": "Pancreatic duct not dilated, normal arterial and venous waveforms, pancreas appears mildly echogenic, no peripancreatic fluid collections",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

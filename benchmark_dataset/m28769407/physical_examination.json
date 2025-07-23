@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "blood_pressure": "138/90 mmHg",
+                "heart_rate": "74 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "94% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "HEENT": "No scleral icterus, dry mucous membranes",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/rubs/gallops",
+                "pulmonary": "Clear bilateral lung fields",
+                "abdominal": "Decreased bowel sounds, appropriate epigastric tenderness, abdomen soft",
+                "extremities": "No edema",
+                "neurological": "Alert and oriented times three"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

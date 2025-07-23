@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is edematous and dilated up to 1.2 cm with mural edema and hyperemia. A hyperdensity near the proximal appendix is consistent with a fecalith. There is severe right lower quadrant stranding with trace, nonenhancing fluid. Thickening of the cecum and the terminal ileum, likely reactive to adjacent inflammation. Tiny foci of extraluminal air are concerning for perforation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test for Renal Function",
+            "date": "Not specified",
+            "findings": "Creatinine level is 8.4 mg/dL, which is within normal limits (ref range: 8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

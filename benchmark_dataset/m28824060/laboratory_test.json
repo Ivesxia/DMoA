@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Marked gallbladder wall thickening to 1.6 cm. Numerous gallstones within the gallbladder lumen. Liver normal in echogenicity, without focal lesions. No hydronephrosis in limited views of kidneys. Normal caliber common bile duct measuring 4 mm. Normal caliber aorta measuring 2.1 cm. Normal hepatopetal flow within the main portal vein. Spleen normal in size measuring 8.7 cm.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

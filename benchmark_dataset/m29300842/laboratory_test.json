@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver appears enlarged. There is linear hyperdensity coursing along the right hepatic lobe, unchanged since prior study. Multiple shotty mesenteric and retroperitoneal lymph nodes, measuring up to 6 mm in short axis, are not pathologically enlarged by CT criteria. There is mild prominence of bilateral ureters, without obstructive lesions, masses, or stones. There is pericecal fat stranding with partially visualized appendix measuring up to 7 mm, suggestive of appendicitis. Trace free fluid in the right lower quadrant.",
+            "changes_over_time": "Linear hyperdensity along the right hepatic lobe is unchanged since the prior study."
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

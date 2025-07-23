@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is hyperemic and enlarged up to 15 mm in maximal diameter. A hyperdense appendicolith is seen at the base. Small amount of subjacent inflammatory changes involving the cecal tip and surrounding fat are noted. There is no definite evidence for perforation. No evidence of periappendiceal abscess. No mesenteric or retroperitoneal adenopathy by size criteria.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum electrolyte measurement",
+            "date": "Not specified",
+            "findings": "1.1 mmol/L (reference range 0.5 - 2.0 mmol/L).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

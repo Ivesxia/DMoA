@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "WBC": "11.1 (N 84%)",
+                "ALT": "29",
+                "AST": "19",
+                "ALP": "138",
+                "Tbili": "0.2",
+                "Lip": "110",
+                "INR": "2.58",
+                "temperature": "afebrile",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "AAOx3, NAD, expressive aphasia, able to communicate effectively",
+                "HEENT": "WNL",
+                "cardiovascular": "RRR, No M/G/R",
+                "pulmonary": "CTAB, No W/R/R, no respiratory distress",
+                "abdominal": "Obese, Soft, nondistended, active bowel sounds. Appropriately tender to palpation, no rebound or guarding. Pain is improving. Midline surgical scar is C/D/I, no erythema.",
+                "extremities": "No ___ edema, ___ warm and well perfused, pulses intact"
+            },
+            "changes_over_time": "Pain is improving."
+        }
+    ]
+}

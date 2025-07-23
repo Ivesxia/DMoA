@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "RUQ abdominal pain",
+        "history_of_present_illness": "Patient presented with 4 days of gradually increasing pain that originally began in the back and migrated to the right upper quadrant. The pain was constant and associated with nausea and anorexia, with reports of chills but no fevers. Denies vomiting, constipation, diarrhea, or blood in stool.",
+        "past_medical_history": "HIV since ___, CD4 count 399 on ___; Oral squamous cell cancer; Basal Cell Carcinoma; Rectal Dysplasia; History of elevated bilirubin from 1.1-3.6, thought to be secondary to HAART; Past surgical history includes cataracts, penile prosthesis, left neck lipoma removal, segmental mandibulectomy and free flap reconstruction, appendectomy.",
+        "family_history": "Father died of cancer, mother of old age. No history of diabetes or CAD.",
+        "social_history": "Not specified."
+    }
+}

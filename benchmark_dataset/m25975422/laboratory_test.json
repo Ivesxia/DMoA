@@ -1,0 +1,18 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound of Liver or Gallbladder",
+            "date": "Not specified",
+            "findings": {
+                "liver": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. A 0.8 x 0.7 x 0.7 left liver cyst is noted. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites.",
+                "bile_ducts": "There is no intrahepatic biliary dilation. The CBD measures 3 mm.",
+                "gallbladder": "Layering sludge and gallstones are seen within a mildly distended gallbladder with thickened edematous wall measuring 5 mm. Small amount of pericholecystic free fluid is noted. Negative sonographic ___ sign.",
+                "pancreas": "Imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation.",
+                "spleen": "Normal echogenicity, measuring 9.2 cm.",
+                "kidneys": "The right kidney measures 10.6 cm. The left kidney measures 10.2 cm. Normal cortical echogenicity and corticomedullary differentiation is seen bilaterally. Multiple bilateral parapelvic cysts are similar in appearance to outside CT. There is no evidence of masses, stones, or frank hydronephrosis in the kidneys.",
+                "retroperitoneum": "Visualized portions of the IVC are within normal limits."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

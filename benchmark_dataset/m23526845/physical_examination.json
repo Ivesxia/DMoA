@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.9°F",
+                "heart_rate": "73 bpm",
+                "blood_pressure": "164/90 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, awake, alert, oriented x3",
+                "HEENT": "No jaundice, no scleral icterus",
+                "cardiovascular": "S1 & S2 normal",
+                "lungs": "Clear to auscultation",
+                "abdomen": "Soft, non-tender, non-distended, no guarding, no rebound tenderness",
+                "extremities": "No edema, 2+ distal pulses"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

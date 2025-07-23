@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Amylase",
+            "date": "Not specified",
+            "findings": "Amylase level of 2300 (outside normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level of 2700 (outside normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC count of 22.3 with 25% bands (outside normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Creatinine level elevated to 2.7 (normal baseline is 1.2, outside normal range)",
+            "changes_over_time": "Increased from baseline of 1.2 to 2.7"
+        },
+        {
+            "procedure_name": "Salmonella and Shigella Testing",
+            "date": "Not specified",
+            "findings": "No Salmonella or Shigella found.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

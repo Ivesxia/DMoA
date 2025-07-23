@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ERCP BILIARY&PANCREAS BY GI UNIT",
+            "date": "Not specified",
+            "findings": "No filling defects or strictures identified. There is no intrahepatic or extrahepatic biliary dilatation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Unknown laboratory test (possibly related to blood analysis)",
+            "date": "Not specified",
+            "findings": "4.5 mg/dL, NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

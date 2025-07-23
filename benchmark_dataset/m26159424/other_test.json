@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP and sphincterotomy",
+            "date": "Not specified",
+            "findings": "Successfully removed large CBD stone.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "ST depressions in leads I, II, V3-V5.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "Not applicable.",
+            "changes_over_time": "Not applicable."
+        }
+    ]
+}

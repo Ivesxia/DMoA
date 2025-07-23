@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "biopsy",
+            "date": "Not specified",
+            "findings": "Lesion on left elbow which was biopsied and found to be consistent with sarcoid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PICC line placement",
+            "date": "Not specified",
+            "findings": "The tip of the right PICC projects over the distal SVC. Lung volumes are low. Linear atelectasis re-visualized in the right midlung. No new consolidation, pneumothorax, or large pleural effusion. Size of cardiac silhouette unchanged. Surgical clips project over the low neck at midline.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

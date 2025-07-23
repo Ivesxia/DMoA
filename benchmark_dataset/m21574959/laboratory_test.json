@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated up to 1.2 cm and appears hyperemic. There is significant adjacent fat stranding. There is no extraluminal air. An appendicolith is seen at the appendiceal base and air is seen in the appendiceal tip. The remaining loops of bowel are normal. There is no bowel wall thickening or obstruction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test (presumed blood test)",
+            "date": "Not specified",
+            "findings": "8.2 mg/dL, which is below the normal reference range (8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

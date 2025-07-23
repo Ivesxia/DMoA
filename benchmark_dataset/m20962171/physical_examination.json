@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "179/150 mmHg",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "No apparent distress (NAD). Alert and oriented x3.",
+                "HEENT": "Anicteric. Tacky mucosal membranes.",
+                "neck": "No JVD. No lymphadenopathy (LAD). No trademarck.",
+                "cardiovascular": "Regular rate and rhythm (RRR).",
+                "pulmonary": "Clear to auscultation bilaterally (CTAB).",
+                "abdominal": "Firm. Tenderness to palpation (TTP) greatest in left lower quadrant (LLQ) than right lower quadrant (RLQ), +distention, +guarding, +rebound tenderness.",
+                "extremities": "Warm and well perfused. No peripheral edema.",
+                "neurological": "Motor and sensation grossly intact."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

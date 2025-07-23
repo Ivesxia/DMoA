@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Filling defects within the distal most CBD are stones. Multiple filling defects within the cystic duct are stones.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

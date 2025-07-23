@@ -1,0 +1,51 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6 F",
+                "blood_pressure": "124/63 mmHg",
+                "heart_rate": "62 bpm",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "well-appearing female in NAD, comfortable, appropriate",
+                "HEENT": "NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear",
+                "neck": "supple, no thyromegaly, no JVD, no carotid bruits",
+                "lungs": "CTA bilat, no r/rh/wh, good air movement, resp unlabored, no accessory muscle use",
+                "heart": "PMI non-displaced, IIR, no MRG, nl S1-S2",
+                "abdomen": "NABS, soft/NT/ND, no masses or HSM, no rebound/guarding",
+                "extremities": "WWP, no c/c/e, 2+ peripheral pulses (radials, DPs), R AV graft with audible pulse",
+                "skin": "no rashes or lesions",
+                "lymph": "no cervical LAD",
+                "neuro": "awake, A&Ox3, moving all extremities"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "101.7 F",
+                "blood_pressure": "130/72 mmHg",
+                "heart_rate": "51 bpm",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "The stranding around the transplanted kidney has decreased from prior study."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.8 F",
+                "blood_pressure": "101/62 mmHg",
+                "heart_rate": "100 bpm",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "96% RA"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

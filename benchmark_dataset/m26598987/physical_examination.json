@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2°F",
+                "heart_rate": "91 bpm",
+                "blood_pressure": "190/106 mmHg",
+                "respiratory_rate": "22 breaths per minute",
+                "pulse_oximetry": "95% on room air"
+            },
+            "relevant_findings": {
+                "general": "Not in acute distress",
+                "pulmonary": "Inspiratory and expiratory wheezes bilaterally",
+                "cardiovascular": "Normal S1 and S2, regular rhythm",
+                "abdomen": "Protuberant, but not tender to palpation, negative sign"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

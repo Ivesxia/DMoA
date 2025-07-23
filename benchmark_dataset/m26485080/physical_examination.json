@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7 F",
+                "heart_rate": "102 bpm",
+                "blood_pressure": "140/87 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "consciousness": "A&O x 3",
+                "general_state": "NAD",
+                "pupils": "PERRL",
+                "eye_movement": "EOMI",
+                "abdomen": "soft, moderate tenderness in epigastric region with voluntary guarding",
+                "RLQ_tenderness": "mild tenderness to McBurney's point",
+                "bowel_sounds": "active bowel sounds"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

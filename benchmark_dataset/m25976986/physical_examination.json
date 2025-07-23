@@ -1,0 +1,35 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "98 bpm",
+                "blood_pressure": "234/50 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "uncomfortable appearing, tender to palpation in RUQ, guiac positive for yellow stool",
+                "gastrointestinal": "obese, soft abdomen, tender to deep palpation in epigastrium and RUQ with no rebound or guarding"
+            },
+            "changes_over_time": "Blood pressure improved after initial evaluation; however, abdominal pain returned upon arrival to the floor."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "158/84 mmHg",
+                "respiratory_rate": "22 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "uncomfortable appearing, speaking clearly, pleasant, no acute distress",
+                "HEENT": "normocephalic, atraumatic, no scleral icterus",
+                "cardiovascular": "Normal rate; S1, S2 normal; no murmurs, rubs or gallops",
+                "lungs": "Clear to auscultation",
+                "neurological": "Alert and orientated with grossly intact cranial nerves"
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "blood_pressure": "203/127 mmHg",
+                "heart_rate": "93 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "94% on RA"
+            },
+            "relevant_findings": {
+                "general": "Sleepy appearing, no acute distress.",
+                "HEENT": "No conjunctival injection, extraocular movements intact, anicteric, mucous membranes moist.",
+                "neck": "Supple.",
+                "chest": "Bilateral air entry, no wheezing, crackles, or rubs.",
+                "heart": "S1, S2 normal, no murmurs, rubs, or gallops.",
+                "abdomen": "+ bowel sounds, tenderness to palpation diffusely worse in RUQ/epigastric area, no guarding or rebound tenderness.",
+                "extremities": "No cyanosis or clubbing, chronic venous stasis changes, chronic edema 2+ bilaterally, right greater toe status post amputation.",
+                "neurological": "Face symmetric, speech fluent.",
+                "psychological": "Calm, cooperative."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

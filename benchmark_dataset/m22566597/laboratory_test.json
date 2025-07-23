@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level is 1576, which is outside the normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ALT/AST",
+            "date": "Not specified",
+            "findings": "ALT is 73 and AST is 108, both of which are outside the normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC count is 6.9, with 8% atypicals, which is within the normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal without focal or echotextural abnormality. The gallbladder is normal without wall thickening or gallstone. Common duct measures 4 mm with no intra- or extra-hepatic bile duct dilatation. The pancreatic duct measures 2 mm.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

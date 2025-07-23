@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.8°F",
+                "blood_pressure": "145/85 mmHg",
+                "heart_rate": "80 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "consciousness": "A/Ox3",
+                "general_appearance": "No acute distress",
+                "heart": "Regular rate and rhythm",
+                "lungs": "Clear to auscultation bilaterally",
+                "abdomen": "Soft, tenderness to palpation in the right upper quadrant without Murphy's sign (after morphine administration), no rebound, guarding, or rigidity",
+                "other_findings": "Umbilical hernia, no hepatosplenomegaly, no cyanosis, clubbing, or edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver appears normal in echotexture. There are innumerable echogenically shadowing stones within the gallbladder. The lumen is not visualized (wall echo shadow). The gallbladder is not distended. No wall thickening or pericholecystic fluid. The CBD is enlarged at 9 mm, no stones seen within the CBD. No intrahepatic biliary ductal dilatation. Normal hepatopetal flow in the main portal vein.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "69.0 IU/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

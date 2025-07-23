@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "Marked gallbladder wall thickening with hyperemic wall, multiple shadowing gallstones, and a hypoechoic lesion in the liver adjacent to the gallbladder measuring 1.5 x 2.0 x 1.9 cm with possible thin peripheral halo. No intra- or extra-hepatic biliary dilatation, common bile duct measures 0.4 cm in diameter. A hypoechoic structure in the right kidney suggesting a cyst, measuring 2.6 x 1.7 x 2.1 cm. Spleen normal at 10.3 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Test",
+            "date": "Not specified",
+            "findings": "Bilirubin level: 2.9 mg/dL (Reference range: 2.7 - 4.5 mg/dL) - within normal range.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "74 bpm",
+                "blood_pressure": "169/104 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "general": "Appears well. No distress, Alert & Oriented x3.",
+                "abdominal": "Soft, nondistended. Moderately tender to palpation in the right lower quadrant. No rebound or guarding."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

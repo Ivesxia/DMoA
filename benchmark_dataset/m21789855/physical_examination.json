@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.9 degrees Celsius",
+                "heart_rate": "100 bpm",
+                "blood_pressure": "144/81 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "O2_saturation": "100%"
+            },
+            "relevant_findings": {
+                "constitutional": "NAD (No Acute Distress)",
+                "HEENT": "Normocephalic, atraumatic, Pupils equal, round and reactive to light, MMM (Mucous Membranes Moist)",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm",
+                "abdominal": "Soft, Nondistended, RLQ TTP (Right Lower Quadrant Tenderness to Palpation)",
+                "gu_flank": "No costovertebral angle tenderness",
+                "extr_back": "No cyanosis, clubbing, or edema",
+                "skin": "No rash, Warm and dry",
+                "neuro": "Speech fluent",
+                "psych": "Normal mood, Normal mentation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

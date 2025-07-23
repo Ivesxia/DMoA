@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "pulse": "105 bpm",
+                "blood_pressure": "141/76 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "awake, alert, oriented x 3",
+                "HEENT": "NCAT, EOMI, anicteric",
+                "heart": "RRR, NMRG",
+                "lungs": "CTAB, no respiratory distress",
+                "chest": "non-tender, no deformities",
+                "back": "no CVAT",
+                "abdomen": "soft, non-distended, locally tender at RLQ without peritoneal signs. No hernias or masses.",
+                "pelvis": "deferred",
+                "extremities": "warm, well-perfused, no cyanosis, clubbing, or edema, no tenderness"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

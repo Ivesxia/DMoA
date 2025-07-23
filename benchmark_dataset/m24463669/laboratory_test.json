@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Increased echogenicity of the liver consistent with fatty infiltration; several stones in the gallbladder without gallbladder wall thickening; no signs of biliary obstruction; pancreas not well visualized; spleen normal in size (8.3 cm).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Glycosylated Hemoglobin (HbA1c)",
+            "date": "Not specified",
+            "findings": "2.2 %, reference range (1.2 - 3.2 %), significantly above normal range.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

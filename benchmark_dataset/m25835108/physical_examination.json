@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96°F",
+                "heart_rate": "109 bpm",
+                "blood_pressure": "154/101 mmHg",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, but very uncomfortable, not well appearing, moaning intermittently secondary to nausea, not pain.",
+                "cardiovascular": "Regular rate and rhythm (RRR), no murmurs/rubs/gallops.",
+                "pulmonary": "Clear to auscultation bilaterally (CTA b/l).",
+                "abdominal": "Bowel sounds present, obese, non-tender (NT), no guarding, no rebound, drain in place with minimal brownish output.",
+                "extremities": "No edema."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated measuring up to 1.2 cm with wall thickening measuring up to 4 mm and mild associated stranding. There is trace free fluid within the pelvis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "The liver demonstrates homogenous attenuation throughout. Multiple right-sided hepatic hypodensities are noted, likely representing simple cysts or biliary hamartomas. There is no evidence of intrahepatic or extrahepatic biliary dilatation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Kidney Function Test",
+            "date": "Not specified",
+            "findings": "The kidneys are of normal and symmetric size with normal nephrogram. There is no evidence of focal renal lesions or hydronephrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "Not specified",
+            "findings": "8.5 mg/dL (ref range: 8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

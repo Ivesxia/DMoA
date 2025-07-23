@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "The heart is normal in size and there is no evidence of vascular congestion, pleural effusion, or acute focal pneumonia.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

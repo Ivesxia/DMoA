@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Dizziness, headache, night sweats, and poor appetite.",
+        "history_of_present_illness": "Symptoms began two days prior to presentation, described as general malaise with decreased appetite and sweating. Initially felt well after surgery for 3 days, then experienced onset of symptoms.",
+        "past_medical_history": "Hypertension, Hyperlipidemia, status post parathyroidectomy for primary hyperparathyroidism (adenoma), history of hysterectomy.",
+        "family_history": "Family history positive for melanoma. Father died of myocardial infarction at age ___ (smoked), with a history of heart disease in paternal side. Mother had hypertension and died at age ___. Two children alive and well.",
+        "social_history": "Not specified."
+    }
+}

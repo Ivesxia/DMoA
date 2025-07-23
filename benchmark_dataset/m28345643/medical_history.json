@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "RLQ abdominal pain",
+        "history_of_present_illness": "Patient noted diffuse abdominal pain on ___ night. Since then, her pain has localized to the right lower quadrant. Today she had nausea and one episode of emesis. She denies fevers, chills, malaise, diarrhea, and constipation. She has never had pain like this before.",
+        "past_medical_history": "Hypertension, PVD, hypercholesterolemia; Peripheral vascular disease with bilateral iliac stents",
+        "family_history": "Noncontributory",
+        "social_history": "Personal history of tobacco use"
+    }
+}

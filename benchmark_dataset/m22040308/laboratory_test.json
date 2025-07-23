@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bacteroides fragilis group",
+            "date": "Not specified",
+            "findings": "8.4 mg/dL (reference range: 8.4 - 10.3 mg/dL). Result is at the lower limit of normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Large amount of soft tissue stranding with an organizing fluid collection measuring 11.6 x 4.4 cm, proximal appendix dilated to 22mm with appendicoliths. Compatible with ruptured appendicitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

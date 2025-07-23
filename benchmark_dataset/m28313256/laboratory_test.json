@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC count of 12.8 (outside normal range).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix dilated measuring up to 1.1 cm with mild adjacent fat stranding, no perforation.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

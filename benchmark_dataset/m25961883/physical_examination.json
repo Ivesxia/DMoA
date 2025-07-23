@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.3°F",
+                "blood_pressure": "153/64 mmHg",
+                "heart_rate": "66 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100% on room air",
+                "weight": "97.1 kg"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented x3, no acute distress",
+                "HEENT": "Sclera anicteric, EOMI, MMM, oropharynx clear",
+                "neck": "Supple, JVP not elevated, no LAD",
+                "lungs": "Clear to auscultation bilaterally, no wheezes, rales, ronchi",
+                "CV": "Regular rate and rhythm, normal S1 + S2, SEM at left sternal border, no rubs/gallops",
+                "abdomen": "Obese, +scar, soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly",
+                "extremities": "+ fistula in LUE. Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema",
+                "neurological": "CN grossly intact, MAE",
+                "skin": "No rash"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

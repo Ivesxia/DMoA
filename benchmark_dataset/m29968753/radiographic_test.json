@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": "The hepatic architecture is coarsened and nodular in appearance. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is a scant trace of ascites. A small left pleural effusion is also noted.",
+                "bile_ducts": "There is no intrahepatic biliary dilation. The CBD measures 0.3 cm.",
+                "gallbladder": "A small adherent stone or tiny sludge ball is noted in the gallbladder. The gallbladder is partially collapsed and the wall is thickened likely due to third spacing.",
+                "pancreas": "The pancreas is obscured from view by overlying bowel gas.",
+                "spleen": "The spleen is normal measuring 10.6 cm."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

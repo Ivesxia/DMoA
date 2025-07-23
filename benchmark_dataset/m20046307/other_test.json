@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "A blind-ending noncompressible tubular structure compatible with the appendix measuring up to 9 mm. There is possible trace amount of free fluid around the area in the right lower quadrant.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

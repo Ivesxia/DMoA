@@ -1,0 +1,10 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "2+ (1-5 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. 1+ (<1 per 1000X FIELD): GRAM NEGATIVE ROD(S).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

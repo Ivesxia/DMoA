@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Cholangiogram",
+            "date": "Not specified",
+            "findings": "Mixed bacterial flora (>= 3 colony types), consistent with skin and/or genital contamination.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD W&W/O C",
+            "date": "Not specified",
+            "findings": "Liver has diffusely low density consistent with steatosis; no suspicious focal lesion; postsurgical changes in the right upper quadrant with locules of intraperitoneal air; gallbladder is surgically absent; normal pancreas, spleen, adrenals, and kidneys; small hiatal hernia.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified.",
+            "findings": "The gallbladder is markedly distended with circumferential wall thickening and edema, a 10 mm stone in the gallbladder neck, smaller stones in the gallbladder fundus, extensive pericholecystic fat stranding, and pericholecystic fluid. Moderate intrahepatic biliary duct dilatation and common duct dilation to 10 mm with no evidence of intraductal stones. A 7 x 3 mm T2 hyperintense non-enhancing lesion in the pancreatic body/tail, a 10 x 9 mm nodule in the left adrenal gland likely adenoma, several T2 hyperintense nonenhancing lesions in the kidneys (simple cysts), a 1.6 cm hemorrhagic cyst in the right kidney, trace perihepatic and perisplenic ascites, and a trace right pleural effusion with atelectasis in the right lower lobe.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

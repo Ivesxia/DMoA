@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Abnormal T2 signal prolongation centered around the pancreatic tail with associated enhancement and diffusion restriction is compatible with pancreatitis. There is a small amount of hemorrhagic peripancreatic fluid and ascites, as well as adjacent thickening of Gerota's fascia. There are multiple gallstones in the gallbladder. The common bile duct is normal caliber measuring 5 mm. There is no intra or extrahepatic biliary ductal dilatation. A small left renal cyst is noted. No hydronephrosis. Both kidneys enhance symmetrically.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test (units)",
+            "date": "Not specified",
+            "findings": "6.0 units (normal range 5.0 - 8.0)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

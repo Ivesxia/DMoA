@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Intraoperative cholangiogram",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "The lungs are clear without pleural effusions, pneumothorax or focal airspace consolidations. The cardiomediastinal silhouette, hilar contours and pulmonary vasculature are normal. The osseous structures are grossly unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

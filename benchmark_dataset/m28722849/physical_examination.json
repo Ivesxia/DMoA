@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99",
+                "heart_rate": "86",
+                "blood_pressure": "157/87",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": "Patient is alert and oriented x3, speaking, in clear distress with abdominal pain; abdomen soft, with point tenderness at McBurney's point. No rebound tenderness, non-peritoneal, non-distended.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

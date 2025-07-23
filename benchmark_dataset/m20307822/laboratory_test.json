@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Innumerable shadowing gallstones in gallbladder, mild wall thickening (up to 5 mm), trace pericholecystic fluid, common bile duct measuring up to 8 mm with shadowing echogenic stones in distal common bile duct (consistent with choledocholithiasis). No focal liver lesion. Right kidney unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "3.5 g/dL (within normal range: 3.5 - 5.2 g/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

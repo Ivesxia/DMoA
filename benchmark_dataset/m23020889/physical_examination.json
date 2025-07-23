@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2°F",
+                "heart_rate": "70 bpm",
+                "blood_pressure": "131/67 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "constitutional": "Patient is well-appearing and in no acute distress",
+                "HEENT": "Normocephalic, atraumatic, pupils equal, round and reactive to light, extraocular muscles intact",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular rate and rhythm, normal first and second heart sounds",
+                "abdominal": "Soft, nondistended, tender to palpation in the right lower quadrant with voluntary guarding and no rebound tenderness",
+                "GU/flank": "No testicular swelling or tenderness, no penile erythema, no costovertebral angle tenderness",
+                "extremities/back": "No cyanosis, clubbing or edema",
+                "skin": "No rash, warm and dry, 2+ radial and dorsal pedal pulses bilaterally, digits are warm and well-perfused",
+                "neurological": "Speech fluent, moving all extremities, gait intact",
+                "psychological": "Normal mentation, normal mood"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

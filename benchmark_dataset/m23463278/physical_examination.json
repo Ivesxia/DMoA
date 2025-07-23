@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9 °F",
+                "heart_rate": "90 bpm",
+                "blood_pressure": "146/68 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": "Alert and oriented times three. No apparent distress. Respiratory exam reveals clear to auscultation bilaterally, soft abdomen, tenderness in right upper quadrant without peritonitis. No edema.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

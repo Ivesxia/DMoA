@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "There is a 13-mm dilated retrocecal distal appendix with marked thickening of the cecal base. No abscess or fluid collection. The remaining bowel loops appear normal without obstruction. No free air or free fluid is present.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test for Serum Creatinine",
+            "date": "Not specified",
+            "findings": "2.0 mmol/L, which is at the upper limit of the reference range (normal range: 0.5 - 2.0 mmol/L).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Caution for left lower lobe pneumonia.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT abdomen with contrast",
+            "date": "Not specified",
+            "findings": "No acute intra-abdominal process. The pancreas is normal in attenuation with no peripancreatic fat stranding or pancreatic ductal dilatation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": "Small right pleural effusion. A 1.2 x 2.0 x 1.5 cm cyst in the right lobe of the liver, unchanged compared to prior CT. Mildly distended gallbladder with irregular echogenic material likely representing sludge balls/tumefactive sludge.",
+            "changes_over_time": "Cyst unchanged compared to prior CT."
+        }
+    ]
+}

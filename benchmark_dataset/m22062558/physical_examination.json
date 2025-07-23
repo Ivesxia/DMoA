@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6 F",
+                "pulse": "89 bpm",
+                "blood_pressure": "115/51 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% on RA"
+            },
+            "relevant_findings": {
+                "general": "Frail female laying in bed. NAD. Slight delay in her answering questions.",
+                "eyes": "Pinpoint pupils bilaterally, Extraocular movements intact without nystagmus, Conjunctiva clear",
+                "ENT": "Dry",
+                "cardiovascular": "Regular heart rhythm. No edema in lower extremities.",
+                "respiratory": "Clear to auscultation bilaterally",
+                "gastrointestinal": "Soft, non-tender, mildly distended abdomen",
+                "musculoskeletal": {
+                    "upper_extremity_strength": "Symmetrical",
+                    "lower_extremity_strength": "Symmetrical"
+                },
+                "neurological": "Alert and oriented",
+                "integument": "Warm and dry"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

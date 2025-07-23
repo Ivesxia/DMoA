@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right lower quadrant pain",
+        "history_of_present_illness": "Pain began at 1 AM and has persisted for about 18 hours. The patient decided to come to the ED at 10:00 AM. The pain is sharp, located in the right lower quadrant (RLQ), does not radiate. The patient denies nausea or vomiting, has had normal bowel movements today, and is passing flatus. Denies fevers or chills but has experienced some hot flashes at night over the last few days.",
+        "past_medical_history": "Metastatic prostate cancer to bone, Osteoarthritis, Hypertension, Insomnia, Alcohol abuse",
+        "family_history": "No family history of Inflammatory Bowel Disease (IBD). Positive for stomach cancer.",
+        "social_history": "Not specified."
+    }
+}

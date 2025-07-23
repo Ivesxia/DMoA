@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated to 14 mm with a hyperenhancing wall, adjacent fat stranding, and appendicoliths, consistent with acute appendicitis. Accompanying focal inflammation is seen in the cecum wall at the site of origin of the appendix. The visualized lung bases are clear. The liver is homogeneous in texture with no focal lesions. No biliary ductal dilatation. The gallbladder is normal. The spleen, pancreas, and adrenal glands are normal. The kidneys are unremarkable with no contour irregularities or hydronephrosis. There is a small hiatal hernia. The stomach is otherwise normal. The small bowel, including distal small bowel, is unremarkable. The large bowel is otherwise unremarkable. No retroperitoneal or mesenteric lymphadenopathy. The intra-abdominal aorta is normal in appearance. The sigmoid colon and rectum are normal in appearance. The distal ureters and bladder are normal. The prostate and seminal vesicles are unremarkable. There is no pelvic or inguinal lymphadenopathy. There is no free fluid in the pelvis. No focal lytic or sclerotic osseous lesion suspicious for infection or malignancy is seen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "NEGATIVE.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Sample Handling",
+            "date": "Not specified",
+            "findings": "HOLD. DISCARD GREATER THAN 4 HOURS OLD.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI Abdomen Without Contrast",
+            "date": "Not specified",
+            "findings": "Proximal appendix measures up to 8 mm, distal tip measures up to 13 mm with wall thickening and edema. Fat stranding in vicinity. 6 mm hypointense focus at appendix tip possibly representing an appendicolith or gas.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

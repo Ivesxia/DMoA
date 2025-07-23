@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "heart_rate": "71 bpm",
+                "blood_pressure": "130/70 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "96% on 2L NC"
+            },
+            "relevant_findings": {
+                "general": "mild distress",
+                "cardiovascular": "RRR, -MRG",
+                "chest": "CTAB",
+                "abdominal": "soft, ND, tender to palpation in the RLQ; +Rovsing's sign; +guarding/rebound in the RLQ; +BS"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

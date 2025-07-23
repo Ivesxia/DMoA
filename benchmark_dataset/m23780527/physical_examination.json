@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "blood_pressure": "94/68 mmHg",
+                "heart_rate": "88 bpm",
+                "respiratory_rate": "32 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, no acute distress",
+                "HEENT": "Sclera anicteric, mucous membranes moist, oropharynx clear",
+                "neck": "Supple, JVP not elevated, no lymphadenopathy",
+                "lungs": "Fine expiratory wheezes, generalized rhonchorous breathing",
+                "cardiovascular": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+                "abdomen": "Soft, normal bowel sounds present, no rebound tenderness or guarding",
+                "extremities": "Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema",
+                "skin": "No acute skin changes",
+                "neurological": "Non-specified intact neurology, motor strength in bilateral upper extremities adequate, intact sensation throughout"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

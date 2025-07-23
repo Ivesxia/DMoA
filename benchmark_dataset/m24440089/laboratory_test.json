@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory analysis of fluid",
+            "date": "Not specified",
+            "findings": "4+   (>10 per 1000X FIELD):   POLYMORPHONUCLEAR LEUKOCYTES.  NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Portable abdomen radiograph",
+            "date": "Not specified",
+            "findings": "Drain projects over the right lower quadrant. Proximal small bowel is dilated up to 5.5 cm. Small bowel is aerated but less dilated in the right lower quadrant. There is air and even mild distension of the sigmoid arguing alternatively for ileus. Air is also present in the transverse colon. No evidence of free air. Vertical staple line is present.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

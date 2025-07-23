@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no suspicious liver mass identified. A hemangioma is seen in segment 2 measuring 3.0 x 1.9 x 2.6 cm. The main portal vein is patent with hepatopetal flow. There is no ascites. Small stones measuring up to about 11 mm in diameter are seen in the gallbladder. The stones do not appear to be impacted. There is no gallbladder wall edema and no cholecystic fluid is present. The pancreas is unremarkable but is only minimally visualized due to overlying bowel gas. The spleen shows normal echogenicity (11.1 cm). Limited views of the kidneys show no hydronephrosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

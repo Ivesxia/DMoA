@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The examination shows the liver, pancreas, spleen, adrenals, kidneys, stomach, small bowel, colon, pelvis, reproductive organs, lymph nodes, vascular structures, bones, and soft tissues to be within normal limits. There is a tubular structure that represents the appendix measuring approximately 9 mm in diameter with wall thickening and mucosal hyperemia. Additionally, there is a small amount of free fluid in the pelvis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

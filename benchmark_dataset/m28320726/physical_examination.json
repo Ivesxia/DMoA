@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "heart_rate": "68 bpm",
+                "blood_pressure": "125/74 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well, no acute distress (NAD), alert and oriented (A&O), cooperative",
+                "cardiovascular": "Regular rate and rhythm (RRR), no rubs/gallops/murmurs (R/G/M)",
+                "respiratory": "Clear to auscultation bilaterally (CTAB)",
+                "abdominal": "Soft, non-distended (ND), focally tender in right upper quadrant (RUQ) to palpation with positive ___ sign. No rebound tenderness, positive voluntary guarding, no costal margin tenderness.",
+                "extremities": "Warm, well-perfused (WWP) bilaterally lower extremities (BLE), no appreciable edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

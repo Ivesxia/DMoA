@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Portable abdomen radiograph",
+            "date": "Not specified",
+            "findings": "Gas is seen in the small and large bowel. There are no abnormally dilated loops of large or small bowel. There is no gross pneumoperitoneum. Bibasilar atelectasis. Osseous structures are unremarkable. There are no unexplained soft tissue calcifications or radiopaque foreign bodies.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

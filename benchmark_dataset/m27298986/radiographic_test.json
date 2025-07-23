@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Air collections in the right-sided soft tissues have substantially decreased. Unchanged evidence of atelectasis at the lung bases, slightly increased on the right. Blunting of the costophrenic sinuses likely due to small pleural effusions. No other parenchymal abnormalities. No pulmonary edema. Borderline size of the cardiac silhouette and tortuosity of the thoracic aorta.",
+            "changes_over_time": "Air collections in the right-sided soft tissues have substantially decreased. Evidence of atelectasis has slightly increased on the right."
+        }
+    ]
+}

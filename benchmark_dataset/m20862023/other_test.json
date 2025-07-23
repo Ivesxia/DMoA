@@ -1,0 +1,38 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung_fields": "within normal limits",
+                "pleural_effusion": "none",
+                "pericardial_effusion": "none",
+                "liver": "homogenous attenuation, no focal lesions",
+                "biliary_system": "no intrahepatic or extrahepatic biliary dilatation",
+                "gallbladder": "normal",
+                "pancreas": "normal attenuation, no focal lesions",
+                "spleen": "normal size and attenuation, accessory spleen present",
+                "adrenals": "normal in size and shape",
+                "kidneys": "normal size, symmetric, normal nephrogram, no focal lesions or hydronephrosis",
+                "stomach": "unremarkable",
+                "small_bowel": "normal caliber, wall thickness, and enhancement",
+                "colon_and_rectum": "within normal limits",
+                "appendix": {
+                    "status": "fluid-filled",
+                    "max_diameter": "7 mm",
+                    "appendicolith": "none",
+                    "periappendiceal_fat_stranding": "minimal to none",
+                    "appendiceal_wall": "hypenhancing"
+                },
+                "pelvis": {
+                    "urinary_bladder": "unremarkable",
+                    "reproductive_organs": "unremarkable"
+                },
+                "lymph_nodes": "tiny, scattered retroperitoneal lymph nodes, no enlarged nodes",
+                "vascular": "no abdominal aortic aneurysm",
+                "bones_and_soft_tissues": "no worrisome lesions or acute fractures, normal abdominal and pelvic wall"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

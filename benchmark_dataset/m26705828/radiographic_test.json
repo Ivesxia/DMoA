@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W & W/O CONTRAST, ADDL SECTIONS",
+            "date": "Not specified",
+            "findings": "2.4 x 1.3 x 1.7 cm hypodense lesion in the tail of the pancreas with mild pancreatic duct dilatation (up to 3mm). 1.2 x 3.6 x 5.4 cm fluid density collection along the left anterior peritoneal lining between the liver and left rectus musculature. Bibasilar atelectasis. Small right and trace left pleural effusions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Multiple small cysts in the tail of the pancreas measuring 3.0 x 1.9 cm likely representing IPMN. Mild associated dilatation of the pancreatic duct (up to 3mm).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

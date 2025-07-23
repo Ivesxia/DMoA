@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is enlarged, measuring 1.0 cm, hyperenhancing with surrounding inflammatory mesenteric fat stranding and trace free fluid. Coiled configuration with a central rim enhancing fluid collection suggestive of abscess. Liver homogenous in attenuation, with a small rounded area of calcification noted at the junction of hepatic segments V and VIII, likely representing prior granulomatous disease. No intrahepatic biliary ductal dilatation present. Punctate calcification noted in the spleen, likely consistent with prior granulomatous disease. Bilateral adrenal glands normal, bilateral kidneys normal in size and excrete contrast symmetrically. No extraluminal gas seen. No lymphadenopathy evident.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PTT",
+            "date": "Not specified",
+            "findings": "26.7 sec (Normal range: 22.0 - 35.0 sec)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

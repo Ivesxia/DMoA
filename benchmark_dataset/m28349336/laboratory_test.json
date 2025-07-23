@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Gram stain and culture",
+            "date": "Not specified",
+            "findings": "Gram negative rod(s) identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT CHEST W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Enlarged thyroid gland with a heterogeneously hypoattenuating mass in the isthmus with multiple punctate calcifications. No pathologically enlarged lymphadenopathy or other mass. Mild biapical pleural parenchymal scarring and a few scattered calcified granulomas in the right lung.",
+            "changes_over_time": "Noted peripancreatic stranding consistent with history unchanged from CT abdomen from previous day."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "heart_rate": "128 bpm",
+                "blood_pressure": "128/63 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": "Alert and oriented x3, no acute distress, regular rate and rhythm, unlabored respirations, abdomen soft, non-distended, tender to palpation in the right lower quadrant, no rebound tenderness or guarding, no Rovsing's sign, no obturator sign.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

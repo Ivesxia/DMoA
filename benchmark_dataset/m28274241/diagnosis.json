@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with right lower quadrant pain that migrated and was associated with nausea and vomiting. CT findings revealed a dilated fluid-filled structure likely representing the appendix, supporting the diagnosis of appendicitis."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in size, echogenicity and architecture. The gallbladder is mildly distended and contains mobile shadowing gallstones. There is mild gallbladder wall edema. No intra- or extra-hepatic biliary dilatation, common duct measures 5 mm. Normal hepatopetal flow in the main portal vein. No perihepatic ascites.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

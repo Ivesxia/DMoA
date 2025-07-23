@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified.",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI ABDOMEN W/O CONTRAST",
+            "date": "Not specified.",
+            "findings": {
+                "lower_thorax": "Right upper lobe linear atelectasis. No pleural effusions.",
+                "liver": "Mild hepatic steatosis. No focal lesion in the visualized liver.",
+                "biliary": "No ductal dilation. Unremarkable visualized gallbladder.",
+                "pancreas": "No lesion or ductal dilation. Partial fatty replacement of the dorsal aspect of the pancreatic head, consistent with uneven lipomatosis, benign.",
+                "spleen": "No splenomegaly. Accessory spleen near the inferior pole.",
+                "adrenal_glands": "11 mm discrete right adrenal nodule consistent with a lipid rich adrenal adenoma.",
+                "kidneys": "22 mm right interpolar renal cyst likely hemorrhagic. Mild perinephric fluid. No hydronephrosis.",
+                "gastrointestinal_tract": "Small hiatal hernia. Sigmoid diverticulosis.",
+                "lymph_nodes": "No adenopathy.",
+                "vasculature": "Normal signal void in major vasculature.",
+                "osseous_and_soft_tissue_structures": "Normal bone marrow signal. No soft tissue mass."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

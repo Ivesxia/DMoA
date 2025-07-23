@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lab Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Calcium",
+            "date": "Not specified",
+            "findings": "8.6 mg/dL (normal range: 8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transvaginal Ultrasound",
+            "date": "Not specified",
+            "findings": "The uterus is anteverted and measures 4.7 x 2.4 x 3.2 cm. The endometrium is homogenous and measures 2 mm. The ovaries are normal. There is small volume free fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

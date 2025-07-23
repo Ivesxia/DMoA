@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Afeb",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "137/79 mmHg",
+                "respiratory_rate": "12 breaths/min",
+                "oxygen_saturation": "97% on RA"
+            },
+            "relevant_findings": [
+                "General: NAD, Mentation: Alert, speaks in full sentences.",
+                "Eyes: EOMI",
+                "Ears/Nose/Mouth/Throat: + dentures (upper/lower)",
+                "Neck: supple",
+                "Respiratory: CTA bilat (anterior exam)",
+                "Cardiovascular: Normal S1S2",
+                "Gastrointestinal: Obese, soft. + min lower abd pain, no rebound/guarding",
+                "Skin: Multiple bilateral lower extremity ecchymoses",
+                "Extremities: No edema",
+                "Lymphatics/Heme/Immun: No cervical lymphadenopathy",
+                "Neurologic: Alert, oriented x 3",
+                "Psychiatric: WNL"
+            ],
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

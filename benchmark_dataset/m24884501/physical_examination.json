@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "102.8°F",
+                "heart_rate": "126 bpm",
+                "blood_pressure": "146/81 mmHg",
+                "respiratory_rate": "12 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented times 3",
+                "HEENT": "Normocephalic, atraumatic, PERRLA, EOMI",
+                "CV": "Regular rate and rhythm, no bruits",
+                "chest": "Clear to auscultation bilaterally",
+                "abdominal": "+ bowel sounds, minimal tenderness in RLQ, no peritoneal signs, no rebound or guarding, right sided flank tenderness",
+                "rectal": "Guaiac negative"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The study is degraded by motion artifact. Lower Thorax: Mild platelike atelectasis in the lung bases. No pleural effusion. No pericardial effusion. Liver: Normal hepatic morphology. No hepatic steatosis. No suspicious focal hepatic lesions. Mild peribiliary edema is noted. Mild hyperenhancement in segments 4B and 5 adjacent to the gallbladder fossa is most likely reactive. Biliary: No intra or extrahepatic bile duct dilatation. No filling defects are noted. The gallbladder is distended with associated gallbladder wall thickening suggesting inflammatory change. The wall is generally hyperintense on T2-weighted images suggesting inflammatory change. The enhancement pattern of the wall is irregular including many small nonenhancing foci along the inner wall, some with fluid intensity, others not very conspicuous on other imaging sequences. A few of these may be transmural and/or extend deep into the wall.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

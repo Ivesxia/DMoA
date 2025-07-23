@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bowel movement assessment",
+            "date": "Not specified",
+            "findings": "Two loose bowel movements reported.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Emesis assessment",
+            "date": "Not specified",
+            "findings": "Non-bilious emesis reported once in the ED.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Physical Examination",
+            "date": "Not specified",
+            "findings": "Awake and alert, talkative; cardiovascular: regular rate and rhythm; lungs: clear to auscultation bilaterally; abdomen: soft, non-tender, non-distended, positive bowel sounds, incision clean, dry, intact; no erythema or hematoma; extremities warm, no edema.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric pain",
+        "history_of_present_illness": "Ms. ___ experienced sudden-onset epigastric pain yesterday morning after breakfast. The pain started around 10 AM, was sharp, constant, and worsened in intensity throughout the day. It radiates to the back and is accompanied by nausea. The patient induced vomiting four times to relieve the sensation, which contained old food and was non-bloody. She reports some difficulty with constipation but had her last bowel movement yesterday. A similar episode of pain occurred one month ago.",
+        "past_medical_history": "Gestational diabetes; 2x c-sections",
+        "family_history": "Mother with cholecystectomy, DM, HTN",
+        "social_history": "Denies alcohol use, tobacco products, or any other substances."
+    }
+}

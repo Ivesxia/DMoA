@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Temperature": "98.0 °F",
+                "Heart_rate": "72 bpm",
+                "Blood_pressure": "118/72 mmHg",
+                "Respiratory_rate": "16 breaths/min",
+                "Oxygen_saturation": "100% on RA"
+            },
+            "relevant_findings": {
+                "General": "Young female laying in bed. Husband and baby at her side. Nourishment: OK. Grooming: WNL.",
+                "Eye": "EOMI without nystagmus, Conjunctiva: clear.",
+                "ENT": "Moist.",
+                "Cardiovascular": "Regular rhythm, S1, S2 present. No edema.",
+                "Respiratory": "Clear to auscultation bilaterally.",
+                "Gastrointestinal": "Diminished bowel sounds throughout. Soft abdomen. No RUQ tenderness with tenderness noted in mid LLQ and RLQ.",
+                "Neurological": "Alert and oriented x 3.",
+                "Integument": "Warm and dry.",
+                "Psychiatric": "Appropriate mood and affect."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

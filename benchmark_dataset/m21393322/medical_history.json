@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric pain",
+        "history_of_present_illness": "Patient reports epigastric pain since yesterday, with interval improvement, and then worsening since 5PM today.",
+        "past_medical_history": "Gilbert syndrome; R knee surgery ___ years ago",
+        "family_history": "History of gastric ulcers in multiple family members (father)",
+        "social_history": "Not specified"
+    }
+}

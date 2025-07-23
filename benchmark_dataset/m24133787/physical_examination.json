@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9 °F",
+                "heart_rate": "140 bpm",
+                "blood_pressure": "140/92 mmHg",
+                "respiratory_rate": "18"
+            },
+            "relevant_findings": {
+                "general": "Well appearing, no acute distress.",
+                "HEENT": "Normocephalic, extraocular movements intact, dry mucous membranes in the mouth.",
+                "neck": "Supple.",
+                "chest": "Bilateral auscultation clear with no wheezing, crackles, or rubs.",
+                "heart": "Regular rate and rhythm, no murmurs, rubs, or gallops.",
+                "abdomen": "Bowel sounds present, soft, non-tender, non-distended, no guarding or rebound.",
+                "extremities": "No clubbing, cyanosis, or edema.",
+                "neurological": "Facial symmetry, speech fluent.",
+                "psychological": "Calm and cooperative."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Cardiomegaly, slightly low inspiratory volumes, bibasilar patchy opacities, possible small effusions at both lung bases. The mid and upper zones of both lungs remain grossly clear. No CHF.",
+            "changes_over_time": "The overall appearance is similar to prior examination."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.0°F",
+                "heart_rate": "71 bpm",
+                "blood_pressure": "157/95 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "91% on room air"
+            },
+            "relevant_findings": {
+                "general": "Altered level of consciousness, ill-appearing",
+                "HEENT": "Normocephalic, atraumatic; no scleral icterus, dry mucous membranes",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/gallops/rubs",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes/rales/rhonchi",
+                "abdominal": "Distended, epigastric tenderness, guarding, no rebound tenderness",
+                "extremities": "No edema, warm and well-perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

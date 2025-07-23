@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "50 bpm",
+                "blood_pressure": "158/69 mmHg",
+                "respiratory_rate": "20 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "NAD, AOx3",
+                "HEENT": "MMM, EOM-I, non-icteric",
+                "pulmonary": "no respiratory distress",
+                "abdominal": "S/ND/TTP RUQ + ___; No rebound, no guarding; No palpable masses or hernias; Obese; ___: no LLE"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatinine Measurement",
+            "date": "Not specified",
+            "findings": "Elevated creatinine at 3.0",
+            "changes_over_time": "Increased creatinine levels from a baseline of 1.5, eventually stabilized at 1.5"
+        },
+        {
+            "procedure_name": "Liver Function Test (LFT)",
+            "date": "Not specified",
+            "findings": "Increasing LFTs",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Limited Abdominal Ultrasound",
+            "date": "Not specified",
+            "findings": "Trace of ascites seen in the perihepatic and perisplenic areas; large spleen noted similar to the previous examination.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Test",
+            "date": "Not specified",
+            "findings": "<10 PMNs and <10 epithelial cells/100X field. NO MICROORGANISMS SEEN. QUALITY OF SPECIMEN CANNOT BE ASSESSED.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

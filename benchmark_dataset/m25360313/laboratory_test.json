@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Gallbladder wall thickening measuring up to 10 mm. The GB is mildly distended. A calcified gallstone is demonstrated within the gallbladder neck. No focal or textural abnormalities in the liver. No intra- or extra-hepatic biliary dilatation with the common bile duct measuring up to 3 mm. The main portal vein is patent with appropriate hepatopetal flow. No pericholecystic fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bilirubin level",
+            "date": "Not specified",
+            "findings": "1.9 mg/dL (reference range: 1.6 - 2.6 mg/dL), within normal range.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

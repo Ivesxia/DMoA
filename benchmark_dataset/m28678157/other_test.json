@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "A polyp was removed and the patient has diverticulosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Significant circumferential wall edema of at least 10 cm segment of the descending colon, mild surrounding fat stranding, diverticulosis of the sigmoid colon. Other abdominal organs are normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

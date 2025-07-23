@@ -1,0 +1,30 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HCG Quantification",
+            "date": "Not specified",
+            "findings": "NEGATIVE. FOR QUANTITATION OF POSITIVES, SEND SERUM FOR HCG.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "abdominal": {
+                    "appendix": "top-normal measuring 7 mm with mild mucosal hyper enhancement. No adjacent fat stranding and air is seen within the appendiceal tip.",
+                    "gallbladder": "normal without calcified gallstones.",
+                    "kidneys": "display symmetric nephrograms and excretion of contrast. No focal renal lesions."
+                },
+                "chest": "Limited assessment of the lung bases are clear. No pleural effusion.",
+                "pelvis": "bladder is well distended and normal."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

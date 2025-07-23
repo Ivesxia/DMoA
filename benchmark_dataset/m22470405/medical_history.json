@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Nausea and vomiting for 2 days.",
+        "history_of_present_illness": "The patient developed lower abdominal cramping and severe chills 2 days ago after eating at a restaurant. Subsequent vomiting and persistent rigors began the following morning, leading to a visit to the emergency department. The patient experienced bilious emesis during triage.",
+        "past_medical_history": "Hypertension, Hyperlipidemia.",
+        "family_history": "Not specified.",
+        "social_history": "Lives at a senior home."
+    }
+}

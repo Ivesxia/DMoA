@@ -1,0 +1,37 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Bibasilar atelectasis. No definite consolidation.",
+                "abdominal_hepatobiliary": {
+                    "liver": "Homogeneously hypodense, consistent with fatty change. No focal lesions.",
+                    "biliary_dilatation": "No evidence of intrahepatic or extrahepatic biliary dilatation.",
+                    "gallbladder": {
+                        "distension": "Distended.",
+                        "stones": "Not well visualized on the current examination.",
+                        "pericholecystic_fluid": "Mild pericholecystic fluid and fat stranding with mild gallbladder wall thickening.",
+                        "irregularity": "Mild irregularity and thinning of the enhancing gallbladder wall adjacent to the liver without a frank perforation.",
+                        "free_fluid": "Small amount of free fluid tracking along the subhepatic space without localized drainable fluid collection.",
+                        "diverticulum": "A diverticulum at the hepatic flexure without colonic wall thickening to suggest acute diverticulitis."
+                    }
+                },
+                "pancreas": "Normal attenuation throughout, without focal lesions or pancreatic ductal dilatation.",
+                "spleen": "Normal size and attenuation throughout, without focal lesions.",
+                "adrenals": "Normal in size and shape.",
+                "urinary": {
+                    "kidneys": "Normal and symmetric size with normal nephrogram. No evidence of focal renal lesions or hydronephrosis."
+                },
+                "gastrointestinal": "Stomach is unremarkable. Small bowel loops and colon are unremarkable aside from scattered diverticula.",
+                "pelvis": "Urinary bladder is distended with a right posterolateral diverticulum. No free fluid in the pelvis.",
+                "reproductive_organs": "Minimal projection of the median lobe of the prostate into the bladder base.",
+                "lymph_nodes": "No lymphadenopathy.",
+                "vascular": "No abdominal aortic aneurysm. Moderate atherosclerotic disease noted.",
+                "bones": "No evidence of worrisome osseous lesions or acute fracture.",
+                "soft_tissues": "Abdominal and pelvic wall is within normal limits."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

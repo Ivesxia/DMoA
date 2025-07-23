@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Colicky right upper quadrant pain for one day.",
+        "history_of_present_illness": "Symptoms began one day ago with colicky RUQ pain. The patient reports a history of indigestion, especially after fatty meals. There was a similar self-limiting episode last week. The current episode has caused progressive discomfort over the past evening with minimal relief from oral antacids.",
+        "past_medical_history": "Asthma, mitral valve prolapse, ___ syndrome",
+        "family_history": "Father: polycythemia, asthma",
+        "social_history": "Not specified"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4°F",
+                "blood_pressure": "107/49 mmHg",
+                "heart_rate": "89 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x3, no acute distress",
+                "HEENT": "PERRLA, sclera nonicteric, dry mucous membranes, oropharynx clear without lesions",
+                "neck": "Supple, no lymphadenopathy appreciated",
+                "cardiovascular": "Regular rate and rhythm, soft systolic murmur heard at left sternal border",
+                "lungs": "Clear to auscultation bilaterally",
+                "abdomen": "Soft, nondistended, rebound tenderness, pain on palpation most in umbilical and left lower quadrant, no hepatosplenomegaly appreciated, normoactive bowel sounds",
+                "genitourinary": "No foley",
+                "extremities": "No clubbing, cyanosis or edema; 2+ dorsalis pedis pulses bilaterally",
+                "neurological": "Cranial nerves II-XII intact, strength upper and lower extremities adequate, sensation grossly intact, 2+ brachioradialis and biceps reflexes"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.0°F",
+                "blood_pressure": "125/87 mmHg",
+                "heart_rate": "111 bpm",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "There was an improvement in vital signs during admission; initial vitals indicated a higher heart rate (111 bpm) and blood pressure (125/87 mmHg) compared to the later readings (89 bpm, 107/49 mmHg)."
+        }
+    ]
+}

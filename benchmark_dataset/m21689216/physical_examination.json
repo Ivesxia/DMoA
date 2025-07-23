@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "94 bpm",
+                "blood_pressure": "123/59 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "consciousness": "Comfortable, awake and alert",
+                "HEENT": "Normocephalic, atraumatic",
+                "chest": "Clear to auscultation, normal effort",
+                "cardiovascular": "Regular Rate and Rhythm, Normal first and second heart sounds",
+                "abdominal": "Soft, Nondistended, focal RUQ TTP, no rebound or guarding",
+                "GU/Flank": "No costovertebral angle tenderness",
+                "extr/back": "No cyanosis, clubbing or edema",
+                "skin": "No rash, Warm and dry",
+                "neuro": "Speech fluent, moving all extremities"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

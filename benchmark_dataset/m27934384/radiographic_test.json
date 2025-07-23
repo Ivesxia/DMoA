@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI ABDOMEN W/O & W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver shows normal signal and morphology with fatty deposition in the hepatic parenchyma. A 0.7 cm enhancing lesion in the caudate lobe likely representing focal nodular hyperplasia. Multiple gallstones in the gallbladder with a 1.3 cm stone in the neck, slight distention of the gallbladder, small pericholecystic fluid, and marked hyperemia in the adjacent hepatic parenchyma. A tiny 4 mm focal nodule in the gallbladder wall consistent with a polyp. Normal pancreas, spleen, and kidneys. No abdominal or retroperitoneal lymphadenopathy and unremarkable bowel.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

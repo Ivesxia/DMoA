@@ -1,0 +1,18 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "109/52 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, clear to auscultation bilaterally, regular rate and rhythm, non-distended, tender to palpation below McBurney's point, no rebound or guarding, no overt peritoneal signs, extremities warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

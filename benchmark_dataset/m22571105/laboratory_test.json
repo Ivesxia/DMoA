@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC: 17.1 10^3/uL, Hemoglobin: 16.9 g/dL, Hematocrit: 50.6 %, Platelet: 228 10^3/uL, Neutrophils: 85.8%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolytes",
+            "date": "Not specified",
+            "findings": "Sodium: 140 mmol/L, Potassium: 4.2 mmol/L, Chloride: Not specified, Bicarbonate: 0.9 mmol/L, Cr: 11.3 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PTT",
+            "date": "Not specified",
+            "findings": "PTT: 36.0 seconds",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "INR",
+            "date": "Not specified",
+            "findings": "INR: 1.0",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix enlarged measuring 7 mm proximally and 1.4 cm distally with appendicolith; periappendiceal stranding, compatible with acute appendicitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

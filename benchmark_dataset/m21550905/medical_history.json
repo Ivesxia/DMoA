@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Sudden onset abdominal and back pain",
+        "history_of_present_illness": "Patient reports pain started suddenly at 8:30 PM yesterday while driving. Initially located under bilateral scapula and upper abdomen, the pain quickly traveled to the epigastric and RUQ regions. The pain has remained constant since onset and is currently most bothersome in the epigastric and RUQ area. Associated with nausea and dry heaves but denies vomiting. Initially experienced associated dyspnea that quickly resolved. Denies previous similar symptoms. History of a fatty meal approximately 6 hours prior to onset. No position was comfortable for sleep throughout the night.",
+        "past_medical_history": "Mitral valve prolapse with history of mitral valve repair, Hypertension, Hyperlipidemia, Psoriasis, Gout",
+        "family_history": "Mother deceased due to DM II and renal failure; father living with dementia and CHF",
+        "social_history": "Not specified"
+    }
+}

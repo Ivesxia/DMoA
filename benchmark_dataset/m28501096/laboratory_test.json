@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "E. coli grew in urine culture.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test Result (Leukocytes)",
+            "date": "Not specified",
+            "findings": "1+ leukocytes (<1 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid Function Test",
+            "date": "Not specified",
+            "findings": "2.8 uIU/mL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

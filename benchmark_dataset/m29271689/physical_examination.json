@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "initial": {
+                    "temperature": "96.8F",
+                    "blood_pressure": "149/75",
+                    "heart_rate": 71,
+                    "respiratory_rate": 15
+                },
+                "prior_to_transfer": {
+                    "temperature": "100.0F",
+                    "blood_pressure": "104/59",
+                    "heart_rate": 64,
+                    "respiratory_rate": 16
+                }
+            },
+            "relevant_findings": {
+                "admission_physical": {
+                    "General": "Alert, oriented, no acute distress",
+                    "HEENT": "Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL, neck supple, JVP not elevated, no LAD",
+                    "CV": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+                    "Lungs": "Clear to auscultation bilaterally, no wheezes, rales, rhonchi",
+                    "Abdomen": "Soft, non-tender, non-distended, bowel sounds present, no organomegaly, no rebound or guarding",
+                    "GU": "No foley",
+                    "Extremities": "Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema",
+                    "Neuro": "CNII-XII intact, strength upper/lower extremities grossly normal sensation, 2+ reflexes bilaterally, gait deferred"
+                }
+            },
+            "changes_over_time": {
+                "vital_signs": "Temperature increased from 96.8F to 100.0F. Blood pressure decreased from 149/75 to 104/59. Heart rate decreased from 71 to 64, and respiratory rate increased from 15 to 16.",
+                "relevant_findings": "Not specified"
+            }
+        }
+    ]
+}

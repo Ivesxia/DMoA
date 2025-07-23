@@ -1,0 +1,42 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung_bases": "Clear",
+                "liver": "Unremarkable",
+                "gallbladder": "Unremarkable",
+                "pancreas": "Unremarkable",
+                "spleen": "Unremarkable",
+                "adrenal_glands": "Unremarkable",
+                "left_kidney": "Unremarkable",
+                "ureters": "Unremarkable",
+                "stomach": "Unremarkable",
+                "loops_of_bowel": "Unremarkable",
+                "right_kidney": {
+                    "size": "14 mm",
+                    "characteristics": "Hypodensity with internal density values slightly higher than simple cysts"
+                },
+                "hydronephrosis": "Not seen",
+                "abdominal_aorta": "Normal in caliber",
+                "bowel_obstruction": "No evidence",
+                "appendix": {
+                    "size": "11 mm",
+                    "surrounding_fat": "Stranding present",
+                    "calcifications": "Several punctate calcifications compatible with appendicoliths"
+                },
+                "abscess": "No visualized",
+                "free_air": "No evidence",
+                "pelvic_loops": "Normal",
+                "distal_ureters": "Unremarkable",
+                "bladder": "Unremarkable",
+                "seminal_vesicles": "Unremarkable",
+                "prostate": "Unremarkable",
+                "free_fluid": "None",
+                "lymphadenopathy": "None"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

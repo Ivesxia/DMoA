@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRI (ABDOMEN & PELVIS) W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Distal esophagus and stomach are unremarkable. There is wall edema and fat stranding surrounding the distal ileum, terminal ileum, and inferomedial aspect of the cecal base with associated phlegmonous changes and thickening of the right lateroconal fascia. Total extent of phlegmonous change measures approximately 4.5 x 4 cm at the level of the cecal base. A punctate 0.6 cm T2 and T1 hypointense lesion consistent with an appendicolith is seen within the phlegmonous changes/cecal base. The location of the changes and inflammation at the cecal base in combination with the appendicolith is worrisome for ruptured appendicitis. Gravid uterus noted with single intrauterine gestation in cephalic position.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Random glucose",
+            "date": "Not specified",
+            "findings": "135 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HbA1c",
+            "date": "Not specified",
+            "findings": "5.2%",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Early GLT",
+            "date": "Not specified",
+            "findings": "134 mg/dL",
+            "changes_over_time": " rpt GLT 180 mg/dL"
+        },
+        {
+            "procedure_name": "GLT",
+            "date": "Not specified",
+            "findings": "180 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

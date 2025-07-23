@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bacteriological Culture",
+            "date": "Not specified",
+            "findings": "Bacteroides fragilis group detected; Reference range: 0.27 - 4.2",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Portable Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Right PICC tip is in a superficial vein off of the right subclavian vein. No pneumothorax. Heterogeneous opacity in the left lower lobe consistent with small pleural effusion. Right lung is clear without pleural effusion. Heart size, mediastinal contour, and hila are normal. No bony abnormality.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

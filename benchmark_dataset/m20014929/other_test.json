@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Pancreatic biopsy",
+            "date": "Not specified.",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT ABDOMEN WITH IV CONTRAST",
+            "date": "Not specified.",
+            "findings": "Interval development of a moderate right low-attenuation pleural effusion with increase in size of a moderate to large left pleural effusion. Moderate bibasilar dependent atelectasis noted. An 8-mm cystic lesion within the tail of the pancreas is identified. Persistent peripancreatic fat stranding consistent with acute inflammation. A multiloculated fluid collection with enhancing septa in the left anterior pararenal space and into the pelvis, measuring approximately 18 SI x 3.9 TRV x 3.3 AP cm.",
+            "changes_over_time": "There has been interval development of pleural effusions with an increase in size, and there is a stable cystic lesion in the pancreas."
+        }
+    ]
+}

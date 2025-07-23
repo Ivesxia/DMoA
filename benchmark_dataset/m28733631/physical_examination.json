@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "86 bpm",
+                "blood_pressure": "169/90 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": "Pleasant elderly woman in no apparent distress, no jaundice. Abdomen soft, tender epigastrium and right upper quadrant with positive tenderness, no rebound tenderness, no masses, no hernias. Chest clear to auscultation bilaterally.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

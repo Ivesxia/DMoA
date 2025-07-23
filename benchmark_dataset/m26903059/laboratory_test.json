@@ -1,0 +1,47 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "description": "The hepatic parenchyma appears within normal limits.",
+                    "contour": "smooth",
+                    "focal_mass": "none",
+                    "portal_vein": "patent with hepatopetal flow",
+                    "ascites": "none"
+                },
+                "bile_ducts": {
+                    "intrahepatic_dilation": "none",
+                    "CHD_measurement": "3 mm"
+                },
+                "gallbladder": {
+                    "stones": "none",
+                    "wall_thickening": "none"
+                },
+                "pancreas": {
+                    "visualization": "not well visualized, largely obscured by overlying bowel gas"
+                },
+                "spleen": {
+                    "echogenicity": "normal",
+                    "size": "9.3 cm"
+                },
+                "kidneys": {
+                    "right_kidney_size": "10.4 cm",
+                    "left_kidney_size": "10.3 cm",
+                    "hydronephrosis": "none"
+                },
+                "retroperitoneum": {
+                    "aorta_and_IVC": "within normal limits"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

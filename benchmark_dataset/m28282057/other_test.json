@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Colitis of entire length of colon.",
+            "changes_over_time": "Pending biopsies."
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Pending results.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "55 bpm",
+                "blood_pressure": "143/70 mmHg",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "HEENT": "Normocephalic, atraumatic",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm, Normal first and second heart sounds",
+                "abdominal": "Soft, diffusely tender to palpation but worse in left upper quadrant and epigastrium",
+                "GU/flank": "No costovertebral angle tenderness",
+                "extremities/back": "No cyanosis, clubbing or edema",
+                "skin": "No rash, Warm and dry",
+                "neurological": "Speech fluent"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

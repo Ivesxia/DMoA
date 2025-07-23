@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "New opacification of the right lung base silhouetting the right hemidiaphragm and right heart border without significant associated volume loss suggesting a moderate right pleural effusion. Blunting of the left costophrenic angle compatible with a small left pleural effusion. Streaky opacification of the left lung base likely reflects atelectasis. Surgical clips in the right upper quadrant are compatible with cholecystectomy.",
+            "changes_over_time": "In comparison to the remote prior study, new findings of opacification and pleural effusion are noted."
+        }
+    ]
+}

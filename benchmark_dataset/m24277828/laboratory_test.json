@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cultured Specimen",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test (specifically ALT)",
+            "date": "Not specified",
+            "findings": "53.0 IU/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen & Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "The liver demonstrates multiple round hypodense lesions, unchanged from prior exam consistent with cysts. The liver is diffusely hypodense, consistent with fatty infiltration. The gallbladder is minimally distended with significant wall thickening and surrounding fat stranding. Multiple gallstones are seen within the gallbladder.",
+            "changes_over_time": "The liver lesions are unchanged from prior exam."
+        }
+    ]
+}

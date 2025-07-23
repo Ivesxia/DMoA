@@ -1,0 +1,34 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.5 F",
+                "pulse": "72 bpm",
+                "blood_pressure": "155/85 mmHg",
+                "respiratory_rate": "97% on RA"
+            },
+            "relevant_findings": {
+                "general": "Elderly female sitting upright in NAD.",
+                "HEENT": "Sclera anicteric.",
+                "chest": "Normal respirations and breathing comfortably on room air. Lungs clear to auscultation bilaterally.",
+                "cardiovascular": "Regular rhythm. Normal S1, S2. No murmurs or gallops. JVP <5 cm.",
+                "abdomen": "Normal bowel sounds. She has tenderness to deep palpation of the RUQ. Equivocal ___ sign.",
+                "extremities": "No ankle edema.",
+                "neurological": "Alert, oriented x1-2. Limited fund of knowledge about today's events but remembers her son and health aid well. She is calm and pleasant. CN ___ intact. Speech and language are normal."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7 F",
+                "pulse": "80 bpm",
+                "blood_pressure": "154/72 mmHg",
+                "respiratory_rate": "99% on RA"
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild bibasilar atelectasis; normal heart size; mild left intrahepatic biliary dilation stable from prior CT; distended gallbladder with circumferential wall thickening, hyperemia, and substantial surrounding fat stranding compatible with acute cholecystitis; small amount of perihepatic fluid; pancreas normal; spleen normal with unchanged peripheral calcification; 1.6 cm right adrenal nodule stable; simple cysts in both kidneys; small hiatal hernia; extensive diverticulosis of the sigmoid colon; small volume free fluid in pelvis; no lymphadenopathy; no abdominal aortic aneurysm.",
+            "changes_over_time": "The mild left intrahepatic biliary dilation is stable from prior CT; the 1.6 cm right adrenal nodule is stable since unspecified."
+        }
+    ]
+}

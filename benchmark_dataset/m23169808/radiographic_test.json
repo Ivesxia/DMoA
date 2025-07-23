@@ -1,0 +1,74 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": {
+                "lung_bases": "grossly clear",
+                "liver": {
+                    "lesions": [
+                        {
+                            "size": "4 mm",
+                            "characteristics": "T2 hyperintense nonenhancing lesion in segment 2 consistent with biliary hamartomas/cysts"
+                        },
+                        {
+                            "size": "1.5 cm",
+                            "characteristics": "similar MRI characteristics in segment 4 consistent with biliary hamartomas/cysts"
+                        }
+                    ],
+                    "normal_morphology": true,
+                    "normal_signal_intensity": true,
+                    "no_steatosis": true,
+                    "trace_perihepatic_ascites": true,
+                    "no_concerning_focal_liver_lesion": true
+                },
+                "biliary": {
+                    "intrahepatic_biliary_dilatation": false,
+                    "extrahepatic_biliary_dilatation": false,
+                    "gallbladder": {
+                        "mildly_distended": true,
+                        "gallbladder_wall_edema": "marked",
+                        "small_gallstones": "better seen on prior ultrasound study"
+                    },
+                    "no_evidence_of_choledocholithiasis": true
+                },
+                "pancreas": {
+                    "lesions": [
+                        {
+                            "size": "5 mm",
+                            "characteristics": "T2 hyperintense nonenhancing lesion likely representing side-branch IPMN"
+                        },
+                        {
+                            "size": "4 mm",
+                            "number": 2,
+                            "characteristics": "T2 hyperintense nonenhancing lesions likely representing side-branch IPMNs"
+                        }
+                    ],
+                    "normal_signal_intensity_on_T1": true,
+                    "enhances_homogeneously": true,
+                    "normal_pancreatic_duct": true
+                },
+                "spleen": "not enlarged",
+                "adrenals": "normal",
+                "kidneys": {
+                    "nonenhancing_renal_lesions": "T2 hyperintense consistent with cysts",
+                    "largest_cyst": "12 mm left upper pole cyst",
+                    "normal_enhancement": true,
+                    "no_suspicious_lesions": true,
+                    "no_hydronephrosis": true
+                },
+                "bowel": "partially imaged loops of small and large bowel unremarkable",
+                "vasculature": {
+                    "abdominal_aorta": "normal in caliber",
+                    "major_branch_vessels": "patent",
+                    "portal_vein": "patent",
+                    "splenic_vein": "patent",
+                    "SMV": "patent"
+                },
+                "lymph_nodes": "no mesenteric or retroperitoneal lymphadenopathy",
+                "osseous_soft_tissue": "no abnormal marrow signal or focal suspicious osseous lesion"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

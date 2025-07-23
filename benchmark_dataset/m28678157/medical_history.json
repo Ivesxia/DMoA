@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Fever and diarrhea",
+        "history_of_present_illness": "Patient experienced diarrhea x2 around 8:30 PM with minor abdominal cramping. Developed shaking chills around 10 PM and fever at 11 PM.",
+        "past_medical_history": "Hypertension, hypothyroidism, osteoporosis, osteoarthritis, colonic polyps, lentigines, seborrheic keratosis, actinic keratosis, melanoma s/p excision.",
+        "family_history": "No history of colon cancer, no history of IBD.",
+        "social_history": "Not specified."
+    }
+}

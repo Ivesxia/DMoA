@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC count 18.5 (normal range 9.4 - 12.5)",
+            "changes_over_time": "Increased from 15 on day of discharge to 18.5."
+        },
+        {
+            "procedure_name": "Blood cultures",
+            "date": "Not specified",
+            "findings": "Positive for gram positive rods.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "Liver appears within normal limits; no focal liver mass; 4.3 cm oval avascular structure (sludge) near the neck of the gallbladder, with edema and thickening of the gallbladder wall up to 0.7 cm.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

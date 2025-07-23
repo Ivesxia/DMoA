@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "PVC (premature ventricular contraction)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Percutaneous cholecystostomy",
+            "date": "Not specified",
+            "findings": "Intact and draining bilious fluid; no erythema noted around the incision.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

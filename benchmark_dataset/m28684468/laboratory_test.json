@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Marked interval improvement in the pleural effusions with small residual effusion in the left base and some residual atelectasis at the right lung base. No focal liver lesions. The gallbladder is normal. The spleen, adrenals, kidneys, stomach, duodenum, and visualized large and small bowel appear normal. Marked decrease in the intra-abdominal fluid. An approximately 5.3 x 4.4 cm area of probable phlegmonous aggregate anteriorly in the right flank. The pancreas is diffusely enlarged with homogeneous enhancement without evidence of necrosis. Some interval decrease in the stranding posterior to the pancreas.",
+            "changes_over_time": "Marked interval improvement in the pleural effusions and marked decrease in intra-abdominal fluid."
+        },
+        {
+            "procedure_name": "VRE isolation",
+            "date": "Not specified",
+            "findings": "No VRE isolated.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

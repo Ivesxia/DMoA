@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "liver": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites.",
+                "bile_ducts": "There is no intrahepatic biliary dilation. The CBD measures 4 mm.",
+                "gallbladder": "Gallbladder is completely filled with stones, as evidenced by wall echo shadow sign. No obvious gallbladder wall thickening or pericholecystic fluid is identified.",
+                "pancreas": "Imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation, with portions of the pancreatic tail obscured by overlying bowel gas.",
+                "spleen": "Normal echogenicity, measuring 11.8 cm."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

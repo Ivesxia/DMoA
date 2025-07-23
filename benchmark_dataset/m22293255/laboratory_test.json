@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Inflamed blind-ending tubular structure in the right lower quadrant measuring approximately 11 mm in diameter with evidence of hyperdense material consistent with appendicoliths. No evidence of free air or drainable fluid collection. Normal liver, gallbladder, adrenal glands, spleen, pancreas, and kidneys. No bowel obstruction, mesenteric or retroperitoneal lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "Negative result.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

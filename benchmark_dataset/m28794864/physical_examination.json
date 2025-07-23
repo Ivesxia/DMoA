@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.3°F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "51/177 mmHg",
+                "respiratory_rate": "16 bpm"
+            },
+            "relevant_findings": {
+                "gen": "healthy male, NAD, no icterus",
+                "heent": "NC/AT, EOMI, PERRLA bilat., MMM, without cervical LAD",
+                "cor": "RRR without m/g/r, no JVD, no bruits",
+                "lungs": "CTA bilat.",
+                "abdomen": "+BS, soft, ND, tender at ___, +voluntary guarding at ___, no masses, mild focal percussion tenderness",
+                "extremities": "warm feet, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

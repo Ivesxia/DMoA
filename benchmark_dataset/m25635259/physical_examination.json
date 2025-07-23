@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Afebrile; General: Alert & oriented, No acute distress; HEENT: No scleral icterus, mucus membranes moist; CV: Regular rate and rhythm, No murmurs/gallops/rubs; Pulmonary: Clear to auscultation bilaterally, No wheezes/rhonchi/railroad; Abdominal: Soft, nondistended, focally tenderness to palpation just to right of umbilicus slightly toward McBurney's point, positive Rovsing's sign with palpation to left of umbilicus, positive obturator sign, negative psoas sign, no rebound or guarding, normoactive bowel sounds, no palpable masses; DRE: deferred by patient; Extremities: No edema, warm and well perfused.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

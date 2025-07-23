@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase of 6955, which is outside the normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "AST/ALT",
+            "date": "Not specified",
+            "findings": "AST 128, ALT 176, which indicates mild transaminitis and is outside normal ranges.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "Hematocrit of 46.9, indicating hemoconcentration.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bile Duct Ultrasound",
+            "date": "Not specified",
+            "findings": "CBD measures 5 mm (previously 4 mm), which indicates mild change.",
+            "changes_over_time": "CBD size increased from 4 mm to 5 mm."
+        },
+        {
+            "procedure_name": "Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "Several gallstones noted in the gallbladder with no pericholecystic free fluid, gallbladder is thin-walled and unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pancreas Ultrasound",
+            "date": "Not specified",
+            "findings": "Imaged portion of the pancreas appears mildly enlarged, with no masses or pancreatic ductal dilation.",
+            "changes_over_time": "Comparison to prior study shows mild enlargement."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder is somewhat difficult to evaluate given overlying bowel gas. Visualized portions appear distended with hyperechoic material most consistent with sludge. Some shadowing echogenic foci are likely small stones. The gallbladder wall is minimally thickened. There is pericholecystic fluid. No evidence of intra- or extra-hepatic biliary duct dilation. The common bile duct measures 5 mm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Physical Examination",
+            "date": "Not specified",
+            "findings": "Patient is lying on bed motionless and complaining of pain. Prefers to have knees flexed. No scleral icterus, mucous membranes dry. Clear to auscultation b/l, no wheezes or rhonchi. Hypoactive bowel sounds throughout. Tender to palpation in RUQ and epigastrium. Positive Murphy's sign. No rebound tenderness or involuntary guarding.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

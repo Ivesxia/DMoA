@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "A tubular structure in the expected region of the appendix measures up to 9 mm in caliber, highly suspicious for appendicitis. Small quantity of fluid in the right paracolic gutter. Prominent lymph nodes in the pericecal region, measuring up to 8 mm, likely reactive. Small-to-moderate quantity of free fluid in the pelvis. No evidence of abscess formation or free intraperitoneal air.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

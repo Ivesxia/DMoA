@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT Abdomen and Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "1 cm obstructing stone and layering sludge in the distal common bile duct with marked extrahepatic and intrahepatic biliary dilation. Distended gallbladder containing gallstones with thickened hyperemic wall and surrounding pericholecystic fluid. No evidence of perforation or abscess.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Left lower lobe opacity could represent pneumonia or possibly be due to atelectasis in the setting of low lung volumes. Interstitial prominence may suggest mild pulmonary edema.",
+            "changes_over_time": "Repeat PA and lateral at full inspiration could help clarify."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CTA PANCREAS W/ CTCP",
+            "date": "Not specified",
+            "findings": "The lung bases are clear. No significant abnormalities or calcifications in the pancreas. Enhancement of the liver parenchyma with multiple 1-5 mm scattered areas of hypoattenuation in the hepatic parenchyma. Minimal central intrahepatic biliary ductal dilatation. No extrahepatic biliary ductal dilatation. Normal gallbladder without gallstones. Normal enhancement of adrenal glands, spleen, pancreas, and kidneys. No peripancreatic fluid or fat stranding. No pancreatic ductal dilatation or signs of pancreatic divisum. Tiny 5-mm area of hypoattenuation in the left kidney, likely a simple cyst. Patent abdominal aorta, celiac axis, superior mesenteric artery, and normal bowel without significant lymphadenopathy. Osseous structures unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

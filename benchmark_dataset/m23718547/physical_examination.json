@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Afebrile, VSS",
+            "relevant_findings": "General: Alert and oriented times three, no acute distress. HEENT: No scleral icterus, mucous membranes moist. Cardiovascular: Regular rate and rhythm, normal S1, S2. Pulmonary: Clear to auscultation bilaterally, no labored breathing. Abdomen: Soft, nondistended, tenderness to palpation near incisional sites. Extremities: No edema, warm and well perfused.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "CT exam findings indicate a dilated appendix measuring 1.1 cm with mild surrounding fat stranding concerning for appendicitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

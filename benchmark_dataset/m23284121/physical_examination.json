@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99°F",
+                "heart_rate": "108 bpm",
+                "blood_pressure": "107/80 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "constitutional": "Abdomen tender",
+                "heent": "Normocephalic, atraumatic, pupils equal, round and reactive to light, oropharynx within normal limits",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Normal first and second heart sounds, regular rate and rhythm",
+                "abdominal": "Right lower quadrant tenderness, no rebound, no guarding",
+                "gu_flank": "No costovertebral angle tenderness",
+                "extremities_back": "No cyanosis, clubbing or edema",
+                "skin": "No rash",
+                "neurologic": "Speech fluent"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

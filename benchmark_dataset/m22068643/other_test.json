@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Diffuse common bile duct and common hepatic duct dilatation up to 15 mm. No distinct filling defects are seen. The pancreatic duct is normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endoscopic biopsy of biliary duct or sphincter of Oddi",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

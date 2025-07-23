@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "NG Lavage",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Guaiac Stool Test",
+            "date": "Not specified",
+            "findings": "Positive, dark stool initially; following GI evaluation, a large bowel movement with brown, guaiac-negative stool was noted.",
+            "changes_over_time": "Transition from guaiac positive dark stool to guaiac negative brown stool after the bowel movement."
+        },
+        {
+            "procedure_name": "CT Abdomen",
+            "date": "Not specified",
+            "findings": "Left adrenal nodule measuring 14 x 8 mm, several lesions in the kidneys, and mild distention of the gallbladder.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

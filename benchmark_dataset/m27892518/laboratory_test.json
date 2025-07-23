@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Enlarged and fluid-filled appendix with fecal material within the base measuring up to 2.1 cm at the base. Surrounding inflammatory fat stranding present. No evidence of extraluminal air or drainable fluid collection. Multiple small reactive lymph nodes in the right lower quadrant. Liver shows calcifications in the left lobe, no suspicious lesions identified. Other organs (pancreas, kidneys, spleen) normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture Test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "blood_pressure": "185/90 mmHg",
+                "heart_rate": "85 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "Awake, alert, no acute distress.",
+                "HEENT": "Pupils equal, round, reactive to light; extraocular movements intact; dry mucous membranes.",
+                "cardiovascular": "Regular rate and rhythm; grade III/VI systolic ejection murmur.",
+                "lungs": "Clear to auscultation bilaterally.",
+                "abdomen": "Soft, diffusely mildly tender to palpation, most tender in epigastrium, no rebound or guarding, normal bowel sounds.",
+                "extremities": "No bilateral edema."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

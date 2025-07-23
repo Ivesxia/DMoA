@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "117 bpm",
+                "blood_pressure": "117/70 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Obese female with frontal balding",
+                "chest": "Regular rate and rhythm",
+                "abdominal": "Obese abdomen with mild tenderness in right upper quadrant and epigastrium. Myomectomy scar at inferior abdomen."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

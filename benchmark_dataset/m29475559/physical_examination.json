@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2°F",
+                "heart_rate": "111 bpm",
+                "blood_pressure": "142/80 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, conversant, skin slightly flushed.",
+                "HEENT": "Mucous membranes moist, oropharynx clear, sclerae anicteric.",
+                "neck": "Supple, no lymphadenopathy.",
+                "cardiovascular": "Regular rate and rhythm, tachycardia present, S1 S2 auscultated, no murmurs, gallops, or rubs.",
+                "lungs": "Clear to auscultation bilaterally, no crackles or wheezing.",
+                "abdomen": "Soft, mildly distended, no tenderness to palpation, bowel sounds positive, liver edge not palpable, no suprapubic tenderness.",
+                "GU": "Deferred.",
+                "back": "No costovertebral angle tenderness bilaterally.",
+                "extremities": "No edema, no rash.",
+                "neurological": "Alert and oriented to person, place, and time, gait intact, grip strength symmetrical, no asterixis.",
+                "skin": "No rash, although skin slightly flushed."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Previous admission",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Urinalysis showed no leukocytes or nitrites, 6 WBC, few bacteria, with patient without urinary symptoms or systemic signs of infection.",
+            "changes_over_time": "Previous CT abdomen indicated abnormal parenchymal enhancement of the upper pole of the right kidney, concerning for pyelonephritis; however, subsequent examinations showed improvement and no current evidence of pyelonephritis."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laboratory Urine Culture",
+            "date": "Not specified",
+            "findings": "NO ENTERIC GRAM NEGATIVE RODS FOUND. NO SALMONELLA OR SHIGELLA FOUND.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolyte Panel",
+            "date": "Not specified",
+            "findings": "-2.0 mEq/L",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

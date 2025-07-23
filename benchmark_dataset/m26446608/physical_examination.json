@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "heart_rate": "78 bpm",
+                "blood_pressure": "120/65 mmHg",
+                "respiratory_rate": "17 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Well appearing, in no acute distress",
+                "HEENT": "Normocephalic, moist mucous membranes",
+                "CV": "Regular rate and rhythm",
+                "pulm": "Clear to auscultation bilaterally",
+                "GI": "Soft, mildly tender, nondistended, incisions appear clean, dry and intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Physical Exam",
+            "date": "Not specified",
+            "findings": "A&Ox3, pleasant and cooperative, nontoxic, NAD. Abdominal exam revealed soft, nondistended abdomen with very mild epigastric tenderness upon deep palpation. Well-healed lower midline incision without erythema, drainage, or hernia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiology Evaluation",
+            "date": "2 weeks ago",
+            "findings": "Patient is now 6 months post PCI, recommendation to hold Plavix 5 days before surgery and start two days after surgery. Optimal to continue aspirin throughout surgical course.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

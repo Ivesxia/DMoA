@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient has a history of fistulizing Crohn's disease and multiple obstructions. Symptoms of abdominal pain persisted after a recent discharge; upon return to the ED, the patient reported LUQ pain and weakness with feelings of dehydration. After returning home, she experienced persistent cramping abdominal pain similar to previous obstructive symptoms but was able to tolerate oral feeds and medications.",
+        "past_medical_history": "Crohn's disease with rectovaginal fistula, history of multiple bowel obstructions, prior colectomy, erythema nodosum, pyoderma gangrenosum, left lower extremity fracture, H. pylori, C. difficile infection, DVT associated with surgery, depression.",
+        "family_history": "Mother and cousin with Crohn's disease; mother with hypertension; father with heart disease. No family history of colorectal cancer.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Coagulation Test (e.g., PT)",
+            "date": "Not specified",
+            "findings": "PT: 26.2 sec (Reference Range: 22.0 - 35.0 sec)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound (U/S)",
+            "date": "Not specified",
+            "findings": "Showed cholelithiasis and mildly dilated CBD, and mildly elevated transaminases with normal bilirubin and lipase.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Single large gallstone within the gallbladder, common bile duct measures 7 mm, no thickening of gallbladder wall, no pericholecystic fluid, diffuse fatty infiltration in the liver with no focal lesions, normal spleen, kidneys, adrenal glands, and pancreas with no evidence of necrosis or fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

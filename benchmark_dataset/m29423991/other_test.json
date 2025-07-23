@@ -1,0 +1,33 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Severe duodenal edema distorting the major papilla; procedure aborted without cannulation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Open tracheostomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Wound vac change",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Physical Exam",
+            "date": "Not specified",
+            "findings": {
+                "general": "Anxious, mild distress from pain, diaphoretic.",
+                "cv": "Tachycardic. RRR, normal S1, S2. No m/r/g.",
+                "abdomen": "Distended/Obese, soft, mild tenderness. No rebound and guarding.",
+                "neuro": "Anxious, oriented x3. Normal bulk and tone."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

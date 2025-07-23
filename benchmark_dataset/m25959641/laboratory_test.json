@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Positive for growth",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "appendix": "Low-density collection at the tip of the appendix measuring 1.6 cm x 1.4 cm with surrounding inflammatory changes concerning for tip appendicitis with adjacent abscess formation.",
+                "liver": "Homogenous attenuation, no focal lesions.",
+                "gallbladder": "Within normal limits.",
+                "pancreas": "Normal attenuation, no focal lesions.",
+                "spleen": "Normal size and attenuation.",
+                "adrenals": "Normal in size and shape.",
+                "kidneys": "Normal and symmetric size with normal nephrogram.",
+                "stomach": "Unremarkable.",
+                "small bowel": "Normal caliber and wall thickness.",
+                "sigmoid colon": "Extensive diverticulosis without wall thickening.",
+                "pelvis": "No free fluid, urinary bladder unremarkable."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood test",
+            "date": "Not specified",
+            "findings": "9.0 mg/dL (within normal range: 8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "heart_rate": "84 bpm",
+                "blood_pressure": "118/55 mmHg",
+                "respiratory_rate": "24 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, sitting in bed, about to eat dinner",
+                "HEENT": "MMM, anicteric sclera, no conjunctival pallor",
+                "neck": "Supple without LAD",
+                "pulmonary": "Clear, no wheeze, rales, or rhonchi",
+                "cardiovascular": "RRR, normal S1/S2, no murmurs",
+                "abdominal": "+ BS, non-tender on left side, mild suprapubic tenderness, and tenderness on R-side. No hepato-splenomegaly. +CVA tenderness.",
+                "extremities": "Warm, no edema",
+                "neurological": "CN II-XII grossly intact, motor function grossly normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "69 bpm",
+                "blood_pressure": "117/69 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": "Moderate RLQ TTP without peritoneal signs, (+) R CVAT",
+            "changes_over_time": "Patient's pain is improved as she is able to move in the bed and is hungry for dinner."
+        }
+    ]
+}

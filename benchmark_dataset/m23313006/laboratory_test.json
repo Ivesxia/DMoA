@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Echogenic portal triads throughout the liver suggestive of periportal edema. Gallbladder wall is thickened and edematous. Gallbladder is distended and contains several small gallstones. Common bile duct measures 2 mm. Spleen measures 9.6 cm and is unremarkable. Pancreas is unremarkable without focal lesions. Portal vein is patent with normal hepatopedal flow. No evidence of intrahepatic or extrahepatic biliary duct dilation.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood test (Exact test not specified)",
+            "date": "Not specified",
+            "findings": "8.7 mg/dL, within reference range (8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Culture test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Tests (LFT)",
+            "date": "Not specified",
+            "findings": "Elevated LFTs",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Amylase",
+            "date": "Not specified",
+            "findings": "Elevated Amylase",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total Protein",
+            "date": "Not specified",
+            "findings": "3.6 g/dL (Ref range: 3.4 - 4.8 g/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdomen radiograph (upright and supine)",
+            "date": "Not specified",
+            "findings": "Presence of gastric band, free air, air-fluid levels in mid abdomen, no air-distended loops of small bowel. Soft tissues and osseous structures appear unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

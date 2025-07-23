@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "3.3 mg/dL (Normal range 2.7 - 4.5 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "10 mm hypodensity within segment III likely representing hemangioma; no appendicolith; the appendix is dilated and fluid-filled measuring 10 mm compatible with acute appendicitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

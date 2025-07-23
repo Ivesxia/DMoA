@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is hyperemic with thickened walls and measures 14 mm in diameter. There is a 2.8 x 2.5 x 2.6 cm round rim-enhancing fluid collection at the tip of the appendix consistent with an abscess due to appendiceal rupture. Extensive fat stranding in the right lower quadrant and significant wall thickening of the terminal ileum and cecum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar Puncture (CSF test)",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

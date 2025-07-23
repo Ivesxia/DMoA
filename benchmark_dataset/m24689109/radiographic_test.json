@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "AP single view of the chest shows a right-sided PICC line reaching the mid portion of the right-sided SVC. No pneumothorax. Previously described NG tube unchanged. No new pulmonary parenchymal abnormalities.",
+            "changes_over_time": "The examination has suffered from technical deficiencies compared to previous studies."
+        }
+    ]
+}

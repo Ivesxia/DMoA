@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "RLQ pain and BRBPR (bright red blood per rectum)",
+        "history_of_present_illness": "RLQ abdominal pain started suddenly and was sharp. No radiation. Lying down improves pain, worse with sitting up. Pain worsened when the patient tried to have a bowel movement, with one small BM last night causing reddish blood mixed in with stool. The patient reported loose bowel movements but no diarrhea. Positive nausea and vomited once.",
+        "past_medical_history": "Stage IA (T1N0) NSCLC, paroxysmal atrial fibrillation, mild pulmonary hypertension, elevated liver function tests of unknown etiology, osteoporosis, hypertension.",
+        "family_history": "Mother passed at age ___ and may have had hypertension. Father passed at age ___ with colon cancer. Sister has multiple health issues including possible chronic fatigue syndrome.",
+        "social_history": "Not specified."
+    }
+}

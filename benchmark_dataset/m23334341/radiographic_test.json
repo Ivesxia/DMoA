@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in size and echotexture. Complex hypoechoic lesion measuring 7 mm in diameter in the right lobe, may represent an atypical hemangioma. Gallbladder is distended with mural thickening and edema, several non-obstructing stones in the gallbladder body, and a 16 mm obstructing stone in the cystic duct. Small amount of pericholecystic fluid. Common bile duct dilated to 7 mm.",
+            "changes_over_time": "Progression noted from prior CT indicating a hyperdense lesion to a complex hypoechoic lesion in the current ultrasound."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100°F",
+                "heart_rate": "86 bpm",
+                "blood_pressure": "152/87 mmHg",
+                "respiratory_rate": "15 breaths per minute",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "constitutional": "Lying in bed, tired, non-toxic",
+                "head_ears_nose_throat": "NC/AT",
+                "respiratory": "CTAB",
+                "cardiovascular": "RRR",
+                "abdominal": "Mild RUQ tenderness to palpation",
+                "skin": "no rash, warm and dry",
+                "extremities": "No c/c/e",
+                "neurological": "speech fluent",
+                "psychological": "normal mood"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

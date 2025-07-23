@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The hepatic parenchyma appears within normal limits with a smooth contour. A 0.8 x 0.7 x 0.7 cm left liver cyst is noted. No focal liver mass. The main portal vein is patent. No ascites. Bile ducts show no intrahepatic biliary dilation; CBD measures 3 mm. The gallbladder is mildly distended with layering sludge and gallstones, a thickened edematous wall measuring 5 mm, and a small amount of pericholecystic free fluid. The pancreas appears normal. Kidneys are normal with multiple bilateral parapelvic cysts, no evidence of masses, stones, or hydronephrosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

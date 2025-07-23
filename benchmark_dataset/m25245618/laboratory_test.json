@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Platelet Count",
+            "date": "Not specified",
+            "findings": "PLTs were 9 (severe thrombocytopenia).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC = 22.7K, leukocytosis with lymphocyte predominance.",
+            "changes_over_time": "As of ___, WBCs were 60K, representing a tripling in WBC over 4 months."
+        },
+        {
+            "procedure_name": "Peripheral Blood Flow Cytometry",
+            "date": "Not specified",
+            "findings": "3% of cells were positive for CD38.",
+            "changes_over_time": "On subsequent evaluation, 50% of B cells were CD38 positive."
+        },
+        {
+            "procedure_name": "Peripheral Blood FISH analysis",
+            "date": "Not specified",
+            "findings": "Abnormalities for the D13S319 13q14.3 and P53 17p13.1 probes; 70/100 nuclei showed abnormalities.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Pleural Biopsy",
+            "date": "Not specified",
+            "findings": "Extensive granulation tissue along with mesothelial proliferation and hemosiderin-laden macrophages; no morphological evidence of large cell transformation or infection.",
+            "changes_over_time": "CLL was felt to be a ‘bystander’ and not the cause of the pleural effusion."
+        },
+        {
+            "procedure_name": "Serum Samples for Antibodies",
+            "date": "Not specified",
+            "findings": "Rise in ___ B5 antibody to a level of 32.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Culture Tests",
+            "date": "Not specified",
+            "findings": "Blood cultures, urine culture, CMV viral load, adenovirus PCR, EBV PCR, Parvo 19 DNA negative and HHV-8 PCR and respiratory viral screen and cultures were all negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest CT",
+            "date": "Not specified",
+            "findings": "Marked improvement with near complete resolution of ground glass lung opacities.",
+            "changes_over_time": "Prompting discontinuation of voriconazole therapy for aspergillosis."
+        },
+        {
+            "procedure_name": "IVIg Administration",
+            "date": "Not specified",
+            "findings": "Administered for hypogammaglobulinemia.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

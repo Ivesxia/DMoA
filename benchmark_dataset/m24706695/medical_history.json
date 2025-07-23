@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric pain",
+        "history_of_present_illness": "The patient has had on and off epigastric pain for 3 weeks, which became constant prior to admission. The pain started in the left upper quadrant (LUQ) but has radiated to a band around the abdomen. The patient experienced vomiting and possibly blood in the vomit, subjective fever and chills prior to coming to the hospital. Initially, the pain was intermittent but has progressed to a constant state.",
+        "past_medical_history": "Chronic Hepatitis C, Alcoholic cirrhosis with decompensation, history of hepatic encephalopathy, status post TIPS procedure, history of gallstones, asthma, COPD, sciatica, arthritis, gout.",
+        "family_history": "Father with alcohol abuse, mother with multiple sclerosis, hypertension, and history of alcohol abuse. No family history of liver disease.",
+        "social_history": "Not specified."
+    }
+}

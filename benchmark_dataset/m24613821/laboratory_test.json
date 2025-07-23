@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture for Escherichia coli",
+            "date": "Not specified",
+            "findings": "Escherichia coli",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Lung volumes are low and there is increased opacity at the left base, unclear how much of this is due to volume loss versus infiltrate. Possible early infiltrate in the right lower lung.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

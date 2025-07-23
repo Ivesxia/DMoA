@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver demonstrates diffuse increase in echogenicity compatible with fatty infiltration. No focal hepatic lesions are present. No intra or extrahepatic biliary duct dilatation is present with the common bile duct measuring 5 mm. Gallbladder contains numerous stones, without gallbladder wall thickening, pericholecystic fluid, or sonographic ___ sign. Small amount of ascites is present. Limited images of the right kidney demonstrates no hydronephrosis, with the kidney measuring 12.0 cm. Left kidney measures 12.8 cm without evidence of hydronephrosis. The spleen is not enlarged measuring 11.4 cm. Visualization of the pancreas was obscured by overlying bowel gas.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

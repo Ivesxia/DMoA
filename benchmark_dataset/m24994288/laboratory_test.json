@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver appears normal in echotexture with no focal liver lesions identified. The partially visualized pancreas appears unremarkable. There is no free fluid. Main portal vein is patent. There are multiple mobile gallstones within the gallbladder. The gallbladder appears mildly distended, but the gallbladder wall appears thin. The common bile duct shows at least two and possibly more stones and is dilated measuring up to 10 mm. There is no positive sonographic ___. The visualized right kidney appears unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

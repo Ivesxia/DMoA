@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "92 bpm",
+                "blood_pressure": "100/69 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": "AAOX3, NAD, RRR, CTAB, incision, CDI, no edema",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

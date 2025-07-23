@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Rectal exam",
+            "date": "Not specified",
+            "findings": "Rectal exam deferred",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic appendectomy",
+            "date": "Not specified",
+            "findings": "Performed for acute appendicitis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is dilated to 8 mm in caliber showing mucosal hyperemia and an 11 mm appendicolith; no evidence of perforation or abscess.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

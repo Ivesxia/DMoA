@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "No abdominal pain, nausea, vomiting or change in bowel habits.",
+        "history_of_present_illness": "Symptoms began acutely; the patient feels well and healthy. No recollection of events on the day of presentation.",
+        "past_medical_history": "Hypertension, vascular dementia, sarcoidosis, history of alcohol abuse (sober for over ___ years), history of stab injury to the back resulting in right leg weakness and left leg numbness.",
+        "family_history": "Mother with strokes, sister has sarcoidosis, mother with memory problems near death.",
+        "social_history": "History of alcohol abuse, currently sober."
+    }
+}

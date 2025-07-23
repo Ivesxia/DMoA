@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Unchanged cardiomegaly with retrocardiac atelectasis. Unchanged right-sided pleural effusion. No newly appeared parenchymal opacity.",
+            "changes_over_time": "The PICC line has obviously been retrieved by several centimeters."
+        }
+    ]
+}

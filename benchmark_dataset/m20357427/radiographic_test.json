@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Reduced effusions are seen bilaterally, with residual effusions present (left greater than right). Some left basilar atelectasis is seen, but there is no patchy consolidation. Pulmonary vascular markings, cardiac silhouette and mediastinal contours are normal.",
+            "changes_over_time": "Comparing the frontal view, there are reduced effusions."
+        }
+    ]
+}

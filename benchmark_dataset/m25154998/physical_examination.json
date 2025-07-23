@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.4°F",
+                "blood_pressure": "130/70 mmHg",
+                "heart_rate": "90 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "well-appearing female, comfortable, appropriate, no acute distress",
+                "HEENT": "Normocephalic/atraumatic, pupils equal, round, reactive to light, extraocular movements intact, sclerae anicteric, mucous membranes moist, oropharynx clear",
+                "neck": "supple, no cervical lymphadenopathy, no jugular venous distention",
+                "heart": "regular rate and rhythm, no murmurs, rubs, or gallops, normal S1-S2",
+                "lungs": "clear to auscultation bilaterally, no wheezes/rales/rhonchi, good air movement, respirations unlabored",
+                "chest": "tenderness to palpation over sternum",
+                "abdomen": "bowel sounds present, soft, non-distended, moderate tenderness to palpation in epigastric area with guarding, no rebound tenderness, no organomegaly",
+                "extremities": "warm, well-perfused, no edema, dorsalis pedis and posterior tibial pulses 2+ bilaterally",
+                "skin": "no rashes or lesions",
+                "neurological": "alert and oriented times three, cranial nerves II-XII grossly intact, muscle strength grossly intact throughout, sensation grossly intact throughout, steady gait"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopic Ultrasound (EUS) with Fine Needle Aspiration (FNA)",
+            "date": "Not specified",
+            "findings": "Multiloculated cystic mass arising from the tail of the pancreas measuring approximately 5.3 x 4.7 x 4.3 cm, previously 3.2 x 2 x 2.3 cm, with moderate fat stranding adjacent to this lesion consistent with inflammation.",
+            "changes_over_time": "The cystic mass increased in size from 3.2 x 2 x 2.3 cm to 5.3 x 4.7 x 4.3 cm, indicating progression."
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Both specimens taken were normal with no abnormal results.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

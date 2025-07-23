@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "blood_pressure": "116/74 mmHg",
+                "heart_rate": "75 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well appearing, no acute distress",
+                "abdomen": "Soft, positive tenderness to palpation in the periumbilical and left lower quadrant areas, normal bowel sounds, no guarding or rebound tenderness.",
+                "neurological": "Face symmetric, speech fluent",
+                "psychological": "Calm, cooperative"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

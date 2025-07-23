@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The background liver echotexture is normal. No focal liver lesions are demonstrated. The main portal vein is patent with the appropriate direction of flow. There is equivocal intrahepatic biliary ductal prominence. The gallbladder is distended, full of homogeneous sludge. The gallbladder wall is slightly edematous. The common duct is borderline in size, measuring 7 mm.",
+            "changes_over_time": "The distension and contents of the gallbladder are probably not significantly changed from the prior CT, given differences in technique."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CTA HEAD W&W/O C & RECONS",
+            "date": "Not specified",
+            "findings": "The cerebral sulci, ventricles, and extra-axial CSF-containing spaces are mildly enlarged. The gray-white matter differentiation is well preserved. No acute ischemic infarct, intracranial hemorrhage or space-occupying lesion. Periventricular confluent low attenuation consistent with small vessel ischemic disease. Cystic lesion involving the pineal gland with peripheral calcification likely represents a simple cyst and is unchanged. Visualized paranasal sinuses and mastoid air cells are clear.",
+            "changes_over_time": "The cystic lesion involving the pineal gland with peripheral calcification is unchanged since ___."
+        }
+    ]
+}

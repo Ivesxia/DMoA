@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Physical Examination",
+            "date": "Not specified",
+            "findings": "The patient appears uncomfortable, actively vomiting. Vital signs: Temp: 97.6, HR: 67, BP: 146/58, Resp: 20, O2 Sat: 100. Abdominal examination reveals soft abdomen with diffuse tenderness to palpation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix dilated to 14 mm with a hyperenhancing wall and adjacent fat stranding, consistent with acute appendicitis. Small hiatal hernia noted, otherwise unremarkable findings in abdomen and pelvis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

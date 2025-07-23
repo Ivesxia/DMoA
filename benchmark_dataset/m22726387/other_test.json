@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Serum electrolytes",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile by the Illumigene DNA amplification assay. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Small bilateral nonhemorrhagic pleural effusions with associated atelectasis; gallbladder contains a percutaneous cholecystostomy tube, not fully decompressed, with decreased inflammation. Previously seen ascites has decreased. Increased inflammation surrounding the pancreas.",
+            "changes_over_time": "Degree of inflammation around gallbladder has decreased; previously seen ascites has decreased; fluid around the pancreatic body and head is starting to organize."
+        }
+    ]
+}

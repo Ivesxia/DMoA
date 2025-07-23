@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9",
+                "heart_rate": "64",
+                "blood_pressure": "121/65",
+                "respiratory_rate": "18"
+            },
+            "relevant_findings": "AAOX3, NAD, RRR, CTAB soft, appropriately tender, mildly distended. Incision CDI with staples.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4",
+                "heart_rate": "64",
+                "blood_pressure": "121/65",
+                "respiratory_rate": "18"
+            },
+            "relevant_findings": "AAOX3, NAD, RRR, CTAB soft, appropriately tender, mildly distended. Incision CDI with staples.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

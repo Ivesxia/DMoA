@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3 F",
+                "heart_rate": "81 bpm",
+                "blood_pressure": "197/96 mmHg",
+                "respiratory_rate": "17 breaths/min"
+            },
+            "relevant_findings": {
+                "pulmonary": "Lungs clear to auscultation, bilaterally",
+                "cardiac": "Identifiable S1, S2, RRR",
+                "abdominal": "Mildly distended, hypoactive bowel sounds. Pain on deep palpation in RUQ, epigastric, and substernal areas, nontender elsewhere. Positive ___ sign. No rebound or guarding.",
+                "skin": "No jaundice noted.",
+                "extremities": "Pitting edema and lymphedema of both extremities, more dramatic on left."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

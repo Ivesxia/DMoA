@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "liver_hypodensity_1": "13-mm peripheral hypodensity in segment VII of the liver",
+                "liver_hypodensity_2": "6-mm hypodensity in the right lobe of liver",
+                "periportal_edema": "Mild periportal edema",
+                "kidney_hypodensity": "6-mm hypodensity in the left kidney, too small to characterize",
+                "appendix": "11-mm dilated tubular structure in the right lower quadrant with a 4-mm stone, concerning for an appendicolith within an inflamed appendix",
+                "gallbladder": "Unremarkable",
+                "stomach_small_bowel_colon": "Within normal limits",
+                "spleen_pancreas_adrenal_kidneys": "Within normal limits",
+                "no_fluid_collection": "No evidence for adjacent fluid collection or free air",
+                "pelvis": "Uterus, adnexa, bladder, and rectum within normal limits",
+                "osseous_lesions": "No concerning lytic or sclerotic osseous lesions detected"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

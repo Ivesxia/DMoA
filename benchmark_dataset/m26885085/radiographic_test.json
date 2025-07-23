@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Multiple hypoattenuating lesions in the liver, largest in segment ___ measuring about 5 x 4 cm, likely simple cysts; normal gallbladder; no biliary dilation; normal pancreas and spleen; bilateral normal adrenal glands; kidneys homogeneously enhancing, excreting urine, with bilateral renal lesions, largest at mid pole of left kidney measuring 3.5 cm, likely cysts; no lymphadenopathy; no free air or fluid; normal esophagus, stomach, small bowel with small hiatal hernia; dilated appendix measuring up to 9 mm with surrounding periappendiceal fat stranding; no evidence of diverticulitis; focal area of mural thickening in right lateral bladder wall concerning for bladder mass; moderate degenerative changes at lower lumbar spine.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

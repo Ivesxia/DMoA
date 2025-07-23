@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC count of 16 (elevated, normal range not provided)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Focal fat stranding and wall thickening along the lateral proximal ascending colon with thickening of the right lateroconal fascia. Epicenter of inflammation around the ascending colon. No diverticulum present.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory examination for coagulation profile",
+            "date": "Not specified",
+            "findings": "Coagulation profile abnormal; specific values not provided (8.9 mg/dL, normal range 8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

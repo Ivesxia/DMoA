@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "heart_rate": "99 bpm",
+                "blood_pressure": "139/79 mmHg",
+                "respiratory_rate": "24 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "NAD, uncomfortable, c/o pain, A&Ox3",
+                "HEENT": "EOMI, mmm, no scleral icterus",
+                "cardiovascular": "RRR",
+                "pulmonary": "No distress",
+                "abdominal": "Moderately firm, mildly distended, diffusely tender to palpation with guarding",
+                "extremities": "Warm, well-perfused, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

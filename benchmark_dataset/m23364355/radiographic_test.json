@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Lung volumes remain low, contributing to crowding of bronchovascular markings with exaggeration of the heart size. Bilateral interstitial opacities likely represent mild pulmonary edema. Small bilateral pleural effusions may be slightly increased. No pneumothorax is seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

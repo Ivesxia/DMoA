@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute abdominal pain.",
+        "history_of_present_illness": "Acute onset of abdominal pain starting at 10:00 PM. Pain initially localized in the left lower quadrant (LLQ) but radiating to the right lower quadrant (RLQ). The patient is feeling uncomfortable as pain is constant, preventing sleep and lying on the right side. Symptoms thought to be due to hunger but were exacerbated after eating. At 02:00 AM, the patient vomited twice and experienced sudden nausea, along with 6 episodes of loose bowel movements. There have been similar episodes over the past 6 months that resolved early. Denies fever, chills, shortness of breath, dysuria, or constipation.",
+        "past_medical_history": "Not specified.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "blood_pressure": "138/80 mmHg",
+                "heart_rate": "84 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "SaO2": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Obese female in no acute distress; alert and oriented x3",
+                "HEENT": "Moist mucous membranes; anicteric sclera",
+                "heart": "Regular rate and rhythm; normal S1 and S2",
+                "lungs": "Clear to auscultation bilaterally",
+                "abdomen": "Soft, non-distended with minimum right upper quadrant and epigastric tenderness; positive bowel sounds; no guarding or rebound tenderness",
+                "back": "No costovertebral angle tenderness"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

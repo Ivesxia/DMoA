@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "96 bpm",
+                "blood_pressure": "113/71 mmHg",
+                "respiratory_rate": "18 bpm"
+            },
+            "relevant_findings": {
+                "general": "NAD",
+                "cardiovascular": "RRR",
+                "pulmonary": "CTAB",
+                "abdominal": "soft, appropriately tender, non-distended",
+                "wound": "Dressings c/d/i",
+                "extremities": "No c/c/e"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

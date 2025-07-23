@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9 °F",
+                "heart_rate": "60 bpm",
+                "blood_pressure": "155/90 mmHg",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "abdominal": "Soft, tender to palpation in the RUQ with a positive ___ sign; no rebound tenderness or guarding",
+                "cardiovascular": "NAD RRR",
+                "respiratory": "CTA",
+                "general": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4",
+                "heart_rate": "102",
+                "blood_pressure": "103/59",
+                "respiratory_rate": "21",
+                "oxygen_saturation": "97% on 2L"
+            },
+            "relevant_findings": {
+                "general": "AOx1, lethargic, arousable to loud voice, moving all extremities",
+                "heent": "Sclera icterus",
+                "neck": "Supple, JVP not elevated, no LAD",
+                "lungs": "Clear to auscultation bilaterally, no wheezes, rales, ronchi",
+                "cardiovascular": "SEM at LUSB",
+                "abdomen": "+TTP in RUQ with guarding, no organomegaly or ascites noted",
+                "neurological": "+asterixis and upgoing toes"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

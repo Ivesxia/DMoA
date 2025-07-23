@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Afebrile, HDS, VSS",
+            "relevant_findings": {
+                "General": "AOX3, NAD",
+                "Neuro": "No focal deficits",
+                "HEENT": "Normocephalic, atraumatic",
+                "CV": "HDS, RRR, no murmurs",
+                "Pulm": "CTAB, no wheezing",
+                "GI": "S/ Appropriate TTP/ non distended",
+                "Extre": "No edema or cyanosis"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "INR 8",
+            "relevant_findings": "Significant episodes of nose bleed.",
+            "changes_over_time": "Worsening pain that migrated from midabdomen to RLQ over the week."
+        }
+    ]
+}

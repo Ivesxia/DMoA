@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "169.0 IU/L (reference range: 94.0 - 250.0 IU/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Liver is normal in size and morphology; 2 T2 hyperintense nonenhancing hepatic lesions measuring 3 mm, consistent with biliary hamartomas or cysts. The gallbladder is decompressed with possible cystic changes in the gallbladder fundus. The spleen is enlarged, measuring 17 cm; unchanged since previous evaluation.",
+            "changes_over_time": "The spleen size is noted to be unchanged since previous evaluation."
+        }
+    ]
+}

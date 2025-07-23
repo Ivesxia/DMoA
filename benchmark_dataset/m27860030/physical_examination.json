@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "heart_rate": "81 bpm",
+                "blood_pressure": "139/66 mmHg",
+                "respiratory_rate": "16 breaths/minute",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Awake, alert, cooperative, and pleasant. No apparent distress.",
+                "HEENT": "PERRL, EOMI, oral cavity clear, no lesions.",
+                "cardiovascular": "Regular rate and rhythm, normal S1, S2.",
+                "pulmonary": "Clear to auscultation bilaterally. No wheezes or crackles.",
+                "abdominal": "Moderately distended, tenderness to palpation in RUQ and epigastric region, no rebound tenderness, no guarding, normoactive bowel sounds.",
+                "extremities": "No edema, 2+ dorsalis pedis pulses."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

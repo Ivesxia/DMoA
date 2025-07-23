@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Minimal bibasilar atelectasis in the lungs; small pericardial effusion; liver, spleen, right kidney and pancreas unremarkable; gallbladder wall edema noted; postoperative findings in surgical beds; small amount of fluid with air focus in anterior abdominal wall; no free air present.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test (valuestr_x)",
+            "date": "Not specified",
+            "findings": "9.8 mg/dL, within normal range (8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbiology test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Neurosurgical evaluation",
+            "date": "Not specified",
+            "findings": "No signs of infection at incision.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate test",
+            "date": "Not specified",
+            "findings": "Lactate of 3.9.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "White blood cell count test",
+            "date": "Not specified",
+            "findings": "White count of 14.8 with 90% neutrophils.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

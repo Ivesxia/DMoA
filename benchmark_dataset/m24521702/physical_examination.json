@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "107/55 mmHg",
+                "heart_rate": "147 bpm",
+                "respiratory_rate": "35",
+                "oxygen_saturation": "94% on 2 L NC",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Moderate distress",
+                "cardiovascular": "Tachycardic and mildly hypotensive",
+                "respiratory": "Tachypneic",
+                "gastrointestinal": "Severely tender to palpation in RUQ and RLQ; Distended"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

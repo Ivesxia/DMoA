@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Echogenic liver consistent with fatty infiltration. No evidence of intrahepatic or extrahepatic biliary duct dilation. Common bile duct measures 3 mm. At least three mobile echogenic focuses within the gallbladder consistent with gallstones. Gallbladder is normal without evidence of gallbladder wall thickening, dilation or pericholecystic fluid. The visualized portion of the pancreas is unremarkable. Spleen measures 11 cm with homogeneous echotexture. Right and left kidneys are normal without masses, hydronephrosis, or stones.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "NEG.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

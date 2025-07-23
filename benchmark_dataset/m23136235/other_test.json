@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP with sphincterotomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic cholecystectomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of the abdomen",
+            "date": "Not specified",
+            "findings": "The liver demonstrates normal echotexture, without focal lesions. There is no intra- or extra-hepatic biliary dilatation. The common bile duct is normal, measuring 3 mm. Multiple small gallstones are seen in a contracted gallbladder. There is no evidence of gallbladder wall thickening or pericholecystic fluid. The imaged portion of the head and body of the pancreas are normal. The main portal vein has normal hepatopetal flow.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

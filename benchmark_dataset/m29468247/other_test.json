@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar Puncture",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria Gonorrhoeae by PCR.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "The appendix is mildly dilated to 9 mm with minimal wall thickening but no periappendiceal stranding. There is air and fluid within the lumen, but no oral contrast is seen. The remainder of the abdominal organs and structures appear normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

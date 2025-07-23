@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver function test",
+            "date": "Not specified",
+            "findings": "AST 57 (mild elevation), ALT 67 (mild elevation), TBili 1.5 (elevation), Alk phos 317 (moderate elevation)",
+            "changes_over_time": "AST 338, ALT 318, Alk phos 812, TBili 4.3; Hgb increased from 7.8 to 8.1"
+        },
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": ">100K Klebsiella pneumoniae",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Minimal dilatation of common bile duct up to 7 mm; kidneys normal in size with bilateral simple cortical cysts, no evidence of focal renal lesions",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

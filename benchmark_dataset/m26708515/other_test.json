@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Portable abdominal radiograph",
+            "date": "Not specified",
+            "findings": "Mildly dilated air-filled loops of small and large bowel consistent with ileus.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "Heart size, mediastinal and hilar contours are normal. Lungs and pleural surfaces are clear. No acute skeletal findings.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

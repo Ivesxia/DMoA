@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Lung bases demonstrate minimal dependent atelectasis without pleural or pericardial effusion. The liver is normal in attenuation without focal lesion, intra- or extra-hepatic biliary ductal dilatation. The portal and hepatic veins appear patent. The gallbladder is decompressed. The pancreas, spleen, adjacent splenule, and bilateral adrenal glands are unremarkable. The kidneys enhance and excrete contrast symmetrically without hydronephrosis. The stomach and small bowel are normal. At the base of the cecum, there is asymmetric mural thickening and stranding within the adjacent fat. A rounded hyperenhancing focus is noted, which may reflect the wall of the diverticulum. The appendix is seen and normal. Right lower quadrant mesenteric nodes are slightly prominent and likely reactive in etiology. No free air or free fluid in the abdomen. The bladder, prostate, and rectum are unremarkable. No pelvic adenopathy or free fluid. No lytic or sclerotic bony lesion concerning for osseous malignant process.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

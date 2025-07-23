@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Small bilateral pleural effusions with adjacent compressive atelectasis. Acute peripancreatic fluid collections with the largest measuring 1.5 x 3.8 cm and another larger pocket measuring approximately 2.5 x 7.3 cm, which has increased significantly in size from previous. Small amount of free fluid in the pelvis. Normal liver, spleen, kidneys, and adrenals.",
+            "changes_over_time": "The larger pocket of peripancreatic fluid has increased significantly in size from previous."
+        }
+    ]
+}

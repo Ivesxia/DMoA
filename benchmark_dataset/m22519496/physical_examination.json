@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "heart_rate": "75 bpm",
+                "blood_pressure": "152/84 mmHg",
+                "respiratory_rate": "22 breaths per minute"
+            },
+            "relevant_findings": {
+                "general": "Uncomfortable",
+                "HEENT": "Normocephalic, atraumatic",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm, Normal first and second heart sounds",
+                "abdominal": "Normal bowel sounds, soft, tenderness to palpation in the epigastrium and in the right upper quadrant, nondistended, no peritoneal signs",
+                "rectal": "Digital rectal exam-negative stool",
+                "GU/Flank": "No costovertebral angle tenderness",
+                "neurological": "Speech fluent",
+                "psychological": "Normal mood, Normal mentation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

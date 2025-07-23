@@ -1,0 +1,56 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "blood_pressure": "114/62 mmHg",
+                "heart_rate": "88 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "RA",
+                "date_recorded": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing man in NAD, comfortable, pleasant, and cooperative.",
+                "heent": "NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear, small healed lac on upper inner lip.",
+                "neck": "Supple, no thyromegaly, no JVD.",
+                "lungs": "CTA bilat, no r/rh/wh, good air movement, resp unlabored, no accessory muscle use.",
+                "heart": "RRR, no MRG, nl S1-S2.",
+                "abdomen": "Midline healed surgical scar with 2cm erythematous area above umbilicus with mild skin breakdown, NABS, soft, obese abdomen, moderately distended, abdomen nontender, no masses or HSM, no rebound/guarding.",
+                "extremities": "L BKA, WWP, no c/c/e, 2+ peripheral pulses (radials, DPs).",
+                "skin": "2cm erythematous area with mild skin breakdown.",
+                "lymph": "No cervical, axillary, supraclavicular adenopathy.",
+                "neuro": "Awake, A&Ox3, CNs II-XII grossly intact, muscle strength ___ throughout, sensation grossly intact throughout."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "heart_rate": "102 bpm",
+                "blood_pressure": "136/64 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% on RA",
+                "date_recorded": "Not specified"
+            },
+            "relevant_findings": {
+                "abdominal_examination": "Tender abdomen but not acute, rectal exam guaiac negative."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Transfer note",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "heart_rate": "122 bpm",
+                "blood_pressure": "122/58 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "91% on RA",
+                "date_recorded": "Not specified"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Heart rate increased from 88 bpm on admission to 122 bpm at transfer."
+        }
+    ]
+}

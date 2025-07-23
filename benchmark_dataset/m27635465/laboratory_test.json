@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Hematocrit",
+            "date": "Not specified",
+            "findings": "HCT 24.5 on admission; HCT 28.3 on transfer.",
+            "changes_over_time": "Increased from 24.5 to 28.3."
+        },
+        {
+            "procedure_name": "INR",
+            "date": "Not specified",
+            "findings": "INR 17.8 on admission; increasing INR noted on repeat labs.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Creatinine 4.0 on admission; worsened to 4.2 on repeat labs.",
+            "changes_over_time": "Increased from 4.0 to 4.2."
+        },
+        {
+            "procedure_name": "White Blood Cell Count (WBC)",
+            "date": "Not specified",
+            "findings": "WBC count 11.0 at the time of transfer.",
+            "changes_over_time": "New bandemia increased from 39% to 63% two days prior to transfer."
+        },
+        {
+            "procedure_name": "Bilirubin",
+            "date": "Not specified",
+            "findings": "Bilirubin level up to 7.8, etiology unknown.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "Coagulase-negative Staphylococcus in 1 bottle of blood cultures.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

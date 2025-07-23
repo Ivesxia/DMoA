@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Marked gallbladder wall thickening, with hyperemic wall; multiple shadowing gallstones; positive sonographic sign; liver adjacent to gallbladder fossa hypoechoic, likely reactive/edema; no intra- or extra-hepatic biliary dilatation; 1.5 x 2.0 x 1.9 cm hyperechoic lesion in the right lobe of the liver; 2.6 x 1.7 x 2.1 cm hypoechoic structure in the right kidney, likely a cyst.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic cholecystectomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

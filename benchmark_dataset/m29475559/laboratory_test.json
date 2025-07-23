@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "Negative for infection. No leukocytes or nitrites; 6 WBC; few bacteria.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis",
+            "date": "Not specified",
+            "findings": "No evidence of focal pyelonephritis or infarction. One large sigmoid diverticulum appears acutely inflamed. Liver exhibits nodular heterogeneous appearance consistent with cirrhosis and evidence of portal hypertension including splenomegaly (15 cm). Thrombus within the right portal vein unchanged; no evidence of hepatocellular carcinoma.",
+            "changes_over_time": "Previously seen hypoenhancement of the right kidney is no longer evident, which may have reflected a focal infection. Previous possible thrombus within the central portion of the left portal vein is no longer evident."
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "ENTEROCOCCUS SP. detected.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

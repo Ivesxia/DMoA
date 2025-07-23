@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The liver is of normal signal on T1 and T2 weighted imaging, with three small high T2 signal lesions consistent with simple cysts. The largest measures 15 mm in segment 2. No suspicious liver lesions. The CBD measures 5 mm, no intraductal filling defects. There is sludge with probable tiny calculi within the gallbladder. The gallbladder wall is thickened and edematous. The pancreas is atrophic but enhances normally with multiple small cystic lesions, likely representing small intraductal pancreatic mucinous neoplasms. The spleen and adrenal gland are unremarkable. The kidneys enhance normally with several simple cysts. No upper abdominal or retroperitoneal lymphadenopathy. The visualized bowel is unremarkable. Two foci of pleural thickening are noted at the right lung base with atelectasis at the left base.",
+            "changes_over_time": "The gall-bladder wall was thickened and edematous as demonstrated on prior CT and ultrasound, consistent with acute cholecystitis."
+        }
+    ]
+}

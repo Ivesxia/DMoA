@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated to 11 mm with enhancing thickened walls and mild periappendiceal stranding. No intra-abdominal fluid collection or pneumoperitoneum. The base of the cecum is not inflamed. The visualized heart is normal. Lung bases are clear. No pericardial or pleural effusion. The liver, gallbladder, intra- and extra-hepatic bile ducts, pancreas, spleen, adrenal glands, kidneys, and ureters are normal. Incidentally noted 6 mm accessory spleen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test: No Growth",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test: Creatinine",
+            "date": "Not specified",
+            "findings": "1.8 mg/dL (Reference range: 2.7 - 4.5 mg/dL) - Outside normal range.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "96",
+                "blood_pressure": "154/80",
+                "heart_rate": "18",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "comfortable",
+                "HEENT": "anicteric sclera",
+                "cardiovascular": "RRR, no murmurs",
+                "pulmonary": "clear bilaterally",
+                "abdominal": "soft, TTP RUQ, Negative murphys; midline scar hypertrophic",
+                "extremities": "WWP, moves all extremities spontaneously"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "radiographic": "Mildly dilated air-filled loops of small and large bowel consistent with ileus; drain terminates in the right upper quadrant; skin staples noted across the right upper quadrant and mid abdomen."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

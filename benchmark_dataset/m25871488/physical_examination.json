@@ -1,0 +1,55 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1 F",
+                "heart_rate": "65 bpm",
+                "blood_pressure": "155/91 mmHg",
+                "respiratory_rate": "16 bpm",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified",
+                "general": "Well appearing, in no distress",
+                "HEENT": "EOMI, pale conjunctiva, anicteric sclera",
+                "neck": "No thyromegaly",
+                "cardiovascular": "Regular rate, no murmur, rubs or gallops, normal S1/S2",
+                "lungs": "CTA bilaterally",
+                "abdomen": "Mild tenderness to deep palpation over lower abdomen, hyperactive bowel sounds, no hepatosplenomegaly",
+                "extremities": "No clubbing/cyanosis/edema"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7 F",
+                "heart_rate": "94 bpm",
+                "blood_pressure": "122/72 mmHg",
+                "respiratory_rate": "15 bpm",
+                "oxygen_saturation": "95% RA"
+            },
+            "relevant_findings": {
+                "general": "Well appearing, in no distress",
+                "HEENT": "EOMI, pale conjunctiva, anicteric sclera",
+                "neck": "No thyromegaly",
+                "cardiovascular": "Regular rate, no murmur, rubs or gallops, normal S1/S2",
+                "lungs": "CTA bilaterally",
+                "abdomen": "Mild tenderness to deep palpation over lower abdomen, hyperactive bowel sounds, no hepatosplenomegaly",
+                "extremities": "No clubbing/cyanosis/edema"
+            },
+            "changes_over_time": {
+                "heart_rate": "Increased from 65 bpm to 94 bpm",
+                "blood_pressure": "Decreased from 155/91 mmHg to 122/72 mmHg",
+                "temperature": "Decreased from 98.1 F to 97.7 F",
+                "respiratory_rate": "Decreased from 16 bpm to 15 bpm",
+                "oxygen_saturation": "Decreased from 100% RA to 95% RA"
+            }
+        }
+    ]
+}

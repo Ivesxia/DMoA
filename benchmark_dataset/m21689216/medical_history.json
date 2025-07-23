@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Worsening abdominal pain",
+        "history_of_present_illness": "The patient has a history of chronic abdominal pain that worsened and led to evaluation. Symptoms have persisted for the last week and have caused the patient to be unable to tolerate oral intake. The patient has visited the emergency department three times during this week for the same pain. Previous imaging (CT abdomen/pelvis and RUQ ultrasound) did not provide an explanation for the pain.",
+        "past_medical_history": "B12 deficiency/Pernicious anemia; Fibroids; Hypertension; Hypothyroidism; Insomnia; Anemia; Depression; Posttraumatic stress disorder; Vitamin D deficiency; Pubic rami fracture; Rectal bleeding; Ovarian cyst.",
+        "family_history": "Not specified.",
+        "social_history": "Estranged from family. The patient is of ___ ethnic descent."
+    }
+}

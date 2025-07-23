@@ -1,0 +1,49 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "appearance": "normal limits",
+                    "contour": "smooth",
+                    "mass": "no suspicious mass",
+                    "hemangioma": {
+                        "size": "3.0 x 1.9 x 2.6 cm",
+                        "location": "segment 2"
+                    },
+                    "portal_vein": "patent with hepatopetal flow",
+                    "ascites": "none"
+                },
+                "bile_ducts": "no intrahepatic biliary dilation",
+                "common_duct": "3 mm",
+                "gallbladder": {
+                    "stones": {
+                        "size": "up to 11 mm",
+                        "impaction": "not impacted"
+                    },
+                    "wall_edema": "none",
+                    "cholecystic_fluid": "none"
+                },
+                "pancreas": "unremarkable but minimally visualized",
+                "spleen": {
+                    "echogenicity": "normal",
+                    "length": "11.1 cm"
+                },
+                "kidneys": {
+                    "hydronephrosis": "none",
+                    "right_kidney": "10.0 cm",
+                    "left_kidney": "11.0 cm"
+                },
+                "retroperitoneum": "within normal limits"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbiology examination",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

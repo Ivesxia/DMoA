@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The pancreas appears full with significant peripancreatic stranding and small amounts of fluid consistent with pancreatitis. No pancreatic ductal dilatation, normal caliber CBD. A small punctate hypodense lesion in segment II of the liver, likely a cyst. No other focal liver lesions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

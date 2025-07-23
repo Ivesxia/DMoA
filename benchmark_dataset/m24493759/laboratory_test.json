@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 2676, which is outside normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ALT",
+            "date": "Not specified",
+            "findings": "ALT 276, which is outside normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "AST",
+            "date": "Not specified",
+            "findings": "AST 435, which is outside normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total Bilirubin (TBili)",
+            "date": "Not specified",
+            "findings": "TBili 2.2, which is outside normal range compared to 1.0 on discharge last month.",
+            "changes_over_time": "Increased from 1.0 last month to 2.2."
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate 1.0, which is within normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Mild atrophy of the left hepatic lobe, interval resolution of hepatic enhancement at the gallbladder fossa, concerns for cholangitis, and interval improvement of gallbladder wall thickening.",
+            "changes_over_time": "Interval improvement in gallbladder wall thickening and surrounding inflammatory changes."
+        }
+    ]
+}

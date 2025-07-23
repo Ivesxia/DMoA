@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Sudden onset of diffuse abdominal pain radiating to the back. The pain has been constant but improving gradually overnight, with no alleviating or exacerbating factors.",
+        "past_medical_history": "1. Coronary artery disease status post myocardial infarctions x 2, status post percutaneous coronary intervention with stent placement. 2. Hypertension. 3. Elevated cholesterol. 4. Osteopetrosis imperfecta.",
+        "family_history": "Not specified.",
+        "social_history": "Non-contributory."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Mixed Bacterial Flora Culture",
+            "date": "Not specified",
+            "findings": "8.6 mg/dL (Reference Range: 8.4 - 10.3 mg/dL), Mixed Bacterial Flora (>= 3 colony types), consistent with skin and/or genital contamination.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen & Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "The appendix is hyperemic and dilated measuring up to 10 mm; otherwise, findings are largely unremarkable with no evidence of perforation or fluid collection.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

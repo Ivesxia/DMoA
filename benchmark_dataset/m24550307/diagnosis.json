@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Pancreatitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with symptoms consistent with pancreatitis, including general malaise, abdominal discomfort, and chest pain that radiated to the stomach. The ultrasound findings showed a normal pancreas, but the clinical presentation and history of hyperparathyroidism and related surgery suggested pancreatitis as a primary issue."
+    }
+}

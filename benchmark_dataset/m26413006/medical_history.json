@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain.",
+        "history_of_present_illness": "The patient reports sudden onset abdominal pain after his morning run yesterday. This pain began in the right lower quadrant and was associated with fevers. There was no nausea, vomiting, diarrhea, or constipation.",
+        "past_medical_history": "Seborrheic dermatitis, seborrheic keratosis, pilonidal cyst removal at age ___",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

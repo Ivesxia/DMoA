@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver demonstrates no focal abnormality, suggestion of increased hepatic echotexture, no definite fatty infiltration compared to the recent CT. No intrahepatic biliary ductal dilatation. The common bile duct is mildly prominent at approximately 6 mm, overall less dilated compared to a previous measurement of 1 cm. The gallbladder appears normal without evidence of stones. The head and body of the pancreas are unremarkable, though the tail is poorly evaluated. Liver parenchyma is mildly heterogeneous, but no evidence of fatty infiltration.",
+            "changes_over_time": "The common bile duct was 1 cm previously and is now 6 mm, indicating a reduction in dilation."
+        },
+        {
+            "procedure_name": "PTT (Partial Thromboplastin Time)",
+            "date": "Not specified",
+            "findings": "PTT is 27.6 seconds, which is within the normal range (22.0 - 35.0 seconds).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

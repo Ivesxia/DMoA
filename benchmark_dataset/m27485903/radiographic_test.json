@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated to 12 mm with a thickened wall and adjacent fat stranding. No evidence of obstruction or wall thickening in the small and large intestine. No lymphadenopathy, free air, or fluid noted. A small well-circumscribed area of hypodensity in the liver likely represents a cyst.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

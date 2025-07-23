@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Small bilateral pleural effusions with associated compressive atelectasis, unchanged. The gallbladder surgically absent. Fluid in the cholecystectomy bed has decreased since the prior CT. A small amount of perihepatic ascites, unchanged. Evaluation limited by motion degradation, streak artifact, and patient body habitus.",
+            "changes_over_time": "Fluid in the cholecystectomy bed has decreased since the prior CT."
+        }
+    ]
+}

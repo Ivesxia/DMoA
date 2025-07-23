@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bone marrow biopsy",
+            "date": "Not specified",
+            "findings": "Approximately 76% plasma cells; aspirate consistent with the diagnosis of multiple myeloma.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thoracentesis",
+            "date": "Not specified",
+            "findings": "Left pleural effusion; cultures came back negative from this fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

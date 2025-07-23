@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Crampy abdominal pain, nausea, and vomiting.",
+        "history_of_present_illness": "Symptoms began a few days prior to presentation, with abdominal pain mostly periumbilical and right-sided. The patient has been vomiting non-stop for 3 days, initially green bile which has turned to brown fluid. There was a very small bowel movement yesterday; however, no flatus has been passed for 2 days. The pain worsened that morning prompting the ED visit.",
+        "past_medical_history": "Stage Ib malignant melanoma, GERD, basal cell carcinoma. Past surgeries include wide excision of left back melanoma, left axillary sentinel lymph node biopsy, left cervical sentinel node biopsy, vocal cord surgery, left shin basal cell carcinoma resection, left cheek basal cell carcinoma resection.",
+        "family_history": "Brother with melanoma; no history of colon cancer.",
+        "social_history": "Not specified."
+    }
+}

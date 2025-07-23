@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "81 bpm",
+                "blood_pressure": "134/88 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well appearing/well developed, no acute distress.",
+                "cardiovascular": "Regular rate and rhythm.",
+                "pulmonary": "Clear to auscultation bilaterally.",
+                "abdomen": "Soft, non-distended/non-tender; site of percutaneous tube without erythema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

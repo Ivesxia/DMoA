@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "heart_rate": "98 bpm",
+                "blood_pressure": "128/82 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Anxious, uncomfortable",
+                "heart": "Regular rate and rhythm (RRR)",
+                "lungs": "Clear to auscultation bilaterally (CTAB)",
+                "abdomen": "Soft, non-distended, tenderness to palpation (TTP) in right lower quadrant (RLQ), positive Rovsing's sign",
+                "extremities": "Warm, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

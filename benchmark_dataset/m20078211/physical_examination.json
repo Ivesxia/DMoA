@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "heart_rate": "77 bpm",
+                "blood_pressure": "160/80 mmHg",
+                "respiratory_rate": "20",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "A&Ox3": "Alert and oriented times three",
+                "NAD": "No acute distress",
+                "Heart": "Regular rate and rhythm",
+                "Lungs": "Clear to auscultation bilaterally",
+                "Abdomen": "Soft, non-distended, tender to palpation in right lower quadrant, no guarding or rebound, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

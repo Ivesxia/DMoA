@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ERCP BILIARY&PANCREAS",
+            "date": "Not specified",
+            "findings": "Cannulation of the biliary duct demonstrates no intra- or extra-hepatic biliary ductal dilation. A stone described at approximately 6 mm per report is seen in the lower common duct.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION. 8.5 mg/dL, within normal range.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

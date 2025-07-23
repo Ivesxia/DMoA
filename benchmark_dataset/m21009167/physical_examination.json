@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "blood_pressure": "126/71 mmHg",
+                "heart_rate": "64 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% on 3L NC"
+            },
+            "relevant_findings": {
+                "general": "Comfortable appearing, sitting up in bed, no distress.",
+                "HEENT": "Pupils equal and reactive, no scleral icterus or injection, moist mucous membranes.",
+                "neck": "Unable to visualize JVP.",
+                "cardiac": "S1/S2 regular with no obvious murmur, rub or S3/S4.",
+                "lungs": "Clear bilaterally.",
+                "abdomen": "Significant TTP in LLQ, especially near drain. Drain site non-erythematous. Green purulent material in drain bulb and near drain insertion site.",
+                "extremities": "Mild edema in bilateral lower extremities.",
+                "skin": "Warm and dry.",
+                "neurologic": "A+Ox3, grossly normal strength and gait, conjugate gaze, appropriate affect."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "heart_rate": "67 bpm",
+                "blood_pressure": "130/47 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% on 4L NC"
+            },
+            "relevant_findings": "Abdomen diffusely tender with no rebound or guarding. Drain bulb with purulent material, nonbloody. Skin surrounding the drain is nonerythematous with a small amount of pus present since 'day 1.'",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

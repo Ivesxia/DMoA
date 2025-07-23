@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lactate Level",
+            "date": "Not specified",
+            "findings": "Initial lactate level: 2.8 mmol/L (Reference range: 0.5 - 2.0 mmol/L), indicating elevated lactate. Subsequent lactate level: 1.9 mmol/L.",
+            "changes_over_time": "Lactate decreased from 2.8 mmol/L to 1.9 mmol/L."
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix abnormal, measuring 10 mm with thick wall, concerning for acute on chronic appendicitis. No evidence of cholecystitis, bowel obstruction, or hydronephrosis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

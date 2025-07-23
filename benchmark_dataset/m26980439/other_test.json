@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Mild mitral regurgitation (MR) and moderate aortic regurgitation (AI).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Endoscopy",
+            "date": "Not specified",
+            "findings": "Normal endoscopic findings.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Guaiac negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver and Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "Normal liver echogenic pattern, gallbladder mildly dilated with numerous shadowing gallstones, no signs of acute cholecystitis.",
+            "changes_over_time": "Common duct size measures maximum dimension of 6 mm, which is upper limits of normal as before."
+        }
+    ]
+}

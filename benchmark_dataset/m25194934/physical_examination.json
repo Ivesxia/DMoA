@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.5°F",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "127/74 mmHg",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "pleasant, NAD",
+                "lungs": "unlabored",
+                "cardiovascular": "RRR",
+                "abdominal": "soft with slight distention, incision intact, tender to suprapubic abdomen, L>R, TTP at lower quadrants. No guarding, non-peritoneal.",
+                "rectal": "no blood, no masses",
+                "extremities": "within normal limits"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

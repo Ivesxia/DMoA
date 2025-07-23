@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2°F",
+                "blood_pressure": "154/72 mmHg",
+                "heart_rate": "90 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "somnolent, but no acute distress",
+                "HEENT": "PERRL, oropharynx dry",
+                "neck": "supple",
+                "cardiovascular": "regular rate and rhythm, normal S1 S2, systolic murmur throughout precordium",
+                "respiratory": "clear to auscultation bilaterally",
+                "abdominal": "soft, non-distended, diffusely tender but no rebound or guarding, positive bowel sounds",
+                "extremities": "no cyanosis, clubbing, or edema",
+                "neurological": "somnolent, alert and oriented times three",
+                "rectal": "no stool in vault"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

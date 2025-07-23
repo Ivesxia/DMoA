@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.8°F",
+                "heart_rate": "71 bpm",
+                "blood_pressure": "124/87 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "HEENT": "Extraocular muscles intact without icterus, Mucous membranes moist",
+                "Chest": "Clear to auscultation",
+                "Cardiovascular": "Normal first and second heart sounds without murmur",
+                "Abdominal": "Soft belly with normal bowel sounds, tenderness in the right lower quadrant",
+                "Pelvic": "Right adnexal tenderness and cervical motion tenderness",
+                "GU/Flank": "No costovertebral angle tenderness",
+                "Extr/Back": "No edema or calf tenderness",
+                "Neuro": "Speech fluent",
+                "Psych": "Normal mood"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

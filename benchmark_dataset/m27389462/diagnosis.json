@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute Pancreatitis, Gallstone Pancreatitis, Acute Cholecystitis",
+        "differential_diagnosis": "Renal cell carcinoma",
+        "diagnostic_reasoning": "The patient's abdominal pain started after eating a fatty meal, which is indicative of gallstone-related issues. Ultrasound findings showed stones and sludge in a distended gallbladder with wall edema, concerning for cholecystitis. Elevated lipase level further supports the diagnosis of pancreatitis."
+    }
+}

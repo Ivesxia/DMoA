@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "RUQ abdominal pain",
+        "history_of_present_illness": "The patient presented with RUQ abdominal pain, which has been ongoing for several weeks. She has been seen multiple times for similar symptoms. She also reports ongoing abdominal pain upon arrival to the floor.",
+        "past_medical_history": "Hypertension, PCOS, Schizophrenia, History of STDs (gonorrhea, chlamydia, and trichomonas)",
+        "family_history": "No family history of IBD or PUD. Father with pancreatic cancer.",
+        "social_history": "Last sexually active 4 months ago, endorses using a condom every time. Denies alcohol use, heavy NSAID use, smoking."
+    }
+}

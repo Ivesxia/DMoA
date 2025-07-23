@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Temperature": "97.0°F",
+                "Heart Rate": "73 bpm",
+                "Blood Pressure": "159/81 mmHg",
+                "Respiratory Rate": "16 breaths/min",
+                "Oxygen Saturation": "100%"
+            },
+            "relevant_findings": {
+                "Constitutional": "Comfortable",
+                "HEENT": "Normocephalic, atraumatic, Extraocular muscles intact",
+                "Chest": "Clear to auscultation",
+                "Cardiovascular": "Regular Rate and Rhythm, Normal first and second heart sounds",
+                "Abdominal": "Soft, Nondistended, mild lower abdominal tenderness right greater than left, no rebound or guarding",
+                "Pelvic": "Bilateral adnexal tenderness, no cervical motion tenderness, trace white discharge"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

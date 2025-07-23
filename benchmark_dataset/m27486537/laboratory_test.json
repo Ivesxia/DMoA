@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC 7, HCT 39",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Dilated, hyperemic appendix measuring up to 11 mm; surrounding periappendiceal stranding; mild thickening of the terminal ileum; no perforation, free air, or fluid collection; free fluid in the right hemipelvis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lab test for albumin",
+            "date": "Not specified",
+            "findings": "3.4 g/dL, borderline low (ref range 3.4 - 4.8 g/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

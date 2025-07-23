@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild left lower lobe ground-glass opacities noted in partially imaged lungs. Unremarkable liver, spleen, adrenal glands, kidneys, pancreas, and gallbladder. A 2 x 2 cm fluid and air-containing structure with surrounding mild haziness in right lower quadrant, concerning for phlegmon in periappendiceal region. Hypodense structures in bilateral ovaries, measuring 2.4 cm on the right and 2.3 cm on the left. No suspicious osseous lesions or fractures.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

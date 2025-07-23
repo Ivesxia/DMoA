@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ABDOMEN (SUPINE & ERECT)",
+            "date": "Not specified",
+            "findings": "No abnormally dilated loops of large or small bowel. No free intraperitoneal air. Degenerative change noted in the femoroacetabular joints bilaterally and the lower lumbar spine. Radiodensities in the right upper quadrant correspond to gallstones seen on the prior CT.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT abd/pelvis",
+            "date": "Not specified",
+            "findings": "Cholelithiasis, acute pancreatitis, nodular appearing contour to the liver suggesting cirrhosis unchanged.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RUQ U/S",
+            "date": "Not specified",
+            "findings": "A tiny stone seen within segment 2 of the duodenum likely represents a recently passed gallstone. Peripancreatic fat stranding is compatible with pancreatitis. Overall picture is compatible with gallstone pancreatitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "Lungs are clear. No pleural fluid or pneumothorax.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT head",
+            "date": "Not specified",
+            "findings": "No acute intracranial process.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

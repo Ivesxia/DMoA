@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2 °F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "124/74 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "No apparent distress, comfortable",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "Clear to auscultation bilaterally",
+                "abdominal": "Pregnant, soft, mildly painful to palpation, no rebound or guarding",
+                "extremities": "No edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

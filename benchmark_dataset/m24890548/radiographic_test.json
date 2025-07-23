@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The tip of the appendix is dilated measures approximately 14 mm with surrounding periappendiceal fat stranding. At the distal appendix there is a hyperdensity which is likely appendicular measuring approximately 10 mm (2:65). Visualized lung fields are within normal limits. No evidence of pleural or pericardial effusion. The liver, pancreas, spleen, and adrenal glands show normal findings. The kidneys are of normal and symmetric size with no focal renal lesions or hydronephrosis. The stomach and small bowel loops are unremarkable. No free fluid in the pelvis. The prostate and seminal vesicles are normal. No lymphadenopathy noted. No abdominal aortic aneurysm, mild atherosclerotic disease noted, and no evidence of osseous lesions or fractures.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

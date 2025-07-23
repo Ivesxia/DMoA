@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "98 bpm",
+                "blood_pressure": "124/69 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": "Abdomen soft, tender to palpation in RLQ with palpable firmness, tender in LLQ as well, no rebound or guarding. Right arm incision closed without drainage or erythema.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is enlarged, measuring up to 1.0 cm in diameter, with thickened and hyperemic walls and contains fluid in its lumen. There is adjacent inflammatory fat stranding. Other abdominal organs are normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

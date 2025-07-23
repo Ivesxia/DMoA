@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Diarrhea, vomiting, abdominal pain, fever, and lightheadedness.",
+        "history_of_present_illness": "Symptoms began 3 days ago with diarrhea, vomiting, abdominal pain, headache, and lightheadedness. The patient also experienced a fever up to 101°F with a worsening cough and green sputum over the preceding week. After initial discharge, there was persistent significant yellow diarrhea and persistent fever. Upon evaluation in the ED, the patient was encephalopathic and in significant pain.",
+        "past_medical_history": "Chronic GVH with joint aches, increased liver transaminases and ocular GVH, pulmonary embolus found incidentally on CT scan, DVT and PE history, new DVT in left leg, cholecystectomy, sacral insufficiency fracture, multiple compression fractures, history of herpes zoster, latent TB with prior treatment, and persistent gastritis.",
+        "family_history": "Leukemia (brother), esophageal cancer (father).",
+        "social_history": "Not specified."
+    }
+}

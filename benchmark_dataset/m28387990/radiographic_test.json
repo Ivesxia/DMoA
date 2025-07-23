@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Dependent atelectasis bilaterally, emphysematous change with a large right bulla, right lower lobe nodules (largest being 4mm, roughly stable), calcific density in the region of common hepatic duct likely indicating choledocholithiasis, segment VI liver cyst measuring 33 x 27 mm, unchanged bilateral renal stents, thinning of the left renal cortex, and a small hypodensity in the left lower pole characterized as angiomyolipoma. New finding includes small fluid and fat stranding surrounding the distal sigmoid colon suggestive of diverticulitis.",
+            "changes_over_time": "The right lower lobe nodules are roughly stable, the calcific density in the common hepatic duct is stable, but the small amount of fluid and fat stranding surrounding the distal sigmoid colon is a new finding from the previous study."
+        }
+    ]
+}

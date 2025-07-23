@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "EKG was unchanged from prior.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT CHEST W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Large 10.5 x 8.9 cm mass within the right upper lobe, calcification seen, abnormal thickening of the posterior wall of the right main stem bronchus, increased reticular pattern, multiple pulmonary nodules, severe emphysematous changes, mediastinal lymph nodes identified, coronary calcifications, trace pericardial fluid, low-attenuation lesion in the right lobe of the liver, gallstones, small hiatal hernia, multiple sclerotic lesions consistent with metastases.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

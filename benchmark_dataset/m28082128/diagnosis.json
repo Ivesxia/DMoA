@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with abdominal pain that migrated to the right flank, along with nausea and vomiting. MRI findings indicated a dilated, fluid-filled appendix measuring up to 1.4 cm with an appendicolith and surrounding fat stranding, consistent with acute appendicitis. No evidence of perforation was noted."
+    }
+}

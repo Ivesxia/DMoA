@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver demonstrates no textural or focal abnormality. The portal vein demonstrates normal hepatopetal flow. There is no intrahepatic biliary dilatation. The common duct is poorly visualized. The gallbladder does not demonstrate wall thickening or pericholecystic fluid. No evidence of large stone. The spleen measures 12 cm and appears unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

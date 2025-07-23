@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "133/63 mmHg",
+                "heart_rate": "74 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "92% on room air"
+            },
+            "relevant_findings": {
+                "general": "Patient is alert and oriented times three, and comfortable.",
+                "cardiovascular": "Regular rate and rhythm, normal S1 and S2, non-displaced PMI, no jugular venous pressure appreciated.",
+                "respiratory": "Breath sounds clear to auscultation bilaterally.",
+                "abdominal": "Bowel sounds positive, soft, non-distended, mild tenderness over incisions which are clean, dry, and intact.",
+                "extremities": "Warm, well-perfused, no edema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

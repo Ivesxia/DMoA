@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "92.9 ax",
+                "blood_pressure": "156/80 mmHg",
+                "heart_rate": "73 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "95% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well appearing man appearing younger than his stated age",
+                "HEENT": "Normocephalic, anicteric, oral cavity benign but dry mucous membranes, mild left facial droop (baseline reported by daughters)",
+                "neck": "No masses or lymphadenopathy, no thyroid nodules appreciated",
+                "cardiovascular": "Irregular rate and rhythm, systolic murmur heard best at base radiating to carotids; no jugular venous distension; DP and radial pulses 2+ bilaterally",
+                "pulmonary": "Expansion equal bilaterally, soft rales at bases bilaterally",
+                "abdominal": "Soft, diffusely tender to palpation and slightly distended, no guarding or rebound",
+                "extremities": "Warm and well perfused, no cyanosis/coolness/edema",
+                "neurological": "Alert and oriented, cranial nerves II-XII grossly intact, some increased tone bilaterally, no tremor noted, mildly masked facies",
+                "psychiatric": "Affect is pleasant and cooperative"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "94.6 °F",
+                "blood_pressure": "169/65 mmHg",
+                "heart_rate": "60 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "lab": "Slightly elevated WBC count at 11.1 and elevated lipase, guiac negative"
+            },
+            "changes_over_time": "Reported mild abdominal pain and nausea; energy and appetite decreased prior to presentation."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Dilated appendix up to 9 mm, fluid filled with enhancing, hyperemic walls. An 8 mm x 8 mm appendicolith in the distal appendiceal tip. Subtle periappendiceal haze. No intrahepatic biliary dilatation or surrounding fluid collection.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

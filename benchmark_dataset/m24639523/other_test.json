@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Pacemaker interrogation",
+            "date": "Not specified",
+            "findings": "3 atrial high-rate episodes, EGM with 1:1 tachycardia at 120 BPM, lasting for up to 2 minutes. Slow ventricular rhythm at 85 BPM with 1:1 retrograde conduction confirmed by atrial electrogram.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Esophagogastroduodenoscopy (EGD)",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

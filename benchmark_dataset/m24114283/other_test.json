@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "EKG unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Path showed well differentiated, but aggressive adenocarcinoma of the gallbladder with extensive perineural invasion, serosal invasion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac enzymes",
+            "date": "Not specified",
+            "findings": "Negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Levaquin administration",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Physical Examination",
+            "date": "Not specified",
+            "findings": "Mildly icteric sclerae, dry mucosa, poor dentition. Abdomen soft, slightly distended, TTP in RUQ, no rebound or guarding.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

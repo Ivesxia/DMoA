@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC count",
+            "date": "Not specified",
+            "findings": "WBC count of 16 (specific normal range not provided, but elevated compared to common normal thresholds).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRI Abdomen W/O Contrast",
+            "date": "Not specified",
+            "findings": "Appendix is dilated measuring 11 mm, with appendicular fat stranding and prominent lymph nodes; mild right hydronephrosis; gallbladder distended with calculi present; no periappendicular abscess.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

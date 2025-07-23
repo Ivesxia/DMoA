@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT CHEST W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "No axillary lymphadenopathy, calcified mediastinal and hilar lymph nodes, no pathologically enlarged lymph nodes, normal heart size, no pericardial effusion, normal caliber thoracic aorta and main pulmonary artery, patent airways, multiple pulmonary nodules measuring up to 4 mm, moderate mildly complex left pleural effusion, no right pleural effusion, mild bibasilar atelectasis, no consolidation.",
+            "changes_over_time": "Moderate mildly complex left pleural effusion is unchanged over the short time interval since the previous exam."
+        }
+    ]
+}

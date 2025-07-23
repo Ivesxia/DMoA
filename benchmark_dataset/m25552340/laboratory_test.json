@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The dilated appendix measures up to 1.6 cm and contains multiple appendicoliths. Focal hypoenhancement of its wall raises concern for perforated appendicitis. There is surrounding free fluid layering within the pelvis. No definite extraluminal air is identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test for BUN",
+            "date": "Not specified",
+            "findings": "30.0 mg/dL",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

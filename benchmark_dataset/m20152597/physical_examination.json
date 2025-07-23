@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "79 bpm",
+                "blood_pressure": "118/71 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well-developed, well-nourished, in no acute distress",
+                "HEENT": "Normocephalic, atraumatic, anicteric",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "Non-labored, no respiratory distress",
+                "abdominal": "Soft, tender in right lower quadrant, positive psoas sign, no masses, no herniation",
+                "pelvis": "Deferred examination",
+                "extremities": "Warm, well-perfused, no cyanosis, clubbing, or edema",
+                "neurologic": "Alert and oriented x3, no focal neurologic deficits"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

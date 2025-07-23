@@ -1,0 +1,39 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "abdomen": {
+                    "lung_bases": "bibasilar subsegmental atelectasis",
+                    "heart": "normal",
+                    "stomach": "unremarkable",
+                    "duodenum": "unremarkable",
+                    "spleen": "unremarkable",
+                    "pancreas": "unremarkable",
+                    "adrenal_glands": "unremarkable",
+                    "liver": "unremarkable",
+                    "kidneys": "unremarkable",
+                    "free_gas": "none",
+                    "free_fluid": "none",
+                    "lymphadenopathy": "none",
+                    "vascular_structures": "small amount of atherosclerotic aortic calcification"
+                },
+                "pelvis": {
+                    "rectum": "normal",
+                    "colon": "diverticulosis without evidence of diverticulitis",
+                    "uterus": "enlarged with rim calcified lesions consistent with fibroids",
+                    "appendix": {
+                        "base": "air-filled and normal",
+                        "tip": "minimal focal fat stranding"
+                    },
+                    "free_fluid": "small amount in the right lower quadrant",
+                    "free_gas": "none",
+                    "lymphadenopathy": "none"
+                },
+                "osseous_findings": "no suspicious sclerotic or lytic osseous lesion"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

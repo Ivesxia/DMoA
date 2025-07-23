@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is normal in shape and contour with normal echogenicity. No focal hepatic lesions. Patent main portal vein with normal hepatopetal flow. No intra- or extra-hepatic biliary duct dilation. Common bile duct measures 4 mm. Many stones within the gallbladder with significant shadowing; gallbladder wall normal without significant thickening or surrounding fluid. Significant pain with pressure over the gallbladder.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PT (Prothrombin Time)",
+            "date": "Not specified",
+            "findings": "29.9 sec, which is above the normal range (25.0 - 36.5 sec).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

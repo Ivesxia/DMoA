@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.0°F",
+                "heart_rate": "59 bpm",
+                "blood_pressure": "132/78 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Anxious, mild distress",
+                "lungs": "Clear, unlabored",
+                "cardiovascular": "Regular rate and rhythm (RRR)",
+                "abdominal": "Soft, tender at RLQ, + Rovsing, + obturator, + psoas signs",
+                "extremities": "Within normal limits (WNL)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

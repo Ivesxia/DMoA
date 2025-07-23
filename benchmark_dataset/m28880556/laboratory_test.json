@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Urea Nitrogen (BUN)",
+            "date": "Not specified",
+            "findings": "8.8 mg/dL (normal range: 8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of the Appendix",
+            "date": "Not specified",
+            "findings": "Fluid-filled blind-ending structure in the right lower quadrant measuring approximately 1.1 cm in diameter which contains echogenic foci and is noncompressible.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

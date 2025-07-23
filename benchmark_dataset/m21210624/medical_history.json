@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient's pain started 5 days ago. He was admitted for 2 days during which a CT scan did not identify a cause. After discharge, he experienced fevers up to 101.5°F along with anorexia, nausea, and vomiting. He reports vague abdomen pain that radiates to the mid-epigastrium and is accompanied by nausea. He has been taking excessive NSAIDs prior to admission.",
+        "past_medical_history": "Gastritis, NSAID overuse, history of multiple orthopedic surgeries (left and right ACL reconstructions, left Achilles tendon repair, right shoulder SLAP repair and biceps debridement, surgery on right wrist).",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2°F",
+                "heart_rate": "76 bpm",
+                "blood_pressure": "153/85 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and oriented, pleasant",
+                "cardiovascular": "Regular rate and rhythm",
+                "respiratory": "Clear to auscultation bilaterally",
+                "abdominal": "Soft, moderate tenderness in right lower quadrant, no rebound, no guarding",
+                "extremities": "Warm and well-perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

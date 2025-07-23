@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Positive for Gram positive bacteria",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cervical Examination",
+            "date": "Not specified",
+            "findings": "Cervical friability and ulcerations noted",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pessary Replacement",
+            "date": "Earlier this week",
+            "findings": "Pessary replaced after being out for two months; cervical ulcerations noted",
+            "changes_over_time": "Incontinence of urine improved after replacement"
+        },
+        {
+            "procedure_name": "Pain Management",
+            "date": "Not specified",
+            "findings": "Received 4 mg IV morphine for pain",
+            "changes_over_time": "Denies pain at rest currently"
+        },
+        {
+            "procedure_name": "Physical Exam",
+            "date": "Admission",
+            "findings": "TTP in suprapubic region",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Hyperenhancing enlarged inflamed appendix measuring up to 11 mm with associated periappendiceal inflammation and fluid. The lung bases are clear with no parenchymal consolidation or pulmonary nodules. No pleural effusions. The liver, gallbladder, spleen, both adrenal glands, both kidneys, pancreas, and visualized loops of intra-abdominal small and large bowel are unremarkable. No intra-abdominal free air or ascites. No mesenteric or retroperitoneal lymphadenopathy. No evidence of complication with no associated periappendiceal discrete fluid collections noted and no free air. An intrauterine device is seen within an unremarkable appearing uterus.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

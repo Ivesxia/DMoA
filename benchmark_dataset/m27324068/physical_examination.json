@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "blood_pressure": "157/78 mmHg",
+                "heart_rate": "55 bpm",
+                "respiratory_rate": "18 bpm",
+                "oxygen_saturation": "94% on room air"
+            },
+            "relevant_findings": {
+                "general": "AAO3, NAD",
+                "head_and_neck": "PERRL, no scleral icterus, MMM",
+                "neck": "Trachea midline, supple, no appreciable LAD",
+                "cardiovascular": "RRR",
+                "pulmonary": "No increased work of breathing",
+                "abdomen": "Soft, mildly tender to palpation on RUQ, negative ___ sign, no rebound, no guarding, incisions clean, dry, intact",
+                "extremities": "No edema, warm",
+                "vascular": "Palpable DP and ___ pulses"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

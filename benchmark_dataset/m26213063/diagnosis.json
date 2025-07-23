@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute pancreatitis (post-ERCP)",
+        "differential_diagnosis": "Primary sclerosing cholangitis, Crohn's Disease, thrombophlebitis",
+        "diagnostic_reasoning": "The patient presented with severe abdominal pain following an ERCP procedure. Laboratory tests revealed a significantly elevated lipase level (11,495), indicating pancreatitis. The patient's history of Crohn's disease and liver function test abnormalities supported the diagnosis of acute pancreatitis related to the recent ERCP."
+    }
+}

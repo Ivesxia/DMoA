@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Random Test",
+            "date": "Not specified",
+            "findings": "RANDOM.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ABDOMEN (SUPINE & ERECT)",
+            "date": "Not specified",
+            "findings": "Air-filled loops of small bowel and colon with air projecting over the rectum. No free intra-abdominal air is present. Lumbar spine degenerative changes are present.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT chest/abdomen",
+            "date": "Not specified",
+            "findings": "Non-specific gallbladder wall thickening, mild to moderate fluid and stranding around the pancreas, no pulmonary embolism (PE).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "Gallbladder filled with stones, limited assessment of gallbladder wall due to stones, equivocal sonography signs due to diffuse abdominal tenderness, and a CBD that was dilated to 8 mm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "blood_pressure": "155/94 mmHg",
+                "heart_rate": "60 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "Sleeping, comfortable",
+                "HEENT": "Anicteric",
+                "cardiovascular": "S1, S2 regular rhythm, normal rate",
+                "lungs": "Unlabored respirations, clear to auscultation bilaterally",
+                "abdomen": "Soft, hypoactive bowel sounds, tenderness to palpation in RUQ, RLQ, epigastric area, no rebound or guarding",
+                "genitourinary": "No foley catheter",
+                "extremities": "No edema, peripheral pulses intact",
+                "neurological": "Speech fluent, alert"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "blood_pressure": "146/100 mmHg",
+                "heart_rate": "72 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP with sphincterotomy and CBD stone removal",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Small dependent filling defects seen in the common bile duct, likely representing sludge and/or tiny stones. The gallbladder contains sludge and multiple gallstones. Diffuse gallbladder wall edema is present. There is slightly decreased gallbladder distention compared to the CT from ___",
+            "changes_over_time": "Decreased gallbladder distention compared to previous CT."
+        }
+    ]
+}

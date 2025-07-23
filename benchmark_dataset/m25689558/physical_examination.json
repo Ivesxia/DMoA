@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "heart_rate": "70 bpm",
+                "blood_pressure": "117/63 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No distress, alert and oriented x 3",
+                "HEENT": "PERRLA, EOMI, anicteric",
+                "chest": "RRR, lungs clear bilaterally",
+                "abdomen": "Soft, nondistended, tender to palpation in RLQ, no rebound or guarding",
+                "extremities": "No edema, palpable pulses"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

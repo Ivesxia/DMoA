@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Left lower quadrant pain",
+        "history_of_present_illness": "Pain started 24 hours prior to presentation to the ED and has been increasing after lunch.",
+        "past_medical_history": "Hypertension",
+        "family_history": "No family history of IBD.",
+        "social_history": "Not specified."
+    }
+}

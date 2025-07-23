@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Lung bases are clear without consolidation or pleural effusion. No pericardial effusion. The liver, gallbladder, pancreas, spleen, adrenal glands, stomach, and duodenum are unremarkable. The kidneys enhance and excrete contrast symmetrically without hydronephrosis, stones, or renal masses. No free air or free fluid in the abdomen. A 6-cm segment of descending colon at the splenic flexure demonstrates asymmetric wall thickening and edema with pronounced pericolonic inflammatory changes. Scattered diverticula are present, but no inflamed diverticulum is definitively seen. The remainder of the large and small bowel is normal. A small amount of fluid is noted in the mesentery, particularly along the left abdomen and pelvis. The urinary bladder, distal ureters, uterus, and adnexa are unremarkable. There is no fracture or worrisome bony lesion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

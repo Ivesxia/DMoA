@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "WBC count is 10.3 K/uL, which is outside the normal range (normal range: 4.0 - 11.0 K/uL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of the Abdomen",
+            "date": "Not specified",
+            "findings": "The gallbladder is distended with wall thickening measuring up to 9 mm. Gallstones are seen within the gallbladder. No significant pericholecystic fluid is present. Common bile duct is normal in size (3 mm). Visualized liver is normal in echogenicity. Limited views of kidneys show no hydronephrosis. The pancreas is normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

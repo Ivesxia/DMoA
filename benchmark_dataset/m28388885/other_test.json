@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Demonstrated a known discontinuity between the proximal pancreatic duct and the remainder of the pancreas, with extravasation of contrast suggesting ongoing leak.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Subhepatic fluid collection within the resection bed measures 4.6 x 3.1 cm, essentially unchanged from prior exam; central intrahepatic biliary ductal dilatation is minimally decreased; pneumobilia persists and is unchanged; pancreatic stent has been removed with residual air within the pancreatic duct at the site of prior stent placement.",
+            "changes_over_time": "The subhepatic fluid collection remains unchanged compared to prior exam; central intrahepatic biliary ductal dilatation is minimally decreased from prior."
+        }
+    ]
+}

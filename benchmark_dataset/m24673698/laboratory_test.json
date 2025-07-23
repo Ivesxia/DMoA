@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Thyroid-Stimulating Hormone (TSH)",
+            "date": "Not specified",
+            "findings": "0.72 uIU/mL (reference range: 0.27 - 4.2 uIU/mL, within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT HEAD W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "No fracture, hemorrhage, edema, mass effect, or shift of normally midline structures. The ventricles and sulci are normal in size and configuration for the patient's age. The visualized paranasal sinuses and soft tissues are unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

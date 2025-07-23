@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5 °F",
+                "heart_rate": "97 bpm",
+                "blood_pressure": "103/54 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "general": "A and O x 3, NAD",
+                "cardiovascular": "RRR",
+                "pulmonary": "CTA B",
+                "abdominal": "Soft, appropriately tender. Incisions C/D/I. No rebound or guarding",
+                "extremities": "No edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

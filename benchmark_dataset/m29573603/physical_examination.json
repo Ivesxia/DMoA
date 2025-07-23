@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.1 °F",
+                "blood_pressure": "95/61 mmHg",
+                "heart_rate": "119 bpm",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Patient appears uncomfortable, grimacing and in pain, moving very little in bed.",
+                "HEENT": "Sclera anicteric, dry mucous membranes.",
+                "neck": "Supple, JVP low, no lymphadenopathy appreciated.",
+                "lungs": "Clear to auscultation bilaterally, moving air well and symmetrically, no wheezes, rales or rhonchi appreciated.",
+                "cardiovascular": "Tachycardic rate, regular rhythm, S1 and S2 clear and of good quality, no murmurs, rubs or gallops appreciated.",
+                "abdomen": "PEG site intact, clean without erythema, several surgical scars well healed; abdominal tenderness mostly in RUQ, guarding present but no rebound tenderness; hypoactive bowel sounds; abdomen thin, scaphoid, non-distended.",
+                "extremities": "Cachectic with prominent protuberances, no erythema, edema, or hematomas.",
+                "neurological": "Cranial Nerves II-XII grossly intact, motor and sensory function grossly intact in bilateral upper and lower extremities."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "103.3 °F",
+                "heart_rate": "115 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "blood_pressure": "159/22 mmHg",
+                "oxygen_saturation": "96% on 2L NC"
+            },
+            "relevant_findings": "Confusion, pain in RUQ worse with movement or touching, severe abdominal pain, bilious vomiting with no blood, cannot recall last bowel movement.",
+            "changes_over_time": "Patient developed fever and confusion following transfer; abdominal pain worsened throughout the day."
+        }
+    ]
+}

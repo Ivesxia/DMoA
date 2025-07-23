@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver shows no evidence of focal lesions or textural abnormality. There is no evidence of intra or extrahepatic biliary dilatation and the common bile duct measures 2 mm. There are gallstones seen within the gallbladder as well as a gallstone at the gallbladder neck measuring 1.4 cm which did not move despite turning the patient decubitus. There was mild gallbladder wall thickening but no pericholecystic fluid. Sonographic ___ sign was negative. The pancreas was not visualized due to overlying bowel gas. Doppler assessment of the main portal vein demonstrates patency and hepatopetal flow.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

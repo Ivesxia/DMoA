@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "102°F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "alert and oriented x3, appears uncomfortable",
+                "cardiovascular": "regular rate and rhythm, no murmur",
+                "respiratory": "clear to auscultation bilaterally",
+                "abdominal": "obese, soft, non-distended, appropriately tender at surgical sites, positive bowel sounds, tender to palpation in right lower quadrant, no rebound or guarding",
+                "extremities": "warm, well-perfused, 2+ pulses"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

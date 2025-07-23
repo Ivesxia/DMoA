@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver demonstrates no intrahepatic biliary dilatation and an 8 x 8 x 7 mm echogenic focus in the dome of the liver without appreciable vascular flow, most suggestive of a hemangioma. The portal vein is patent with directionally appropriate flow. The gallbladder shows no stones, wall edema or pericholecystic fluid. No sonographic Murphy's sign could be elicited. The CBD measures 2 mm in caliber. The visualized portion of the pancreatic head and body show no abnormality; tail is obscured by overlying bowel gas. Limited views of the right kidney show no hydronephrosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

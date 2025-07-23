@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Stable cardiomegaly and pulmonary vascular congestion accompanied by minimal interstitial edema. Worsening confluent opacities at the lung bases, left greater than right with adjacent increasing pleural effusions, moderate on the left and small-to-moderate on the right.",
+            "changes_over_time": "Worsening confluent opacities and increasing pleural effusions."
+        }
+    ]
+}

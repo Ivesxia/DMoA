@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified.",
+            "findings": "Extensive wall thickening involving the cecum and proximal-to-mid ascending colon with surrounding fat stranding, suggesting possible diverticulitis with mircoperforation versus colitis. Small bowel is unremarkable except for markedly thickened distal most portion of the terminal ileum. A large left inguinal hernia containing fat and loops of distal descending and sigmoid colon without signs of strangulation. Mild enlargement of spleen and mild coronary artery calcifications.",
+            "changes_over_time": "Stable gynecomastia compared to a previous CT."
+        },
+        {
+            "procedure_name": "Admission Exam",
+            "date": "Not specified.",
+            "findings": "Signs of tachycardia, distant heart sounds, diffuse tenderness in the abdomen predominantly in RLQ, and chronic venous stasis changes in extremities.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

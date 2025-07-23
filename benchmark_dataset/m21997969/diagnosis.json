@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient's abdominal pain, initially generalized but becoming localized to the right lower quadrant (RLQ), coupled with nausea and vomiting, led to the suspicion of appendicitis. CT imaging revealed a dilated fluid-filled appendix with a hyperemic wall and an obstructing fecalith, confirming the diagnosis."
+    }
+}

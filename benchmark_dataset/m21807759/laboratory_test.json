@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Patchy streak-like opacities within the right and left bases and right upper lobe likely representing atelectasis. Interval development of bilateral pleural effusions along with interstitial opacities, more prominent on the right than the left, consistent with pulmonary edema. Normal cardiomediastinal silhouette. No pneumothorax.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

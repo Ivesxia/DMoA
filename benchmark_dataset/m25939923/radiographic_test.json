@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The lung bases are grossly clear. There is no pleural or pericardial effusion. The liver is normal in size and morphology. No focal liver lesions are seen. The gallbladder is filled with multiple stones and sludge, without wall thickening or hyperenhancement to suggest acute cholecystitis. There is intra and extrahepatic biliary dilatation. The CBD is mildly dilated to 8 mm. The distal CBD is irregular with enhancing wall. The pancreas is edematous and there is mild peripancreatic edema, consistent with mild interstitial pancreatitis. The main pancreatic duct is not dilated. Nonenhancing 7 mm lesion in the uncinate process could represent pocket of fluid or a side branch IPMN. The spleen is normal in size. Cortical renal cysts are seen bilaterally. The adrenals are normal. There is a small amount of free perihepatic fluid. There is no concerning retroperitoneal or mesenteric lymphadenopathy. The bone marrow signal is normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

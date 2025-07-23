@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with worsening abdominal pain localized to the right lower quadrant, along with nausea, vomiting, and a history of diarrhea. Imaging (CT abdomen and pelvis with contrast) revealed a mildly dilated mid-appendix measuring up to 10 mm, which is consistent with appendicitis, and the clinical presentation supports this diagnosis."
+    }
+}

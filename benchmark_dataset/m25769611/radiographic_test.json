@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "PANCREAS US",
+            "date": "Not specified",
+            "findings": "The pancreas transplant is identified with slight increased echogenicity of the adjacent fat which could indicate inflammatory stranding. There is a borderline dilation of the transplant pancreatic duct measuring up to 3 mm. No focal fluid collections are identified about the transplant. Normal color flow and spectral Doppler waveforms are identified from transplant arteries and veins.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "CXR negative.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

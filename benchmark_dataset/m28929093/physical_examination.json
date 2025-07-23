@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.0 °F",
+                "heart_rate": "105 bpm",
+                "blood_pressure": "114/62 mmHg",
+                "respiratory_rate": "20 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No apparent distress.",
+                "cardiovascular": "Regular rate and rhythm.",
+                "respiratory": "Clear to auscultation bilaterally.",
+                "abdominal": "Soft, non-distended; tenderness to palpation in the right upper quadrant, positive Murphy's sign.",
+                "bowel": "Normoactive bowel sounds in all four quadrants.",
+                "extremities": "Warm and well-perfused with no cyanosis, clubbing, or edema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

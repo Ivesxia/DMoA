@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test related to infection",
+            "date": "Not specified",
+            "findings": "OCCASIONAL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

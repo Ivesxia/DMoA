@@ -1,0 +1,31 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "blood_pressure": "108/73 mmHg",
+                "heart_rate": "109 bpm",
+                "respiratory_rate": "24 breaths/min",
+                "oxygen_saturation": "97%",
+                "oxygen_delivery": "2 L NC"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD, does not appear jaundiced",
+                "HEENT": "No scleral icterus",
+                "cardiovascular": "RRR",
+                "pulmonary": "CTAB, breathing comfortably on 2L nasal cannula",
+                "abdominal": "mild rigidity, nondistended, no rebound or guarding, no palpable masses. Diffuse mild tenderness to deep palpation. G-tube site clean without surrounding erythema"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "gallbladder": "The gallbladder is significantly distended and contains mobile sludge without a discrete gallstone. There is gallbladder wall edema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

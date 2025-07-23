@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laparoscopic appendectomy",
+            "date": "Not specified",
+            "findings": "The appendiceal tip is dilated, measuring 9 mm, with surrounding stranding. The base of the appendix is more normal in caliber without surrounding stranding. There is no evidence for rupture. There is no free air or free fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen & Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "The included lung bases show no pleural effusion or pneumothorax. The liver enhances homogeneously without focal lesions. The gallbladder is normal and there is no intrahepatic biliary ductal dilation. The kidneys enhance symmetrically and excrete contrast without hydronephrosis. The stomach, large and small bowel are normal. No bowel wall thickening or evidence for obstruction.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

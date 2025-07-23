@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with a 2-day history of lower abdominal pain that localized to the right lower quadrant (RLQ), associated with nausea, vomiting, and diarrhea. Physical examination revealed tenderness in the RLQ and positive Rovsing's sign, which are indicative of appendicitis. The CT scan findings showed a fluid-filled and dilated appendix measuring 9 mm, consistent with acute appendicitis."
+    }
+}

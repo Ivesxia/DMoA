@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "White count was 16. LFTs and lipase are not elevated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Potassium Level",
+            "date": "Not specified",
+            "findings": "1.7 mg/dL (reference range 1.6 to 2.6 mg/dL), which is within normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver demonstrates normal echogenicity. Intrahepatic biliary ductal dilatation noted. The common bile duct is mildly dilated measuring up to 11 mm and contains a 6 mm stone. The gallbladder is mildly distended and contains some sludge, with no significant gallbladder wall thickening or pericholecystic fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

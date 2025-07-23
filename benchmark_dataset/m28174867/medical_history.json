@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Pain began yesterday at 6 PM, starting in the epigastrium and gradually moving to the right lower quadrant. Denies nausea, vomiting, changes in bowel habits, fevers or chills.",
+        "past_medical_history": "hyperlipidemia",
+        "family_history": "Was adopted, unknown",
+        "social_history": "Not specified"
+    }
+}

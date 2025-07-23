@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "97/45 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% RA"
+            },
+            "relevant_findings": {
+                "general": "Sleeping in stretcher, easily arousable.",
+                "HEENT": "Mucus membranes slightly dry, nares clear, trachea at midline.",
+                "CV": "Regular rate, rhythm. Radiating murmur from left axilla.",
+                "pulmonary": "Clear to auscultation bilaterally.",
+                "abdominal": "+ bowel sounds, tender to palpation in infraumbilical area and RLQ without rebound tenderness. Obese.",
+                "musculoskeletal": "Warm, well perfused. Palpable thrill overlying LUE AVF.",
+                "neurological": "Alert, oriented to person, place, time."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

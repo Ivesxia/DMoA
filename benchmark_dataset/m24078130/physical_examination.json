@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "120/64 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, obese young male.",
+                "lung": "Clear to auscultation bilaterally, regular rate and rhythm.",
+                "abdomen": "Soft, nondistended, mildly to moderately tender in suprapubic region down into right groin.",
+                "testicular_exam": "No obvious palpable testicle in right inguinal canal, no testicles present in scrotum.",
+                "rectal_exam": "No gross blood, hemoccult negative, no masses."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

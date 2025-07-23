@@ -1,0 +1,36 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Bibasilar atelectasis; no evidence of pleural or pericardial effusion.",
+                "abdomen": {
+                    "hepatobiliary": "Liver demonstrates homogenous attenuation with no focal lesions; gallbladder normal.",
+                    "pancreas": "Normal attenuation without focal lesions or ductal dilatation.",
+                    "spleen": "Normal size and attenuation.",
+                    "adrenals": "Normal size and shape.",
+                    "urinary": "Normal and symmetric kidneys with bilateral subcentimeter renal hypodensities likely representing simple cysts.",
+                    "gastrointestinal": "Normal small bowel caliber and wall thickness; equivocal subtle fat stranding in the proximal sigmoid colon suggesting mild sigmoid diverticulitis.",
+                    "pelvis": "Unremarkable urinary bladder and distal ureters; no free fluid.",
+                    "reproductive_organs": "Prostate enlarged measuring 5.8 cm.",
+                    "lymph_nodes": "No lymphadenopathy.",
+                    "vascular": "No abdominal aortic aneurysm; presence of chronic thrombus and atheromatous plaque in relevant arteries.",
+                    "bones": "No evidence of worrisome lesions or acute fracture; left hip prosthesis noted.",
+                    "soft_tissues": "Small fat containing periumbilical hernia."
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Result",
+            "date": "Not specified",
+            "findings": {
+                "value": "9.4 mg/dL",
+                "reference_range": "8.4 - 10.3 mg/dL",
+                "result": "Within normal range"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

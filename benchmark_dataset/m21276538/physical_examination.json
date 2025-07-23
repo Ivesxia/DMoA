@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "heart_rate": "87 bpm",
+                "blood_pressure": "160/73 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "93% RA"
+            },
+            "relevant_findings": {
+                "General": "NAD (No Acute Distress), Slightly uncomfortable",
+                "Cardiovascular": "RRR (Regular Rate and Rhythm)",
+                "Respiratory": "CTAB (Clear to Auscultation Bilaterally), somewhat poor inspiratory effort",
+                "Abdomen": "Slight distention, slightly hypoactive bowel sounds, tender away from hernia",
+                "Rectal": "Guaiac negative with brown stool",
+                "Edema": "1+ peripheral edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laparoscopic cholecystectomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Decreased lung volumes, mild bilateral pleural effusions, subtle right upper lobe opacity which could represent early pneumonia, moderate cardiomegaly without evidence of pulmonary edema, mild retrocardiac atelectasis.",
+            "changes_over_time": "Further decrease in lung volumes compared to the previous radiograph."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "62 bpm",
+                "blood_pressure": "97/49 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": "Patient alert and oriented, no acute distress. Abdomen tender to palpation in the right lower quadrant, negative psoas and obturator sign, abdomen soft and nondistended with no rebound or guarding, normoactive bowel sounds, and no palpable masses detected.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopic Retrograde Cholangiopancreatography (ERCP)",
+            "date": "Not specified",
+            "findings": "Aspiration of the side-branch cystic lesion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of Abdomen and Pelvis with and without contrast",
+            "date": "Not specified",
+            "findings": "An 15 x 11 mm hypodense lesion in the tail of the pancreas consistent with IPMN, mild peripancreatic stranding consistent with post-ERCP changes, small bilateral pleural effusions, trace free fluid within the abdomen, and unremarkable findings for many other structures.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "KUB",
+            "date": "Not specified",
+            "findings": "Negative for free air.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

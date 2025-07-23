@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver is diffusely fatty but without focal abnormality. The appendix is diffusely dilated up to 1.0 cm in diameter and contains multiple fecaliths. There is adjacent fat stranding secondary to inflammatory changes. No evidence of perforation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory culture test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolytes test",
+            "date": "Not specified",
+            "findings": "1.4 mmol/L (within normal range, reference range 0.5 - 2.0 mmol/L).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

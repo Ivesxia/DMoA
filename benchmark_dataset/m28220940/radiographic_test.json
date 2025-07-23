@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Liver is normal in echogenicity with no focal lesions present. The portal vein is patent with hepatopetal flow. The common bile duct measures 2 mm and is normal. The gallbladder is filled with gallstones, unchanged. No gallbladder wall thickening or pericholecystic fluid is noted.",
+            "changes_over_time": "The gallbladder is filled with gallstones, unchanged."
+        }
+    ]
+}

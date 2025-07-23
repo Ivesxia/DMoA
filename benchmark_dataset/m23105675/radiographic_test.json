@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Calcified granuloma in the left lung base; clear lung bases; unremarkable heart and pericardium; liver enhances homogeneously without focal lesions; gallbladder unremarkable; patent portal vein; normal pancreas, spleen, adrenal glands; symmetric nephrograms in kidneys with bilateral renal hypodensities likely representing simple cysts; no solid renal lesions; normal small and large bowel without obstruction; appendix is 1.0 cm, fluid-filled with mucosal enhancement and peripheral stranding; no fluid collection or extraluminal free air; patent aorta and branches; no lymph node enlargement; no ascites, abdominal free air, or abdominal wall hernia; unremarkable urinary bladder and ureters; no pelvic lymphadenopathy or free fluid; no concerning osseous lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

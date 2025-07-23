@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "100 bpm",
+                "blood_pressure": "126/86 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "SaO2": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, AAOx3",
+                "HEENT": "Anicteric",
+                "cardiovascular": "tachycardic",
+                "pulmonary": "CTA bilaterally",
+                "abdominal": "soft, nondistended, RUQ TTP with mild voluntary guarding, no rebound, no diffuse peritoneal signs",
+                "extremities": "no edema, warm, palpable pulses"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

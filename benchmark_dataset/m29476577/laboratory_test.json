@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized portion of the heart, lungs, and chest appears unremarkable. The liver shows no focal lesion or intrahepatic biliary dilatation. The gallbladder shows no stones or wall edema. The spleen is normal in size and appearance. The adrenal glands are normal appearing bilaterally. The kidneys enhance with and excrete contrast symmetrically. Multiple well-circumscribed fluid densities are seen in the left kidney, the largest measuring 5.5 cm in diameter. The pancreas appears normal. The small intestine demonstrates an unusual looping pattern without evidence of obstruction. The large intestine shows no evidence of obstruction, although significant fecal burden is noted. The aorta, IVC, portal vein, and major branches appear patent. No lymphadenopathy, free air, or free fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thrombocytopenia Test",
+            "date": "Not specified",
+            "findings": "Platelet level is 1.9 mg/dL, which is within the normal range of 1.6-2.6 mg/dL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Perforated appendicitis",
+        "differential_diagnosis": "Urinary tract infection",
+        "diagnostic_reasoning": "The patient presented with right lower quadrant pain, fever, nausea, vomiting, diarrhea, and increased urinary frequency, indicating significant abdominal distress. CT imaging showed a rim enhancing fluid collection consistent with an abscess in the setting of a perforated appendix, alongside evidence of reactive inflammation in adjacent bowel loops."
+    }
+}

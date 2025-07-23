@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0",
+                "heart_rate": "74",
+                "blood_pressure": "132/72",
+                "respiratory_rate": "20",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general": "NAD",
+                "cardiovascular": "RRR",
+                "pulmonary": "CTA",
+                "abdominal": "striae, nondistended, soft, nontender, negative ___ sign",
+                "extremities": "no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

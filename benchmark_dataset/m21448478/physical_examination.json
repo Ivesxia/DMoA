@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1",
+                "heart_rate": "152",
+                "blood_pressure": "152/80",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented but mildly tachypneic",
+                "HEENT": "Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL",
+                "neck": "Supple, JVD mildly elevated",
+                "cardiovascular": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+                "lungs": "Mild wheezing throughout with slight rhonchi at right base",
+                "abdomen": "Soft, non-tender, non-distended, bowel sounds present, no organomegaly, no rebound or guarding",
+                "rectal": "Refused as had 3 already today",
+                "gastrointestinal": "No foley",
+                "extremities": "Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema",
+                "neurological": "CNII-XII intact, strength upper/lower extremities grossly normal, 2+ reflexes bilaterally"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

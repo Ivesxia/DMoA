@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.2°F",
+                "blood_pressure": "98/60 mmHg",
+                "heart_rate": "85 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "NAD, AOX3",
+                "HEENT": "MM slightly dry, JVP 8 cm",
+                "cardiovascular": "RRR, no murmurs/rubs/gallops",
+                "pulmonary": "Clear to auscultation bilaterally",
+                "abdominal": "Soft, moderate epigastric tenderness, no rebound or guarding, bowel sounds positive",
+                "extremities": "Warm, well-perfused, no cyanosis, clubbing, or edema",
+                "neurological": "Alert and oriented to person, place, and time, grossly normal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

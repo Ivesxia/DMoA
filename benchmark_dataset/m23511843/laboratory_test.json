@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "715 U/L (normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Amylase",
+            "date": "Not specified",
+            "findings": "285 U/L (normal range not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "Normal liver echotexture, gallbladder well distended without cholelithiasis, common bile duct normal at 2 mm, right kidney 11.3 cm, left kidney 11.6 cm, no hydronephrosis or nephrolithiasis, normal spleen size at 8.8 cm, visualized pancreas shows no focal masses.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

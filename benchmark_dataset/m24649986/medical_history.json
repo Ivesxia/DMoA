@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Lower abdominal pain",
+        "history_of_present_illness": "The patient reports a gradual onset of lower abdominal pain over the last 2 days. The pain is sharp, worse with movement, and has varying intensity. The patient has experienced similar pain episodes twice before: once one month ago and once two weeks ago, both self-limited and less severe. He also reports nausea without vomiting and loose bowel movements.",
+        "past_medical_history": "None",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

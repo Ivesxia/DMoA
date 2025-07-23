@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.8°F",
+                "blood_pressure": "129/68 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "heart_rate": "81 bpm",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "General": "NAD (No Acute Distress)",
+                "HEENT": "PERRL, EOMI, MMM, sclerae mildly icteric, not injected",
+                "Neck": "Supple",
+                "Cardiovascular": "RRR, normal S1, S2, no murmurs appreciated",
+                "Respiratory": "Clear to auscultation bilaterally, no wheezes, rales or rhonchi",
+                "Abdomen": "Normoactive bowel sounds, soft, non-tender, non-distended",
+                "Extremities": "No edema, 2+ DP pulses",
+                "Neurological": "CN II-XII intact, normal attention, sensation normal, speech fluent",
+                "Psychiatric": "appropriate, pleasant, not anxious"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

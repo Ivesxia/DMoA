@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST PORT. LINE PLACEMENT",
+            "date": "Not specified",
+            "findings": "Right-sided PICC is seen appropriately positioned entering the right subclavian and terminating within the proximal SVC. There is lower lung volume than previous study. There is stable cardiomegaly and vascular congestion. There is no pleural effusion or pneumothorax. Pleural surfaces are unremarkable.",
+            "changes_over_time": "Lower lung volume than previous study."
+        }
+    ]
+}

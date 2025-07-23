@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "heart_rate": "62 bpm",
+                "blood_pressure": "115/76 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "SpO2": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "Patient alert and oriented, no acute distress",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "Normal work of breathing",
+                "abdominal": "Soft, nondistended, tender to palpation, right lower quadrant tenderness greater than left lower quadrant, no guarding, positive Rovsing's sign with right lower quadrant pain to left lower quadrant palpation",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

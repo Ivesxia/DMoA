@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung bases notable for a calcified granuloma in the right lower lobe, liver diffusely low in attenuation compatible with fatty infiltration, no focal liver lesions, no intra- or extra-hepatic biliary ductal dilation, gallbladder decompressed without cholelithiasis or CT evidence of acute cholecystitis, spleen, pancreas, kidneys, and adrenal glands are normal. Appendix measures up to 11 mm with periappendiceal fat stranding; findings consistent with acute uncomplicated appendicitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

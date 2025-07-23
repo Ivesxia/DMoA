@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "126 bpm",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general": "A&O, patient with acute pain",
+                "HEENT": "No scleral icterus, mucus membranes dry",
+                "CV": "RRR",
+                "pulmonary": "Clear to auscultation b/l, No W/R/R",
+                "abdominal": "Semifirm but compressible, Moderate distention, Tender to palpation especially on RLQ, + rebound and guarding",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

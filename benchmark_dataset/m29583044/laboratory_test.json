@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is distended with wall thickening and dilated to 1.0 cm, with surrounding fat stranding. A subcentimeter hypodensity in segment 8 of the liver, spleen enlarged at 16.0 cm, and a subcentimeter hypodensity in the lower pole of the right kidney likely represents a cyst. No bowel obstruction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "1.1 mmol/L, within normal range (0.5-2.0).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": "Blood Pressure: 136/71 mmHg, Heart Rate: 90 bpm, Respiratory Rate: 16 breaths/min, Oxygen Saturation: 100% on Room Air",
+            "relevant_findings": "General: Alert, oriented, no acute distress; HEENT: Sclera anicteric, MMM, oropharynx clear; Neck: supple, JVP not elevated; Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi; CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops; Abdomen: soft, bowel sounds present, very tender to palpation in RUQ, but no rebound or guarding. Positive ___ sign; GU: no foley. Rectal exam deferred (done in the ED, guaiac negative. Stool guaiac negative on arrival to the floor as well); Extremities: warm, well perfused, some evidence of venous insufficiency; Neuro: pupils pinpoint, motor function grossly normal.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "117/64 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "SpO2": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x3, lying comfortably in bed.",
+                "HEENT": "No scleral icterus.",
+                "cardiovascular": "Regular rate and rhythm.",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes/rales.",
+                "abdominal": "Soft, non-distended, appropriately mildly tender to palpation. Surgical incisions clean, dry, well approximated.",
+                "extremities": "No edema, warm and well perfused."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Generalized abdominal pain",
+        "history_of_present_illness": "Abdominal pain started at 5:30 PM last night, initially cramping in nature. By 9:30 PM, the pain worsened, becoming more constant and shifting to the right lower quadrant. Associated with nausea, no vomiting, and loss of appetite, but the patient is currently hungry. Symptoms have persisted without fever, chills, or urinary symptoms. There is a history of dysmenorrhea and 7 days of persistent spotting post menstruation.",
+        "past_medical_history": "History of gastric cancer with previous gastrectomy, chemotherapy, and radiation therapy for stomach cancer; past mastectomy for breast cancer.",
+        "family_history": "Grandfather had pancreatic cancer",
+        "social_history": "Not specified"
+    }
+}

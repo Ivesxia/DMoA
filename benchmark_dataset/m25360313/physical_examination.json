@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "heart_rate": "79 bpm",
+                "blood_pressure": "118/76 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "___ year old ___ man appears well in no apparent distress",
+                "HEENT": "No cervical lymphadenopathy, neck supple, PERRL, EOMI, no erythema or abnormalities noted of the oropharynx",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/rubs/gallops, Peripheral pulses 2+",
+                "pulmonary": "Clear to auscultation bilaterally, no rales/rhonchi/wheezing",
+                "abdominal": "Soft, non-tender, non-distended, bowel sounds positive. No Murphy's sign, rebound tenderness, or guarding.",
+                "extremities": "Well perfused, capillary refill <2 seconds"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

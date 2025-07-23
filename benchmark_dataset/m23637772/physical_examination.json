@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0 F",
+                "blood_pressure": "154/92 mmHg",
+                "heart_rate": "65 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, well-appearing, lying in bed, obese",
+                "eyes": "PERRL, EOMI, conjunctiva clear, anicteric",
+                "ears_nose_throat": "moist mucous membranes, no exudates",
+                "neck": "supple",
+                "cardiovascular": "RRR s1s2 nl, no m/r/g",
+                "pulmonary": "CTA, no r/r/w",
+                "gastrointestinal": "normal BS, tender in RUQ, negative ___, no r/g, no HSM",
+                "extremities": "warm, no c/c/e",
+                "skin": "no rashes",
+                "neurological": "alert, oriented x 3, answers questions appropriately, follows commands, non focal",
+                "psychological": "appropriate"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

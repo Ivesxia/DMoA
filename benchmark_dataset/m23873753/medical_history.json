@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "RUQ pain",
+        "history_of_present_illness": "Patient presented with right upper quadrant pain for 3 days. Symptoms began on an unspecified date after which pain worsened over the next 2 days, accompanied by nausea, subjective fevers, but no vomiting. Patient initially sought care at another facility where gallstones and sludge were diagnosed before worsening condition led to reporting to a new facility.",
+        "past_medical_history": "Cholelithiasis, anxiety, hyperlipidemia",
+        "family_history": "Diabetes Mellitus (multiple brothers, son, mother, grandmother); Cancer (father, unknown type)",
+        "social_history": "Not specified"
+    }
+}

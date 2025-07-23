@@ -1,0 +1,10 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Decreased lung volumes, moderate cardiomegaly with borderline diameter of the azygos vein, increased vascular diameters, bilateral perihilar haze, increased fluid in the interstitium, moderate pulmonary edema, and minimal bilateral pleural effusions. No evident pneumonia.",
+            "changes_over_time": "As compared to the previous radiograph, lung volumes have decreased."
+        }
+    ]
+}

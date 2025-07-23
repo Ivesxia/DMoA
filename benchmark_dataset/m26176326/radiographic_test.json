@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Improvement in CHF findings, residual upper zone redistribution, residual patchy opacities at both lung bases, mild hilar prominence, no gross effusion, and increased retrocardiac density.",
+            "changes_over_time": "Compared with ___ at 17:52 p.m., there has been improvement in CHF findings."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory analysis of pelvic fluid",
+            "date": "Not specified",
+            "findings": "3+ (5-10 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PT/INR",
+            "date": "Not specified",
+            "findings": "31.5 sec",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Partially visualized small bilateral pleural effusions; Bibasilar atelectasis; No pericardial effusion; Unremarkable liver, pancreas, spleen, and adrenals; No hydronephrosis or suspicious renal lesions; Long segment of dilated small bowel, maximum 4.7 cm; Interval enlargement of the collection within the rectovesical space, 6.3 x 5.2 cm; Additional collection in right pelvis, 2.9 x 6.6 cm; Generalized mesenteric stranding.",
+            "changes_over_time": "Interval enlargement of the collection within the rectovesical space"
+        }
+    ]
+}

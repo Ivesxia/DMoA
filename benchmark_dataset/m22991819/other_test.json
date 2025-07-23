@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Normal sinus rhythm without any concerning ST-T wave changes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endoscopic retrograde cholangiopancreatography (ERCP)",
+            "date": "Not specified",
+            "findings": "Early images show a filling defect within the common bile duct consistent with a stone. Normal caliber of the intra- and extra-hepatic biliary ducts are noted. Later images show removal of stone and opacification of the cystic duct and gallbladder.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

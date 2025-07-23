@@ -1,0 +1,25 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lungs": "Limited assessment of the lung bases is clear.",
+                "heart": "The visualized heart and pericardium are unremarkable.",
+                "liver": "Enhances homogeneously without focal lesions or intrahepatic biliary duct dilatation.",
+                "gallbladder": "Thin-walled without calcified gallstones.",
+                "spleen": "Homogeneous and normal in size.",
+                "adrenal_glands": "Unremarkable.",
+                "kidneys": "No solid or cystic renal lesions; bilateral symmetric nephrograms noted; bilateral extrarenal pelvises without evidence of hydronephrosis.",
+                "stomach": "Decompressed and appears normal.",
+                "duodenum_and_small_bowel": "Within normal limits without evidence of wall thickening, focal mass lesion, or obstruction.",
+                "appendix": "10.6-mm retrocecal, fluid filled, blind-ending tubular structure with hyperenhancing walls, concerning for appendicitis; no extraluminal air or abscess; no appendicolith seen.",
+                "colon": "Within normal limits with a moderate fecal load in the rectum.",
+                "intra_abdominal_vasculature": "Unremarkable.",
+                "bladder": "Wall is mildly thickened and may be related to underdistension.",
+                "osseoous_structures": "No blastic or lytic lesions suspicious for malignancy."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "The heart is less enlarged, the pulmonary vessels are less engorged, and there is clearance of the bilateral pulmonary edematous opacities.",
+            "changes_over_time": "Improvement since the previous film."
+        }
+    ]
+}

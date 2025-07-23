@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Upper abdominal pain",
+        "history_of_present_illness": "Developed upper abdominal pain 2 weeks ago after drinking coffee, which initially improved with TUMS. Pain returned at about 11 am before admission and was accompanied by vomiting at 2:15. No diarrhea, nausea, or constipation reported. The patient has been eating regularly and has been trying to cut down on coffee consumption.",
+        "past_medical_history": "Previous history of alcohol abuse but has not consumed alcohol regularly since [unknown date]. COPD, Hyperlipidemia, Hypertension, Coronary artery disease with myocardial infarction and CABG, Previous prostate surgery, Remote history of peptic ulcer disease, Tonsillectomy as a child.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

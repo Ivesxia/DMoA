@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right lower quadrant abdominal pain and nausea.",
+        "history_of_present_illness": "The patient developed right lower quadrant pain this morning along with nausea. He was able to eat about half a slice of pizza for lunch, but couldn't finish it.",
+        "past_medical_history": "Hypertension, Asthma",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

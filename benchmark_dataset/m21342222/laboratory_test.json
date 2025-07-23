@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "US (Ultrasound)",
+            "date": "Not specified",
+            "findings": "Multiple gallstones with a trace amount of pericholecystic fluid. No gallbladder wall thickening or sonographic Murphy's sign. CBD not dilated, measuring at 6 mm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP (Endoscopic Retrograde Cholangiopancreatography)",
+            "date": "Not specified",
+            "findings": "Eighteen fluoroscopic images reviewed. Two surgical clips in gallbladder fossa. Cholangiogram showed no filling defects or strictures in the common bile duct. Intrahepatic biliary radicles appear normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for urine",
+            "date": "Not specified",
+            "findings": "0-2 #/hpf (cells per high power field).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

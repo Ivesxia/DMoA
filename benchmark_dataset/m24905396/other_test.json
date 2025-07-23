@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "HOLD. SPECIMEN TO BE HELD 48 HOURS AND DISCARDED.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT abdomen with contrast",
+            "date": "Not specified",
+            "findings": "The appendix is distended and fluid filled, measuring up to approximately 12 mm. There is a calcified appendicolith, which measures approximately 5 mm. There is mild periappendiceal stranding. There is no evidence for rupture, free air, or fluid collection.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

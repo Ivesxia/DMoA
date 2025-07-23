@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Nausea, vomiting, chest pain, and lethargy.",
+        "history_of_present_illness": "Symptoms began after eating at church one day prior to admission, leading to nausea and vomiting. The patient also experienced labored breathing and chest pain, though clarification is difficult. Additionally, there was a report of feeling warm and having diarrhea.",
+        "past_medical_history": "CHF, Afib, COPD, CKD III, Fibromyalgia, Osteoarthritis, Rheumatoid arthritis, Asthma, Bronchomalacia, Chronic rhinosinusitis, Hypertension, Depression, Hyperlipidemia, Obesity, Migraine, GERD, Bilateral carpal tunnel syndrome, Spondylolisthesis of L4-5, Breast cancer stage II, Lung SCC stage IA, Tracheal cancer.",
+        "family_history": "Mother had breast cancer, died of MI. Father had rectal cancer.",
+        "social_history": "Not specified."
+    }
+}

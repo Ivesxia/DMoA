@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT HEAD",
+            "date": "Not specified",
+            "findings": "No acute intracranial process.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "Bibasilar atelectasis. No large effusion or consolidation worrisome for infection.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is normal with multiple simple cysts. Gallbladder wall is thickened with gallstones and sludge, mild pericholecystic fluid.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

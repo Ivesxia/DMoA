@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT CHEST W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Known azygos continuation syndrome. Moderate enlargement of the right thyroid lobe that could be further worked up by ultrasound. No supraclavicular, infraclavicular or axillary lymphadenopathy. No enlarged lymph nodes in the mediastinum or at the level of the hilar structures. Mild cardiomegaly. No abnormalities in the posterior mediastinum. Several diverticular with contrast material, status post cholecystectomy. Otherwise no relevant findings in the upper abdomen. No osteolytic lesions at the level of the ribs, the sternum, or the vertebral bodies. Mild degenerative vertebral disease. No vertebral compression fractures. No abnormalities in the lung parenchyma, except for some subpleural cysts. Non-suspicious 2 mm perifissural nodule in the middle lobe. No diffuse lung disease. No pleural abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine culture",
+            "date": "Not specified",
+            "findings": "< 10,000 CFU/mL. Abnormal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

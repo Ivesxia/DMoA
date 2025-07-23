@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "heart_rate": "97 bpm",
+                "blood_pressure": "138/82 mmHg",
+                "respiratory_rate": "17 rpm"
+            },
+            "relevant_findings": {
+                "general": "NAD, A&Ox3",
+                "HEENT": "EOMI, mmm, no scleral icterus",
+                "cardiovascular": "RRR",
+                "pulmonary": "No distress",
+                "abdominal": "soft, non distended, TTP LLQ & suprapubic region",
+                "extremities": "WWP, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

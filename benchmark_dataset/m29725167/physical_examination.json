@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "heart_rate": "60 bpm",
+                "blood_pressure": "116/70 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": "No acute distress, alert and oriented, comfortable. Abdomen soft, tender to deep palpation in the right lower quadrant, nondistended. Extremities warm, well-perfused bilaterally, with no cyanosis, clubbing, or edema. Pulses palpable bilaterally.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

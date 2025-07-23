@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient reports abdominal pain for 3 weeks, initially generalized and dull, worsening with standing and increasingly severe over the last 2 days, radiating to the flanks and scapulae bilaterally. Associated symptoms include worsening abdominal distension, nausea, and mild constipation.",
+        "past_medical_history": "Obesity, obstructive sleep apnea (OSA), coronary artery disease (CAD) status post myocardial infarction (MI), anxiety/depression, hypercholesterolemia.",
+        "family_history": "Grandfather with myocardial infarction, mother with elevated cholesterol. No known family psychiatric history.",
+        "social_history": "Denies any alcohol intake since unspecified time. Patient reports trials of various medications for mental health issues and sees a therapist weekly."
+    }
+}

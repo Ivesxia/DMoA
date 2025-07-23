@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.4 F",
+                "heart_rate": "77 bpm",
+                "blood_pressure": "177/100 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "Uncomfortable, obese gentleman",
+                "abdominal": "Diffusely tender, tenderness to percussion and rebound tenderness, most marked in epigastrum and left quadrants, soft, no masses.",
+                "lungs": "Largely clear to auscultation, faint crackles at bases",
+                "cardiovascular": "Regular rate and rhythm, normal S1/S2",
+                "neurological": "Alert and oriented x3, cranial nerves grossly intact."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8 F",
+                "heart_rate": "74 bpm",
+                "blood_pressure": "193/97 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "abdominal": "Persistent abdominal pain, nausea, epigastric pain radiating around abdomen, worse with movement, bilious emesis during interview."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

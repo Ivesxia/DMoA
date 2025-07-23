@@ -1,0 +1,36 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Coagulation Test",
+            "date": "Not specified",
+            "findings": "30.9 sec, which is outside the normal range (25.0 - 36.5 sec).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung_bases": "Mild dependent atelectatic changes.",
+                "liver": "No focal liver lesion.",
+                "spleen": "Grossly unremarkable.",
+                "pancreas": "Grossly unremarkable.",
+                "adrenal_glands": "Grossly unremarkable.",
+                "gallbladder": "Grossly unremarkable.",
+                "kidneys": "Grossly unremarkable.",
+                "bowel": "Normal in size and caliber.",
+                "appendix": "Fluid filled and distended measuring up to 13 mm with hyperemia and surrounding inflammation, free fluid present, likely appendicolith (9 x 6 mm).",
+                "cecal_tip": "Lying low in the pelvis and closer to the midline than typically seen.",
+                "appendix_position": "Retrocecal.",
+                "large_bowel": "Distal loops appear normal in size and caliber.",
+                "free_air": "No evidence of free air or drainable fluid collection identified.",
+                "bladder": "Normal limits.",
+                "ureters": "Normal limits.",
+                "uterus": "Normal limits.",
+                "adnexa": "Normal limits.",
+                "reactive_lymph_nodes": "Several ileocolic lymph nodes likely reactive.",
+                "osseous_lesions": "No concerning osseous lesion."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Cardiac silhouette is at the upper limits of normal in size and there is mild tortuosity of the aorta. No vascular congestion, pleural effusion, or acute focal pneumonia.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

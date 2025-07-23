@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "61 bpm",
+                "blood_pressure": "123/58 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Slightly anxious but otherwise NAD",
+                "cardiovascular": "RRR, no MRG",
+                "pulmonary": "CTA b/l",
+                "abdominal": "No scars; soft, nondistended; slight tenderness in RUQ with voluntary guarding limiting ability to assess for ___ sign",
+                "genitourinary": "Wearing diaper",
+                "extremities": "Long scar on medial aspect of right leg; minimal pitting edema b/l"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

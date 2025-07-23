@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain with nausea, vomiting, fever, and chills.",
+        "history_of_present_illness": "Symptoms began worsening in the past 24 hours; right lower quadrant pain described for several days. Patient also reports diarrhea, which is non-bloody, but sometimes sees blood on tissue when wiping.",
+        "past_medical_history": "Polio, GERD, HTN, Anxiety",
+        "family_history": "Not specified.",
+        "social_history": "History of alcoholism, now reduced to a couple of beers occasionally, previously drank hard liquor frequently."
+    }
+}

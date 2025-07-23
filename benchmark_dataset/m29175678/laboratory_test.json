@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Fat stranding centered around the appendix with mild dilatation of the appendiceal tip to 8 mm. Slight thickening of the cecal base. No contrast or air seen within the appendix. No drainable fluid collection and no free air. Tiny lymph nodes in the region are prominent but not pathologically enlarged. Normal appearance of intra-abdominal organs. A calcified granuloma in the right lower lobe. A small pericardial effusion unchanged from previous studies.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Electrolytes",
+            "date": "Not specified",
+            "findings": "1.1 mmol/L (within range as it is above the lower reference range of 0.5 and below the upper reference range of 2.0).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

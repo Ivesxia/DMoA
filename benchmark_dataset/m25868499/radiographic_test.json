@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CTU (ABD/PEL) W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits. There is no evidence of pleural or pericardial effusion. The liver demonstrates homogenous attenuation throughout with a 1.5 cm segment four simple cysts and additional subcentimeter hypodensities likely cysts. The gallbladder is within normal limits. A 1.5 cm cystic structure is present at the pancreatic tail with normal attenuation of the pancreas. The spleen shows normal size and attenuation. Both adrenal glands are normal. The kidneys are normal in size and symmetric with no focal renal lesions. The colon and rectum are within normal limits. The appendix contains two appendicoliths, demonstrates slightly hyperemic wall, and has a diameter of 9 mm with surrounding stranding. No free fluid in the pelvis. No lymphadenopathy noted. Moderate atherosclerotic disease is present. Degenerative changes are seen in the lumbar spine at L3-4.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

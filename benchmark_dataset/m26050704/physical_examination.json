@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "blood_pressure": "110/60 mmHg",
+                "heart_rate": "94 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% room air"
+            },
+            "relevant_findings": {
+                "general_appearance": "pleasant, NAD (no acute distress), non-toxic",
+                "eyes": "PERLLA (pupils equal, round, reactive to light and accommodation), EOMI (extraocular movements intact), no conjunctival injection, anicteric",
+                "ENT": "MM dry (mucous membranes dry), oropharynx without exudate or lesions, no supraclavicular or cervical lymphadenopathy",
+                "respiratory": "CTA b/l (clear to auscultation bilaterally) with good air movement throughout",
+                "cardiovascular": "RR (regular rhythm), S1 and S2 within normal limits, no murmurs, rubs, or gallops appreciated",
+                "gastrointestinal": "nd (not distended), +b/s (positive bowel sounds), soft, tender in mid epigastrium, no rebound tenderness, JP drain in place with 30cc bilious fluid, incisions clean/dry/intact, no masses",
+                "musculoskeletal/extremities": "no edema",
+                "skin/nails": "warm, no rashes, no jaundice, no splinters",
+                "neurological": "AAOx3 (alert, awake, oriented to person, place, and time), cranial nerves II-XII intact, strength throughout intact, fluent speech",
+                "psychiatric": "pleasant, appropriate affect",
+                "heme/lymph": "no cervical or supraclavicular lymphadenopathy",
+                "GU": "no catheter in place"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "INR test",
+            "date": "Not specified",
+            "findings": "INR was found to be 5.9 on admission.",
+            "changes_over_time": "Last had it checked about a month ago, and was normal at that time."
+        },
+        {
+            "procedure_name": "Blood test (Creatinine)",
+            "date": "Not specified",
+            "findings": "Creatinine level is 2.9 mg/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Culture test",
+            "date": "Not specified",
+            "findings": "Results showed NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdominal Radiograph",
+            "date": "Not specified",
+            "findings": "Cecum and ascending colon are dilated with air-fluid levels. A small amount of adjacent free intraperitoneal air is likely postoperative.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

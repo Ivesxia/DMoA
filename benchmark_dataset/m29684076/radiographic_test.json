@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated to 11 mm with enhancing thickened walls and mild periappendiceal stranding. No intra-abdominal fluid collection or pneumoperitoneum. Visualized heart is normal. Lung bases are clear. No pericardial or pleural effusion. Liver, gallbladder, intra- and extra-hepatic bile ducts, pancreas, spleen, adrenal glands, kidneys, and ureters are normal. Incidentally noted 6 mm accessory spleen. No retroperitoneal or mesenteric lymphadenopathy. Portal and intra-abdominal systemic vasculature are normal. No abdominal wall hernia or free abdominal fluid. Bladder is normal, prostate gland is unremarkable, and no pelvic side-wall or inguinal lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

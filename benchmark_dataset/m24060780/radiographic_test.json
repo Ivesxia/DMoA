@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Fat stranding is present about a dilated appendix, consistent with acute appendicitis. Marked pericecal inflammation. Enlarged mesenteric lymph nodes present, stable compared to prior. No evidence of pleural or pericardial effusion. Normal findings in the liver, pancreas, spleen, kidneys, stomach, small bowel, large bowel, urinary bladder, reproductive organs, and vascular structures.",
+            "changes_over_time": "Finding is very similar to the prior study without any evidence of macroscopic free air or fluid collection."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "APTIMA COMBO 2 Assay",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria gonorrhoeae",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound: PELVIS, NON-OBSTETRIC",
+            "date": "Not specified",
+            "findings": "Uterus measures 9.8 x 4.8 x 5.1 cm. Partial visualization of pigtail catheter in left adnexa with multiple foci of air, small amount of fluid, inflammatory changes seen in left adnexa extending to sigmoid colon. No additional undrained fluid collections are visualized, although small residual fluid and air remains in the pocket with catheter in place.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipid panel",
+            "date": "Not specified",
+            "findings": "Triglycerides: 8.7 mg/dL (Normal range: 8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Computed Tomography Angiography (CTA) of the Chest",
+            "date": "Not specified",
+            "findings": "Minimal dependent atelectasis, minimal nonspecific central bronchial wall thickening, lungs are clear, no pleural effusion, normal heart size, patent great vessels, and no pulmonary embolus. Gallbladder is moderately distended with at least two large stones and trace pericholecystic fluid against the liver.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

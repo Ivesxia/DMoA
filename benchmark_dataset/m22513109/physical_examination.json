@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.0°F",
+                "blood_pressure": "147/88 mmHg",
+                "pulse": "80 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "pain": "5 (scale not specified)",
+                "general": "no acute distress",
+                "lungs": "clear",
+                "cardiovascular": "regular rate and rhythm, no murmurs/rubs/gallops",
+                "abdomen": "bowel sounds present, soft, tender in right upper quadrant and epigastrium",
+                "extremities": "no edema, cyanosis, or clubbing",
+                "skin": "no rash",
+                "neurological": "alert, follows commands"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "chest_radiograph": "Pre-existing signs of mild fluid overload have progressed to mild pulmonary edema. Moderate cardiomegaly persists. Lung volumes remain low. Small retrocardiac atelectasis is present. No larger pleural effusions or pneumonia."
+            },
+            "changes_over_time": "Progression of mild fluid overload to mild pulmonary edema."
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "Hypertensive to the 170s",
+                "heart_rate": "Tachycardic to the 130s",
+                "urine_output": "Low UOP ranging from <10cc/hr"
+            },
+            "relevant_findings": {
+                "general": "Anxious, mild distress from pain, diaphoretic",
+                "heent": "Miotic pupils. MMM. PERRL.",
+                "neck": "Supple",
+                "lungs": "CTAB. Good air movement",
+                "cardiovascular": "Tachycardic. RRR, normal S1, S2. No m/r/g",
+                "abdominal": "Distended/Obese, soft, mild tenderness. No rebound and guarding",
+                "extremities": "WWP, no edema",
+                "skin": "No defects or bruising",
+                "neurological": "Anxious, oriented x3. Normal bulk and tone. Thin LEs. No tremor. Normal strength in upper extremities. Dorsiflexion bilaterally. Toes downgoing. Dense sensor loss below mid shin."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

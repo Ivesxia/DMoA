@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT CHEST W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild edema in the chest wall, no focal fluid collection or mass, small hiatus hernia, borderline enlargement of edematous mediastinal lymph nodes, clear lungs except for mild relaxation atelectasis at the right base, minimal edema at the left, and small nonhemorrhagic pleural effusions layer posteriorly.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient presents with abdominal pain that started approximately 12 hours prior to admission, around 9 am, initially as periumbilical pain that then migrated.",
+        "past_medical_history": "Menstrual bleeding, anemia, uterine polyp, c section x2, EGD/colonoscopy for anemia (both negative), colonic polyp removal (benign)",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

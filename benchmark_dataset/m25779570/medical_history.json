@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute epigastric pain",
+        "history_of_present_illness": "Symptoms started suddenly when the patient woke up in the morning; the pain was described as constant and band-like, and lasted for 1 day. The patient reports nausea and dry heaves following the onset of pain, with chills accompanying the pain. Initially, the pain was severe but has improved with medication.",
+        "past_medical_history": "ETOH (alcohol) abuse",
+        "family_history": "Father with stroke",
+        "social_history": "Patient consumes approximately 2 alcoholic drinks daily, with the last drink being a pistachio martini prior to admission."
+    }
+}

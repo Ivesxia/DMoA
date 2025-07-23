@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "102°F",
+                "heart_rate": "87 bpm",
+                "blood_pressure": {
+                    "right": "106/57 mmHg",
+                    "left": "Not specified"
+                },
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "skin": "Diffuse macular papular rash with areas of exfoliation on arms and back, painful to palpation",
+                "oral": "White plaques on tongue with ulcers on left lateral surface",
+                "chest": "Lungs clear bilaterally",
+                "heart": "Regular rate and rhythm",
+                "abdomen": "Soft, non-distended, tender to palpation over upper abdomen, no guarding, no rebound, bowel sounds present"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

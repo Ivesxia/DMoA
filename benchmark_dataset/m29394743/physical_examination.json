@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "blood_pressure": "136/68 mmHg",
+                "heart_rate": "66 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "98% on 2L oxygen"
+            },
+            "relevant_findings": {
+                "general": "NAD, AAOx3, looks uncomfortable, is constantly changing her position",
+                "heent": "PERRL, pale conjunctiva, no scleral icterus, MMM, no pharyngeal exudates",
+                "cardiac": "RRR, S1/S2, no m/r/g audible",
+                "lung": "CTAB, no w/c/r",
+                "abdomen": "+BS, normoactive, soft, moderately tender at RUQ and epigastric area, non-distended, negative ___ sign, no organomegaly, spleen tip not palpable, no masses palpable, no guarding or peritoneal signs, negative ___ Turner's sign",
+                "extremities": "WWP, no cyanosis or clubbing, changes of venous insufficiency noted, purplish blue hue to most of leg",
+                "neuro": "AAOx3, CN II-XII intact",
+                "derm": "no visible rashes"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

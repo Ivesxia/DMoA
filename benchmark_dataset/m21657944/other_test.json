@@ -1,0 +1,23 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EKG",
+            "date": "Not specified",
+            "findings": "NSR",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Heterogeneous and echogenic parenchyma, smooth contour. Evaluation for focal masses limited due to heterogeneous liver parenchyma.",
+                "bile_ducts": "No intrahepatic biliary dilation; CBD measures 3 mm.",
+                "gallbladder": "No evidence of stones or gallbladder wall thickening.",
+                "pancreas": "Imaged portion appears within normal limits without masses or pancreatic ductal dilation.",
+                "spleen": "Normal echogenicity, measuring 9.9 cm.",
+                "kidneys": "Right kidney measures 11.6 cm with a 2.6 x 2.7 x 2.4 cm simple cyst in the right upper pole."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

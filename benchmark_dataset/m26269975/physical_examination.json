@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Gen: AOx3 NAD; Cor: RRR without MRG; Res: CTAB; Abd: Soft, mild TTP in RLQ, appropriate, incisions C/D/I with steri strips in place; Ext: WWP without edema; Neuro: Without focal deficit; Psych: Normal mood, appropriate affect",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Appendix is dilated measuring 12 mm with hyperemia and surrounding fat stranding consistent with acute appendicitis; mild thickening of the base of the cecum, likely reactive.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

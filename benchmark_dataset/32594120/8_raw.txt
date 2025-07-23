@@ -1,0 +1,72 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "chloroquine",
+      "start_date": "2020-05-11",  // Assuming the 7-day history ended on this date
+      "end_date": "2020-05-15",
+      "dosage_or_details": "Loading dose 600 mg followed by 300 mg b.i.d.",
+      "treatment_response": "Not specified"
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "remdesivir",
+      "start_date": "2020-05-16",
+      "end_date": "2020-05-21",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Acute increase in ALT and AST, remdesivir was immediately stopped, resulting in rapid decrease of ALT and AST values to normal levels."
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "amiodarone",
+      "start_date": "2020-05-18",
+      "end_date": "Not specified",
+      "dosage_or_details": "700 mg on day 18",
+      "treatment_response": "Not specified"
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2020-05-04",
+      "event": "Patient presented with a 7-day history of fever, cough, and dyspnea."
+    },
+    {
+      "date": "2020-05-04",
+      "event": "COVID-19 diagnosis confirmed via positive PCR."
+    },
+    {
+      "date": "2020-05-04",
+      "event": "Patient admitted for oxygen therapy."
+    },
+    {
+      "date": "2020-05-11",
+      "event": "5-day chloroquine course started."
+    },
+    {
+      "date": "2020-05-14",
+      "event": "Transferred to ICU for mechanical ventilation."
+    },
+    {
+      "date": "2020-05-16",
+      "event": "Remdesivir started as part of extended access program."
+    },
+    {
+      "date": "2020-05-18",
+      "event": "Amiodarone was temporally given."
+    },
+    {
+      "date": "2020-05-21",
+      "event": "Remdesivir stopped due to acute elevation in ALT and AST."
+    },
+    {
+      "date": "2020-06-07",
+      "event": "Patient discharged to rehabilitation center."
+    },
+    {
+      "date": "2020-06-21",
+      "event": "Patient returned home and resumed normal activities."
+    }
+  ]
+}
+```

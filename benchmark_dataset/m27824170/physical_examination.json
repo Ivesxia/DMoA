@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2°F",
+                "heart_rate": "99 bpm",
+                "blood_pressure": "149/98 mmHg",
+                "respiratory_rate": "92 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress though mildly uncomfortable",
+                "HEENT": "No congestion, sclerae anicteric, dry mucous membranes, oral pharynx clear",
+                "neck": "Supple, no thyromegaly or JVD, no carotid bruits",
+                "lungs": "Clear to auscultation bilaterally, good air movement, respiratory unlabored",
+                "heart": "Regular rate and rhythm, soft II/XI systolic ejection murmur, normal S1-S2, no peripheral edema",
+                "abdomen": "Quiet bowel sounds, soft and mildly distended, mild tenderness to examination in epigastrium and RUQ, no masses",
+                "extremities": "Warm, well-perfused, no cyanosis or edema, 2+ peripheral pulses",
+                "skin": "No rashes or lesions",
+                "lymph": "No lymphadenopathy",
+                "neurological": "Awake, alert and oriented x3, cranial nerves grossly intact, sensation and muscle strength intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

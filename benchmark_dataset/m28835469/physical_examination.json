@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "114 bpm",
+                "blood_pressure": "145/93 mmHg",
+                "respiratory_rate": "16 bpm",
+                "O2_saturation": "97%"
+            },
+            "relevant_findings": {
+                "general": "appears mildly uncomfortable and fatigued",
+                "HEENT": "mucus membranes moist, nares clear, trachea at midline",
+                "CV": "regular rate, rhythm. No appreciable murmurs, rubs, gallops",
+                "Pulm": "clear to auscultation bilaterally",
+                "Abd": "mildly obese, umbilical hernia, easily reducible. Tap tenderness in RLQ with + Rosving's",
+                "GU": "no evidence of inguinal hernia bilaterally. Left testicle descended, no overlying skin changes; exquisitely tender to palpation. No drainage from meatus",
+                "MSK": "warm, well perfused",
+                "Neuro": "alert, oriented to person, place, time"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated and fluid filled measuring up to 10 mm in maximal dimension with minimal periappendiceal fat stranding. The lung bases are clear. The liver, gallbladder, pancreas, spleen, bilateral adrenal glands, kidneys are normal. No signs of free air or free fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

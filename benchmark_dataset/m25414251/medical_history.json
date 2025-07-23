@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Severe abdominal pain.",
+        "history_of_present_illness": "The patient reports that the abdominal pain started 6 hours prior to presentation, beginning near the middle of the abdomen and radiating to the back. The pain was so severe that it caused him to double-over. This is the first instance of such pain experienced by the patient. The pain was persistent and he denied any fevers or chills. He experienced an episode of vomiting in the emergency department and is currently slightly nauseated.",
+        "past_medical_history": "HTN, hypercholesterolemia, headaches.",
+        "family_history": "Not specified.",
+        "social_history": "Lives with his mother."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8 °F",
+                "heart_rate": "60 bpm",
+                "blood_pressure": "75/40 mmHg",
+                "respiratory_rate": "20 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Patient in moderate distress, uncomfortable, intermittent confusion.",
+                "cardiovascular": "Rhythm regular rate and rhythm.",
+                "respiratory": "Mild labored breathing, clear to auscultation bilaterally.",
+                "abdominal": "Abdomen diffusely tender and rigid, with rebound and guarding; no edema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

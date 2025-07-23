@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Chemistry",
+            "date": "Not specified",
+            "findings": "8.6 mg/dL, within normal range (8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is dilated at its mid portion to the tip measuring up to 10 mm in diameter with hyperemia, surrounding soft tissue stranding and trace fluid. Bibasilar atelectasis is mild and symmetric. The kidneys present symmetric nephrograms and excretion of contrast; no focal renal lesion. Other abdominal organs are normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

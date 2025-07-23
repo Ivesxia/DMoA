@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is fluid filled, up to 1.2 cm with hyperemic wall and surrounding inflammatory changes. Lung bases demonstrate dependent atelectasis. Several subcentimeter hypodensities in the liver too small to characterize but most likely simple cysts. The gallbladder, spleen, pancreas, kidneys, and adrenals are unremarkable. The large bowel has moderate fecal loading. No evidence of perforation or fluid collection in the appendix.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation test",
+            "date": "Not specified",
+            "findings": "29.0 sec (reference range: 25.0 - 36.5 sec)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

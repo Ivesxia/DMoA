@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Elevated lipase at 1049 (normal range: 0.0 - 149.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Pancreas remains edematous with significant peripancreatic fat stranding and heterogeneous hypoenhancement of the pancreatic head; similar to prior MRCP.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

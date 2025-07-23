@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "heart_rate": "74 bpm",
+                "blood_pressure": "160/77 mmHg",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Moderate discomfort",
+                "HEENT": "Moist mucous membranes, PERRLA, EOMI, anicteric",
+                "cardiac": "Regular rate and rhythm, no murmurs, rubs, or gallops",
+                "chest": "Clear to auscultation bilaterally",
+                "abdomen": "Severe tenderness to palpation in the right upper quadrant, positive Murphy's sign, soft, nondistended, no rebound or guarding",
+                "extremities": "Warm and well-perfused",
+                "neurological": "Alert and oriented to person, place, and time"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

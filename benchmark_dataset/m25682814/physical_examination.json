@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.0°F",
+                "heart_rate": "115 bpm",
+                "blood_pressure": "101/70 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "95%"
+            },
+            "relevant_findings": {
+                "general": "A&Ox3, well-appearing female, in NAD",
+                "abdominal": "Soft, distended, notably lower abdominal tenderness to palpation (L>R) with rebound and guarding, no palpable masses",
+                "cardiovascular": "Rapid, irregular pulse",
+                "neurological": "Moves all limbs spontaneously, no focal deficits",
+                "pulmonary": "Comfortable on room air",
+                "HEENT": "No scleral icterus, no palpable lymphadenopathy"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

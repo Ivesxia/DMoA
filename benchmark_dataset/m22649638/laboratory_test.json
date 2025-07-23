@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated, measuring a maximum up to 8-9 mm. The proximal portion appears somewhat collapsed, but has an avidly enhancing wall. More distally, towards the tip, the appendix appears distended and fluid filled. There is wall irregularity. Along its superior margin, there is what appears to be a localized outpouching measuring approximately 8 x 8 mm. There is trace free fluid within the pelvis. No bowel obstruction. There is no drainable periappendiceal abscess.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": "Liver demonstrates normal echotexture. No focal lesions. Portal vein is patent with normal hepatopetal flow. No intra- or extra-hepatic biliary dilatation. Common bile duct measures 5 mm. A mobile gallstone within the gallbladder measuring approximately 1 cm. No signs of gallbladder wall thickening or pericholecystic fluid. Pancreas not visualized due to overlying bowel gas. Limited views of left and right kidney unremarkable without hydronephrosis. Spleen measures 8.2 cm. No free fluid within the abdomen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test (Glucose Level)",
+            "date": "Not specified",
+            "findings": "7.7 mg/dL (normal range: 8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

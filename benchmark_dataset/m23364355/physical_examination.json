@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "GEN: A&O, NAD; HEENT: No scleral icterus, mucus membranes moist; CV: RRR, No M/G/R; PULM: Clear to auscultation b/l, No W/R/R; ABD: Soft, nondistended, appropriately tender, no palpable masses; GU: foley present; Ext: No c/c/e; Neuro: grossly intact; Psyc: appropriate mood/affect",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Lung volumes remain low, contributing to crowding of bronchovascular markings with exaggeration of the heart size. Bilateral interstitial opacities likely represent mild pulmonary edema. Small bilateral pleural effusions may be slightly increased. No pneumothorax is seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

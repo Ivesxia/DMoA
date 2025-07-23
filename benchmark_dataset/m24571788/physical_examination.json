@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "141/83 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "general": "Appears uncomfortable, nontoxic",
+                "cardiovascular": "Regular rate and rhythm, palpable peripheral pulses",
+                "respiratory": "Nonlabored breathing on room air; symmetric chest excursion",
+                "gastrointestinal": "Soft, nondistended; tenderness to palpation (TTP) in the epigastric area; no rebound tenderness; guarding present; no tap or shake tenderness",
+                "extremities": "Warm, well-perfused, no clubbing, cyanosis, or edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

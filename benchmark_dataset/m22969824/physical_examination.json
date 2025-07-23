@@ -1,0 +1,19 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "102.7°F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "date_recorded": "Not specified"
+            },
+            "relevant_findings": {
+                "findings": "NAD, A&Ox3, rrr, no m/r/g, ctab, abd soft, right subcostal incision with staples in place, no erythema, c/d/i mae, no edema",
+                "date_recorded": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

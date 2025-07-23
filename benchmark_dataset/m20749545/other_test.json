@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar Puncture (CSF Test)",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy (H. pylori EGD Biopsy)",
+            "date": "Not specified",
+            "findings": "H. pylori discovered on EGD biopsy of antral plaque.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Tachycardic with irregular rhythm.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound of Liver or Gallbladder",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic with areas of fatty sparing adjacent to the gallbladder. No focal liver mass. Multiple gallbladder polyps measuring up to 0.7 cm. No evidence of stones or gallbladder wall thickening.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CSF analysis",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

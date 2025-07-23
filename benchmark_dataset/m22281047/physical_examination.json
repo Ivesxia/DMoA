@@ -1,0 +1,13 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "WBC": 16.4,
+                "Temperature": "Afebrile"
+            },
+            "relevant_findings": "General: alert, oriented X3; in no acute distress. Abdomen: soft, non-distended, RUQ/epigastrium tenderness and guarding, percutaneous cholecystostomy tube intact.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

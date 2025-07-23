@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Wedge-shaped airspace opacities likely representing atelectasis in the lingula and the left lower lobe; trace bilateral pleural effusions; a percutaneous cholecystostomy tube coiled in the gallbladder fundus; small amount of pericholecystic cystic fluid; decompressed gallbladder; no intra- or extrahepatic biliary duct dilation; normal liver and spleen; extensive inflammatory changes in the head and body of the pancreas; inflammation in the second and third portions of the duodenum; no abscess or pseudocyst formation; no abdominal ascites; normal caliber bowel loops; multiple cysts in the right kidney; no hydronephrosis; chronic-appearing fractures in the right seventh, sixth, and left seventh ribs; no acute-appearing fractures; endplate degenerative changes in the thoracolumbar spine.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

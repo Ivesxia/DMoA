@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory examination for leukocytes",
+            "date": "Not specified",
+            "findings": "2+ (1-5 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is visualized, dilated with thickened wall and fluid-filled with surrounding fat stranding, compatible with appendicitis. No evidence of acute complication, free air or extraluminal fluid collection. Trace free pelvic fluid noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

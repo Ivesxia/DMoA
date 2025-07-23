@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The gallbladder is mildly distended, with wall thickening, mucosal hyperemia, and adjacent fat stranding. No intrahepatic bile duct dilation and no radiopaque gallstones. There is mild diverticulosis of the sigmoid colon without evidence of diverticulitis. A small amount of nonhemorrhagic ascites within the pelvis. No pelvic mass.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

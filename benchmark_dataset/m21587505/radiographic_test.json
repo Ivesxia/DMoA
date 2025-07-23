@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Lung volumes are low. Bibasilar atelectasis or developing consolidation is better appreciated on lateral radiograph. No pleural effusion or pneumothorax. Heart size and cardiomediastinal and hilar silhouettes are normal. There is probably air under each hemidiaphragm, though a component of apparent air under the left diaphragm may be intraluminal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

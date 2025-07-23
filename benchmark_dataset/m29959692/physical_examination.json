@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "52 bpm",
+                "blood_pressure": "110/62 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "O2_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "General": "No acute distress, alert, awake, and oriented x 4, sitting up in chair.",
+                "HEENT": "No lymphadenopathy, trachea midline, pupils equal, round, reactive to light, extraocular movements intact.",
+                "Chest": "No cyanosis, no use of accessory muscles.",
+                "Lungs": "Clear to auscultation bilaterally on anterior and posterior exams, no increased work of breathing.",
+                "Heart": "Regular rate and rhythm, no murmurs, heaves, or thrills.",
+                "Abdomen": "(+) Bowel sounds x 4 quadrants, soft, mildly but stably distended, appropriately tender to palpation.",
+                "Extremities": "No pedal edema, pulses palpable in all extremities, moves all extremities against gravity.",
+                "Neurological": "No focal deficits.",
+                "Wound Assessment": "Port incisions healing well, covered with dermabond, no erythema or induration."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

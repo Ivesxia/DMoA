@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EGD",
+            "date": "Not specified",
+            "findings": "Antrum gastritis noted, but duodenum was normal.",
+            "changes_over_time": "Normal stomach and duodenum on the subsequent EGD."
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Guaiac positive stool.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "EGD",
+            "date": "Not specified",
+            "findings": "Normal stomach and duodenum.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Upper GI Series",
+            "date": "Not specified",
+            "findings": "Good opacification of the first, second and third portions of the duodenum. No extraluminal contrast or diverticulum was seen.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Nausea, vomiting, and diarrhea for the past day.",
+        "history_of_present_illness": "Symptoms began this morning at 1am with watery, non-bloody diarrhea. By the afternoon, the patient experienced non-bilious vomiting and abdominal pain. He has remained afebrile.",
+        "past_medical_history": "Type 1 diabetes, status post kidney and pancreas transplant, past cardiac catheterization and RCA stent, cataracts, AV fistula bilateral, vitrectomies.",
+        "family_history": "Adopted (unknown history).",
+        "social_history": "Reports drinking ___ drinks a week, but has not consumed any alcohol in over a week."
+    }
+}

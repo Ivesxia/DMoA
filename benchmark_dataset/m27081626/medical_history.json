@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain for 12 hours",
+        "history_of_present_illness": "The patient presented with abdominal pain that began 12 hours prior to admission. She has a recent history of abdominal pain and extensive workup by gastroenterology. The current pain is more intense and has been unremitting since it began. Previous pain was upper abdominal and band-like in nature. Additionally, she reports a 5-month history of vague abdominal discomfort, nausea, nonbloody diarrhea, occasional vomiting, anorexia, and a 30lb weight loss. Bowel movements have been loose for several weeks. She is also experiencing significant weakness and lethargy.",
+        "past_medical_history": "CVA, Graves' disease/apethetic thyrotoxicosis, COPD, Hypertension, Hypercholesterolemia, Chronic UTI, History of kidney stones, History of gastritis, Severe peripheral vascular disease s/p bypass grafts.",
+        "family_history": "Family history includes father with lung cancer and CAD; mother died of unknown causes at an unspecified age. No gastrointestinal or abdominal illnesses in family.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Amylase",
+            "date": "Not specified",
+            "findings": "1.8 mg/dL (Reference range: 1.6 - 2.6 mg/dL; within normal limits)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "A 5-mm calcified granuloma in the right lower lobe (unchanged), fibrotic changes in the right lower lobe (unchanged), 7-mm hypodensity within the pancreatic head (unchanged), 9-mm lesion in the pancreatic tail (unchanged), and an area of non-mass-like hypoenhancement in the upper pole of the left kidney (unchanged). Resolution of marked bowel dilatation compared to prior study.",
+            "changes_over_time": "Compared to the prior study, there has been essential resolution of the marked bowel dilatation."
+        }
+    ]
+}

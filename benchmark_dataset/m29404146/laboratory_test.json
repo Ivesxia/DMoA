@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "White Blood Cell Count",
+            "date": "Not specified",
+            "findings": "Elevated white count detected.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Multiple new intra-pelvic fluid collections, the largest measuring 8.0 x 7.5 x 4.7 cm; another fluid collection measuring 6.3 cm x 3.6 cm x 5.8 cm. No extraluminal contrast. Increased number of mesenteric and retroperitoneal lymph nodes, prominent inguinal lymph nodes have slightly increased in size.",
+            "changes_over_time": "Compared to the prior study, increased number of lymph nodes and new intra-pelvic fluid collections noted."
+        }
+    ]
+}

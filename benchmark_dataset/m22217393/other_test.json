@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopic retrograde cholangiopancreatography (ERCP)",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound (Liver or Gallbladder US)",
+            "date": "Not specified",
+            "findings": "The liver is of normal echotexture and demonstrates no focal liver lesions. The pancreas where evaluated is unremarkable with homogeneous parenchyma. The common bile duct measures 5 mm in its greatest dimension with no convincing evidence of stone in the distal CBD.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Tests",
+            "date": "Not specified",
+            "findings": "Hyperbilirubinemia and elevated transaminases.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic with smooth contour, no focal liver mass. The main portal vein is patent with hepatopetal flow, but no demonstrable flow in the left portal vein. No ascites. CBD measures 5 mm, gallbladder is decompressed and unremarkable, pancreas appears normal, right kidney is unremarkable, left kidney not visualized, retroperitoneum is within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

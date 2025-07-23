@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3",
+                "blood_pressure": "99/61",
+                "heart_rate": "71",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "96% RA"
+            },
+            "relevant_findings": {
+                "general_appearance": "pleasant, comfortable, no acute distress",
+                "eyes": "PERLL, EOMI, right eye injected, visual fields intact",
+                "respiratory": "minimal bibasilar crackles lower lungs, otherwise CTA",
+                "cardiovascular": "NS1/S2, RRR",
+                "gastrointestinal": "soft, NABS, ND, TTP RUQ/RLQ, no rebound/guarding",
+                "extremities": "no edema, +2 DP pulses",
+                "skin": "warm, no rashes/no jaundice/no skin ulcerations noted",
+                "neurological": "CN II-XII grossly intact, ___ strength in ___",
+                "psychiatric": "pleasant, appropriate affect"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "ED Visit",
+            "vital_signs": {
+                "temperature": "97.9",
+                "blood_pressure": "136/79",
+                "heart_rate": "107",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Patient's heart rate increased from 71 bpm to 107 bpm, and blood pressure decreased from 136/79 to 99/61."
+        }
+    ]
+}

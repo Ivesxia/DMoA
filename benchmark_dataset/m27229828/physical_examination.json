@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "76 bpm",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "NAD/A&O, CTAB, RRR, Abd Soft, Appropriately tender, nondistended. Minimal blood staining to infraumbilical incision, remaining 2 incisions CDI.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

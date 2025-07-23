@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Low lung volumes result in bronchovascular crowding. No focal consolidation is seen. The heart is stably enlarged. The mediastinal silhouette and hilar contours are unchanged. Stable vascular congestion is seen without pulmonary edema. Very small bilateral pleural effusions with bibasilar atelectasis are seen. There is no pneumothorax.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

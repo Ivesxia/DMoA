@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain.",
+        "history_of_present_illness": "The patient developed abdominal pain approximately 36 hours ago, initially generalized and midline, migrating to the right lower quadrant. The pain remains unchanged with Tylenol. The patient has experienced some vomiting and a low-grade fever.",
+        "past_medical_history": "Hypertension; past surgical history includes left foot surgery without problems related to bleeding or anesthesia.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

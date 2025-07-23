@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood test",
+            "date": "Not specified",
+            "findings": "Values: NO GROWTH. Reference range: 5.0 - 8.0 units. Measurement: 7.0 units.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT HEAD W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "No acute intracranial hemorrhage, edema, mass effect, or vascular territorial infarct. Ventricles and sulci are normal in size and morphology. Gray-white matter differentiation is preserved. Calcifications are noted in the cavernous carotid and vertebral arteries.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

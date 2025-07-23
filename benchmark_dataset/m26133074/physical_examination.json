@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4 °F",
+                "blood_pressure": "121/82 mmHg",
+                "heart_rate": "89 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "pulse_oximetry": "100%"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD",
+                "cardiovascular": "Not specified",
+                "respiratory": "Not specified",
+                "abdominal": "Soft, nondistended, tender diffusely but most notably in the RLQ, no rebound or guarding"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

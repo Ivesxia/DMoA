@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "70 bpm",
+                "blood_pressure": "95/52 mmHg",
+                "respiratory_rate": "13 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "HEENT": "Normocephalic, atraumatic, Extraocular muscles intact, Oropharynx within normal limits",
+                "cardiovascular": "Regular rate and rhythm",
+                "lung": "Clear to auscultation",
+                "abdominal": "Soft, non-tender, no rigidity, no rebound",
+                "GU/flank": "No costovertebral angle tenderness",
+                "skin": "No rash, warm and dry",
+                "neurological": "Speech fluent, GCS 15, full strength"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory test for blood urea nitrogen (BUN)",
+            "date": "Not specified",
+            "findings": "8.1 mg/dL (Reference range: 8.4 - 10.2 mg/dL; outside normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Free air under the hemidiaphragms consistent with an abdominal viscus perforation; cardiomediastinal silhouette unremarkable; lungs clear.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

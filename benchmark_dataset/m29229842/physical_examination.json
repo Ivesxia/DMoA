@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.5°F",
+                "heart_rate": "63 bpm",
+                "blood_pressure": "137/71 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing female, in no acute distress, alert and oriented x3.",
+                "cardiovascular": "Regular rate and rhythm.",
+                "abdominal": "Right lower quadrant pain on palpation. Soft, non-distended.",
+                "extremities": "Pulses palpable, no edema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

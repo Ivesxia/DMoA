@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Bibasilar atelectasis at the lung bases. No pleural or pericardial effusion. Two heterogenously hypodense liver lesions: one in segment VII measuring 3.5 x 3.5 cm and another near confluence of the portal vein measuring 1.8 x 1.8 cm. No evidence of intra- or extra-hepatic biliary duct dilatation. Normal gallbladder, spleen, and bilateral adrenal glands. Normal pancreas, stomach, and loops of small bowel. Kidneys enhance and excrete contrast symmetrically with no hydronephrosis. Left peripelvic renal cyst. Small lymph nodes in the retroperitoneum, but do not meet CT criteria for pathologic enlargement. No free air or free fluid. Scattered diverticula in the colon. Segment of sigmoid colon with marked wall thickening and adjacent mild fat stranding. 4 x 3 cm hypodense lesion in left adnexa; incompletely characterized. Normal urinary bladder and small bowel. No pathologically enlarged lymph nodes in the pelvic or inguinal area.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

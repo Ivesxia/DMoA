@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is of homogeneous echotexture without any concerning focal lesions. There is a small 8 x 8 x 10 mm simple cyst near the gallbladder fossa. The portal vein is patent with normal hepatopetal flow. There is no intra or extrahepatic biliary dilatation and the common bile duct measures 7 mm. The gallbladder is mildly distended with sludge. No gallstones are identified. The gallbladder wall appears less thickened than on the prior study. There is no significant ___ sign.",
+            "changes_over_time": "The gallbladder wall appears less thickened than on the prior study."
+        },
+        {
+            "procedure_name": "Anticoagulant Testing",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

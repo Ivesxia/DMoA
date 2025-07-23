@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.0°F",
+                "pulse": "96 bpm",
+                "blood_pressure": "126/87 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "O2_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress.",
+                "heart": "Regular rhythm and rate.",
+                "lungs": "Clear to auscultation bilaterally.",
+                "abdomen": "Soft, nondistended, tender to palpation focally in right lower quadrant, negative Rovsing's, psoas, and obturator signs.",
+                "extremities": "No noted edema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

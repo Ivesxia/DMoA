@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Exam for Serum Level",
+            "date": "Not specified",
+            "findings": "214.0 pg/mL (normal range: 240.0 - 900.0 pg/mL, results are below normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Free fluid in the pelvis, hyperenhanced tubular structure in right lower quadrant (11 mm diameter), consistent with inflamed appendix. Other abdominal organs appear normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

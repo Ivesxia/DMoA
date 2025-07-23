@@ -1,0 +1,26 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Lingular atelectasis and a right lower lobe calcified granuloma.",
+                "abdominal_hepatobiliary": {
+                    "liver": "Homogenous attenuation with relative low density corresponding to fatty infiltration and multiple subcentimeter hepatic hypodensities.",
+                    "biliary": "Extrahepatic CBD dilated up to 13 mm, stable.",
+                    "gallbladder": "Within normal limits, without stones."
+                },
+                "pancreas": "Mildly swollen without focal suspicious lesion.",
+                "spleen": "Normal size and attenuation without focal lesions.",
+                "adrenals": "Persistent thickening of the bilateral adrenal glands.",
+                "urinary": "Normal and symmetric size with normal nephrogram.",
+                "gastrointestinal": "Normal caliber small bowel loops, diverticulosis of the sigmoid colon.",
+                "retroperitoneum": "Multiple prominent mesenteric and retroperitoneal lymph nodes, not pathologically enlarged.",
+                "vascular": "No abdominal aortic aneurysm, moderate calcium burden.",
+                "pelvis": "Unremarkable urinary bladder and distal ureters.",
+                "bones_and_soft_tissues": "Degenerative changes in the lumbar spine."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

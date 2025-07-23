@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Cardiac size is normal. The lungs are clear. There is no pneumothorax or pleural effusion. ET tube is in standard position. NG tube tip is in the stomach.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

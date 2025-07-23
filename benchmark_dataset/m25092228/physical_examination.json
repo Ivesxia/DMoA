@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "118/64 mmHg",
+                "heart_rate": "97 bpm",
+                "oxygen_saturation": "98%",
+                "weight": "174 lbs",
+                "height": "69.5 inches",
+                "BMI": "25.3",
+                "temperature": "98.5 °F"
+            },
+            "relevant_findings": {
+                "general_appearance": "alert and oriented, no acute distress, pleasant",
+                "HEENT": "unremarkable, atraumatic, normocephalic, clear conjunctiva, Extra Ocular Muscles Intact bilaterally, Pupils Equal, Round, Reactive to Light, Oropharynx clear with moist mucous membranes",
+                "neck": "no lymphadenopathy, supple",
+                "cardiovascular": "no murmurs, click or rubs, normal S1S2, regular rate and rhythm",
+                "chest": "clear to auscultation",
+                "gastrointestinal": "tender to palpation at the right upper quadrant, no mass, no hepatosplenomegaly, bowel sounds normoactive",
+                "extremities": "no clubbing, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Dependent subsegmental atelectasis at the lung bases; a 4-mm hypodensity in the right lobe of the liver likely a cyst; normal gallbladder, pancreas, spleen, and bilateral adrenal glands; kidneys enhance and excrete contrast symmetrically without evidence of hydronephrosis or hydroureter; normal opacified stomach and intra-abdominal loops of small and large bowel; no free air or fluid in the abdomen; no mesenteric or retroperitoneal lymphadenopathy; wall thickening and free fluid at the junction of the descending and sigmoid colon with a tiny focus of gas, possibly representing a contained rupture; free fluid adjacent to the inflamed segment of colon; unremarkable urinary bladder, distal ureters, uterus, adnexa, and rectum; no pelvic or inguinal lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

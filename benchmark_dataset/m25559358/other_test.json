@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Barium swallow study",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT abdomen and pelvis with contrast",
+            "date": "Not specified",
+            "findings": {
+                "abdominal findings": "Fluid collection containing gas in the left flank, measuring approximately 6 x 2.5 x 3 cm, with substantial improvement in size.",
+                "previous size": "Measured approximately 7.7 x 3.5 x 7.6 cm.",
+                "no small bowel obstruction": "No small bowel dilatation to suggest an obstruction.",
+                "distended bladder": "Bladder marked distension.",
+                "lung findings": "Consolidation/collapse in the right lower lobe and minimal right-sided pleural effusion."
+            },
+            "changes_over_time": "The fluid collection in the left flank demonstrated substantial improvement in size."
+        },
+        {
+            "procedure_name": "Stool guaiac test",
+            "date": "Not specified",
+            "findings": "Stool guaiac negative.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

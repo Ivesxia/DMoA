@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "blood_pressure": "116/70 mmHg",
+                "heart_rate": "77 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": "Lungs are clear without pleural effusions, pneumothorax or focal airspace consolidations. Normal cardiomediastinal silhouette, hilar contours, and pulmonary vasculature. Osseous structures are grossly unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

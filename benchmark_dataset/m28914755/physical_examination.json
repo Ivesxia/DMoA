@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.4 °F",
+                "heart_rate": "128 bpm",
+                "blood_pressure": "128/57 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Healthy male, mild distress, no icterus",
+                "HEENT": "NC/AT, EOMI, PERRLA bilat., MMM, without cervical LAD on exam, poor dentition",
+                "cardiovascular": "RRR without m/g/r, no JVD, no bruits",
+                "lungs": "CTA bilat.",
+                "abdomen": "Soft, ND, tender at bilat. lower abdomen, R>L, +voluntary guarding at bilat. LQ, no masses, +percussion tenderness at bilat. LQ, +rebound tenderness at bilat. LQ",
+                "extremities": "Warm feet, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

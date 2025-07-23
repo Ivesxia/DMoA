@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized appendix measures 9 mm with thickened enhancing walls and periappendiceal stranding, consistent with acute appendicitis. There is mild hyperemia of the wall of the adjacent cecum. No evidence of perforation of the appendix or local fluid collections. Enlarged right ileocolic lymph nodes are noted, which are most likely reactive.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test for Cholesterol",
+            "date": "Not specified",
+            "findings": "8.7 mg/dL (normal range 8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

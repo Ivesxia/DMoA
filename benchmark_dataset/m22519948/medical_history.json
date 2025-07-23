@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Abdominal pain began at 9PM last night and has been worsening throughout the night. The patient reports + nausea/vomiting once and denies fever/chills or changes in bowels. There is a history of never experiencing pain like this before.",
+        "past_medical_history": "None",
+        "family_history": "Non-contributory",
+        "social_history": "Personal history of nicotine dependence"
+    }
+}

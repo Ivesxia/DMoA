@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "ST depression, isolated lead in II.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT abdomen/pelvis",
+            "date": "Not specified",
+            "findings": "Stable irregularly shaped hypodense lesion in the liver consistent with hemangioma; small pleural effusions; bibasilar atelectasis.",
+            "changes_over_time": "Stable compared to the recent prior study."
+        },
+        {
+            "procedure_name": "Laparoscopic drainage of liver abscess",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

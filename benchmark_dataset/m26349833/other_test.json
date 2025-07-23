@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Common bile duct was not accessed, and no contrast was administered.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase test",
+            "date": "Not specified",
+            "findings": "Lipase elevated to 1600.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

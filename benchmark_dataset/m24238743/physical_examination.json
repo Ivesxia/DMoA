@@ -1,0 +1,18 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "heart_rate": "57 bpm",
+                "blood_pressure": "126/74 mmHg",
+                "respiratory_rate": "17 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD",
+                "abdominal": "Soft, nondistended, tender to palpation in the RLQ, negative Rosving's sign, negative psoas sign, no rebound or guarding, no palpable masses, no hepatosplenomegaly"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

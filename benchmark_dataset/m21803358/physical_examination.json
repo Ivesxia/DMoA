@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8",
+                "heart_rate": "87",
+                "blood_pressure": "97/50",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, A&O x 3",
+                "lungs": "clear B/L",
+                "cardiovascular": "RRR, nl S1 and S2",
+                "abdominal": "soft, mildly TTP in RUQ, no guarding, no rebound, no hernias",
+                "extremities": "no c/c/e"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

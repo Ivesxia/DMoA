@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "New small right and trace left pleural effusions with adjacent dependent atelectasis, interlobular septal thickening, and ground-glass opacities. The liver demonstrates homogeneous attenuation. A 2.7 cm hepatic cyst in segment II is unchanged. The native pancreas is unremarkable. Increased adjacent fat stranding with adjacent lateral conal fascia thickening observed in the transplant pancreas. No pancreatic ductal dilatation. A pre-existing adjacent small peripancreatic fluid collection measuring approximately 12 mm is unchanged. The native kidneys are atrophic. The left lower lobe quadrant renal transplant appears unremarkable. Small volume free pelvic fluid noted. Hyperattenuating material within the endometrium, potentially reflective of contrast material, new in the interval.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbiology Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

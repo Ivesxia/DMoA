@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "blood_pressure": "150/93 mmHg",
+                "heart_rate": "89 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Awake and alert. No acute distress.",
+                "heent": "PERRL. Mild scleral icterus. Moist mucous membranes. No oral lesions.",
+                "neck": "Supple. No lymphadenopathy.",
+                "heart": "Regular rate and rhythm. No murmur appreciated.",
+                "lungs": "Clear to auscultation bilaterally.",
+                "abdomen": "Bowel sounds positive. Soft, nondistended. Mild tenderness to palpation just left of epigastric, otherwise nontender. No masses or hepatosplenomegaly appreciated.",
+                "extremities": "No edema.",
+                "neurological": "Alert and oriented x3. Cranial nerves II-XII grossly intact. Strength in upper extremities and lower extremities 5/5. Resting tremor in upper extremities bilaterally (baseline per patient, due to TB treatment)."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

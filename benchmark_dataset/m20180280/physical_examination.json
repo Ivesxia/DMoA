@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "heart_rate": "120 bpm",
+                "blood_pressure": "124/83 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "cardiovascular": "Irregular heartbeat",
+                "respiratory": "Clear to auscultation bilaterally",
+                "abdominal": "Soft, diffuse tenderness with rebound, no guarding, non-distended; midline incision observed"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

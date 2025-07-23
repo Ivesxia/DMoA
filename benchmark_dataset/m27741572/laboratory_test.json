@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "6 mm hypodensity in the left hepatic lobe is too small to accurately characterize, statistically most likely a cyst, hemangioma, or biliary hamartoma. The appendix is dilated with wall hyperemia and moderate surrounding fat stranding in the right lower quadrant. Wall edema and/or phlegmon at the base of the appendix observed. No evidence of a drainable fluid collection or free air. Minimal secondary inflammatory changes in the cecum related to appendicitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "NONE /hpf",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

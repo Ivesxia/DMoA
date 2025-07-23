@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Cystoscopy",
+            "date": "Not specified",
+            "findings": "No tumors, diverticula, or calculi, but incomplete emptying with debris present within bladder. Normal ureteral orifices.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urodynamic study",
+            "date": "Not specified",
+            "findings": "Hypotonic bladder with incomplete emptying.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Stool test for C. difficile",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine culture",
+            "date": "Not specified",
+            "findings": "10,000-100,000 organisms/mL of Escherichia coli; subsequent culture showed >100,000 organisms/mL of Proteus mirabilis sensitive to Ampicillin.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

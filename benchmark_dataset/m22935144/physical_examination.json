@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6 °F",
+                "heart_rate": "73 bpm",
+                "blood_pressure": "152/74 mmHg",
+                "respiratory_rate": "18 bpm",
+                "oxygen_saturation": "98%",
+                "recorded_date": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "NAD, AAOx3, pleasant",
+                "cardiovascular": "RRR",
+                "pulmonary": "CTAB",
+                "abdominal": "Soft, non-distended, +BS; Tender to palpation in RLQ, negative guarding but mild rebound tenderness; Negative Rovsing, positive obturator/psoas signs.",
+                "extremities": "Insulin monitor on R anterior thigh, Insulin pump on R arm at triceps; Extremities WWP no c/c/e.",
+                "exam_date": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

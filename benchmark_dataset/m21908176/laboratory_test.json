@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "No MRSA isolated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolyte Panel",
+            "date": "Not specified",
+            "findings": "25.0 mEq/L (normal range: 21.0 - 30.0 mEq/L).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Cardiac size is normal. The lungs are clear. There is no pneumothorax or pleural effusion. ET tube is in standard position. NG tube tip is in the stomach.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

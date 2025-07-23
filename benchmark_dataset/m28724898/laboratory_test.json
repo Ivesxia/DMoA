@@ -1,0 +1,47 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "condition": "within normal limits",
+                    "lesion": "hyperechoic lesion measuring approximately 6 mm in segment V, unchanged since prior study, likely represents a hemangioma"
+                },
+                "bile_ducts": {
+                    "condition": "no intrahepatic biliary dilation",
+                    "CBD_measurement": "6 mm"
+                },
+                "gallbladder": {
+                    "condition": "distended and filled with sludge",
+                    "wall_edema": "mild, measuring up to 6 mm",
+                    "pericholecystic_fluid": "none"
+                },
+                "pancreas": {
+                    "condition": "not well seen due to overlying bowel gas"
+                },
+                "kidneys": {
+                    "right_kidney_measurement": "8.1 cm",
+                    "condition": "no masses, hydronephrosis, or stones"
+                },
+                "retroperitoneum": {
+                    "condition": "visualized portions of aorta and IVC are within normal limits"
+                }
+            },
+            "changes_over_time": "unchanged since prior study"
+        },
+        {
+            "procedure_name": "PSEUDOMONAS AERUGINOSA, ENTEROCOCCUS SP.",
+            "date": "Not specified",
+            "findings": {
+                "pathogen": "PSEUDOMONAS AERUGINOSA, ENTEROCOCCUS SP.",
+                "result": "3.4 mg/dL",
+                "reference_range": {
+                    "lower": 2.7,
+                    "upper": 4.5
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung_bases": "clear",
+                "pleural_effusion": "none",
+                "pericardial_effusion": "none",
+                "liver": "enhances homogeneously, without focal lesions or intrahepatic biliary ductal dilatation",
+                "gallbladder": "distended without wall edema or pericholecystic fluid",
+                "mild_local_edema": "likely secondary to IV fluid administration",
+                "portal_vein": "patent",
+                "pancreas": "no focal lesions, peripancreatic stranding or fluid collection",
+                "spleen": "homogeneous and normal in size",
+                "adrenals": "unremarkable",
+                "kidneys": "no solid or cystic lesions, symmetric nephrograms and excretion of contrast, no pelvicaliceal dilatation or perinephric abnormalities",
+                "gi_tract": "stomach, duodenum and small bowel show no evidence of wall thickening or obstruction; colon non-dilated without obstructive lesions, dilated, fluid filled appendix measuring up to 1.5cm with mural enhancement and significant surrounding fat stranding compatible with appendicitis",
+                "aorta": "normal caliber without aneurysmal dilatation",
+                "ivc_and_major_abdominal_vessels": "patent",
+                "retroperitoneum_and_abdomen": "scattered prominent lymph nodes in right lower quadrant, likely reactive, no retroperitoneal lymphadenopathy, no free air or abdominal wall hernias",
+                "pelvic_ct": "urinary bladder and terminal ureters are normal, no pelvic wall or inguinal lymph node enlargement, small amount of intermediate density free fluid within pelvis",
+                "osseo_structures": "no blastic or lytic lesion suspicious for malignancy"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

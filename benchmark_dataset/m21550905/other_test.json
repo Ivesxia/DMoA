@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EKG",
+            "date": "Not specified.",
+            "findings": "EKG without ischemic changes.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified.",
+            "findings": "Gallbladder is minimally distended. Cholelithiasis without gallbladder wall thickening or pericholecystic fluid. No intrahepatic biliary dilation. The hepatic parenchyma appears within normal limits.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

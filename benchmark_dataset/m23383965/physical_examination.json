@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "121/77 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "94% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, in no acute distress, appears uncomfortable.",
+                "HEENT": "No scleral icterus; mucous membranes moist.",
+                "cardiovascular": "Regular rate and rhythm.",
+                "pulmonary": "Respirations unlabored.",
+                "abdominal": "Soft, nondistended, obese, with right upper quadrant/epigastric tenderness to palpation; positive Murphy's sign. No rebound or guarding, no palpable masses/hernias, well-healed ~15 cm transverse scar extending from right lateral abdominal wall to umbilicus.",
+                "extremities": "No edema, warm and well perfused."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

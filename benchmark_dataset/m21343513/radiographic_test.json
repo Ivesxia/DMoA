@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Scattered sub-3-mm ground-glass nodules at the lung bases; no pleural effusions; liver enhances homogeneously; gallbladder partially collapsed; normal pancreas; no biliary ductal dilation; normal spleen; kidneys enhance and excrete contrast promptly; normal stomach and small bowel; appendix dilated to 8 mm and filled with fluid, moderate circumferential wall thickening and hyperenhancement, mild surrounding fat stranding, and simple free fluid in the right lower quadrant; moderate amount of retained fecal material throughout colon and rectum; unremarkable bladder and distal ureters; normal uterus and ovaries; several small reactive mesenteric and retroperitoneal nodes, measuring up to 9 mm; limbus vertebra at L3.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "abdominal pain",
+        "history_of_present_illness": "Mr. ___ started experiencing abdominal pain in the right and mid lower abdomen following brunch on ___, initially attributing it to gas pain and taking medication for relief. Symptoms did not improve until he took excedrin and fell asleep. On ___, he noticed chills, uncertain if he had a true fever. On ___, the abdominal pain increased in severity, more pronounced with walking. He decided to seek medical help when the pain escalated and visited his PCP, who referred him to the ED. His last bowel movement was yesterday morning, continuing to pass flatus. Appetite has decreased significantly over the last couple of days. He denies dysuria or urinary frequency but reports some bladder pressure over the last few days.",
+        "past_medical_history": "none",
+        "family_history": "non-contributory",
+        "social_history": "Not specified"
+    }
+}

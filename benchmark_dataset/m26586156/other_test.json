@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Cholangitis, with successful stone extraction and placement of a stent in the left hepatic duct.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "C.diff test",
+            "date": "3 days prior to ED presentation",
+            "findings": "Negative for C. difficile.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

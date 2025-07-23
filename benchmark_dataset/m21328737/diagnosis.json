@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis",
+        "differential_diagnosis": "Exercise-induced asthma, Depression",
+        "diagnostic_reasoning": "The CT scan of the abdomen and pelvis revealed an abnormal appendix with a dilated fluid-filled lumen and moderate appendiceal wall enhancement, which are indicative of appendicitis. Additionally, there was surrounding periappendiceal fat stranding, further supporting the diagnosis. Other organs were within normal limits, and there were no signs of perforation, which corroborated the diagnosis of appendicitis over other differential diagnoses."
+    }
+}

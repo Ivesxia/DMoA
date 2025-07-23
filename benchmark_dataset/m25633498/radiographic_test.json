@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "The lungs are clear bilaterally without focal consolidation, effusion, or pneumothorax. The heart and mediastinal contour are normal. Incidental note is made of an azygos fissure. Bony structures are intact. No free air below the right hemidiaphragm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

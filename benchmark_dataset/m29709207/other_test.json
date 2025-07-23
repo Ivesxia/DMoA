@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "RUQ Ultrasound",
+            "date": "Not specified",
+            "findings": "Sonographic ___ sign, distended gallbladder with wall thickening, gallstones and sludge, and CBD dilation of 1-cm.",
+            "changes_over_time": "Repeat RUQ ultrasound similarly shows gallbladder wall thickening with stones and sludge, and a 1cm CBD."
+        },
+        {
+            "procedure_name": "Laparoscopic cholecystectomy",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

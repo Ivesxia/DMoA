@@ -1,0 +1,10 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Liver Ultrasound",
+            "date": "Not specified",
+            "findings": "Hepatic parenchyma appears coarsened, with smooth contour. No focal liver mass or ascites. Several stones in gallbladder without evidence of cholecystitis. Decreased echogenicity of the pancreas suggestive of edema, no focal lesion identified. Normal spleen and kidneys, no hydronephrosis. Doppler evaluation shows decreased velocities compared to prior study.",
+            "changes_over_time": "Decreased velocities in Doppler evaluation compared to prior study."
+        }
+    ]
+}

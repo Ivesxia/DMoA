@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "69 bpm",
+                "blood_pressure": "117/71 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "NAD, AOx3",
+                "pulmonary": "no distress",
+                "abdominal": "S/ND/TTP RLQ - Rovsing's sign positive",
+                "lower_extremities": "no findings"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

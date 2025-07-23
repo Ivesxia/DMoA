@@ -1,0 +1,10 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver is slightly fatty. No focal hepatic lesions. The gallbladder is normal. No intra- or extra-hepatic biliary duct dilatation. The pancreas, spleen, and bilateral adrenal glands are normal. The kidneys are homogeneously enhancing and excreting urine without evidence of stones or masses. No retroperitoneal or mesenteric lymphadenopathy. The portal venous system, systemic arterial and systemic venous systems of the abdomen are normal. No free air. The appendix is dilated, mainly fluid-filled, measuring up to 17 mm in diameter with an appendicolith at the base, hyperenhancement of the appendiceal wall, and periappendiceal fat stranding. No evidence of abscess formation or perforation. A small amount of simple fluid is present in the pelvis. The reminder of the colon and the urinary bladder are normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

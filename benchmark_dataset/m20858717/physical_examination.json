@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "blood_pressure": "116/70 mmHg",
+                "heart_rate": "59 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "94% on 2L"
+            },
+            "relevant_findings": {
+                "general": "Middle aged, NAD lying in bed",
+                "HEENT": "Dry mucous membranes, anicteric",
+                "cardiovascular": "No JVD elevation, normal rate, regular rhythm",
+                "pulmonary": "Basilar crackles, low lung volumes/inspiration",
+                "abdominal": "Distended, tender to palpation (TTP) in the epigastrum, quiet bowel sounds, no organomegaly, no rebound or guarding in epigastrum",
+                "neurological": "Facial symmetry, normal speech, grossly normal motor movements",
+                "skin": "No appreciable rash",
+                "psychiatric": "Mood/affect appropriate"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

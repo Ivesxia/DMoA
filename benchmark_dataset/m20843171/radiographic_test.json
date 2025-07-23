@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The imaged lung bases are clear. The liver enhances normally without focal lesion. The gallbladder, pancreas, and both adrenal glands are normal. The spleen is unremarkable. The kidneys enhance symmetrically and excrete contrast promptly without focal lesion or hydronephrosis. The abdominal aorta is normal in course and caliber with widely patent major branches. There is an incidental circumaortic left renal vein noted. No retroperitoneal lymphadenopathy. No free air is seen. The stomach is unremarkable and collapsed. The duodenum is mildly dilated, likely due to mild compression at the midline at the crossing SMA. Loops of small bowel demonstrate no signs of ileus or obstruction. The appendix is dilated and fluid filled with hyperemia of the mucosa compatible with appendicitis. There is trace free fluid though no signs of perforation. The colon contains a moderate fecal load. The urinary bladder appears normal. Trace free fluid in the deep pelvis. No worrisome lytic or blastic osseous lesion is seen. Bilateral pars defects are noted at L5 without associated listhesis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

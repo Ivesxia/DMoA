@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiograph - ABDOMEN (SUPINE & ERECT)",
+            "date": "Not specified",
+            "findings": "Trace free air under the right hemidiaphragm, multiple dilated loops of small bowel with some air fluid levels, and NG tube tip is seen in the stomach.",
+            "changes_over_time": "Comparison is made with prior CT from ___."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy (Bone Marrow)",
+            "date": "Not specified",
+            "findings": "Confirmed known history of CLL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lymph Node Biopsy",
+            "date": "Not specified",
+            "findings": "Consistent with CLL without any evidence of transformation; note of caseating granuloma concerning for TB.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "PPD Test",
+            "date": "Not specified",
+            "findings": "Positive.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Mild dilatation of the common bile duct; intrahepatic ducts well opacified with no abnormalities, no filling defect or stricture.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

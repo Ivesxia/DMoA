@@ -1,0 +1,36 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC and Liver Function Tests",
+            "date": "Not specified",
+            "findings": {
+                "Hct": "40.4",
+                "WBC": "8.5 (Bands 3%)",
+                "ALT": "173",
+                "AST": "490",
+                "Alk Phos": "130",
+                "Bili": "1.0",
+                "Albumin": "3.9",
+                "Lipase": "5193"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Potassium (K+)",
+            "date": "Not specified",
+            "findings": {
+                "K+": "3.7"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": {
+                "filling defect": "irregular, 4-mm stone removed",
+                "dilation": "no significant dilatation of CBD, common hepatic duct, or intrahepatic biliary ducts"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

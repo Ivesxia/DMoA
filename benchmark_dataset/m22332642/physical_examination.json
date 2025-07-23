@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0 °F",
+                "heart_rate": "71 bpm",
+                "blood_pressure": "124/73 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "saO2": "100% on RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, comfortable appearing",
+                "heent": "injected sclerae",
+                "neck": "supple",
+                "cardiovascular": "s1s2 rhythm regular, soft, S1/S2 can be heard in axilla but not holosystolic",
+                "respiratory": "bilateral air entry, no wheezes/crackles/rhonchi",
+                "abdominal": "bowel sounds present, soft, non-tender even with deep palpation in all quadrants, non-distended, no guarding or rebound tenderness",
+                "extremities": "no cyanosis/clubbing/edema, 2+ pulses",
+                "dermatological": "no rash",
+                "neurological": "face symmetric, speech fluent",
+                "psychiatric": "calm, cooperative"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

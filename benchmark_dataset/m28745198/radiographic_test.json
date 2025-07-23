@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI of the Cervical Spine",
+            "date": "Not specified",
+            "findings": "No evidence of bony injury or ligamentous disruption. Mild disk bulging at C3-4 without spinal stenosis or foraminal narrowing. At C4-5 mild to moderate left-sided and mild right-sided foraminal narrowing. At C5-6 level cord disk bulging and mild-to-moderate left foraminal narrowing. No abnormalities at C6-7 through T3-4.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Intraoperative cholangiogram",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Bilateral lower lung atelectasis, left side more than right side has improved. No new lung opacities of concern. Heart size is mildly enlarged. Mediastinal and hilar contours are unchanged. Pleural effusion, if any, is minimal on the left side.",
+            "changes_over_time": "Bilateral lower lung atelectasis has improved since previous radiograph."
+        }
+    ]
+}

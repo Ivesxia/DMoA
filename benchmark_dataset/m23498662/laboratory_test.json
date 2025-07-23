@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver shows no evidence of focal lesions or textural abnormality. The main portal vein is patent. There is no evidence of intrahepatic or extrahepatic biliary dilatation. The CBD measures up to 4 mm. Numerous layering stones are seen within the gallbladder which is partially distended but without evidence of pericholecystic fluid or gallbladder wall edema. A small echogenic foci in the nondependent portion of the gallbladder may be related to adenomyomatosis versus adherent stones. The spleen measures 9 cm and has a homogeneous echotexture. The pancreas is unremarkable. The right kidney is normal. There was a negative sonographic ___ sign.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bilirubin Test",
+            "date": "Not specified",
+            "findings": "1.9 mg/dL (Normal range: 1.6 - 2.6 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

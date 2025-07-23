@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0",
+                "heart_rate": "76",
+                "blood_pressure": "110/57",
+                "respiratory_rate": "18"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD, resting comfortably in bed.",
+                "HEENT": "No scleral icterus, mucus membranes moist.",
+                "cardiovascular": "Regular rate, irregular rhythm, No M/G/R.",
+                "pulmonary": "Clear to auscultation b/l, No W/R/R.",
+                "abdominal": "Soft, distended, tender to palpation in RUQ, palpable gallbladder, small reducible ventral hernia; midline and RLQ incisions well-healed; no rebound or guarding.",
+                "extremities": "Pitting edema of b/l ___, warm and well-perfused; limited ext exam ___ pt refusal to remove TEDs."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

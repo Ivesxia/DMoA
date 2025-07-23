@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT-guided placement of an ___ pigtail catheter",
+            "date": "Not specified",
+            "findings": "Placement of a catheter into right lower quadrant fluid collection.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Multidetector CT of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Large fluid collection within the right hemipelvis measuring approximately 4.2 x 6.8 x 5.1 cm, with surrounding fat stranding and adjacent bowel wall thickening along the cecum and portions of the ascending colon. Likely perforated appendix indicated.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

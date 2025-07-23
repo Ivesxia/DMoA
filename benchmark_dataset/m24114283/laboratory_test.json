@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT CHEST W/CONTRAST",
+            "date": "Not specified",
+            "findings": "There is no mediastinal or hilar adenopathy. The airways are patent to the subsegmental level. There is some calcification within the aortic arch. The heart and great vessels are otherwise normal. There is bilateral linear atelectasis without any focal nodules. There is no pericardial or pleural effusion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN WITH IV CONTRAST",
+            "date": "Not specified",
+            "findings": "There is intra-hepatic ductal dilatation. There are no focal liver lesions. There has been a cholecystectomy. The CBD measures 7mm. There is some slight haziness at the pancreatic head. There is bilateral fat stranding around the kidneys. The kidneys enhance symmetrically and excrete normally. The small and large bowel appear normal. There is no mesenteric or retroperitoneal adenopathy. There is no free fluid or free air.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT PELVIS WITH IV CONTRAST",
+            "date": "Not specified",
+            "findings": "The bladder, rectum and sigmoid are normal. The prostate is mildly enlarged measuring 4.6 cm. There are small bilateral fat-containing inguinal hernias. There is no inguinal or pelvic adenopathy. There is atherosclerotic calcification of the intra-abdominal aorta and iliac vessels.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

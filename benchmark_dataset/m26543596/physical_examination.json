@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1 F",
+                "heart_rate": "92 bpm",
+                "blood_pressure": "118/84 mmHg",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD",
+                "heent": "No scleral icterus, mucus membranes moist",
+                "cv": "RRR, No M/G/R",
+                "pulm": "Clear to auscultation b/l, No W/R/R",
+                "abd": "Soft, nondistended, tender to light palpation in the RUQ, no rebound or guarding, normoactive bowel sounds, no palpable masses",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "ultrasound": "Gallbladder is distended, with wall thickening measuring up to 9 mm, gallstones are seen within the gallbladder. A positive sonographic sign is elicited. No significant pericholecystic fluid is seen, and the common bile duct is normal in size measuring 3 mm. The visualized liver is normal in echogenicity. Limited views of the kidneys demonstrate no hydronephrosis. The pancreas is normal in appearance."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

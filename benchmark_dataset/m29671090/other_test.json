@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Physical Examination",
+            "date": "Not specified",
+            "findings": "Fever at 101.2°F, soft non-distended abdomen, tender to palpation in epigastric, suprapubic, and RLQ areas, +voluntary guarding and rebound to palpation in RLQ, no CVA tenderness.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray (Pre-op PA & LAT)",
+            "date": "Not specified",
+            "findings": "Normal cardiac, mediastinal, and hilar contours; clear lungs; incidental note of azygous fissure; no pleural effusion or pneumothorax.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

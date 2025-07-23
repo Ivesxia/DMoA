@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Diarrhea, vomiting, and weakness",
+        "history_of_present_illness": "Symptoms have been present since prior to patient's recent STEMI last week. The patient has experienced shortness of breath, unsteadiness since leaving the hospital, poor oral intake, dizziness, and has fallen at home without head trauma. No abdominal pain, fever, chest pain, or back pain reported.",
+        "past_medical_history": "Chronic obstructive pulmonary disease (emphysema), gastric ulcers, history of bilateral inguinal hernia repair, recent STEMI.",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

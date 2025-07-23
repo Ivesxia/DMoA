@@ -1,0 +1,10 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "ALT 55 IU/L (Normal range: 0.0 - 100.0 IU/L), AST 44 IU/L (Normal range: 0.0 - 100.0 IU/L), Lipase 1059 IU/L (Normal range not specified, but this value is significantly elevated). INR 0.9 (Normal range not specified).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

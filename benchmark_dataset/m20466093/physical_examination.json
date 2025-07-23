@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2 F",
+                "heart_rate": "52 bpm",
+                "blood_pressure": "101/59 mmHg",
+                "respiratory_rate": "18 bpm",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "No scleral icterus, neck is atraumatic and any color.",
+                "pulmonary": "Clear to auscultation bilaterally, good air movement.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/rubs/gallops, S4 heart sound present.",
+                "abdominal": "Bowel sounds present, wounds consistent with laparoscopic gastric bypass, abdomen soft, non-tender, non-distended, palpable gallbladder, no other masses.",
+                "back": "No costovertebral angle tenderness.",
+                "extremities": "Warm, well-perfused, no cyanosis/clubbing/edema."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

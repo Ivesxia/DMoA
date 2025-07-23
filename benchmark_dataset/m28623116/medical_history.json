@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric abdominal pain",
+        "history_of_present_illness": "Pain began at 3 am and is described as sharp epigastric pain radiating inferiorly. Patient tolerated breakfast but subsequently experienced nausea with retching but no vomiting. Normal bowel movements noted, without diarrhea, blood, or melena. Patient reported dizziness upon admission to the ED.",
+        "past_medical_history": "GERD, HTN, hypercholesterolemia, arthrosclerosis, breast ca?, arthritis",
+        "family_history": "There is no family history of liver disease",
+        "social_history": "Not specified"
+    }
+}

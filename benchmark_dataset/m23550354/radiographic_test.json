@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Mildly echogenic liver concerning for fatty infiltration. No intra- or extra-hepatic biliary duct dilatation. Common bile duct measures 8 mm. Mild gallbladder wall edema and multiple gallstones. Gallstones are seen at the gallbladder neck. Negative sonographic sign. Main portal vein is patent. Evaluation of the pancreas is suboptimal due to overlapping bowel gas.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

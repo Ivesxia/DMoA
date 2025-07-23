@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97°F",
+                "heart_rate": "98 bpm",
+                "blood_pressure": "144/76 mmHg",
+                "respiratory_rate": "95% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert and in no apparent distress, walking in hallway with walker, stopped every few minutes to catch his breath",
+                "eyes": "Anicteric, pupils equally round",
+                "ears_nose_throat": "Ears and nose without visible erythema, masses, or trauma. Oropharynx without visible lesion, erythema or exudate",
+                "cardiovascular": "Heart regular, no murmur, no S3, no S4",
+                "respiratory": "Lungs clear to auscultation, moderate air movement. No wheezes or rhonchi. Trace crackles at bases",
+                "gastrointestinal": "Abdomen soft, non-distended, tender to palpation in lower quadrants bilaterally. Healing wound in abdomen with gauze inside, surrounding well-granulated tissue with no pus or bleeding",
+                "genitourinary": "No suprapubic fullness or tenderness to palpation. Mild tenderness in lower back bilaterally, but no CVA tenderness",
+                "musculoskeletal": "Neck supple, moves all extremities, strength grossly full and symmetric bilaterally in all limbs",
+                "skin": "No rashes or ulcerations noted",
+                "neurological": "Alert, oriented, face symmetric, gaze conjugate with EOMI, speech fluent, moves all limbs",
+                "extremities": "Chronic discoloration of lower extremities, tense, tender, 1+ edema",
+                "psychological": "Pleasant, appropriate affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

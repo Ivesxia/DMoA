@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain and emesis.",
+        "history_of_present_illness": "Patient reports onset of intense nausea and suprapubic/epigastric pain while at the store one day prior to admission. She has had vomiting but is unable to quantify the number of episodes. Denies constipation, diarrhea, fevers, chills, or hematemesis.",
+        "past_medical_history": "ESRD, DM2, HCV, HTN, CHF, history of missing HD appointments, previous headache admissions consistent with migraines, chronic diastolic CHF, mixed bacterial flora infection, history of left leg and right wrist fractures.",
+        "family_history": "Brother died of myocardial infarction, father died of cerebrovascular accident, mother has systemic lupus erythematosus, hypertension, and asthma.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound - Liver or Gallbladder",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "echotexture": "normal",
+                    "biliary_duct_dilation": "none",
+                    "common_bile_duct_measurement": "3 mm"
+                },
+                "gallbladder": {
+                    "visualization": "suboptimal",
+                    "appearance": "heterogeneous and echogenic",
+                    "suggestion": "filled with sludge and stones",
+                    "wall_visualization": "unable to visualize",
+                    "positive_sign": "present"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Unknown Test",
+            "date": "Not specified",
+            "findings": {
+                "result": "4.0 g/dL",
+                "reference_range": {
+                    "lower": 3.5,
+                    "upper": 5.2
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture Test",
+            "date": "Not specified",
+            "findings": {
+                "result": "NO GROWTH"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

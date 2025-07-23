@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bilirubin",
+            "date": "Not specified",
+            "findings": "Total bilirubin is 4.2 mg/dL. Elevated, previously peaked at 16 mg/dL.",
+            "changes_over_time": "Bilirubin peaked at 16 on Not specified and has since decreased to 4.2."
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase is 682 U/L. Elevated.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "WBC: 10.1 x 10^9/L, RBC: 2.68 x 10^12/L (low), HGB: 8.8 g/dL (low), HCT: 26.4% (low), Platelet count: 278 x 10^9/L. Presence of anisocytosis and other abnormal features.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver Function Test (LFT)",
+            "date": "Not specified",
+            "findings": "ALT (SGPT): 37 U/L, AST (SGOT): 42 U/L (elevated), ALK PHOS: 316 U/L (elevated).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT Scan (Contrast)",
+            "date": "Not specified",
+            "findings": "The size and number of metastatic sites in the liver have increased from prior scans.",
+            "changes_over_time": "The largest lesion now measures 9.2 x 6.1 cm, new lesions are seen in the left lobe of the liver."
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate is 1.5 mmol/L.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

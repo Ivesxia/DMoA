@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "blood_pressure": "108/62 mmHg",
+                "heart_rate": "82-118 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, resting, sleepy on exam",
+                "eyes": "Extraocular movements intact, no scleral icterus",
+                "cardiovascular": "Regular rate and rhythm, S1-S2, no murmurs/rubs/gallops, no edema, 2+ in lower extremities",
+                "lungs": "Clear to auscultation, no wheezes/rales/crepitations",
+                "gastrointestinal": "Bowel sounds present, soft abdomen, tender to palpation in epigastric area and over biliary drain, no rebound or guarding, no peritoneal signs",
+                "musculoskeletal": "Strength intact bilaterally, range of motion intact, generalized weakness noted",
+                "neurological": "Moving all extremities, no focal deficits, alert and oriented times three",
+                "skin": "Percutaneous drain site clean/dry/intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

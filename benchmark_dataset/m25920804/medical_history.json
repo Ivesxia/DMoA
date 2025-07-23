@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Lower left quadrant abdominal pain for 3 days.",
+        "history_of_present_illness": "Patient reports severe LLQ pain which started 3 days ago without a specific onset. The pain is associated with an inability to tolerate oral intake, nausea, and vomiting. Some soft stools were noted, but no overt diarrhea. Patient also experienced chills and has been taking 1g acetaminophen every 8 hours for pain control. Due to the severity of symptoms and inability to walk from the pain, the patient presented to the ED instead of going to hemodialysis.",
+        "past_medical_history": "Venous insufficiency, congenitally absent infrarenal inferior vena cava, history of necrotizing fasciitis, end stage renal disease on dialysis, chronic venous stasis.",
+        "family_history": "Father with diabetes mellitus; no thrombophilic disorders or unexplained clots; no history of frequent infections.",
+        "social_history": "Not specified."
+    }
+}

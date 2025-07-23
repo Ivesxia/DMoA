@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is hyperemic with thickened walls and measures 14 mm in diameter. There is a 2.8 x 2.5 x 2.6 cm round rim-enhancing fluid collection located at the tip of the appendix that is consistent with an abscess due to appendiceal rupture. There is extensive fat stranding in the fat planes in the right lower quadrant and significant wall thickening of the terminal ileum and cecum most likely reactive to adjacent inflammation. The intra-abdominal vasculature is unremarkable. There is no retroperitoneal or mesenteric lymph node enlargement by CT size criteria. There is no ascites, free air, or abdominal wall hernias.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test unspecified (organism count)",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test unspecified (coagulation time)",
+            "date": "Not specified",
+            "findings": "14.6 sec",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

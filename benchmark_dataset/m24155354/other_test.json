@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laparoscopic cholecystectomy",
+            "date": "Not specified",
+            "findings": "Acute cholecystitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdomen ultrasound (complete study)",
+            "date": "Not specified",
+            "findings": "Single 1.5 cm gallstone lodged within the neck of the gallbladder; gallbladder is distended with no pericholecystic fluid or gallbladder wall thickening. No evidence of hydronephrosis, stones, or concerning lesions in the kidneys.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

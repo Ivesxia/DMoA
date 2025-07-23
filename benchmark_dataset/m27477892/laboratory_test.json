@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC count of 18, indicating leukocytosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is fluid filled, enlarged (12 mm) with marked mucosal hyperenhancement and thickening with periappendiceal fat stranding, suggesting appendicitis. The gallbladder contains layering hyperdense material likely representing stones and sludge. No evidence of hydronephrosis or free air/fluid in the abdomen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

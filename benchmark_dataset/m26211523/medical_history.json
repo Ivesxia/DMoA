@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute onset abdominal pain",
+        "history_of_present_illness": "Symptoms began at noon today, initially epigastric and subcostal, migrating to bilateral lower abdomen. The patient experienced worsening abdominal pain after eating oatmeal, forced himself to vomit, and reports subjective fever. There was some improvement with meditation/yoga, but this was followed by a worsening of symptoms, describing it as the worst pain ever. A prior episode of ischemic bowel was also associated with vomiting, diarrhea, and similar abdominal pain severity.",
+        "past_medical_history": "History of ischemic bowel requiring mesenteric stenting (celiac artery, common hepatic artery, SMA), seizures from head injuries, atherosclerotic disease, and history of cardiac stent.",
+        "family_history": "Brother with diabetes and nephropathy requiring kidney transplant. Denies family history of vascular disease.",
+        "social_history": "Not specified."
+    }
+}

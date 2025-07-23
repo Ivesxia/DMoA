@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right upper quadrant abdominal pain for four days.",
+        "history_of_present_illness": "The patient experienced a sudden onset of abdominal pain localized to the right upper quadrant three days prior to presentation, which has been persistent and radiates to the back. There are no alleviating factors reported. Associated symptoms include poor oral intake and nausea without emesis. The patient has not had a bowel movement in three days but continues to pass gas. The stool is noted to be darker due to IV iron treatment.",
+        "past_medical_history": "Chronic conditions include hepatitis C, hemochromatosis, cirrhosis, coronary artery disease with a history of myocardial infarction and percutaneous coronary intervention, hypertension, hyperlipidemia, paroxysmal atrial fibrillation, moderate pulmonary hypertension, chronic bronchitis, iron deficiency anemia requiring IV iron infusions, asthma, deep vein thrombosis/pulmonary embolism with prior superior mesenteric artery thrombosis leading to bowel resection, and diabetes mellitus.",
+        "family_history": "Mother has a history of cancer; father has no significant medical history; brother has congestive heart failure.",
+        "social_history": "Former smoker; denies alcohol and NSAID intake."
+    }
+}

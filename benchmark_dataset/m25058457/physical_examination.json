@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "95 bpm",
+                "blood_pressure": "144/91 mmHg",
+                "respiratory_rate": "14 breaths/min"
+            },
+            "relevant_findings": "NAD, RRR, CTAB, TTP RLQ, no scars, extremities without edema",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

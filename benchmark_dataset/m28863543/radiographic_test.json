@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites. No intrahepatic biliary dilation. The CHD measures 4 mm. The gallbladder is distended with layering sludge and mild gallbladder wall edema, measuring up to 5 mm. The imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation. Normal echogenicity of spleen, measuring 9.5 cm. Limited views of the right kidney show no hydronephrosis. Visualized portions of aorta and IVC are within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

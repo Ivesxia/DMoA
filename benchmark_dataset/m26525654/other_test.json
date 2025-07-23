@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "SPEP and UPEP",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI Abdomen",
+            "date": "Not specified",
+            "findings": "The pancreatic parenchyma demonstrates diffusely low T1 signal relative to the liver, with decreased but homogeneous contrast enhancement. The pancreatic duct is diffusely irregular with variant anatomy suggestive of prominent dorsal duct versus pancreas divisum. No significant fat stranding, free fluid, pseudocysts, or focal hyper/hypoenhancement to suggest acute inflammation or parenchymal necrosis. A prominent 9-mm portocaval node is noted. The liver is normal in signal intensity, and the gallbladder is unremarkable. The left kidney shows atrophy and irregular enhancement with cortical thinning/lobulation suggesting prior injury. Multiple tiny bilateral simple cysts present.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

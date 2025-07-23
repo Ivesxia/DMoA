@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.9°F",
+                "heart_rate": "74 bpm",
+                "blood_pressure": "110/64 mmHg",
+                "respiratory_rate": "18/min",
+                "SpO2": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress (NAD)",
+                "cardiovascular": "Regular rate and rhythm (RRR), no murmurs",
+                "respiratory": "Clear to auscultation bilaterally (CTAB), no crackles or wheezes",
+                "abdominal": "Soft, minimally tender to palpation, nondistended, bowel sounds present, 3 surgical incisions covered with tegaderm",
+                "extremities": "Warm, distal pulses palpable"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

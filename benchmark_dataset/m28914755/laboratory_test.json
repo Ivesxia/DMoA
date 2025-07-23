@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "PT (Prothrombin Time)",
+            "date": "Not specified",
+            "findings": "32.3 sec (Reference range: 22.0 - 35.0 sec)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix measures 9 mm in diameter containing some fluid and bubbles of gas; minimal fat stranding surrounding the appendix; no free air or free fluid within the abdomen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

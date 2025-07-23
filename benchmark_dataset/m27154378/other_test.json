@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Virtual Screening",
+            "date": "Not specified",
+            "findings": "Negative for polyp/mass",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT CHEST W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Known azygos continuation syndrome; moderate enlargement of the right thyroid lobe; mild cardiomegaly; several diverticular present; no abnormalities in the lung parenchyma except for some subpleural cysts; non-suspicious 2 mm perifissural nodule.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "For the past month, the patient has complained of abdominal pain primarily in the RUQ and RLQ, worsening after eating and associated with bloating and nausea. The pain became worse last night, leading to poor sleep, and was exacerbated when his son found him exhausted and in pain.",
+        "past_medical_history": "Severe COPD (stage IV, FEV1 22%), moderate pulmonary arterial hypertension, paroxysmal AFib on Warfarin, class III CHF from non-ischemic cardiomyopathy (EF 30%), VT status post dual-chamber ICD, adrenal insufficiency, hyperlipidemia, GERD, gout, history of bladder cancer.",
+        "family_history": "Nobody in the family with lung problems.",
+        "social_history": "Not specified."
+    }
+}

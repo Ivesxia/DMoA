@@ -1,0 +1,10 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Multiple liver masses identified: Segment 2 mass measures 4.7 x 3.8 x 3.2 cm (previously 2.7 x 3.0 cm on CT), Segment 4B mass measures 4.4 x 4.6 x 4.0 cm (previously 4.1 x 3.3 cm on CT), Segment 7 mass measures 3.1 x 3.1 x 2.9 cm (previously 1.9 x 2.8 cm on CT). The main portal vein is patent with hepatopetal flow. There is no ascites. The Bile ducts show no intrahepatic biliary dilation. The CBD measures 4 mm.",
+            "changes_over_time": "Segment 2 mass increased from 2.7 x 3.0 cm to 4.7 x 3.8 x 3.2 cm, Segment 4B mass increased from 4.1 x 3.3 cm to 4.4 x 4.6 x 4.0 cm, and Segment 7 mass increased from 1.9 x 2.8 cm to 3.1 x 3.1 x 2.9 cm."
+        }
+    ]
+}

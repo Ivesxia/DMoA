@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient is a 7-week pregnant female who presents with 27 hours of abdominal pain. The pain began as diffuse crampy abdominal pain which remained constant. Over the next day, the pain localized to the periumbilical area and then became more focal to the right and below the umbilicus. She experienced nausea, which is associated with her pregnancy but resolved today with one dose of zofran. She denies vomiting, diarrhea, fevers, chills, chest pain, shortness of breath, dysuria, foul-smelling urine, changes in bowel habits, bright red blood per rectum, or melena.",
+        "past_medical_history": "Personal history of melanoma of left thigh status post wide excision; history of ear implant, allegedly not MRI-compatible.",
+        "family_history": "Mother with lymphoma; aunt with leukemia; uncle with unknown blood disorder.",
+        "social_history": "Not specified."
+    }
+}

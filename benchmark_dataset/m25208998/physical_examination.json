@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Afebrile",
+                "heart_rate": "90's bpm",
+                "blood_pressure": "130/60 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No apparent distress, alert and oriented x 3",
+                "cardiovascular": "No cardiac distress",
+                "pulmonary": "Breathing comfortably on room air",
+                "abdominal": "Soft, tender in the left upper quadrant, epigastric region, and right upper quadrant; no rebound, no guarding",
+                "extremities": "Warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

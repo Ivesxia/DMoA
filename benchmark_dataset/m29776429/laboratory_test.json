@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Test",
+            "date": "Not specified",
+            "findings": "8.8 mg/dL (normal range: 8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix measures 1.3 cm, fluid filled, with significant surrounding fat stranding and fascial thickening; concerning for uncomplicated appendicitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

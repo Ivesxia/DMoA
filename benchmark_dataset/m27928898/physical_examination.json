@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "62 bpm",
+                "blood_pressure": "124/82 mmHg",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress",
+                "HEENT": "Normocephalic, atraumatic, anicteric sclera, moist mucous membranes",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, gallops or rubs",
+                "pulmonary": "Clear to auscultation bilaterally",
+                "abdominal": "Soft, nondistended, tender to palpation, negative Rovsing sign, negative psoas sign, no rebound or guarding, no hepatosplenomegaly",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

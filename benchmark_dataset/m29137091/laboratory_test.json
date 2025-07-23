@@ -1,0 +1,53 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "echogenicity": "diffusely echogenic",
+                    "contour": "smooth",
+                    "focal_mass": "none"
+                },
+                "bile_ducts": {
+                    "dilation": "none",
+                    "CBD_measurement": "4 mm"
+                },
+                "gallbladder": {
+                    "stones": "none",
+                    "wall_thickening": "none"
+                },
+                "pancreas": {
+                    "appearance": "within normal limits",
+                    "ductal_dilation": "none"
+                },
+                "spleen": {
+                    "echogenicity": "normal",
+                    "measurement": "9.4 cm"
+                },
+                "kidneys": {
+                    "right_kidney_measurement": "12.4 cm",
+                    "left_kidney_measurement": "11.8 cm",
+                    "cortical_echogenicity": "normal",
+                    "masses_stones_hydronephrosis": "none"
+                },
+                "retroperitoneum": {
+                    "aorta_IVC": "within normal limits"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial culture",
+            "date": "Not specified",
+            "findings": {
+                "result": "NO GROWTH",
+                "ref_range": {
+                    "lower": 10.0,
+                    "upper": 10.0
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

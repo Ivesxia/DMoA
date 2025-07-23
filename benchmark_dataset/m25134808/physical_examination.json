@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4",
+                "heart_rate": "142",
+                "blood_pressure": "142/78",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": {
+                "constitutional": "Alert, pleasant, inappropriate behavior repeating questioning in song, making inappropriate sexual comments and attempting to kiss the nurses.",
+                "HEENT": "Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL",
+                "neck": "Supple, JVP not elevated",
+                "CV": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+                "respiratory": "Difficult to hear lung sounds through singing/talking, however apparently CTA",
+                "GI": "Soft, non-tender, non-distended, bowel sounds present, no organomegaly, no rebound or guarding",
+                "GU": "No foley",
+                "extremities": "Warm, well perfused, no CCE",
+                "neuro": "Aao to month and year but unable to state in hospital without prompting, CN II-XII and strength intact.",
+                "skin": "Abrasion on L knee, no surrounding erythema",
+                "MSK": "No abnormalities"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.4",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "90% on RA"
+            },
+            "relevant_findings": "Confused on arrival to the ED, subsequently awake alert and oriented x3, intermittently breaking into song.",
+            "changes_over_time": "Reported confusion improved to being awake, alert, and oriented."
+        }
+    ]
+}

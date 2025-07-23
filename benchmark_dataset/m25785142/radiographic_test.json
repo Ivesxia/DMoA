@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": {
+                "Lower Thorax": "Small bilateral pleural effusions, right greater than left.",
+                "Liver": "Normal morphology and signal intensity without enhancing masses.",
+                "Biliary": "No intrahepatic biliary ductal dilatation. The mildly distended gallbladder contains multiple dependent gallstones. The common bile duct appears patent without obstructing calculi. There is no pericholecystic fluid or enhancement.",
+                "Pancreas": "Normal morphology and signal intensity. No pancreatic ductal dilatation.",
+                "Spleen": "Upper limits of normal in size, measuring approximately 14 cm, normal morphology and signal intensity.",
+                "Adrenal Glands": "Normal bilaterally.",
+                "Kidneys": "Partially visualized subcentimeter cyst in the midportion of the left kidney. No hydronephrosis on either side.",
+                "Gastrointestinal Tract": "There is a 6.1 cm x 4.0 cm ovoid lesion directly adjacent to the lesser curvature of the stomach. There is no definitive fat plane identified between the lesion and the stomach. The gastric mucosa appears intact. There is gradual mild heterogeneous enhancement of the lesion. This may potentially reflect a gastrointestinal stromal tumor.",
+                "Lymph Nodes": "6 mm short axis lymph node adjacent to the gallbladder, likely reactive. Other small lymph nodes in the porta hepatis. No retroperitoneal lymphadenopathy.",
+                "Vasculature": "Portal venous vasculature is patent. Abdominal aorta and the visualized major branches are patent as well.",
+                "Osseous and Soft Tissue Structures": "No suspicious osseous lesions."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

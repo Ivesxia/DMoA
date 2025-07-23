@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Intraoperative cholangiogram",
+            "date": "Not specified",
+            "findings": "196.0 IU/L (within normal range: 94.0 - 250.0 IU/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "Moderate-to-severe cardiomegaly (stable), slight bibasilar atelectasis, low lung volumes, no pneumothorax, no pleural effusions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

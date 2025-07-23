@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in shape and contour with normal echogenicity, no focal hepatic lesions. Mild intrahepatic biliary duct dilation; common bile duct measures 5 mm with multiple small stones (up to 3 mm) present. Gallbladder contains multiple small stones nearly filling it, with the largest stone at the neck measuring up to 10 mm. No gallbladder wall thickening or pericholecystic fluid. Limited views of the pancreas unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

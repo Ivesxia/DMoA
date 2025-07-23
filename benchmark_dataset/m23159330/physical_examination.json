@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.0°F",
+                "heart_rate": "67 bpm",
+                "blood_pressure": "99/57 mmHg",
+                "respiratory_rate": "14",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "Awake and alert, no acute distress.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/gallops/rubs.",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes/rhonchi/rales.",
+                "abdominal": "Soft, non-distended, tenderness to palpation in the right upper quadrant and right periumbilical region; no rebound or guarding.",
+                "extremities": "No edema, warm and well perfused."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

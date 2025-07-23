@@ -1,0 +1,23 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right upper quadrant pain.",
+        "history_of_present_illness": "The pain began in the periumbilical region and migrated to the right lower quadrant. The patient has a fever of 101°F and has decreased appetite. No rigors were reported, and he feels well overall otherwise.",
+        "past_medical_history": "Bilateral inguinal hernia repair; known ventral hernia.",
+        "family_history": "Not specified.",
+        "social_history": {
+            "marital_status": "Married",
+            "children": "Yes: 3",
+            "lives_with": "Spouse",
+            "sexual_activity": "Present",
+            "sexual_orientation": "Female",
+            "domestic_violence": "Denies",
+            "contraception": "None",
+            "tobacco_use": "Never smoker",
+            "alcohol_use": "Present, drinks per week: 10",
+            "recreational_drugs": "Denies",
+            "exercise": "Runs",
+            "diet": "Regular",
+            "seat_belt_use": "Always"
+        }
+    }
+}

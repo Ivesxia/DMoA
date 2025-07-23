@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2°F",
+                "heart_rate": "89 bpm",
+                "blood_pressure": "123/56 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "NAD (No Acute Distress)",
+                "cardiovascular": "RRR (Regular Rate and Rhythm)",
+                "abdominal": "softly distended, TTP (Tender to Palpation) LLQ (Left Lower Quadrant)/suprapubic",
+                "extremities": "no c/c/e (cyanosis, clubbing, edema)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

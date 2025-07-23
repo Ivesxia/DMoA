@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Small right pleural effusion, no left-sided pleural effusion, no pericardial effusion, liver normal in signal intensity and morphology with no worrisome lesions, pancreas normal with small T2 hyperintensities likely side-branch IPMNs, kidneys with simple cysts bilaterally and a proteinaceous cyst in the right interpolar region.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

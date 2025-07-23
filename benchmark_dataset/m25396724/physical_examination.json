@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "101.9°F",
+                "heart_rate": "101 bpm",
+                "blood_pressure": "147/88 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and oriented x 3",
+                "HEENT": "No scleral icterus",
+                "lungs": "Clear bilaterally",
+                "cardiovascular": "Sinus tachycardia, normal S1 and S2",
+                "abdominal": "Soft, diffusely tender to palpation, slight rebound tenderness in mid-abdomen, no guarding, no hernias",
+                "rectal": "Guaiac negative",
+                "extremities": "No cyanosis/clubbing/edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

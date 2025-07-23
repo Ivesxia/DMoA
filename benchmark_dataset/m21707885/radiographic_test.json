@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver demonstrates homogeneous echogenicity without focal lesion. The main portal vein is patent with hepatopetal flow. There is a large shadowing gallstone just proximal to the gallbladder fundus. Mild circumferential wall thickening beyond the stone is noted, however, the gallbladder is not distended, and there is no pericholecystic fluid. The common bile duct measures 4 mm and is not dilated. The spleen measures 10 cm and is normal in appearance. The pancreas appears normal. There is no free fluid. Single view of the right kidney shows no evidence of hydronephrosis. There is no intra-abdominal ascites.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

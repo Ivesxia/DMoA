@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6 °F",
+                "heart_rate": "76 bpm",
+                "blood_pressure": "114/60 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "96% RA"
+            },
+            "relevant_findings": {
+                "gen": "A&O, NAD",
+                "heent": "No scleral icterus, mucus membranes moist",
+                "cv": "RRR, No M/G/R",
+                "pulm": "Non labored breathing",
+                "abd": "Soft, nondistended, tender to palpation RLQ>LLQ, + rebound, No guarding",
+                "ext": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

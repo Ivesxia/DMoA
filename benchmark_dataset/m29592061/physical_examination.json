@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": "Not specified",
+            "relevant_findings": "GEN: mildly uncomfortable; HEENT: No scleral icterus, mucus membranes moist; CV: RRR, No M/G/R; PULM: Clear to auscultation b/l, No W/R/R; ABD: Soft, TTP in the RLQ, no evidence of Rovsing's sign; Ext: No edema, warm and well perfused.",
+            "changes_over_time": "GEN: comfortable; HEENT: No scleral icterus, mucus membranes moist; CV: RRR, No M/G/R; PULM: Clear to auscultation b/l, No W/R/R; ABD: Soft, abd app tender at incisions, dressings c/d/i; Ext: No edema, warm and well perfused."
+        },
+        {
+            "date": "Discharge",
+            "vital_signs": "Not specified",
+            "relevant_findings": "GEN: comfortable; HEENT: No scleral icterus, mucus membranes moist; CV: RRR, No M/G/R; PULM: Clear to auscultation b/l, No W/R/R; ABD: Soft, abd app tender at incisions, dressings c/d/i; Ext: No edema, warm and well perfused.",
+            "changes_over_time": "Improvement from being mildly uncomfortable on admission to being comfortable at discharge."
+        }
+    ]
+}

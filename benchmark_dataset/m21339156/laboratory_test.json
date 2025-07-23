@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "In the descending colon, there is a 10 cm segment of asymmetric wall thickening and inflammatory change, centered around a diverticulum, consistent with perforation. A small amount of extraluminal air and extraluminal fluid indicate focal perforation. The fluid collection measures 1.1 x 1.5 x 2.6 cm. The kidneys enhance and excrete contrast symmetrically without hydronephrosis, stones, or renal masses. At the interpolar region of the left kidney, there is a 2.1 cm hypodensity with intermediate attenuation characteristics.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test - Creatinine",
+            "date": "Not specified",
+            "findings": "Creatinine level is 1.9 mg/dL, which is within the normal range of 1.6 to 2.6 mg/dL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

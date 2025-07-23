@@ -1,0 +1,33 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.1F",
+                "blood_pressure": "161/92",
+                "heart_rate": "51",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "98% on RA"
+            },
+            "relevant_findings": {
+                "initial_exam": {
+                    "temperature": "Tmax 99.9",
+                    "blood_pressure": "115/65",
+                    "heart_rate": "64",
+                    "respiratory_rate": "18",
+                    "oxygen_saturation": "93% on RA",
+                    "general": "Alert, oriented, no acute distress",
+                    "HEENT": "Sclera anicteric, MM dry",
+                    "neck": "Supple, no JVD appreciated, no LAD",
+                    "lungs": "Clear to auscultation bilaterally, no wheezes, rales, ronchi",
+                    "CV": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+                    "abdomen": "Soft, non-distended, mildly tender to palpation in RUQ and RLQ, hypoactive bowel sounds, no rebound tenderness or guarding, no organomegaly",
+                    "extremities": "Warm, well perfused, no edema",
+                    "skin": "Lg brown skin tags on neck with brown nodules over trunk",
+                    "neurological": "CN II-XII intact, sensation grossly intact, strength ___ throughout"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

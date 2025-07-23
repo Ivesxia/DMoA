@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Low lung volumes, left moderate pleural effusion increased, no right effusion, left basilar atelectasis unchanged, large hiatal hernia unchanged, tortuous air-filled esophagus, mild cardiomegaly unchanged, skin staples in the right upper quadrant of the abdomen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

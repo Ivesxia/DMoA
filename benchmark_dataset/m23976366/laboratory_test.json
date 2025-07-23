@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray (CHEST (PRE-OP PA & LAT))",
+            "date": "Not specified",
+            "findings": "The cardiomediastinal and hilar contours are normal. There is no pleural effusion or pneumothorax. The lungs are well expanded and clear without focal consolidation. The pulmonary vascularity is within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

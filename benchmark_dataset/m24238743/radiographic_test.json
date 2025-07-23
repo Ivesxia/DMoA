@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated to 8 mm and fluid filled with a hyperenhancing wall consistent with appendicitis. There is a proximal obstructing appendicolith and a small amount of trapped air distally. No evidence of perforation or abscess formation. Additionally, a small hypodense lesion in the upper pole of the right kidney likely represents a cyst. No free fluid or free air within the abdomen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

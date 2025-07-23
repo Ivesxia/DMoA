@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9°F",
+                "heart_rate": "73 bpm",
+                "blood_pressure": "135/63 mmHg",
+                "respiratory_rate": "20 breaths/min"
+            },
+            "relevant_findings": {
+                "temperature": "97.3°F",
+                "blood_pressure": "136/87 mmHg",
+                "heart_rate": "71 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "general": "sitting up in bed, well appearing",
+                "heent": "EOMI, anicteric sclera, MMM, OP clear",
+                "neck": "supple, no LAD",
+                "heart": "RRR no m/r/g",
+                "lungs": "CTAB no wheezes or crackles",
+                "abdomen": "+ tenderness to epigastrium down to umbilicus, no rebound or guarding, negative ___ sign, no masses, + BS",
+                "back": "no CVA tenderness",
+                "extremities": "warm and well perfused, no pitting edema",
+                "skin": "No rashes, bruising, or jaundice"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

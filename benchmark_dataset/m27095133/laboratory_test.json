@@ -1,0 +1,50 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ABDOMEN US (COMPLETE STUDY)",
+            "date": "Not specified",
+            "findings": {
+                "LIVER": {
+                    "hepatic_parenchyma": "within normal limits",
+                    "contour": "smooth",
+                    "focal_liver_mass": "none",
+                    "main_portal_vein": "patent with hepatopetal flow",
+                    "ascites": "none"
+                },
+                "BILE DUCTS": {
+                    "intrahepatic_biliary_dilation": "none",
+                    "CBD_measurement": "3 mm"
+                },
+                "GALLBLADDER": {
+                    "large_stone": {
+                        "location": "neck of the gallbladder",
+                        "size": "approximately 2 x 2 cm"
+                    },
+                    "larger_stone": "within the lumen of the gallbladder",
+                    "gallbladder_wall_thickening": "none",
+                    "fluid": "none"
+                },
+                "PANCREAS": {
+                    "imaged_portion": "within normal limits",
+                    "masses": "none",
+                    "ductal_dilation": "none"
+                },
+                "SPLEEN": {
+                    "echogenicity": "normal",
+                    "measurement": "9.3 cm"
+                },
+                "KIDNEYS": {
+                    "right_kidney_measurement": "10.6 cm",
+                    "left_kidney_measurement": "10.1 cm",
+                    "cortical_echogenicity": "normal",
+                    "corticomedullary_differentiation": "normal",
+                    "masses_stones_hydronephrosis": "none"
+                },
+                "RETROPERITONEUM": {
+                    "visualized_portions": "within normal limits"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

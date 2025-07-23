@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "66 bpm",
+                "blood_pressure": "117/85 mmHg",
+                "respiratory_rate": "17 breaths per minute"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD, well-nourished young man lying on stretcher",
+                "HEENT": "No scleral icterus",
+                "cardiovascular": "RRR",
+                "pulmonary": "Respirations non-labored",
+                "abdominal": "Soft, nondistended, mild to moderately tender to palpation in RLQ, no rebound or guarding, some fullness RLQ",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The diagnosis was supported by the patient's history of abdominal pain that localized to the right lower quadrant, tenderness upon physical examination, and imaging findings from the CT abdomen and pelvis, which showed a dilated appendix with wall hyperemia and surrounding fat stranding, indicating acute appendicitis."
+    }
+}

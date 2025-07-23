@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The gallbladder is markedly distended with circumferential wall thickening and edema. A 10 mm stone is seen within the gallbladder neck. Smaller stones are present within the gallbladder fundus. There is extensive pericholecystic fat stranding and pericholecystic fluid. Moderate intrahepatic biliary duct dilatation and dilation of the common duct to 10 mm without evidence of an intraductal stone or periductal mass. The portal vein is patent. A 7 x 3 mm T2 hyperintense non-enhancing lesion is noted within the pancreatic body/tail. A 10 x 9 mm nodule within the left adrenal gland, likely an adenoma. Several T2 hyperintense nonenhancing lesions in both kidneys suggest simple cysts. A hemorrhagic cyst is noted in the right kidney. Trace perihepatic and perisplenic ascites, and a trace right pleural effusion are present.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PROPIONIBACTERIUM ACNES testing",
+            "date": "Not specified",
+            "findings": "173.0 IU/L, which is within the normal reference range of 94.0 - 250.0 IU/L.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

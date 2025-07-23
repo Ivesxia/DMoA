@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The lung bases are clear. The liver, spleen, kidneys, adrenal glands, pancreas, and gallbladder are unremarkable. The stomach and small bowel appear normal. The appendix is distended up to 8 mm with hyperemia of the wall and an appendicolith at the base. There is surrounding fluid. Findings are compatible with appendicitis. There is no associated abscess or extraluminal air. Peripherally enhancing hemorrhagic follicle seen in the right ovary, similar to prior ultrasound. The left ovary is unremarkable. Intrauterine device seen within the uterus, similar in position compared to prior with relatively less myometrium seen adjacent to the right arm. The bladder is unremarkable. Small amount of free fluid seen in the pelvis. Osseous structures are unremarkable.",
+            "changes_over_time": "Peripherally enhancing hemorrhagic follicle seen in the right ovary, similar to prior ultrasound. Intrauterine device seen within the uterus, similar in position compared to prior."
+        }
+    ]
+}

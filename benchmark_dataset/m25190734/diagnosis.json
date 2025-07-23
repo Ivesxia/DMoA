@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with gradual and worsening periumbilical pain that migrated to the right lower quadrant, accompanied by tenderness and signs indicative of appendicitis on physical exam. A CT scan revealed inflammatory changes around a dilated and thickened appendix, along with an appendicolith, while ruling out other significant intra-abdominal pathologies."
+    }
+}

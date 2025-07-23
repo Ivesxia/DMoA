@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "101.3°F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "154/86 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x3, no acute distress.",
+                "HEENT": "Mucous membranes moist.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/gallops/rubs.",
+                "pulmonary": "Clear to auscultation bilaterally.",
+                "abdominal": "Soft, non-distended, right upper quadrant tenderness, bowel sounds present.",
+                "extremities": "Calves soft, 1+ edema bilateral."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

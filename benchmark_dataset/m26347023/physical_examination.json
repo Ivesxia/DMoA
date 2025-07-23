@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6 F",
+                "heart_rate": "74 bpm",
+                "blood_pressure": "146/72 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "cardiovascular": "Regular rate and rhythm",
+                "respiratory": "Clear to auscultation bilaterally",
+                "abdominal": "Soft, mildly tender to epigastrium",
+                "extremities": "No cyanosis, clubbing, or edema"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "chest_xray": {
+                    "lung_expansion": "Improved",
+                    "consolidation_or_edema": "None evident",
+                    "mediastinum": "Unremarkable",
+                    "cardiac_silhouette": "Within normal limits for size",
+                    "pleural_effusions": "Small bilateral",
+                    "pneumothorax": "None",
+                    "osseous_structures": "Degenerative changes throughout thoracic spine",
+                    "cervical_fusion_plate": "Indwelling anterior cervical fusion plate present"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

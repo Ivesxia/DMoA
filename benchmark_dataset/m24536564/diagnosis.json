@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with right lower quadrant pain that was consistent and localized, nausea, anorexia, and a positive Psoas sign. CT imaging revealed a fluid-filled and dilated appendix with hyperenhancing walls and surrounding fat stranding, indicating inflammation consistent with acute appendicitis."
+    }
+}

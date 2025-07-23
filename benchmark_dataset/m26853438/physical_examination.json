@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "129/66 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "in no acute distress, well-appearing and well-nourished",
+                "HEENT": "mucus membranes moist, nares clear, trachea at midline",
+                "CV": "regular rate, rhythm. No appreciable murmurs, rubs, gallops",
+                "Pulm": "clear to auscultation bilaterally",
+                "Abd": "scaphoid, non-distended. No hernias, masses or incisions. Focally tender in RLQ with rebound tenderness and involuntary guarding. + Rosving's sign.",
+                "MSK": "warm, well perfused",
+                "Neuro": "alert, oriented to person, place, time"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

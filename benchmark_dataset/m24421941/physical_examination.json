@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "NAD. A&Ox3.",
+                "HEENT": "Anicteric. Tacky mucosal membranes.",
+                "neck": "No JVD. No LAD. No TM.",
+                "cardiovascular": "RRR.",
+                "pulmonary": "CTAB.",
+                "abdominal": "Soft. ND. +BS. TTP RUQ with positive ___ sign. Palpable mass in RUQ, likely indicating a distended gallbladder.",
+                "DRE": "Normal tone. No masses. No gross or occult blood.",
+                "extremities": "Warm and well perfused. No peripheral edema.",
+                "neurological": "Motor and sensation grossly intact."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

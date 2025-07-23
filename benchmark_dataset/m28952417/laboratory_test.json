@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is significantly dilated, measuring up to a maximum of 15 mm and is fluid filled. An 8-mm appendicolith is seen at the base of the appendix. There is extensive fat stranding surrounding the appendix. No evidence of drainable fluid or definite free air.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "Results indicate a value of 15.0 mg/dL, which is within the normal range (6.0 - 20.0 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

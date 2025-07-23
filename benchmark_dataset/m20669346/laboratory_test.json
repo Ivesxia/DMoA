@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "White Blood Cell Count",
+            "date": "Not specified",
+            "findings": "Elevated WBC count.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of Liver or Gallbladder",
+            "date": "Not specified",
+            "findings": "Multiple shadowing stones in a distended gallbladder with wall thickening and trace pericholecystic fluid. Positive sonographic sign.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

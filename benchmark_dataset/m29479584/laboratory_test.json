@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung": "Bibasilar atelectasis is mild. No pleural effusion.",
+                "hiatal_hernia": "Sizable hiatal hernia with food content.",
+                "liver": "Normal without focal lesions. Status post cholecystectomy.",
+                "gallbladder": "Clips in the empty gallbladder fossa.",
+                "CBD_dilatation": "Interval decrease of previous CBD dilatation.",
+                "spleen_pancreas_adrenal": "Normal.",
+                "renal_cysts": "12-mm partly exophytic left lower pole renal cyst, other bilateral renal cysts subcentimeter.",
+                "contrast_excretion": "Prompt excretion of IV contrast into the collecting system bilaterally.",
+                "GI_tract": "Stomach, duodenum, and loops of small bowel grossly unremarkable.",
+                "free_air_fluid_lymphadenopathy": "No free air, fluid, or lymphadenopathy in the abdomen.",
+                "pelvis": "Intermediate attenuating fluid collection with rim enhancement measuring 20 x 82 mm, compatible with abscess."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

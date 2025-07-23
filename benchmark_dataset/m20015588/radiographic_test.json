@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver demonstrates homogeneous echogenicity without suspicious focal lesion. The main portal vein is patent with hepatopetal flow. The gallbladder is filled with stones. However, there is no distention, gallbladder wall thickening, or pericholecystic fluid. No intra- or extra-hepatic biliary ductal dilatation is identified. The common bile duct measures 4 mm. The pancreas is well visualized and is normal in echogenicity. The spleen is normal measuring 10 cm. Limited views of the bilateral kidneys demonstrate no hydronephrosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

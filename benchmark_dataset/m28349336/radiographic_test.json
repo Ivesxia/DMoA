@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT CHEST W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The thyroid gland is enlarged, with a heterogeneously hypoattenuating mass in the isthmus with multiple punctate calcifications. Mediastinum and hilar regions are otherwise unremarkable, without evidence of pathologically enlarged lymphadenopathy or other mass. The main pulmonary artery is upper limits of normal at 3.2 cm. There is no pericardial effusion, trace bilateral pleural effusions, minimal cylindrical bronchiectasis in the right middle and upper lobes with mild right middle lobe atelectasis, mild biapical pleural parenchymal scarring, a few scattered calcified granulomas in the right lower lobe, and calcified pleural plaque in the left upper lobe. Limited views of the upper abdomen show peripancreatic stranding, consistent with history.",
+            "changes_over_time": "Unchanged from CT of the abdomen from previous day."
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "blood_pressure": "140/82 mmHg",
+                "heart_rate": "78 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "98% on RA"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and oriented x3",
+                "HEENT": "Mucous membranes moist, oropharynx clear",
+                "cardiac": "Jugular venous pressure 9 cm",
+                "pulmonary": "Bilateral basal rales",
+                "abdominal": "Soft, moderate tenderness in right upper quadrant, no bruising, non-distended, no organomegaly",
+                "extremities": "Warm, well-perfused, no cyanosis/clubbing/edema",
+                "neurological": "Alert and oriented x3, grossly normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "heart_rate": "76 bpm",
+                "blood_pressure": "120/77 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% on RA"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

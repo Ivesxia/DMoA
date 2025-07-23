@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Low lung volumes bilaterally, opacification of the left lower lung and costophrenic angle indicating a pleural effusion with adjacent atelectasis; aspiration or pneumonia cannot be excluded. Some linear atelectasis in the right lung base. No pneumothorax. Heart size and mediastinal contour are normal. No fracture or concerning bone findings.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

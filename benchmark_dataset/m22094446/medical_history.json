@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute onset abdominal pain",
+        "history_of_present_illness": "The patient suddenly developed severe, non-radiating abdominal pain at approximately 9 PM last night. The pain persisted until the patient presented to the ED, where she received morphine at around 2 AM. The patient currently denies pain.",
+        "past_medical_history": "Hypertension, hyperlipidemia",
+        "family_history": "Cancer in both parents - gastric (exact type not specified)",
+        "social_history": "Not specified"
+    }
+}

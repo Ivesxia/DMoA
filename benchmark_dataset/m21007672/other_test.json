@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is echogenic, consistent with fatty infiltration. There are no concerning focal liver lesions seen. The portal vein is patent with normal flow. There is no evidence of ascites. The gallbladder is moderately distended with a thickened wall. There are multiple stones within the lumen of the gallbladder. The common bile duct measures 5 mm. Limited views of the kidneys show no stones or hydronephrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic cholecystectomy",
+            "date": "Not specified",
+            "findings": "Postprocedural fever.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

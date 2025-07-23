@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is fluid-filled, dilated up to 1.5 cm, with mucosal hyperemia and surrounding inflammatory changes consistent with acute appendicitis. Mild central biliary ductal dilatation is noted. No obstructing radiopaque calculus or obstructing lesion identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Admission Physical Exam",
+            "date": "Not specified",
+            "findings": "Abdomen: soft, tender to palpation in right lower quadrant, + rebound, no guarding, mildly distended. Other systems were within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

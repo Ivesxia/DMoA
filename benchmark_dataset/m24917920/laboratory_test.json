@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The imaged lung bases are clear. The heart is unremarkable. The spleen, liver, gallbladder, pancreas, adrenals, kidneys, bowel loops are normal. There is no free fluid, free air, or adenopathy. The patient has acute appendicitis with a large dilated appendix measuring 1.6 cm. Adjacent fat stranding and an appendicolith present. Multiple enhancing periappendiceal nodes are compatible with reactive adenopathy. There is a small amount of free fluid in the pelvis. Rectum, sigmoid colon, urinary bladder are unremarkable. No suspicious lytic or sclerotic osseous lesions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

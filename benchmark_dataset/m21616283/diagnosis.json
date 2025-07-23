@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with a history of right lower quadrant (RLQ) abdominal pain for 24 hours that was severe and progressive. Physical examination revealed tenderness in the RLQ, with positive signs suggestive of appendicitis such as Rovsing's sign and straight leg raise. The CT abdomen without contrast highlighted hyperdense fluid near the ascending colon, raising concerns for hematoma but not excluding appendicitis due to the clinical presentation."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "112 bpm",
+                "blood_pressure": "112/68 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on RA"
+            },
+            "relevant_findings": {
+                "general": "Young well developed male in NAD",
+                "eyes": "PERRL, EOMI without nystagmus",
+                "cardiovascular": "No abnormal findings noted",
+                "respiratory": "CTA bilaterally",
+                "gastrointestinal": "Soft abdomen, epigastric tenderness",
+                "neurological": "WNL"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "heart_rate": "73 bpm",
+                "blood_pressure": "127/79 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% on RA"
+            },
+            "relevant_findings": {
+                "general": "WNL",
+                "gastrointestinal": "Soft abdomen, no rebound, tenderness in epigastric area",
+                "musculoskeletal": "WNL",
+                "integrative": "WNL"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

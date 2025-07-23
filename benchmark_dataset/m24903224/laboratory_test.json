@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The left lower quadrant of the abdomen demonstrates inflammatory fat stranding and multiple air loculations surrounding a segment of colon with numerous diverticula. The remainder of the colon also demonstrates numerous diverticula. The liver shows a hypoattenuating lesion in the dome, likely a benign cyst. Other abdominal organs are unremarkable. The lung bases show subsegmental atelectasis and a subpleural bleb.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "NO GROWTH.",
+            "date": "Not specified",
+            "findings": "No growth was reported.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

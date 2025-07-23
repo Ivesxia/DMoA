@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute cholecystitis",
+        "differential_diagnosis": "Pancreatic cyst, Biliary stricture",
+        "diagnostic_reasoning": "The patient presented with abdominal pain and underwent a workup that revealed a distended gallbladder with edematous wall and mucosal hyperenhancement on imaging, consistent with acute cholecystitis. Additionally, there were pancreatic cystic lesions noted, and a biliary stricture was previously identified during ERCP."
+    }
+}

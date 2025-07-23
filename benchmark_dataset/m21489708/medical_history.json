@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Generalized abdominal pain began early this morning, gradually migrating to the right lower quadrant. Symptoms are associated with nausea, vomiting, chills, and loose stools. The pain is dull, moderate in severity, constant in nature, and worsens with palpation.",
+        "past_medical_history": "1. Hypothyroidism 2. Medullary Sponge kidney 3. History of Nephrolithiasis 4. History of PPD positive 5. Rosacea 6. Prior smoker, quit 7. Herpes simplex virus 8. Hyperlipidemia",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

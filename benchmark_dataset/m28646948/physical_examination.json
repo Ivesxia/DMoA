@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.3°F",
+                "heart_rate": "94 bpm",
+                "blood_pressure": "107/66 mmHg",
+                "respiratory_rate": "25 breaths/min",
+                "oxygen_saturation": "96% on RA"
+            },
+            "relevant_findings": {
+                "alertness": "A&Ox3, NAD, well-appearing",
+                "lungs": "CTAB",
+                "cardiac": "RRR",
+                "abdomen": {
+                    "tenderness": "soft, ND, minimal BS, mild tap tenderness in RLQ, tender to deep palpation in RLQ/infraumbilically",
+                    "rebound": "no",
+                    "guarding": "no",
+                    "scars": "well-healed without palpable hernia"
+                },
+                "rectal_exam": "guaiac negative without masses, no inguinal hernias, well-healed scar evident on R"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "98.9 F",
+                "heart_rate": "83 bpm",
+                "blood_pressure": "114/70 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "No respiratory distress",
+                "abdomen": "Soft, nondistended, tender predominantly in epigastric area and RUQ, no rebound tenderness, some voluntary guarding in RUQ.",
+                "extremities": "No edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

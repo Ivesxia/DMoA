@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Liver/gallbladder ultrasound",
+            "date": "Not specified",
+            "findings": "The liver displays diffusely increased echogenicity consistent with fatty infiltration. No focal hepatic mass lesions are identified. There is no intra- or extra-hepatic biliary ductal dilatation with the common duct measuring 4 mm. The main portal vein is patent with normal hepatopetal flow. The pancreas is not well visualized. The gallbladder is normal in appearance without wall thickening or pericholecystic fluid. There are no intraluminal gallstones or positive sonographic signs. No right upper quadrant abdominal ascites. The right kidney is normal in appearance without hydronephrosis. The spleen is mildly enlarged measuring 13.5 cm in greatest dimension.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "CT scan showed the pancreatic uncinate process appeared enlarged with peripancreatic fluid tracks inferiorly and the appendix could not be visualized.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

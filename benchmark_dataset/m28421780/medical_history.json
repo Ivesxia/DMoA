@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Pressure-like diffuse abdominal pain and distention after ERCP.",
+        "history_of_present_illness": "Symptoms began one day after receiving an ERCP, with diffuse abdominal pain and distention. The pain was relieved by sitting upright. The patient also had an episode of spitting up prior to arrival.",
+        "past_medical_history": "ERCP, CAD s/p ___, EF 50%, Paroxysmal A.fib on amiodarone, COPD, HTN, Hyperlipidemia, CKD (baseline creatinine 1.3-1.5), Prostate cancer (diagnosed ___, no treatment, last PSA 17.3 on ___), CLL (followed by Dr. ___, count no treatment), s/p L TKR.",
+        "family_history": "There is no family history of premature coronary artery disease or sudden death. Brother requiring CABG in his ___.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "heart_rate": "84 bpm",
+                "blood_pressure": "137/89 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Sitting in bed, uncomfortable, no diaphoresis",
+                "HEENT": "Moist membranes, anicteric",
+                "heart": "Regular rate and rhythm, no murmurs",
+                "lungs": "Clear to auscultation bilaterally, good air movement",
+                "abdomen": "Distended, soft, diffusely tender but no guarding",
+                "GU": "No foley",
+                "extremities": "Warm, no edema",
+                "neurological": "Alert, oriented x3, fluent speech",
+                "psychiatric": "Full affect, mood appropriate"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "123/83 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": "Lipase 4191, ALT 168, AST 194, TB 1, WBC 9.0, Lactate 1.3, Cr 0.___",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture for Staphylococcus",
+            "date": "Not specified",
+            "findings": "STAPHYLOCOCCUS, COAGULASE NEGATIVE (3.0 #/hpf), outside normal range (ref range: 0.0 - 2.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CTA Chest and Abdomen",
+            "date": "Not specified",
+            "findings": "No pulmonary embolus, normal caliber thoracic aorta, minimal bibasilar dependent atelectasis, free air noted from recent procedure, no hydronephrosis, no bowel obstruction or ascites.",
+            "changes_over_time": "No osseous structures are unchanged."
+        }
+    ]
+}

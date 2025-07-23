@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated to 9 mm, is fluid filled, and has periappendiceal stranding. No extraluminal gas or periappendiceal collection.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Physical Exam",
+            "date": "Not specified",
+            "findings": "Obese young male, abdomen soft nondistended mildly to moderately tender in suprapubic region down into right groin, no obvious palpable testicle in right inguinal canal, no testicles present in scrotum, rectal exam no gross blood, hemoccult negative.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

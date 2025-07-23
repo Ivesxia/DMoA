@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ERCP BILIARY&PANCREAS BY GI UNIT",
+            "date": "Not specified",
+            "findings": "Good opacification of the intra- and extra-hepatic biliary ducts, without dilatation, filling defects, or strictures. Initial attempt to opacify the pancreatic duct reveals opacification of only the ventral duct and its side branches. Subsequent images demonstrate a catheter within the dorsal duct, with opacification of the dorsal duct along its entire course, with mild ductal dilatation. Findings are consistent with pancreatic divisum, with no communication between the ventral and dorsal ducts. No stricture or filling defect in the pancreatic duct.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT A/p",
+            "date": "Not specified",
+            "findings": "Significant for small hiatal hernia, but no other noted abnormalities.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

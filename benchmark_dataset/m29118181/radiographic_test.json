@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Right lower lobe consolidation or atelectasis and small pleural effusion. Trace left pleural effusion is present. Postsurgical changes from recent open cholecystectomy with a small amount of fluid in the resection bed. A surgical drain is seen coursing through the cholecystectomy surgical bed. Possible trace fluid around the tail of the pancreas, and in the bilateral pararenal spaces, likely post-surgical. No drainable collection. Liver homogeneous, smooth contours, no lesions, minimal periportal edema. No intra- or extra-hepatic duct dilatation, normal common bile duct, no choledocholithiasis. Normal pancreatic parenchyma, no lesions, ductal abnormality. Normal spleen. 9 mm left adrenal nodule. 3.7 cm cyst in mid right kidney, left sided parapelvic cysts, no hydronephrosis. Normal GI tract, no significant lymphadenopathy, patent vascular structures. L1 vertebral body T2 bright hemangioma. Postsurgical changes and edema in right body wall.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

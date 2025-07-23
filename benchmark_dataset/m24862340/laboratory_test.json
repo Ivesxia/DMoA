@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Neisseria Gonorrhoeae by PCR",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria Gonorrhoeae by PCR.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation Test",
+            "date": "Not specified",
+            "findings": "25.3 sec, within normal range (ref range 22.0 - 35.0 sec).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

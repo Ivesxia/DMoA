@@ -1,0 +1,42 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "blood_pressure": "111/95 mmHg",
+                "heart_rate": "62 bpm",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "99% on RA"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD",
+                "HEENT": "NCAT, EOMI, PERRLA, no scleral icterus, mucus membranes moist",
+                "cardiovascular": "RRR, S1, S2, no M/G/R",
+                "pulmonary": "Clear to auscultation b/l, no W/R/R",
+                "abdominal": "Soft, nondistended; RLQ tenderness w/o guarding or rebound tenderness. +Rovsing's sign, No obturator sign present.",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Day of AMA",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "blood_pressure": "116/69 mmHg",
+                "heart_rate": "52 bpm",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "RA"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD",
+                "HEENT": "NCAT, EOMI, PERRLA, no scleral icterus, mucus membranes moist",
+                "cardiovascular": "RRR, S1, S2, no M/G/R",
+                "pulmonary": "Clear to auscultation b/l, no W/R/R",
+                "abdominal": "Soft, nondistended; RLQ appropriately tender to palpation. Incisions CDI, covered with dressings.",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Vital signs indicate a slight increase in temperature and a decrease in heart rate compared to admission."
+        }
+    ]
+}

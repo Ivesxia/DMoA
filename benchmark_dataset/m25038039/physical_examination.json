@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6 F",
+                "heart_rate": "56 bpm",
+                "blood_pressure": "124/80 mmHg",
+                "respiratory_rate": "18 bpm",
+                "oxygen_saturation": "99% on RA"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing man in NAD, sleeping soundly but easily arousable. Very pleasant and interactive.",
+                "HEENT": "NC/AT, PERRL, EOMI, sclerae anicteric, MMM, OP clear",
+                "neck": "Supple, no thyromegaly, no JVD, no carotid bruits",
+                "lungs": "CTAB, no r/rh/wh, good air movement, resp unlabored, no accessory muscle use",
+                "heart": "PMI non-displaced, bradycardic with regularly irregular rhythm, no MRG, nl S1-S2",
+                "abdomen": "Normoactive BS all 4 quadrants, soft/ND, TTP in epigastric region on R-side but no rebound/guarding and tolerates deep palpation well, no masses or HSM",
+                "extremities": "WWP, no c/c/e, 2+ peripheral pulses (radials, DPs)",
+                "neuro": "Grossly intact, focal exam not performed"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

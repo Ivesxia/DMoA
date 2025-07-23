@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "blood_pressure": "124/79 mmHg",
+                "heart_rate": "72 bpm",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Patient sitting on side of bed, in no acute distress",
+                "heent": "Sclera non-icteric, oropharynx clear, no exudates",
+                "neck": "Supple, no cervical lymphadenopathy",
+                "cardiac": "RRR, normal S1, S2, no m/r/g",
+                "pulmonary": "CTAB",
+                "abdomen": "+BS, mild tenderness to palpation in the left upper quadrant and right lower quadrant, no rebound or guarding",
+                "genitourinary": "Deferred",
+                "extremities": "No edema or cyanosis",
+                "skin": "No rashes noted",
+                "neurologic": "Grossly normal, moving all extremities with purpose"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

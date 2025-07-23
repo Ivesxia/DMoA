@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Elevated lipase at 892 IU/L, indicating pancreatitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "237.0 IU/L, reference range 94.0 - 250.0 IU/L (within normal limits).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver/Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver displays diffusely increased echogenicity consistent with fatty infiltration. No focal hepatic mass lesions identified. The gallbladder is normal. Spleen is mildly enlarged measuring 13.5 cm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

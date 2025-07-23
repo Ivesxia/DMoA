@@ -1,0 +1,27 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lab Test - Unknown",
+            "date": "Not specified",
+            "findings": "1.4 mmol/L (reference range: 0.5 - 2.0 mmol/L) - within normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lungs": "Clear",
+                "heart": "Normal",
+                "liver": "Enhances normally, no focal lesions",
+                "gallbladder": "Normal",
+                "spleen": "Normal",
+                "pancreas": "Normal",
+                "adrenal glands": "Normal",
+                "kidneys": "Enhance symmetrically and excrete contrast symmetrically",
+                "bowel": "No obstruction, scattered diverticula, no diverticulitis",
+                "appendix": "Enlarged with hyperemic walls, measures up to 1 cm in diameter, consistent with appendicitis"
+            },
+            "changes_over_time": "There is a 3-cm cystic structure in the right adnexa that is unchanged in appearance and size compared to CT abdomen and pelvis on an unspecified prior date."
+        }
+    ]
+}

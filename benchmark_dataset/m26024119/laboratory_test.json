@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory examination of leukocytes and microorganisms",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Angiography of the Chest",
+            "date": "Not specified",
+            "findings": "The aorta and main thoracic vessels are well-opacified, normal caliber without evidence of dissection or intramural hematoma. Enlarged anterior mediastinal lymph node measures 1.2 cm. Streaky opacities in the dependent portions of lung, compatible with subsegmental atelectasis. A left lower lobe subpleural lung nodule measuring 5 mm. Diffusely hypodense liver consistent with hepatic steatosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

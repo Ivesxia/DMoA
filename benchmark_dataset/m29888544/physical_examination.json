@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8",
+                "heart_rate": "51",
+                "blood_pressure": "128/71",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "Middle-aged woman resting comfortably in bed, pleasant, cooperative",
+                "HEENT": "NCAT, no ptosis, OP clear",
+                "neck": "No LAD, no JVD",
+                "cardiovascular": "RR, S1+S2, nmrg",
+                "respiratory": "CTABL, no w/r/r",
+                "abdomen": "mild epigastric tenderness, negative ___, otherwise non-tender, no rebound/guarding, non-distended",
+                "genitourinary": "no foley",
+                "extremities": "wwp, no c/c/e",
+                "neurological": "As above no ptosis, CN II-XII grossly intact, MAE, distal strength ___",
+                "skin": "no obvious rashes or lesions"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified"
+            },
+            "relevant_findings": {
+                "ultrasound findings": "New mild intrahepatic biliary dilatation; increased extrahepatic biliary dilatation with the common bile duct measuring 7 mm; gallbladder normal; limited views of pancreatic head and body unremarkable."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

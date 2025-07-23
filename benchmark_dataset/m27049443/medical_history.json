@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient states that he has had poor appetite and epigastric pain since discharge. He reports feeling progressively weaker as a result. The epigastric pain does not radiate.",
+        "past_medical_history": "Chronic Kidney Disease (CKD) stage IV of renal allograft, Renal Artery Stenosis (RAS) s/p stenting, Coronary Artery Disease (CAD) s/p drug-eluting stents, Hypertension (HTN), Hyperlipidemia (HLD), Type 2 Diabetes Mellitus (T2DM), Aorto-iliac occlusive disease, Bilateral carotid disease with recent Cerebrovascular Accident (CVA), Obstructive Sleep Apnea (OSA), Prostate cancer, recent hospitalization for Heart Failure (HF) exacerbation and Pericarditis.",
+        "family_history": "Father with gout; mother with end-stage renal disease (ESRD) on hemodialysis, history of stroke and hypertension; one brother with lung cancer and coronary artery disease (CAD). Family history of heart failure (mother) and myocardial infarction (one brother).",
+        "social_history": "Not specified."
+    }
+}

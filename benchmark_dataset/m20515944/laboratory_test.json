@@ -1,0 +1,10 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC count",
+            "date": "Not specified",
+            "findings": "WBC 13.5 (elevated)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

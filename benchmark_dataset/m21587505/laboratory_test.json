@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "BACTEROIDES FRAGILIS GROUP",
+            "date": "Not specified",
+            "findings": "Result: 9.4 (within normal range 8.4 - 10.3)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Low lung volumes with bibasilar atelectasis or developing consolidation. No pleural effusion or pneumothorax, normal heart size and cardiomediastinal silhouette.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

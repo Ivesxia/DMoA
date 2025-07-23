@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "T 97.7, HR 68, BP 133/76, RR 20, Sat 98% RA",
+            "relevant_findings": "Well appearing woman in NAD. Extra-ocular movements intact, pupils equal round, reactive to light, sclera anicteric, not injected, no exudates. Mucus membranes moist, no ulcerations or exudates. No thyromegaly, JVD: flat, + acanthosis nigricans. Regular rate and rhythm, normal s1, s2, no murmurs, rubs or gallops. Clear to auscultation bilaterally, no wheezes, rales or rhonchi. Abdomen soft, mildly tender to palpation RUQ without rebound or guarding, non-distended, no hepatosplenomegaly, bowel sounds present. Trace pedal edema bilaterally, no cyanosis, clubbing, joint swelling. Neurologically alert and oriented x3, CN II-XII intact, normal attention, asterixis absent, speech fluent. Warm, moist integument, no rash or ulceration. Appropriate and pleasant psychiatric exam.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "In ED",
+            "vital_signs": "98, 70, 184/68, 18, 98% RA",
+            "relevant_findings": "Blood glucose fell to 69, asymptomatic, received D50.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

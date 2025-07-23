@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.2 °F",
+                "heart_rate": "66 bpm",
+                "blood_pressure": "113/71 mmHg",
+                "respiratory_rate": "16 bpm",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "awake, alert, NAD",
+                "HEENT": "NCAT, EOMI, anicteric",
+                "heart": "RRR, NMRG",
+                "lungs": "CTAB, no respiratory distress",
+                "abdomen": "soft, RLQ tenderness with guarding, no rebound, ND, no mass, no hernia, negative psoas and obturator sign, +McBurney's, + BS",
+                "extremities": "WWP"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

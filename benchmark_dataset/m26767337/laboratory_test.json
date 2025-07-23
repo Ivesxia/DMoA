@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "E.Coli grew from the urine culture. No growth was noted upon further testing with a reference range of 0.9 to 1.1.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transvaginal Sonogram",
+            "date": "Not specified",
+            "findings": "Study performed for transvaginal diverticular abscess drainage.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

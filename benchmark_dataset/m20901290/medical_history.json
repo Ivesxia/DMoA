@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right lower quadrant abdominal pain",
+        "history_of_present_illness": "Patient reported being in his usual state of health until 4 days prior to presentation when he drank some wine. This was followed by dull right lower quadrant pain and tenderness without radiation. The pain persisted over the next four days, remaining relatively unchanged, during which time the patient experienced decreased appetite and loose stools. He presented to his PCP for an urgent care visit during this period. Denies fevers or chills.",
+        "past_medical_history": "1. Chronic Obstructive Pulmonary Disease (COPD) 2. Hypertension (HTN) 3. Congestive Heart Failure (CHF) with EF <35% 4. Stage III Chronic Kidney Disease (CKD) 5. Paroxysmal Atrial Fibrillation (PAF) 6. Depression 7. History of Hip Fracture 8. Hyperlipidemia 9. Osteoporosis 10. Lung Cancer (T1 Adenocarcinoma) with prior wedge resection 11. Prostate Cancer, high grade, post-treatment with Lupron and XRT.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

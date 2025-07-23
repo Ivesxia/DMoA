@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric pain",
+        "history_of_present_illness": "Patient has experienced intermittent epigastric pain over the past six months, resolving on its own. Recent symptoms began at 3 pm yesterday after eating fried chicken and plantains. Pain was located in the epigastrium, exacerbated by laying down, improved with sitting or standing, and resolved partially but returned around 10 pm. The patient also had an episode of nonbloody emesis without nausea. Due to ongoing pain, he presented to the emergency department early this morning.",
+        "past_medical_history": "Major depressive disorder, obsessive-compulsive disorder, gastroesophageal reflux disease, dyslipidemia, psychotic episode.",
+        "family_history": "Father deceased at age ___ from heart attack; mother alive at ___ with Type II diabetes mellitus and hypertension.",
+        "social_history": "Not specified."
+    }
+}

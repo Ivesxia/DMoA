@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver demonstrates homogenous low attenuation compatible with hepatosteatosis. There is no evidence of focal lesions. The pancreas has normal attenuation, no focal lesions, or pancreatic ductal dilatation. The spleen shows normal size and attenuation. The adrenal glands are normal. Multiple small hypodense lesions in the right kidney, with the largest measuring 6 mm. The appendix is dilated measuring up to 8 mm with thickened hyperemic wall and periappendiceal fat stranding. No free fluid in the pelvis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture Test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Specimen to be held for 48 hours and discarded."
+        }
+    ]
+}

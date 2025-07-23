@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Diffuse hypoattenuation of the liver compatible with steatosis; mild stranding about the head of the pancreas; unremarkable gallbladder; normal spleen and adrenal glands; right kidney normal; small bowel opacifies without obstruction or focal wall thickening; no evidence of acute bowel inflammation; mesenteric nodal mass unchanged; no hydronephrosis.",
+            "changes_over_time": "The mesenteric nodal mass is grossly unchanged from prior exam."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is homogenous in echotexture without discrete mass or lesion. No intrahepatic biliary ductal dilatation. The gallbladder is present with multiple mobile gallstones identified. The gallbladder is not distended, nor is there any pericholecystic fluid. Occasional thickened appearance of the gallbladder wall is noted, likely related to non-distended state. Common bile duct is not dilated measuring 4 mm. No free fluid identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

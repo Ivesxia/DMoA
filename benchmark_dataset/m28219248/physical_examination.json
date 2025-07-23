@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "GENERAL: Pleasant, well appearing in NAD. HEENT: Normocephalic, atraumatic. PERRLA/EOMI. MMM. CARDIAC: Regular rhythm, normal rate. Normal S1, S2. No murmurs, rubs or gallops. LUNGS: CTAB, good air movement bilaterally. ABDOMEN: NABS. Tender to palpation in LLQ and RLQ. Most exquisitely tender in midline of abdomen just above pubis. EXTREMITIES: No edema or calf pain, 2+ dorsalis pedis/ posterior tibial pulses. SKIN: No rashes/lesions, ecchymoses. NEURO: A&Ox3. Appropriate. CN grossly intact. Preserved sensation throughout. Strength throughout. PSYCH: Listens and responds to questions appropriately, pleasant.",
+            "changes_over_time": "Mild residual mesenteric fat stranding noted in the area of prior inflammatory changes surrounding the sigmoid colon has undergone considerable interval improvement."
+        }
+    ]
+}

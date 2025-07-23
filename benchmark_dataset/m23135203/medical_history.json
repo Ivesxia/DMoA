@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Abdominal pain for 4 days. Initially predominantly epigastric but now primarily in the right upper quadrant (RUQ). Associated symptoms include fever to 101°F, nausea, and emesis. Pain persisted and worsened despite improvement 2 days ago when the patient was able to tolerate oral intake. Pain is not alleviated by over-the-counter (OTC) medication.",
+        "past_medical_history": "DM (Diabetes Mellitus), OSA (Obstructive Sleep Apnea), HTN (Hypertension), hyperlipidemia, glaucoma, arthritis, obesity",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

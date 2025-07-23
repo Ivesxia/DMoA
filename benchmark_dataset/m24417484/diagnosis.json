@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Pancreatitis",
+        "differential_diagnosis": "Lung mass, Schizophrenia, Diabetes Mellitus, Hypertension",
+        "diagnostic_reasoning": "The patient presented with epigastric and chest pain, along with elevated lipase levels (1550), indicating pancreatitis. Imaging revealed a concerning mass in the right lower lung lobe, suggesting a possible malignancy, and other prior conditions were also noted but ruled out as direct causes of the current hospitalization."
+    }
+}

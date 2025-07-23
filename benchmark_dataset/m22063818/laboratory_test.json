@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "White blood cell count",
+            "date": "Not specified",
+            "findings": "Elevated white blood cell count.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transaminases",
+            "date": "Not specified",
+            "findings": "Elevated transaminases.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT abdomen pelvis with contrast",
+            "date": "Not specified",
+            "findings": "Stable 4 mm pulmonary nodule, rim enhancing lesion measuring 1.9 x 1.6 cm near the gallbladder fossa, and diverticulosis of the sigmoid colon with bowel wall defect indicating a possible enlarged, perforated diverticulum.",
+            "changes_over_time": "The rim enhancing lesion near the gallbladder was previously not imaged."
+        }
+    ]
+}

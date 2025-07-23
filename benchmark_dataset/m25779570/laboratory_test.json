@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "There is a small right pleural effusion with associated atelectasis. The liver is homogeneously hypodense with no evidence of focal lesions or biliary dilatation. There is extensive peripancreatic stranding and fluid, particularly surrounding the pancreatic head and uncinate process, with no convincing evidence of pancreatic necrosis. A 4.9 cm hypodense lesion in the lower pole of the left kidney is most consistent with a cyst.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Escherichia coli culture",
+            "date": "Not specified",
+            "findings": "Positive for Escherichia coli.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

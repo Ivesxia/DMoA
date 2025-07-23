@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Gallstones are in the gallbladder. Nonmobile echogenic structures on the gallbladder wall without internal vascularity likely reflect adherent sludge. Limited views of the moderate to severe right hydronephrosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

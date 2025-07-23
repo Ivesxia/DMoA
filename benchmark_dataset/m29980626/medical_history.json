@@ -1,0 +1,15 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient has been feeling unwell since yesterday. Symptoms began with a gradual onset of periumbilical pain at 2 AM, which became more severe and localized to the right lower quadrant (RLQ). He experienced one episode of nonbloody, nonbilious vomiting and diarrhea yesterday. Associated symptoms include nausea, and he has not eaten since 6 PM last night. He denies fevers or chills.",
+        "past_medical_history": [
+            "Hypercholesterolemia, on pravastatin",
+            "History of dyspepsia with positive H. pylori serology, improved with PPI",
+            "Anxiety",
+            "Intermittent back pain",
+            "No history of abdominal surgery"
+        ],
+        "family_history": "Laryngeal cancer",
+        "social_history": "Not specified"
+    }
+}

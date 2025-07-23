@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Biliary stent was placed and cytology brushings were obtained (which were negative for malignancy).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder is distended with shadowing stones and sludge along with a 6 mm obstructing stone at the gallbladder neck/cystic duct; no pericholecystic fluid or gallbladder wall edema is present. Common bile duct stent shows greater dilatation of the proximal common bile duct, measuring 10 mm.",
+            "changes_over_time": "Recent ultrasound findings better characterized previously demonstrated hemangiomas, and greater dilatation of the common bile duct has been noted."
+        }
+    ]
+}

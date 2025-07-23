@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "blood_pressure": "137/79 mmHg",
+                "heart_rate": "60 bpm",
+                "respiratory_rate": "17 breaths/min",
+                "oxygen_saturation": "96% RA"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing, well-nourished, no acute distress",
+                "HEENT": "EOMI, PERRL, sclera anicteric, no epistaxis or rhinorrhea, dry MM, clear OP",
+                "neck": "no cervical lymphadenopathy, trachea midline",
+                "cardiovascular": "RRR, no M/G/R, normal S1 S2, radial pulses +2",
+                "pulmonary": "some expiratory wheezes",
+                "abdominal": "Soft, mild distention, and tender in RUQ, +BS",
+                "extremities": "No C/C/E, no palpable cords",
+                "neurological": "alert, oriented to person, place, and time. CN II – XII grossly intact. Moves all 4 extremities.",
+                "skin": "No jaundice, cyanosis, or gross dermatitis. No ecchymoses."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "weakness and fever",
+        "history_of_present_illness": "Symptoms began two days prior to admission with weakness and fever. The patient noted increased shortness of breath with ambulation the night before admission and reported baseline shortness of breath that had recently improved with Spiriva and PRN albuterol inhalers.",
+        "past_medical_history": "Stage 3A Hodgkin's lymphoma post-chemoradiation therapy, small cell lung carcinoma post-lingular segmentectomy and Cyberknife treatment for a right lower lobe nodule, follicular lymphoma on bendamustine/rituximab, chronic obstructive pulmonary disease, history of abdominal aortic aneurysm, parotidectomy for Warthin tumor, and tobacco abuse.",
+        "family_history": "Mother was a smoker and passed away from lung cancer. Father died from myocardial infarction. Brother had myocardial infarction.",
+        "social_history": "Tobacco abuse - quit."
+    }
+}

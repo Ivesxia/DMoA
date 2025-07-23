@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Pathology confirmed metastatic melanoma (positive for MART-1, S-100, and HMB-45).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gamma Knife radiosurgery",
+            "date": "Not specified",
+            "findings": "The second small metastasis in the left parietal lobe was treated.",
+            "changes_over_time": "Both lesions were treated to 20 Gy."
+        },
+        {
+            "procedure_name": "Craniotomy and resection",
+            "date": "Not specified",
+            "findings": "Post-operative MRI showed gross total resection of the mass lesion without other new lesions; however, invasion of the dura was seen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PET scan",
+            "date": "Not specified",
+            "findings": "Continued to show stable disease.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

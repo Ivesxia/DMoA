@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic with a region of focal fatty sparing in the periportal region and adjacent to the gallbladder. The contour of the liver is smooth. No focal liver mass. Main portal vein is patent with hepatopetal flow. No ascites. There is no intrahepatic biliary dilation. The CBD measures 5 mm. The gallbladder is distended and contains two gallstones. No definite gallbladder wall thickening. The imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "2.0 #/lpf.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

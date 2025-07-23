@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder is significantly distended and contains mobile sludge without a discrete gallstone. There is gallbladder wall edema.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C. difficile PCR",
+            "date": "Not specified",
+            "findings": "NEGATIVE. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver is hypoattenuating throughout, compatible with severe hepatic steatosis. The pancreatic tail is prominent, with surrounding stranding, concerning for potential pathology. No other significant findings noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Test",
+            "date": "Not specified",
+            "findings": "9.0 mg/dL, within normal range (ref range 8.4 - 10.3)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Low lung volumes, no pleural effusions, no pneumothorax, no focal parenchymal opacities, no evidence of atelectasis, normal cardiac silhouette, normal hilar and mediastinal structures.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Lingular atelectasis and a right lower lobe calcified granuloma are noted. The liver demonstrates homogenous attenuation with fatty infiltration. Multiple subcentimeter hepatic hypodensities likely represent cysts versus biliary hamartomas. The extrahepatic CBD is dilated up to 13 mm, stable since the last examination. The pancreas appears mildly swollen without focal lesions. The spleen is normal. Bilateral adrenal glands show persistent thickening. Kidneys are normal with tiny bilateral renal hypodensities likely cysts. There is a small hiatal hernia, status post partial bowel resection, and diverticulosis of the sigmoid colon without wall thickening. Multiple prominent mesenteric and retroperitoneal lymph nodes noted. No abdominal aortic aneurysm. Degenerative changes in the lumbar spine. Small fat containing umbilical hernia noted.",
+            "changes_over_time": "The extrahepatic CBD remains dilated up to 13 mm, stable since the last examination."
+        }
+    ]
+}

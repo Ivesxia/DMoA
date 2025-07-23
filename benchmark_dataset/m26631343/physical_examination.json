@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.0°F",
+                "heart_rate": "112 bpm",
+                "blood_pressure": "113/72 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Uncomfortable appearing woman in NAD.",
+                "HEENT": "Normocephalic atraumatic, EOMI, MMM.",
+                "heart": "RRR.",
+                "lungs": "No increased work of breathing.",
+                "abdomen": "Soft, nondistended, normoactive bowel sounds, tender to palpation in the RLQ with guarding, negative rebound, + rovsing, +obdurator, -psoas.",
+                "neuro": "CNS grossly intact."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

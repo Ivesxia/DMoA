@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98",
+                "pulse": "83",
+                "blood_pressure": "142/86",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and oriented x3",
+                "cardiovascular": "Regular rate and rhythm",
+                "lungs": "Clear to auscultation bilaterally, no wheezes/rales/rhonchi",
+                "abdomen": "Soft, non-distended, tender to moderate palpation in the right lower quadrant, no guarding/rebound tenderness, not peritoneal, negative obdurator/psoas signs",
+                "extremities": "Warm, well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

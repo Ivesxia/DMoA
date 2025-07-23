@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Left lower quadrant pain",
+        "history_of_present_illness": "Pain started this afternoon after a recent diagnosis of sigmoid diverticulitis and treatment for a pericolonic abscess. Symptoms improved initially but worsened recently with copious vaginal discharge. Denies fevers, chills, nausea, emesis, changes to bowel habits. The pain has improved since being in the emergency department.",
+        "past_medical_history": "Peptic Ulcer s/p Billroth II, Acute necrotizing esophagus (\"black esophagus\"), Diverticulosis, GERD, Anemia of chronic disease, Hyperlipidemia, Essential hypertension",
+        "family_history": "Significant family history of breast cancer (sister died of breast cancer, nieces with similar diagnoses), father with peptic ulcers, no history of colon cancer.",
+        "social_history": "Not specified"
+    }
+}

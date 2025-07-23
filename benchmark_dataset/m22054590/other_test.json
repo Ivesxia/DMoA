@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Stress test",
+            "date": "Not specified",
+            "findings": "Poor exercise tolerance limited by exertional dyspnea. Anginal-type symptoms with no ischemic ST segment changes. New, mild reversible defect of the inferior wall.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Echocardiogram",
+            "date": "Not specified",
+            "findings": "Moderate PA systolic hypertension. EF 75%.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Gallbladder distended with shadowing gallstone at the fundus. Gallbladder wall thickened with trace edema. No focal or textural abnormalities noted in the liver. No intrahepatic or extrahepatic biliary ductal dilation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

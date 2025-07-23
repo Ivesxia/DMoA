@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION. Value: 0.9 mmol/L.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transvaginal Ultrasound",
+            "date": "Not specified",
+            "findings": "The uterus is anteverted and measures 8.5 x 2.3 x 4.4 cm. The endometrium is homogenous and measures 7 mm. The ovaries are normal with normal vascularity. The right ovary measures 4.2 x 2.1 x 3.7 cm. The left ovary measures 3.1 x 2.0 x 2.8 cm. There is no free fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

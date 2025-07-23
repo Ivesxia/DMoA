@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver demonstrates diffusely increased echogenicity. No focal liver lesions are identified. The main portal vein is patent with appropriate hepatopetal flow. There is no intra- or extra-hepatic biliary dilatation with the common bile duct measuring up to 5 mm. The gallbladder is normal without evidence of stones. Limited views of the pancreatic body are unremarkable with the head and tail not well visualized.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

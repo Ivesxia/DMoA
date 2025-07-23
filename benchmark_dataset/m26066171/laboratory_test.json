@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Troponin",
+            "date": "Not specified",
+            "findings": "Troponin level: 2.6 pg/mL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Clostridium Difficile Infection",
+            "date": "Not specified",
+            "findings": "Clostridium Difficile level: 1188.0 pg/mL (Reference range: 240.0 - 900.0 pg/mL) - outside normal range",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

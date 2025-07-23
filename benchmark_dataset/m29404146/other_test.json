@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Multiple new intra-pelvic fluid collections with some air-fluid levels; largest in the rectouterine pouch measuring 8.0 x 7.5 x 4.7 cm. Other collections noted in the mid pelvis and adjacent to the uterine fundus and left pelvic side wall. Prominent inguinal lymph nodes have slightly increased in size, likely reactive. Malpositioned intrauterine device noted.",
+            "changes_over_time": "There are now multiple new intra-pelvic fluid collections compared to the prior study."
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "4+ polymorphonuclear leukocytes (>10 per 1000X FIELD). No microorganisms seen.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

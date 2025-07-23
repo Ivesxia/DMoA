@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The spleen is enlarged measuring up to 15.1 cm with normal attenuation throughout, without evidence of focal lesions. In the expected location of the appendix, there is a large amount of phlegmon and fluid spanning up to 5.7 x 6.1 cm suggestive of a contained perforated appendix.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures for Escherichia coli",
+            "date": "Not specified",
+            "findings": "Escherichia coli detected; value 8.8 mg/dL, which is within normal range (8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

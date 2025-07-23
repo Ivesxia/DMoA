@@ -1,0 +1,46 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "appearance": "within normal limits",
+                    "contour": "smooth",
+                    "focal_mass": "no focal liver mass",
+                    "main_portal_vein": "patent with hepatopetal flow",
+                    "ascites": "no ascites"
+                },
+                "bile_ducts": {
+                    "dilation": "moderate intrahepatic biliary dilation, not significantly changed",
+                    "common_bile_duct_measurement": {
+                        "proximal": "12 mm",
+                        "at_head_of_pancreas": "11 mm (previously measuring 7 mm)"
+                    },
+                    "intraluminal_filling_defect": "no intraluminal filling defect noted"
+                },
+                "gallbladder": "Patient has undergone interval cholecystectomy",
+                "pancreas": {
+                    "appearance": "within normal limits",
+                    "proximal_pancreatic_duct": "mildly dilated up to 4 mm"
+                },
+                "spleen": {
+                    "echogenicity": "normal",
+                    "measurement": "7.9 cm"
+                },
+                "kidneys": {
+                    "right_kidney": "limited views show no hydronephrosis"
+                },
+                "retroperitoneum": "visualized portions of aorta and IVC are within normal limits"
+            },
+            "changes_over_time": {
+                "bile_ducts": {
+                    "common_bile_duct": {
+                        "previous_measurement": "7 mm",
+                        "current_measurement": "11 mm at head of pancreas"
+                    }
+                }
+            }
+        }
+    ]
+}

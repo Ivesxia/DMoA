@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "NO SALMONELLA OR SHIGELLA FOUND.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "A 7mm hypoattenuating pancreatic body lesion is noted. Marked wall thickening involving the entire descending colon predominantly distal to the splenic flexure with associated stranding of the adjacent fat and thickening of adjacent fascial planes. A small amount of free fluid is noted within the left paracolic gutter and there appears to be a small contained microperforation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

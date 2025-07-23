@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Amylase/Lipase",
+            "date": "Not specified",
+            "findings": "Elevated amylase/lipase noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Salmonella/Shigella Test",
+            "date": "Not specified",
+            "findings": "NO SALMONELLA OR SHIGELLA FOUND.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

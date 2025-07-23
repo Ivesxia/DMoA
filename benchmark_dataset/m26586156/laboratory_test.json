@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C. difficile test",
+            "date": "Not specified",
+            "findings": "Negative for C. difficile.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Enteric gram negative rods test",
+            "date": "Not specified",
+            "findings": "No enteric gram negative rods found. No Salmonella or Shigella found.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood test",
+            "date": "Not specified",
+            "findings": "18.8 ug/mL, within normal range (10.0 - 20.0 ug/mL).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

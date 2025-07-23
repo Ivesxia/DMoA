@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Illumigene DNA amplification assay for C. difficile",
+            "date": "Not specified.",
+            "findings": "Negative for toxigenic C. difficile (Reference Range-Negative).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified.",
+            "findings": {
+                "Lower Thorax": "Trace bilateral pleural effusions and mild dependent atelectasis of the visualized lung bases.",
+                "Liver": "Right hepatic lobe elongated, measuring 23.8 cm; no hepatic steatosis; heterogeneous enhancement; mild periportal edema; inflammatory stranding of porta hepatis; no focal lesion; small amount of perihepatic fluid.",
+                "Biliary": "Surgically absent gallbladder; drain in place from right anterolateral approach; biliary trifurcation noted; mildly dilated common bile duct (7 mm); fluid collection in gallbladder fossa (2.0 x 3.1 cm) with biliary leak indicated.",
+                "Pancreas": "Pancreas divisum; no ductal dilatation; normal parenchyma.",
+                "Spleen": "Top normal size, measuring 13.4 cm.",
+                "Adrenal Glands": "Left adrenal gland thickened without discrete nodule; right adrenal within normal limits.",
+                "Kidneys": "4 mm T1 hyperintense lesion (hemorrhagic or proteinaceous cyst); 1.7 x 1.3 cm simple cyst in right kidney; left kidney normal; no hydronephrosis.",
+                "Gastrointestinal Tract": "Postsurgical changes of Roux-en-Y gastric bypass; nondilated upper abdominal bowel loops.",
+                "Lymph Nodes": "Mildly prominent paraaortic nodes.",
+                "Vasculature": "Abdominal aorta and major mesenteric branches normal in caliber and patent.",
+                "Osseous and Soft Tissue Structures": "Open surgical wound along midline to right anterior abdominal wall with associated subcutaneous edema."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

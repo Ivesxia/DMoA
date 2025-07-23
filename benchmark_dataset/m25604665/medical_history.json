@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Patient presenting with abdominal pain.",
+        "history_of_present_illness": "Abdominal pain began recently, was persistent and localized to the right lower quadrant, accompanied by subjective fevers. The pain significantly worsened over the last day, especially with activity. The patient experienced persistent nausea, multiple episodes of vomiting, and diarrhea. She is currently on her menstrual cycle.",
+        "past_medical_history": "Not specified",
+        "family_history": "Noncontributory",
+        "social_history": "Not specified"
+    }
+}

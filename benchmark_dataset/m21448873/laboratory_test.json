@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "9.4 K/uL (Normal range: 4.0 - 11.0 K/uL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "1.1 cm appendicolith in the tip of the appendix with surrounding inflammatory stranding; proximal appendix appears decompressed. No drainable fluid collection or extraluminal gas.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

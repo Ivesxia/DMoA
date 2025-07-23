@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Moderate right low-attenuation pleural effusion, moderate to large left pleural effusion, moderate bibasilar dependent atelectasis, 8-mm cystic lesion in the tail of the pancreas, multiloculated fluid collection extending along the left anterior pararenal space and left paracolic gutter into the pelvis, stable mild thickening and edema in the wall of descending colon, small mesenteric and retroperitoneal lymph nodes without pathologic enlargement.",
+            "changes_over_time": "Interval development of pleural effusions and increase in size of the left pleural effusion."
+        }
+    ]
+}

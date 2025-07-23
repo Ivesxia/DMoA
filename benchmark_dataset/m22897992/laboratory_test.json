@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Test",
+            "date": "Not specified",
+            "findings": "8.8 mg/dL, which is within the normal range (ref range 8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Small amount of free fluid in the pelvis; no pathologically enlarged lymph nodes. The bladder is normal in appearance. The imaged osseous structures are unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "102.2°F",
+                "heart_rate": "117 bpm",
+                "blood_pressure": "108/71 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "thin, appears stated age, mild distress secondary to abdominal pain",
+                "cardiovascular": "tachycardic, regular rhythm",
+                "lungs": "clear to auscultation",
+                "abdominal": "soft, non-distended, diffusely tender most focally in left lower quadrant with guarding and tap tenderness",
+                "rectal": "no masses, tone intact, trace guaiac positive"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

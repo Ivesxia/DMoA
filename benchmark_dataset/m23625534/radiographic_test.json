@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Small hyperechoic lesion in the left lobe of the liver measuring 9 mm in diameter, consistent with a hemangioma. Liver is otherwise homogeneous and normal in appearance. Doppler assessment of the main portal vein shows patency and hepatopetal flow. No ascites. Gallbladder demonstrates gallstones and is somewhat distended. No evidence of intrahepatic or extrahepatic biliary dilatation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

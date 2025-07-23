@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level ___ (not specified)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP BILIARY&PANCREAS BY GI UNIT",
+            "date": "Not specified",
+            "findings": "No pancreatic or common bile duct dilatation detected. No definite filling defects identified, but small filling defects representing sludge vs small stones were appreciated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "NG Lavage",
+            "date": "Not specified",
+            "findings": "+coffee grounds",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

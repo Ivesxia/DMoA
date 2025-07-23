@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute pancreatitis vs gastroenteritis",
+        "differential_diagnosis": "celiac disease, migraines",
+        "diagnostic_reasoning": "The patient presented with symptoms including abdominal pain, nausea, vomiting, diarrhea, and elevated lipase, which supports the diagnosis of acute pancreatitis. Given her history of celiac disease, gastrointestinal issues were considered, and differential diagnoses included gastroenteritis and other gastrointestinal conditions. The imaging findings and clinical presentation aligned more closely with acute pancreatitis."
+    }
+}

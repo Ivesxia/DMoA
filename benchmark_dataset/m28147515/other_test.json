@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "lipase test",
+            "date": "Not specified",
+            "findings": "elevated lipase to 4456 initially, decreased to 1000",
+            "changes_over_time": "decreased from 4456 to 1000"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "dilated CBD, large gallbladder without signs of inflammation, CBD up to 10mm, intra and extra-hepatic ductal dilatation",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "biopsy",
+            "date": "Not specified",
+            "findings": ">25 PMNs and <10 epithelial cells/100X field. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "RRR (regular rate and rhythm)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

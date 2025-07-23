@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cytology Smear",
+            "date": "Not specified",
+            "findings": "No polymorphonuclear leukocytes seen. No microorganisms seen. This is a concentrated smear made by cytospin method.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "38.0 IU/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "Gallbladder is markedly inflamed, distended and hydropic, measuring up to 17 cm in length, gallbladder wall measures up to 7 mm, and cholelithiasis with a large stone measuring up to 4.3 cm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

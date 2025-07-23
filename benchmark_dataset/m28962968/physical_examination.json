@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5 F",
+                "heart_rate": "75 bpm",
+                "blood_pressure": "111/65 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% on RA"
+            },
+            "relevant_findings": {
+                "HEENT": "PERRLA, sclera anicteric",
+                "CV": "RRR, nl S1, S2",
+                "Pulm": "CTAB",
+                "Abd": "Soft, obese, non-distended. Moderate TTP in RLQ, most severe slightly medial to McBurney's point. No rebound tenderness, negative Rovsing's sign, no peritoneal signs."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

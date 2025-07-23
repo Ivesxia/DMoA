@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified.",
+            "findings": "Multiple gallstones within a distended gallbladder. No gallbladder wall edema or pericholecystic fluid. Focal areas in the gallbladder wall at the fundus compatible with adenomyomatosis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

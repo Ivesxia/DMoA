@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopic Retrograde Cholangiopancreatography (ERCP)",
+            "date": "Not specified",
+            "findings": "During ERCP, an EGD showed severely tight ring in the cricopharyngeus; at the level of the duodenum, there was evidence of a biliary stone which most probably passed spontaneously through the major papilla into the duodenal lumen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of the Liver or Gallbladder (Single Organ)",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic with smooth contours; intrahepatic biliary ductal dilation and mild CBD dilation up to 9 mm; two stones are noted within the common bile duct, largest measuring 1.1 x 1.4 x 0.7 cm; gallbladder is distended with mild wall edema and layering luminal sludge.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "99 bpm",
+                "blood_pressure": "141/85 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "awake, alert and oriented",
+                "HEENT": "Normocephalic, atraumatic, Pupils equal, round and reactive to light",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm",
+                "abdominal": "Soft, tender to palpation",
+                "GU/Flank": "No costovertebral angle tenderness",
+                "extremities/back": "No cyanosis, clubbing or edema",
+                "skin": "No rash",
+                "neurological": "Speech fluent",
+                "psychological": "Normal mood"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "CT abdomen findings",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "lung_bases": "Small bilateral pleural effusions with adjacent atelectasis in the lower lobes bilaterally",
+                "abdominal_pelvis": "Cylindrical-shaped density in anterior abdominal wall likely representing a postoperative hematoma and high-density in gallbladder bed likely representing a postoperative hematoma. No fluid collections.",
+                "inflammatory_changes": "Marked inflammatory stranding centered around pancreas; increased since previous study, without evidence of pancreatic necrosis or hemorrhage"
+            },
+            "changes_over_time": "The degree of inflammatory changes appears to have increased since previous study."
+        }
+    ]
+}

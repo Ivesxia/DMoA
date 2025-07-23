@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient developed abdominal pain while in the hospital with worsening pain today, predominantly right-sided, radiating diffusely to the back, and sharp at its worst. No diarrhea, constipation, nausea, vomiting, fevers, or chills were reported.",
+        "past_medical_history": "Hypertension, Hyperlipidemia, Type 2 Diabetes Mellitus, Chronic Kidney Disease stage III, heart block status post pacemaker, adrenal mass with possible Cushing's syndrome, gastroesophageal reflux disease, glaucoma, obesity, total abdominal hysterectomy and bilateral salpingo-oophorectomy years ago.",
+        "family_history": "Brother with unspecified condition. Another brother died of prostate cancer and a sister died of gastric cancer.",
+        "social_history": "Not specified."
+    }
+}

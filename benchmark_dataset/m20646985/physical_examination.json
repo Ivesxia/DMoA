@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "90 bpm",
+                "blood_pressure": "123/64 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "well appearing, lying uncomfortably in bed",
+                "abdominal": "obese, soft but exquisitely tender in the RLQ, rebound tenderness on R, involuntary guarding on R, positive psoas sign",
+                "neurological": "CN II-XII grossly intact, moves all four extremities and ambulates about the unit, AxO3"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

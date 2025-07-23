@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Pelvic examination",
+            "date": "Not specified",
+            "findings": "Right adnexal tenderness, yellow discharge from cervix.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Appendix is dilated up to 1.4 cm with an appendicolith; free fluid, inflammatory fat stranding surrounding the appendix; prominent right external iliac lymph nodes.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

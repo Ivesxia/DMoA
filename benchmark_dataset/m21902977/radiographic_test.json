@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Lungs are low in volume but clear aside from retrocardiac atelectasis. No pleural effusion or pneumothorax. Heart is normal in size, normal cardiomediastinal contours.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

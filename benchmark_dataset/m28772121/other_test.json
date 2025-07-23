@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Normal cardiac rhythm with regular rate.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biliary ultrasound",
+            "date": "Not specified",
+            "findings": "Gallbladder completely filled with shadowing stones; common bile duct measures 7 mm proximally and dilates to 9 mm; portal vein patent with hepatopetal flow; no ascites.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Labs (Amylase and Lipase)",
+            "date": "Not specified",
+            "findings": "Amylase 3446; lipase 2816 in the office; lipase 767 in the ED.",
+            "changes_over_time": "Lipase decreased from 2816 to 767 between the office visit and the ED presentation."
+        }
+    ]
+}

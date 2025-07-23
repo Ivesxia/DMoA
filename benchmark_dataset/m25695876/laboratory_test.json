@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC was 17 (elevated).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Troponin",
+            "date": "Not specified",
+            "findings": "Troponin 0.975 / MB 9.5.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Stool Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Portable Abdomen Radiograph",
+            "date": "Not specified",
+            "findings": "Area of gas densities beneath the left hemidiaphragm, consistent with the possibility of free intraperitoneal gas; substantial contrast material in the bladder; severe degenerative changes in the lumbar spine.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

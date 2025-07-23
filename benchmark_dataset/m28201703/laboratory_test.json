@@ -1,0 +1,64 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "INR",
+            "date": "Not specified",
+            "findings": "INR > 20 (significantly elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Potassium (K)",
+            "date": "Not specified",
+            "findings": "K 6.6 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Sodium (Na)",
+            "date": "Not specified",
+            "findings": "Na 129 (low)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine (Cr)",
+            "date": "Not specified",
+            "findings": "Cr 7.3 (elevated, indicating acute renal failure)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ALT",
+            "date": "Not specified",
+            "findings": "ALT: 882 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase (AP)",
+            "date": "Not specified",
+            "findings": "AP: 911 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Total Bilirubin (Tbili)",
+            "date": "Not specified",
+            "findings": "Tbili: 8.1 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "AST",
+            "date": "Not specified",
+            "findings": "AST: 1189 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Phenytoin level",
+            "date": "Not specified",
+            "findings": "Phenytoin level 3.2-3.7 (within therapeutic range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Culture (UCx)",
+            "date": "Not specified",
+            "findings": "Positive for ESCHERICHIA COLI, SERRATIA MARCESCENS",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

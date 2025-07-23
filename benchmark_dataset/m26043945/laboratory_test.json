@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is poorly defined with extensive surrounding fat stranding and several locules of extraluminal gas. Findings are compatible with perforated appendicitis with contained perforation. A small adjacent collection contains an air-fluid level possibly representing an abscess measuring approximately 2.4 x 4.0 cm. Marked thickening of the cecal base.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine Level",
+            "date": "Not specified",
+            "findings": "Borderline serum creatinine; reported value was 2.0 mg/dL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

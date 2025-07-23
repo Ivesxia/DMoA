@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "24 hours of rigors and acute nausea with 1 episode of emesis.",
+        "history_of_present_illness": "The patient presented with rigors for 24 hours and acute nausea for ___ days, with intermittent nausea for ___ months preceding this episode. Nausea improved with eating on occasion. The patient also reports a 25 lb weight loss over this time period.",
+        "past_medical_history": "AFib, depression, hyperlipidemia, TIA, BPH, h pylori, GERD.",
+        "family_history": "Brother with multiple strokes; Mother has HTN and HLD.",
+        "social_history": "Not specified."
+    }
+}

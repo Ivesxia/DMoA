@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute abdominal pain",
+        "history_of_present_illness": "The patient had acute onset abdominal pain since a specified date. The pain started on another specified date and initially resolved but returned worse since the evening prior to admission. She also experienced some nausea and a black bowel movement, and has tried Pepto-Bismol for her symptoms. No true fevers or chills were reported.",
+        "past_medical_history": "Hypertension (HTN), Gastroesophageal reflux disease (GERD)",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

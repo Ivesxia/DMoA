@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver function test",
+            "date": "Not specified",
+            "findings": "ALT 70, AST 146 (transaminitis, elevated levels outside normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 2345 (elevated level outside normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound - Liver or Gallbladder",
+            "date": "Not specified",
+            "findings": "Intra- and extra-hepatic ductal dilatation, unchanged from prior exam; common duct intrahepatically measuring 1.1 cm; no focal hepatic lesions; portal vein patent with normal hepatopetal flow.",
+            "changes_over_time": "Unchanged from prior exam"
+        }
+    ]
+}

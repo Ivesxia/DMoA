@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97°F",
+                "heart_rate": "96 bpm",
+                "blood_pressure": "157/94 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "SpO2": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD, shifted position multiple times due to pain",
+                "HEENT": "No scleral icterus, mucus membranes moist, PERRL",
+                "CV": "RRR, No M/G/R",
+                "pulmonary": "Clear to auscultation bilaterally, No W/R/R, resonant to percussion bilaterally",
+                "abdominal": "Soft, distended, TTP in RUQ without rebound or guarding, Normoactive bowel sounds, no palpable masses",
+                "extremities": "No edema, warm and well perfused, 3+ dorsalis pedis pulses bilaterally"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

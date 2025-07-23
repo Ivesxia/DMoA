@@ -1,0 +1,31 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "134/59 mmHg",
+                "heart_rate": "61 bpm",
+                "respiratory_rate": "18 bpm",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "neurological_status": "Alert and oriented x 3",
+                "cardiovascular": "Regular rate and rhythm",
+                "respiratory": "Lungs clear",
+                "abdominal": "Soft, non-tender/non-distended",
+                "extremities": {
+                    "right": "Warm and well-perfused",
+                    "left": "Cool, no skin changes",
+                    "pulses": {
+                        "right_femoral": "present",
+                        "right_dorsalis_pedis": "present",
+                        "left_femoral": "diminished",
+                        "left_dorsalis_pedis": "absent"
+                    }
+                },
+                "right_groin": "Dressing clean, dry, and intact. Soft, no hematoma or ecchymosis."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

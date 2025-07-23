@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC count was 21.6 (higher than normal range).",
+            "changes_over_time": "WBC rechecked today was 21.6 (higher) compared to previous elevated value."
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Gallbladder markedly distended with a calcified gallstone, pericholecystic fat stranding/fluid. The pancreas is diffusely atrophic.",
+            "changes_over_time": "Compared with prior CT, the right adnexal cystic structure measures approximately 3.2 x 3.7 cm, essentially unchanged."
+        }
+    ]
+}

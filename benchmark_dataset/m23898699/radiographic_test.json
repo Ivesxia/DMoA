@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The liver is of normal signal on T2-weighted imaging, no significant signal dropoff on out-of-phase imaging when compared to the T1-weighted in-phase imaging to suggest fatty deposition. No focal liver lesion within the limitations of this scan. The portal and hepatic veins are patent. No intra- or extra-hepatic biliary dilatation, the common bile duct measures 5 mm. The pancreatic duct measures 2 mm. The gallbladder is slightly thick-walled but non-distended. There is a small amount of high T2 signal adjacent to the gallbladder. Gallstones from prior sonography are less evident now. There is a 1.4-cm lobulated cystic lesion at the lower pole of the right kidney with indeterminate appearances. Several other simple cysts are noted within both kidneys.",
+            "changes_over_time": "Gallstones from prior sonography are less evident now."
+        }
+    ]
+}

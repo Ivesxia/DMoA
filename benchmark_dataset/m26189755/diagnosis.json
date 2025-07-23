@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute appendicitis.",
+        "differential_diagnosis": "Not specified.",
+        "diagnostic_reasoning": "The patient presented with acute onset severe diffuse abdominal pain, nausea, and vomiting. The CT scan revealed a distended tubular structure containing an appendicolith, measuring 14 mm in diameter, which likely represented a fluid-filled appendix, along with mild-to-moderate ascites. These findings supported the diagnosis of acute appendicitis."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is echogenic, compatible with fatty infiltration. No focal hepatic lesion is seen. The main portal vein is patent with hepatopetal flow. The gallbladder is distended with wall thickening measuring up to 12 mm and mural edema. Numerous calcified gallstones are present and there is a small amount of pericholecystic fluid. The common bile duct measures 3 mm with no intra or extrahepatic bile duct dilatation. The visualized portion of the pancreas is unremarkable, and no ascites is present.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "Patient presented with right lower quadrant pain for 24 hours, described as sharp and constant, with focal tenderness in the right lower quadrant, consistent with appendicitis. Abdominal CT showed no acute pathology previously, and physical examination revealed tenderness superior and lateral to McBurney's point indicating appendicitis rather than other conditions."
+    }
+}

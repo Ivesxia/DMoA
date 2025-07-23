@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "APTIMA COMBO 2 Assay",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria gonorrhoeae.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound - US APPENDIX",
+            "date": "Not specified",
+            "findings": "In the background of moderate free fluid; a blind-ended structure measuring 7 mm contiguous with the cecum at the focal point of pain; a ruptured right ovarian cyst measuring 2.2 cm. Moderate free fluid with trace areas of debris.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Microbiology Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Bibasilar atelectasis noted, otherwise clear lung bases. Liver, spleen, adrenal glands, gallbladder, and pancreas unremarkable. Tiny hypodensities in both kidneys likely cysts. Stomach mildly dilated with fluid, no obstruction. Small bowel normal, colon normal. Appendix not seen, no inflammatory changes in right lower quadrant. Normal bladder. No free intraperitoneal fluid, air, or intra-abdominal adenopathy. Atherosclerotic calcifications noted in aorta and major branches. Degenerative changes in lumbar spine.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

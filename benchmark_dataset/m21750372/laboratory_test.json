@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION. 8.0 mg/dL (reference range: 8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdomen Radiograph",
+            "date": "Not specified",
+            "findings": "Bowel gas pattern is non-specific with air in mildly distended loops of small bowel to 4.3cm. A small amount of air in the rectum. Contrast from the CT scan is seen in the ascending colon. No free air noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

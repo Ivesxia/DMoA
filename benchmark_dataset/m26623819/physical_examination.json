@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8 °F",
+                "blood_pressure": "131/82 mmHg",
+                "heart_rate": "72 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% on RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, lying in bed, pleasant",
+                "HEENT": "anicteric, dry MM",
+                "CV": "RRR, no murmur",
+                "lungs": "CTAB/L",
+                "abdomen": "soft, NT, ND, NABS, no rebound/guarding",
+                "extremities": "no edema",
+                "neurology": "AAOx3, fluent speech, no facial droop, + tremor of left hand and left foot",
+                "skin": "no jaundice"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96 °F",
+                "blood_pressure": "107/56 mmHg",
+                "heart_rate": "70 bpm",
+                "respiratory_rate": "15 breaths/min",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Patient improved, denies abdominal pain, nausea, vomiting, fevers, or chills upon arrival to the floor."
+        }
+    ]
+}

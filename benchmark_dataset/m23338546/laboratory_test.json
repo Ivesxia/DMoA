@@ -1,0 +1,32 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": ">1200 (significantly elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound - Liver or Gallbladder",
+            "date": "Not specified",
+            "findings": {
+                "liver_echogenicity": "heterogeneous",
+                "focal_lesions": "none",
+                "biliary_dilatation": "none",
+                "gallbladder": "normal with no stones or wall thickening",
+                "CBD": "3 mm (no choledocholithiasis)",
+                "spleen": "8.3 cm with homogeneous echotexture",
+                "kidneys": "normal limits",
+                "aorta": "normal caliber",
+                "ascites": "none"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hypopotassemia",
+            "date": "Not specified",
+            "findings": "Negative",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

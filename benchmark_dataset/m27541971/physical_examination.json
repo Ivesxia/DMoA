@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "110 bpm",
+                "blood_pressure": "109/66 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "O2_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "A&O x3, moderately uncomfortable",
+                "HEENT": "No scleral icterus, mucous membranes moist",
+                "CV": "RRR, No M/G/R",
+                "pulmonary": "Clear to auscultation b/l, No W/R/R",
+                "abdominal": "Obese, soft, generalized tenderness, most at LLQ with no guarding",
+                "DRE": "Normal tone, no gross or occult blood",
+                "extremities": "No ___ edema, ___ warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

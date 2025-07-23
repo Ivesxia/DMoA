@@ -1,0 +1,48 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "surgery",
+      "specific_treatment": "Open cholecystectomy and liver biopsy",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Not specified"
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "Omeprazole",
+      "start_date": "Not specified",
+      "end_date": "2023-10-21",  // Assuming the date based on 'stopped two days ago' without the explicit context of the event
+      "dosage_or_details": "Took for 8 weeks",
+      "treatment_response": "Stopped due to epigastric pain exacerbation"
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2023-10-19",
+      "event": "Patient developed severe epigastric pain with radiation to left shoulder"
+    },
+    {
+      "date": "2023-10-20",
+      "event": "Patient experienced continued pain, nausea/vomiting, and chills"
+    },
+    {
+      "date": "2023-10-21",
+      "event": "Patient stopped Omeprazole"
+    },
+    {
+      "date": "2023-10-21",
+      "event": "Underwent ultrasound examination of liver and gallbladder"
+    },
+    {
+      "date": "2023-10-21",
+      "event": "Diagnosed with acute cholecystitis"
+    },
+    {
+      "date": "Not specified",
+      "event": "Open cholecystectomy and liver biopsy performed"
+    }
+  ]
+}
+```

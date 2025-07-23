@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Elevated lipase; specific measurement not provided.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "T2 hyperintensity surrounding the head of the pancreas indicating edema, compressed pancreatic duct, multiple subcentimeter pancreatic cystic lesions, mildly enlarged lymph node, multiple T2 hyperintense cystic lesions in the liver, normal gallbladder, right adrenal adenoma unchanged from previous imaging.",
+            "changes_over_time": "The right adrenal adenoma is unchanged since the previous CT."
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Values indicated 198.0 IU/L; reference range is 94.0 - 250.0 IU/L, thus within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

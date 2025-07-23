@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "102°F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "120/80 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "92% on 5L low"
+            },
+            "relevant_findings": {
+                "Constitutional": "Comfortable",
+                "HEENT": "Extraocular muscles intact",
+                "Chest": "Clear to auscultation",
+                "Cardiovascular": "Normal first and second heart sounds",
+                "Abdominal": "Some guarding on the right side and mild right lower quadrant tenderness",
+                "Extr/Back": "No edema or calf tenderness",
+                "Neuro": "Speech fluent",
+                "Psych": "Normal mood"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

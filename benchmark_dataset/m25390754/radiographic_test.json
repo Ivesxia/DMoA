@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "In the right lower quadrant is a tubular, blind ending structure adjacent to the cecum with gut signature on ultrasound. This structure measures 18 x 14 mm in cross-sectional area and is non-compressible and corresponds to the patient's site of tenderness, overall suggestive of acute appendicitis. The structure is seen to be distinct from the right ovary. Note is made of small free fluid in the pelvis. There is no evidence of an appendicolith.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

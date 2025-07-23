@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "A 5 mm appendicolith at the base of the appendix, which does not fill with oral contrast and is dilated, measuring 9 mm. Mild periappendiceal stranding. No evidence of rupture. No drainable fluid collection.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Organism Culture",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.2 °F",
+                "heart_rate": "84 bpm",
+                "blood_pressure": "138/77 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and oriented times three",
+                "neck": "Supple, trachea midline, no lymphadenopathy",
+                "HEENT": "Mucous membranes moist, anicteric, extraocular movements intact",
+                "pulmonary": "No respiratory distress",
+                "abdominal": "Soft, non-distended, tender to palpation in the right upper quadrant, no rebound or guarding"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

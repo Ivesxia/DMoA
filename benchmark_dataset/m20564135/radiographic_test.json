@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver demonstrates normal echotexture. No focal lesion is detected. The main portal vein is patent with hepatopetal flow. There is no intra or extrahepatic biliary ductal dilation. Within the gallbladder neck, there is a 2 cm immobile stone. The gallbladder is distended with a thickened and edematous wall. There may be trace pericholecystic fluid although it is difficult to separate this from the gallbladder wall edema. There is increased echogenicity of the tissue surrounding the gallbladder, which could represent inflamed pericholecystic fat. Layering sludge is seen in the gallbladder. The patient is exquisitely tender throughout the right upper quadrant. The spleen is mildly enlarged measuring 13.3 cm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

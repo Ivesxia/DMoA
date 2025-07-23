@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.8°F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "110/60 mmHg",
+                "respiratory_rate": "18",
+                "date": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "A&Ox3, NAD, sitting in stretcher in mild discomfort",
+                "lungs": "CTAB",
+                "cardiovascular": "RRR",
+                "abdominal": "Soft, ND, nl BS, focal area of moderate tenderness in LLQ with localized rebound, non-tender elsewhere with no rebound/guarding.",
+                "rectal": "Declined by patient because already performed by ED personnel, reportedly guaiac negative.",
+                "date": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

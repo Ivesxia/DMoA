@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "There is a 2.0 x 1.8 x 1.5 cm area of hypodensity in the lateral left lobe of the liver; an additional 0.8 cm hypodensity is noted in the left lobe. The gallbladder is mildly distended and the common bile duct measures 0.6 - 0.7 cm. Significant findings include extensive sigmoid and descending colon diverticulosis with focal wall thickening, inflammatory changes, and a possible small focus of extraluminal gas.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test - Not specified",
+            "date": "Not specified",
+            "findings": "8.6 mg/dL (reference range: 8.4 - 10.3 mg/dL) - within normal range.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

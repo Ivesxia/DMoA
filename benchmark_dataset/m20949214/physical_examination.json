@@ -1,0 +1,70 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": [
+                {
+                    "Temperature": "100.1°F",
+                    "Heart Rate": "76 bpm",
+                    "Blood Pressure": "120/66 mmHg",
+                    "Respiratory Rate": "Not specified",
+                    "Oxygen Saturation": "100% RA"
+                }
+            ],
+            "relevant_findings": {
+                "General": "Alert, oriented, no acute distress",
+                "HEENT": "Sclera anicteric, MMM, oropharynx clear",
+                "Neck": "Supple, JVP not elevated, no LAD",
+                "Lungs": "Clear to auscultation bilaterally, no wheezes, rales, ronchi",
+                "Cardiovascular": "Regular rate and rhythm, normal S1 + split S2, no murmurs, rubs, gallops",
+                "Abdomen": "Soft, non-distended, TTP over LLQ and suprapubic region with guarding, + BS, no rebound tenderness, no organomegaly",
+                "Genitourinary": "No foley, no CVA tenderness",
+                "Extremities": "Warm, well perfused, 2+ pulses RLE, 1+ pulse LLE, no clubbing, cyanosis or edema",
+                "Neurological": "CNs 2-12 intact, motor function grossly normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": [
+                {
+                    "Temperature": "99.0°F",
+                    "Heart Rate": "72 bpm",
+                    "Blood Pressure": "121/74 mmHg",
+                    "Respiratory Rate": "18",
+                    "Oxygen Saturation": "96% RA"
+                }
+            ],
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": [
+                {
+                    "Temperature": "98.2°F",
+                    "Heart Rate": "79 bpm",
+                    "Blood Pressure": "130/69 mmHg",
+                    "Respiratory Rate": "16",
+                    "Oxygen Saturation": "97% RA"
+                }
+            ],
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": [
+                {
+                    "Temperature": "100.1°F",
+                    "Heart Rate": "76 bpm",
+                    "Blood Pressure": "120/66 mmHg",
+                    "Respiratory Rate": "22",
+                    "Oxygen Saturation": "100% RA"
+                }
+            ],
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Pain started around 6:30 this morning, initially periumbilical with eventual migration to the right lower quadrant, worsened with movement. Nausea developed with several episodes of vomiting after attempting to eat breakfast. Currently, both nausea and pain have improved.",
+        "past_medical_history": "IBS",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

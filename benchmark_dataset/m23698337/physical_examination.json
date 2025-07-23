@@ -1,0 +1,19 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "90 bpm",
+                "blood_pressure": "132/70 mmHg",
+                "respiratory_rate": "17 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Non-toxic appearing. Staying still while in chair. Moves gingerly.",
+                "abdominal": "RUQ pain to palpation with some guarding. Not much pain to direct palpation elsewhere. Immediate and dramatic tap tenderness diffusely in all four quadrants."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

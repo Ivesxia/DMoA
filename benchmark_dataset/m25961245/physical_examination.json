@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "91 bpm",
+                "blood_pressure": "139/84 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "appearance": "alert, NAD",
+                "eyes": "EOMI, PERRL, anicteric",
+                "ENT": "OP clear, no lesions, very poor dentition, no JVD, neck supple",
+                "cardiovascular": "+S1, S2; -m/r/g; no peripheral edema; 2+ DP/PT bilaterally",
+                "pulmonary": "clear bilaterally",
+                "abdominal": "soft, obese, mild epigastric tenderness to deep palpation; no distension, no fluid wave, no rebound/guarding; +BS",
+                "musculoskeletal": "strength throughout, no joint swelling, no cyanosis or clubbing",
+                "neurologic": "CN grossly intact, no focal deficits",
+                "skin": "no rashes",
+                "psych": "appropriate, pleasant",
+                "hematologic": "no cervical lymphadenopathy"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

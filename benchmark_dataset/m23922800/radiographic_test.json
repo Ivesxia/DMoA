@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in echogenicity with a 1.8 x 1.9 x 1.9 cm right lobe hemangioma. The portal vein is patent with hepatopetal flow. The gallbladder has cholelithiasis without evidence of cholecystitis. The common bile duct measures 6 mm and is normal. Partially imaged pancreas is unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

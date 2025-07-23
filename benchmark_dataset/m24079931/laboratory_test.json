@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "4.7 K/uL (within normal range of 4.0 - 11.0 K/uL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "Mildly dilated appendix measuring up to 8 mm in diameter with very early wall hyperemia distally. No air in the appendix and no significant abnormalities in other organs.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

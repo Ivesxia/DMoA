@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient first noted epigastric and left-sided pain 30 minutes after eating lunch. The pain has been continuous since it began, although it is relieved with morphine.",
+        "past_medical_history": "Impaired fasting glucose, Uterine fibroids and dysmenorrhea, Asthma, Neuropathy, Hypothyroidism S/P RAI for hyperthyroidism, Obesity",
+        "family_history": "Mother with post-menopausal breast cancer.",
+        "social_history": "Denies any alcohol use, occasional NSAID use, ASA use, and has never had gallstones."
+    }
+}

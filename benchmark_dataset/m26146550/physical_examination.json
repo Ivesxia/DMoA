@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97 °F",
+                "heart_rate": "76 bpm",
+                "blood_pressure": "112/80 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": "AAO x3, NAD, RRR, no MRG, CTA B/L, no RRW, soft, non-tender (received morphine), ND, no masses, negative Murphy's, no CCE.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

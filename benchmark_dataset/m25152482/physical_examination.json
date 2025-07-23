@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "164/67 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "AAOx3, NAD",
+                "HEENT": "NCAT, EOMI, PERRLA, no scleral icterus, mucosa moist, no LAD",
+                "cardiovascular": "R/R/R, S1/S2, no M/R/G",
+                "carotids": "2+, no bruits or JVD",
+                "pulses": "L/R radial: P/P, LLE: P/P/P/P, RLE: P/P/P/P",
+                "pulmonary": "CTA, no crackles or rhonchi",
+                "gastrointestinal": "S/TTP right upper quadrant, no guarding or rebound, +BSx4",
+                "extremities": "No C/C/E; feet warm, good perfusion",
+                "neurological": "Reflexes, strength, and sensation grossly intact, CN II-XII: WNL"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

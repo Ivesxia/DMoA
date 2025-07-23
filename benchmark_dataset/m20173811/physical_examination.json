@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "VSS NAD, A&Ox3, pleasant and interactive.",
+                "cardiovascular": "RRR, no m/r/g.",
+                "respiratory": "CTAB.",
+                "abdominal": "Obese, protuberant, soft. Normal bowel sounds. Focal RLQ tenderness superior and lateral to McBurney's point; no tenderness over McBurney's point. Tender to light palpation. No masses. No inguinal hernias.",
+                "extremities": "No edema or cyanosis."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

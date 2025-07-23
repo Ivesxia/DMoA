@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild dependent atelectasis at lung bases. Multiple small rounded hypodensities in the liver, largest measuring 9 mm, likely a cyst. Normal gallbladder, pancreas, spleen, and adrenal glands. Kidneys enhance and excrete contrast symmetrically; no hydronephrosis. Multiple bilateral renal cysts seen, largest is a 2.7 cm exophytic cyst off the mid pole of the left kidney. Dilated loops of small bowel with multiple air-fluid levels; moderate edema in the abdominal mesentery of the lower abdomen. Distal small bowel is decompressed. Appendix is markedly abnormal with calcific density at base consistent with appendicolith, dilated up to 11 mm with extensive periappendiceal inflammatory change, small amount of free fluid in the right lower quadrant.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "White Blood Cell Count (polymorphonuclear leukocytes)",
+            "date": "Not specified",
+            "findings": "4+ (>10 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

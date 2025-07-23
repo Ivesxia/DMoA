@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in echotexture. Multiple anechoic cysts are seen. Several echogenic lesions measuring up to 1.4 cm are seen within the right lobe of the liver, compatible with hemangiomas. The pancreas is normal in appearance. Normal hepatopetal flow is seen within the main portal vein. The common bile duct is normal in caliber at 7 mm. The gallbladder is not distended but contains stones and sludge. There is no wall thickening or pericholecystic fluid. A stone is seen within the cystic duct, as well as layering debris. The sonographic sign is negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

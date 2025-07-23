@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Upper abdominal pain",
+        "history_of_present_illness": "Patient has been experiencing upper abdominal pain on and off for a month. Symptoms worsened over time, with persistent and progressive RUQ pain. Nausea present but no vomiting. Decreased appetite for the last 3 days. No fever, some chills. Loose bowel movements noted, with some formed stool yesterday.",
+        "past_medical_history": "None",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

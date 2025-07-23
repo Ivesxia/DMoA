@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "heart_rate": "97 bpm",
+                "blood_pressure": "145/89 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented. Looks uncomfortable.",
+                "lungs": "Clear bilateral.",
+                "heart": "Regular rate and rhythm, no murmurs.",
+                "abdomen": "Soft. No distension. Tenderness in upper abdomen right and left. No guarding or rebound.",
+                "rectal": "No masses, no stool. Occult blood negative."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

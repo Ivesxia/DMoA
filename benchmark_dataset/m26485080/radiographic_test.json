@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "A retrocecal appendix is dilated to 11 mm with fluid. There is a small amount of fluid in the periappendiceal mesentery with adjacent stranding. The visualized portions of the lung bases are clear. A hypodensity in segment VI of the liver is too small to characterize. The remainder of the liver is unremarkable. The gallbladder, pancreas, spleen and bilateral adrenal glands are unremarkable. The kidneys enhance symmetrically and excrete contrast promptly. The small and large bowel are normal in course and caliber. No mesenteric or retroperitoneal lymphadenopathy is present. A large bilobed fibroid seen arising from the posterior wall of the uterus, measuring 9.1 x 9.6 x 6.7 cm.",
+            "changes_over_time": "The fibroid previously measured 9.0 x 10.4 x 5.6 cm; the slight decrease in size may be due to partial involution of the necrotic posterior portion."
+        }
+    ]
+}

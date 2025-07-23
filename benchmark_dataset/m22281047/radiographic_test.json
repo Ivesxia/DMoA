@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Multiple gallstones and gallbladder sludge identified. There is irregular gallbladder wall contour with pericholecystic fluid identified, concerning for perforated gallbladder. The gallbladder wall is also thickened up to 6 mm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT of the abdomen/pelvis w/o contrast",
+            "date": "Not specified",
+            "findings": "Cholelithiasis and trace free fluid within the pelvis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2°F",
+                "pulse": "Not specified",
+                "blood_pressure": "174/99 mmHg",
+                "respiratory_rate": "26 breaths/min",
+                "oxygen_saturation": "99% on 4L NC"
+            },
+            "relevant_findings": {
+                "general": "Appears uncomfortable. Alert. Oriented to person only.",
+                "HEENT": "PERRL, EOMI. Sclerae non-icteric. Mucous membranes dry.",
+                "neck": "JVP visualized at mandibular angle.",
+                "cardiovascular": "Tachycardic. Regular rhythm.",
+                "respiratory": "Scattered crackles bilaterally.",
+                "abdominal": "Abdomen soft but tense. Very distended. Very tender to light palpation with rebound tenderness.",
+                "extremities": "Cap refill 4 sec. Venous stasis changes bilaterally. Feet cool. Legs warm. DP pulses palpable."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

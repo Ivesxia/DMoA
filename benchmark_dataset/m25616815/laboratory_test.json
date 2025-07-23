@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Joint Aspiration",
+            "date": "Not specified",
+            "findings": "4+ (>10 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "Mild bibasilar atelectasis, 4-mm pulmonary nodule in the left lower lobe (stable for almost ___ years). Tiny 4-mm hypodense lesion in the dome of the liver, likely a simple cyst or hemangioma. Normal gallbladder, pancreas, spleen, stomach, adrenal glands, kidneys, and small bowel loops. 14-mm extraluminal collection of predominantly air with some fluid adjacent to inflamed sigmoid colon.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

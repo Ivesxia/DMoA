@@ -1,0 +1,46 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "heart_rate": "70 bpm",
+                "blood_pressure": "174/69 mmHg",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "100% on RA"
+            },
+            "relevant_findings": {
+                "temperature": "97.7°F",
+                "heart_rate": "70 bpm",
+                "blood_pressure": "174/69 mmHg",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "100% on RA",
+                "creatinine": {
+                    "value": "1.7",
+                    "baseline": "1.3-1.5"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "heart_rate": "96 bpm",
+                "blood_pressure": "120/66 mmHg",
+                "respiratory_rate": "22",
+                "oxygen_saturation": "93% on RA"
+            },
+            "relevant_findings": {
+                "gen": "NAD, AOX3",
+                "heent": "MM slightly dry, OP clear",
+                "card": "RRR, no m/r/g",
+                "pulm": "CTAB",
+                "abd": "soft, + voluntary guarding, severe LLQ tenderness, + rebound tenderness",
+                "ext": "WWP, no c/c/e",
+                "neuro": "AOx3, grossly normal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

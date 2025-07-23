@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with abdominal pain that migrated to the right lower quadrant, associated with nausea, vomiting, and chills. Physical examination revealed abdominal tenderness, and imaging (CT Abdomen & Pelvis) showed an enlarged appendix measuring up to 12 mm, consistent with appendicitis, without evidence of perforation."
+    }
+}

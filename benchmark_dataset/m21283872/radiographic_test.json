@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver shows no focal or textural abnormality. There is no biliary dilatation and the common duct measures 0.4 cm. The gallbladder is normal without evidence of stones and there are no signs of cholecystitis. The pancreas is obscured from view by overlying bowel gas. The spleen is unremarkable and measures 8.8 cm. Incidentally noted is a small granuloma in the central portion of the spleen. No ascites is identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

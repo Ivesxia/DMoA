@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient experienced a one day history of abdominal pain that began as generalized abdominal pain upon waking, which progressively worsened in intensity. By 10 AM, the pain affected every movement and localized to the right lower quadrant with increased intensity. The patient reported feeling 'hot,' denied fevers, diarrhea, and vomiting, endorsed chills and nausea, and had a small formed stool earlier in the day.",
+        "past_medical_history": "None",
+        "family_history": "Maternal grandfather had colon cancer. No family history of IBD.",
+        "social_history": "Personal history of tobacco use"
+    }
+}

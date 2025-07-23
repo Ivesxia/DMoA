@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Relative lucency of a portion of the right lower lobe centrally, which may represent congenital lobar emphysema. No pleural or pericardial effusion. The liver demonstrates homogenous attenuation throughout with no evidence of focal lesions. Normal gallbladder. The pancreas has normal attenuation throughout with no focal lesions. The spleen shows normal size and attenuation. Normal right and left adrenal glands. The kidneys are of normal and symmetric size with normal nephrogram and no focal renal lesions. The stomach is unremarkable. Small bowel loops demonstrate normal caliber, wall thickness, and enhancement. The appendix is dilated and fluid filled, with mucosal hyperemia, and surrounding fat stranding. A small amount of free fluid in the pelvis. The uterus and bilateral adnexae are within normal limits. Incidental right corpus luteal cyst noted. No lymphadenopathy or vascular abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial culture",
+            "date": "Not specified",
+            "findings": "Mixed bacterial flora (>= 3 colony types), consistent with skin and/or genital contamination.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

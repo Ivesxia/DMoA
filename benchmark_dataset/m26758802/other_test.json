@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CD4 Count",
+            "date": "Not specified",
+            "findings": "> 400 cells/mm³",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Viral Load Test",
+            "date": "Not specified",
+            "findings": "Undetectable",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy (for Kaposi's Sarcoma)",
+            "date": "Not specified",
+            "findings": "Regressed",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

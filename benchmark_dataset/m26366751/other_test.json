@@ -1,0 +1,21 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EKG",
+            "date": "Not specified.",
+            "findings": "EKG was unchanged from prior.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdominal Ultrasound",
+            "date": "Not specified.",
+            "findings": {
+                "liver": "The echogenicity of the liver is homogeneous, the contour of the liver is smooth, and there is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites.",
+                "bile_ducts": "There is no intrahepatic biliary dilation. The CBD measures 3 mm. There is trace pneumobilia.",
+                "spleen": "Normal echogenicity, measuring 9.1 cm.",
+                "doppler": "Color Doppler and spectral waveform examination of the hepatic vasculature was performed. The main and left portal vein are patent with hepatopetal flow. The right portal vein is also patent with hepatopetal flow although the branches are suboptimally assessed. Appropriate arterial waveforms are seen in the main, right, and left hepatic arteries with resistive indices of (0.57, 0.62, 0.54), respectively. Appropriate flow seen in the hepatic veins and inferior vena cava."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

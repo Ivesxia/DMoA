@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9",
+                "heart_rate": "143",
+                "blood_pressure": "143/59",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing, no apparent distress.",
+                "HEENT": "Normocephalic, atraumatic. PERRL 2mm-1mm. EOMI. Mucous membranes tacky. JVD present.",
+                "cardiovascular": "RRR S1 S2 ii/vi systolic murmur, no rubs or gallops.",
+                "lungs": "Crackles b/l.",
+                "abdomen": "+ RUQ TTP without rebound or guarding.",
+                "neurological": "Moving all extremities normally. Intact sensation throughout."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

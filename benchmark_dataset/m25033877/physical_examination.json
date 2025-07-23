@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.9°F",
+                "heart_rate": "116 bpm",
+                "blood_pressure": "104/67 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "NAD. A&Ox3.",
+                "HEENT": "Anicteric. Tacky mucosal membranes.",
+                "neck": "No JVD. No LAD. No TM.",
+                "cardiovascular": "RRR.",
+                "pulmonary": "CTAB.",
+                "abdominal": "Soft. ND. TTP over graft and lower quadrants. Nonperitoneal.",
+                "extremities": "Warm and well perfused. No peripheral edema.",
+                "neurological": "Motor and sensation grossly intact."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

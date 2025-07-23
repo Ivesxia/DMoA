@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": "No focal hepatic lesions are identified. Portal vein is patent with normal hepatopetal flow. Intra- and extra-hepatic ductal dilatation, unchanged from prior exam with common duct intrahepatically measuring 1.1 cm. The extrahepatic CBD can only be traced to its mid portion and then was obscured by bowel gas. Midline structures cannot be evaluated due to obscuration from bowel gas. Patient is status post cholecystectomy. Slightly increased echogenicity along the portal triad.",
+            "changes_over_time": "Intra- and extra-hepatic ductal dilatation unchanged from prior exam."
+        },
+        {
+            "procedure_name": "CT Abdomen/Pelvis",
+            "date": "Not specified",
+            "findings": "Known superior L2 compression fracture and diffuse intrahepatic and extrahepatic ductal dilatation up to 1.5 cm.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

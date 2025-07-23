@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "78 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "blood_pressure": "137/85 mmHg",
+                "oxygen_saturation": "93% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert & oriented x3 though slow in answering questions, no acute distress",
+                "HEENT": "Sclera anicteric, MM dry, oropharynx clear",
+                "neck": "supple, JVP not elevated, no LAD",
+                "lungs": "trace crackles in bilateral bases",
+                "cardiovascular": "Irregularly irregular S1, S2, no rubs, gallop or murmur",
+                "abdomen": "soft, tender to palpation in upper quadrants, with no rebound or guarding, bowel sounds present, no organomegaly",
+                "GU": "no foley",
+                "extremities": "warm, well perfused, 2+ pulses, no clubbing, 1+ pitting edema halfway up calf bilaterally",
+                "skin": "patchy ecchymosis on bilateral upper extremities"
+            },
+            "changes_over_time": {
+                "progression": "Patient reported abdominal pain has improved on the floor."
+            }
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "85 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "blood_pressure": "116/78 mmHg",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C. difficile test",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile by the Illumigene DNA amplification assay. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "A pigtail drainage catheter in place in the right lobe, with a small residual pocket of complex fluid measuring approximately 2.4 x 4.4 x 4.0 cm. This is much smaller than the previous abscess, which measured approximately 6.3 x 11.4 cm. The remainder of the liver is normal with no other fluid collections, nor any evidence of bile duct dilatation. The portal vein is patent with hepatopetal flow.",
+            "changes_over_time": "Reduction in size of the abscess from approximately 6.3 x 11.4 cm to 2.4 x 4.4 x 4.0 cm."
+        }
+    ]
+}

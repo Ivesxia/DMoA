@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "HEENT: PERRLA; Cardiac: Normal sinus rhythm, RRR; Respiratory: CTA b/l; Abdomen: soft, non-distended, tender in the RLQ. No rebound or guarding; Extremities: no calf tenderness, good range of motion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

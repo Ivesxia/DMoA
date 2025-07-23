@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.5°F",
+                "heart_rate": "16 bpm",
+                "respiratory_rate": "Not specified",
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "cardiovascular": "RRR",
+                "pulmonary": "Clear to auscultation b/l, No W/R/R",
+                "abdominal": "Soft, nondistended. Tender RLQ. + Rovsing's sign. + Psoas sign."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

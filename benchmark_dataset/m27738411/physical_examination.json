@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "102.6°F",
+                "heart_rate": "114 bpm",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "consciousness": "A+O x 2, incoherent",
+                "lung": "CTAB (clear to auscultation bilaterally)",
+                "heart": "RRR (regular rate and rhythm)",
+                "abdomen": "soft, tender to palpation, mildly distended, palpable gallbladder"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

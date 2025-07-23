@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Max 101.8°F, Tc 98.9°F",
+                "blood_pressure": "132/58 mmHg",
+                "heart_rate": "74 bpm",
+                "respiratory_rate": "20 breaths/min"
+            },
+            "relevant_findings": [
+                "General: NAD, lying in bed",
+                "Lymphatic: No cervical LAD",
+                "Chest: Coarse BS at left base, otherwise clear",
+                "Cardiovascular: RRR, no murmurs/rubs/galls",
+                "Abdomen: Multiple healed surgical scars and stab wounds, soft, non-tender/non-distended",
+                "Extremities: No edema/cyanosis/clubbing",
+                "Neurological: Alert, follows commands, answers questions appropriately"
+            ],
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

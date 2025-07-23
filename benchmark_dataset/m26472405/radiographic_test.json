@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver shows no evidence of focal lesions or textural abnormality. Doppler assessment of the main portal vein shows patency and hepatopetal flow. There is no ascites. Intrahepatic biliary dilatation is seen, with CBD measuring 9 mm proximally but tapering distally to 4 mm. The gallbladder is distended with a thickened and edematous wall, containing sludge. No definite gallstone is seen. The tail of the pancreas is not well visualized, but the visualized portions of the pancreas are unremarkable.",
+            "changes_over_time": "Intrahepatic biliary dilatation is seen, similar to prior MR. The gallbladder demonstrates a thickened and edematous wall, as seen on prior MR."
+        }
+    ]
+}

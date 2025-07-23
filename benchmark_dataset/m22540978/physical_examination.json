@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "T: 100.2, HR: 150, BP: 113/73, RR: 18, O2: 97%",
+            "relevant_findings": "General: Alert, oriented, no acute distress; HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL; Neck: supple, no LAD; CV: Irregular, tachycardic, normal S1 + S2, no murmurs, rubs, gallops. JVP 7-8cm; Lungs: Decreased breath sounds at bases and bibasilar rales, L > R. Otherwise clear to auscultation bilaterally, no wheezes, ronchi; Abdomen: soft, non-distended, TTP in RUQ w/o rebound or guarding, hypoactive bowel sounds, liver edge palpable 4cm below costal margin; GU: no foley; Ext: Warm, well perfused, 2+ pulses, trace pitting edema to shins bilaterally, no clubbing, cyanosis; Neuro: CN II-XII intact, ___ strength upper/lower extremities, grossly normal sensation, gait deferred.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "99.4, HR: 134, O2: 96%/RA",
+            "relevant_findings": "General: Alert, oriented, no acute distress; HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL; Neck: supple, no LAD; CV: Irregular, tachycardic, normal S1 + S2, no murmurs, rubs, gallops. JVP 7-8cm; Lungs: Decreased breath sounds at bases and bibasilar rales, L > R. Otherwise clear to auscultation bilaterally, no wheezes, ronchi; Abdomen: soft, non-distended, TTP in RUQ w/o rebound or guarding, hypoactive bowel sounds, liver edge palpable 4cm below costal margin; GU: no foley; Ext: Warm, well perfused, 2+ pulses, trace pitting edema to shins bilaterally, no clubbing, cyanosis; Neuro: CN II-XII intact, ___ strength upper/lower extremities, grossly normal sensation, gait deferred.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

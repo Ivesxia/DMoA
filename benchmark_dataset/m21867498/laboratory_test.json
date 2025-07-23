@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated and does not fill with enteric contrast, measuring approximately 14 mm in diameter. There is no evidence of perforation. The liver, gallbladder, pancreas, spleen, and adrenal glands appear normal. The kidneys enhance symmetrically and excrete contrast promptly. No signs of ileus or obstruction observed in the loops of small bowel.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "8.5 mg/dL (within normal range of 8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

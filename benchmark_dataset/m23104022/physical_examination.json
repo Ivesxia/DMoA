@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4 °F",
+                "heart_rate": "84 bpm",
+                "blood_pressure": "126/63 mmHg",
+                "respiratory_rate": "20 breaths/min"
+            },
+            "relevant_findings": {
+                "consciousness": "A+O x 3",
+                "appearance": "in mild distress, not ill or toxic appearing",
+                "cardiovascular": "RRR, S1, S2",
+                "pulmonary": "lungs clear bilat.",
+                "abdominal": "soft, obese, tender to palpation in the RUQ to midepigastrum, no rebound or guarding, no masses or hernias",
+                "rectal": "nontender, heme negative, no masses",
+                "extremities": "no cyanosis, clubbing, or edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

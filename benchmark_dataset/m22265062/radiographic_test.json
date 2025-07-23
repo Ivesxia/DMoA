@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Low lung volumes causing crowding of bronchovascular markings and exaggeration of heart size. No focal consolidation or pleural effusions. Trachea is midline. Clips are seen in the abdomen. Degenerative changes noted in the spine.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

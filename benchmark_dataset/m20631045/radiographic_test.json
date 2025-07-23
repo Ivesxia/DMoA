@@ -1,0 +1,21 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "Lower Thorax": "Minimal linear atelectasis in the lung bases.",
+                "Liver": "Homogeneous liver parenchyma with no focal abnormalities and no intrahepatic biliary ductal dilatation.",
+                "Biliary": "Distended gallbladder with presence of calculi, no pericholecystic fluid or wall thickening. Extrahepatic common duct normal in diameter (4 mm).",
+                "Pancreas": "Unremarkable.",
+                "Spleen": "No splenomegaly.",
+                "Adrenal Glands": "No adrenal nodules.",
+                "Kidneys": "Mild right hydronephrosis and proximal hydroureter, likely secondary to compression by the gravid uterus.",
+                "Gastrointestinal Tract": "Retrocecal appendix extending cranially with tip located in the subhepatic region, dilated measuring 11 mm with fat stranding and prominent lymph nodes. Possible appendicoliths present. Thickened and edematous cecal wall at the site of insertion.",
+                "Lymph Nodes": "Prominent lymph nodes (6 mm short axis) located medial to the inflamed appendix.",
+                "Fetal Evaluation": "Single intrauterine gestation with normal right and left ovaries, closed internal os, and anterior placenta."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

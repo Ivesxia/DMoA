@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Gallbladder full of stones with wall echo shadow prohibiting full read, but no pericholecystic fluid appreciated, no wall thickening of visualized portion of gallbladder wall, no visible ductal dilation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Esophageal thickening.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Barium swallow study",
+            "date": "Not specified",
+            "findings": "Demonstrated an abdominal hernia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiograph",
+            "date": "Not specified",
+            "findings": "Images show opacification of the common bile duct during open cholecystectomy and multiple surgical instruments.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

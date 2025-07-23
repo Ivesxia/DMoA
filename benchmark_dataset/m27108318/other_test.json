@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Atrial fibrillation noted.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Distended gallbladder with thickened wall, small fluid collections surrounding the gallbladder, large gallstone at the gallbladder neck, inflamed loop of jejunum in the right lower quadrant.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Percutaneous US-guided cholecystostomy tube",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Laboratory test for Klebsiella pneumoniae",
+            "date": "Not specified",
+            "findings": "Klebsiella pneumoniae detected.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

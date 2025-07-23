@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Imaged lung bases are clear; liver, spleen, gallbladder, adrenal glands, and pancreas appear grossly normal; kidneys appear unremarkable; abdominal aorta is normal in course and caliber; no lymphadenopathy, free air or free fluid is seen; stomach and duodenum appear normal; loops of small and large bowel demonstrate no signs of ileus or obstruction; the appendix is fluid filled and dilated to 10mm with a hyperdense focus within the proximal appendiceal lumen likely an appendicolith; cecal diverticulum without evidence of cecal diverticulitis; scattered diverticulosis in the distal colon without diverticulitis; uterus and adnexae unremarkable; bladder is empty; no worrisome lytic or blastic osseous lesion seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

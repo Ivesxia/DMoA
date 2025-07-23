@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "blood_pressure": "120/61 mmHg",
+                "heart_rate": "92 bpm",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, no acute distress, appears anxious",
+                "heent": "Sclera anicteric, MM slightly dry, oropharynx clear, EOMI",
+                "neck": "Supple, JVP not elevated",
+                "cardiovascular": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+                "lungs": "Clear to auscultation bilaterally, no wheezes, rales, rhonchi",
+                "abdomen": "Soft, significant tenderness in RUQ without rebound or guarding, less severe diffuse tenderness with deep palpation, non-distended, bowel sounds present, no organomegaly",
+                "genitourinary": "No foley",
+                "extremities": "Warm, well perfused, no edema",
+                "neurological": "Face symmetric, moving all extremities, gait deferred"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

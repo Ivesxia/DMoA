@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Gram stain culture",
+            "date": "Not specified",
+            "findings": "GRAM POSITIVE BACTERIA",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Significant circumferential wall edema in the descending colon, diverticulosis of the sigmoid colon, mild central intrahepatic biliary dilatation, normal liver, pancreas, spleen, adrenals, kidneys, and GI tract except for the noted wall edema and surrounding fat stranding.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9 °F",
+                "heart_rate": "77 bpm",
+                "blood_pressure": "151/79 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing female, in no acute distress, alert and oriented x3.",
+                "pulmonary": "Clear to auscultation posteriorly (CTAP), breathing comfortably on room air.",
+                "cardiovascular": "Regular rate and rhythm (RRR).",
+                "abdominal": "Soft, non-distended, tender to palpation in right upper quadrant (RUQ) and mid epigastric area."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

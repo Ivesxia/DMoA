@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Multiple hypoattenuating lesions in the liver, largest measuring about 5 x 4 cm, likely simple cysts. The appendix is rim-enhancing and dilated measuring up to 9 mm with surrounding periappendiceal fat stranding. Focal area of mural thickening involving the right lateral bladder wall with a mass-like area measuring about 1.5 x 1.5 x 1.5 cm, concerning for a bladder mass.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test (specific name not provided)",
+            "date": "Not specified",
+            "findings": "8.8 mg/dL; reference range 8.4 - 10.3 mg/dL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

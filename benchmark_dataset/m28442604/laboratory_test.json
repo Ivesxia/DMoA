@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated with wall thickening and adjacent fat stranding, measuring up to 8 mm. Within the proximal lumen of the appendix is a calcified appendicolith. Other abdominal and pelvic organs appear unremarkable. No fluid collection, no extraluminal gas, and no perforation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum HCG Quantitation",
+            "date": "Not specified",
+            "findings": "NEGATIVE. FOR QUANTITATION OF POSITIVES, SEND SERUM FOR HCG.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

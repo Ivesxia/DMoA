@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver and Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "Liver shows no focal or textural abnormalities. A stone is noted within the gallbladder. The common bile duct is dilated and measures 9 mm. Pancreatic duct measures 3 mm. High concern for stone at the ampulla.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "BUN",
+            "date": "Not specified",
+            "findings": "8.4 mg/dL (normal range 8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

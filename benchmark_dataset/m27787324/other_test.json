@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopic removal of stone(s) from biliary tract",
+            "date": "Not specified",
+            "findings": "High lipase and CBD dilation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of the abdomen",
+            "date": "Not specified",
+            "findings": "No evidence of focal lesions or textural abnormality in the liver; no intrahepatic biliary dilatation; common bile duct measures 8 mm at the porta hepatis tapering to 6 mm distally; cholelithiasis with a distended gallbladder and mild wall edema; tenderness over the entire upper abdomen; pancreas not well visualized due to overlying bowel gas.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

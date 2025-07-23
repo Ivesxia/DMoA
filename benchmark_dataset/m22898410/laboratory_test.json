@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated and fluid-filled, measuring 1.4 cm, with mild mucosal hyper enhancement and surrounding fat stranding. No evidence of intra-abdominal abscess or free air to suggest perforation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "< 10,000 CFU/mL; NEG.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

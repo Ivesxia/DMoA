@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Cholelithiasis without gallbladder wall thickening; hepatic parenchyma normal; no focal liver mass; patent main portal vein; no ascites; no intrahepatic biliary dilation; pancreas not well visualized; normal spleen; limited views of kidneys show no hydronephrosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

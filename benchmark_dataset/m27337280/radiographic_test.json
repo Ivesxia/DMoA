@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The bases of the lungs are clear without a discrete nodule, consolidation, or pleural effusion. The liver is normal in shape and contour with a percutaneous transhepatic biliary drain in satisfactory position. No intra or extrahepatic biliary duct dilation, improved from the prior exam. An indeterminate hypodense lesion measuring approximately 8 mm in the gallbladder fossa, unchanged in size compared to the prior MRI. The pancreas, spleen, bilateral adrenal glands, kidneys, small bowel and large bowel are normal. There is a small amount of free fluid in the pelvis, likely within the normal physiologic range. No significant osseous lesions or fractures.",
+            "changes_over_time": "The degree of biliary duct dilation is improved from the prior exam. The hypodense lesion in the gallbladder fossa is unchanged in size compared to the prior MRI."
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2°F",
+                "heart_rate": "60 bpm",
+                "blood_pressure": "107/71 mmHg",
+                "respiratory_rate": "17 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "alertness": "A&O x 3",
+                "general_appearance": "NAD",
+                "pupils": "PERRL",
+                "extraocular_muscles": "EOMI",
+                "skin": "anicteric",
+                "cardiovascular": "RRR",
+                "respiratory": "CTAB",
+                "abdomen": "soft, nondistended, moderately tender in bilateral lower quadrants with voluntary guarding; most tender in RLQ over McBurney's point; normal bowel sounds"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

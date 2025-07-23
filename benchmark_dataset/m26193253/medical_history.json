@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal and back pain",
+        "history_of_present_illness": "The patient developed sudden onset burning back pain with associated epigastric pain 3 to 4 days prior to admission. The pain was non-postprandial and exacerbated by lying in bed. There was poor oral intake over the same period, but the patient denies fever, chills, sweats, or nausea/vomiting. She also reported small volume epistaxis on the day of admission that resolved spontaneously.",
+        "past_medical_history": "Atrial fibrillation on warfarin, cerebrovascular accident, gastrointestinal bleed, status post cholecystectomy, peripheral neuropathy, hypertension, hyperlipidemia, coronary artery disease (occluded RCA with left to right collaterals), nonocclusive carotid stenosis, chronic venous insufficiency, chronic obstructive pulmonary disease, obstructive sleep apnea, status post hysterectomy, diverticulitis status post partial bowel resection.",
+        "family_history": "Cerebrovascular accidents in multiple family members.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C. difficile toxin A & B by EIA",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B. (Reference Range-Negative)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "14 spot fluoroscopic images showed a stent in the pancreatic duct. The biliary tree was diffusely moderately dilated, likely due to biliary stenosis.",
+            "changes_over_time": "In the procedure, sphincterectomy and multiple balloon sweeps were performed along with obtaining cytology samples."
+        }
+    ]
+}

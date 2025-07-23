@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is of normal echogenicity without any focal lesions or intra or extrahepatic biliary dilatation. The common bile duct measures 5 mm. The portal vein is patent with normal hepatopetal flow. A shadowing gallstone is present that is lodged within the neck. There is no gallbladder wall edema. A trace amount of perihepatic ascites is noted. The pancreas, spleen and left kidney were unable to be visualized. Limited views of the right kidney demonstrate no hydronephrosis. The IVC is unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Negative hypercoagulability workup.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Positive ETT/MIBI with small area ischemia distal LAD territory.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

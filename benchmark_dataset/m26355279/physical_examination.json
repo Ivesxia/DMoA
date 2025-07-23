@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "blood_pressure": "148/78 mmHg",
+                "heart_rate": "60 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "91% on room air"
+            },
+            "relevant_findings": {
+                "general": "In no apparent distress, obese",
+                "HEENT": "Faint scleral icterus, oral cavity moist, no lymphadenopathy, jugular venous pressure difficult to visualize",
+                "lungs": "Decreased breath sounds at bases, no rales or wheezes on forced expiration",
+                "cardiovascular": "Regular rate and rhythm without murmurs",
+                "abdomen": "Soft, tender in epigastrium and throughout upper abdomen, no rebound or guarding, nondistended, bowel sounds present",
+                "extremities": "No edema",
+                "neurological": "Alert and oriented times three, face symmetric, appropriate responses to questions, full strength in upper and lower extremities, normal sensation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EKG",
+            "date": "Not specified",
+            "findings": "The patient was in sinus rhythm with a heart rate of 90 with a primary AV block IVCD.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate Test",
+            "date": "Not specified",
+            "findings": "Initial lactate was 3.1, which improved to 1.9.",
+            "changes_over_time": "Lactate levels decreased from 3.1 to 1.9."
+        },
+        {
+            "procedure_name": "Fecal Test for C. difficile",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

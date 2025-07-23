@@ -1,0 +1,35 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "79 bpm",
+                "blood_pressure": "184/94 mmHg",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": {
+                "general": "alert, oriented, grabbing abdomen due to pain",
+                "HEENT": "pupils constricted equal bilaterally and reactive, mucous membranes moist, oropharynx clear",
+                "lungs": "clear to auscultation bilaterally, no wheezes, rales, or ronchi",
+                "cardiovascular": "regular rate and rhythm, normal S1 + S2, no murmurs, rubs, or gallops",
+                "abdomen": "obese, soft, non-distended, hypoactive bowel sounds, tender to palpation throughout, no rebound tenderness or guarding",
+                "extremities": "warm, well perfused, 2+ pulses, 2+ edema to mid shins bilaterally, skin changes consistent with chronic venous stasis"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "182/92 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": "patient remains uncomfortable and unable to sit still without grabbing abdomen, signs of nausea and vomiting bile, persistent abdominal pain",
+            "changes_over_time": "Patient's pain reported to be similar to home pain but slightly worse, nausea increased, and experienced vomiting which reflects a possible worsening condition."
+        }
+    ]
+}

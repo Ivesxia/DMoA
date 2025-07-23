@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4°F",
+                "heart_rate": "92 bpm",
+                "blood_pressure": "123/75 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Patient is alert and oriented x3, no acute distress. Dry mucous membranes, white film on tongue and palate.",
+                "HEENT": "Normocephalic, atraumatic, pupils equal, round, and reactive bilaterally, bilateral ptosis.",
+                "cardiac": "Irregular rate and rhythm, presence of systolic murmur.",
+                "lungs": "Clear to auscultation bilaterally with appropriate breath sounds, no wheezes, rhonchi, or rales.",
+                "abdomen": "Decreased bowel sounds, non-distended, mild tenderness to deep palpation in left lower quadrant and suprapubic area, no localized tenderness to renal transplant.",
+                "extremities": "No clubbing, cyanosis, or edema; DP pulses 2+ bilaterally.",
+                "skin": "No evidence of ulcers, rash, or lesions.",
+                "neurologic": "Cranial nerves II-XII intact, movement appropriate."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

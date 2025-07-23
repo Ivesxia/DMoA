@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "At the site of the palpable lesion, there is a tortuous loop of the internal carotid artery. No aneurysm or other vascular abnormality is seen in the visualized carotid artery.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

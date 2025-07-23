@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver function test (specific measurement)",
+            "date": "Not specified",
+            "findings": "60.0 IU/L (Normal range: 35.0 - 105.0 IU/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix dilated measuring up to 14 mm with extensive periappendiceal fat stranding; suggests appendicitis. No evidence of perforation or periappendiceal abscess.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

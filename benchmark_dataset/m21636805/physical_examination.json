@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "96 bpm",
+                "blood_pressure": "125/96 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "in no acute distress but appears mildly uncomfortable",
+                "HEENT": "sclera anicteric, mucus membranes moist, nares clear, trachea at midline",
+                "CV": "regular rate, rhythm. No appreciable murmurs, rubs, gallops",
+                "pulm": "clear to auscultation bilaterally",
+                "abd": "non-distended, focally tender in RUQ with minimal tenderness of the epigastrium",
+                "MSK": "warm, well perfused",
+                "neuro": "alert, oriented to person, place, time"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

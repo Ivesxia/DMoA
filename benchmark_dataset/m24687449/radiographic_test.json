@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Lung volumes are low without focal consolidation. There is pulmonary vascular congestion and mild interstitial edema, stable to slightly increased from prior. No pleural effusion or pneumothorax is seen. A shadow projecting over the left cardiophrenic angle on the frontal view is due to a prominent pericardial fat pad seen on CT. Borderline cardiac enlargement is stable. VP shunt catheter projects over the right hemithorax.",
+            "changes_over_time": "Stable to slightly increased pulmonary vascular congestion and mild interstitial edema from prior."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "2+ (1-5 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT CHEST W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Stable left greater than right lower lobe airspace disease with associated trace pleural effusions. No pneumothorax. Masslike enlargement of the left thyroid lobe measuring approximately 5.4 x 3.7 x 6.4 cm, which has demonstrated enlargement compared to prior CT.",
+            "changes_over_time": "The left thyroid lobe enlarged from approximately 3.8 x 4.2 x 3.5 cm in a prior CT to 5.4 x 3.7 x 6.4 cm."
+        }
+    ]
+}

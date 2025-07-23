@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Basilar crackles, low lung volumes/inspiration.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

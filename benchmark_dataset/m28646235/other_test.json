@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Left Breast Excisional Biopsy",
+            "date": "Not specified",
+            "findings": "Poorly differentiated ductal carcinoma, with medullary features, 2.2 cm, with extension to surgical margin.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Re-excision and ALND",
+            "date": "Not specified",
+            "findings": "Residual IDC and negative lymph nodes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pathology after Salvage Mastectomy",
+            "date": "Not specified",
+            "findings": "IDC, 1.1 cm, grade III, negative margins, ER/PR/HER2 negative, with high-grade DCIS, solid type.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute pancreatitis",
+        "differential_diagnosis": "hypercalcemia, chronic kidney disease",
+        "diagnostic_reasoning": "The patient presented with abdominal pain, elevated lipase levels, and supportive imaging findings. Labs showed significant elevated lipase (1045), and ultrasound ruled out cholecystitis, supporting the diagnosis of acute pancreatitis. The secondary conditions of hypercalcemia and chronic kidney disease were noted but did not overshadow the primary diagnosis."
+    }
+}

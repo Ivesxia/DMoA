@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9°F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "103/63 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress.",
+                "HEENT": "No scleral icterus, mucous membranes moist.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/gallops/rubs.",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezing/rales/rhonchi.",
+                "abdominal": "Soft, non-distended, tender to percussion at right lower quadrant, positive guarding, positive obturator sign on right, absent iliopsoas and Rovsing's sign, hyperactive bowel sounds.",
+                "extremities": "No clubbing, cyanosis, or edema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

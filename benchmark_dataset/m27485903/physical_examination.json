@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "74 bpm",
+                "blood_pressure": "105/61 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": "Patient is A&O, NAD, CTAB, RRR. Abdomen is soft, appropriately tender, and nondistended. Wounds: CDI.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Inflammatory change in the right lower quadrant, dilated appendix with inflammatory change, wall thickening, and enlargement up to 13 mm. An obstructing appendicolith is seen. No evidence of abscess.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test (unspecified)",
+            "date": "Not specified",
+            "findings": "1.9 mg/dL, which is outside the normal range (normal range: 2.7 - 4.5 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

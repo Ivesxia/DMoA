@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood test for bacterial flora",
+            "date": "Not specified",
+            "findings": "7.2 mg/dL, Mixed bacterial flora (>= 3 colony types), consistent with skin and/or genital contamination.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Appendix dilated measuring up to 1.4 cm with multiple small appendicoliths, wall thickening, and moderate surrounding fat stranding. Small amount of perihepatic ascites and nonhemorrhagic free-fluid in pelvis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

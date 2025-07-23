@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung_bases": "no acute abnormality, no consolidation or effusion, no pulmonary nodules or masses identified",
+                "pericardial_effusion": "no",
+                "heart_base": "normal",
+                "liver": "normal in size, contour and attenuation, no intra- or extra-hepatic biliary ductal dilation",
+                "gallbladder": "unremarkable, no cholelithiasis",
+                "spleen_panc_adrenals": "normal",
+                "kidneys": "enhance symmetrically with symmetric contrast excretion, bilateral extrarenal pelves without hydronephrosis, single 7-mm hypodense lesion in the interpolar region of the right kidney, too small to characterize, no concerning renal mass lesions",
+                "GI_tract": "stomach, duodenum, and loops of small bowel are normal, no free fluid or free air in the abdomen",
+                "mesenteric_retroperitoneal_adenopathy": "none",
+                "vascular_system": "normal caliber aorta, major mesenteric vessels patent",
+                "appendix": "appears normal but does not fill with contrast, tip is dilated and fluid-filled with mucosal hyperenhancement, measures up to 10 mm"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal Function Test",
+            "date": "Not specified",
+            "findings": "1.6 mmol/L (within normal range of 0.5 - 2.0 mmol/L)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

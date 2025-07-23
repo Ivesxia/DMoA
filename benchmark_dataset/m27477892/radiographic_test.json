@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild right-sided dependent atelectasis, no focal nodule or opacity, no pleural or pericardial effusion, small hiatal hernia, normal liver without focal lesion, layering hyperdense material in the gallbladder likely representing stone and sludge, normal pancreas, spleen, and bilateral adrenal glands, kidneys enhancing and excreting contrast symmetrically without evidence of hydronephrosis, fluid-filled and enlarged appendix (12 mm) with marked mucosal hyperenhancement and thickening, periappendiceal fat stranding, some mucosal irregularity of the posterior wall of the appendix, notable regional lymph nodes, normal cecal wall thickness, scattered sigmoid diverticula in the pelvis, unremarkable bladder, uterus, and rectum, enlarged left pelvic venous structures, no pelvic or inguinal lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

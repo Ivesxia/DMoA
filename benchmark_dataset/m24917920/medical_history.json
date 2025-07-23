@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Crampy abdominal pain started ___ days ago, gradually worsened, and localized to the right lower quadrant. Symptoms have been present for ___ days. The patient took GasX, which did not relieve the symptoms.",
+        "past_medical_history": "None",
+        "family_history": "Noncontributory",
+        "social_history": "Not specified"
+    }
+}

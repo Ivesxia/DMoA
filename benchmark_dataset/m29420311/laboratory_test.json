@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Chlamydia trachomatis PCR",
+            "date": "Not specified",
+            "findings": "Negative for Chlamydia trachomatis by PCR.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "Appendix slightly increased in caliber at the base, measuring up to 9 mm. Possible appendicolith near the tip. No hydronephrosis or significant stranding in the right lower quadrant.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

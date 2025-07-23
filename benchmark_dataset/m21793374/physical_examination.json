@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9 °F",
+                "heart_rate": "90 bpm",
+                "blood_pressure": "146/68 mmHg",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": "A+Ox3. In no acute distress. Tanned, not jaundiced. Sclerae anicteric. Oropharynx clear. Regular rate and rhythm; normal S1/S2 without murmurs, clicks, or rubs. Moderate tenderness in the bilateral lower left quadrant greater than the right lower quadrant with localized peritonitis. Abdomen soft, mildly distended. No edema.",
+            "changes_over_time": "Progressively worsened clinical picture over six to eight hours leading to tachycardia and requirement for intubation."
+        }
+    ]
+}

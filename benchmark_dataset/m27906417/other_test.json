@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "MRE",
+            "date": "Not specified",
+            "findings": "Normal",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Patency capsule study",
+            "date": "Not specified",
+            "findings": "Capsule got stuck in RLQ",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

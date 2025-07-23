@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Nasogastric tube placement",
+            "date": "Not specified",
+            "findings": "Placement of the NG tube is confirmed; a portion of the NG tube is visualized in the left upper quadrant.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic biopsy",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not applicable; no details provided.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "No abnormalities reported.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Clinical evaluation",
+            "date": "Not specified",
+            "findings": "Patient exhibits hyperactive bowel sounds; soft abdomen with tenderness in the RUQ.",
+            "changes_over_time": "Pain is better controlled with morphine; nausea has decreased significantly."
+        }
+    ]
+}

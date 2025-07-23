@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CTA CHEST",
+            "date": "Not specified",
+            "findings": "The aorta is of normal caliber without aneurysm or dissection. Main pulmonary artery is of normal caliber. No pulmonary embolism. Right anterior chest wall Port-A-Cath with tip terminating in the right atrium. Trace pericardial fluid with normal heart size. Small right pleural effusion is more prominent. Mild dependent atelectasis within both lower lobes. There are multiple nodules: an 8 mm lingular nodule, a 7 mm left upper lobe nodule, a 6 mm left lower lobe nodule at the lung apex, a 6 mm right upper lobe nodule, a 5 mm right upper lobe nodule, and likely an 8 mm right lower lobe nodule, which is in an area of atelectasis. The right axillary lymph node measures 2.0 x 1.0 cm, and various other lymph nodes are concerning for metastatic disease, with some showing increased size.",
+            "changes_over_time": "When compared to prior imaging, these nodules are new or increased in size. The pericolonic fat stranding and fluid collection in the pouch measures 4.3 x 2.5 cm, previously 4.2 cm x 3.4 cm, indicating slight changes. Diffuse nodularity and thickening of the peritoneum is stable."
+        }
+    ]
+}

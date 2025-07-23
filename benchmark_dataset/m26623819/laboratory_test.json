@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Normal CBC.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chem-7",
+            "date": "Not specified",
+            "findings": "Normal Chem-7.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Elevated AST 600's, ALT 80's.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lipas",
+            "date": "Not specified",
+            "findings": "Lipas level 2500.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "INR",
+            "date": "Not specified",
+            "findings": "Therapeutic INR 2.9.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Mild intrahepatic and extrahepatic bile duct dilation, CBD maximally measuring 9 mm; no obstructing intraductal stones; normal pancreas; few small biliary hamartomas.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "106/58 mmHg",
+                "heart_rate": "75 bpm",
+                "temperature": "98.3°F",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "A&O, uncomfortable",
+                "abdominal": "soft, gravid, no fundal tenderness, +TTP in the RUQ and epigastric region, no rebound or guarding",
+                "extremities": "non-tender, no edema",
+                "pelvic_exam": "parous os, visually closed, mod amt of physiologic"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

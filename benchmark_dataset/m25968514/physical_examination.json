@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "heart_rate": "71 bpm",
+                "blood_pressure": "109/57 mmHg",
+                "respiratory_rate": "20 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Sitting in bed, no acute distress",
+                "HEENT": "Anicteric, non-traumatic",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, rubs, or gallops",
+                "respiratory": "Clear to auscultation bilaterally",
+                "abdomen": "Soft, incisions clean, dry, intact; mildly tender surrounding left lower quadrant incision, no rebound or guarding",
+                "extremities": "Palpable distal pulses"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

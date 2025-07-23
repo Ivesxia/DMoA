@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder is moderately distended and contains layering echogenic material, consistent with sludge. The gallbladder wall does not appear thickened. No definite gallstones are identified. There is trace perihepatic fluid, mild intrahepatic ductal dilation. The common duct measures 1.1 cm in diameter. No evidence of choledocholithiasis. Discrete hyperechoic shadowing foci within the fundus of the gallbladder may represent gallbladder polyps measuring approximately 2 mm. No focal liver lesion is seen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Video Oropharyngeal Swallow",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

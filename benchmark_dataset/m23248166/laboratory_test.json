@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ova and Parasites",
+            "date": "Not specified",
+            "findings": "NO OVA AND PARASITES SEEN. The test does not reliably detect Cryptosporidium, Cyclospora or Microsporidium. The Giardia antigen test may enhance detection when organisms are rare.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Normal hepatic parenchymal signal intensity without focal liver lesion. No intra- or extra-hepatic biliary dilatation. The portal vein is patent. No gallstones are evident within the gallbladder. No evidence for choledocholithiasis. Slight irregularity of the duct noted within the tail of the pancreas, no pancreatic ductal dilatation. Normal homogeneous signal intensity to the pancreas which enhances normally. No pancreatic cystic lesion or mass is identified. No peripancreatic fluid. No retroperitoneal masses or adenopathy. No abnormally dilated bowel loops in the visualized upper abdomen. No free fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

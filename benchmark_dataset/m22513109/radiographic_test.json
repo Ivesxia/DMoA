@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Mild pulmonary edema, moderate cardiomegaly, low lung volumes, small retrocardiac atelectasis, no larger pleural effusions, no pneumonia.",
+            "changes_over_time": "Progression of pre-existing signs of mild fluid overload."
+        }
+    ]
+}

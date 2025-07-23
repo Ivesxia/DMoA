@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC 7.5, H/H 14.0/41.3",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "ALT 101 IU/L (normal range: 94.0 - 250.0), AST 66 IU/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 524 IU/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of the Liver or Gallbladder",
+            "date": "Not specified",
+            "findings": "Heterogeneous and echogenic liver parenchyma; no evidence of biliary dilation or gallstones; pancreas appears normal; simple cyst in right kidney.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

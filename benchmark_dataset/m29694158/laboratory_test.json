@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-Ray",
+            "date": "Not specified",
+            "findings": "No lobar consolidation, pneumothorax, or frank pulmonary edema identified. Bibasilar atelectasis is noted. Possible trace left pleural effusion. The cardiomediastinal silhouette is within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

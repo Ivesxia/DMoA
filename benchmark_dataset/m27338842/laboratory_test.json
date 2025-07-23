@@ -1,0 +1,43 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "pulmonary": {
+                    "left_lower_lobe_nodule": "5 mm",
+                    "right_lower_lobe_nodule": "2 mm"
+                },
+                "hepatobiliary": {
+                    "liver": "homogenous attenuation, no focal lesions",
+                    "gallbladder": "normal, no stones or thickening"
+                },
+                "pancreas": "normal attenuation, no focal lesions",
+                "spleen": "normal size and attenuation, no focal lesions",
+                "adrenals": "normal in size and shape",
+                "urinary": {
+                    "kidneys": "normal and symmetric size, normal nephrogram",
+                    "urothelial": "no lesions"
+                },
+                "gastrointestinal": {
+                    "appendix": {
+                        "tip": "dilated",
+                        "walls": "indistinct, significant surrounding fat stranding"
+                    },
+                    "cecal_tip": "thickened"
+                },
+                "vascular": "no abdominal aortic aneurysm",
+                "pelvis": "unremarkable urinary bladder and distal ureters, no free fluid",
+                "reproductive_organs": "within normal limits",
+                "bones_and_soft_tissues": "no worrisome lesions"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

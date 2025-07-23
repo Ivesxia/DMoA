@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Ill-defined opacities of the left lower lobe that could represent atelectasis; however, an infectious process cannot be ruled out. No pleural effusion. No pneumothorax. Lungs appear clear aside from the ill-defined densities. Osseous abnormalities noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

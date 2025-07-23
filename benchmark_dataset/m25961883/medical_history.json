@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Fever and chills for several days.",
+        "history_of_present_illness": "The patient reports fever and chills starting 2 days prior to admission. He experienced high fevers and chills, with a temperature of 100.3 on the day of admission. He has generalized malaise and fatigue. He also had a chronic, non-productive cough typical in the fall. Previous similar episodes with fevers were noted with no identified source.",
+        "past_medical_history": "End-stage renal disease (ESRD) secondary to glomerulonephritis status post cadaveric renal transplant, coronary artery disease (CAD) with a history of myocardial infarction treated with percutaneous coronary intervention (PCI) and five stents, history of colon cancer status post resection and currently in remission, hyperlipidemia, hypertension, resolved gastroesophageal reflux disease (GERD), type II diabetes mellitus, anemia, and multiple squamous cell skin cancers status post resections.",
+        "family_history": "Father died of colon cancer; mother had Addison's disease.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver demonstrates homogenous attenuation throughout, no focal lesions, moderate intra and extrahepatic biliary dilation, common bile duct measures up to 12 mm, tapering distally, small bowel loops demonstrate normal caliber and wall thickness, bowel wall thickening with associated pericolonic stranding involving the sigmoid colon, 1.2 cm hypodense fluid collection concerning for a small abscess, no free fluid in the pelvis, normal size and enhancement of the uterus, no evidence of adnexal abnormality bilaterally, no retroperitoneal or mesenteric lymphadenopathy, no evidence of osseous lesions or acute fracture.",
+            "changes_over_time": "The biliary dilation and common bile duct measurement are somewhat increased from prior exam."
+        }
+    ]
+}

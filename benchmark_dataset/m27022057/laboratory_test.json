@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Bilateral linear atelectasis otherwise no abnormality demonstrated. Right lobe of the liver air hyperdensity, 2 cm in diameter, low in density most likely representing cysts. Substantial thickening and fat stranding surrounding the appendix which approaches at least 12 mm in diameter fluid-filled with potential small amount of fluid surrounding it. No free air demonstrated. A partially calcified diverticulum, 14 x 17.5 mm, adjacent but separated from the bladder.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbiology Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

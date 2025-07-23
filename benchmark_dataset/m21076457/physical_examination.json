@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "92.5°F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "155/93 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Pleasant female with facial plethora, lying in bed, alert, interactive, no acute distress, comfortably appearing",
+                "HEENT": "Anicteric, mucous membranes moist, clear oropharynx",
+                "neck": "Supple, no cervical or supraclavicular adenopathy",
+                "cardiovascular": "Irregularly irregular rhythm, no murmurs, rubs, or gallops",
+                "respiratory": "Clear to auscultation bilaterally, no wheeze or rhonchi",
+                "gastrointestinal": "+ bowel sounds, obese, soft, non-tender, non-distended, no guarding or rebound, no hepatomegaly",
+                "genitourinary": "No Foley catheter",
+                "extremities": "Trace bilateral lower extremity pitting edema, warm to palpation, no palmar erythema",
+                "skin": "No rash or lesions noted",
+                "neurological": "Alert and oriented x3, extraocular movements intact without ophthalmoplegia, finger to nose with trace dysmetria at full extension, heel to shin intact, no tremor",
+                "gait": "Deferred due to subjective weakness",
+                "psychological": "Calm, cooperative, pleasant"
+            },
+            "changes_over_time": "Patient reports improvement in chills and weakness, although residual weakness persists."
+        }
+    ]
+}

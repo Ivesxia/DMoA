@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Cholelithiasis without gallbladder wall thickening. No focal liver mass, no intrahepatic biliary dilation, normal pancreatic appearance without masses or ductal dilation, normal spleen echogenicity, no hydronephrosis observed in limited views of kidneys.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

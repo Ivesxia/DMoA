@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4 F",
+                "heart_rate": "68 bpm",
+                "blood_pressure": "115/67 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "97% on RA"
+            },
+            "relevant_findings": {
+                "general": "awake, alert, oriented x 3, NAD",
+                "heent": "NCAT, EOMI, anicteric",
+                "heart": "RRR",
+                "lungs": "normal excursion, no respiratory distress",
+                "back": "no vertebral tenderness, no CVA tenderness",
+                "abdomen": "soft, RUQ tenderness, ___ sign, ND, ~3 cm umbilical hernia",
+                "extremities": "WWP, no CCE, no tenderness, 2+ B radial pulses",
+                "psychiatric": "normal judgment/insight, normal memory, normal mood/affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

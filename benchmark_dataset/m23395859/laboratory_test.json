@@ -1,0 +1,27 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum creatinine",
+            "date": "Not specified",
+            "findings": "2.9 mg/dL (outside normal range of 2.7 - 4.5 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "pulmonary": "Minimal dependent atelectasis, 2 mm nodule in right lower lobe, small bilateral pleural effusions.",
+                "spleen": "Splenomegaly measuring 16.2 cm.",
+                "kidneys": "Tiny hypodensity within right lower renal pole measuring 4 mm, likely an AML, stable compared to prior studies.",
+                "appendix": "Abnormally dilated and thickened measuring up to 1.6 cm, with associated inflammatory stranding and a small intramural abscess measuring 0.9 x 0.9 x 1.1 cm."
+            },
+            "changes_over_time": "Stable compared to prior studies"
+        }
+    ]
+}

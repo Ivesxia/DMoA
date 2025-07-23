@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Marked dilatation of a fluid-filled appendix, measuring up to 11 mm in diameter. A 4-mm appendicolith is seen within the mid appendix. Minimal left basilar atelectasis noted, otherwise lungs clear. A tiny hypodensity within hepatic segment VII, likely a simple cyst. No evidence of intrahepatic biliary duct dilatation. Normal gallbladder, spleen, pancreas, adrenal glands, and left kidney. Subcentimeter right upper pole renal hypodensity too small to characterize. Stomach, small bowel, and colon grossly unremarkable. Small quantity of free fluid seen within the dependent portion of pelvis, with no pathologically enlarged pelvic lymph nodes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation Test",
+            "date": "Not specified",
+            "findings": "35.8 sec (normal range: 22.0 - 35.0 sec)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

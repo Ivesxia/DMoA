@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT abdomen and pelvis with contrast",
+            "date": "Not specified",
+            "findings": "The lung bases are clear. The liver is fatty but without focal lesions or intrahepatic biliary duct dilatation. The pancreas demonstrates fatty infiltration without focal lesions or peripancreatic stranding or fluid collection. The spleen is homogeneous and normal in size. The adrenal glands are unremarkable. Several small hypodense lesions are seen in the left kidney, but are too small to characterize. The kidneys enhance symmetrically and excrete contrast without evidence of hydronephrosis or masses. In the sigmoid colon, there are numerous diverticuli with minimal surrounding fat stranding. No fluid collection or local free air is seen. The remainder of the colon is non-dilated without evidence of obstructive lesions. The aorta is of normal caliber without evidence of aneurysmal dilatation, however, there are moderate atherosclerotic calcifications. The IVC and major abdominal vessels are patent. There is no retroperitoneal or mesenteric lymph node enlargement. No ascites, free air, or abdominal wall hernias are noted. Pelvic evaluation is somewhat limited by streaky artifact from surgical hardware. The urinary bladder and terminal ureters are normal. No pelvic wall or inguinal lymph node enlargement is seen. There is no pelvic free fluid. No lytic or blastic lesions suspicious for malignancy are present.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

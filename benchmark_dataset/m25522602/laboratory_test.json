@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC count is 14.8 with left shift PMN of 82%.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "LFTs are normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase is normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound - Liver or Gallbladder",
+            "date": "Not specified",
+            "findings": "Gallbladder contains stones and sludge with wall thickening. Liver is normal with no masses. No intrahepatic biliary dilation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

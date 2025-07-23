@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory examination of leukocytes",
+            "date": "Not specified",
+            "findings": "3+  (5-10 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild intrahepatic biliary ductal dilation; thickening and mild adjacent stranding adjacent to the fundus of the gallbladder, which could represent acute or chronic cholecystitis.",
+            "changes_over_time": "New from prior CT with thickening and stranding noted compared to previous imaging."
+        }
+    ]
+}

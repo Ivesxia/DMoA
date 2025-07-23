@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.3°F",
+                "heart_rate": "67 bpm",
+                "blood_pressure": "142/90 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "Tenderness to palpation in epigastric region, guaiac negative.",
+                "cardiac": "Sinus rhythm, no ST changes."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "57 bpm",
+                "blood_pressure": "111/72 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "96% room air"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing, no acute distress.",
+                "skin": "Warm and well-perfused, no excoriations or lesions.",
+                "cardiac": "Regular rate and rhythm, S1/S2, no murmurs.",
+                "lungs": "Clear to auscultation bilaterally, no wheezes or crackles.",
+                "abdomen": "Nondistended, positive bowel sounds, tenderness to palpation in epigastric area, no rebound or guarding.",
+                "neurological": "Cranial nerves II-XII intact, strength and sensation intact."
+            },
+            "changes_over_time": "Reported improvement of nausea and vomiting with medication."
+        }
+    ]
+}

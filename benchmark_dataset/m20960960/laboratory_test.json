@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified.",
+            "findings": "Markedly dilated small bowel loops with air-fluid levels are noted.  There are 2 new transition points visualized in the right mid abdomen and mid abdomen.  The bowel wall enhances uniformly.  There is marked thickening of the distal ileal wall, likely reactive secondary to appendix related inflammatory changes.  Sigmoid and rectal edema are noted, secondary to inflammatory changes in the pelvis.  The findings also indicate a perforated appendix with an extraluminal appendix.  There are at least 2 rim enhancing collections present in the pelvis, the larger in the left hemipelvis measuring 87 x 41 mm and the smaller in the right hemipelvis measuring 27 x 21 mm.  Reactive mesenteric and retroperitoneal lymph nodes are noted.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Streptococcus anginosus culture",
+            "date": "Not specified.",
+            "findings": "Positive for STREPTOCOCCUS ANGINOSUS (MILLERI) GROUP.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

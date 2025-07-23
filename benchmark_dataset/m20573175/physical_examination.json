@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "blood_pressure": "126/79 mmHg",
+                "heart_rate": "49 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD",
+                "lungs": "Clear",
+                "cardiovascular": "RRR, no m/r/g",
+                "abdomen": "Bowel sounds present, soft, tender periumbilical",
+                "extremities": "No e/c/c",
+                "skin": "No rash",
+                "neurological": "Alert, follows commands"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

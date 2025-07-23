@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Upper abdominal pain progressing to diffuse abdominal pain.",
+        "history_of_present_illness": "Symptoms began one day prior to presentation, characterized by diffuse abdominal pain, x4 bouts of non-bilious/non-bloody emesis, diarrhea, and a self-reported temperature of 100.7. The patient continues to experience abdominal pain and nausea, with a prior episode of diaphoresis.",
+        "past_medical_history": "Hypertension, Hyperlipidemia, history of diverticulitis (last episode ___ years ago), coronary angiogram and ECHO showing no significant CAD and EF of 51%.",
+        "family_history": "CAD/PVD - Mother with MI at ___, CAD/PVD - Father, deceased from aneurysm at age ___.",
+        "social_history": "Not specified."
+    }
+}

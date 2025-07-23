@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver demonstrates normal echotexture without focal lesions. No evidence of intrahepatic biliary ductal dilatation. The portal vein is patent demonstrating hepatopetal flow. The gallbladder is incompletely distended. No gallbladder wall edema or pericholecystic fluid collection to suggest acute inflammation. Moderate amount of sludge is seen within the gallbladder lumen. No gallstone is noted. The CBD is dilated up to 9 mm, which tapers to 6 mm distally. No filling defect is seen within the CBD. The pancreas is unremarkable, its distal body and tail obscured by overlying bowel gas. There is no ascites. The imaged intra-abdominal aorta and IVC are normal in caliber.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LFTs",
+            "date": "Not specified",
+            "findings": "Significantly abnormal LFTs consistent with an obstructive biliary pattern.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

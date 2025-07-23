@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Shortness of breath, dyspnea on exertion, orthopnea, and abdominal pain.",
+        "history_of_present_illness": "Symptoms began with epigastric abdominal pain yesterday, which shifted to the right upper quadrant this morning. The patient also experienced shortness of breath and dyspnea on exertion. Despite treatment in the emergency department with solumetrol and albuterol, her symptoms failed to improve.",
+        "past_medical_history": "Hypertension, bilateral carotid stenosis, aortic stenosis, asthma, obesity, hysterectomy, diabetes mellitus type II, chronic renal insufficiency (1.5-1.7), obstructive sleep apnea, urinary incontinence, anemia.",
+        "family_history": "Obesity, diabetes, hypertension.",
+        "social_history": "Uses a CPAP machine for obstructive sleep apnea but does not use it due to discomfort."
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "blood_pressure": "152/90 mmHg",
+                "heart_rate": "99 bpm",
+                "respiratory_rate": "16 breaths per minute",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, laying in bed comfortably, speaking full sentences",
+                "HEENT": "Atraumatic/Nontender, Extraocular Movements Intact, Pupils Equal, Round, Reactive to Light, Anicteric sclera, Pink conjunctiva, Mucous membranes dry",
+                "neck": "Nontender, supple, no lymphadenopathy, no jugular venous distention",
+                "cardiac": "Mild tachycardia, S1/S2, no murmurs, gallops, or rubs",
+                "lung": "Clear to auscultation bilaterally, no wheezes, rales, rhonchi, breathing comfortably without use of accessory muscles",
+                "abdomen": "Distended, positive bowel sounds, nontender in all quadrants, no rebound or guarding",
+                "extremities": "2+ edema above the ankles, no cyanosis, clubbing, warm and well perfused, no excoriations or lesions, no rashes",
+                "pulses": "2+ pulses bilaterally",
+                "neurological": "Cranial Nerves II-XII intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

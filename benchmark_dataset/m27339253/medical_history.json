@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient developed high epigastric and chest pain that began approximately 10 hours ago. It felt like a pressure and began suddenly last night. The pain was associated with mild shortness of breath, belching, nausea, and sweating. She took some Prilosec without relief. The patient has chronic dyspnea on exertion but not normally at rest, which is currently present.",
+        "past_medical_history": "Diabetes, Dyslipidemia, Hypertension, Constrictive Pericarditis, Lactose Intolerance, Localized Primary Osteoarthritis (Knee), Incisional Hernia, Pulmonary Hypertension, Mitral Valve Insufficiency, Tachycardia (unspecified), Vitamin D Deficiency (unspecified), Hyperparathyroidism (unspecified), Colonic Adenoma, Urinary Incontinence (urge), Functional Murmur, Seborrheic Dermatitis (unspecified), Hyperuricemia, Gastric Ulcer, History of Bariatric Surgery, Edema (peripheral), Morbid Obesity, Hypercholesterolemia, Essential Hypertension, Menopause, Suspected Glaucoma, History of Tobacco Use",
+        "family_history": "Mother with CAD/PVD, Cancer, Hypertension; Brother with Cancer; Father with Cancer; Maternal Aunt with unspecified condition; Paternal Aunt with Cancer, Diabetes Type II, Glaucoma.",
+        "social_history": "Not specified"
+    }
+}

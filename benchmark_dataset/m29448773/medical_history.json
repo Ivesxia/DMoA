@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Fever to 101.4, cough for 3 days, spitting up clear sputum, and left ear pain.",
+        "history_of_present_illness": "The patient presented with fever and cough that started 3 days ago. They also report spitting up clear sputum with associated nausea. The patient denies abdominal pain, nausea, vomiting, shortness of breath, and chest pain.",
+        "past_medical_history": "Hyperlipidemia, Necrotizing gallstone pancreatitis, Hospitalization for pleural effusion due to pancreatitis, Hyperglycemia due to pancreatitis, Pancreatic insufficiency due to pancreatitis, Chronic disease anemia.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

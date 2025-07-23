@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "56 bpm",
+                "blood_pressure": "97/56 mmHg",
+                "respiratory_rate": "20 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No acute distress (NAD)",
+                "cardiovascular": "Regular rate and rhythm (RRR)",
+                "respiratory": "Clear, unlabored respiration",
+                "abdominal": "Scaphoid shape, non-distended, tender to palpation (ttp) in the right lower quadrant (RLQ), well-healed small laparoscopic sites, no rebound or guarding",
+                "extremities": "No cyanosis, clubbing, or edema (c/c/e)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

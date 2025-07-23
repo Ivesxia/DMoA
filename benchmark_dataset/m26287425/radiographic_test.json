@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MR HEAD W & W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Evidence of partial right temporal lobectomy with postoperative change; dilatation of the temporal horn of the right lateral ventricle; extensive periventricular and deep white matter confluent high signal intensity consistent with chronic microvascular ischemia; encephalomalacia within the right cerebellum; stable appearance of an extra-axial enhancing mass abutting the posteroinferior aspect of the right temporal bone measuring 2 x 1.5 cm; stable en plaque meningioma measuring 13 x 16 mm at the right frontal convexity; stable en plaque meningioma along the right side of the falx; no evidence of acute infarct; scattered foci of intraparenchymal susceptibility; extensive opacification of the right mastoid air cells.",
+            "changes_over_time": "Stable appearance of the extra-axial enhancing mass and both en plaque meningiomas."
+        },
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "Patchy right mid-lung opacity.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT abdomen",
+            "date": "Not specified",
+            "findings": "Multiple non-specific findings including partially dilated GB with mild fundal wall edema, mild rectal wall thickening, and mild bladder wall thickening.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CTU (ABD/PEL) W/&W/O CONTRAST",
+            "date": "Not specified",
+            "findings": [
+                "A right lung base pulmonary cyst is unchanged compared to the prior study.",
+                "The liver demonstrates homogenous attenuation throughout with no evidence of focal lesions.",
+                "The pancreas has normal attenuation throughout with no evidence of focal lesions.",
+                "The spleen shows normal size and attenuation throughout.",
+                "The kidneys are of normal and symmetric size with normal nephrogram. The previously described hydroureteronephrosis on the left has resolved.",
+                "There is wall thickening and tethering from the rectosigmoid to sigmoid colon with surrounding inflammatory fat stranding, slightly more prominent compared to the prior study.",
+                "Mild sigmoid diverticulosis is noted.",
+                "There is no evidence of worrisome osseous lesions or acute fracture; degenerative changes are most extensive at L4-5 and L5-S1 with disc height loss and endplate sclerosis which has progressed since the prior study."
+            ],
+            "changes_over_time": "The previously described hydroureteronephrosis on the left has resolved. The wall thickening and tethering from the rectosigmoid to sigmoid colon is slightly more prominent compared to the prior study."
+        }
+    ]
+}

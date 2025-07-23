@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "No significant drop of signal on the T1 out-of-phase images compared to the in-phase images; liver has a homogeneous signal without focal mass lesion; no intra or extrahepatic biliary ductal dilation; common duct measures up to 8 mm; no retained stones within the common duct or cystic duct remnant; a 7 mm cystic focus adjacent to the pancreatic tail; smaller punctate cysts along the body and uncinate of the pancreas; moderate-sized axial hiatal hernia; dominant left-sided renal cyst measuring 3.7 cm; several sub cm renal cysts in bilateral kidneys; trace pleural fluid; no significant abdominal free fluid.",
+            "changes_over_time": "Common duct measures up to 8 mm in diameter, similar to prior CT."
+        }
+    ]
+}

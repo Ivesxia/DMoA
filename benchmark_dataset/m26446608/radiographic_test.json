@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized lung fields are within normal limits. There is no evidence of pleural or pericardial effusion. The liver demonstrates homogenous attenuation with no focal lesions and mild periportal edema. The pancreas and spleen are normal with no evidence of lesions. The kidneys are normal in size with no lesions or hydronephrosis. There is a dilated, fluid-filled appendix measuring up to 8 mm in diameter with wall and mucosal hyperemia and a possibly obstructing appendicolith. No evidence of appendix rupture or periappendiceal abscess. The urinary bladder and distal ureters are unremarkable, with no free fluid in the pelvis. Mild atherosclerotic disease noted in vascular assessment. Evidence of accelerated degenerative disease at T10-11 with disc height loss and a Schmorl's node.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

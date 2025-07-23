@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Abdominal pain started 4 days prior to presentation, primarily localized to the left lower quadrant. The pain has been severe and worsens with oral intake. The patient experienced increased frequency of formed stools but no nausea, vomiting, or fever. There has been no blood in the stool. Symptoms have persisted and worsened; the patient was seen by his primary care physician the day before presentation, where elevated amylase and lipase were noted, leading to referral to the emergency department.",
+        "past_medical_history": "Ulcerative colitis diagnosed years ago",
+        "family_history": "Grandmother died of liver cancer",
+        "social_history": "Drank alcohol on the evening prior to onset of abdominal pain; otherwise, not specified."
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "118/72 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "constitutional": "Awake, alert, and oriented",
+                "heent": "Normocephalic, atraumatic, pupils equal, round, and reactive to light",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular rate and rhythm",
+                "abdominal": "Soft, tender to palpation in the right upper quadrant",
+                "gu_flank": "Normal",
+                "extremities_back": "Normal",
+                "skin": "No rash",
+                "neuro": "Speech fluent",
+                "psych": "Normal mood"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "ct_findings": {
+                    "lung": "Small right pleural effusion with mild right basilar atelectasis; left lung base clear",
+                    "heart": "Moderate to severe cardiomegaly; no pericardial effusion",
+                    "liver": "Diffuse fatty infiltration",
+                    "gallbladder": "Distended with multiple layering gallstones; pericholecystic stranding noted",
+                    "spleen": "Normal size with several calcifications",
+                    "pancreas": "Unremarkable",
+                    "adrenal_glands": {
+                        "right": "Indeterminate 1.1 cm lesion stable since prior study",
+                        "left": "Mildly bulky"
+                    },
+                    "kidneys": "No hydronephrosis or stones; incompletely visualized renal cyst increased in size since prior study",
+                    "bowel": "Unremarkable without evidence of wall thickening or obstruction",
+                    "aorta": "Atherosclerotic changes",
+                    "umbilical": "Small fat containing umbilical hernia",
+                    "lymph_nodes": "No mesenteric or retroperitoneal lymphadenopathy; calcified mesenteric lymph node noted",
+                    "osseo": "No suspicious lesion; healed rib fractures of right posterior ribs 11 and 12"
+                }
+            },
+            "changes_over_time": "The renal cyst in the lower pole of the left kidney has increased in size since the prior study."
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.6°F",
+                "heart_rate": "75 bpm",
+                "blood_pressure": "134/64 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "heent": "Normocephalic, atraumatic",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm, Normal first and second heart sounds",
+                "abdominal": "Soft; TTP in the RLQ; positive Rosving's sign; normal bowel sounds",
+                "gu_flank": "No costovertebral angle tenderness",
+                "neuro": "Speech fluent",
+                "psych": "Normal mood, Normal mentation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

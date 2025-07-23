@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Chest pain, palpitations, presyncope, nausea/vomiting",
+        "history_of_present_illness": "Symptoms began 2 days prior to presentation, including chest pain and nausea/vomiting with decreased oral intake over the last 3 days. Patient noted improvement of symptoms when lying down. Upon awakening on the morning of presentation, he experienced palpitations while walking. Later that morning, he described substernal chest pressure and sharp chest pain lasting seconds to minutes, occurring nonexertionally with intermittent radiation to the left upper extremity, accompanied by nausea and diaphoresis.",
+        "past_medical_history": "Hypertension, obesity, GERD, cervical disc disease, history of squamous cell carcinoma of the base of the tongue status post radiation therapy.",
+        "family_history": "Mother had a myocardial infarction at the age of ___ in the setting of surgery. Sister has a 'heart condition'.",
+        "social_history": "Patient has a history of alcohol use, consuming 2 pints daily (but dilutes with water and juice) with last intake 3 days prior to presentation. He denies cocaine use, stating he previously tried it but stopped due to regulations. He has had one episode of tremulousness upon cessation of alcohol but denies history of delirium tremens or hospitalization for alcohol withdrawal."
+    }
+}

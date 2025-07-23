@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Temperature": "98.4 F",
+                "Heart Rate": "78 bpm",
+                "Blood Pressure": "135/81 mmHg",
+                "Respiratory Rate": "16 breaths/min",
+                "Oxygen Saturation": "99%"
+            },
+            "relevant_findings": {
+                "Constitutional": "Comfortable",
+                "Chest": "Normal",
+                "Cardiovascular": "Normal",
+                "Abdominal": "Soft, Nondistended, tender palpation in the right lower quadrant with a positive Rovsing sign",
+                "Extremities/Back": "No cyanosis, clubbing or edema",
+                "Skin": "Warm and dry",
+                "Neurological": "Speech fluent",
+                "Psychiatric": "Normal mentation",
+                "Other": "No petechiae"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

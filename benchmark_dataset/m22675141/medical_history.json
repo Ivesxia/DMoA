@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The pain began yesterday morning and has persisted today. It is periumbilical in location and has been associated with emesis. The patient denies fevers and chills.",
+        "past_medical_history": "Scoliosis, recurrent nose bleeds; previous surgeries include deviated septum repair and cauterization of nare.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

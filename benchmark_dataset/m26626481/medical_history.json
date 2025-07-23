@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient developed acute onset of abdominal pain at 12pm with nausea and vomiting. The character of the pain is like 'heartburn', it had a sudden onset, located in the epigastrium, has been constant in duration, and is worsened by movement. Associated symptoms include marked nausea, vomiting, and poor oral intake. Initially, the patient thought the symptoms were due to GERD and took Tums, but the symptoms persisted leading to presentation at the ED. She tried oxycodone with minimal improvement.",
+        "past_medical_history": "Acetabular Fracture s/p MVA",
+        "family_history": "History of breast cancer in her family",
+        "social_history": "Not specified"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with a 1-day history of progressive abdominal pain localized to the right lower quadrant, which was associated with tenderness and localized peritoneal signs on examination. CT imaging revealed a fluid-filled and dilated appendix with adjacent inflammation and appendicoliths, supporting the diagnosis of appendicitis."
+    }
+}

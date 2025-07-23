@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "APPENDICITIS",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with 24 hours of abdominal pain that initially was diffuse and then localized to the right lower quadrant (RLQ). Physical examination revealed tenderness to palpation (TTP) in the RLQ. A CT scan of the abdomen showed a dilated and fluid-filled appendix measuring 11 mm with surrounding inflammatory changes, consistent with appendicitis."
+    }
+}

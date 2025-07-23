@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "There is a 12 mm lesion identified in segment V of the liver, demonstrating arterial hyperenhancement on the arterial phase and becoming isointense to liver on delayed phases. Sludge and gallstones are noted in the gallbladder with mild gallbladder wall edema. No central intrahepatic or extrahepatic biliary dilatation. The common bile duct tapers normally. The spleen, adrenal glands, and kidneys are unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "46.0 IU/L, within normal range (0.0 - 100.0 IU/L).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain for 3 days.",
+        "history_of_present_illness": "Symptoms started as diffuse abdominal pain primarily in the right upper quadrant (RUQ) and have now migrated to the right lower quadrant (RLQ). The pain has persisted for 3 days with no nausea, vomiting, diarrhea, fever, or chills. The patient still has an appetite, last eating this morning, and has normal bowel movements.",
+        "past_medical_history": "hypercholesterolemia",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

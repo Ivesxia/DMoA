@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Bilateral pleural effusions, bilateral dependent atelectasis at the lung bases, normal heart size, no pericardial effusion, spleen, adrenals, pancreas, gallbladder within normal limits, kidneys symmetrical in size with no evidence of hydronephrosis, circumaortic left renal vein noted, normal loops of large and small bowel, no retroperitoneal bleeding, hyperdense fluid next to the ascending colon in the right lower abdominal quadrant concerning for hematoma measuring 25 x 88 mm, small foci of air and muscle near surgical site, no pathologically enlarged lymph nodes in the mesentery or retroperitoneum, normal appearance of bladder, uterus, and adnexa, hyperdense fluid in the pelvis concerning for hematoma measuring 50 x 50 mm, significant degenerative changes at L5-S1 with apparent complete fusion between vertebral bodies and grade 2 anterolisthesis on L5-S1, bilateral L5 pars intraarticular defect.",
+            "changes_over_time": "The hypodensity seen in the liver on the prior scan is not appreciated on the current scan, due to lack of IV contrast."
+        }
+    ]
+}

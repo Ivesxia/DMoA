@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Salmonella and Shigella culture",
+            "date": "Not specified",
+            "findings": "NO SALMONELLA OR SHIGELLA FOUND.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-Ray (Portable AP)",
+            "date": "Not specified",
+            "findings": "AP single view of the chest shows unchanged heart size, no new increased pulmonary congestion, and bilateral plate atelectasis on the lung bases which may have increased slightly over the last 24 hours.",
+            "changes_over_time": "Bilateral plate atelectasis may have increased slightly over the last 24 hours."
+        }
+    ]
+}

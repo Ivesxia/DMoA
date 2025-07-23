@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Worsening constant left sided abdominal pain.",
+        "history_of_present_illness": "Pain onset at 0900 this morning, now radiating into the mid abdomen. Patient reports some associated nausea, denies vomiting or diarrhea. Reports normal bowel movement earlier today.",
+        "past_medical_history": "Atrial fibrillation on blood thinner (rivaroxaban), vertigo, hypertension, high cholesterol.",
+        "family_history": "Mother died due to ischemic colitis; father died at age ___ of rheumatic fever and heart failure; sister is alive and well.",
+        "social_history": "Not specified."
+    }
+}

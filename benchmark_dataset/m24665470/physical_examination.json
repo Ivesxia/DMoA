@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "70 bpm",
+                "blood_pressure": "148/93 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "No distress, alert and oriented, pressured speech",
+                "HEENT": "Pupils equal, reactive to light and accommodation (PERLA), extraocular movements intact (EOMI), anicteric sclera",
+                "chest": "Regular rate and rhythm (RRR), lungs clear bilaterally",
+                "abdomen": "Soft, nondistended, tender to palpation in right lower quadrant (RLQ), no rebound or guarding, many well-healed incisions",
+                "rectal": "Normal tone",
+                "extremities": "Warm, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Toxigenic C. difficile testing",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile by the Illumigene DNA amplification assay. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Portable abdomen radiograph",
+            "date": "Not specified",
+            "findings": "Non-obstructive bowel gas pattern with air-filled ascending, transverse and descending colon with no evidence of dilatation. A biliary stent remains unchanged in position compared to previous radiograph. No pneumatosis or free air.",
+            "changes_over_time": "Biliary stent remains unchanged in position compared to previous radiograph."
+        }
+    ]
+}

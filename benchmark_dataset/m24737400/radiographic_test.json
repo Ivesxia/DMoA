@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD W&W/O C",
+            "date": "Not specified",
+            "findings": "Located within the right upper quadrant, there is an abnormally mucosally-enhancing 10 mm in diameter appendix with associated periappendiceal stranding, compatible with appendicitis. The tip is adherent to the transverse colon. No adjacent discrete fluid collections. The lung bases are clear without consolidation, pulmonary nodules, or pleural effusions. There is cholelithiasis without secondary signs of cholecystitis. A 2.2 x 3.3 cm predominantly hypoattenuating liver lesion within segment VI with features compatible with a benign hemangioma. The liver is unremarkable otherwise. No other focal liver lesions identified. The spleen, adrenal glands, kidneys, pancreas, and visualized portions of bowel are unremarkable. No intra-abdominal free air. Small amount of fluid along the right paracolic gutter. No mesenteric or retroperitoneal lymphadenopathy. Pelvis examination shows unremarkable rectum, sigmoid colon, bladder, uterus, and both ovaries. There is small pelvic free fluid. No pelvic or inguinal lymphadenopathy. Evidence of multilevel degenerative changes of the thoracolumbar spine at levels L4-S1.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

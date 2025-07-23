@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute onset of upper back pain.",
+        "history_of_present_illness": "Symptoms began at 7 pm, starting in the middle of the back between the shoulder blades and moving down toward the lumbar spine. Initially, pain was severe but improved with pain medications and has now resolved. The patient felt lethargy over the weekend but was able to continue working until experiencing nausea and vomiting after eating. Later that evening, lower back pain developed. No trauma, fever, chills, chest pain, shortness of breath, or dysuria were noted. The patient has been constipated.",
+        "past_medical_history": "Past medical history includes stage III colon cancer, hypertension, psoriasis, and an open appendectomy for a ruptured appendix, which revealed a carcinoid tumor extending through the full thickness of the wall. The patient underwent colonoscopy with benign biopsy results and was scheduled for resection of a cecal mass.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

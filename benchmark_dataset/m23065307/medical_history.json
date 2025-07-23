@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Progressively worsening abdominal pain, most notably in the epigastric area and right upper quadrant (RUQ), accompanied by fever and malaise.",
+        "history_of_present_illness": "The patient started experiencing mild abdominal pain the morning after starting ponatinib therapy, which resolved initially. However, over the last few days, the abdominal pain worsened, becoming severe and crampy, rated up to an unspecified intensity. The pain has interfered with sleep and has made the patient afraid to eat, although it is not exacerbated by eating. The patient also developed mild nausea but no vomiting. Additionally, the patient experienced fever up to 101°F over several days, without recall of the initial fever onset.",
+        "past_medical_history": "Metastatic poorly differentiated carcinoma (non-small cell lung cancer) with multiple sites of metastases, hypertension, hyperlipidemia, mild COPD, BPH, GERD, and status post 4 cycles of chemotherapy.",
+        "family_history": "No history of recurrent cancer in the family; father died of heart disease and mother at an unspecified age. Sister status post resection of lung tumor (unclear if cancer).",
+        "social_history": "Past medical history includes tobacco use."
+    }
+}

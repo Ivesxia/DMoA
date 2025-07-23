@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Temperature": "99.0 F",
+                "Heart Rate": "111 bpm",
+                "Blood Pressure": "117/69 mmHg",
+                "Oxygen Saturation": "94% on RA",
+                "Weight": "131.1 lbs"
+            },
+            "relevant_findings": {
+                "General": "Elderly, thin, frail gentleman, alert and conversant with some trouble speaking in complete sentences.",
+                "HEENT": "Anicteric, scant white pallor on posterior pharynx, prominent bilateral lymphadenopathy.",
+                "Cardiac": "RRR, III/VI holosystolic murmur best appreciated with left sternal border, softer holosystolic murmur at apex, JVP mildly elevated 4 cm above clavicle at 45 degrees.",
+                "Lung": "Diminished breath sounds bilaterally with intermittent wheezing and rhonchi, best appreciated in right lung fields.",
+                "Abdomen": "Soft, non-tender, non-distended, normal bowel sounds, no hepatomegaly.",
+                "Extremities": "Warm, well perfused, 2+ bilateral pitting edema.",
+                "Neurological": "A&Ox3, cranial nerves grossly intact, moving all extremities.",
+                "Skin": "Diffuse ecchymoses."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Temperature": "98.7 F",
+                "Blood Pressure": "137/67 mmHg",
+                "Respiratory Rate": "20",
+                "Oxygen Saturation": "98%",
+                "Weight": "134.7 lbs"
+            },
+            "relevant_findings": "2+ bilateral lower extremity pitting edema which was new from 2 weeks ago.",
+            "changes_over_time": "The patient had 2+ bilateral lower extremity pitting edema which was noted as new compared to 2 weeks prior, indicating worsening edema."
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Symptoms began two days prior with sharp pain initially at the umbilicus, then radiating to the right lower quadrant. The patient now reports diffuse abdominal pain, previously experiencing nausea/vomiting but none since. Additionally, the patient had a subjective fever of 99.9°F at home with chills.",
+        "past_medical_history": "Not specified",
+        "family_history": "Non-contributory",
+        "social_history": "Patient reported sick contacts with mother at home who has symptoms resembling norovirus (nausea/vomiting/diarrhea)."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Guaiac test",
+            "date": "Not specified",
+            "findings": "+ guiac on rectal exam.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonoscophy",
+            "date": "Not specified",
+            "findings": "Previous colonoscopy showed diverticulosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal ultrasound",
+            "date": "Not specified",
+            "findings": "Right kidney measures 9.1 cm; left kidney measures 10.3 cm; no hydronephrosis; simple cyst in left kidney measuring 1.3 x 1.4 x 1.1 cm; smaller cyst in upper pole measuring approximately 1 x 0.7 x 0.9 cm; kidneys otherwise unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "PT (Prothrombin Time)",
+            "date": "Not specified",
+            "findings": "27.3 sec (Normal range: 22.0 - 35.0 sec)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "Lungs clear without focal consolidation. No pleural effusion or pneumothorax. Cardiac and mediastinal silhouettes show normal heart size. Mediastinum not widened. Aorta is slightly tortuous.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

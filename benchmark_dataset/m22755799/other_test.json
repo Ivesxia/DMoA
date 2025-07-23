@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Diverticulosis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Endoscopy",
+            "date": "Not specified",
+            "findings": "Unremarkable.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

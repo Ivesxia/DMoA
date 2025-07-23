@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "3 hypodensities in liver segments 2, 7, and 8 measuring up to 7 mm, likely biliary hamartomas or hepatic cysts. Appendix is enlarged up to 8 mm in diameter with wall thickening and hyper enhancement. Small amount of free fluid is noted in the right lower quadrant.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation Test",
+            "date": "Not specified",
+            "findings": "33.8 sec (normal range: 25.0 - 36.5 sec).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C. difficile toxin A & B test",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Enlarged appendix measuring up to 15 mm in diameter with surrounding fat stranding and fluid in the right lower quadrant. No extraluminal gas identified. Thickening of the terminal ileum, which is fluid filled, but nondilated.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

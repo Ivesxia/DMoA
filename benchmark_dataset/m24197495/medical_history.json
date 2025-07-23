@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute onset abdominal pain.",
+        "history_of_present_illness": "Pain began at 10 PM, described as sharp and constant, radiating to the back. Accompanied by nausea, with one episode of vomiting. Symptoms occurred after eating a spicy meal for dinner. No changes in bowel movement noted, which was normal.",
+        "past_medical_history": "- Cirrhosis due to nonalcoholic steatohepatitis\n- Hypertension\n- History of disseminated miliary and peritoneal tuberculosis (status post treatment)\n- History of bowel obstruction while pregnant over 20 years ago.",
+        "family_history": "Mother died in an accident, father died (age unspecified). One sister, one brother, four children without any medical problems. No history of colon cancer, inflammatory bowel disease, esophageal cancer, or gastric cancer in the family.",
+        "social_history": "Patient reports consuming alcohol, approximately 2 glasses of wine with lunch the day prior to admission and usually drinks about 3 times per week, typically one day per week."
+    }
+}

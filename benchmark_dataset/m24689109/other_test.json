@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Percutaneous thrombectomy, fistulogram, arteriogram, and balloon angioplasty",
+            "date": "Not specified.",
+            "findings": "Angioplasty of multiple venous outflow stenoses and angioplasty of the arteriovenous graft anastomosis performed.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified.",
+            "findings": "A right-sided PICC line is identified reaching the mid portion of the right-sided SVC. Previously described NG tube unchanged. No new pulmonary parenchymal abnormalities.",
+            "changes_over_time": "Comparison with previous studies indicated no new findings or changes."
+        },
+        {
+            "procedure_name": "Exploratory laparotomy and lysis of adhesions",
+            "date": "Not specified.",
+            "findings": "Status post exploratory laparotomy with lysis of adhesions and reduction of small bowel volvulus.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

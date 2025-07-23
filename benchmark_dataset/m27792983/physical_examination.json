@@ -1,0 +1,18 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "62 bpm",
+                "blood_pressure": "120/60 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "saturation": "94%"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, regular rate and rhythm, clear to auscultation bilaterally, decreased breath sounds at the bases, abdomen soft, non-bloody stool, appropriately tender wound, palpable pulses."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

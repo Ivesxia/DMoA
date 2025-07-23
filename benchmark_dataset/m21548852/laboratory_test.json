@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "1.0 (within normal range: 0.9 - 1.1)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "No focal consolidation, no effusion or pneumothorax. Hilar and cardiomediastinal contours are within normal limits for age. Pulmonary vasculature is normal in caliber and distribution. No pulmonary edema.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

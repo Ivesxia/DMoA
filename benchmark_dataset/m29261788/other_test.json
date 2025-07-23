@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Marked mural thickening and luminal distention of the appendix, transverse dimension 1.7 cm at the appendiceal tip. No periappendiceal fluid collections. No free fluid or gas. A 4 cm fat containing hernia with 12 mm neck noticed in the anterior abdominal wall. No significant abdominal lymphadenopathy. Normal gallbladder and no significant abnormalities in liver, spleen, kidneys, adrenal glands or pancreas.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT PELVIS",
+            "date": "Not specified",
+            "findings": "A 3.8 cm x 2.2 cm focal area of fluid attenuation in the left adnexa likely representing a follicular cyst in the left ovary. Unremarkable uterus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT OSSEOUS STRUCTURES",
+            "date": "Not specified",
+            "findings": "No suspicious lytic or sclerotic lesions in the visualized bony skeleton.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with new onset abdominal pain, particularly sharp pain in the right lower quadrant (RLQ) along with nausea, anorexia, and vomiting, which are classic symptoms for appendicitis. The physical examination showed positive tenderness to palpation in the RLQ and signs such as Rovsing's, obturator, and psoas signs, suggesting appendiceal irritation. The CT scan of the abdomen revealed a fluid-filled appendix with hyperemic walls and surrounding inflammatory changes, confirming the diagnosis of acute appendicitis."
+    }
+}

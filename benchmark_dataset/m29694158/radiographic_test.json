@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "No lobar consolidation, pneumothorax, or frank pulmonary edema identified. Bibasilar atelectasis is noted. Possible trace left pleural effusion. The cardiomediastinal silhouette is within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

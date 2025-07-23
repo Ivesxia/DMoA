@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The liver is within normal limits, with no suspicious mass lesions or other focal abnormality. No evidence of choledocholithiasis; the biliary tree is normal in size. No evidence of acute cholecystitis. There is mild enhancement of the distal CBD in the region of the pancreatic head. Lack of visualization of the main pancreatic duct at the level of the head over approximately 2 cm, with minimal upstream dilation, compatible with focal changes and consistent with provided history. There is a trace amount of fluid in the anterior pararenal spaces bilaterally. The pancreas is otherwise within normal limits. The spleen is normal in size with no suspicious lesions. The adrenal gland shows a 5.7 x 7.1 cm left adrenal myolipoma. Kidneys show benign simple appearing renal cysts bilaterally.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory examination",
+            "date": "Not specified",
+            "findings": "Blood glucose level: 137.0 mg/dL (normal range: 0.0 - 149.0 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

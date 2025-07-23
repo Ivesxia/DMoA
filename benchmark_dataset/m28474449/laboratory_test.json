@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Within normal limits",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chemistry",
+            "date": "Not specified",
+            "findings": "Within normal limits",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test (LFTs)",
+            "date": "Not specified",
+            "findings": "Within normal limits",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Within normal limits",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Elevated at 227",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis (UA)",
+            "date": "Not specified",
+            "findings": "Negative for infection",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound (Liver or Gallbladder US)",
+            "date": "Not specified",
+            "findings": "Mild gallbladder wall edema, gallbladder not concerning, no gallstones, liver unremarkable, no ascites.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "99.0°F",
+                "heart_rate": "107 bpm",
+                "blood_pressure": "117/61 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Demonstrably uncomfortable, thin",
+                "neurological": "AOx3, CN II-XII grossly intact",
+                "HEENT": "Sclerae anicteric, trachea midline, no JVD",
+                "cardiovascular": "RRR, 2+ peripheral pulses bilaterally",
+                "respiratory": "No respiratory distress",
+                "gastrointestinal": "Abdomen soft, non-distended but diffusely tender. No voluntary or involuntary guarding."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

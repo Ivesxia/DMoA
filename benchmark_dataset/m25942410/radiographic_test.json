@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Contrast is seen in what appears to be a CBD remnant. There are two filling defects in the CBD remnant, likely consistent with stones. Two stones and some sludge were extracted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

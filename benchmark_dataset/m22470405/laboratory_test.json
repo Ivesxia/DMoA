@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "WBC 11.9, H/H 15.2/44.1",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test (LFT)",
+            "date": "Not specified",
+            "findings": "ALT 55, AST 54, Tbili 1.1",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Amylase",
+            "date": "Not specified",
+            "findings": "Amylase 424",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 487",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "10:40 AM and 11:32 AM",
+            "findings": "Lactate initially 3.4 then 2.8",
+            "changes_over_time": "Decreasing from 3.4 to 2.8"
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "Potassium 2.8",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of Liver or Gallbladder",
+            "date": "Not specified",
+            "findings": "A small right pleural effusion. A 1.2 x 2.0 x 1.5 cm cyst in the right lobe of the liver, unchanged from prior CT. Mildly distended gallbladder with echogenic material likely representing sludge.",
+            "changes_over_time": "Cyst unchanged compared to prior CT."
+        }
+    ]
+}

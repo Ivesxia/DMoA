@@ -1,0 +1,22 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric abdominal pain.",
+        "history_of_present_illness": "Symptoms began about one week ago, characterized by sharp, constant pain that radiates to the back and worsens after eating. The patient has also experienced nausea and has not been eating much recently. Antacids provided no relief, while tramadol helped alleviate the pain. The pain is associated with eating.",
+        "past_medical_history": [
+            "Cryptogenic cirrhosis s/p DDLT",
+            "Recent history of cholangitis",
+            "Chronic kidney disease",
+            "Diabetes mellitus",
+            "History of pancreatic cyst",
+            "Hiatal hernia",
+            "Gastroesophageal reflux disease (GERD)",
+            "Esophageal dismotility",
+            "Prostate cancer s/p prostatectomy and penile prosthesis",
+            "Depression",
+            "Hypertension",
+            "Hypertriglyceridemia"
+        ],
+        "family_history": "No family history of liver disease, diabetes, or premature CAD.",
+        "social_history": "Not specified."
+    }
+}

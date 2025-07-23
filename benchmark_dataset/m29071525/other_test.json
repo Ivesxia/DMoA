@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Upper endoscopy",
+            "date": "Not specified",
+            "findings": "Demonstrated gastritis, esophagitis, and two colonic polyps which were removed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Demonstrated gastritis, esophagitis, and two colonic polyps which were removed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biliary ultrasound",
+            "date": "Not specified",
+            "findings": "Liver is diffusely echogenic with smooth contour, no focal liver mass; gallbladder wall is diffusely thickened with a hyperechoic tiny focus possibly representing a very small adherent stone measuring less than 5 mm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

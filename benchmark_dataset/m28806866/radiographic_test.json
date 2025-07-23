@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized lung bases demonstrate dependent atelectasis without definite consolidation or effusion. The cecum is atypically located in the mid upper abdomen, normal in caliber. The appendix measures up to 9 mm, with marginal mucosal hyperenhancement and possible mild periappendiceal fat stranding. No focal liver lesions, no bowel abnormalities, no free fluid or air.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

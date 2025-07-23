@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laparoscopic liver biopsy",
+            "date": "Not specified",
+            "findings": "4+ (>10 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver demonstrates homogeneous echotexture without suspicious hepatic lesion. A hyperechoic focus in the right lobe measuring 1.4 x 1.3 x 1.4 cm, a probable small hemangioma. The gallbladder wall is thickened with multiple shadowing gallstones, the largest measuring 2 cm. The common bile duct is dilated measuring 1.1 cm. The pancreatic head, neck, and body appear edematous. Mild-to-moderate amount of perihepatic ascites.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

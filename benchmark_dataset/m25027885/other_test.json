@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EGD with biopsy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonoscopy with polypectomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP with FNA of pancreatic mass",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Rectal examination",
+            "date": "Not specified",
+            "findings": "Guaiac positive",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT abdomen",
+            "date": "Not specified",
+            "findings": "Pancreatic duct dilation/stranding and multiple liver lesions",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

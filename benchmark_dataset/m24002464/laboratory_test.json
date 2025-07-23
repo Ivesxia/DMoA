@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is visualized, measuring 6-7 mm with a portion that is fluid filled. The wall appears mildly thickened and hyperemic. There is thickening at the base of the appendix and cecal base. No significant adjacent fat stranding is seen. Overall, the findings are concerning for very early/mild appendicitis in conjunction with the patient's clinical symptoms. There is no free fluid and no free air.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION, level: 8.8 mg/dL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

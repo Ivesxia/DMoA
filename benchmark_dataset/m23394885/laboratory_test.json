@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Lung Bases: Ground-glass nodule in the left lower lobe measuring 3.6 mm. Mild bibasilar atelectasis noted. Abdomen: Tiny hypodensity within the hepatic dome, otherwise enhancing normally. No biliary ductal dilation. The gallbladder, spleen, and pancreas are unremarkable. The kidneys enhance symmetrically. Large fluid collection within the right hemipelvis measuring approximately 4.2 x 6.8 x 5.1 cm with surrounding fat stranding and bowel wall thickening along the cecum and ascending colon. No gross free air. No signs of bowel obstruction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation time test",
+            "date": "Not specified",
+            "findings": "12.8 sec, outside normal range (normal range 9.4 - 12.5 sec)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacteriology test",
+            "date": "Not specified",
+            "findings": "BACTEROIDES FRAGILIS GROUP",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

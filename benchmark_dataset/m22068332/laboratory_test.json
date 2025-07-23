@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified.",
+            "findings": "Transabdominal pelvic ultrasound shows a 9mm diameter blind-ending tubular structure in the right lower quadrant correlating with an abnormal appendix. The uterus measures 4.6 x 2.6 x 3.7 cm, normal thickened endometrium 0.3 cm, right ovary 2.4 x 2.2 x 2.2 cm, left ovary 2.7 x 2.8 x 2.5 cm. Normal arterial and venous waveforms in both ovaries. Doppler ultrasound demonstrates hyperemia in the appendix wall. No adjacent fluid collection.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified.",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood test",
+            "date": "Not specified.",
+            "findings": "1.4 mmol/L (within normal range of 0.5 to 2.0 mmol/L).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

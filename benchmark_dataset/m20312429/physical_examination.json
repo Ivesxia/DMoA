@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.0F",
+                "heart_rate": "125 bpm",
+                "blood_pressure": "110/56 mmHg",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "general": "No acute distress; alert and fully oriented",
+                "heent": "Sclerae anicteric. Mucus membranes moist. No lymphadenopathy.",
+                "cardiac": "Tachycardic, regular rhythm; normal S1 and S2",
+                "pulmonary": "Nonlabored breathing, lungs clear to auscultation bilaterally",
+                "abdomen": "Normal bowel sounds, non-tympanitic. Soft, obese, pale striae. Tenderness to superficial and deep palpation on RLQ with rebound tenderness. Minimal tenderness to deep palpation on RUQ and LLQ exacerbating RLQ pain, +Rovsing's. Minimal to moderate guarding during palpation. -Psoas, -Obturator signs. No CVA tenderness.",
+                "extremities": "Warm and well-perfused, DP pulses full and symmetrical"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

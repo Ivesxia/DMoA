@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.3°F",
+                "heart_rate": "95 bpm",
+                "blood_pressure": "130/70 mmHg",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "95% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing in no acute distress.",
+                "heent": "Sclera anicteric.",
+                "neck": "Supple.",
+                "chest": "Normal respirations and breathing comfortably on room air. Lungs clear to auscultation bilaterally.",
+                "cardiovascular": "Regular rhythm. Normal S1, S2. JVP <5 cm.",
+                "abdomen": "Mild tenderness in the epigastric region.",
+                "extremities": "No ankle edema.",
+                "neurological": "Alert, oriented x3. Good fund of knowledge. Memory is intact.",
+                "psychological": "Appearance, behavior, and affect all normal."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

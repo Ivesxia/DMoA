@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "U/A",
+            "date": "Not specified",
+            "findings": "Bld Mod, Prot 500, Glu Tr, Ket 15, RBC ___, WBC ___, Bact Few, Epi ___",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic Appendectomy",
+            "date": "Not specified",
+            "findings": "Acute Appendicitis",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

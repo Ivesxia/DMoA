@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver shows no evidence of focal lesions or textural abnormality. There is mild intrahepatic biliary dilitation vs. prominent intrahepatic ducts, unchanged in appearance from prior. The common bile duct measures 5 mm. The distal common bile duct was not visualized. Again seen is cholelithiasis. There is no gallbladder wall edema or pericholecystic fluid. However, the gallbladder was distended and the sonographic Murphy's sign is positive. The pancreatic head is unremarkable. The distal body and tail were not well visualized due to overlying bowel gas.",
+            "changes_over_time": "The mild intrahepatic biliary dilitation vs. prominent intrahepatic ducts is unchanged in appearance from prior."
+        }
+    ]
+}

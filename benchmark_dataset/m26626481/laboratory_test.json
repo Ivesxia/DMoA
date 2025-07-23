@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver function test (LFTs)",
+            "date": "Not specified",
+            "findings": "Generally unremarkable, specific measurements not provided.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of Right Upper Extremity Veins",
+            "date": "Not specified",
+            "findings": "Normal spontaneous phasic flow and compressibility within the right internal jugular, axillary, brachial, and cephalic veins. A PICC line is visualized within the right basilic vein with normal spontaneous flow. Spontaneous phasic flow within the right subclavian vein. No flow identified within the vessel at the area of previous IV placement in the right wrist, with subcutaneous edema in this region.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

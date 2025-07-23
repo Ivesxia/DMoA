@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient started having abdominal pain gradually three days ago, described as a persistent ache. Noticed some blood on the toilet paper after a bowel movement one day prior to admission. Reports having chills, but no recorded fevers. Decreased appetite noted.",
+        "past_medical_history": "Diabetes Mellitus type II, Hypertension, Diverticulosis with recent lower GI bleed, Internal hemorrhoids",
+        "family_history": "Father died of stroke at unspecified age. Mother died of diabetes complications at unspecified age.",
+        "social_history": "Not specified"
+    }
+}

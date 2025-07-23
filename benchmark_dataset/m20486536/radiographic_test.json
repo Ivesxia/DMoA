@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Dilated, fluid-filled appendix with a thickened hyperemic wall, measuring 9 mm in diameter. Liver, bile ducts, gallbladder, pancreas, spleen, and kidneys appear within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

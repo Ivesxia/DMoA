@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Drainage of Pelvic Cavity, Percutaneous Approach, Diagnostic",
+            "date": "Not specified",
+            "findings": "Mixed bacterial flora (>= 3 colony types), consistent with skin and/or genital contamination.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound (Pelvis, Non-Obstetric)",
+            "date": "Not specified",
+            "findings": "Normal uterus and endometrium; complex fluid collection in the left hemipelvis corresponding to the known abscess. Normal right ovary with a dominant follicle; left ovary normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

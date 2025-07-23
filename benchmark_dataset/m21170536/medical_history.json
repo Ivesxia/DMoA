@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The abdominal pain started yesterday after eating lunch, initially mostly epigastric and periumbilical, described as intermittent and sharp. The pain's severity was initially rated lower but increased by the time of admission. At presentation, the pain is also radiating to the left lower quadrant (LLQ). The patient endorsed one episode of nausea and vomiting after receiving morphine in preparation for a CT scan but reported no other instances of nausea or vomiting. She has not had a bowel movement since yesterday morning and denies any changes in her bowel movements like diarrhea or blood in stool. She reports a decreased appetite but does not have full anorexia.",
+        "past_medical_history": "Not specified",
+        "family_history": "Mother: Hypertension; Father: Colon cancer (diagnosed at [age not specified]); 2 brothers in good health.",
+        "social_history": "Not specified"
+    }
+}

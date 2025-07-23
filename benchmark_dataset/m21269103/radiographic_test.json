@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "Cardiomediastinal silhouette and hilar contours are unremarkable. Lungs are clear. Pleural surfaces are clear without effusion or pneumothorax.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

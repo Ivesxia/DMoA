@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9 °F",
+                "heart_rate": "124 bpm",
+                "blood_pressure": "124/63 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "In no acute distress",
+                "HEENT": "Normocephalic, atraumatic, pupils equal, round, reactive to light, oral pharynx clear, dry mucous membranes",
+                "neck": "Supple, no lymphadenopathy",
+                "cardiovascular": "Regular rate and rhythm, normal S1 and S2, no murmurs, rubs, or gallops",
+                "lungs": "Clear to auscultation bilaterally, no wheezing, rales, or rhonchi",
+                "abdomen": "Soft, non-tender, non-distended, no flank dullness",
+                "genitourinary": "No Foley catheter",
+                "extremities": "Warm, well perfused, no cyanosis, edema, or erythema",
+                "neurological": "Non-focal",
+                "skin": "No rash"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

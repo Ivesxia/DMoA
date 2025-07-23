@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Liver does not show focal lesions or textural abnormality. There is no intrahepatic biliary dilatation. Gallbladder contains several shadowing stones but there is no wall thickening, wall edema, or pericholecystic fluid. Common bile duct measures up to 5 mm. The pancreas is unremarkable. Limited view of the right kidney is within normal limits. Portal vein is patent with hepatopetal flow.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "1.7 mmol/L, within normal range (0.5 - 2.0 mmol/L).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

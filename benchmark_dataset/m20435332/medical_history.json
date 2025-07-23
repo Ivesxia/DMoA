@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute abdominal pain localized to the right side, sharp in nature.",
+        "history_of_present_illness": "Pain began approximately 9 hours ago, with multiple episodes since. Patient has not passed gas; last bowel movement was yesterday. Denies fever or chills. No history of similar episodes.",
+        "past_medical_history": "Atrial fibrillation s/p cardioversion on Flecainide and Metoprolol, atrial tachycardia status post EP study, SVT after fertility treatments, mild mitral valve prolapse with mild mitral regurgitation, possible connective tissue disorder, partial hysterectomy, DVT in left groin after partial hysterectomy for cervical prolapse, left upper extremity radiculopathy, polypectomies, dilatation curettage, difficulty conceiving a pregnancy.",
+        "family_history": "Father has prostate cancer and a lung nodule; mother has ___ syndrome with aortic valve replacement after aortic dissection and mitral valve prolapse.",
+        "social_history": "Not specified."
+    }
+}

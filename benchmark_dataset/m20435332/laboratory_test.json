@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated measuring up to 11 mm with a hyperenhancing wall and surrounding fat stranding. A density in the tip of the appendix likely represents an appendicolith. No evidence of free intra-abdominal free air or free fluid. Mildly distended small bowel loops in the region of the appendix, are likely reactive. The liver enhances homogeneously and is without focal lesions. The gallbladder is normal without radiopaque stones. The kidneys display symmetric nephrograms and excretion of contrast. There are no focal renal lesions. The ureters are normal in caliber and course to the bladder.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

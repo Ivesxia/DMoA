@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8 °F",
+                "blood_pressure": "123/75 mmHg",
+                "heart_rate": "63 bpm",
+                "oxygen_saturation": "20%",
+                "respiratory_rate": "20 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "well appearing in NAD (No Acute Distress)",
+                "HEENT": "Sclera anicteric, MMM (Mucous Membranes Moist), oropharynx clear",
+                "lungs": "Clear to auscultation bilaterally, no wheezes, rales, ronchi",
+                "CV": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+                "abdomen": "large well-healed RUQ scar. Epigastrium tender to palpation without rebound or guarding.",
+                "extremities": "Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema",
+                "skin": "no rashes",
+                "neuro": "strength normal throughout, normal sensation throughout, answering all questions appropriately"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

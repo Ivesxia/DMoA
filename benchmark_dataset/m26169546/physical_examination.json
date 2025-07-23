@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "blood_pressure": "160/80 mmHg",
+                "heart_rate": "72 bpm",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No distress, lying in bed",
+                "HEENT": "Moist mucous membranes, no jaundice",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, rubs, or gallops",
+                "pulmonary": "Lungs clear bilaterally",
+                "abdominal": "Soft, non-tender to palpation, active bowel sounds, right-sided drain in place, small amount of ecchymosis around drain, bile draining freely (intermittently blood-tinged); purulent drainage subsided",
+                "extremities": "No edema",
+                "neurological": "Alert and oriented x 3, ambulatory without assistance"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

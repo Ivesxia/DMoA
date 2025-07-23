@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient had sudden onset epigastric pain 2 nights ago, which has progressed to radiate to the right upper quadrant (RUQ) and right lower quadrant (RLQ). The pain has now settled out to a certain degree. It is not aggravated by movement. The patient has felt a 'lump' develop on the right side of the abdomen over the past 2 days.",
+        "past_medical_history": "HTN, DM, diverticulosis",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Gram stain",
+            "date": "Not specified",
+            "findings": "GRAM POSITIVE BACTERIA",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gram stain",
+            "date": "Not specified",
+            "findings": "NEG.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen & Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "The appendix is dilated to 9-10mm and has a thickened, hyperemic wall consistent with appendicitis. Mild haziness/stranding of the periappendiceal fat.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

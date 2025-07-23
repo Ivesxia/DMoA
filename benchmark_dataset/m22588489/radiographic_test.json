@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT PELVIS W/CONTRAST",
+            "date": "Not specified",
+            "findings": "There is a blind-ending dilated tubular structure which does not fill with contrast, most likely an inflamed appendix, measuring up to 11 mm. There is a small amount of adjacent fluid as well as adjacent fascial thickening.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

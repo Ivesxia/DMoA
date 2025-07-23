@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.4°F",
+                "heart_rate": "97 bpm",
+                "blood_pressure": "155/94 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "constitutional": "NAD, uncomfortable secondary to pain",
+                "HEENT": "Normocephalic, atraumatic, Pupils equal, round and reactive to light, Extraocular muscles intact, Oropharynx within normal limits",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm, Normal first and second heart sounds.",
+                "abdominal": "Soft, Nondistended, tender to palpation in the right upper quadrant. No tenderness to palpation of his umbilical hernia which is difficult to reduce. Normoactive bowel sounds present. No rebound or guarding. Obese.",
+                "GU/Flank": "No costovertebral angle tenderness",
+                "extr/back": "No cyanosis, clubbing or edema",
+                "skin": "No rash, Warm and dry",
+                "neuro": "Speech fluent, AAO x 3, CN intact nonfocal",
+                "mood": "Normal mood, Normal mentation",
+                "petechiae": "No petechiae"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

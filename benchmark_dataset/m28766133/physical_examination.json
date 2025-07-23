@@ -1,0 +1,47 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.6°F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "142/94 mmHg",
+                "respiratory_rate": "20 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "NAD, uncomfortable",
+                "HEENT": "dry MM, anicteric",
+                "lungs": "CTAB/L",
+                "cardiovascular": "RRR, no murmur",
+                "abdomen": "obese, no rebound/guarding, +BS, TTP in epigastrium, negative ___",
+                "extremities": "no edema, WWP",
+                "skin": "no rashes, no jaundice",
+                "neurological": "AAOx3, fluent speech",
+                "psychological": "Anxious"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "heart_rate": "92 bpm",
+                "blood_pressure": "152/105 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Pain has improved from ___ -> ___; currently moderate abdominal pain, without nausea."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "heart_rate": "105 bpm",
+                "blood_pressure": "160/100 mmHg",
+                "respiratory_rate": "22 breaths/min"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

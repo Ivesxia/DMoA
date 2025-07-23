@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver demonstrates normal, homogeneous echotexture without focal intrahepatic lesion seen. No intrahepatic biliary dilatation. The main portal vein is patent with hepatopetal flow. The gallbladder is not overly distended; however, evidence of cholelithiasis and sludge is seen. There is mild gallbladder wall thickening. No pericholecystic fluid is seen. The common bile duct is normal in caliber measuring 0.3 cm in diameter. The pancreas is partially obscured by overlying bowel gas, although the visualized portion is unremarkable, without pancreatic ductal dilatation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Fluid-filled dilated appendix (8-9 mm) with slight wall enhancement, minimal periappendiceal fat stranding, no adjacent fluid collections, slight thickening at the cecal base and proximal ascending colon, no significant retroperitoneal or mesenteric lymphadenopathy, no free air or fluid in the abdomen or pelvis.",
+            "changes_over_time": "Minimal increase in size of a 17 x 13 mm fluid density mass since examination several years prior."
+        },
+        {
+            "procedure_name": "Laboratory examination for organisms",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

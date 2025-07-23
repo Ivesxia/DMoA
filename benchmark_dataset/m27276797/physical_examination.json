@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9 °F",
+                "blood_pressure": [
+                    "175/104 mmHg",
+                    "117 mmHg"
+                ],
+                "respiratory_rate": "18 breaths/min",
+                "saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "pleasant, well appearing elderly female",
+                "HEENT": "dry mucous membranes, sclera anicteric, pupils pinpoint",
+                "neck": "supple, no lymphadenopathy",
+                "chest": "clear",
+                "cardiovascular": "regular rhythm, tachycardia",
+                "abdomen": "soft, nontender, no apparent surgical scars in RUQ, well healed midline suprapubic surgical scar",
+                "rectal": "guaiac positive",
+                "extremities": "no edema",
+                "skin_nails": "no rash or lesion",
+                "neurological": "alert, oriented to self, time, cognitive functions intact, strength normal, coordination and speech appropriate"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

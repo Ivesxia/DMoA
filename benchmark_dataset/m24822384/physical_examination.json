@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9 °F",
+                "heart_rate": "67 bpm",
+                "blood_pressure": "148/87 mmHg",
+                "respiratory_rate": "96% RA"
+            },
+            "relevant_findings": {
+                "general": "in no acute distress, pleasant, cooperative",
+                "HEENT": "sclera anicteric, mucus membranes moist, nares clear, trachea at midline",
+                "CV": "regular rate, rhythm. No appreciable murmurs, rubs, gallops",
+                "Pulm": "clear to auscultation bilaterally",
+                "Abd": "well-healed low midline incision consistent with prior colectomy. No evidence of hernia. Focally tender in RLQ without rebound or guarding",
+                "MSK": "warm, well-perfused",
+                "Neuro": "alert, oriented to person, place, time"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

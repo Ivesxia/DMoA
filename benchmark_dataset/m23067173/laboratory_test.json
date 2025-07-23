@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits. No evidence of pleural or pericardial effusion. The liver demonstrates homogenous attenuation throughout with no focal lesions or biliary dilatation. The gallbladder is within normal limits. The pancreas has normal attenuation without lesions or ductal dilatation. The spleen is normal in size and attenuation, with an accessory spleen measuring 9 mm. The adrenal glands are normal. The kidneys are symmetric in size with normal nephrogram and no renal lesions. Small bowel loops are filled with fluid, likely ileus; colon and rectum are normal. The appendix is edematous and hyperemic, measuring 15 mm. The urinary bladder and distal ureters are unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "No Growth Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

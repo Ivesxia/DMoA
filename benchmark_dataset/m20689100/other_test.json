@@ -1,0 +1,40 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, or gallops.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Consulted given concern for an impacted stone and cholangitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "X-ray",
+            "date": "Not specified",
+            "findings": "Opacities have slightly worsened in the axillary portion of the right lung and in the right lower lobe, concerning for pneumonia. Asymmetric pulmonary edema has improved in the left lung but worsened in the right lung.",
+            "changes_over_time": "Worsened opacities and worsening asymmetric pulmonary edema in the right lung."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Imaged lung bases are clear; liver demonstrates homogenous attenuation with no focal lesions; normal pancreas; normal spleen; normal adrenal glands; kidneys normal and symmetric with no focal renal lesions; stomach and duodenum appear normal; small bowel loops show no signs of ileus or obstruction; phlegmon involving proximal transverse colon with significant fat stranding adjacent to the inflamed diverticulum; several small foci of extraluminal gas indicative of micro perforation; no drainable fluid collection; unremarkable appendix; normal uterus and ovaries; no lymphadenopathy; no abdominal aortic aneurysm; no significant atherosclerotic disease; no evidence of worrisome osseous lesions or acute fracture; small fat containing periumbilical hernia.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

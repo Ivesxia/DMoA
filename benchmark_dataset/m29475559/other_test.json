@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "No H. Pylori seen on biopsy.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis",
+            "date": "Not specified",
+            "findings": "Previously seen hypoenhancement of the right kidney is no longer evident; a large sigmoid diverticulum appears acutely inflamed.",
+            "changes_over_time": "Previously seen possible thrombus within the central portion of the left portal vein is no longer evident."
+        },
+        {
+            "procedure_name": "Urine culture",
+            "date": "Not specified",
+            "findings": "Urine culture negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Tachycardic rate observed.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

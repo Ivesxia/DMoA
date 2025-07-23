@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6 °F (Tm 97.9)",
+                "blood_pressure": "110/73 mmHg (95-132/47-93)",
+                "heart_rate": "79 bpm (79-100)",
+                "respiratory_rate": "18 breaths/min (___)",
+                "oxygen_saturation": "96% (96-98)"
+            },
+            "relevant_findings": {
+                "general": "NAD, AxOx3",
+                "cardiovascular": "RRR, no m/r/g",
+                "pulmonary": "CTAB, no respiratory distress",
+                "abdominal": "Soft, non-tender, non-distended, normal bs",
+                "extremities": "No edema, warm well-perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

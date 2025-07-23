@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is diffusely increased in echogenicity most consistent with hepatic steatosis. No discrete liver lesions identified. Common bile duct measuring 4 mm. Gallbladder contains multiple large gallstones, one appears to be located within the neck. No gallbladder wall edema or pericholecystic fluid. Spleen measures 12 cm. No hydronephrosis in right kidney. No ascitic fluid evident.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Glucose",
+            "date": "Not specified",
+            "findings": "306.0 mg/dL, which is outside the normal range (91.0 - 123.0 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Weakness, abdominal pain, and emesis.",
+        "history_of_present_illness": "Symptoms began at home, included nausea and emesis, which resolved upon arrival to the ICU. The patient reported intermittent tachycardia and hypotension before treatment with IV fluids, leading to improvement.",
+        "past_medical_history": "Hypertension (HTN), Chronic Kidney Disease (CKD), Atrial Fibrillation (AF), Kidney Stones.",
+        "family_history": "Family history of hypertension and kidney disease.",
+        "social_history": "Not specified."
+    }
+}

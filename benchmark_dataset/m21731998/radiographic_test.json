@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Layering gallbladder sludge; gallbladder is distended with irregular gallbladder thickening, enhancement and associated enhancement of the surrounding liver parenchyma; pericholecystic stranding; a 6 mm T1 hyperintense calculus at the cystic duct/gallbladder neck junction; common bile duct dilated measuring approximately 11 mm at the porta hepatis with mild tapering towards the head of the pancreas; dilatation of the centrally located intrahepatic biliary radicles; minimal edema; pancreatic duct normal in size; tiny cystic structure likely side branch IPMN at the pancreatic head; normal spleen, bilateral kidneys and adrenal glands; small likely reactive lymph nodes at the level of porta hepatis; patent SMV, splenic vein, portal vein and intrahepatic portal veins; conventional hepatic arterial supply; no retroperitoneal lymphadenopathy; no evidence of abnormally dilated loops of bowel; no evidence of marrow lesions or destructive lesions; small amount of right pleural effusion with associated atelectasis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

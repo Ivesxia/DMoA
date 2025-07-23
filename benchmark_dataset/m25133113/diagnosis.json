@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Gallstone Pancreatitis",
+        "differential_diagnosis": "Sepsis, Pneumonia, COPD, Acute Renal Failure, Anemia, Sacral Decubitus Ulcer, Hypoactive Delirium",
+        "diagnostic_reasoning": "The patient presented with abdominal pain and elevated lipase (4k), indicative of pancreatitis. Imaging showed inflammatory stranding around the pancreas, and surgical/gi consultations recommended ERCP, which supports the diagnosis of gallstone pancreatitis."
+    }
+}

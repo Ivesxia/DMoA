@@ -1,0 +1,27 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Liver is homogeneous in signal intensity without suspicious mass. No signal drop on out of phase imaging to suggest hepatic steatosis. Few scattered arterially hyperenhancing foci are seen without correlate on additional sequences, likely transient hepatic intensity differences. No ascites.",
+                "biliary": "Moderately dilated intra and extrahepatic biliary ducts as well as pancreatic duct which smoothly tapers towards the ampulla, consistent with ampullary stenosis. No enhancing mass. No choledocholithiasis. No peribiliary enhancement.",
+                "pancreas": "Pancreas is homogeneous in signal intensity without suspicious mass. No pancreatic duct dilatation. No peripancreatic fat stranding. No pancreatic divisum.",
+                "spleen": "Normal in size without suspicious mass.",
+                "adrenal_glands": "Unremarkable.",
+                "kidneys": "Bilateral subcentimeter renal cysts noted. Kidneys are otherwise homogeneous in signal intensity without suspicious mass. No hydronephrosis or perinephric fat stranding.",
+                "gastrointestinal_tract": "Distal esophagus, stomach, visualized small and large bowel are unremarkable. No obstruction.",
+                "lymph_nodes": "Retroperitoneal and mesenteric lymph nodes are nonenlarged.",
+                "vasculature": "Moderate atherosclerotic disease is noted with ectasia of the infrarenal abdominal aorta. Celiac axis, SMA, bilateral renal arteries, and accessory left renal artery are patent. Hepatic anatomy is conventional. Hepatic veins, main portal vein, SMV, and splenic vein are patent.",
+                "osseous_soft_tissue": "No suspicious osseous lesions. Numerous neural foraminal cysts noted. Soft tissues are unremarkable."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Inspection of Hepatobiliary Duct, Via Natural or Artificial Opening Endoscopic",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

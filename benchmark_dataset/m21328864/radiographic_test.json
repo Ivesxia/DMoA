@@ -1,0 +1,26 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CTU (ABD/PEL) W/CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "5 mm peripheral nodule in the left lower lobe, unchanged from prior",
+                "abdomen": {
+                    "hepatobiliary": "Homogenous attenuation throughout liver with diffuse hypodensity, compatible with hepatic steatosis. No focal lesions or biliary dilatation. Gallbladder surgically absent.",
+                    "pancreas": "Normal attenuation throughout without focal lesions or pancreatic ductal dilatation. No peripancreatic stranding.",
+                    "spleen": "Normal size and attenuation without focal lesions.",
+                    "adrenals": "Normal size and shape.",
+                    "urinary": "Normal and symmetric kidneys with normal nephrogram. No nephrolithiasis, ureterolithiasis, hydronephrosis, or perinephric abnormality. A subcentimeter hypodensity in the lower pole of the left kidney too small to characterize.",
+                    "gastrointestinal": "Unremarkable stomach. Small bowel loops normal. Dilated appendix measuring up to 13 mm with significant fat stranding at the tip and a potential extraluminal appendicolith.",
+                    "pelvis": "No free fluid.",
+                    "reproductive_organs": "Prostate contains coarse calcifications.",
+                    "lymph_nodes": "Multiple enlarged mesenteric and retroperitoneal lymph nodes. Some increased in size: lateral caval lymph node measures 2.8 x 3.0 cm (previously 3.6 x 2.2 cm). Others decreased in size: left upper quadrant lymph node measures 1.6 x 2.4 cm (previously 1.8 x 3.1 cm) and right lower quadrant lymph node 0.7 x 1.3 cm (previously 1.1 x 1.5 cm).",
+                    "vascular": "No abdominal aortic aneurysm. Mild atherosclerotic disease noted.",
+                    "bones": "No evidence of worrisome osseous lesions or acute fracture. Mild to moderate multilevel degenerative changes of lower thoracic and upper lumbar spine.",
+                    "soft_tissues": "Abdominal and pelvic wall within normal limits."
+                }
+            },
+            "changes_over_time": "Enlarged lymph nodes show both increases and decreases in size: lateral caval lymph node increased, others decreased."
+        }
+    ]
+}

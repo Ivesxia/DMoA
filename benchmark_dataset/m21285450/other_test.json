@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Normal biliary tree including intrahepatic bile ducts noted; focal bile duct injury observed from liver biopsy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EKG",
+            "date": "Not specified",
+            "findings": "NSR at 76 bpm, no acute ischemic changes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "lab test for lipase",
+            "date": "Not specified",
+            "findings": "Lipase level at 2463 mg/dL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

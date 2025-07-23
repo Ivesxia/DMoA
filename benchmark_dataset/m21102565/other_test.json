@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated up to 12 mm and fluid filled with several appendicoliths including a 6-mm appendicolith at the base, a 4-mm appendicolith in the mid portion and a 6-mm appendicolith near the tip. There is adjacent stranding. No free intraperitoneal air or ascites. The liver, spleen, pancreas, adrenal glands, kidneys, and visualized portions of the ureters are unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

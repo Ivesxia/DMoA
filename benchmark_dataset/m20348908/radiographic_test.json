@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Lung bases are clear. Abdomen shows normal liver, spleen, gallbladder, adrenal glands, and pancreas. Kidneys enhance symmetrically with several tiny cortical hypodensities. No hydronephrosis or signs of pyelonephritis. Abdominal aorta is normal. No lymphadenopathy, free air or free fluid seen. Small bowel loops show no signs of ileus or obstruction. Appendix is normal. Colonic diverticulosis noted with marked inflammation surrounding the sigmoid colon which is diffusely thickened. A pocket of extraluminal gas along the mid sigmoid mesocolon concerning for perforation. No drainable abscess or evidence of peritonitis. Trace associated free fluid. Urinary bladder is unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

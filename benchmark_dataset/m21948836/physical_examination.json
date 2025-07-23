@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "blood_pressure": "116/62 mmHg",
+                "heart_rate": "80 bpm",
+                "respiratory_rate": "20 bpm"
+            },
+            "relevant_findings": {
+                "general": "NAD, nonicteric",
+                "heart": "RRR",
+                "lungs": "CTAB",
+                "abdomen": "soft, gravid, mild epigastric and RUQ pain, no rebound or guarding, no CVAT",
+                "cervical_exam": "FT ext os, closed int os, long, firm"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

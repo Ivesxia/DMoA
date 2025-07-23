@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites. Bile ducts show no intrahepatic biliary dilation. Common bile duct is 5 mm. Cholelithiasis is present without gallbladder wall thickening. The pancreas appears mildly heterogeneous in echogenicity, without definite masses or pancreatic ductal dilation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endoscopic Retrograde Cholangiopancreatography (ERCP)",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic Cholecystectomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

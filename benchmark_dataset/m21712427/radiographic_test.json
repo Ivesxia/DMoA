@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The hepatic parenchyma appears within normal limits. Contour of the liver is smooth with no focal liver mass. Minimal intrahepatic biliary dilation noted. A stone is identified either within the gallbladder neck or the common hepatic duct. A large stone within the gallbladder lumen measurements at 1.8 cm associated with gallbladder wall thickening and sludge. No pericholecystic fluid. Normal echogenicity of spleen. No evidence of masses, stones, or hydronephrosis in the kidneys. Visualized portions of aorta and IVC are within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

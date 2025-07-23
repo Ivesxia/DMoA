@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Lung bases are clear. The liver demonstrates homogenous attenuation, no evidence of focal lesions or biliary dilatation. The gallbladder is unremarkable. The pancreas has normal attenuation, no evidence of focal lesions or ductal dilatation. The spleen is normal. The kidneys are normal in size with no hydronephrosis. The appendix is slightly dilated to approximately 7 mm (previously 4 mm) with surrounding inflammatory stranding and mild hyperemia. No drainable fluid collection or free peritoneal air. No evidence of lymphadenopathy. No abdominal aortic aneurysm. Left L5 spondylolysis incidentally noted.",
+            "changes_over_time": "Appendix dilated from 4 mm to 7 mm."
+        }
+    ]
+}

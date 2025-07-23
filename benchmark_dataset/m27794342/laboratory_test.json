@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "In the right lower quadrant, there is evidence for appendicitis, with an appendicolith located at the neck of the appendix and with dilation of the appendix to 14 mm. There is periappendiceal stranding, with a prominent adjacent 8-mm lymph node. No drainable fluid collection or free air is seen within the pelvis. The liver, gallbladder, spleen, pancreas, adrenal glands, left kidney, both ureters appear normal. Tiny 3 mm hypodensity in the lower pole of the right kidney is too small to accurately characterize but likely represents a tiny cyst.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Test",
+            "date": "Not specified",
+            "findings": "1.0 mmol/L (within normal range 0.5-2.0).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

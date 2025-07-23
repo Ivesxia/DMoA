@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2 °F",
+                "pulse": "67 bpm",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on RA",
+                "date_of_vital_signs": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Well appearing male, appears younger than his stated age. Well nourished. Well groomed. Alert speaks in full sentences.",
+                "HEENT": "NC/AT, PERRL, EOMI without nystagmus, no scleral icterus noted, MMM, no lesions noted in OP.",
+                "neck": "Supple, no JVD or carotid bruits appreciated.",
+                "pulmonary": "Lungs CTA bilaterally without R/R/W.",
+                "cardiac": "RRR, normal S1S2, no M/R/G noted.",
+                "abdomen": "Soft, mild RLQ tenderness, normoactive bowel sounds.",
+                "extremities": "No C/C/E bilaterally, 2+ radial, DP and ___ pulses b/l.",
+                "lymphatics": "No cervical lymphadenopathy noted.",
+                "skin": "No rashes or lesions noted. No pressure ulcer.",
+                "neurologic": "Alert, oriented x 3. Cranial nerves II-XII intact. Normal bulk, strength, and tone throughout. No abnormal movements noted. No deficits to light touch throughout."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

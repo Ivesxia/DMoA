@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8 °F",
+                "blood_pressure": "134/80 mmHg",
+                "heart_rate": "55 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% on 2L NC"
+            },
+            "relevant_findings": {
+                "general": "Resting in bed, NAD",
+                "skin": "Slightly jaundiced",
+                "HEENT": "NCAT, no sublingual jaundice",
+                "neck": "Supple",
+                "cardiac": "III/VI SEM, RRR",
+                "pulmonary": "CTAB, no c/w/r",
+                "abdominal": "Hypoactive BS throughout, several visible veins over abdomen, no caput, abdomen is distended with bulging flanks, diffuse TTP worse in RUQ, no rebound or guarding",
+                "extremities": "WWP, no c/c/e",
+                "neurological": "Grossly intact, oriented to person and place, did not assess time"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

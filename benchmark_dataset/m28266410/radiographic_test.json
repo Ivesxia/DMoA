@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "More or less unchanged from prior examination with small bilateral pleural effusions and no evidence of pneumonia.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

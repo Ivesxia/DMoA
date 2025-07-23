@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Gallbladder appears distended with a small amount of perihepatic free fluid. Subtle hyperemia of the adjacent hepatic parenchyma is noted. Main portal vein is patent. No concerning liver lesions. No intrahepatic or extrahepatic biliary ductal dilation. The spleen, pancreas, adrenals, and kidneys appear normal. No retroperitoneal or mesenteric adenopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mixed Bacterial Flora Test",
+            "date": "Not specified",
+            "findings": "9.3 mg/dL, Mixed bacterial flora (>= 3 colony types), consistent with skin and/or genital contamination.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

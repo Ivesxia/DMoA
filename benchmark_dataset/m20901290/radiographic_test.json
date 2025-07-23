@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Large bilateral pleural effusions of low density slightly increased; adjacent atelectasis in the lower lobes bilaterally more marked; focal calcifications along the left hemidiaphragm unchanged; renal calcifications likely vascular; filling defect in the distal esophagus likely a pill; distended appendix with periappendiceal stranding and inflammation; a couple of small organized fluid collections in the right lower quadrant, largest measuring 1.8 x 2.3 cm.",
+            "changes_over_time": "Degree of distention of the proximal small bowel has decreased; filling defect in the distal esophagus likely represents a pill; right-sided fluid-containing inguinal hernia decreased in size and no longer containing gas; organized fluid collections in the right lower quadrant minimally decreased from previous examination."
+        }
+    ]
+}

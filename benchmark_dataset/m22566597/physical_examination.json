@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3",
+                "heart_rate": "120",
+                "blood_pressure": "120/64",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, no acute distress",
+                "HEENT": "Sclera anicteric, MMM, oropharynx clear",
+                "Neck": "Supple, JVP not elevated, no LAD, 1 cm firm, non-mobile mass near base of right SCM muscle",
+                "Lungs": "Clear to auscultation bilaterally, no wheezes, rales, ronchi",
+                "CV": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+                "Abdomen": "Soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly",
+                "Ext": "Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema",
+                "Skin": "No rashes or other lesions",
+                "Neuro": "No focal deficits"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "heart_rate": "Not specified",
+                "blood_pressure": "136/73",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": "Patient is lying in bed and appears comfortable. He states that he has been pain-free and has not had any nausea since receiving IV morphine.",
+            "changes_over_time": "Worsening pain and nausea before receiving IV morphine, which resolved post-administration."
+        }
+    ]
+}

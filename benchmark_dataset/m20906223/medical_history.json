@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Worsening abdominal pain",
+        "history_of_present_illness": "The abdominal pain started as sharp and has progressively worsened over the prior days, with severe intensity and has led to the patient not sleeping for the past 36 hours. The pain is band-like across the upper abdomen and is worst in a specified area with relief from sitting up. Additionally, the patient has experienced constipation during this time.",
+        "past_medical_history": "Hypertension, diverticulitis, osteoarthritis, mitral valve insufficiency, coronary artery disease status post Cypher stent x2, Schatski's ring, chronic constipation.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

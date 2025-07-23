@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "149.0 IU/L (within normal range: 94.0 - 250.0 IU/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Small nodule in the left lower lobe (3 mm), small calcified granuloma at right lung base, small hypoattenuating lesion in liver (15 mm likely benign hemangioma), common hepatic duct dilated (12 mm), mildly distended gall bladder with stones and irregular wall thickening, no dilated pancreatic duct, normal spleen, no stones or masses in kidneys.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

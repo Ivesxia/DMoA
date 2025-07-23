@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRSA culture",
+            "date": "Not specified",
+            "findings": "No MRSA isolated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid Stimulating Hormone (TSH)",
+            "date": "Not specified",
+            "findings": "0.27 uIU/mL (within normal range of 0.27 to 4.2 uIU/mL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

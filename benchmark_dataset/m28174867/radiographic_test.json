@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Dependent atelectasis at lung bases; the appendix is hyper-enhancing, dilated (up to 10 mm) with fluid and adjacent stranding indicating acute uncomplicated appendicitis. No intra-abdominal free air, free fluid, or lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

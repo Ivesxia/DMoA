@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "heart_rate": "86 bpm",
+                "blood_pressure": "136/89 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "Patient awake, alert, oriented and interacting appropriately.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, rubs, or gallops.",
+                "lungs": "Clear to auscultation bilaterally.",
+                "abdominal": "Soft, nontender to palpation except slight tenderness in right upper quadrant, minimal. No organomegaly.",
+                "hernia": "3cm easily reducible nontender umbilical hernia.",
+                "incisions": "Clean, dry, intact."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

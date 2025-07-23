@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Feces C. difficile toxin A & B by EIA",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "The examination is significantly limited by extensive overlying soft tissues. No gross intrahepatic biliary ductal dilatation seen. Diffusely increased hepatic echogenicity. The proximal common duct is not visualized. Limited visualization of the pancreas. Spleen is grossly within normal limits, measuring 12.0 cm. Gallbladder is not well seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

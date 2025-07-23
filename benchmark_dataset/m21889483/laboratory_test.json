@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The extrahepatic bile ducts are markedly dilated with the common bile duct measuring up to 16 mm. The central intrahepatic ducts are moderately dilated, however, the peripheral intrahepatic ducts are normal in caliber. There is no evidence of choledocholithiasis or obstructing periampullary mass. The pancreatic duct is normal in caliber. There are multiple small non-enhancing cystic lesions of the pancreatic body and tail, the largest measuring 12 x 6 mm. A second lesion measures 8 x 6 mm. There are numerous tiny subcentimeter lesions of the liver consistent with biliary hamartomas or cysts. No concerning hepatic lesion. There is no ascites. Multiple bilateral renal cysts, including a cyst with hyperintense material consistent with proteinaceous content such as hemorrhage. The spleen, adrenal glands, stomach, loops of bowel are unremarkable. Degenerative changes of the spine are noted.",
+            "changes_over_time": "These findings are not significantly changed from previous ERCP or MR abdomen."
+        },
+        {
+            "procedure_name": "Liver Function Test (possible indicator from findings)",
+            "date": "Not specified",
+            "findings": "65.0 IU/L, which is within the normal range (0.0 - 100.0 IU/L).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

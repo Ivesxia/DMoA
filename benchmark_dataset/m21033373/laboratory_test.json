@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Values at 8.3 mg/dL. Reference range is 8.4 - 10.3 mg/dL. This result is outside the normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "The heart is normal in size. The lungs appear clear. No pleural effusions or pneumothorax. No evidence for free air. Findings of mildly enlarged lymph nodes or slightly prominent central pulmonary vessels.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

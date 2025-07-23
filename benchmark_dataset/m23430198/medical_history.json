@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric pain radiating to the back.",
+        "history_of_present_illness": "Pain started 1 week ago and has progressively worsened. Patient has experienced nausea without vomiting during this period. No changes in bowel habits or unusual stools.",
+        "past_medical_history": "Alcohol abuse, hypertension (HTN), gastroesophageal reflux disease (GERD).",
+        "family_history": "No family history of pancreatic problems or malignancy. Parents believed to be healthy.",
+        "social_history": "Patient consumes approximately 24 oz of alcohol per day and denies recent hard alcohol consumption."
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9°F",
+                "heart_rate": "92 bpm",
+                "blood_pressure": "126/92 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "95% on room air"
+            },
+            "relevant_findings": {
+                "general": "Laying in bed in mild distress, alert and oriented times three.",
+                "HEENT": "Pupil equal, round, reactive to light; extraocular movements intact; no facial droop; tongue is midline.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, rubs or gallops; normal S1 and S2.",
+                "pulmonary": "Clear to auscultation bilaterally; no respiratory distress.",
+                "abdominal": "Soft, non-distended, negative sign, right lower quadrant tenderness with some rebound tenderness, moderate guarding, no signs of diffuse peritonitis.",
+                "extremities": "Moving all extremities, no edema, normal muscle tone."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

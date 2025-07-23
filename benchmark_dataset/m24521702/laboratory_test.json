@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood glucose",
+            "date": "Not specified",
+            "findings": "Blood sugar at 299 mg/dL, which is outside normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Viral culture",
+            "date": "Not specified",
+            "findings": "VIRIDANS STREPTOCOCCI, ENTEROBACTER CLOACAE COMPLEX, value 1.5 uIU/mL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Endotracheal tube tip is low lying, heart size moderately enlarged, worsening pulmonary edema, mild to moderate, with probable small bilateral pleural effusions. Unchanged mediastinal widening.",
+            "changes_over_time": "Worsening pulmonary edema now mild to moderate in extent."
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Gram Stain",
+            "date": "Not specified",
+            "findings": "Negative for bacterial vaginosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Mild, dependent atelectasis. No pleural or pericardial effusion.",
+                "liver": "The liver demonstrates homogenous attenuation throughout. Subtle hypodensity within the left hepatic lobe may be perfusional.",
+                "gallbladder": "Within normal limits.",
+                "pancreas": "Normal attenuation throughout, without evidence of focal lesions or pancreatic ductal dilatation.",
+                "spleen": "Normal size and attenuation throughout.",
+                "adrenals": "Normal in size and shape.",
+                "kidneys": "Normal and symmetric size with normal nephrogram. No evidence of solid renal lesions or hydronephrosis.",
+                "stomach": "Unremarkable.",
+                "small_bowel": "Demonstrate normal caliber, wall thickness, and enhancement throughout.",
+                "colon": "Colonic diverticulosis, without evidence of acute diverticulitis.",
+                "appendix": "Mildly dilated to approximately 7-8 mm, with subtle adjacent periappendiceal fat stranding and mild hyperemia of the wall.",
+                "nodes": "Multiple mildly enlarged, likely reactive nodes in the right lower quadrant along the ileocolic vessels, measuring up to 8 mm short axis.",
+                "pelvis": "Bladder decompressed, limiting evaluation. No free fluid in the pelvis.",
+                "reproductive_organs": "Fibroid uterus. An IUD is in place. No adnexal masses.",
+                "lymph_nodes": "No retroperitoneal or mesenteric lymphadenopathy.",
+                "vascular": "No abdominal aortic aneurysm. No atherosclerotic disease seen.",
+                "bones": "No evidence of worrisome osseous lesions or acute fracture.",
+                "soft_tissues": "Abdominal and pelvic wall is within normal limits."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

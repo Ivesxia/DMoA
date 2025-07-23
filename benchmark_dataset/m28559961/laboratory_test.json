@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase of 600 (elevated, normal range not provided)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver shows an 8x8x7 mm echogenic focus suggestive of a hemangioma. No intrahepatic biliary dilatation, gallbladder shows no stones, and the CBD measures 2 mm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

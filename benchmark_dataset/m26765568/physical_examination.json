@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "blood_pressure": "118/58 mmHg",
+                "heart_rate": "70 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": {
+                "general": "No acute distress.",
+                "HEENT": "Extraocular movements intact, mucous membranes moist, oral lesions negative.",
+                "pulmonary": "Clear to auscultation bilaterally.",
+                "cardiac": "Regular rate and rhythm, S1/S2 present, murmurs grossly absent.",
+                "abdominal": "Moderate tenderness to palpation in right upper quadrant and epigastric region, non-distended, bowel sounds positive.",
+                "extremities": "No clubbing, cyanosis, or edema.",
+                "neurological": "Cognitive alertness, non-focal neurological examination."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

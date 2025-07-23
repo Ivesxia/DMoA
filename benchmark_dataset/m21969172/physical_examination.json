@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "blood_pressure": "119/80 mmHg",
+                "heart_rate": "109 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "consciousness": "AAO x3",
+                "appearance": "NAD",
+                "general": "shaking/fidgeting",
+                "cardiac": "RRR, no MRG",
+                "respiratory": "CTA B/L",
+                "abdominal": "soft, tender in RUQ, no rebound"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

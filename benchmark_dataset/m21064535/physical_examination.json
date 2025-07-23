@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8F",
+                "heart_rate": "78 bpm",
+                "blood_pressure": "151/77 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on RA"
+            },
+            "relevant_findings": {
+                "general": "well-appearing in NAD, sitting upright for exam",
+                "HEENT": "normocephalic, sclera anicteric",
+                "pulmonary": "clear to auscultation bilaterally posteriorly, no wheezes / crackles / rhonchi. No accessory muscle use",
+                "cardiac": "normal S1, S2 without murmurs, rubs, or gallops",
+                "abdomen": "non-distended, soft, TTP in RLQ on deep palpation. No guarding or rebound tenderness. No pulsations or masses, no hepatosplenomegaly",
+                "extremities": "without cyanosis or erythema, no pitting edema",
+                "neurological": "no dysarthria, face symmetric",
+                "psychiatric": "appropriate affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

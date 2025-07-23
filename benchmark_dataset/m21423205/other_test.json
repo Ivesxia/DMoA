@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Pigtail placement",
+            "date": "Not specified",
+            "findings": "Mixed bacterial flora",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of abdomen",
+            "date": "Not specified",
+            "findings": "Well-circumscribed fluid collection measuring 2.7 x 3.1 cm with low-level internal echoes, and small amount of free fluid in the right lower quadrant.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

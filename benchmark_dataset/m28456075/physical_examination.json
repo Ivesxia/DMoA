@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "74 bpm",
+                "blood_pressure": "128/64 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "awake, alert, no acute distress",
+                "HEENT": "Normocephalic, atraumatic, extraocular movements intact, anicteric",
+                "heart": "Regular rate and rhythm, no murmurs or rubs",
+                "lungs": "Clear to auscultation bilaterally, normal excursion, no respiratory distress",
+                "abdomen": "Soft, mildly tender, nondistended. Incision appears clean, dry, and intact.",
+                "extremities": "Warm, well-perfused, no cyanosis, clubbing, or edema, tenderness present, 2+ bounding pulses"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

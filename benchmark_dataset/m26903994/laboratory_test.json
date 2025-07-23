@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic consistent with fatty infiltration. The gallbladder is only minimally distended. GB wall thickening may be the result of incomplete distension. There is no pericholecystic fluid. A 1.7 cm stone is seen in the neck of the gallbladder. Common bile duct measures 6 mm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cholecystitis culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

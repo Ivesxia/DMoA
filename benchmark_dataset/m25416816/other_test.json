@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Gram stain",
+            "date": "Not specified",
+            "findings": "GRAM NEGATIVE ROD(S).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic lysis of adhesions",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest port line placement",
+            "date": "Not specified",
+            "findings": "Right-sided PICC line with the distal lead tip in the distal right atrium; new left retrocardiac opacity; slight increase in bilateral pleural effusions; unchanged cardiomegaly; subcutaneous gas along the right chest wall.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

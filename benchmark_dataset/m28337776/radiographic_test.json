@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic with a smooth contour and no focal liver mass. The main portal vein is patent with hepatopetal flow and no ascites. No intrahepatic biliary dilation is observed. The common bile duct was not clearly visualized due to overlying bowel gas and shadowing from gallbladder stones. The gallbladder contains stones and has a thickened and edematous wall, measuring up to 9 mm. No hydronephrosis is seen in the right kidney.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "145 bpm",
+                "blood_pressure": "145/90 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "appearance": "alert, NAD",
+                "eyes": "EOMI, PERRL, anicteric",
+                "ENT": "OP clear, no lesions, no JVD, neck supple",
+                "cardiovascular": "+S1, S2, -m/r/g, 1+ peripheral edema, 2+ DP/PT bilaterally",
+                "pulmonary": "clear bilaterally",
+                "abdominal": "soft, + RUQ TTP, neg Murphy's, no rebound/guarding, +BS",
+                "musculoskeletal": "strength throughout, no joint swelling, no cyanosis or clubbing",
+                "neurological": "CN grossly intact, no focal deficits",
+                "skin": "no rashes",
+                "psychological": "appropriate, pleasant",
+                "hematological": "no cervical lymphadenopathy"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.0°F",
+                "heart_rate": "81 bpm",
+                "blood_pressure": "128/64 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "Laboratory data": {
+                    "lipase": "5556",
+                    "bilirubin": "normal",
+                    "AST": "447",
+                    "ALT": "294",
+                    "alkaline_phosphatase": "384"
+                },
+                "ultrasound": "RUQ ultrasound was limited study with distended gall bladder but no CBD dilatation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "High-density fluid in the pouch concerning for hemorrhagic fluid. No free air or pathologic lymphadenopathy. A large blind-ended tubular structure in the right lower quadrant measuring 17 mm in diameter, most likely the appendix. There is periappendiceal fat stranding. A 9-mm fecalith towards the infundibulum. Enlarged uterus with a 1.2 x 1.8 cm hypodensity likely representing an ovarian cyst. Otherwise, pelvic loops of bowel are normal with no free air.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for serum potassium",
+            "date": "Not specified",
+            "findings": "8.3 mg/dL (outside normal range of 8.4 - 10.2 mg/dL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbiology culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

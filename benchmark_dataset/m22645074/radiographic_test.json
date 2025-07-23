@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CTA CHEST W&W/O C&RECONS, NON-CORONARY",
+            "date": "Not specified",
+            "findings": "There is a dual lead pacemaker with leads in the right atrium and right ventricle. The main pulmonary artery measures 2.9 cm. No filling defects are demonstrated within the main pulmonary arteries, segmental or subsegmental branches. Mildly enlarged right prevascular lymph node measuring 11 mm. No hilar adenopathy. Trace right and small left pleural effusion. Bibasilar atelectasis. Mild interlobular septal thickening consistent with pulmonary edema. Peribronchial wall thickening in the lower lobes. Lobulated thickening of the left oblique fissure superiorly consistent with loculated fluid. Mild to moderate centrilobular emphysema. Heterogeneous lung attenuation consistent with air trapping. Small calcified granulomas in the apical posterior segment of the left upper lobe. No concerning osseous lesions.",
+            "changes_over_time": "Since the prior CT abdomen, the patient has developed a trace right and small left pleural effusion."
+        }
+    ]
+}

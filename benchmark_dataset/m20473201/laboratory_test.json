@@ -1,0 +1,38 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lower_chest": "Bibasilar atelectasis; no evidence of pleural or pericardial effusion.",
+                "abdomen": {
+                    "hepatobiliary": "Liver demonstrates homogenous attenuation; no focal lesions or biliary dilatation; gallbladder normal.",
+                    "pancreas": "Normal attenuation without focal lesions or pancreatic ductal dilatation; no peripancreatic stranding.",
+                    "spleen": "Normal size and attenuation without focal lesions.",
+                    "adrenals": "Normal in size and shape.",
+                    "urinary": "Kidneys normal and symmetric; no focal renal lesions or hydronephrosis.",
+                    "gastrointestinal": "Stomach unremarkable; small bowel loops normal; diverticulosis of colon present; appendix dilated to 12 mm with mild surrounding fat stranding; no extraluminal air.",
+                    "pelvis": "Urinary bladder and distal ureters unremarkable; trace free fluid in pelvis.",
+                    "reproductive_organs": "Uterus and bilateral adnexae within normal limits.",
+                    "lymph_nodes": "No retroperitoneal or mesenteric lymphadenopathy.",
+                    "vascular": "No abdominal aortic aneurysm; mild atherosclerotic disease noted.",
+                    "bones": "No evidence of worrisome osseous lesions or acute fracture.",
+                    "soft_tissues": "Umbilical hernia containing fat noted."
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "Results show < 10,000 CFU/mL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Basic Metabolic Panel",
+            "date": "Not specified",
+            "findings": "Results include valuestr_x of 7.5 mg/dL (likely reflecting some biochemical parameter).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

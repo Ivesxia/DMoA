@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Moderate-sized bilateral pleural effusions; adjacent lung base consolidation consistent with atelectasis. Liver, gallbladder, bile ducts, pancreas, spleen, adrenal glands, kidneys, and ureters normal. Irregular fluid-density collection in the right lower quadrant measuring 2.8 x 1.6 x 2.3 cm, increased size and development of enhancing walls since prior exam. Mild cecal inflammation with moderate adjacent soft tissue stranding. Several prominent mesenteric nodes likely reactive.",
+            "changes_over_time": "Interval increase in size of the irregular fluid-density collection and development of enhancing walls noted since prior exam."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

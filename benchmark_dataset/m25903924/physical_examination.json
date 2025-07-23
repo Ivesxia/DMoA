@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9°F",
+                "heart_rate": "102 bpm",
+                "blood_pressure": "143/72 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "pulse_oximetry": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Disheveled but very pleasant, no acute distress, resting comfortably in bed with occasional episodes of appearing uncomfortable",
+                "HEENT": "Clear OP, MMM",
+                "neck": "Supple, No LAD, No JVD",
+                "cardiovascular": "RR, NL rate. NL S1, S2. No murmurs, rubs or gallops",
+                "lungs": "CTA, BS ___, No W/R/C",
+                "abdominal": "Soft, NT, ND. NL BS. No HSM",
+                "extremities": "No edema. 2+ DP pulses ___",
+                "skin": "No lesions",
+                "neurological": "A&Ox3. Appropriate. CN ___ grossly intact. ___ strength throughout. Normal coordination. Gait assessment deferred",
+                "psychiatric": "Listens and responds to questions appropriately, pleasant"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "91 bpm",
+                "blood_pressure": "121/81 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "pulse_oximetry": "100% on room air"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

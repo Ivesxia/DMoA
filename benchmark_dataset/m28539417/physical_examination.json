@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "101.4°F",
+                "heart_rate": "83 bpm",
+                "blood_pressure": "136/86 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": "A&O x 3, RRR, CTA b/l +BS, NT, + guarding RUQ, negative rebound.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

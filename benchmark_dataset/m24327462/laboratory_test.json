@@ -1,0 +1,26 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory test results",
+            "date": "Not specified",
+            "findings": {
+                "test_1": {
+                    "name": "Result A",
+                    "value": "NO GROWTH.",
+                    "ref_range": "0.0 - 10.0"
+                },
+                "test_2": {
+                    "name": "Result B",
+                    "value": "3.0 ng/mL",
+                    "ref_range": "Not specified"
+                },
+                "test_3": {
+                    "name": "Result C",
+                    "value": "NO GROWTH.",
+                    "ref_range": "Not specified"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

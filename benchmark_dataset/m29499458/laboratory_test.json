@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level of 1836, which is elevated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ALT/AST",
+            "date": "Not specified",
+            "findings": "ALT 123 and AST 126, both elevated. Reference ranges are not specified.",
+            "changes_over_time": "Prior recent labs showed ALT/AST of 91/94."
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "Increased echogenicity indicating fatty deposition in the liver. No focal hepatic lesion, no bile duct dilatation, normal CBD of 4 mm, patent portal vein, incompletely distended gallbladder, no edema or fluid collection, pancreas obscured by bowel gas, no ascites.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

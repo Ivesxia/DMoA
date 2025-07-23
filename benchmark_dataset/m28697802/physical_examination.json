@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96",
+                "heart_rate": "100",
+                "blood_pressure": "135/86",
+                "respiratory_rate": "16",
+                "mental_status": "99 RA"
+            },
+            "relevant_findings": {
+                "general": "NAD",
+                "scleral_icturus": "No scleral icterus",
+                "cardiovascular": "RRR",
+                "respiratory": "CTAB",
+                "abdominal": "Soft, TTP RUQ with + Murphy's sign",
+                "edema": "No c/c/e"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

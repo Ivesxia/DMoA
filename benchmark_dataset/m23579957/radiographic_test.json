@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": "Incidentally noted is a right pleural effusion. The hepatic parenchyma appears within normal limits. A 2.5 x 1.5 cm rounded isoechoic mass along the inferior aspect of the right hepatic lobe. The main portal vein is patent with hepatopetal flow. No ascites. No intrahepatic biliary dilation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal transplant ultrasound",
+            "date": "Not specified",
+            "findings": "Interval progression of elevated transplant kidney resistive indices; little if any diastolic flow identified in the transplant kidney with resistive indices approaching 1. Main renal artery peak systolic velocity increasing, at 191 cm/s. No hydronephrosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

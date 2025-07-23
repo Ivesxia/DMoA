@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "White blood cell count of 16.3, hemoglobin of 9.4",
+            "changes_over_time": "WBC reduced to 9.9, hemoglobin decreased to 8.5"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Bilirubin of 2.7, AST 71, ALT 102, alkaline phosphatase 134",
+            "changes_over_time": "Bilirubin increased to 4.8, AST increased to 174, ALT increased to 163, alkaline phosphatase increased to 146"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase greater than 22,000",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Creatinine of 1.2",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Iron Studies",
+            "date": "Not specified",
+            "findings": "Valuestr: 36.0 ug/dL (ref range 30.0 - 160.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Common bile duct measures 7 mm, gallbladder wall thickening and intramural edema; no gallstones",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

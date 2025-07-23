@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is distended up to 8 mm with hyperemia of the wall and an appendicolith at the base. There is surrounding fluid. Peripherally enhancing hemorrhagic follicle seen in the right ovary. A small amount of free fluid seen in the pelvis. Other organs (liver, spleen, kidneys, adrenal glands, pancreas, gallbladder, stomach, and small bowel) are unremarkable.",
+            "changes_over_time": "Peripherally enhancing hemorrhagic follicle similar to prior ultrasound."
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

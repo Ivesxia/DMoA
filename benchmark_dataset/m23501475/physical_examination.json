@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.0 °F",
+                "heart_rate": "75 bpm",
+                "blood_pressure": "149/76 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "no distress, alert and oriented x 3, no jaundice",
+                "HEENT": "PERLA, EOMI, anicteric sclera, mucus membranes moist",
+                "chest": "RRR, lungs clear",
+                "abdominal": "soft, nondistended, tenderness to palpation in epigastrium, no rebound or guarding, no incisions or hernias",
+                "rectal": "guaiac",
+                "extremities": "warm, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

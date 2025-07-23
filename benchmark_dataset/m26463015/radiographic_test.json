@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated, measuring up to 14 mm in diameter, with periappendiceal edema and inflammatory change. No fluid collection or abscess identified. The lung bases are clear. No pleural or pericardial effusion. Homogeneous signal of the liver, pancreas, and renal system. No splenomegaly or retroperitoneal/mesenteric adenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

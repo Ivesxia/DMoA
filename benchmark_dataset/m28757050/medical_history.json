@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient reports his pain began on ___ and he lost his appetite. He last had a bottle of alcohol on ___ evening. On ___, he endorsed feeling shaky and having 'sweats.' He presented to ___ Urgent Care with abdominal pain, received 2 L of IV NS, and then went to the ER after a lipase result of 2305. He began having shooting pain in his abdomen on ___. Currently complaints of pain ___ in abdomen.",
+        "past_medical_history": "Hypertension, hyperlipidemia, BPH, history of alcohol abuse, GERD, pancreatic pseudocyst, osteoarthritis, rotator cuff tear repair, tendon rupture (nontraumatic, biceps, long head), hemochromatosis carrier, obstructive sleep apnea, sciatica, rhabdomyolysis.",
+        "family_history": "Father: fell in his ___ with hemorrhage; Mother: passed away at ___ with ruptured aortic aneurysm; Sister: overweight, hyperlipidemia.",
+        "social_history": "History of alcohol abuse."
+    }
+}

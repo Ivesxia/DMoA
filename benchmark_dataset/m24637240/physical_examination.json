@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4F",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "126/66 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "Awake, alert, oriented x 3.",
+                "HEENT": "Normocephalic, extraocular movements intact, anicteric.",
+                "heart": "Regular rate and rhythm, no murmurs or rubs.",
+                "lungs": "Clear to auscultation bilaterally, normal excursion, no respiratory distress.",
+                "chest": "Non-tender, no deformities.",
+                "back": "No costovertebral angle tenderness, no vertebral tenderness.",
+                "abdomen": "Soft, non-distended, mildly tender to palpation diffusely but mostly at bilateral lower quadrants, left greater than right. No hernias or masses.",
+                "pelvis": "Normal tone, soft stool in vault, no gross or occult blood.",
+                "extremities": "Warm, well-perfused, no clubbing, cyanosis, or edema."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

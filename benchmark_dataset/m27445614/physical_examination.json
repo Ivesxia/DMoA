@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.7°F",
+                "heart_rate": "79 bpm",
+                "blood_pressure": "124/69 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "general": "Comfortable; well-appearing",
+                "HEENT": "Normocephalic, atraumatic, oropharynx within normal limits",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular rate and rhythm",
+                "abdominal": "Soft, +RUQ tenderness to palpation",
+                "extremities_back": "No cyanosis, clubbing or edema",
+                "skin": "Warm and dry",
+                "neurological": "Speech fluent",
+                "psychological": "Normal mood, normal mentation"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "ultrasound": {
+                    "gallbladder": "Markedly abnormal with extensive mural edema and a focal fluid collection between gallbladder and liver (2.2 x 1.4 cm), suggestive of a perforation with small subhepatic/pericholecystic collection",
+                    "common_hepatic_duct": "6 mm",
+                    "hepatic_echotexture": "Within normal limits",
+                    "lumen_distention": "Increased slightly compared to previous examination"
+                }
+            },
+            "changes_over_time": "The degree of distention has increased slightly since the previous examination."
+        }
+    ]
+}

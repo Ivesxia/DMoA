@@ -1,0 +1,18 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "general": "A&O, NAD",
+                "HEENT": "No scleral icterus",
+                "cardiovascular": "RRR, No M/G/R",
+                "pulmonary": "Clear to auscultation b/l",
+                "abdomen": "Soft, mildy distended, nontender, no rebound or guarding, normoactive bowel sounds, no palpable masses",
+                "dressing": "Clean, dry, intact",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

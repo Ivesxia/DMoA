@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "blood_pressure": "126/62 mmHg",
+                "heart_rate": "72 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% RA",
+                "glucose": "199 mg/dL"
+            },
+            "relevant_findings": {
+                "general": "Delightful elderly female, alert, interactive, hard of hearing, comfortable, no acute distress.",
+                "heent": "PERRL, anicteric, conjunctiva pink, oropharynx without lesion or exudate, moist mucus membranes.",
+                "lymph": "No anterior/posterior cervical, supraclavicular adenopathy.",
+                "cardiovascular": "Irregularly irregular without murmurs, rubs, or gallops, JVP is 10 cm H20.",
+                "lungs": "Clear to auscultation bilaterally without rhonchi, wheezes, or crackles.",
+                "gi": "Soft, nontender, without rebounding or guarding, non-distended with normal active bowel sounds, no hepatomegaly.",
+                "extremities": "Trace pitting edema bilaterally, no clubbing or cyanosis.",
+                "gu": "No foley.",
+                "skin": "Fungal rash beneath bilateral breasts.",
+                "neuro": "Alert and oriented, moving all extremities spontaneously, face symmetric.",
+                "psych": "Normal mood and affect."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

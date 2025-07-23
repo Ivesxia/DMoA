@@ -1,0 +1,18 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "General": "Obese, alert, no acute distress",
+                "HEENT": "Sclera anicteric, MMM, oropharynx clear",
+                "Neck": "Supple, JVP not elevated, no LAD",
+                "Lungs": "Clear to auscultation bilaterally, no wheezes, rales, ronchi",
+                "CV": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+                "Abdomen": "Hepatomegaly. RUQ abd pain, no rebound",
+                "Extremities": "Warm, well perfused, 2+ pulses, 1+ pedal edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

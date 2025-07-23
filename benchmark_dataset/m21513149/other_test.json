@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "No abnormal findings specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Intraoperative cholangiogram",
+            "date": "Not specified",
+            "findings": "No salmonella or shigella found.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "US NECK, SOFT TISSUE",
+            "date": "Not specified",
+            "findings": "At the site of the palpable lesion, there is a tortuous loop of the internal carotid artery. No aneurysm or other vascular abnormality is seen in the visualized carotid artery.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

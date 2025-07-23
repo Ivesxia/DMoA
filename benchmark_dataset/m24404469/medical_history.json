@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Ongoing back pain and abdominal pain following recent mechanical fall.",
+        "history_of_present_illness": "The patient experienced a mechanical fall 2 days ago, leading to increasing low back pain and abdominal pain since that time. The abdominal pain is reported to be diffuse and is associated with nausea. The patient also has a history of intermittent epigastric pain for ___ years, with episodes lasting seconds and resolving. Additionally, the patient has experienced diarrhea that has improved over time.",
+        "past_medical_history": "CAD - history of MI ___ years ago; Hyperlipidemia; Hypertension; s/p cholecystectomy; s/p removal of benign ovarian cyst.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Echogenic liver consistent with steatosis. No focal hepatic mass. Normal gallbladder and no biliary ductal dilation. No obvious pleural effusions.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "No pleural effusion or focal pneumonia.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

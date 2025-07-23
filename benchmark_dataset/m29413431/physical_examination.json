@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2 F",
+                "heart_rate": "70 bpm",
+                "blood_pressure": "125/79 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, laying in bed comfortably, speaking with trach",
+                "HEENT": "No JVD",
+                "cardiovascular": "RRR, S1 and S2, no m/r/g",
+                "pulmonary": "Bibasilar fine crackles, otherwise CTAB",
+                "abdominal": "BS+, soft, tender to palpation diffusely, worst in epigastrium, nondistended, no rebound tenderness",
+                "extremities": "Bilateral pitting edema to knee",
+                "skin": "No eruptions",
+                "neurological": "A&Ox3, grossly intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "Normal heart, lungs, pleural and mediastinal surfaces. The patient did not take a deep inspiration on the lateral view.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

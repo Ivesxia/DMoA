@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "heart_rate": "92 bpm",
+                "blood_pressure": "96/39 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "93% on room air"
+            },
+            "relevant_findings": {
+                "general": "Patient in no acute distress, comfortable, and appropriate",
+                "HEENT": "Normocephalic, atraumatic, pupils equal, round, responsive to light and accommodation, extraocular movements intact, sclerae anicteric, moist mucous membranes, oropharynx clear",
+                "neck": "Supple",
+                "lungs": "Clear to auscultation bilaterally, no rales, rhonchi, or wheezing, good air movement, respiratory effort unlabored, no use of accessory muscles",
+                "heart": "Point of maximal impulse non-displaced, regular rate and rhythm, no murmurs, rubs, or gallops, normal S1 and S2",
+                "abdomen": "Obese, non-tender bowel sounds present, soft, tenderness to palpation in the left lower quadrant and inferior to umbilicus, no masses or hepatosplenomegaly, no rebound tenderness or guarding",
+                "extremities": "Warm, well-perfused, no cyanosis, clubbing, or edema, 2+ peripheral pulses (radials, dorsalis pedis), left second digit with ulceration at the tip without surrounding erythema or appreciable drainage",
+                "skin": "No rashes or lesions",
+                "neurological": "Awake, alert and oriented to person, place, and time, cranial nerves II-XII grossly intact, muscle strength intact throughout, sensation intact generally with exception of lack of sensation below the knees bilaterally due to neuropathy"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "121/74 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "96%"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

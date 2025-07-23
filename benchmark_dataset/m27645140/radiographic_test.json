@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Lung volumes are low. The tip of the endotracheal tube is approximately 1 cm from the carina. The right internal jugular central venous catheter remains in good position. New NGT in satisfactory position. The remainder of the chest is stable since very recent comparison. Clips are noted in the right upper quadrant consistent with previous cholecystectomy.",
+            "changes_over_time": "The remainder of the chest is stable since very recent comparison."
+        }
+    ]
+}

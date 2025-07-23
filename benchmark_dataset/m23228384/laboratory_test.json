@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level: 2731 U/L (no reference range provided, but typically elevated in pancreatitis).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Ultrasound",
+            "date": "Not specified",
+            "findings": "A 9 x 5 x 8 mm hemangioma in the left hepatic lobe (unchanged from prior exam). No new focal lesions or textural abnormality in the liver. No signs of ascites or biliary dilatation. CBD measures 3 mm. Gallbladder collapsed with stones. Pancreas unremarkable.",
+            "changes_over_time": "Hemangioma unchanged from prior exam."
+        }
+    ]
+}

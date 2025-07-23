@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.4 °F",
+                "heart_rate": "114 bpm",
+                "blood_pressure": "128/86 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and oriented, well-appearing",
+                "HEENT": "Normocephalic, atraumatic, pupils equal, round, reactive to light, sclera anicteric",
+                "cardiac": "Regular rate and rhythm, no murmurs/rubs/gallops",
+                "pulmonary": "Clear to auscultation bilaterally",
+                "abdominal": "Soft, non-distended, right lower quadrant tenderness upon light palpation, maximal tenderness from anterior superior iliac spine to umbilicus, diffuse rebound tenderness noted, no guarding, obturator sign negative, Rovsing's sign and Psoas sign positive",
+                "extremities": "Distal pulses palpable"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

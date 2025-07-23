@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Test for CKD",
+            "date": "Not specified",
+            "findings": "3.0 ng/mL (reference range: 0.0 - 10.0 ng/mL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Decreased lung volumes, moderate cardiomegaly, borderline diameter of the azygos vein, increased vascular diameters, bilateral perihilar haze, increased interstitial fluid indicating moderate pulmonary edema, minimal bilateral pleural effusions, no evident pneumonia.",
+            "changes_over_time": "Findings compared to previous radiograph indicate lung volume decrease and development of moderate pulmonary edema."
+        }
+    ]
+}

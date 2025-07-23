@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Gallstones are in the gallbladder. Nonmobile echogenic structures on the gallbladder wall without internal vascularity likely reflect adherent sludge. Moderate to severe right hydronephrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Basic laboratory work",
+            "date": "Not specified",
+            "findings": "Mild leukocytosis to 11.8, plts of 148, Cr of 0.3, AST 26, ALT 15, Tbili 0.6, Amylase 56.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory tests for prior admission",
+            "date": "Not specified",
+            "findings": "ALT was 15, AST 19, Plts 144, Cr 0.4.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

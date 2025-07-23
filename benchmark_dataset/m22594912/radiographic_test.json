@@ -1,0 +1,28 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Limited evaluation of the hepatic parenchyma; the gallbladder has been resected; a small fluid collection in the gallbladder fossa containing debris, approximately 5 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RUQ Ultrasound",
+            "date": "Not specified",
+            "findings": "Normal appearing liver with no evidence of intra or extrahepatic biliary ductal dilatation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Tib/Fib AP & Lat",
+            "date": "Not specified",
+            "findings": "No osteolytic or blastic bone lesions; mild periosteal thickening along the fibula; diffuse soft tissue swelling with multiple phleboliths.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest PA and LAT",
+            "date": "Not specified",
+            "findings": "No acute cardiopulmonary process.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain.",
+        "history_of_present_illness": "The patient was in his usual state of health until yesterday morning when he awoke with severe pain in his solar plexus. The pain is constant and dull in nature, radiating to his back. He trialed ibuprofen 600 mg the previous evening, which provided brief relief, but he awoke around midnight with a resurgence of pain worse than prior. The pain persisted throughout early morning, prompting him to seek medical attention. He consumed a large steak dinner, one glass of red wine, and two to three shots of cognac the evening before the onset.",
+        "past_medical_history": "Remote history of recurrent pericarditis, gout diagnosed one year ago, tularemia, babesiosis, and appendectomy.",
+        "family_history": "Maternal history of intracranial aneurysm; paternal history of kidney disease (unspecified), bladder cancer, and prostate cancer; maternal grandfather history of abdominal aortic aneurysm.",
+        "social_history": "Not specified."
+    }
+}

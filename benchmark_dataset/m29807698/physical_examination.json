@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7",
+                "heart_rate": "74",
+                "blood_pressure": "122/67",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "100"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "oropharynx": "within normal limits",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm, Normal first and second heart sounds",
+                "abdominal": "Soft, significant tenderness to palpation in the right lower quadrant, positive Rovsing's, no rebound or guarding, not rigid",
+                "GU/flank": "No costovertebral angle tenderness",
+                "extremities/back": "No cyanosis, clubbing or edema",
+                "skin": "No rash, Warm and dry",
+                "neurological": "Speech fluent",
+                "psychological": "Normal mentation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Severe inflammation of the sigmoid colon with mucosal hyperemia, adjacent fat stranding, and wall thickening. An adjacent lobulated fluid collection measures 4.4 x 3.6 x 3.5 cm, concerning for an abscess.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis (Escherichia coli identification)",
+            "date": "Not specified",
+            "findings": "Escherichia coli identified, reference range: 8.4 - 10.3",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

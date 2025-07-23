@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Esophagogastroduodenoscopy [EGD] with closed biopsy",
+            "date": "Not specified",
+            "findings": "NO CRYPTOSPORIDIUM OR GIARDIA SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endotracheal Tube Placement",
+            "date": "Not specified",
+            "findings": "The tip of the endotracheal tube is approximately 1 cm from the carina.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Central Venous Catheter Placement",
+            "date": "Not specified",
+            "findings": "The right internal jugular central venous catheter remains in good position.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Nasogastric Tube (NGT) Placement",
+            "date": "Not specified",
+            "findings": "New NGT in satisfactory position.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

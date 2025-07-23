@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic with a smooth contour and no focal liver mass. The main portal vein is patent with hepatopetal flow, and no ascites is present. The bile ducts show no intrahepatic biliary dilation, and the common hepatic duct measures 5 mm. The gallbladder is filled with sludge and stones which are mobile. The pancreas is not well visualized. Limited views of the right kidney show no hydronephrosis. The visualized portions of the aorta and IVC are within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0 F",
+                "heart_rate": "76 bpm",
+                "blood_pressure": "126/76 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "96% on room air",
+                "recorded_date": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Resting comfortably in bed, no apparent distress.",
+                "skin": "Ecchymosis over left femoral distribution, purple in color. Non-tender to palpation. Keratinic lesion consistent with cutaneous horn over mid-sternum.",
+                "pulmonary": "Mild end-expiratory wheezes throughout. Moderate air-movement, improving. No clear crackles.",
+                "cardiovascular": "JVP 9-10 cm. Irregularly irregular rhythm. Distant heart sounds. Normal S1, S2. No murmurs.",
+                "abdominal": "Bowel sounds quiet but present. Mild distension. Non-tender. Plethoric soft tissue. No clear organomegaly.",
+                "extremities": "Radial pulses 2+. Excision site dressed on left shin. Healing well with good granulation tissue, fibrinous exudate, no erythema or purulence. Hyperpigmentation over shins bilaterally. 1+ pitting edema of the left foot. Capillary refill within normal range.",
+                "neurological": "Grossly intact without focality. Able to stand independently.",
+                "drains_tubes": "PICC site: No significant hematoma, tenderness, or fresh bleeding. Foley: Draining yellow urine, non-cloudy."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

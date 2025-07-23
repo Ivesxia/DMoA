@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Atelectasis and a small right pleural effusion is seen at the right lung base. The left kidney demonstrates nonobstructing calculi in its lower pole (largest measures 8 mm). There is a colostomy within the left lower quadrant. The upstream bowel appears unremarkable. There is a small amount of free fluid within the small bowel mesentery. Persistent inflammatory stranding within the pelvis, most marked surrounding the rectosigmoid stump and adjacent regional small bowel loops. The rectum contains contrast material intermixed with stool. There is fluid in the rectovesical pouch, but no drainable abscess or fluid collection. The bladder contains air, and no fistulous communication between the bladder and adjacent bowel is detected.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

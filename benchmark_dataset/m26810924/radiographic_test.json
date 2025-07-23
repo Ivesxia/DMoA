@@ -1,0 +1,15 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "liver": "The echogenicity of the liver is echogenic with focal fatty sparing around the gallbladder fossa. The contour of the liver is smooth. There is no focal liver mass. Main portal vein is patent with hepatopetal flow. There is no ascites.",
+                "bile_ducts": "There is no intrahepatic biliary dilation. The CBD measures 4 mm.",
+                "gallbladder": "Cholelithiasis without gallbladder wall thickening. Sonographic Murphy's sign was negative.",
+                "pancreas": "The pancreas is not well visualized due to overlying bowel gas."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

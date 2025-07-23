@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated, hyperemic with thickened walls, and measures 10 mm in diameter. There is extensive surrounding fat stranding as well as thickening of the right lateral conal fascia. There is small amount of free fluid in the right lower quadrant, but no organized collection or abscess seen. There is no evidence of appendiceal perforation. Several prominent mesenteric nodes are noted, which are likely reactive in nature.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gram Stain",
+            "date": "Not specified",
+            "findings": "GRAM NEGATIVE ROD(S).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

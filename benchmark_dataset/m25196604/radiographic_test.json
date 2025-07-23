@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The lung bases demonstrate minimal dependent hypoventilatory change. An 11 mm hypodense lesion at the periphery of the left lobe of the liver is too small to characterize. No additional focal hepatic abnormality is identified. Hypoattenuating lesions within the kidneys bilaterally are too small to characterize, but statistically most likely represent cysts. The small bowel and colon are normal in caliber. Mesenteric and retroperitoneal lymph nodes are not enlarged. The abdominal aorta is normal in caliber. A segment of descending colon measuring approximately 10 cm demonstrates wall thickening and surrounding fat stranding, consistent with diverticulitis. There are colonic diverticulae. A rounded 2.4 cm hyperattenuating mass within the fundus of the uterus is most likely a fibroid. No free pelvic fluid. Adnexa are unremarkable. No lymphadenopathy within the pelvis. Multilevel degenerative changes are present, with vacuum disc changes at L4-5 and L5-S1. No suspicious lytic or blastic osseous lesion is identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

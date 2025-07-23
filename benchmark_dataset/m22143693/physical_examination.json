@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "heart_rate": "94 bpm",
+                "blood_pressure": "108/64 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "mildly anxious, no acute distress, alert and oriented x3",
+                "cardiovascular": "regular rate and rhythm, S1S2 present",
+                "pulmonary": "no respiratory distress",
+                "abdominal": "slim, soft, tenderness to palpation in the infraumbilical midline area with rebound tenderness, negative Rovsing's, Psoas, and Obturator signs"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver enhances homogeneously without focal lesions or intrahepatic biliary duct dilatation. The gallbladder is thin-walled without calcified gallstones. The main portal vein, splenic vein, and SMV are patent. The spleen is homogeneous and normal in size. The adrenal glands are unremarkable. There are no solid or cystic renal lesions. Bilateral symmetric nephrograms noted. There are bilateral extrarenal pelvises without evidence of hydronephrosis. No perinephric stranding or fluid collection. The stomach is decompressed and appears normal. The duodenum and small bowel are within normal limits without evidence of wall thickening, focal mass lesion, or obstruction. There is a 10.6-mm retrocecal, fluid filled, blind-ending tubular structure projecting off of the cecum with hyperenhancing walls, concerning for acute appendicitis. Small amount of adjacent free fluid with minimal fat stranding. No extraluminal air or abscess. The colon is within normal limits with a moderate fecal load in the rectum. The urinary bladder wall is mildly thickened and may be related to underdistension. No pelvic free fluid. No blastic or lytic lesions suspicious for malignancy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood test",
+            "date": "Not specified",
+            "findings": "1.2 mmol/L.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

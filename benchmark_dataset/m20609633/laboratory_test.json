@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendicular base is abnormal with dilation up to 14 mm; stones are present in the lumen of the appendix. Periappendiceal fat stranding is present without definite signs of perforation. No abscess. Mild fecal load in the large bowel. No bowel obstruction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Test",
+            "date": "Not specified",
+            "findings": "8.4 mg/dL (within normal range) with a reference range of 8.4 to 10.3 mg/dL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

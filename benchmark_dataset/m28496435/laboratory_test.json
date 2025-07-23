@@ -1,0 +1,55 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "CT Abdomen": {
+                    "lung_bases": "clear except for dependent bibasilar atelectasis",
+                    "heart_size": "normal",
+                    "spleen": "within normal limits",
+                    "adrenal_glands": "within normal limits",
+                    "kidneys": "within normal limits",
+                    "pancreas": "within normal limits",
+                    "loops_of_bowel": "within normal limits",
+                    "stomach": "non-distended",
+                    "IVC": "prominent with mild periportal edema",
+                    "liver": "normal in appearance",
+                    "free_air": "none",
+                    "free_fluid": "none"
+                },
+                "CT Pelvis": {
+                    "appendix": "hyperenhancing and enlarged, measuring up to 15 mm, with proximal and mid portions fluid filled",
+                    "appendix_distal": "collapsed with surrounding fluid raising a question of microperforation",
+                    "rectum": "within normal limits",
+                    "bladder": "within normal limits",
+                    "uterus": "fibroid uterus",
+                    "left_adnexal_cyst": "2-cm noted, likely within the left ovary",
+                    "lymph_nodes": "no inguinal or pelvic lymph nodes"
+                },
+                "Bone Windows": "No concerning osseous lesions identified."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": {
+                "bacterial_growth": "NO GROWTH."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": {
+                "value": "0.9 mmol/L",
+                "reference_range": {
+                    "lower": 0.5,
+                    "upper": 2.0
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

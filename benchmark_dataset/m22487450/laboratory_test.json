@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is mildly dilated up to 8 mm, appears distended, is fluid-filled, and demonstrates a hyperenhancing wall. Mild fat stranding is also seen adjacent to the appendix. These findings are concerning for a possible early appendicitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Potassium Level",
+            "date": "Not specified",
+            "findings": "4.0 mEq/L (Normal range: 3.3 - 5.1 mEq/L, within normal limits)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated up to 12 mm with significant appendiceal fat stranding and multiple appendicoliths identified. The appendiceal wall is not clearly seen on multiple images and is hypoattenuating in areas. No evidence of free air in the abdomen or pelvis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION. Results: 1.8 mg/dL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "87 bpm",
+                "blood_pressure": "111/65 mmHg",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "NAD, appears uncomfortable",
+                "pulmonary": "CTAB bilaterally, good inspiratory effort",
+                "cardiovascular": "RRR",
+                "back": "mild CVA tenderness on the right side",
+                "abdomen": "soft, gravid, tenderness in LUQ that wraps around her ribs at the level T10-12, + epigastric pain, no g/d",
+                "extremities": "no c/c/e",
+                "SVE": "Closed/Long",
+                "SSE": "cervix and vagina appears normal, appears closed and long, no lesions, no blood, some white colored"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

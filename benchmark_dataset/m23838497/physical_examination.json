@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "51 bpm",
+                "blood_pressure": "105/64 mmHg",
+                "respiratory_rate": "15 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "AAO, NAD, appears stated age",
+                "HEENT": "PERRL, no scleral icterus, MMM",
+                "neck": "Trachea midline, supple, no appreciable LAD",
+                "cardiac": "RRR, No murmurs appreciated",
+                "pulmonary": "CTABL",
+                "abdominal": "Soft, tender in RUQ and epigastrium",
+                "extremities": "No edema",
+                "vascular": "palpable DP and ___ pulses"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

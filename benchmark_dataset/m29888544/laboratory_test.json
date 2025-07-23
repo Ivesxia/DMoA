@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Elevated lipase to 291.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "WBC count",
+            "date": "Not specified",
+            "findings": "WBC 6.6 with 80% PMNs.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate was 1.8.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Fasting Glucose",
+            "date": "Not specified",
+            "findings": "Fasting glucose 83.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "No evidence of focal lesions or textural abnormality in liver. Mild intrahepatic biliary dilatation and increased extrahepatic biliary dilatation with common bile duct measuring 7 mm. Gallbladder normal, no stones. Limited views of pancreatic head and body unremarkable.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

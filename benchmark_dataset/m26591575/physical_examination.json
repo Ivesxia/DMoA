@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": {
+                    "max": "101.7",
+                    "current": "101.7"
+                },
+                "heart_rate": "88 bpm",
+                "blood_pressure": "120/57 mmHg",
+                "respiratory_rate": "17",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "A&Ox3, NAD",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "cardiovascular": "RRR",
+                "pulmonary": "No respiratory distress",
+                "abdominal": "Soft, mildly distended, focally tender in the RUQ without rebound or guarding",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

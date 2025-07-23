@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Feces negative for C. difficile toxin A & B by EIA",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA. Reference Range-Negative.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Gallbladder is markedly distended, with a 2.5 cm x 2.1 cm x 1.6 cm impacted stone at the neck. Multiple additional stones present in gallbladder fundus, layering sludge present, diffuse gallbladder wall edema up to 7 mm. The liver is normal in echogenicity, mild intrahepatic biliary dilation noted, common duct measures 4 mm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

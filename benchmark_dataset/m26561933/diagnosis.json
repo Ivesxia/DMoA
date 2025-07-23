@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "gallstone pancreatitis",
+        "differential_diagnosis": "Not specified.",
+        "diagnostic_reasoning": "The patient presented with abdominal pain, reported orange colored urine, and no bile-colored stools, alongside a history suggesting possible cholecystitis. Clinical signs such as scleral icterus and examination findings supported the diagnosis of gallstone pancreatitis, with no bacterial infections (e.g., Salmonella or Shigella) found in the stool."
+    }
+}

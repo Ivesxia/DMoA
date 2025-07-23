@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The lung bases demonstrate dependent atelectasis. A calcified granuloma is seen in the left lower lobe (2:7). No pleural or pericardial effusion is seen. The liver, spleen, gallbladder, pancreas, adrenal glands, stomach, small bowel, and colon are within normal limits. Tiny bilateral renal hypodensities are too small to characterize. There is no hydronephrosis. The appendix is dilated up to 13 mm and fluid-filled with substantial surrounding fat stranding. There is no free air or fluid collection. The bladder, rectum, and seminal vesicles are unremarkable. There is a 1-cm well-circumscribed hypodensity in the central prostate, which may represent a Mullerian duct cyst or utricle. Visualized vasculature is unremarkable. No lymph nodes which meet CT criteria for pathologic enlargement are detected. No concerning lytic or sclerotic osseous lesions are detected. Degenerative changes are seen in the spine.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

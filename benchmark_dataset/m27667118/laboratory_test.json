@@ -1,0 +1,42 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "liver": "enhances homogeneously without concerning lesions or biliary dilatation",
+                "gallbladder": "unremarkable",
+                "spleen": "unremarkable",
+                "pancreas": "unremarkable",
+                "adrenal glands": "unremarkable",
+                "kidneys": "enhance and excrete symmetrically without concerning lesions or hydronephrosis",
+                "stomach": "distended with ingested material",
+                "small bowel": "non-dilated loops are normal in course and caliber without wall thickening or sign of obstruction",
+                "colon": "within normal limits",
+                "appendicolith": "present at the base of the appendix measuring approximately 12 mm",
+                "appendix": "fluid-filled and dilated up to 1.2 cm with mild adjacent fat stranding",
+                "second appendicolith": "present more distally",
+                "perforation": "no evidence of at this time",
+                "mesenteric or retroperitoneal lymphadenopathy": "absent",
+                "intra-abdominal free air or fluid": "absent",
+                "bladder": "partially decompressed",
+                "seminal vesicles and prostate gland": "unremarkable",
+                "pelvic free fluid or lymphadenopathy": "none",
+                "bone window": "no concerning osteolytic or sclerotic lesion identified",
+                "abdominal aorta": "of normal caliber without aneurysmal dilatation",
+                "portal vein": "well opacified",
+                "superior mesenteric vein": "well opacified",
+                "splenic vein": "well opacified"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": {
+                "culture_result": "NO GROWTH"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

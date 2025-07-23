@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Progressive abdominal pain",
+        "history_of_present_illness": "Symptoms began 4 days prior as an aching pain, progressively worsening over 4 days. The patient lost appetite, eating only a piece of toast for 2 days, experiencing shaking chills, and reported no bowel movement for 3 days. Pain worsened with deep inspiration.",
+        "past_medical_history": "HCV cirrhosis with portal hypertension, hypertension, liver transaminitis, thrombocytopenia, chronic kidney disease stage 2, history of dengue fever, history of malaria.",
+        "family_history": "Mother with ethanol-related cirrhosis.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized lung fields are within normal limits; no evidence of pleural or pericardial effusion; liver shows homogenous attenuation with no focal lesions; pancreas normal with no focal lesions; spleen normal; adrenal glands normal; kidneys normal with no focal lesions or hydronephrosis; appendix dilated up to 9 mm with adjacent fat stranding and fascial thickening; wall thickening of the terminal ileum; no bowel obstruction; urinary bladder and distal ureters unremarkable; no retroperitoneal or mesenteric lymphadenopathy; no abdominal aortic aneurysm; no significant atherosclerotic disease; no evidence of osseous lesions or acute fracture; midline ventral upper abdominal fat containing hernia with a 15 x 9 mm defect.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

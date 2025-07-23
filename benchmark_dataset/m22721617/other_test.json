@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Focal fat stranding and wall thickening along the lateral proximal ascending colon with thickening of the right lateroconal fascia. The epicenter of inflammation is centered around the ascending colon. The terminal ileum is unremarkable. No associated diverticulum is present. The appendix is normal containing oral contrast and locules of gas. A punctate appendicolith is seen within the appendiceal tip. Subtle fat stranding adjacent to the appendiceal tip is likely secondary to adjacent inflammation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abnormal coagulation profile",
+            "date": "Not specified",
+            "findings": "WBC of 16.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

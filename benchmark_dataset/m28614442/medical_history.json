@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Constant upper abdominal pain",
+        "history_of_present_illness": "Symptoms began 2 weeks ago and have progressively worsened. The patient has been unable to eat or drink anything without vomiting for the last 4 days. The pain increased significantly last night, leading to the hospital visit. The pain worsens immediately after oral intake and lasts from 30 minutes post-eating.",
+        "past_medical_history": "Hemorrhoids, C-section",
+        "family_history": "Family history of constipation",
+        "social_history": "Not specified"
+    }
+}

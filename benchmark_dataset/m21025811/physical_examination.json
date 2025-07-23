@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "151/70 mmHg",
+                "respiratory_rate": "12 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "NAD, A&Ox 3, pleasant and cooperative",
+                "cardiovascular": "RRR",
+                "pulmonary": "CTA b/l, no labored breathing",
+                "abdominal": "soft, mildly distended, non-tender, laparoscopic port site incisions without signs of infection, no hematoma or bleeding, no rebound or guarding",
+                "extremities": "warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

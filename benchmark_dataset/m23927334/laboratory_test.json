@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "There is bibasilar atelectasis, left greater than right. No pleural or pericardial effusion. The liver is normal appearing and the portal vein is patent. The gallbladder is distended with biliary sludge and fragmented stones. The gallbladder wall appears edematous and thickened. There is trace pericholecystic fluid. A stone is seen near the gallbladder neck. No intra or extrahepatic ductal dilatation. The spleen and pancreas are normal. The adrenals, kidneys, ureters, and bladder are normal. No bowel obstruction or bowel wall thickening seen. The appendix is normal. No free fluid or free air in the abdomen or pelvis. No mesenteric, retroperitoneal, pelvic sidewall, or inguinal lymphadenopathy. The uterus is normal appearing. No focal bony lesion suspicious for malignancy present.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Values Item Unknown",
+            "date": "Not specified",
+            "findings": "1.6 mmol/L; reference range (0.5 - 2.0 mmol/L).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

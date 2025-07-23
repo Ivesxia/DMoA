@@ -1,0 +1,52 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Temperature": "97.3 °F",
+                "Heart Rate": "76 bpm",
+                "Blood Pressure": "135/80 mmHg",
+                "Respiratory Rate": "18 breaths/min",
+                "Oxygen Saturation": "95% on 2L O2"
+            },
+            "relevant_findings": {
+                "General": "NAD, uncomfortable",
+                "Eyes": "Conjunctiva clear anicteric",
+                "Ent": "Moist mucous membranes",
+                "Neck": "Supple",
+                "Cardiovascular": "RRR s1s2",
+                "Pulmonary": "Few basilar rales, good air movement",
+                "Gastrointestinal": "Distended, decreased bowel sounds, soft, moderate epigastric and upper abdominal tenderness RUQ > LUQ",
+                "Extremities": "Warm, no edema, 2+ DP pulses",
+                "Skin": "No rashes",
+                "Neurological": "Alert, oriented x 3, answers questions appropriately, follows commands",
+                "Psychiatric": "Appropriate"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Temperature": "96.2 °F",
+                "Heart Rate": "68 bpm",
+                "Blood Pressure": "136/83 mmHg",
+                "Respiratory Rate": "18 breaths/min",
+                "Oxygen Saturation": "96% on 2L O2"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Vital signs are showing improvement with a higher blood pressure and lower heart rate compared to earlier recordings."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "Temperature": "96.0 °F (at transfer)",
+                "Heart Rate": "72 bpm",
+                "Blood Pressure": "122/76 mmHg",
+                "Respiratory Rate": "18 breaths/min",
+                "Oxygen Saturation": "91% on RA"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Vital signs show progression from hypotensive (89/52 mmHg) to more stable levels before transfer."
+        }
+    ]
+}

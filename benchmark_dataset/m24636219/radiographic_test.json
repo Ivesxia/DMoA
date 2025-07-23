@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "The lungs are clear without consolidation or edema. There is no pleural effusion or pneumothorax. The mediastinal contours are normal. The heart size is mildly enlarged.",
+            "changes_over_time": "The heart size is unchanged from the prior CT, but has slightly increased in size from the prior radiograph in the past."
+        }
+    ]
+}

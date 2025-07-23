@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Relatively low lung volumes, patchy streak-like opacities within the right and left bases as well as right upper lobe likely representing atelectasis, bilateral pleural effusions, interstitial opacities consistent with pulmonary edema, normal cardiomediastinal silhouette, no pneumothorax.",
+            "changes_over_time": "Interval development of bilateral pleural effusions."
+        }
+    ]
+}

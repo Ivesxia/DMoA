@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8 F",
+                "heart_rate": "110 bpm",
+                "oxygen_saturation": "95%",
+                "respiratory_rate": "Not specified",
+                "blood_pressure": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented (A&O), no acute distress (NAD)",
+                "HEENT": "No scleral icterus, mucous membranes moist",
+                "cardiovascular": "Regular rate and rhythm (RRR), no murmurs, gallops, or rubs (M/G/R)",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes, rales, or rhonchi (W/R/R)",
+                "abdominal": "Soft, non-distended, right-sided tenderness, no peritoneal signs",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

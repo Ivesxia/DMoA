@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Urine Retention Test",
+            "date": "Not specified.",
+            "findings": "Retention of urine, unspecified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Foley Catheter Placement",
+            "date": "Not specified.",
+            "findings": "Foley catheter in place.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Guaic Stool Test",
+            "date": "Not specified.",
+            "findings": "Guaic negative.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified.",
+            "findings": "Tachycardia noted.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

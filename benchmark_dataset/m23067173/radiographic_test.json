@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits. No evidence of pleural or pericardial effusion. Liver demonstrates homogeneous attenuation with no focal lesions or biliary dilatation. Pancreas has normal attenuation with no focal lesions or ductal dilatation. Spleen shows normal size and attenuation with no focal lesions; accessory spleen measures 9 mm. Adrenal glands are normal. Kidneys are of normal size with no focal lesions or hydronephrosis. Stomach unremarkable; small bowel appears normal but filled with fluid, likely ileus. Appendix is edematous and hyperemic, measuring 15 mm. No free fluid in pelvis. Normal reproductive organs. No lymphadenopathy. No abdominal aortic aneurysm or atherosclerotic disease. No worrisome osseous lesions or acute fracture.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

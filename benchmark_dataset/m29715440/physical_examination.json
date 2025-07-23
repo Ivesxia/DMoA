@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2 F",
+                "heart_rate": "78 bpm",
+                "blood_pressure": "145/82 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "cardiovascular": "Regular rate and rhythm (RRR)",
+                "lungs": "Clear to auscultation bilaterally (CTAB)",
+                "abdominal": "Soft, tender to moderate palpation in LLQ and suprapubic, tender to moderate palpation in RUQ, bowel sounds negative"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

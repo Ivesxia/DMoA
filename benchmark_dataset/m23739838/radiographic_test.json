@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Radiograph",
+            "date": "Not specified",
+            "findings": "Air bubbles are seen within the stomach, transverse colon, sigmoid colon and within some mildly prominent loops of small bowel which demonstrates some air-fluid levels. Surgical clips are seen throughout the abdomen. There is a surgical drain within the right upper abdomen. Mild degenerative changes of bilateral hips are seen.",
+            "changes_over_time": "Comparison is made to prior radiograph from ___."
+        }
+    ]
+}

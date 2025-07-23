@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.1°F",
+                "heart_rate": "99 bpm",
+                "blood_pressure": "140/74 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "95% on room air"
+            },
+            "relevant_findings": {
+                "general": "Pleasant, no acute distress, alert and oriented times three",
+                "HEENT": "Extraocular movements intact, pupils equal, round, reactive to light and accommodation, anicteric",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/rubs/gallops",
+                "chest": "Clear to auscultation bilaterally, slightly shallow breathing",
+                "abdomen": "Soft, large, nondistended, focal right upper quadrant tenderness, no peritoneal signs, no rebound tenderness, slight guarding",
+                "extremities": "No edema, +2 pulses bilaterally"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

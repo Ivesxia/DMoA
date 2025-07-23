@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lab Results",
+            "date": "Not specified",
+            "findings": "Total bilirubin: 3.0; Lipase: >1200; Staphylococcus epidermidis, Corynebacterium species (diphtheroids)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Trace right-sided pleural effusion; Multiple small stones in gallbladder and cystic duct; Mild gallbladder wall thickening; Mild edema/trace pericholecystic fluid; Common bile duct normal (0.7 cm); Multiple cystic lesions in pancreas; Normal caliber main pancreatic duct; 1.9 cm left adrenal lesion; No hydronephrosis bilaterally.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

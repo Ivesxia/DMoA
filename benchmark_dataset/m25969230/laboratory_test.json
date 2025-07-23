@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Normal morphology, contour, and caliber of biliary tree; no evidence of filling defects. Stone fragment seen in the duodenum near the ampulla, which was removed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LABORATORY TEST",
+            "date": "Not specified",
+            "findings": "Value 1.1 (within normal range: 0.9 - 1.1).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

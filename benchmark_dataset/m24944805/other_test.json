@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lipase test",
+            "date": "Not specified",
+            "findings": "Lipase level was elevated to >3000.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT abdomen/pelvis",
+            "date": "Not specified",
+            "findings": "Significant peripancreatic stranding.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Amoxicillin treatment",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Illumigene DNA amplification assay",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

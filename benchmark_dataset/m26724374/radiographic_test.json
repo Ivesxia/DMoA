@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CTA CHEST",
+            "date": "Not specified",
+            "findings": "At the base of the neck, the imaged portion of the thyroid appears somewhat small bilaterally. The aorta and its major branch vessels are patent with no evidence of stenosis, occlusion, dissection, or aneurysmal formation. The pulmonary arteries are well opacified to the subsegmental level, with no evidence of filling defect. There is no evidence of pericardial effusion, pleural effusion, and right heart strain. Prominent mediastinal nodes are likely reactive. Right hemidiaphragmatic eventration noted with significant right middle or lower lobe atelectasis. Mild left lower lobe atelectasis is also noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CTA ABDOMEN",
+            "date": "Not specified",
+            "findings": "There is prominent pericholecystic fat stranding with a large gallstone at the neck of the gallbladder. A 1.1 cm right hepatic cyst is demonstrated. Prominent portacaval and celiac lymph nodes are likely reactive. A left renal cortical hypodensity is too small to characterize but likely represents a simple cyst. No lytic or blastic osseous lesion suspicious for malignancy is identified. There is a 2.0 cm hemangioma within the body of T11.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

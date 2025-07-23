@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Elevated lipase levels.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Creatinine level of 2.1 mg/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC count of 2.9 x 10^3/uL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Albumin",
+            "date": "Not specified",
+            "findings": "Albumin level of 3.2 g/dL.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Tacrolimus Level",
+            "date": "Not specified",
+            "findings": "Low tacrolimus level, which improved.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Decreased intrinsic T1 hyperintense signal within pancreatic parenchyma; presence of pancreatic pseudocysts with some increase in size.",
+            "changes_over_time": "Some lesions increased in size compared to the prior MRCP; largest pseudocyst measured 16 x 15 mm (previously 15 x 11 mm)."
+        }
+    ]
+}

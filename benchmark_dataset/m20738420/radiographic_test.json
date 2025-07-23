@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "Heart is upper limits of normal in size, and the aorta is tortuous. Bibasilar areas of patchy and linear atelectasis are present with adjacent small pleural effusions, left greater than right.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Gallstones and peripancreatic inflammation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC count: 7.4 K/uL (normal range: 4.0 - 11.0 K/uL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix mildly dilated (7-8 mm), does not fill with oral contrast, mild hyperemia of the mucosa. No free air or free fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

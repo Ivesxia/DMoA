@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The diagnosis of appendicitis was supported by the presence of RLQ pain, tenderness upon deep palpation, and a CT scan showing a dilated appendix (7 mm) with wall hyperenhancement and surrounding stranding, which are indicative findings for appendicitis."
+    }
+}

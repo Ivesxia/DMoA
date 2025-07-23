@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The pain began 1 day ago in the epigastric region, has been somewhat intermittent, and has moved to all portions of the abdomen at various times. The patient has also experienced mild nausea without emesis, and low-grade fevers without chills. No history of night sweats or weight loss. The patient has never experienced this type of pain previously.",
+        "past_medical_history": "Hypertension",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

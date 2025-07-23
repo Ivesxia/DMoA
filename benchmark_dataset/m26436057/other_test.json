@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The proximal appendix contains air; mid/distal appendix is dilated measuring up to 10 mm, with hyperemic and thickened wall and periappendiceal fat stranding, consistent with acute appendicitis. Small amount of free fluid seen in the right lower quadrant. No evidence of perforation or abscess. Visualized lung fields, liver, pancreas, spleen, adrenal glands, kidneys, stomach, small bowel, colon, rectum, urinary bladder, uterus, and ovaries show no significant abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "laparoscopic appendectomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized lung bases are clear without consolidation or effusion. The liver is normal in appearance, without focal lesions. The gallbladder is decompressed without cholelithiasis, with a small amount of fluid adjacent to the gallbladder fossa. The spleen, pancreas, adrenal glands, and kidneys are normal. There is no hydronephrosis. The stomach, duodenum, and intra-abdominal loops of small bowel are normal. The appendix is visualized in the right lower quadrant and measures up to 11 mm, fluid-filled with mucosal hyperenhancement. There is periappendiceal fat stranding and a tiny focus of fluid adjacent to the base of the appendix. There is small free fluid in the pelvis. Distal ureters and bladder are normal. There are no suspicious lytic or sclerotic osseous lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

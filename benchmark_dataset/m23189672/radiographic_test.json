@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "There is a small right pleural effusion. The heart is enlarged and there are coronary artery calcifications; heart and pericardium are otherwise unremarkable. There is pneumobilia, expected after common bile duct stent. The gallbladder is distended with edema within the gallbladder wall, pericholecystic stranding and multiple gallstones concerning for acute cholecystitis. The pancreatic head appears infiltrated by the perhilar mass. Significant mural edema of the ascending and transverse colon with significant pericolonic stranding. Multiple diverticula noted in this portion of the colon. Prominent loops of small bowel may be the beginning of an ileus. Small amount of ascites in the right paracolic gutter. Multiple prominent retroperitoneal lymph nodes present.",
+            "changes_over_time": "The previously noted mass at the hepatic hilum is better delineated on the recent contrast enhanced study."
+        }
+    ]
+}

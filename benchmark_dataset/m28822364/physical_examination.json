@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "blood_pressure": "154/72 mmHg",
+                "heart_rate": "76 bpm",
+                "respiratory_rate": "17 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "Morbidly obese man laying in bed in no acute distress",
+                "HEENT": "Mucous membranes moist, no scleral icterus, extraocular movement intact",
+                "lungs": "Clear bilateral on auscultation",
+                "cardiovascular": "Regular rate and rhythm, heart sounds distant",
+                "abdomen": "Obese, non-distended. Tender on palpation of epigastrium greater than RUQ. No rebound or guarding",
+                "extremities": "Chronic venous stasis changes without skin breakdown. Warm and well perfused",
+                "neurological": "Moving all extremities, alert and oriented times three"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

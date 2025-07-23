@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Liver has normal echotexture. No extra, or intrahepatic biliary duct dilatation. Common bile duct measures 3 mm. Gallbladder evaluation is suboptimal, appears heterogeneous and echogenic, possibly filled with sludge and stones. Wall of the gallbladder could not be clearly visualized. Positive ___ sign.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

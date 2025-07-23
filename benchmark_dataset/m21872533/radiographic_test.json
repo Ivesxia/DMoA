@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CTA ABD W&W/O C & RECONS",
+            "date": "Not specified",
+            "findings": "Minimal atelectatic change within the visualized portions of both lungs. A trace pleural effusion on the left. Enlarged heart size without pericardial effusion. Significant coronary artery calcification. In the abdomen, diverticula noted throughout the large bowel. A focal area of amorphous hyperdensity in the ascending bowel proximal to the hepatic flexure concerning for active extravasation. Mild bowel wall thickening in the sigmoid colon with adjacent fat stranding, concerning for complicated diverticulitis with microperforation. Rounded hypodensities in the bilateral kidneys likely representing cysts, including a 1.6-cm cyst in the left kidney potentially hemorrhagic. No hydronephrosis or hydroureter.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

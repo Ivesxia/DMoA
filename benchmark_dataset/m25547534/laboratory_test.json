@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture Test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is hyperemic, dilated to 10 mm, features mural edema, and surrounding fat stranding. There is a small amount of minimally complex free fluid tracking into the pelvis. The liver enhances homogeneously and is without focal abnormality.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

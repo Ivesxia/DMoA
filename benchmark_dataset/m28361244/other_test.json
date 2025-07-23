@@ -1,0 +1,10 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "PICC line placement",
+            "date": "Not specified",
+            "findings": "Previously seen left-sided PICC line has been removed. There has been interval placement of a right-sided PICC line, which coils in the subclavian vein. An enteric tube coils in the stomach and terminates in the proximal duodenum. Minimal atelectatic changes are seen at both lung bases. There is no pneumothorax.",
+            "changes_over_time": "Interval placement of a right-sided PICC line after removal of the left-sided PICC line."
+        }
+    ]
+}

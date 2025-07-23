@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "WBC 9.5, Hct 40.8, Plt 165",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation Profile",
+            "date": "Not specified",
+            "findings": "INR 2.5",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolytes",
+            "date": "Not specified",
+            "findings": "Na 146, K 4.1, Bicarb 24",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Renal Function Test",
+            "date": "Not specified",
+            "findings": "BUN/Cr 39/1.4",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cardiac Marker (Troponin)",
+            "date": "Not specified",
+            "findings": "Trop < 0.01",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase Test",
+            "date": "Not specified",
+            "findings": "Lipase 5100",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "ALT 21, AST 48, ALP 200, T. bili 0.5",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Increased lethargy.",
+        "history_of_present_illness": "The patient was initially noted to have increased lethargy by caretakers, with symptoms reported as worsening without recent distress or signs of infection. The patient has a past medical history of CVA and is wheelchair-bound.",
+        "past_medical_history": "Major left-sided CVA with right hemiplegia, expressive aphasia, wheelchair bound, CKD stage IV, hypertension, hyperlipidemia, depression, thrombocytopenia, impaired glucose tolerance.",
+        "family_history": "Not specified.",
+        "social_history": "Living in an assisted living facility."
+    }
+}

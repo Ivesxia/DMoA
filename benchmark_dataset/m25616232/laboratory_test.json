@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level: 214 IU/L, which is outside the normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "AST level: 73.0 IU/L; normal range is 29.0 - 201.0 IU/L, which is within the normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound - Liver or Gallbladder",
+            "date": "Not specified",
+            "findings": "The liver demonstrates diffusely increased echogenicity. No focal liver lesions identified. Gallbladder normal without evidence of stones.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

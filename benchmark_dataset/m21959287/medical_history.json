@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient has a one-day history of abdominal pain that began in the epigastric area and has now become diffuse. Denied nausea, vomiting, fevers, or chills.",
+        "past_medical_history": "Hypothyroidism; Previous diagnostic laparoscopy for ectopic pregnancy",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

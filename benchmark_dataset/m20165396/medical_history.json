@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Concern for gastrointestinal bleed in the setting of supratherapeutic INR.",
+        "history_of_present_illness": "The patient presented with symptoms including dizziness, fatigue, and lightheadedness, having had two units of RBC overnight, which improved his condition. He reported having a small bowel movement recently that was black and guaiac positive, indicating possible gastrointestinal bleeding. He also described left quadrant abdominal pain, the onset of which was unclear but worsened with palpation, described as pressure. His appetite decreased, and he hadn't eaten in two days, with no nausea but vomiting small amounts.",
+        "past_medical_history": "1. Severe aortic regurgitation; mechanical aortic valve replacement, redo mechanical aortic valve for dehiscence. 2. Severe dilated nonischemic cardiomyopathy, last EF 20%. 3. Left bundle branch block. 4. Atrial fibrillation. 5. Prostate cancer.",
+        "family_history": "Father had congestive heart failure; mother died of cancer. No heart issues reported for brothers or children.",
+        "social_history": "Not specified."
+    }
+}

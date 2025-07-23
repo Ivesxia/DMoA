@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with constant right lower quadrant pain, which is a classic symptom of acute appendicitis. The CT abdomen and pelvis showed an unremarkable appendix, but the clinical presentation strongly suggested appendicitis leading to a laparoscopic appendectomy."
+    }
+}

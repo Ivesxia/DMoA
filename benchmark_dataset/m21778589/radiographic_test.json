@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP W/O CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "Lower Thorax": "No pleural effusion.",
+                "Liver": "Diffuse dropout of liver signal compatible with hepatic steatosis, fat fraction is 2%. Millimetric mildly T2 hyperintense lesion in segment 7 likely a hemangioma.",
+                "Biliary": "Intra and extrahepatic bile ducts are normal caliber. Small gallstone identified in the gallbladder. Small amount of pericholecystic fluid noted.",
+                "Pancreas": "Homogeneous signal throughout. Pancreatic duct is not dilated.",
+                "Spleen": "Normal size.",
+                "Adrenal Glands": "Right adrenal gland is unremarkable. 0.6 cm nodular thickening of the lateral limb of left adrenal gland likely benign.",
+                "Kidneys": "Millimetric T2 hyperintense lesion in the upper pole left kidney compatible with a renal cyst. No hydronephrosis.",
+                "Gastrointestinal Tract": "Stomach is unremarkable. Small and large bowel loops are normal caliber.",
+                "Lymph Nodes": "No lymphadenopathy.",
+                "Vasculature": "Abdominal aorta is normal caliber.",
+                "Osseous and Soft Tissue Structures": "No suspicious bone or soft tissue lesion identified."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

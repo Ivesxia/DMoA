@@ -1,0 +1,12 @@
+{
+    "medical_history": {
+        "chief_complaint": "Lower abdominal pain",
+        "history_of_present_illness": "The abdominal pain began after dinner the previous night and persisted throughout the following day. Overnight, she developed chills and subjective fevers. She presented to the emergency room for further evaluation due to ongoing pain.",
+        "past_medical_history": "Cholecystitis s/p laparoscopic cholecystectomy complicated by choledocholithiasis requiring ERCP.",
+        "family_history": {
+            "mother": "None",
+            "father": "CA, CAD, Skin CA"
+        },
+        "social_history": "Not specified"
+    }
+}

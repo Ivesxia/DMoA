@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Symptoms began about one week ago, initially with overall discomfort but increasingly more focused in the left lower quadrant. The patient noted low grade temperatures, denied chills, nausea, or vomiting, and was constipated for the past three weeks since starting Asacol therapy for ulcerative colitis. Attributed changes in bowel habits to medication changes.",
+        "past_medical_history": "HIV with undetectable viral load, diverticulosis, ulcerative colitis (recent diagnosis), cardiovascular conditions including CAD, PAD, carotid artery stenosis, recurrent nephrolithiasis, hypertension, and hyperlipidemia.",
+        "family_history": "No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory. Mother had a stroke; father had a stroke.",
+        "social_history": "Not specified."
+    }
+}

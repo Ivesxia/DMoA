@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "< 10,000 CFU/mL, within normal range",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood test for creatinine",
+            "date": "Not specified",
+            "findings": "9.8 mg/dL, within normal range (8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is hyperemic, fluid-filled, and dilated up to 1.2 cm with mild associated fat stranding; no evidence of micro perforation or appendicolith.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

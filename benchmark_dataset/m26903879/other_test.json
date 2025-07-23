@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lipase Test",
+            "date": "Not specified",
+            "findings": "Lipase level was elevated at 895.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal CT",
+            "date": "Not specified",
+            "findings": "Normal appearance of liver, gallbladder, spleen, adrenal glands, and pancreas. Mild dependent atelectasis noted at the lung bases. Colonic diverticulosis present without evidence of acute diverticulitis.",
+            "changes_over_time": "Tiny renal hypodensities appear similar to those on prior study, though are too small to accurately characterize."
+        },
+        {
+            "procedure_name": "Vital Signs",
+            "date": "Not specified",
+            "findings": "Initial vital signs recorded were: 97.8°F, 71 bpm, 114/56 mmHg, 16 respirations, 97% oxygen saturation. Second set recorded were: 98.3°F, 111/50 mmHg, 75 bpm, 20 respirations, 97% oxygen saturation.",
+            "changes_over_time": "Blood pressure showed a decline; first BP was 114/56 mmHg and dropped to 111/50 mmHg."
+        }
+    ]
+}

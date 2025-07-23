@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Shivers and possible rigors",
+        "history_of_present_illness": "Symptoms began today with noted malaise. The patient's temperature rose from 99.6F in the clinic to 100.4F on recheck.",
+        "past_medical_history": "Heavy EtOH use, Alcoholic Hepatitis, Suspected EtOH Cirrhosis, H. Pylori with gastric antral ulcers, Portal Vein Thrombosis",
+        "family_history": "Father - hypertension, Mother - hypertension",
+        "social_history": "Not specified"
+    }
+}

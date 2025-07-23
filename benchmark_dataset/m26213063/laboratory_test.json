@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 11,495 (normal range not specified).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound - Unilateral Upper Extremity Veins (Left)",
+            "date": "Not specified",
+            "findings": "Normal flow and compressibility of the left internal jugular, subclavian, brachial, and axillary veins. Heterogeneous echogenicity centrally within the left basilic vein with no evidence of compression and flow, consistent with a thrombus extending from the antecubital fossa to just before its junction to become the axillary vein.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

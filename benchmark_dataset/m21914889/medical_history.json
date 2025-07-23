@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute abdominal pain.",
+        "history_of_present_illness": "Acute onset of abdominal pain that began approximately 4 hours after an EUS procedure. The patient reports a previous similar pain associated with gallstones, improved following an ERCP with stent placement. Pain returned with nausea but no vomiting or fever. Additionally, the patient has experienced decreased stool caliber for the past 2 weeks and abdominal bloating.",
+        "past_medical_history": "Biliary stricture; previously evaluated for gallstones, underwent ERCP.",
+        "family_history": "No history of biliary disease.",
+        "social_history": "Not specified."
+    }
+}

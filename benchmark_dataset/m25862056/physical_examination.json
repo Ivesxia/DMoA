@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "120/58 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "general": "Uncomfortable",
+                "cardiovascular": "Regular rate and rhythm",
+                "abdominal": "Soft, tenderness to palpation in RUQ/Epigastrium, no guarding, no peritoneal signs",
+                "extremities": "No cyanosis, clubbing, or edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

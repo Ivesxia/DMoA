@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "79 bpm",
+                "blood_pressure": "128/79 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no distress.",
+                "head": "Normocephalic/atraumatic.",
+                "eyes": "No scleral icterus, mucous membranes moist.",
+                "cardiovascular": "Regular rhythm and rate.",
+                "pulmonary": "Breathing comfortably on room air.",
+                "abdominal": "Soft, nondistended, tender to palpation in RUQ, positive tenderness, nontender to percussion, no rebound tenderness, voluntary guarding in RUQ, distractible.",
+                "extremities": "No edema, warm and well perfused.",
+                "neurological": "No gross deficits.",
+                "psychological": "Appropriate affect."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

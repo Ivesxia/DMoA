@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver demonstrates no focal lesion or biliary dilatation. The gallbladder is normal appearing without evidence of stones or wall thickening. The spleen is normal in size and appearance. The pancreas shows no masses, cysts, or calcifications. The adrenal glands are normal appearing bilaterally. The kidneys enhance and excrete contrast symmetrically. The intra-abdominal portion of the small and large bowel shows no evidence of obstruction or wall thickening. The aorta, IVC, portal vein, and major branches all appear patent. An incidental finding of a replaced hepatic artery is noted off the SMA. No lymphadenopathy is seen. Trace amount of free fluid is noted along the right paracolic gutter. A retrocecal appendix appears abnormal with diameter measuring 10-mm, with significant periappendiceal fat stranding. Trace free fluid that tracks up the right paracolic gutter is noted. No free air or abscess in this region to suggest perforation. An incidental finding of the left L5 pars defect is noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

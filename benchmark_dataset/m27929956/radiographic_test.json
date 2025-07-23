@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT Abdomen",
+            "date": "Not specified",
+            "findings": "Did not show free air; evaluation of the bowel, particularly the posterior wall of the duodenum was limited due to extensive high density barium.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver demonstrates no focal abnormality; suggestion of increased hepatic echotexture, no definite fatty infiltration in comparison with recent CT; no intrahepatic biliary ductal dilatation; common bile duct mildly prominent at approximately 6 mm, less dilated compared to a previous measurement of 1 cm; gallbladder appears normal, pancreas tail is poorly evaluated.",
+            "changes_over_time": "Common bile duct was 1 cm previously, now measures 6 mm, indicating a decrease in dilation."
+        }
+    ]
+}

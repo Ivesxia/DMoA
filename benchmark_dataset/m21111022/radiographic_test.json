@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified.",
+            "findings": "New stranding surrounding the pancreas compatible with acute pancreatitis. A 0.9 x 1.2 cm cystic lesion in the pancreatic tail is grown since prior studies and may be a pseudocyst. Cholelithiasis with decompressed gallbladder. No CT evidence of perforation. No bowel obstruction. Perinephric stranding is nonspecific. The heart is mildly enlarged, especially the right-sided chambers. No pleural effusions. The liver appears within normal limits. The gallbladder is decompressed with small calcified stones. The entire pancreas shows new surrounding fat stranding. Cystic lesion in pancreatic tail measuring 9 x 12 mm similar to the prior study which measured up to 9 x 8 mm. No suspicious lytic or blastic lesions in bones, with moderate rightward convex curvature of the lumbar spine.",
+            "changes_over_time": "The cystic lesion in the pancreatic tail has increased in size from 9 x 8 mm to 9 x 12 mm since the prior studies."
+        }
+    ]
+}

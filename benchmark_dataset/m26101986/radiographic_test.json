@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "The lungs are clear with no evidence of a consolidation, effusion, or pneumothorax. Cardiomediastinal silhouette is at the upper limits of normal. No acute fractures are identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

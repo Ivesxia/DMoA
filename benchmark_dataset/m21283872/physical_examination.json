@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "95 bpm",
+                "blood_pressure": "173/100 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on 3L"
+            },
+            "relevant_findings": {
+                "general": "Af Am male lying in bed in NAD",
+                "skin": "Multiple brown macules from head across chest, back, and arms",
+                "HEENT": "NC/AT, no scleral icterus, dry MM",
+                "neck": "No JVD, no LAD",
+                "lungs": "CTAB",
+                "heart": "RRR, no M/R/G",
+                "abdomen": "+BS, soft, slightly TTP epigastric region, no peritoneal signs, not distended",
+                "rectal": "Normal tone, guaiac negative",
+                "back": "No TTP, no CVA tenderness",
+                "extremities": "No edema",
+                "neurological": "A&O x 3, PERRL"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

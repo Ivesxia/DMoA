@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain for the past 24 hours.",
+        "history_of_present_illness": "The abdominal pain started as periumbilical and then radiated to the right lower quadrant (RLQ), progressively worsening over the past several hours. The patient has experienced anorexia but denies nausea, vomiting, fevers, or chills.",
+        "past_medical_history": "Seasonal Allergies; Perforated eardrum in childhood.",
+        "family_history": "Mother and father without medical issues; two younger sisters with no medical problems.",
+        "social_history": "Not specified."
+    }
+}

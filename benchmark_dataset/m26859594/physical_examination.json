@@ -1,0 +1,31 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.7°F",
+                "blood_pressure": "108/76 mmHg",
+                "heart_rate": "96 - 109 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% (room air)"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress.",
+                "HEENT": "No scleral icterus, mucous membranes moist.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/gallops/rubs.",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes/rhonchi/rales.",
+                "abdominal": "Diffuse guarding and tenderness to palpation in the right lower quadrant, abdomen soft.",
+                "extremities": "No edema, warm and well perfused."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "ultrasound": "A tubular, blind-ending structure compatible with the appendix, noncompressible with a thickened wall, dilated to approximately 1.2 cm in transverse diameter, lumen distended with distinct wall layers, tenderness noted during examination."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

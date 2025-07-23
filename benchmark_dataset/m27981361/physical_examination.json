@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "heart_rate": "97 bpm",
+                "blood_pressure": "129/75 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "Anxious, no acute distress",
+                "lungs": "Unlabored breathing",
+                "cardiovascular": "Regular rate and rhythm",
+                "abdomen": "Soft, tender to umbilicus and right lower quadrant, medial to McBurney's point. No hernias noted.",
+                "rectal": "Deferred",
+                "extremities": "Within normal limits"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is fluid-filled and dilated to a maximum of 10 mm with trace surrounding fat stranding. No surrounding free air or fluid collection. Liver enhances homogeneously without focal lesion or biliary dilatation. Kidneys present symmetric nephrograms and excretion of contrast without focal lesion or hydronephrosis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Organism Count",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

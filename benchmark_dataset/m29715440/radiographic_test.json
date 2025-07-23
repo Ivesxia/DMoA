@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "The cardiac silhouette is normal in size. The aorta is mildly unfolded. The mediastinal and hilar contours are unchanged. Pulmonary vascularity is within normal limits. The lungs are clear. No pleural effusions or pneumothorax. The osseous structures are within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient reports a few days history of abdominal pain, described as mostly mid-epigastric, which has currently completely resolved. Denies any nausea, vomiting, diarrhea, or constipation. Endorses regular bowel movements and denies any fevers at home.",
+        "past_medical_history": [
+            "R MCA bifurcation aneurysm s/p clipping, c/b perioperative stroke with residual left side weakness and dysarthria, seizures",
+            "Depression",
+            "Seizure disorder s/p surgery (controlled on Tegretol)",
+            "Hypertension",
+            "Hypercholesterolemia",
+            "Hypogammaglobulinemia",
+            "Multiple sclerosis"
+        ],
+        "family_history": "Significant for brain hemorrhage in maternal uncle.",
+        "social_history": "Not specified."
+    }
+}

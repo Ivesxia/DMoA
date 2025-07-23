@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2 °F",
+                "blood_pressure": "149/108 mmHg",
+                "heart_rate": "76 bpm",
+                "respiratory_rate": "18 bpm",
+                "oxygen_saturation": "92%",
+                "oxygen_delivery": "Room Air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, Alert and oriented x3",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/rubs/gallops",
+                "pulmonary": "Clear to auscultation bilaterally, no respiratory distress",
+                "abdominal": "Soft, non-tender, non-distended, normal bowel sounds",
+                "wounds": "Clean, dry, intact; JP drain serosanguinous",
+                "extremities": "No edema, warm and well-perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

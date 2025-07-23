@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Diverticulosis of the large bowel without evidence of diverticulitis. Mucosal enhancement and enlargement of the appendix which is enlarged, measuring 7-8 mm. A nonenhancing 1 cm simple cyst is noted in the upper pole of the right kidney. No pleural effusion, nodule, or opacity is present at the lung bases. The liver, gallbladder, pancreas, spleen, adrenal glands, and ureters are within normal limits. No free air or fluid is seen in the peritoneal cavity.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Factor VIII assay",
+            "date": "Not specified",
+            "findings": "78.0 % (reference range: 60.0 - 158.0)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

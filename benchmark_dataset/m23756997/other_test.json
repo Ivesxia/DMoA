@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver is diffusely fatty with a nodular contour, no focal lesions. The spleen is mildly enlarged (15.3 cm), pancreas is diffusely atrophic without calcification or mass. An appendicolith is noted, and the distal appendix measures up to 9 mm with adjacent fat stranding and fascial thickening.",
+            "changes_over_time": "Minimally changed compared to the prior examination but still concerning for tip."
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

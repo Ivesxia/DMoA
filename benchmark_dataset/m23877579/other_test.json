@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "colonoscopy",
+            "date": "Not specified",
+            "findings": "Multiple mild non-bleeding diverticula with mixed openings were seen in the sigmoid colon and ascending colon; biopsies with normal mucosa throughout the colon.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "endoscopy",
+            "date": "Not specified",
+            "findings": "Normal biopsies.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan of the abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Short segment of bowel wall thickening with pericolonic fat stranding and diverticulosis; equivocal evidence for tiny extraluminal gas adjacent to the area of inflammation; no evidence of ileus or obstruction; trace free fluid in the pelvis.",
+            "changes_over_time": "Tiny atelectatic foci at the lung bases unchanged from prior study."
+        }
+    ]
+}

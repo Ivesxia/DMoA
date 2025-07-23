@@ -1,0 +1,22 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites. A simple appearing 1.1 cm perihepatic cyst is noted. The gallbladder contains stones. A small amount of gallbladder wall edema is present, however the gallbladder is contracted. There is no wall discontinuity or pericholecystic collection to suggest the gallbladder has perforated. The imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation, with portions of the pancreatic tail obscured by overlying bowel gas. Spleen length: 9.0 cm. Limited views of the right kidney show no hydronephrosis. The visualized portions of aorta and IVC are within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Significant for stranding and gallstones.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI",
+            "date": "Not specified",
+            "findings": "Did not show any gallstones, but did demonstrate adenomyomatosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

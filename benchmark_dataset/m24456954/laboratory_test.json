@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is normal in echogenicity with no focal lesions present. The portal vein is patent with hepatopetal flow. The common bile duct measures 5 mm and is normal. The gallbladder shows severe gallbladder wall thickening measuring up to 9 mm with an irregular heterogeneous wall and pericholecystic fluid along with stones and sludge. The patient had a positive sonographic ___ sign. The right kidney has a simple anechoic thin-walled 2.6 x 2.6 x 2.7 cm cyst in the upper pole.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test (unspecified)",
+            "date": "Not specified",
+            "findings": "8.9 mg/dL, which is within the normal range (ref range 8.4 - 10.3).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

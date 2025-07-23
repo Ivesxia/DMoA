@@ -1,0 +1,43 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2°F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "124/60 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air",
+                "date_recorded": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "Pleasant, well-appearing female in no acute distress, alert and oriented x 3.",
+                "HEENT": "Normocephalic/atraumatic, pupils equal, round, reactive to light, extraocular movements intact. Anicteric sclerae. Mucous membranes slightly dry, oropharynx clear.",
+                "neck": "Supple, no lymphadenopathy.",
+                "chest": "Clear to auscultation bilaterally, no wheezing/rales/rhonchi.",
+                "cardiovascular": "Regular rate and rhythm, normal heart sounds.",
+                "abdomen": "Soft, non-tender/non-distended, normal bowel sounds. No hepatomegaly or splenomegaly.",
+                "extremities": "No cyanosis, clubbing, or edema.",
+                "neurological": "Alert and oriented x 3, non-focal exam.",
+                "date_recorded": "Not specified"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2°F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "124/60 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air",
+                "date_recorded": "Not specified"
+            },
+            "relevant_findings": {
+                "abdominal": "Soft, non-tender and non-distended, normal bowel sounds noted on evaluation. No tenderness reported after transfer.",
+                "date_recorded": "Not specified"
+            },
+            "changes_over_time": "Reported pain improvement; no further pain or vomiting noted since transfer."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Normal loops of bowel are seen. The appendix is not visualized. There is no abscess or fluid collection visualized.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

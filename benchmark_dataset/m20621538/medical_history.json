@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient reports 3 days of nearly constant epigastric pain, which has not been exacerbated by PO intake.",
+        "past_medical_history": "Hypertension, auto-immune pancreatitis with distal common bile duct stricture, impaired glucose tolerance secondary to prednisone, RUL nodule stable on imaging, history of treatment for latent TB.",
+        "family_history": "Father died of old age, mother alive at age >___, all brothers and sisters healthy.",
+        "social_history": "Personal history of tobacco use."
+    }
+}

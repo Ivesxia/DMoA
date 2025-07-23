@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "There is normal flow with respiratory variation in the left subclavian vein. While there is echogenic material along the wall of the subclavian vein, the subclavian vein is compressible with flow. The left internal jugular vein is patent, shows normal color flow and compressibility. The left brachial, basilic, and cephalic veins are patent, compressible and show normal color flow and augmentation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

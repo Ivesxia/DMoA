@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC 17.7 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen/Pelvis",
+            "date": "Not specified",
+            "findings": "Thickened appendix with fat stranding; right adnexa cyst measuring 6.2 x 3.7 cm; small amount of pelvic free fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Transvaginal Ultrasound",
+            "date": "Not specified",
+            "findings": "Uterus measures 7.9 x 4.9 x 4.5 cm; endometrium measures 0.9 cm; right ovary shows multiple thick-walled anechoic cysts measuring 6.3 x 3.1 x 4.0 cm; normal vascular flow within both ovaries; trace amount of free fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Test for Growth",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

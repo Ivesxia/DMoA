@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "CT findings indicate a region of wall thickening, stranding, and an inflamed diverticulum in the sigmoid colon, with a 2.2 x 1.5 cm irregular locule of free air in the mesentery. No drainable collection. The remainder of the colon has scattered diverticulosis. No other significant abnormalities in the abdomen or pelvis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

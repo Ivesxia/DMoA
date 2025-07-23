@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Elevated lipase and epigastric pain.",
+        "history_of_present_illness": "The patient presented with 3 days of epigastric pain, which is primarily epigastric and associated with nausea but no vomiting. The pain lasts for several hours and is aggravated by her poor appetite, with one instance where eating resolved the pain. Additional symptoms include bloating and non-bloody bowel movements. She felt feverish but did not take a temperature over the last 2 days. Past episodes of epigastric pain resolved and were associated with elevated liver function tests.",
+        "past_medical_history": "1. History of Breast Cancer 2. Hypertension 3. Gastroesophageal Reflux Disease (GERD) 4. Chronic cough 5. Arthritis 6. Osteoporosis. Past surgical history includes appendectomy, laser surgery for cataracts and glaucoma, lumpectomy, and Sparc sling.",
+        "family_history": "Mother has diabetes and a history of cancer.",
+        "social_history": "Not specified."
+    }
+}

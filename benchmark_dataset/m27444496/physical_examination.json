@@ -1,0 +1,31 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1 °F",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "101/71 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "94% RA"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and oriented x3",
+                "HEENT": "Extraocular movements intact, moist mucous membranes, no scleral icterus",
+                "CV": "Regular rate and rhythm",
+                "pulmonary": "Clear to auscultation bilaterally",
+                "abdominal": "Soft, nondistended, non-tender to palpation, no guarding, no rebound",
+                "extremities": "Warm, well-perfused, no edema"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "CT abdomen pelvis": "The appendix is enlarged, hyperemic with wall thickening, measuring up to 13 mm. Moderate amount of fat stranding noted in the right lower quadrant around the inflamed appendix. Mild thickening of the adjacent terminal ileum and cecum. Multiple mesenteric lymph nodes in the right lower quadrant measure up to 7 mm. Small amount of nonhemorrhagic ascites noted in the right lower quadrant around the inflamed appendix. No drainable fluid collection or evidence of macro perforation."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

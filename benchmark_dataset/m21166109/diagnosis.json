@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Cholecystitis",
+        "differential_diagnosis": "Cholelithiasis",
+        "diagnostic_reasoning": "The diagnosis of cholecystitis was supported by findings of a thick and edematous gallbladder wall with fat stranding in the surrounding tissue on CT imaging, indicating inflammation. The presence of gallstones was also confirmed, which is frequently associated with cholecystitis."
+    }
+}

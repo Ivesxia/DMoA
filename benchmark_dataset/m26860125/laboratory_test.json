@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Trace protein, 1 hyaline cast, no signs of UTI.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Elevated at 624.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "INR",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Platelets",
+            "date": "Not specified",
+            "findings": "Normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS W & W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Pancreas is largely fatty replaced, mild peripancreatic fat stranding present. No fluid collection or other complication seen. Native kidneys atrophic with mild contrast excretion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

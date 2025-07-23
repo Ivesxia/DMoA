@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is mildly echogenic, which may reflect fatty deposition. There is no intra- or extra-hepatic biliary ductal dilatation. The main portal vein is patent with hepatopetal flow. The common duct measures 4 mm. The gallbladder is tensely distended without mural edema or pericholecystic fluid. Two gallstones are seen measuring up to 1.7 cm. One may be impacted in the gallbladder neck.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

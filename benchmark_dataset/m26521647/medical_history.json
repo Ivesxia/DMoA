@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The abdominal pain started 3 days ago, initially located periumbilical and then migrated to the right lower quadrant (RLQ). The patient reports new constipation since the onset of symptoms, is currently experiencing watery bowel movements, and has noted decreased appetite and subjective fevers, but denies chills, nausea, or vomiting.",
+        "past_medical_history": "Hypercholesterolemia, Overweight, Cholelithiasis, Sleep apnea, Vitamin D deficiency, History of positive PPD, History of abnormal liver function tests.",
+        "family_history": "Mother and father are deceased. Brother had prostate surgery for unclear reasons.",
+        "social_history": "Not specified."
+    }
+}

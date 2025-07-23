@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT Angiogram",
+            "date": "Not specified",
+            "findings": "Infrarenal abdominal aorta ectatic to 2.0 cm with mural thrombus, resulting in luminal narrowing to 1.4 x 1.0 cm. Severe stenosis in right common iliac artery with trickle flow, and complete occlusion of left common iliac artery.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic cholecystectomy",
+            "date": "Not specified",
+            "findings": "Subcutaneous emphysema and foci of free intraperitoneal air likely related to recent laparoscopic cholecystectomy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

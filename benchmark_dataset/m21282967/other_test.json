@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal size with prominence of the periportal space, most consistent with cirrhosis. The echotexture is slightly heterogeneous. There are no focal hepatic lesions. No intra- or extra-hepatic biliary duct dilation. The gallbladder is slightly distended and filled with sludge. The gallbladder wall is thickened and edematous, which is unchanged from the prior exam. A moderate amount of pericholecystic fluid appears similar or just slightly increased in amount.",
+            "changes_over_time": "Gallbladder wall is thickened and edematous, unchanged from the prior exam."
+        },
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Not specified",
+            "findings": "No significant growth.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

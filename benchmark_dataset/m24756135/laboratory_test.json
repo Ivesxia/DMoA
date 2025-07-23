@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Lower Thorax: The lung bases are clear. Liver: The liver is normal in morphology and signal intensity. No significant drop of signal on out-of-phase imaging to suggest steatosis. No focal liver lesions are seen. No ascites. Biliary: There is cholelithiasis. No MR evidence of acute cholecystitis. No intra or extrahepatic biliary duct dilation. No evidence of choledocholithiasis. Pancreas: The pancreas is normal in morphology and signal intensity. There are no focal pancreatic lesions. No pancreatic duct dilation. Spleen: The spleen is normal in size. Note is made of a small accessory spleen. Adrenal Glands: The right and left adrenal glands are unremarkable. Kidneys: The kidneys are symmetric in size. No focal renal lesion is seen. Gastrointestinal Tract: There is no hiatal hernia. Views of the small and large bowel are unremarkable. Lymph Nodes: There is no mesenteric or retroperitoneal adenopathy. Vasculature: There is no abdominal aortic aneurysm. Hepatic arterial anatomy is conventional. Portal vein is patent. Osseous and Soft Tissue Structures: There is no suspicious bony lesion. Note is made of asymmetric atrophy of the right greater than left body wall musculature.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for mixed bacterial flora",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 colony types), consistent with skin and/or genital contamination.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

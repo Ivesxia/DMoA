@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "heart_rate": "75 bpm",
+                "blood_pressure": "123/67 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x3, NAD but uncomfortable.",
+                "cardiovascular": "Regular rate and rhythm.",
+                "respiratory": "Unlabored respirations.",
+                "abdominal": "Soft, tender to palpation in RLQ, + rebound tenderness, some guarding, + Rovsing's sign."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

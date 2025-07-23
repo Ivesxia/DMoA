@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "heart_rate": "130 bpm",
+                "blood_pressure": "130/65 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "Thin appearing woman in NAD, comfortable, appropriate.",
+                "HEENT": "NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear.",
+                "lungs": "CTA bilat, no r/rh/wh, good air movement, resp unlabored, no accessory muscle use.",
+                "heart": "PMI non-displaced, RRR, no MRG, nl S1-S2.",
+                "abdomen": "NABS, soft, ttp in epigastrium, no masses or HSM, no rebound/guarding.",
+                "extremities": "WWP, no c/c/e.",
+                "skin": "No rashes or lesions.",
+                "neurological": "Awake, A&Ox3, CNs II-XII grossly intact, muscle strength grossly intact."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

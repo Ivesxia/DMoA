@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix dilated measuring 1.2 cm with surrounding inflammatory changes and bowel wall edema involving the cecum. Several hypodensities within the right kidney consistent with simple cysts, the largest measuring approximately 8.6 x 9.5 cm, minimally increased relative to prior examination. A cortical hypodensity in the left kidney measuring approximately 6 mm, unchanged from prior examination.",
+            "changes_over_time": "Several hypodensities within the right kidney are consistent with simple cysts, the largest measuring 8.6 x 9.5 cm, minimally increased relative to prior examination."
+        },
+        {
+            "procedure_name": "Escherichia coli test",
+            "date": "Not specified",
+            "findings": "Positive for Escherichia coli.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "gallstone pancreatitis",
+        "differential_diagnosis": "Cholelithiasis/cholecystitis, gastrogastric fistula, hypertension, COPD, obesity",
+        "diagnostic_reasoning": "Patient presented with acute onset severe back pain after a large meal and was found to have gallstones and elevated liver function tests (LFTs). The presence of stones in the common bile duct was confirmed during ERCP, which supports the diagnosis of gallstone pancreatitis."
+    }
+}

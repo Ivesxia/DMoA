@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.1°F",
+                "heart_rate": "83 bpm",
+                "blood_pressure": "123/68 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "oropharynx": "Within normal limits",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular rate and rhythm",
+                "abdominal": "Soft, tender periumbilical; right lower quadrant tenderness greater than left lower quadrant tenderness",
+                "skin": "No rash",
+                "neurological": "Speech fluent",
+                "psychiatric": "Normal mentation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

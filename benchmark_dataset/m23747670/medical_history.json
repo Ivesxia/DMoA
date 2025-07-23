@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "RUQ pain",
+        "history_of_present_illness": "Pain began at 3pm. The patient was recently discharged after a prolonged hospital course for NSTEMI, CHF, and respiratory failure and now returns to the ED.",
+        "past_medical_history": "Coronary artery disease - s/p CABG (LIMA-D1, SVG-LAD, SVG-OM1, SVG-RPDA), LVEF >55%, Hypertension, Dyslipidemia, Mild aortic stenosis, Diastolic CHF, Post-op A.fib, DJD, Breast Ca s/p lumpectomy",
+        "family_history": "No family h/o early cardiac death, arrhythmias",
+        "social_history": "Not specified"
+    }
+}

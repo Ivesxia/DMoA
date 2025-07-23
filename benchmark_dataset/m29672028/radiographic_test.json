@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT CHEST W/CONTRAST",
+            "date": "Not specified",
+            "findings": "No incidental thyroid findings. No supraclavicular, infraclavicular or axillary lymphadenopathy. No enlarged lymph nodes at the level of the mediastinum and the hilus. Moderate calcification of the coronary arteries. Mild dilatation and wall thickening of the esophagus. Borderline size of the heart. Mild aortic valve calcifications. No pericardial effusion. The posterior mediastinum is unremarkable, with minimal hiatal hernia. Minimal degenerative vertebral disease. No vertebral compression fractures. No evidence of abnormalities at the level of the ribs and the sternum. Mucus accumulation in the trachea. The airways are otherwise patent and unremarkable. Areas of non-characteristic scarring at the bases of the lingula and the middle lobe. A subpleural 3 mm granuloma in the right lower lobe. Non-characteristic areas of atelectasis in the dependent lung regions bilaterally. No evidence of neoplastic or infectious process. No evidence of pleural effusion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

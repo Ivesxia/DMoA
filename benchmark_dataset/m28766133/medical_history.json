@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute onset abdominal pain.",
+        "history_of_present_illness": "Pain started acutely yesterday evening, described as epigastric pressure/ache in quality, severe in intensity, associated with nausea and vomiting (non-bloody), worse with oral intake, and non-radiating. The patient reports that with pain medications, the pain improved but noted still moderate abdominal pain.",
+        "past_medical_history": "Anxiety, borderline hypertension, fatty liver, insomnia, GERD, ADHD, neuropathy, depression.",
+        "family_history": "Denies family history of gallbladder, liver, or pancreatic disease. Father with heart problems, mother is healthy, siblings include two sisters and two brothers, of which one sister and one brother have rheumatoid arthritis. Positive family history of multiple sclerosis.",
+        "social_history": "Daily alcohol use."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is normal in grayscale appearance and size without focal lesion. No intrahepatic or extrahepatic biliary ductal dilation is seen. The pancreas appears normal without focal lesion or pancreatic ductal dilation. The gallbladder is normal without gallstones and there is no sonographic Murphy's sign. Main portal vein is patent with hepatopetal flow. Limited views of the right kidney are unrevealing.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

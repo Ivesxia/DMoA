@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized lung bases appear clear. The liver, gallbladder, pancreas, spleen, adrenal glands, and kidneys appear within normal limits. The stomach and small bowel appear within normal limits. The colon also appears normal. The appendix is dilated with mural thickening and enhancement in addition to slight fat stranding near the tip. Findings are consistent with acute uncomplicated appendicitis. There is no evidence for fluid collection or free air. The prostate, seminal vesicles, and bladder appear within normal limits. The major mesenteric arteries and veins appear patent. Scattered subcentimeter retroperitoneal lymph nodes are probably reactive. There are no suspicious lytic or blastic bone lesions. There is mild spondylolisthesis of L5 on S1 associated with bilateral spondylolysis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

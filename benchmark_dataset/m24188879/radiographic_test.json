@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest (Portable AP)",
+            "date": "Not specified",
+            "findings": "Concerning for free air near anterior stomach",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Small amount of free air",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

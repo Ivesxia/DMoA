@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver demonstrates low attenuation consistent with fatty liver. There is no evidence of focal lesions or biliary dilatation. The gallbladder is distended, edematous, containing multiple gallstones including a 2.4 cm stone appearing impacted in the neck of the gallbladder. There is significant surrounding stranding without evidence of free air or adjacent fluid collections. There is an area of discontinuity in the mucosa, concerning for possible complicated cholecystitis by perforation. The pancreas, spleen, kidneys, stomach, and other structures appear normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic cholecystectomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

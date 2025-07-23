@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "gallstone pancreatitis",
+        "differential_diagnosis": "Not specified.",
+        "diagnostic_reasoning": "The patient presented with worsening epigastric pain and a history of cholelithiasis. MRCP findings indicated low T2 signal intensity in the gallbladder consistent with small gallstones and sludge, and mildly decreased T1 signal in the pancreas, suggesting pancreatitis without signs of cholecystitis or biliary duct obstruction."
+    }
+}

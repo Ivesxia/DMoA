@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.3°F",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "119/79 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "mild distress, in bed, unable to sleep on right side",
+                "lungs": "within normal limits",
+                "cardio": "regular rate and rhythm",
+                "abdomen": "soft and obese, tender to right abdomen (RUQ >>> RLQ), Courvoisier sign positive, non-peritoneal, no tenderness to palpation, no costovertebral angle tenderness",
+                "extremities": "within normal limits"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

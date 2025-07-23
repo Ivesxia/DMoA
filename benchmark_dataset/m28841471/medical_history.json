@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain and headache.",
+        "history_of_present_illness": "The patient has experienced abdominal pain and headache for the past 3 weeks. The abdominal pain is described as diffuse, constant, dull, and unchanged with food, without associated nausea, vomiting, diarrhea, fevers, or chills. The headache is bifrontal, constant, with no associated fevers, chills, photophobia, or neck stiffness. Additionally, the patient has noted intermittent blurry vision from both eyes. He also reports that he hit his right toe against a chair several weeks ago, causing a prior surgical wound to reopen, which has become more swollen and red.",
+        "past_medical_history": "Diabetes Mellitus type 2 with neuropathy, Hypertension, Hypercholesterolemia, Gastroesophageal reflux disease, Right foot cellulitis, Right toe necrosis status post toe amputation, History of right toe osteomyelitis, Chronic renal insufficiency, History of small cerebral vascular accidents.",
+        "family_history": "History of diabetes mellitus and hypertension.",
+        "social_history": "Not specified."
+    }
+}

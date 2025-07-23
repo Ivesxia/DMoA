@@ -1,0 +1,23 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "liver": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites.",
+                "bile_ducts": "There is no intrahepatic biliary dilation. The CHD measures 3 mm.",
+                "gallbladder": "There is a 1.7 cm nonmobile gallstone in the region of the gallbladder neck. There is gallbladder distention without wall thickening or pericholecystic edema. Sonographic Murphy sign was positive.",
+                "pancreas": "The imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation, with portions of the pancreatic tail obscured by overlying bowel gas.",
+                "kidneys": "Limited views of the right kidney show no hydronephrosis.",
+                "retroperitoneum": "The visualized portions of aorta and IVC are within normal limits."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "BETA STREPTOCOCCUS GROUP B",
+            "date": "Not specified",
+            "findings": "Group B beta streptococcus detected.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

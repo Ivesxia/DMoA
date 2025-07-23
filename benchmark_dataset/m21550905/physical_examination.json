@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "heart_rate": "84 bpm",
+                "blood_pressure": "169/91 mmHg",
+                "respiratory_rate": "16"
+            },
+            "relevant_findings": {
+                "general": "well-appearing man lying in bed, NAD",
+                "HEENT": "PERRL, EOMI, sclera anicteric, moist mucous membranes",
+                "cardiac": "RRR, no murmurs, rubs, or gallops",
+                "chest": "Clear to auscultation bilaterally",
+                "abdomen": "normal bowel sounds, abdomen focally tender to palpation in RUQ with Murphy’s sign, positive rebound tenderness in RUQ",
+                "extremities": "Warm, well-perfused, no edema or cyanosis, no jaundice"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

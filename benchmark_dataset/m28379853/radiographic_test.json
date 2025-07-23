@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in echogenicity with no focal lesions present. The portal vein is patent with hepatopetal flow. Gallbladder is distended with stones which are nonmobile in the neck of the gallbladder. There is mild gallbladder wall edema with pericholecystic fluid. No ascitic fluid is present.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

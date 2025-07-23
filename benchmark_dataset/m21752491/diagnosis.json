@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute Pancreatitis",
+        "differential_diagnosis": "Urinary tract infection with Methicillin-resistant Staphylococcus aureus",
+        "diagnostic_reasoning": "Patient presented with acute epigastric pain after breakfast, associated with nausea and vomiting. There was a notable history of similar pain episodes, but this one was persistent and severe. The abdominal examination showed diffuse tenderness, which supports the diagnosis of acute pancreatitis. Additionally, the patient was identified as having a urinary tract infection confirmed by the presence of Methicillin-resistant Staphylococcus aureus and treated with IV Vancomycin."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The lung bases are clear bilaterally. The liver contains two sub-cm scattered hypodensities, too small to fully characterize. The remainder of the liver and gallbladder are normal. No intra- or extra-biliary duct dilatation. Pancreas and spleen are normal. Multiple hypoattenuating bilateral renal lesions, some representing simple cysts, with some showing higher internal density values. Normal adrenal glands. No retroperitoneal or mesenteric lymphadenopathy. No free fluid or free air in the abdomen. An inflamed cecal diverticulum with surrounding pericolonic fat stranding and thickening of the lateroconal fascia. The appendix is normal in size with mildly thickened walls and minimal adjacent stranding. No pelvic lymphadenopathy, free fluid, or pelvic hernias.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

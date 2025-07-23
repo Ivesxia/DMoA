@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver contains no focal lesion. There is no biliary ductal dilatation. The gallbladder, pancreas, and spleen have a normal appearance. The adrenal glands appear stably thickened bilaterally without focal nodule. A lobulated contour of the kidneys is again noted with several hypodense lesions likely reflecting cysts. There is cortical atrophy along the upper pole of the left kidney which may reflect scarring related to prior infection or infarction. Atherosclerotic calcification along the abdominal aorta is noted. No lymphadenopathy, free air or free fluid is seen in the abdomen. The stomach and small bowel follow a normal course. Colonic diverticulosis is noted. There is a diverticulum along the distal transverse colon which is slightly thickened with mild adjacent fat stranding. There is a segment of thickened bowel along the descending colon with adjacent fat stranding and fluid tracking along the paracolic gutter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Guaiac stool test",
+            "date": "Not specified",
+            "findings": "The patient had a guiac positive brown stool.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

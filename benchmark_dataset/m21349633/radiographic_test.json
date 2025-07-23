@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Periportal edema is present; the liver is otherwise unremarkable. Trace pericholecystic fluid; pancreas, spleen, adrenals, and kidneys are unremarkable. No bowel obstruction. Near the base of the appendix, a hyperdense focus suggestive of an appendicolith. The appendix is dilated to 15 mm with hyperemic wall, surrounding fat stranding, and small amount of free fluid. Focal irregularities of the wall of the appendix could suggest early perforation, no pneumoperitoneum or pneumatosis appreciated. There is no significant free fluid in the pelvis. No abscess appreciated. Trace fluid in the pelvis. No enlarged lymph nodes. No aggressive osseous lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

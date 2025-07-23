@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "72.0 IU/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "No focal consolidation, pleural effusion, pneumothorax, or pulmonary edema is seen. Heart and mediastinal contours are within normal limits. No free intraperitoneal air detected.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

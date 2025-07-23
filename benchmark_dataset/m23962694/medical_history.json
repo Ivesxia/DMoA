@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Weight loss, nausea, and vomiting.",
+        "history_of_present_illness": "Symptoms began approximately one week ago with nausea and vomiting triggered by the smell of food, leading to significant weight loss of about 25 lbs over the past weeks. Patient has a history of dark, tarry stools evaluated previously, and worsening chronic back pain for the past few months, which has affected mobility.",
+        "past_medical_history": "Hypertension, hyperlipidemia, coronary artery disease status post stent in RCA, peptic ulcer disease with a previous GI bleed, carotid artery stenosis (L >70%), moderate/severe left hip osteoarthritis, chondrocalcinosis of the hip joints and left knee, severe spinal stenosis at L4-L5, right L45 disc herniation, and left L5-S1 disc herniation.",
+        "family_history": "Family members with hypertension.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Yeast",
+            "date": "Not specified",
+            "findings": "28.6 sec (normal range: 25.0 to 36.5 sec)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

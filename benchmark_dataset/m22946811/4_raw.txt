@@ -1,0 +1,18 @@
+```json
+{
+  "laboratory_examinations": [
+    {
+      "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+      "date": "Not specified",
+      "findings": "The liver shows increased echogenicity. No focal hepatic lesions identified. There is no evidence of intrahepatic or extrahepatic biliary dilatation. The common bile duct measures 5 mm. The portal vein is patent. The gallbladder is normal without evidence of stones or gallbladder wall thickening. Examination of the pancreas is somewhat limited due to overlying bowel gas. However, visualized portions of the pancreatic body are within normal limits. Visualized portions of the right kidney are normal.",
+      "changes_over_time": "Not specified"
+    },
+    {
+      "procedure_name": "Laboratory Test",  // assuming this represents a specific lab test
+      "date": "Not specified",
+      "findings": "2.4 mmol/L (reference range: 0.5 - 2.0 mmol/L)",  // reporting the result with reference range
+      "changes_over_time": "Not specified"
+    }
+  ]
+}
+```

@@ -1,0 +1,15 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right lower quadrant (RLQ) pain presumed to be due to a Crohn's flare.",
+        "history_of_present_illness": "The patient experienced sudden, severe RLQ pain that radiated to her back on ___ at 11 AM while shopping. The pain improved slightly overnight but returned later in the afternoon. She reported very minimal flatus and no bowel movement since yesterday at 11 AM.",
+        "past_medical_history": [
+            "Crohn's disease, treated with Remicade, history of ileocecal resection",
+            "Surgical drainage of rectal fistula",
+            "Anemia thought to be secondary to iron deficiency",
+            "Known cholelithiasis",
+            "Reflux"
+        ],
+        "family_history": "No coronary artery disease, hypertension, or diabetes mellitus.",
+        "social_history": "Not specified."
+    }
+}

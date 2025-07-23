@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "75 bpm",
+                "blood_pressure": "129/77 mmHg",
+                "respiratory_rate": "15 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, A&Ox3",
+                "HEENT": "NC/AT, EOMI",
+                "cardiovascular": "RRR",
+                "pulmonary": "easy work of breathing on RA, normal chest rise",
+                "abdominal": "soft, tender to palpation in the right upper quadrant with guarding, negative ___ sign, nondistended, no palpable masses or hernias",
+                "extremities": "warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

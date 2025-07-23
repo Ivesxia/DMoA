@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "The study is degraded by motion artifact. Mild platelike atelectasis in the lung bases. Normal hepatic morphology. Mild peribiliary edema noted. Mild hyperenhancement in segments 4B and 5 adjacent to the gallbladder fossa suggesting reactive changes. Gallbladder is distended with wall thickening suggesting inflammation; the wall is hyperintense on T2-weighted images with an irregular enhancement pattern, including many small nonenhancing foci along the inner wall. No gallstones noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endoscopy",
+            "date": "Not specified",
+            "findings": "Negative for any abnormalities.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level is 2305, indicating significantly elevated levels consistent with pancreatitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Significant peripancreatic fatty stranding, fluid, and thickening of the left perirenal fascia. Hypoenhancement of the pancreatic tail compatible with necrosis. Ill-defined intermediate density focus likely representing scarring or fat necrosis, unchanged in appearance.",
+            "changes_over_time": "Focus in the left lower quadrant measuring 5.3 x 1.3 cm is grossly unchanged from a prior exam."
+        }
+    ]
+}

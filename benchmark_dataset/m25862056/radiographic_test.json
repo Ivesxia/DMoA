@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in echogenicity. Previously noted cyst within segment 6 of the liver was not imaged on the current exam. No new hepatic lesions were identified. The gallbladder is now markedly distended containing multiple shadowing gallstones, one of which is lodged within the gallbladder neck. There is no gallbladder wall thickening, edema, or pericholecystic fluid. No intra or extrahepatic biliary duct dilatation is present with the common bile duct measuring 4 mm. The spleen is normal in size measuring 8 cm. No hydronephrosis observed in the kidneys.",
+            "changes_over_time": "Since the prior study, the gallbladder is now markedly distended with the presence of multiple shadowing gallstones and one lodged in the gallbladder neck; no new hepatic lesions were identified."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild dependent atelectasis in lung bases; normal liver with mild intrahepatic biliary ductal dilation; distended gallbladder with innumerable stones; thickening and mild adjacent stranding near gallbladder fundus; normal spleen, pancreas, adrenal glands, and kidneys; small amount of free fluid in the cul-de-sac; no evidence of colitis/diverticulitis; no pelvic or inguinal lymphadenopathy; new superior endplate compression deformity involving L1; degenerative changes at the symphysis pubis.",
+            "changes_over_time": "Intrahepatic biliary ductal dilation not appreciated on concurrent ultrasound; thickening and mild adjacent stranding near the gallbladder fundus new from prior CT; new compression deformity involving L1 not present in prior imaging."
+        }
+    ]
+}

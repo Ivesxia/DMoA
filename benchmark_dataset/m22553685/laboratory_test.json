@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chemistry Panel",
+            "date": "Not specified",
+            "findings": "8.5 mg/dL (within normal range of 8.4 to 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound (US APPENDIX)",
+            "date": "Not specified",
+            "findings": "Targeted ultrasound evaluation of the right lower quadrant failed to reveal the appendix.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

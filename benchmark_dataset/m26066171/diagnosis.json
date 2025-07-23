@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Coronary Artery Disease",
+        "differential_diagnosis": "Cholecystitis, Clostridium Difficile Infection, Heparin Induced Thrombocytopenia",
+        "diagnostic_reasoning": "The patient presented with severe dizziness, weakness, chest pressure, and dyspnea, and had an electrocardiogram revealing new inferior Q waves and 1-2mm ST elevations. Initial troponin was elevated at 2.6, indicating myocardial injury. Cardiac catheterization demonstrated severe multivessel disease, which supports the diagnosis of Coronary Artery Disease."
+    }
+}

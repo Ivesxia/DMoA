@@ -1,0 +1,19 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "110 bpm",
+                "blood_pressure": "100/52 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "temperature": "98 °F"
+            },
+            "relevant_findings": {
+                "consciousness": "Alert and oriented x3",
+                "heart": "Bilateral irregular heart rate, tachycardic",
+                "abdominal_examination": "Soft, non-tender, non-distended, + bowel sounds, +1 edema in bilateral extremities"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Troponin Test",
+            "date": "Not specified",
+            "findings": "Elevated troponin level of 0.29.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase Test",
+            "date": "Not specified",
+            "findings": "Initial lipase level of 700, subsequent level of 931.",
+            "changes_over_time": "Increased lipase levels over time."
+        },
+        {
+            "procedure_name": "EKG",
+            "date": "Not specified",
+            "findings": "Sinus rhythm at 63 bpm, no significant ST elevation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endoscopy",
+            "date": "1 week prior to admission",
+            "findings": "Not specified, but related to recurrent esophageal strictures.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

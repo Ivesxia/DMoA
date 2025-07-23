@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Thickening of the sigmoid colon with surrounding inflammatory changes; a 3.1 x 3.7 cm phlegmonous fluid collection has decreased in size and is less fluid-like compared to previous study.",
+            "changes_over_time": "The phlegmonous fluid collection has decreased in size and appears more phlegmonous since the prior study."
+        }
+    ]
+}

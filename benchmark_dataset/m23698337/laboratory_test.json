@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Electrolyte Panel",
+            "date": "Not specified",
+            "findings": "3.5 mEq/L (normal range: 3.3 - 5.1 mEq/L)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is dilated up to 13 mm, fluid filled with haziness of the surrounding fat. No adjacent fluid collection or free intraperitoneal air. No ascites.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

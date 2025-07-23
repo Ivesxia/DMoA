@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Severe nausea, vomiting, abdominal pain, and hematemesis.",
+        "history_of_present_illness": "The patient has had multiple admissions for nausea, vomiting, and abdominal pain, but states that this episode is much worse than before. Symptoms began worsening over the last 3 days with at least 5 episodes of hematemesis, and she has not been able to eat or drink anything. Notably, her epigastric pain is radiating to the back, which is unusual for her. She has also been feeling very weak and dizzy during this time.",
+        "past_medical_history": "Eosinophilic esophagitis/gastritis, Peripheral eosinophilia, PUD with negative H. pylori, Anemia NOS.",
+        "family_history": "Father has CAD and PVD. Mother's side has a history of breast cancer and ovarian cancer (aunt diagnosed at age not specified). No family history of celiac, leukemia, lymphoma, or MEN cancers.",
+        "social_history": "Not specified."
+    }
+}

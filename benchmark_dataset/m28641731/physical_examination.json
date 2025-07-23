@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4°F",
+                "heart_rate": "81 bpm",
+                "blood_pressure": "176/102 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "general": "NAD, A+Ox3",
+                "HEENT": "no scleral icterus, oropharynx clear",
+                "cardiovascular": "RRR",
+                "pulmonary": "clear bilaterally",
+                "abdominal": "soft, mild distention, moderate RUQ tenderness, no masses, no rebound or guarding, well healed low abdominoplasty incision and other incisions.",
+                "extremities": "warm, well perfused, palpable DP pulses bilaterally, no edema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

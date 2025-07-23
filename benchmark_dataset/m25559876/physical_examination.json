@@ -1,0 +1,44 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.3",
+                "heart_rate": "130",
+                "blood_pressure": "109/57",
+                "respiratory_rate": "21",
+                "oxygen_saturation": "89% on 6L NC"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, no acute distress, Bipap mask on",
+                "heent": "Sclera anicteric, MMM, oropharynx clear",
+                "neck": "supple, JVP not elevated, no LAD",
+                "lungs": "Diffuse wheezes",
+                "cardiovascular": "Irregularly irregular, normal S1 + S2, no murmurs, rubs, gallops",
+                "abdomen": "no bruising, +BS, soft, protuberant, non-distended, marked RUQ and LUQ tenderness, no rebound tenderness or guarding, no organomegaly",
+                "gu": "+foley",
+                "extremities": "warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema, bilateral chronic changes with erythema"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4",
+                "heart_rate": "94",
+                "blood_pressure": "128/76",
+                "respiratory_rate": "23",
+                "oxygen_saturation": "93%/5LxNC"
+            },
+            "relevant_findings": {
+                "general": "Morbidly obese man, appears uncomfortable in extra-large bed but NAD",
+                "heent": "NCAT EOMI PERRLA MMM, mild scleral icterus, neck supple no JVD",
+                "cardiovascular": "Irregularly irregular no murmur",
+                "pulmonary": "Prominent wheeze throughout respiratory cycle",
+                "abdomen": "soft, obese, full but nontympanic or distended, nontender to deep",
+                "extremities": "2+ pitting edema to knees equal bilaterally superimposed upon stigmata of chronic venous stasis surrounding RLE scar from bypass surgery, Foley and dark urine present"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

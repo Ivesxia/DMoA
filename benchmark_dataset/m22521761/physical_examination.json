@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.8°F",
+                "heart_rate": "76 bpm",
+                "blood_pressure": "128/61 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "General": "Lying in bed, alert and oriented x 2",
+                "HEENT": "PERRL, EOMI bilateral, no conjunctival injection, atraumatic",
+                "Neck": "No lymphadenopathy",
+                "Cardiovascular": "Regular rate and rhythm",
+                "Pulmonary": "Clear to auscultation bilaterally",
+                "Abdomen": "Obese, soft, moderate tenderness to palpation in right upper quadrant, non-distended, no rebound or guarding.",
+                "Extremities": "No edema, 2+ pulses bilaterally"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

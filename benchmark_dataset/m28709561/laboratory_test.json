@@ -1,0 +1,42 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory test for hypercholesterolemia",
+            "date": "Not specified",
+            "findings": "7.0 units (normal range: 5.0 - 8.0 units)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lungs": "mild dependent atelectasis, without consolidation or pleural effusion",
+                "heart": "normal in size, without pericardial effusion",
+                "liver": "multiple small hepatic hypodensities, suggestive of simple cysts",
+                "gallbladder": "unremarkable",
+                "pancreas": "unremarkable",
+                "spleen": "unremarkable",
+                "adrenal glands": "unremarkable",
+                "stomach": "unremarkable",
+                "duodenum": "unremarkable",
+                "kidneys": "enhanced and excrete contrast symmetrically without hydronephrosis, stones, or worrisome renal masses; however, a focal cortical hypodensity in the left kidney too small to characterize",
+                "abdominal_aorta": "normal",
+                "free_air_or_fluid": "none noted",
+                "CT PELVIS": {
+                    "diverticulosis": "right-sided noted",
+                    "bowel_wall_thickening": "marked involving the cecum with associated pericecal stranding",
+                    "cecal_diverticulum": "appears inflamed with mucosal hyperenhancement",
+                    "fluid": "small amount in the right paracolic gutter adjacent to the appendix",
+                    "appendix": "normal in size, measuring 5 mm, with a small amount of air at the tip",
+                    "reactive_lymph_nodes": "noted in the RLQ",
+                    "colon": "scattered diverticulosis without other foci of acute findings",
+                    "small_bowel": "normal in caliber",
+                    "free_fluid": "small amount layering dependently in the pelvis",
+                    "urinary_system": "unremarkable"
+                },
+                "osseous_structures": "no fracture or worrisome bony lesion"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

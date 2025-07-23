@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated and fluid filled measuring up to 16 mm with wall thickening, hyperemia and surrounding inflammation. Visualized lung fields are within normal limits. No evidence of pleural or pericardial effusion. Liver demonstrates homogenous attenuation with no focal lesions. Pancreas has normal attenuation without focal lesions. Spleen shows normal size and attenuation with multiple small accessory spleens. Kidneys are normal and symmetric with multiple subcentimeter hypodensities in the right kidney likely representing cysts. Stomach and small bowel loops are unremarkable. No evidence of perforation. No free fluid in the pelvis. No retroperitoneal or mesenteric lymphadenopathy.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

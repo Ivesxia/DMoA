@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.7°F",
+                "blood_pressure": "116/64 mmHg",
+                "heart_rate": "89 bpm",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "NAD, lying in bed",
+                "HEENT": "No icterus, mucous membranes moist",
+                "chest": "Clear to auscultation bilaterally",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/rubs/gallops",
+                "abdominal": "Non-distended, soft, tender in right upper quadrant, no rebound",
+                "extremities": "Shins with bandages, warm, well-perfused, no edema/cyanosis",
+                "neurological": "Alert, answering questions appropriately"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "chest": "Heart size mildly enlarged, new infiltrate in left lower lobe obscuring left hemidiaphragm and a new small left effusion",
+                "pulmonary": "Minimal pulmonary vascular redistribution; left lower lobe findings much worse compared to prior study"
+            },
+            "changes_over_time": "Worsening of left lower lobe findings compared to previous study"
+        }
+    ]
+}

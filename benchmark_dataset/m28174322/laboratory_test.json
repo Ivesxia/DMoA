@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Random blood glucose",
+            "date": "Not specified",
+            "findings": "RANDOM.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Normal cardiac silhouette and mediastinum; a 6-mm calcific density in the right upper lobe consistent with a calcified granuloma; rest of the lung fields are clear; no focal consolidation or pleural effusions; no pneumothoraces.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

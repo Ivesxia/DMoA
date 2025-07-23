@@ -1,0 +1,10 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Abdominal ultrasound",
+            "date": "Not specified",
+            "findings": "The liver demonstrates normal echotexture without evidence of focal masses or intrahepatic biliary dilatation. The gallbladder is well distended without evidence of cholelithiasis. The gallbladder wall is normal in caliber. There is no pericholecystic fluid. The common bile duct is normal in caliber measuring 2 mm. The right kidney measures 11.3 cm. There is no hydronephrosis, nephrolithiasis, or suspicious renal masses. The visualized aspect of the aorta and IVC are normal without aneurysmal dilatation. The spleen is normal in size, measuring 8.8 cm. The left kidney measures 11.6 cm. There is pelvicalyceal fullness, as seen on the prior CT. The pancreatic head, neck, and body are well visualized and demonstrate no evidence of focal masses. Partially obscured pancreatic tail.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

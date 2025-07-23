@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric pain",
+        "history_of_present_illness": "The patient woke up at 2AM with severe epigastric pain. Initially, he was fine until then. The pain was more severe, constant, and non-radiating compared to past abdominal pain associated with GERD. He described the pain as a twisting sensation in his chest with band-like pain across his upper abdomen. Previous medications (Mylanta, reglan, and peptobismol) did not relieve the pain. He experienced nausea and dry heaves after taking Percocet, but no vomiting. Eating crackers did not worsen or improve his pain. Reports having pizza the previous night, which is a trigger for his GERD. He has a history of episodic abdominal pain and frequent stooling.",
+        "past_medical_history": "1. Multi-level cervical spondylosis 2. GERD 3. Hiatal hernia 4. Shingles while on prednisone. Upper endoscopy showed ulcers on vocal cords and small hiatal hernia.",
+        "family_history": "Father had lung cancer (smoker) and hernia; no family history of heart disease or gallstones.",
+        "social_history": "Patient works often from home. Recent unusual alcohol consumption noted (___ beers on ___ night). No recent travel."
+    }
+}

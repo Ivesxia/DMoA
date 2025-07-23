@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic, consistent with hepatic steatosis. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites. Bile ducts show no intrahepatic biliary dilation. The CBD measures 4 mm. Sludge and tiny stones are seen in the gallbladder. Gallbladder polyps, measuring up to 1.0 cm, are seen and unchanged. The pancreas appears within normal limits, without masses or pancreatic ductal dilation. The spleen has normal echogenicity, measuring 9.6 cm. The right kidney shows no gross abnormality. The IVC shows no gross abnormality.",
+            "changes_over_time": "Gallbladder polyps are unchanged; no specific changes over time for other findings are mentioned."
+        },
+        {
+            "procedure_name": "Unknown laboratory test",
+            "date": "Not specified",
+            "findings": "4.2 mg/dL, with a reference range of 2.7 to 4.5 mg/dL.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

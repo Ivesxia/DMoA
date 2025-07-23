@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2°F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "134/90 mmHg",
+                "respiratory_rate": "15 breaths/min",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "general": "Ill appearing, writhing",
+                "HEENT": "Normocephalic, atraumatic; Oropharynx within normal limits",
+                "chest": "Clear to auscultation",
+                "abdominal": "Soft, significant RLQ tenderness to palpation and diffuse tenderness to palpation",
+                "extremities": "No cyanosis, clubbing or edema",
+                "skin": "No rash",
+                "neurological": "Speech fluent",
+                "psychological": "Normal mood"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

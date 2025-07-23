@@ -1,0 +1,10 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Lung volumes are low. Bibasilar linear and subsegmental atelectasis has increased. There is a retrocardiac airspace opacity which is most likely due to atelectasis, but infection cannot be excluded. There is no pneumothorax. The heart and mediastinum are magnified by the projection. Regional bones and soft tissues are unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

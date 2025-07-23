@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "blood_pressure": "156/78 mmHg",
+                "heart_rate": "60 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "94% on room air"
+            },
+            "relevant_findings": {
+                "general": "well appearing",
+                "HEENT": "PERRL, EOMI, no icterus or injection",
+                "neck": "No meningismus, no lymphadenopathy",
+                "cardiovascular": "Regular rate and rhythm, no murmur",
+                "lungs": "No increased work of breathing, clear to auscultation bilaterally",
+                "abdomen": "Soft, mildly distended, normal bowel sounds, mild tenderness in left lower quadrant, no guarding or rebound tenderness",
+                "back": "surgical site clean, dry, intact, tender",
+                "extremities": "no edema, feet warm, palpable dorsalis pedis pulses bilaterally",
+                "skin": "Stasis dermatitis of lower extremities",
+                "neurological": "Normal mental status, cranial nerves intact, neck range of motion normal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

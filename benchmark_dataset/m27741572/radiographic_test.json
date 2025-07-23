@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Bibasilar atelectasis in the partially imaged dependent lungs is mild. 6 mm hypodensity in the left hepatic lobe is too small to accurately characterize, statistically most likely a cyst, hemangioma, or biliary hamartoma. Remaining hepatic parenchyma enhances homogeneously. The pancreas has normal attenuation throughout, without evidence of focal lesions or pancreatic ductal dilatation. The spleen shows normal size and attenuation throughout. The right and left adrenal glands are normal in size and shape. The kidneys are of normal and symmetric size with normal nephrogram. Bilateral renal cortical hypodensities are too small to accurately characterize on CT, statistically most likely cysts. The appendix is dilated with wall hyperemia and moderate surrounding fat stranding in the right lower quadrant. No definite appendicolith is identified. Marked wall edema and/or phlegmon at the base of the appendix. No evidence of a drainable fluid collection. No free air. Minimal secondary inflammatory changes in the cecum. No retroperitoneal or mesenteric lymphadenopathy. No evidence of worrisome osseous lesions or acute fracture. Mild S-shaped curvature of the imaged spine. Multilevel degenerative changes in the lumbar spine are mild and most pronounced at L4 through S1.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

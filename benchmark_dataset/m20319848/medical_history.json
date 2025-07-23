@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient has had 2 days of right upper quadrant pain that is gradual and constant. Pain is worse with deep breaths. Associated symptoms include nausea and anorexia.",
+        "past_medical_history": "Bipolar disorder",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

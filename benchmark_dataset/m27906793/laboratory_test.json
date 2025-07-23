@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "WBC 4.5; Hct 35; Plt 199",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Basic Metabolic Panel (BMP)",
+            "date": "Not specified",
+            "findings": "Na 137, K 4.1, Cl 106, CO2 21, BUN 31, Cr 2.2",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "Glu 194, ALT 18, AST 16, AP 157, LDH 172, Tbili 0.6, Alb 3.7",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Lg blood, 30 protein, few bacteria",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate Level",
+            "date": "Not specified",
+            "findings": "Lactate 0.9",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "3.1-cm gallstone lodged in neck of gallbladder; mobile sludge; wall thickening to 5.1 mm; no pericholecystic fluid; gallbladder measures 4.9 mm; liver normal in contour and echotexture; normal portal venous flow; no ascites",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

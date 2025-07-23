@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Small bilateral pleural effusions with adjacent consolidation, likely atelectasis; mild intrahepatic biliary duct dilation; tiny hypodensities in segment 6; small amount of fluid in the gallbladder fossa; normal pancreas; symmetric and normal kidneys; multiple hypodensities in the right kidney; moderate amount of intermediate density fluid within the pelvis; prominent mesenteric lymph nodes; no focal lytic or sclerotic osseous lesions; soft tissue stranding compatible with port site placement.",
+            "changes_over_time": "Tiny hypodensities in segment 6 are unchanged compared to prior CT."
+        }
+    ]
+}

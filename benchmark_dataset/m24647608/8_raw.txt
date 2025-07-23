@@ -1,0 +1,48 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "surgery",
+      "specific_treatment": "Laparoscopic cholecystectomy",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Not specified"
+    },
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "Ciprofloxacin and Metronidazole",
+      "start_date": "Not specified",
+      "end_date": "2023-10-04",  // Assuming the antibiotic was completed 3 days before discharge
+      "dosage_or_details": "1 week course",
+      "treatment_response": "Completed antibiotics 3 days ago"
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2023-10-01", // Approximate date of heavy pasta dinner and acute onset of RUQ pain
+      "event": "Acute onset RUQ abdominal pain lasted 2 hours"
+    },
+    {
+      "date": "2023-09-20", // Approximate date for the previous episode of pain
+      "event": "Patient experienced 3rd episode of RUQ pain, transferred to OSH"
+    },
+    {
+      "date": "Not specified",
+      "event": "Patient had MRCP which showed no evidence of choledocholithiasis"
+    },
+    {
+      "date": "Not specified",
+      "event": "Sent home with a plan to follow up with a surgeon"
+    },
+    {
+      "date": "Not specified",
+      "event": "Consultation for surgery evaluation after presentation in ED"
+    },
+    {
+      "date": "2023-10-04", // Assuming this is the discharge date, 3 days after completing antibiotics
+      "event": "Completed 1 week course of ciprofloxacin and metronidazole"
+    }
+  ]
+}
+```

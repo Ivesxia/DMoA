@@ -1,0 +1,23 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "LIVER": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites.",
+                "BILE DUCTS": "There is no intrahepatic biliary dilation. The CBD measures 3 mm.",
+                "GALLBLADDER": "The gallbladder is distended with wall thickening, sludge and numerous stones, including several stones near the gallbladder neck. There is a positive ___ sign.",
+                "PANCREAS": "Imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation, with portions of the pancreatic tail obscured by overlying bowel gas.",
+                "SPLEEN": "Normal echogenicity, measuring 11 cm.",
+                "KIDNEY": "Limited images of the right kidney are normal."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LABORATORY TEST HOLD",
+            "date": "Not specified",
+            "findings": "HOLD. SPECIMEN TO BE HELD 48 HOURS AND DISCARDED.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

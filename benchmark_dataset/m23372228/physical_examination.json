@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "99 bpm",
+                "blood_pressure": "112/77 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "A&O x3, NAD",
+                "HEENT": "No scleral icterus, mucous membranes moist",
+                "cardiovascular": "RRR, No M/G/R",
+                "pulmonary": "CTAB, No W/R/R",
+                "abdominal": "Mild guarding, nondistended, tenderness in RLQ and LLQ, most tender in RLQ near McBurney's point, Rovsing's sign negative, obturator sign negative, psoas sign positive, +BS"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

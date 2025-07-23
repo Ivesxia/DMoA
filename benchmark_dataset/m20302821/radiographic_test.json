@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized lung bases are clear. There are no pleural effusions. The heart is normal in size, without pericardial effusion. The liver enhances homogeneously, without focal lesions. Gallbladder is collapsed. The pancreas is normal. There is no intra- or extra-hepatic biliary ductal dilatation. The spleen is normal in size. The adrenals are normal. The kidneys enhance and excrete contrast promptly and symmetrically, without masses or hydronephrosis. The stomach and small bowel are normal. The appendix courses posteriorly from the cecal base into the mid pelvis. The proximal portion of the appendix is normal, with internal locules of air. However, the distal appendix is fluid-filled and mildly enlarged, measuring 7-8 mm. There is no current evidence of wall thickening, fat stranding, or extraluminal air/fluid collections. A moderate amount of retained fecal material is noted throughout the remainder of the colon. The bladder is distended with urine, with bilateral ureteral jets demonstrated. Prostate and seminal vesicles are unremarkable. Mesenteric and retroperitoneal lymph nodes are not pathologically enlarged. No suspicious lytic or sclerotic osseous lesions are identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

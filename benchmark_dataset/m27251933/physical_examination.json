@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "heart_rate": "85 bpm",
+                "blood_pressure": "101/84 mmHg",
+                "oxygen_saturation": "97%"
+            },
+            "relevant_findings": {
+                "general": "The patient is alert, pleasant, and in no acute distress.",
+                "chest": "Normal.",
+                "cardiovascular": "Normal.",
+                "abdominal": "Soft, obese, tender to palpation in the right lower quadrant without rigidity, positive guarding.",
+                "extremities": "No cyanosis, clubbing, or edema.",
+                "skin": "Warm and dry.",
+                "neurological": "Normal.",
+                "psychological": "Normal mentation."
+            },
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.4°F",
+                "heart_rate": "102 bpm",
+                "blood_pressure": "117/66 mmHg",
+                "respiratory_rate": "20"
+            },
+            "relevant_findings": {
+                "general": "Alert, pleasant, nontoxic, appears comfortable.",
+                "abdominal": "Soft, appropriately tender, nondistended.",
+                "port_sites": "With gauze/tegaderm in place.",
+                "gait": "Normal."
+            },
+            "changes_over_time": "Worsening heart rate from 85 bpm to 102 bpm; temperature increased from 98.5°F to 99.4°F."
+        }
+    ]
+}

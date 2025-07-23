@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic, smooth contour, no focal liver mass; patent main portal vein with hepatopetal flow; no ascites. No intrahepatic biliary dilation; CBD measures 11 mm. Gallbladder is borderline distended with multiple mobile shadowing gallstones; no gallbladder wall thickening or pericholecystic fluid. Pancreas appears within normal limits; spleen normal echogenicity measuring 13.4 cm; normal kidneys without evidence of masses, stones, or hydronephrosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is markedly inflamed, demonstrating wall thickening and hyperemia, with extensive neighboring fat stranding, fascial thickening, and an abutting soft tissue density compatible with phlegmon. Focal perforation is seen at the mid aspect of the inflamed appendix, with a small amount of neighboring free fluid. No drainable fluid collections are seen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "Valuestr: 8.6 mg/dL, within normal range (8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture Test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

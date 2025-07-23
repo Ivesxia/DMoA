@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Severe right upper quadrant abdominal pain.",
+        "history_of_present_illness": "The patient reported the onset of abdominal pain 24 hours ago, following dinner. The pain was described as severe and has occurred before, but not as intensely. Previous episodes subsided without pain medication. Patient denies nausea, emesis, fever, chills, or changes in bowel movements. Symptoms worsened, accompanied by decreased appetite.",
+        "past_medical_history": "Paroxysmal atrial fibrillation, restless leg syndrome, diverticulosis with episodes of diverticulitis treated with antibiotics, recent diagnosis of pericarditis secondary to viral infection, pneumonia treated with levofloxacin, hyperlipidemia, GERD, hypertension, possible previous GI bleed, hemorrhoids, tonsillectomy.",
+        "family_history": "Patient's father passed away from melanoma at an old age; mother passed away from renal cancer. No history of heart disease.",
+        "social_history": "Not specified."
+    }
+}

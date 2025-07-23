@@ -1,0 +1,38 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "focal_lesions": "No evidence",
+                    "textural_abnormality": "No evidence"
+                },
+                "biliary_dilatation": "No evidence of intrahepatic or extrahepatic biliary dilatation",
+                "CBD_measurement": "3 mm",
+                "gallbladder": {
+                    "status": "Normal",
+                    "stones": "No evidence",
+                    "wall_thickening": "No evidence"
+                },
+                "spleen": {
+                    "measurement": "12.6 cm",
+                    "echotexture": "Homogeneous"
+                },
+                "kidneys": "Unremarkable",
+                "pancreas": "Unremarkable"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test",
+            "date": "Not specified",
+            "findings": {
+                "value": "239.0 IU/L",
+                "reference_range": "0.0 - 100.0 IU/L",
+                "status": "Above normal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

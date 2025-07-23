@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with acute onset abdominal pain that localized to the right lower quadrant, associated with subjective fevers. CT imaging revealed a fluid-filled, tubular structure consistent with acute appendicitis, with adjacent fat stranding and thickening, accompanied by prominent mesenteric nodes."
+    }
+}

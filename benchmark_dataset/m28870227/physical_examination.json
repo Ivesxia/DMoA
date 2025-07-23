@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "blood_pressure": "134/78 mmHg",
+                "heart_rate": "83 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "95% on room air"
+            },
+            "relevant_findings": {
+                "general": "Thin elderly lying in bed in no acute distress",
+                "eyes": "Anicteric, pupils equally round",
+                "ent": "Ears and nose without visible erythema; oropharynx without visible lesion, erythema or exudate; missing teeth, no dentures in place",
+                "cardiovascular": "Heart regular, no murmur, no S3, no S4, no JVD",
+                "respiratory": "Lungs clear to auscultation with quiet breath sounds (limited by poor participation with exam), breathing is non-labored",
+                "gastrointestinal": "Abdomen soft, non-distended, mildly tender to deep palpation in suprapubic area, bowel sounds quiet, no HSM",
+                "gu": "No suprapubic fullness, foley in place draining clear yellow",
+                "musculoskeletal": "Neck supple, moves all extremities, strength testing limited by poor participation with exam",
+                "skin": "No obvious rashes or ulcerations noted, right hip without erythema or ecchymosis, no induration or fluctuance appreciated, mild tenderness to palpation",
+                "neuro": "Alert, oriented, face symmetric, minimal speech just answers yes or no, hard of hearing (hears best through right ear), moves all limbs",
+                "psych": "Somewhat blunted affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Presenting rhythm: AV sequential pacing 60 bpm; Underlying rhythm: sinus bradycardia with intact AV conduction at 58 bpm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "JP drain placement for abscess",
+            "date": "Not specified",
+            "findings": "Abscess due to diverticulitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Heart rhythm consultation with EP",
+            "date": "Not specified",
+            "findings": "Patient was manually paced to 100 bpm after treatment for SVT; initially started on neo gtt, switched to levophed once HR was better controlled.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

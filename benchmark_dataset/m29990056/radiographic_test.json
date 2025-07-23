@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CTA CHEST W&W/O C&RECONS, NON-CORONARY",
+            "date": "Not specified",
+            "findings": "The pulmonary arteries are well opacified to the subsegmental level with no filling defects to suggest pulmonary embolism. No evidence of intramural hematoma, dissection, or aneurysmal formation. The airways are patent to the segmental level. Subsegmental dependent atelectasis is present bilaterally with no evidence of focal consolidations, pleural effusion, or pneumothorax. A trace amount of atelectasis is also present within the anterior segment of the right upper lobe. No significant hilar, mediastinal, or axillary lymphadenopathy. The heart and pericardium are unremarkable with no sign of right heart strain. The main and right pulmonary arteries are of normal diameter. Mild anterior osteophyte formation is present within the thoracic spine, as well as multilevel degenerative disc disease of the thoracic spine.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

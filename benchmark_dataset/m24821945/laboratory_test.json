@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Mixed Bacterial Flora Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Heart size is normal. Mild pulmonary edema. Slight blunting of the costophrenic angles bilaterally secondary to small pleural effusions and overlying atelectasis. No pneumothorax is seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

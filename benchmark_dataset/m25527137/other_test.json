@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "3 cm obstructive gallstone at the gallbladder neck. The gallbladder is distended with associated gallbladder wall thickening.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG (indicated by bradycardia in physical exam)",
+            "date": "Not specified",
+            "findings": "Bradycardic.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

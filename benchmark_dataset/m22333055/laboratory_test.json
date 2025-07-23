@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is fluid filled and dilated to 10mm; hyperdense focus within the proximal appendiceal lumen likely an appendicolith. Findings are concerning for early appendicitis. No free fluid, air, or fluid collection. Liver, spleen, gallbladder, adrenal glands, and pancreas appear grossly normal. Kidneys appear unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PT (Prothrombin Time)",
+            "date": "Not specified",
+            "findings": "34.1 sec (Reference range: 25.0 - 36.5 sec)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

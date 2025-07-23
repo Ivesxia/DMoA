@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound of Appendix",
+            "date": "Not specified",
+            "findings": "Blind ending tubular structure measuring 1.2 cm in diameter with associated wall thickening, mural hyperemia, trace periappendiceal fluid, and a central appendicolith. No evidence of frank perforation by ultrasound.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Additional Test",
+            "date": "Not specified",
+            "findings": "1.0 mmol/L.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

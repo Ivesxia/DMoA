@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Leukocyte Differential",
+            "date": "Not specified",
+            "findings": "4+ (>10 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "0.6 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Interval placement of a right anterolateral approach percutaneous pigtail drain, reduction in volume of previously seen fluid collection, and evolution of a multi-lobulated, rim-enhancing fluid collection.",
+            "changes_over_time": "The volume of the previously seen fluid collection is reduced."
+        }
+    ]
+}

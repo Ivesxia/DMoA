@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.3°F",
+                "heart_rate": "102 bpm",
+                "blood_pressure": "145/84 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "heart_rate": "84 bpm",
+                "blood_pressure": "126/68 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "87 bpm",
+                "blood_pressure": "112/61 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": "General: Pleasant, well appearing in NAD. HEENT: PERRLA, MMM, Neck Supple. Cardiac: Regular rate and rhythm, Normal S1, S2, No murmurs, rubs or gallops. Lungs: CTAB, good air movement bilaterally. Abdomen: Soft, mildly tender in epigastrium otherwise nontender, nondistended. Extremities: No edema or calf pain, 2+ dorsalis pedis pulses. Skin: No rashes/lesions. Neuro: A&Ox3, Appropriate, CN grossly intact, normal Gait.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

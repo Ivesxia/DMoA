@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The imaged lung bases are clear. Normal hepatic parenchymal signal intensity with no focal liver lesion. The left hepatic artery arises from the left gastric artery and the right hepatic artery arises conventionally from the common hepatic artery. The portal vein is patent. No intra-hepatic biliary dilatation. The CBD measures 4 mm. Multiple punctate gallstones are evident layering within the gallbladder. No gallbladder wall thickening, edema or pericholecystic fluid identified. Multiple punctate sub-2mm filling defects are noted within the CBD concerning for choledocholithiasis. The pancreas has a homogeneous signal intensity and enhances uniformly with no evidence for necrosis. No significant peripancreatic stranding or peripancreatic fluid, and no focal pancreatic lesion or pancreatic duct dilation. Spleen, adrenal glands, and kidneys are unremarkable with bilateral cysts seen in the kidneys. No retroperitoneal masses or adenopathy. No abnormally dilated or thickened small or large bowel loops in the visualized upper abdomen. No free fluid. Bone marrow signal is normal with no osseous lesions identified.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

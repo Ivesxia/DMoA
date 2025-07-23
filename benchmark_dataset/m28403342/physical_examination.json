@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "83 bpm",
+                "blood_pressure": "134/52 mmHg",
+                "respiratory_rate": "15 breaths/min",
+                "oxygen_saturation": "95% on BiPap"
+            },
+            "relevant_findings": {
+                "general": "Somnolent, arousable to vocal stimulation.",
+                "neck": "Unable to assess JVD.",
+                "HEENT": "EOMI. OP clear.",
+                "cardiovascular": "+S1S2 faint, no m/g/r.",
+                "pulmonary": "Distant BS bilaterally throughout. Faint crackles at bases.",
+                "abdominal": "+NABS in 4Q. Soft, NTND.",
+                "extremities": "2+ DP pulses bilaterally, no edema.",
+                "neurological": "Oriented to person, time, place."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

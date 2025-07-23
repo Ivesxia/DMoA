@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Jaundice and fatigue",
+        "history_of_present_illness": "Symptoms worsened over the past week, including jaundice associated with fatigue, epigastric cramping, nausea, and nonbloody vomiting. No melena, hematemesis, BRBPR, dysuria, chest pain, or cough reported.",
+        "past_medical_history": "Hypertension, Gastroesophageal reflux disease (GERD), Chronic alcohol abuse",
+        "family_history": "Not specified",
+        "social_history": "Patient has a history of consuming approximately 1 bottle of wine per day over the past several years; last drink possibly  ___ days ago."
+    }
+}

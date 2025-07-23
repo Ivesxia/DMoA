@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrocardiogram (ECG)",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal CT scan",
+            "date": "Not specified",
+            "findings": "Appendix is enlarged, measuring up to 1.1 cm and hyperemic, concerning for appendicitis. No fluids collection or evidence of extraluminal air indicating perforation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

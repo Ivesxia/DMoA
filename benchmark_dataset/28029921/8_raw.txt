@@ -1,0 +1,52 @@
+```json
+{
+  "treatment_information": [
+    {
+      "treatment_type": "medication",
+      "specific_treatment": "Ondansetron",
+      "start_date": "2016-12-12",  // Approximately on the second episode of treatment
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Symptoms resolved spontaneously."
+    },
+    {
+      "treatment_type": "intravenous therapy",
+      "specific_treatment": "Intravenous fluids",
+      "start_date": "2016-12-12",  // Approximately on the second episode of treatment
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Symptoms resolved spontaneously."
+    },
+    {
+      "treatment_type": "surgery",
+      "specific_treatment": "Endoscopic third ventriculostomy",
+      "start_date": "2016-12-29",  // Date of surgery
+      "end_date": "Not specified",
+      "dosage_or_details": "Not specified",
+      "treatment_response": "Patient more alert after the procedure. No new focal deficits or seizure-like activity."
+    }
+  ],
+  "treatment_timeline": [
+    {
+      "date": "2016-11-12",
+      "event": "Patient developed intermittent vomiting."
+    },
+    {
+      "date": "2016-12-12",
+      "event": "Second episode of recurrent vomiting; treated with Ondansetron and intravenous fluids."
+    },
+    {
+      "date": "2016-12-29",
+      "event": "Surgery performed: Endoscopic third ventriculostomy."
+    },
+    {
+      "date": "2016-12-31",
+      "event": "Patient discharged home on the second postoperative day."
+    },
+    {
+      "date": "2017-12-29",
+      "event": "Patient seen for follow-up; showed improvement in hydrocephalus."
+    }
+  ]
+}
+```

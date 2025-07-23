@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Cardiomegaly, slightly low inspiratory volumes, bibasilar patchy opacities, possible small effusions at both lung bases. Mid and upper zones of both lungs remain grossly clear. No CHF.",
+            "changes_over_time": "Overall appearance is similar compared with prior examination; not significantly changed."
+        }
+    ]
+}

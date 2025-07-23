@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "biopsy",
+            "date": "Not specified",
+            "findings": "There are small pockets of fluid with contained locules of extraluminal air consistent with microperforation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "DRE",
+            "date": "Not specified",
+            "findings": "nl rectal tone, guaiac negative.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

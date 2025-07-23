@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "2.8 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "530 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "BNP",
+            "date": "Not specified",
+            "findings": "696 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "WBC",
+            "date": "Not specified",
+            "findings": "12.4 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ALT",
+            "date": "Not specified",
+            "findings": "49 (within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "AST",
+            "date": "Not specified",
+            "findings": "76 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "77 (decreased from prior elevated level of 530)",
+            "changes_over_time": "Decreased from 530 to 77 over time."
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "121 (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Troponin",
+            "date": "Not specified",
+            "findings": "0.07 (within normal range)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

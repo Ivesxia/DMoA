@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "ALT 780, AST 1204, AP 240, T.bili 1.7 (elevated from 1.1 to 1.8)",
+            "changes_over_time": "Total bilirubin elevated from 1.1 to 1.8"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "WBC 5.3, Hgb 10.9, Plt 104",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chemistry Panel",
+            "date": "Not specified",
+            "findings": "K 3.2, Bicarb 17",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Gallbladder distended with multiple stones, mild dilatation of common bile duct (up to 8 mm), no intrahepatic biliary ductal dilatation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

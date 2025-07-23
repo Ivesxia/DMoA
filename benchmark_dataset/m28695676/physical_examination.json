@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "85 bpm",
+                "blood_pressure": "148/105 mmHg",
+                "respiratory_rate": "18"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD, interactive and cooperative",
+                "heent": "No scleral icterus, mucus membranes moist",
+                "cardiovascular": "RRR",
+                "pulmonary": "Clear to auscultation b/l",
+                "abdominal": "Soft, mildly distended, tender to palpation in bilateral lower quadrants, no rebound/rigidity/guarding, no palpable masses",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

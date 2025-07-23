@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Trace bilateral pleural effusions and mild dependent atelectasis of the visualized lung bases. The right hepatic lobe is elongated with heterogeneous enhancement, mild periportal edema, and inflammatory stranding of the porta hepatis. No focal hepatic lesion; small amount of perihepatic fluid. Gallbladder is surgically absent with a drain in the abdomen. Mildly dilated common bile duct measuring up to 7 mm distally. Fluid collection in gallbladder fossa measuring 2.0 x 3.1 cm. Pancreatic parenchyma is normal with pancreas divisum. Right kidney has a 4 mm T1 hyperintense lesion and a 1.7 x 1.3 cm simple cyst; left kidney is normal. Postsurgical changes of Roux-en-Y gastric bypass noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

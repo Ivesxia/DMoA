@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "The cardiomediastinal silhouette and hilar contours are normal. The lungs are clear with no focal consolidation, pleural effusion or pneumothorax. The osseous structures of the thorax appear normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "No significant growth.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Endotracheal tube placement",
+            "date": "Not specified",
+            "findings": "Endotracheal tube tip is 4.8 cm above the carina.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Orogastric tube placement",
+            "date": "Not specified",
+            "findings": "Orogastric tube ends into the stomach.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Right subclavian line placement",
+            "date": "Not specified",
+            "findings": "Right subclavian line tip is in the lower SVC/cavoatrial junction, appropriately positioned.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Left lower lung collapse has minimally worsened over last 24 hours. Small-to-moderate left pleural effusion and small right pleural effusions are unchanged. Lung volumes are persistently low.",
+            "changes_over_time": "Left lower lung collapse has minimally worsened."
+        }
+    ]
+}

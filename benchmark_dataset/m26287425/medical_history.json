@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Fever to 101°F and cloudy urine suggesting UTI.",
+        "history_of_present_illness": "Patient was found to have fever and dusky appearance at 10 AM. Symptoms of cloudy urine with sediment persisted for the last 10 days, indicating a possible UTI. Notable new congestion and cough developed from the previous day. At baseline health and mental status was observed yesterday at a party.",
+        "past_medical_history": "Multiple meningiomas s/p resections and XRT; R temporal lobe astrocytoma s/p resection; L cerebellar infarct; recurrent UTIs with chronic Texas cath in place; seizure disorder on Keppra; history of pulmonary embolism; hypertension; left thyroid nodule; G tube placement.",
+        "family_history": "Mother has breast cancer; father had heart disease, hypertension, arrhythmia, macular degeneration, prostate cancer, type 2 diabetes.",
+        "social_history": "Not specified."
+    }
+}

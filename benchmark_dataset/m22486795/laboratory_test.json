@@ -1,0 +1,82 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "condition": "Normal",
+                    "portal_vein": "Patent with hepatopetal flow"
+                },
+                "gallbladder": {
+                    "condition": "Distended",
+                    "stones": "None",
+                    "wall_thickening": "None",
+                    "biliary_sludge": "Noted near the gallbladder neck"
+                },
+                "bile_ducts": {
+                    "intrahepatic_dilation": "None",
+                    "CHD_size": "2 mm"
+                },
+                "spleen": {
+                    "condition": "Normal",
+                    "size": "14.0 cm"
+                },
+                "ascites": "Tiny amount seen in the right upper quadrant"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Torso",
+            "date": "Not specified",
+            "findings": {
+                "pulmonary_nodules": {
+                    "overall_condition": "Stable",
+                    "largest_nodule_size": "1.6 cm"
+                },
+                "mediastinal_lymph_nodes": "Stable in size"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Head",
+            "date": "Not specified",
+            "findings": {
+                "left_parietal_lobe_mass": {
+                    "size_change": "From 0.8 cm to 2 cm",
+                    "condition": "Enlarging"
+                }
+            },
+            "changes_over_time": "Described size increase"
+        },
+        {
+            "procedure_name": "MRI Head",
+            "date": "Not specified",
+            "findings": {
+                "left_parietal_mass": {
+                    "condition": "Significant enlargement",
+                    "surrounding_edema": "Present"
+                }
+            },
+            "changes_over_time": "Described significant enlargement"
+        },
+        {
+            "procedure_name": "Repeat MRI Head",
+            "date": "Not specified",
+            "findings": {
+                "left_parietal_mass": {
+                    "new_condition": "1.4 x 1.1 x 1.3 cm masslike enhancement within the left parietal lobe"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PET Scan",
+            "date": "Not specified",
+            "findings": {
+                "overall_condition": "Stable disease"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

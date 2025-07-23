@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Microbial Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Troponin Test",
+            "date": "Not specified",
+            "findings": "<0.01. CTROPNT > 0.10 NG/ML SUGGESTS ACUTE MI.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.6 F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "108/65 mmHg",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": "A&O, NAD, RRR, CTA b/l, Abd thin, nondistended, TTP focally in RLQ with focal rebound, no guarding, negative rovsings/obturator/psoas, no edema.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

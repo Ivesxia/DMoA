@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Gram stain",
+            "date": "Not specified",
+            "findings": "1.8 mg/dL, which is within normal limits (normal range 1.6 - 2.6 mg/dL) indicating gram-positive bacteria.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated and fluid-filled with wall thickening and a distal appendicolith, compatible with perforation. Other abdominal organs appear normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

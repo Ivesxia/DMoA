@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "102 bpm",
+                "blood_pressure": "131/60 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "A&O, no acute distress",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "cardiovascular": "RRR, Normal S1 and S2",
+                "pulmonary": "Clear to auscultation bilaterally, No W/R/R",
+                "abdominal": "Soft, nondistended, diffusely tender, no rebound or guarding, normoactive bowel sounds, no palpable masses",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

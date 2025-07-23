@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "blood_pressure": "143/94 mmHg",
+                "heart_rate": "87 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, obese",
+                "HEENT": "Atraumatic/Normocephalic",
+                "cardiac": "Regular rate and rhythm, S1/S2, no murmurs, gallops, or rubs",
+                "lung": "Clear to auscultation bilaterally, no wheezes, rales, or rhonchi, breathing comfortably without use of accessory muscles",
+                "abdomen": "Nondistended, bowel sounds positive, nontender in all quadrants, no rebound/guarding, no hepatosplenomegaly",
+                "extremities": "Moving all extremities well, no cyanosis, clubbing, or edema",
+                "pulses": "2+ dorsalis pedis pulses bilaterally",
+                "skin": "Slightly jaundiced, warm and well perfused, no excoriations or lesions, no rashes"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "Not specified",
+            "findings": "Creatinine level of 2.3.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Serum Sodium",
+            "date": "Not specified",
+            "findings": "Sodium level of 125.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Bicarbonate",
+            "date": "Not specified",
+            "findings": "Bicarbonate level of 22, later noted to be 15 postoperatively.",
+            "changes_over_time": "Bicarbonate decreased from 22 to 15."
+        },
+        {
+            "procedure_name": "Anion Gap",
+            "date": "Not specified",
+            "findings": "Anion gap of 19.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Total Bilirubin",
+            "date": "Not specified",
+            "findings": "Total bilirubin level of 3.8.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate level of 4.8 postoperatively.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Microbiology Culture",
+            "date": "Not specified",
+            "findings": "No significant growth.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

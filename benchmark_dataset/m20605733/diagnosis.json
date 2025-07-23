@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The final diagnosis of appendicitis was supported by CT findings showing a distended appendix measuring up to 1 cm in diameter with wall hyperenhancement and mild adjacent stranding, which are consistent with appendicitis."
+    }
+}

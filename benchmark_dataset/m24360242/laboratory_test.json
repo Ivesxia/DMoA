@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood test",
+            "date": "Not specified",
+            "findings": "WBC count was at 3.2 mg/dL, which is outside the normal range (ref range: 2.7 - 4.5). NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "PA AND LATERAL CHEST RADIOGRAPH: The lungs are clear without pleural effusion, pneumothorax or focal airspace consolidations. The cardiomediastinal silhouette, hilar contours and pulmonary vasculature are normal. The bones are intact.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

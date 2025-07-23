@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level is 224, elevated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "White Blood Cell Count (WBC)",
+            "date": "Not specified",
+            "findings": "Normal WBC with lymphocyte predominance at 47.4%.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase",
+            "date": "Not specified",
+            "findings": "Alk phos level is 36, within normal limits.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "D-Dimer",
+            "date": "Not specified",
+            "findings": "D-Dimer is within normal limits.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

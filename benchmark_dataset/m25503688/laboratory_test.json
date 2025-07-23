@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Unknown laboratory test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation test (PT)",
+            "date": "Not specified",
+            "findings": "30.9 sec (normal range: 25.0 - 36.5 sec)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiographic examination",
+            "date": "Not specified",
+            "findings": "No focal consolidations, mild left lower lobe atelectasis, eventration of the posterior left hemidiaphragm, cardiomediastinal and hilar silhouettes within normal limits, no pulmonary edema, no pleural effusions, no pneumothorax.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI ABDOMEN W/O & W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver is normal in size and contour without evidence of hepatic steatosis. There is a single 1.1 cm hepatic cyst superiorly within segment VII. The gallbladder is mildly distended with hyperenhancement and irregularity of the mucosal surface. There is pericholecystic standing and a small amount of free fluid. Luminal sludge and stones are present. Adjacent hepatic parenchymal hyperemia is noted. The extrahepatic biliary tree is normal in caliber. No choledocholithiasis is identified. The pancreatic parenchyma is notable for mild fatty atrophy. The right kidney is notable for two simple cysts. Note is made of diverticulosis coli of the descending colon without associated inflammatory change. A 4.6 cm simple cyst is noted along the medial aspect of the right lung base.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

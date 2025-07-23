@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest X-ray",
+            "date": "Not specified",
+            "findings": "Interval placement of a right-sided PICC line that appears to terminate in the right atrium; lung volumes are slightly low, but lungs appear better expanded compared to the previous study; less crowding of the pulmonary vasculature and improved bibasilar atelectasis; cardiomediastinal contours are stable; no pleural effusions and no pneumothorax.",
+            "changes_over_time": "Improved bibasilar atelectasis compared to the previous study."
+        }
+    ]
+}

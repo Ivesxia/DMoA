@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory Test for Growth",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Protein Level Test",
+            "date": "Not specified",
+            "findings": "4.4 g/dL (within normal range of 3.5 - 5.2 g/dL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Angiography of Chest",
+            "date": "Not specified",
+            "findings": "Bibasilar atelectasis and probable round atelectasis in the left lower lobe; no pulmonary embolism; liver appears fatty.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

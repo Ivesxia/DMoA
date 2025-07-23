@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Sub cm hypodensities within the right lobe of the liver too small to characterize. The liver enhances homogeneously and is without other focal lesions. The portal venous system is patent. No intrahepatic or extrahepatic biliary dilatation. Gallbladder normal without stones. A simple renal cyst noted in the midpole of the right kidney; no hydronephrosis. Some fat stranding in the right lower quadrant surrounding a dilated hyperenhancing appendix measuring up to 11 mm. No evidence of abdominal fluid collection or extraluminal air. Trace pelvic free fluid identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PT (Prothrombin Time)",
+            "date": "Not specified",
+            "findings": "27.8 sec",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

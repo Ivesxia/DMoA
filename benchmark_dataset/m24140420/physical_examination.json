@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97°F",
+                "heart_rate": "71 bpm",
+                "blood_pressure": "113/70 mmHg",
+                "respiratory_rate": "20 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing, in pain",
+                "HEENT": "Anicteric sclera",
+                "cardiovascular": "Regular rate and rhythm, normal S1 S2, no murmurs/gallops/rubs",
+                "respiratory": "Clear to auscultation bilaterally",
+                "abdominal": "Normal bowel sounds, tender on palpation over RUQ, positive Murphy's sign, no tenderness elsewhere, negative psoas sign, negative rebound tenderness",
+                "extremities": "No leg tenderness, trace pedal edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

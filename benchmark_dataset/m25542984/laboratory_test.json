@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Retrocecal appendix is dilated up to 1.1 cm with hyperenhancing walls and surrounding fat stranding consistent with acute appendicitis. No fluid collection. The liver enhances homogeneously, without focal lesions or intrahepatic biliary duct dilatation. The gallbladder is unremarkable, and the portal vein is patent. The pancreas does not show focal or diffuse abnormalities. The spleen is normal in size and homogeneous. The kidneys do not show solid or cystic lesions. The intra-abdominal vasculature is unremarkable, and there are no retroperitoneal or mesenteric lymph node enlargements. No ascites, free air, or abdominal wall hernias are noted. The stomach, duodenum, and small bowel are within normal limits. The colon is within normal limits, though some sigmoid diverticuli are noted but there is no diverticulitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

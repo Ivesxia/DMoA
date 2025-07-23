@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "78 bpm",
+                "blood_pressure": "132/75 mmHg",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "95% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented X3; in no acute distress",
+                "HEENT": "Normocephalic, atraumatic; oral mucosa moist",
+                "respiratory": "Clear breath sounds bilaterally",
+                "cardiovascular": "Regular rhythm and rate; no murmurs, rubs, or gallops",
+                "abdominal": "Soft, mild generalized abdominal pain, no tenderness or distention",
+                "extremities": "Atraumatic, skin intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

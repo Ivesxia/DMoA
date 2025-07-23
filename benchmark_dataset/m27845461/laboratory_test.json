@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The transplant liver demonstrates homogeneous attenuation throughout. No evidence of focal lesions, intrahepatic or extrahepatic biliary dilatation. The pancreas, spleen, and adrenal glands show normal size and attenuation. The kidneys are normal and symmetric in size, with no hydronephrosis or nephrolithiasis. The stomach, small bowel, colon, rectum, urinary bladder, and distal ureters are all unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Stool Culture",
+            "date": "Not specified",
+            "findings": "NO SALMONELLA OR SHIGELLA FOUND.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

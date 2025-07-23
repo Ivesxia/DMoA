@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "White Blood Cell Count",
+            "date": "Not specified",
+            "findings": "Increased from 13.4 to 21.3.",
+            "changes_over_time": "Increased WBC count over time."
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is dilated to 13 mm with a new fluid collection measuring 4.2 x 4.4 x 2.7 cm, suggestive of a perforated appendicitis.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9F",
+                "blood_pressure": "132/45",
+                "heart_rate": "109",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "rectal_exam": {
+                    "finding": "guaiac positive",
+                    "hematocrit": "25.5"
+                },
+                "elevated_lipase": "161"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "132/88",
+                "heart_rate": "92",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "physical_exam": {
+                    "general": "Pleasant, thin appearing male in NAD",
+                    "heent": "Normocephalic, atraumatic. No conjunctival pallor. No scleral icterus. PERRLA/EOMI. dry MM. OP clear.",
+                    "neck": "Supple, No LAD, No thyromegaly.",
+                    "cardiac": "RRR, Normal S1/S2. No murmurs, rubs or gallops. JVP=8cm",
+                    "lungs": "CTA at mid and upper lung fields but scattered wheezes at bases.",
+                    "abdomen": "+ TTP at umbilical area/epigastric region, NABS, Soft, ND, liver edge right at lower costal margin. No overt splenomegaly noted. No rebound. 2 well healed scars from appy and CCY.",
+                    "extremities": "No edema or calf pain, 2+ dorsalis pedis/ posterior tibial pulses.",
+                    "skin": "No rashes/lesions, ecchymoses. Multiple dysplastic appearing nevi over back and shoulders.",
+                    "neurological": "A&Ox3. Appropriate. CN grossly intact. Preserved sensation throughout. Strength throughout normal. Reflexes equal. Normal coordination. Gait assessment WNL."
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

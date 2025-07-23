@@ -1,0 +1,34 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "lesion_size": "1.4 cm",
+                    "description": "hypodense lesion at the liver dome, slightly increased compared to prior study, likely represents a cyst"
+                },
+                "lung": "The lung bases are clear.",
+                "heart": "The visualized portions of the heart and pericardium are unremarkable.",
+                "pleural_effusion": "No pleural or pericardial effusion.",
+                "pancreas": "No focal lesions or peripancreatic stranding or fluid collection.",
+                "spleen": "Homogeneous and normal in size.",
+                "adrenals": "Unremarkable.",
+                "kidneys": "Normal in size and shape. No pelvicaliceal dilatation or perinephric abnormalities.",
+                "GI_tract": {
+                    "appendix": {
+                        "size": "up to 9 mm",
+                        "description": "dilated with surrounding fat stranding consistent with appendicitis"
+                    },
+                    "stomach": "Within normal limits.",
+                    "colon": "Non-dilated without obstructive lesions.",
+                    "duodenum_and_small_bowel": "Within normal limits."
+                },
+                "aorta": "Normal in caliber without aneurysmal dilatation.",
+                "retroperitoneum": "No lymph node enlargement.",
+                "pelvis": "Unremarkable urinary bladder and distal ureters, no free fluid."
+            },
+            "changes_over_time": "Slight increase in size of the liver lesion compared to prior study."
+        }
+    ]
+}

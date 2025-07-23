@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in echogenicity with no focal lesions present. The common bile duct measures 5 mm and is normal. There is cholelithiasis without evidence of obstruction. The portal vein is patent with hepatopetal flow. The right kidney measures 1.2 cm and is normal. The partially imaged pancreas is unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

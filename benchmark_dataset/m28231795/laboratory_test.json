@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is hyperemic with a thickened wall, fluid-filled, and distended to a maximal diameter of 1.2 cm. Significant periappendiceal fat stranding. An appendicolith is noted. No drainable extraluminal collection or extraluminal air.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Electrolytes",
+            "date": "Not specified",
+            "findings": "Potassium level of 3.7 mEq/L, which is within normal range (3.3 - 5.1 mEq/L).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

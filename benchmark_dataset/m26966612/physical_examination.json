@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0 °F",
+                "heart_rate": "86 bpm",
+                "blood_pressure": "125/81 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "95% on room air"
+            },
+            "relevant_findings": {
+                "general": "Caucasian male in moderate distress from abdominal pain",
+                "HEENT": "Anicteric",
+                "cardiac": "Normal S1/S2, regular rate and rhythm, no appreciable murmurs",
+                "pulmonary": "Clear bilaterally",
+                "abdominal": "Soft, non-distended, tender throughout",
+                "extremities": "No edema noted"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

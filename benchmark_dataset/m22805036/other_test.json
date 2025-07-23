@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase was 1894.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ALT",
+            "date": "Not specified",
+            "findings": "ALT 161.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "AST",
+            "date": "Not specified",
+            "findings": "AST 246.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Intraoperative cholangiogram",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis Without Contrast",
+            "date": "Not specified",
+            "findings": "The common bile duct is dilated up to 1.2 cm; gallbladder walls are thickened up to 0.6 cm; pancreatic ductal dilatation absent; small amount of fluid in mesentery.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

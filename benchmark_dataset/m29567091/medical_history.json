@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "LLQ abdominal pain, light colored stool, and dark colored urine x 5 days.",
+        "history_of_present_illness": "The patient was in good health until one month ago when he developed occasional light headedness and diaphoresis. Six days ago, he had an episode of profuse diaphoresis which resolved. The next day, he developed LLQ abdominal pain after eating, along with light colored stool and dark urine. On the day of presentation, persistent severe abdominal pain developed after eating a cheese stick at 3 am, prompting him to seek emergency department care.",
+        "past_medical_history": "History of gastric bypass ___ years ago; history of gastrointestinal bleeding ___ years ago.",
+        "family_history": "He is adopted and does not know his biological family's history. His son had ___ issues and is status post cholecystectomy.",
+        "social_history": "Not specified."
+    }
+}

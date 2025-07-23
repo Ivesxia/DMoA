@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "85 bpm",
+                "blood_pressure": "101/63 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": "Patient is alert and oriented x3, resting comfortably in bed. Abdomen is soft, non-tender and non-distended (NT/ND). No edema in extremities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4°F",
+                "heart_rate": "69 bpm",
+                "blood_pressure": "142/80 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": "Abdomen soft, tender to palpation in the lower abdomen, right of midline and midline into suprapubic area.",
+            "changes_over_time": "Initially soft and non-tender, then developed tenderness upon palpation in the lower abdomen."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Leukocytosis 13.4 with 90% neutrophils",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate Dehydrogenase (LDH)",
+            "date": "Not specified",
+            "findings": "LDH 372",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture for Respiratory Viruses",
+            "date": "Not specified",
+            "findings": "No respiratory viruses isolated. Culture screened for Adenovirus, Influenza A & B, Parainfluenza type 1,2 & 3, and Respiratory Syncytial Virus.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

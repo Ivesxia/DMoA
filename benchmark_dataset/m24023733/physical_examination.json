@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.3°F",
+                "heart_rate": "59 bpm",
+                "blood_pressure": "104/51 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "awake, alert, NAD (No Acute Distress)",
+                "HEENT": "NCAT, EOMI, anicteric",
+                "heart": "RRR (Regular Rate and Rhythm), NMRG (No Murmurs, Rubs, or Gallops)",
+                "lungs": "CTAB (Clear to Auscultation Bilaterally), normal excursion, no respiratory distress",
+                "abdomen": "soft, tender to palpation in the RLQ, Rovsing's sign is present",
+                "neurological": "strength intact/symmetric, sensation intact/symmetric",
+                "extremities": "WWP (warm, well-perfused), no CCE (cyanosis, clubbing, or edema), no tenderness, 2+ B (2+ bilateral pulses)",
+                "psychiatric": "normal judgment/insight, normal memory, normal mood/affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

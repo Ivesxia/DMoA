@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "blood_pressure": "148/80 mmHg",
+                "heart_rate": "82 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "well appearing, lying in bed, no acute distress",
+                "HEENT": "ncat, eomi, anicteric, MMM, no oral lesions",
+                "neck": "supple, no lymphadenopathy, no JVD",
+                "chest": "b/l decreased air entry, no wheezes, crackles, or rubs",
+                "heart": "S1S2 regular, no murmurs, rubs, or gallops",
+                "abdomen": "+ bowel sounds, soft, non-distended, + tenderness to palpation in epigastric/left upper quadrant, no guarding or rebound",
+                "back": "non-tender",
+                "genitourinary": "no foley",
+                "skin": "no apparent rash",
+                "extremities": "no cyanosis, clubbing, or edema, 2+ pulses",
+                "neurological": "alert and oriented x3, cranial nerves II-XII intact, face symmetric, speech fluent",
+                "psychological": "calm, cooperative"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Sudden onset RUQ pain, nausea, and vomiting.",
+        "history_of_present_illness": "Symptoms started at 1 AM; the pain has been constant and unremitting, with nausea gradually becoming more bilious. Relief from pain was only partial with narcotics. Patient reports a small bowel movement earlier but does not remember passing gas.",
+        "past_medical_history": "1. History of metastatic cholangiocarcinoma. 2. History of right face squamous cell carcinoma. 3. History of lung nodules diagnosed in ___, stable by serial CT scan. 4. Status post right knee surgery. 5. Status post right shoulder surgery. 6. Paroxysmal atrial fibrillation. 7. History of TIA in ___. 8. Hypercholesterolemia. 9. Chronic low back pain/sciatica. 10. Status post laparoscopic liver biopsy for diagnosis ___",
+        "family_history": "The patient's mother died of pancreatic cancer. His father died at ___ years with an embolism. A brother died in his ___ of valvular heart disease secondary to rheumatic heart disease. He has 1 brother and 1 sister without health concerns.",
+        "social_history": "Not specified"
+    }
+}

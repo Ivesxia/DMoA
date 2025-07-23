@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "The lungs are clear, without focal airspace consolidation or effusion. Lung volumes are low, which accentuates the bronchovascular markings. Cardiac size is within normal limits. The aorta is ectatic. Visualized osseous structures are normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "53 bpm",
+                "blood_pressure": "169/83 mmHg",
+                "respiratory_rate": "19 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, non-toxic",
+                "HEENT": "No scleral icterus, moist mucous membranes",
+                "cardiovascular": "Irregularly irregular rhythm",
+                "pulmonary": "No respiratory distress",
+                "abdominal": "Soft, non-distended; tender to gentle palpation in RUQ (most severe), RLQ and epigastrium",
+                "extremities": "Warm, well-perfused, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

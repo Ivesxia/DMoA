@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "HIV-1 Test",
+            "date": "Not specified",
+            "findings": "HIV-1 RNA is not detected. Detection Range: 20-10,000,000 copies/mL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test (assumed based on the presence of a value of 1.5 mg/dL)",
+            "date": "Not specified",
+            "findings": "1.5 mg/dL (value not specified if it pertains to liver function or any other context).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

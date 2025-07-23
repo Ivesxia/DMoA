@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The gallbladder wall is markedly edematous with multiple gallstones. No biliary duct dilatation; the common bile duct measures 5 mm with no stones within the common duct. No focal liver lesions. A focal area of low-signal intensity in the fissure for the falciform ligament is consistent with perfusional change. The main portal vein and hepatic veins are patent. The spleen, kidneys, adrenal glands, and pancreas are unremarkable. No free fluid or upper abdominal lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test (unspecified)",
+            "date": "Not specified",
+            "findings": "Laboratory value: 1.0 (reference range 0.9 - 1.1)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

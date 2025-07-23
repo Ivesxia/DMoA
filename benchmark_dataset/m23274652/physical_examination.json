@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "temperature_ER": "101.3°F",
+                "blood_pressure": "160/61 mmHg",
+                "heart_rate": "70 bpm",
+                "respiratory_rate": "19 breaths/min",
+                "oxygen_saturation": "95% on room air"
+            },
+            "relevant_findings": {
+                "general_appearance": "pleasant, comfortable, no acute distress",
+                "eyes": "PERLL, EOMI, subconjunctival hemorrhage noted in right eye, anicteric",
+                "ENT": "no sinus tenderness, MMM, oropharynx without exudate or lesions, no supraclavicular or cervical lymphadenopathy, no JVD",
+                "respiratory": "fine crackles lower lung bases, otherwise clear to auscultation",
+                "cardiovascular": "NS1/S2, regular rate and rhythm, systolic murmur noted",
+                "gastrointestinal": "soft, non-tender bowel sounds, mildly distended, tender to palpation over epigastrium and RUQ, overall diffusely tender, no rebound or guarding noted",
+                "extremities": "denies calf tenderness, +2 dorsal pedis pulses",
+                "skin": "jaundice appearing",
+                "neurological": "alert, oriented to self, time, date, and reason for hospitalization, cranial nerves II-XII intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

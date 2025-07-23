@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC (Complete Blood Count)",
+            "date": "Not specified",
+            "findings": "Crit of 50.3; lipase of 561; creatinine of 1.1, normalized upon repeat testing.",
+            "changes_over_time": "Normalization of critical levels and lipase upon repeat labs."
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "No evidence of focal lesions or textural abnormality in the liver; normal gallbladder; pancreas unremarkable; kidneys normal without masses or stones.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

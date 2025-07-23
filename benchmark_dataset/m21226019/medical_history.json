@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The abdominal pain began suddenly last night, is located in the epigastrium and radiates to the back. It worsens with breathing and lying on her side. The patient has multiple episodes of vomiting.",
+        "past_medical_history": "Hypothyroidism, Obesity, Hypercholesteremia, Plantar fasciitis, Reflux esophagitis, history of Helicobacter pylori (H. pylori)",
+        "family_history": "Father with COPD, living; Mother with Type II diabetes and thyroid disorder, living; Sister with unspecified condition",
+        "social_history": "Not specified"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laparoscopic Cholecystectomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Minimal signal loss on out of phase imaging consistent with mild fatty deposition; 8 x 7 mm lesion in left lobe consistent with hemangioma; no intra or extrahepatic biliary dilatation; multiple gallstones without evidence of cholecystitis.",
+                "pancreas": "Normal signal intensity; ductal dilatation absent; multiple cystic structures likely side branch intraductal papillary mucinous neoplasms.",
+                "kidneys": "Multiple hyperintense lesions on T2 consistent with simple cysts; largest cyst measures 3.6 x 2.8 cm in right kidney; 5 mm cystic lesion in left kidney consistent with small hemorrhagic cyst.",
+                "spleen": "Unremarkable.",
+                "adrenals": "Unremarkable.",
+                "stomach_and_bowel": "Unremarkable; no free fluid or lymphadenopathy."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

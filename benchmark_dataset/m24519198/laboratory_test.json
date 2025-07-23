@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Coagulation test",
+            "date": "Not specified",
+            "findings": "29.8 sec (within normal range: 25.0 - 36.5 sec)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "Lungs are clear without confluent consolidation. No pulmonary edema or pleural effusions. Cardiomedial contours are within normal limits. Hila are mildly and symmetrically enlarged.",
+            "changes_over_time": "Prior chest radiographs should be obtained to see if this is a new finding requiring further imaging evaluation."
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Test",
+            "date": "Not specified",
+            "findings": "8.4 mg/dL, which is within the normal range of 8.4 - 10.3 mg/dL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Diffusely echogenic with smooth contour, no focal liver mass, patent main portal vein, no ascites.",
+                "bile_ducts": "No intrahepatic biliary dilation, CBD measures 5 mm.",
+                "gallbladder": "Mildly distended with multiple gallstones, markedly thickened wall measuring up to 1.2 cm, minimal associated hyperemia, no pericholecystic fluid, positive sonographic Murphy's sign.",
+                "pancreas": "Within normal limits without masses or ductal dilation.",
+                "spleen": "Normal echogenicity, measuring 0.6 cm.",
+                "kidneys": "Limited views show normal echogenicity and differentiation, no masses, stones or hydronephrosis.",
+                "retroperitoneum": "Visualized portions of aorta and IVC are within normal limits."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

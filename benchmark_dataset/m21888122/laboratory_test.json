@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Mixed Bacterial Flora Culture",
+            "date": "Not specified",
+            "findings": "Mixed bacterial flora (>= 3 colony types), consistent with skin and/or genital contamination. Value: 2.6 mg/dL (Reference range: 2.7 - 4.5)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Normal liver signal intensity and morphology. Mild wall edema in gallbladder; distended gallbladder with millimetric stones. Moderate intrahepatic and extrahepatic biliary ductal dilatation with the common bile duct measuring up to 11 mm. Mild narrowing of the right and left hepatic ducts. No filling defects.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

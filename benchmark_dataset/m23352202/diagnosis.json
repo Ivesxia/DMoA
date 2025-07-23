@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with acute onset right lower quadrant (RLQ) pain, fevers, and mild nausea, which are classic symptoms of appendicitis. The pain was described as sharp and constant, preventing sleep, which, along with fever and gastrointestinal symptoms, supported the diagnosis. Imaging was performed which did not suggest obstruction or other acute abdominal pathology."
+    }
+}

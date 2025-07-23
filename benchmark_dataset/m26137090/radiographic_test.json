@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Semiupright portable AP view of the chest shows low lung volumes. Left pleural effusion and left basilar opacities not significantly changed from prior. Opacities at the right base improved compared to prior. Previously seen right perihilar opacity also appears improved. Cardiomediastinal silhouette stable.",
+            "changes_over_time": "Left pleural effusion and left basilar opacities not significantly changed; opacities at the right base improved; previously seen right perihilar opacity also improved."
+        }
+    ]
+}

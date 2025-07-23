@@ -1,0 +1,44 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.8",
+                "heart_rate": "114",
+                "blood_pressure": "146/79",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "abdominal_exam": "TTP in upper abdominal quadrants RUQ > LUQ",
+                "lab_findings": {
+                    "leukocytosis": "13.7 with neutrophil predominance (77.5% PMNs, no bands)",
+                    "anion_gap_acidosis": "AG 18",
+                    "ALT": "46",
+                    "AST": "67",
+                    "AlkPhos": "158",
+                    "lipase": "127",
+                    "lactate": "1.2"
+                },
+                "cardiac_exam": "Afib with rate 107, ST depressions in V3-V5"
+            },
+            "changes_over_time": "Prior to transfer, vital signs were 98.4, HR 81, BP 146/74, RR 20, O2 98% RA. Patient reported pain improving after ibuprofen but possibly starting to increase again."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2",
+                "heart_rate": "78",
+                "blood_pressure": "147/73",
+                "respiratory_rate": "21",
+                "oxygen_saturation": "96% RA"
+            },
+            "relevant_findings": {
+                "general_exam": "Appears slightly younger than stated age, somewhat poor historian but oriented x3",
+                "neurological_exam": "Decreased hearing R ear, otherwise CN II-XII grossly intact",
+                "abdominal_exam": "Bowel sounds present, soft, slightly distended but not tympanic, mild TTP in epigastric area, otherwise no TTP currently"
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right lower quadrant abdominal pain",
+        "history_of_present_illness": "The pain started last night and has persisted for the past day. The patient tried lying down, but the pain did not improve, leading her to present to the ED. No fever, chills, night sweats, nausea/vomiting, or blood in stool reported.",
+        "past_medical_history": "Diabetes mellitus, hyperlipidemia, hypertension, CAD s/p stent many years ago, leg surgery as a child",
+        "family_history": "No IBD or colorectal cancer.",
+        "social_history": "Not specified."
+    }
+}

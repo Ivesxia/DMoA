@@ -1,0 +1,29 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4°F",
+                "heart_rate": "62 bpm",
+                "blood_pressure": "108/70 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "SpO2": "97% on RA"
+            },
+            "relevant_findings": {
+                "general": "Alert, appears slightly uncomfortable but not in acute distress",
+                "eyes": "Anicteric, PERRL",
+                "ent": "mmm, OP clear",
+                "cardiovascular": "NR/RR, no m/r/g",
+                "respiratory": "Diffuse crackles",
+                "abdomen": "Soft, ND, TTP with guarding in the RLQ without rebound tenderness, normoactive bowel sounds",
+                "genitourinary": "No suprapubic fullness or tenderness to palpation",
+                "musculoskeletal": "Neck supple, moves all extremities, strength grossly full and symmetric bilaterally in all limbs",
+                "vascular/extremities": "No edema, 2+ DP pulses",
+                "skin": "No rashes or lesions noted on visible skin",
+                "neurological": "Alert, oriented, face symmetric, gaze conjugate with EOMI, moves all limbs",
+                "psychological": "Pleasant, appropriate affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

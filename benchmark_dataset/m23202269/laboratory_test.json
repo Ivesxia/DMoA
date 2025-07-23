@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Elevated lipase of 238 mg/dL (normal range not specified).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound - Liver or Gallbladder",
+            "date": "Not specified",
+            "findings": "Liver diffusely echogenic, compatible with fatty infiltration. No focal hepatic lesion identified. Main portal vein patent with hepatopetal flow. Gallbladder minimally distended without gallstones or edema. Trace pericholecystic fluid noted. CBD measuring 6 mm, no biliary ductal dilatation.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

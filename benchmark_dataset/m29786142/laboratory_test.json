@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is fluid-filled and dilated to approximately 1.4 cm with periappendiceal fat stranding. A tubular calcification within the proximal appendix measures approximately 2.1 cm, compatible with an appendicolith. A smaller appendicolith in the distal appendix measures 0.8 cm. No evidence of perforation or adjacent fluid collection.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "NONE /hpf",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Legionella serogroup 1 antigen test",
+            "date": "Not specified",
+            "findings": "NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN. Reference Range-Negative. A negative result does not rule out infection due to other L. pneumophila serogroups or other Legionella species.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT CHEST W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Left lower lobe consolidation with ground-glass opacity and a small associated effusion consistent with pneumonia. Dense consolidation in the right lower lobe with small-to-moderate effusion. Granuloma noted in the right upper lobe.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

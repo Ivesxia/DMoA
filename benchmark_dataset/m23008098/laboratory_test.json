@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRI ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is mildly distended measuring 7 mm in diameter and containing fluid within its lumen. Its walls are equivocally thickened. There is trace free fluid adjacent to the appendix. The liver, kidneys, adrenals, spleen, and pancreas are all within normal limits. No hydronephrosis or intra/extrahepatic duct dilatation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial culture",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml (negative).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

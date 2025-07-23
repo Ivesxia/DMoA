@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest (Portable AP)",
+            "date": "Not specified",
+            "findings": "Heart is upper limits of normal in size and stable from the prior study. Mediastinal and hilar contours are normal, and lungs and pleural surfaces are clear.",
+            "changes_over_time": "Stable from the prior study."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "GRAM POSITIVE COCCI IN CLUSTERS.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP BILIARY&PANCREAS BY GI UNIT",
+            "date": "Not specified",
+            "findings": "Filling defect within the common bile duct consistent with a stone. Normal caliber of the intra- and extra-hepatic biliary ducts. Later images show removal of stone and opacification of the cystic duct and gallbladder.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

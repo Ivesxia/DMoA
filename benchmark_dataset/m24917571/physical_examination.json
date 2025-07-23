@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2 °F",
+                "blood_pressure": "136/98 mmHg",
+                "heart_rate": "70 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Patient is sleeping in bed but awakens appropriately to voice.",
+                "HEENT": "Slight scleral icterus visible, oropharynx is clear, neck is supple.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/rubs/gallops.",
+                "lungs": "Clear to auscultation bilaterally, no wheezing or crackles appreciated.",
+                "abdomen": "Soft, nontender, nondistended, bowel sounds present.",
+                "genitourinary": "No foley.",
+                "musculoskeletal": "No tenderness to palpation along spine or paraspinal muscles.",
+                "extremities": "No edema, warm to palpation.",
+                "neurological": "Oriented to person, place, and time; cranial nerves II-XII intact; moving all extremities."
+            },
+            "changes_over_time": "Patient reports pain in her back is still present, but much improved; denies current abdominal pain."
+        }
+    ]
+}

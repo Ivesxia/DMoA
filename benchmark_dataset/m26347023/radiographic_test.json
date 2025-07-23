@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "Lung expansion has improved. No consolidation or edema is evident. The mediastinum is unremarkable. The cardiac silhouette is within normal limits for size. Small bilateral pleural effusions are noted. There is no underlying pneumothorax. The osseous structures reveal degenerative changes throughout the thoracic spine. In addition, there is an indwelling anterior cervical fusion plate present.",
+            "changes_over_time": "Improvement in lung expansion."
+        }
+    ]
+}

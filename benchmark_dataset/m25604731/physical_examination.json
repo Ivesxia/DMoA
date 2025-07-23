@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "98.2 F",
+                "heart_rate": "72 bpm",
+                "blood_pressure": "140/67 mmHg",
+                "respiratory_rate": "20 breaths per minute",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing, no acute distress",
+                "HEENT": "MMM",
+                "heart": "RRR, no M/R/G",
+                "lungs": "CTAB",
+                "abdomen": "Moderately distended; guarding, tender and fullness to palpation on right periumbilical region.",
+                "musculoskeletal": "Limp while walking; Left ankle tender to palpation.",
+                "skin": "No gross abnormalities noted"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

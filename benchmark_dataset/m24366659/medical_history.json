@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute sigmoid diverticulitis",
+        "history_of_present_illness": "Patient developed a sense of malaise and fatigue approximately ___ days prior to admission, followed by loss of appetite. About one week prior to admission, she developed nagging left lower quadrant pain which persisted and led to evaluation by her PCP.",
+        "past_medical_history": "History of ovarian cancer stage IIIc, history of breast cancer, history of chronic sinusitis, history of diverticular disease, history of spinal stenosis.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

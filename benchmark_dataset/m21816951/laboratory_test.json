@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Microbial Culture",
+            "date": "Not specified",
+            "findings": "< 10,000 CFU/mL. (within normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation Test",
+            "date": "Not specified",
+            "findings": "15.1 sec (outside normal range; reference range: 9.4 - 12.5 sec)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric pain, nausea, and vomiting.",
+        "history_of_present_illness": "Symptoms began approximately 2 weeks ago with epigastric pain, nausea, and vomiting. The patient experienced worsening abdominal pain over the past 10 days, with nausea and vomiting progressively worsening. The pain is described as dull but intense, constant in the midepigastric area, occasionally radiating to the back. Symptoms sometimes improved with sitting forward. Diarrhea frequency increased to every hour, especially after eating.",
+        "past_medical_history": "Ulcerative colitis status post colectomy, celiac sprue, history of DVT/PE, pancreatic divisum.",
+        "family_history": "Malignant melanoma in both parents. No family history of GI illnesses.",
+        "social_history": "Not specified."
+    }
+}

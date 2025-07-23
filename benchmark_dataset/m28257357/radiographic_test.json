@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Lung bases demonstrate trace atelectasis, without consolidation or pleural effusion. The appendix is fluid filled and borderline distended, measuring up to 7 mm. At the midpoint of the appendix, there is mucosal hyper-enhancement, with adjacent inflammatory change particularly about the adjacent right ureter. Small amount of free fluid collects dependently in the pelvis. No focal abnormality of the remaining loops of bowel, although bowel traversing the distal pelvis has the suggestion of wall thickening, likely related to underdistension. The liver, gallbladder, pancreas, spleen, adrenal glands, stomach, duodenum, kidneys are unremarkable; no free air or free fluid in the abdomen. No fracture or worrisome bony lesion; degenerative changes are present at L4-5.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

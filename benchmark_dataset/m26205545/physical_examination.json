@@ -1,0 +1,35 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "blood_pressure": "111/64 mmHg",
+                "heart_rate": "110 bpm",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "CV": "regular rate and rhythm without murmurs/gallops/rubs",
+                "Chest": "clear to auscultation bilaterally",
+                "Abdomen": "gravid, soft, tender with light palpation of lower sternum to epigastric area, not worse with deep palpation, no rebound or guarding",
+                "Back": "tender/sore right mid with no costovertebral angle tenderness",
+                "Extremities": "edema bilateral"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "Ultrasound": {
+                    "Liver": "2.2 x 2.0 cm slightly echogenic mass in the right hepatic lobe, slightly larger than the previous measurement of 1.7 x 1.7 cm; remaining hepatic parenchyma within normal limits with a smooth contour",
+                    "Bile Ducts": "No intrahepatic biliary dilation, CBD measures 4 mm",
+                    "Gallbladder": "No evidence of stones or gallbladder wall thickening; 1.5 cm stone identified likely within cystic duct, previously seen in body of the gallbladder",
+                    "Pancreas": "Within normal limits without masses or ductal dilation",
+                    "Kidneys": "Right kidney measures 12.2 cm, left kidney not evaluated"
+                }
+            },
+            "changes_over_time": "Initial lesion size increased; second lesion previously seen not detected in the current study"
+        }
+    ]
+}

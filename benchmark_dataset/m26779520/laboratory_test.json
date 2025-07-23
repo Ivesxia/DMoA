@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Polymorphonuclear leukocytes examination",
+            "date": "Not specified",
+            "findings": "3+ (5-10 per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CHEST X-ray (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Small bilateral pleural effusions and area of increased opacity in both lower lungs consistent with atelectasis/infiltrate. Mild pulmonary vascular redistribution.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

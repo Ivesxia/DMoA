@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.3°F",
+                "heart_rate": "76 bpm",
+                "blood_pressure": "114/82 mmHg",
+                "respiratory_rate": "18 bpm"
+            },
+            "relevant_findings": {
+                "general_appearance": "alert and oriented x 3",
+                "HEENT": "PERRL, EOMI",
+                "chest": "clear to auscultation bilaterally",
+                "cardiovascular": "normal S1 S2",
+                "abdominal": "soft, mildly tender, non-distended, no rebound/guarding",
+                "extremities": "cool, clammy, and equal"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver demonstrates no focal lesion. The portal vein is patent and shows hepatopetal flow. The CBD measures between 6 and 7 mm. The gallbladder is contracted around multiple stones with US finding of wall echo shadow complex. The wall is mildly thickened, measuring 8 mm, likely related to chronic cholecystitis. Trace pericholecystic fluid is demonstrated. No sonographic Murphy's sign was elicited.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

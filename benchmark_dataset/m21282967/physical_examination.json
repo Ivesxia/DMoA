@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5",
+                "blood_pressure": "150/77",
+                "heart_rate": "92",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "Young jaundiced gentleman in NAD, pleasant and cooperative, alert awake and oriented x 3",
+                "HEENT": "Significant scleral icterus, EOMI, MMM, Op clear, feeding tube in place",
+                "CV": "Regular rate, normal S1 and S2, no M/R/G",
+                "lungs": "Clear to auscultation bilaterally",
+                "abdomen": "Very mildly distended, no fluid wave appreciated, mild epigastric tenderness to palpation, liver edge palpable 3cm below costal margin, spleen palpable 4-5cm below left costal margin, +BS x 4 quadrants",
+                "extremities": "WWP, 1+ pitting edema bilaterally to knees, 2+ pulses, no calf tenderness",
+                "neurological": "CN grossly intact, A+Ox3, concentration intact. No asterixis, but does have a mild tremor",
+                "skin": "Significantly jaundiced"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

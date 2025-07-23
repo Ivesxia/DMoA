@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Antibody test for B. burgdorferi",
+            "date": "Not specified",
+            "findings": "NO ANTIBODY TO B. BURGDORFERI DETECTED BY EIA. Reference Range: No antibody detected.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chemistry test (Electrolytes)",
+            "date": "Not specified",
+            "findings": "96.0 mEq/L",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine test",
+            "date": "Not specified",
+            "findings": "Creatinine levels reported as 1.11-1.27, indicating possible CKD.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest X-ray (Portable AP)",
+            "date": "Not specified",
+            "findings": "Lung volumes are very low. Right hemidiaphragm is elevated, leading to increased vascular crowding.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

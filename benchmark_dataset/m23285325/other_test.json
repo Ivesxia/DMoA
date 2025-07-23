@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP with sphincterotomy and spyglass cholangioscopy",
+            "date": "Not specified",
+            "findings": "Filling defects noted in the gallbladder neck; scope could not traverse a valve, not amenable to therapy.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CTA ABD W&W/O C & RECONS",
+            "date": "Not specified",
+            "findings": "Mild bibasilar dependent atelectasis; normal liver contour and no focal hepatic lesions; mild fat stranding adjacent to the gallbladder fossa; unremarkable visualized portions of the pancreas, spleen, adrenal glands, kidneys, and bowel; no hydronephrosis, free air, or lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

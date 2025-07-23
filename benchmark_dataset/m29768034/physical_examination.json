@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "95 bpm",
+                "blood_pressure": "162/94 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing man, no acute distress",
+                "HEENT": "PERRL, sclera anicteric, moist mucous membranes, no cervical lymphadenopathy",
+                "CV": "Normal S1 & S2, regular rate and rhythm, no murmurs, rubs, or gallops",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes, crackles, or rubs",
+                "abdominal": "Distended/obese, bowel sounds present, mildly tender to palpation over epigastrum, no rebound or guarding, no peritoneal signs",
+                "extremities": "Warm, well-perfused, bilateral knee tenderness on flexion/extension, left toe painful upon palpation, no warmth, erythema, or swelling of joints, 2+ dorsalis pedis pulses",
+                "neurological": "Alert, awake, oriented x 3, cranial nerves II-XII intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

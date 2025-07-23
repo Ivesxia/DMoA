@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "RUQ pain",
+        "history_of_present_illness": "Mr. ___ experienced three episodes of severe vomiting five days ago after eating at a restaurant, initially thought to be food poisoning. He had residual nausea that subsided the following day. On the subsequent days, he experienced worsening nausea, prompting a visit to urgent care. He noted loss of appetite but no vomiting at that time. Severe RUQ pain and tenderness were recorded on examination, and pain significantly decreased after receiving Zosyn.",
+        "past_medical_history": "Coronary artery disease, GERD, CABG",
+        "family_history": "Brother: rheumatic fever, enlarged heart; Father: Died at ___; Mother: Died at ___, possibly of MI",
+        "social_history": "Not specified"
+    }
+}

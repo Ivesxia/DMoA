@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Lungs are clear without confluent consolidation. No pulmonary edema or pleural effusions. Cardiomediastinal and hilar contours are within normal limits. No pneumothorax.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

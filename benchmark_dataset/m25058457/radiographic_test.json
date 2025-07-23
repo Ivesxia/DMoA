@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Lung bases are clear, heart not enlarged, no pericardial effusion, liver, gallbladder, spleen, pancreas, adrenals, kidneys unremarkable, abdominal aorta and iliac vessels unremarkable. A retroperitoneal lymph node measuring 5 mm in short axis noted, a few subcentimeter mesenteric lymph nodes present but no pathological enlargement. No bowel obstruction. The appendix is dilated, measuring up to 8 mm in diameter with hyperemic walls and fluid-filled, compatible with acute appendicitis. No fluid collections or free intraperitoneal air. Urinary bladder, prostate, and seminal vesicles unremarkable, sigmoid colon contains a few diverticula without evidence of acute diverticulitis, rectum unremarkable. No bony lesion to suggest malignancy or infection.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

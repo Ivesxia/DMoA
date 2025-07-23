@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain.",
+        "history_of_present_illness": "The abdominal pain started one day ago, earlier in the afternoon. It worsened after eating dinner and was initially described as light menstrual cramps. As the pain worsened, it felt as if something was twisting inside. The pain was associated with multiple episodes of nausea and vomiting. The patient notes that the pain is much improved now. No fevers or chills were reported.",
+        "past_medical_history": "Past Medical History: positive PPD with negative CXR; Past Surgical History: left breast lumpectomy for benign nodule, two C-sections.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

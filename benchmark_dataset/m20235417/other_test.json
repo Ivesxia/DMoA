@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Consistent with possible fibrosing cholestatic hepatitis without evidence for acute cellular rejection.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Trace of ascites is seen in the perihepatic and perisplenic areas. Large spleen noted similar to the previous examination.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

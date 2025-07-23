@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Minimal pleural thickening within the left lung base. No suspicious pulmonary nodule or mass identified. Liver demonstrates homogenous parenchymal enhancement without suspicious focal lesion. Mild periportal edema identified. Hepatic veins and portal venous system are patent. No intra- or extra-hepatic biliary ductal dilatation. Normal gallbladder, spleen, pancreas, and adrenal glands. Symmetric enhancement and excretion from both kidneys without suspicious focal lesion or hydronephrosis. No concerning adenopathy. An 11 mm dilated fluid-filled appendix within the right lower quadrant with hyperemic walls. Small pocket of free fluid adjacent to the appendix, no extraluminal free air suggests perforation. Minimal free fluid within the deep pelvis. Normal caliber and configuration of stomach and small bowel. Rectum and colon normal without obstruction or inflammation. Distended normal bladder. Unremarkable prostate and seminal vesicles. No bone destructive lesion or acute fracture.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Specimen Handling",
+            "date": "Not specified",
+            "findings": "HOLD. SPECIMEN TO BE HELD 48 HOURS AND DISCARDED.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

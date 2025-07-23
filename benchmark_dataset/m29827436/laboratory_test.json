@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Persistent mural thickening of a 10 cm segment of sigmoid colon with regional and adjacent diverticula in the left lower quadrant, with associated exuberant fat stranding. A 5 x 6 cm ill-defined confluent area of hypoattenuation, consistent with a phlegmon or evolving abscess. This has significantly increased in size since four days ago.",
+            "changes_over_time": "The size of the phlegmon has significantly increased in size since four days ago."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

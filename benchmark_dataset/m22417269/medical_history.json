@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The abdominal pain has been present for about ___ year, with an acute exacerbation reported. The pain is located in the suprapubic area, initially subsided for a few hours in the afternoon but returned at night, though less severe than prior. The patient had one episode of emesis earlier today. There is reported partial improvement in symptoms without pain medications, and the patient does not report any nausea or additional episodes of emesis.",
+        "past_medical_history": "None",
+        "family_history": "Non-contributory",
+        "social_history": "Not specified"
+    }
+}

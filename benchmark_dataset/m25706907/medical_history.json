@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Cough, shortness of breath, fever, nausea, vomiting, back pain, and gross hematuria.",
+        "history_of_present_illness": "Symptoms of shortness of breath, cough, and congestion began two weeks ago after asthma medications ran out. Symptoms worsened acutely 4 days ago to include fever, night sweats, weakness, myalgias, and back pain. Cough is productive with white sputum. The patient reports chest and back pain with coughing, decreased appetite, and vomiting after eating. Blood in urine started yesterday with increased urinary frequency and some pain with urination.",
+        "past_medical_history": "Asthma, Prediabetes, History of a car accident with head injury followed by lower back pain.",
+        "family_history": "Sister has diabetes. Denies family history of renal disease or heart disease.",
+        "social_history": "Not specified."
+    }
+}

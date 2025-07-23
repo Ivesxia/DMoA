@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD W&W/O C",
+            "date": "Not specified",
+            "findings": "Imaged lung bases are clear. No pleural effusion. No urolithiasis. Kidneys enhance equally and excrete contrast normally. The liver, gallbladder, spleen, adrenal glands, pancreas, abdominal loops of large bowel are unremarkable. A hyper-attenuating tubular structure in the right lower quadrant corresponds to the appendix, which is dilated, measuring up to 10 mm in diameter. No periappendiceal stranding, free fluid, or lymphadenopathy is present. No free air in the abdomen. Urinary bladder, distal ureters, rectum, sigmoid colon, and prostate are unremarkable. No concerning lytic or sclerotic lesions in bone windows. Deformity of T12 superior endplate, likely Schmorl's node.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

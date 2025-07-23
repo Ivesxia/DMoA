@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.7°F",
+                "heart_rate": "52 bpm",
+                "blood_pressure": "118/69 mmHg",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing in no acute distress.",
+                "HEENT": "Sclera anicteric.",
+                "neck": "Supple with no thyromegaly or lymphadenopathy.",
+                "chest": "Normal respirations; lungs clear to auscultation bilaterally.",
+                "cardiovascular": "Regular rhythm, normal S1, S2, no murmurs or gallops; JVP <5 cm; no ankle edema.",
+                "abdomen": "Soft, nondistended; pain only with deep palpation of the epigastric region; normal bowel sounds.",
+                "musculoskeletal": "No redness, swelling, warmth, or tenderness; normal range of motion.",
+                "skin": "No lesions, bruises, or rashes.",
+                "neurological": "Alert and oriented x3; good fund of knowledge.",
+                "psychological": "Appearance, behavior, speech, and affect all normal."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

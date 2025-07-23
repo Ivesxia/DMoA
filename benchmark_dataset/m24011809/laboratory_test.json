@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "White Blood Cell (WBC) Count",
+            "date": "Not specified",
+            "findings": "WBC increased on repeat evaluation; initial WBC count not specified.",
+            "changes_over_time": "WBC increased from previous evaluation."
+        },
+        {
+            "procedure_name": "CT Abdomen & Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Multiple hypodense lesions in the liver, largest measuring 2.1 cm x 2.7 cm, large abscess in the right pelvis measuring 8.9 cm x 8.1 cm x 8.9 cm, and mild thickening of the ascending colon consistent with colitis.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abscess Culture",
+            "date": "Not specified",
+            "findings": "Mixed bacterial flora.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

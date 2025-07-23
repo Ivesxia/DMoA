@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "CT showed a rim enhancing tubular structure in the right lower quadrant measuring up to 10 mm in widest diameter containing appendicoliths, most compatible with appendicitis. There is surrounding asymmetric fat stranding suggestive of microperforation. Other abdominal and pelvic organs are unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test Result",
+            "date": "Not specified",
+            "findings": "LOW.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

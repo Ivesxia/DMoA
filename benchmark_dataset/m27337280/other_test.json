@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Percutaneous Transhepatic Cholangiography",
+            "date": "Not specified",
+            "findings": "There is a percutaneous transhepatic biliary drain in satisfactory position with the pigtail in the duodenum. No residual intra or extrahepatic biliary duct dilation noted. The degree of dilation is improved from the exam on ___.",
+            "changes_over_time": "The degree of dilation improved compared to the previous exam."
+        },
+        {
+            "procedure_name": "Biliary Drain Placement",
+            "date": "Not specified",
+            "findings": "The biliary drain is in satisfactory position.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lumbar Puncture (CSF test)",
+            "date": "Not specified",
+            "findings": "Not applicable",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Not applicable",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

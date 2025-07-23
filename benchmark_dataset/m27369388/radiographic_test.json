@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Mild gallbladder wall edema, mild amount of dependent gallbladder sludge within a nondistended gallbladder, common bile duct mildly prominent (8.3 mm), mild intrahepatic biliary ductal dilation, no stones seen, no sonographic Murphy's sign.",
+            "changes_over_time": "Mild gallbladder wall edema as evidenced on the previous CT."
+        }
+    ]
+}

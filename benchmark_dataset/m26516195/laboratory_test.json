@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test (LFT)",
+            "date": "Not specified",
+            "findings": "Similar to previous tests, indicating no further obstruction unlikely.",
+            "changes_over_time": "Improved LFTs after previous interventions."
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 729 (elevated value indicating pancreatitis).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Total Bilirubin (Tbili)",
+            "date": "Not specified",
+            "findings": "Tbili 8 (elevated indicating jaundice).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT Scan (CTA Chest)",
+            "date": "Not specified",
+            "findings": "Multiple pulmonary nodules, bibasilar atelectasis, mild-to-moderate biliary dilatation unchanged.",
+            "changes_over_time": "Unchanged percutaneous transhepatic biliary drainage catheter."
+        },
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": "Mixed bacterial flora (≥ 3 colony types), consistent with skin and/or genital contamination.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

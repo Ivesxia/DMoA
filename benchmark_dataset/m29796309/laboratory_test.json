@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate of 1.7",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase of 463",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "WBC count",
+            "date": "Not specified",
+            "findings": "WBC count of 23.2",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase (AP)",
+            "date": "Not specified",
+            "findings": "AP of 123",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Creatinine of 1.6",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ABG",
+            "date": "Not specified",
+            "findings": "Initial ABG was 6.77/___/121/2",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "No MRSA isolated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver demonstrates no focal or textural abnormalities. No intrahepatic or extrahepatic biliary ductal dilation. The gallbladder is normal in appearance. The spleen is not enlarged, measuring 10 cm. There is trace perisplenic fluid. The pancreas is unremarkable. The right kidney measures 11.9 cm and the left kidney measures 11.6 cm, with no hydronephrosis or stones. A 1.1 x 0.9 x 0.7 cm avascular solid lesion associated with the upper pole of the left kidney.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

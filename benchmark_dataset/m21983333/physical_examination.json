@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "128/86 mmHg",
+                "respiratory_rate": "15 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "AAOx3, NAD",
+                "respiratory": "Unlabored breaths",
+                "cardiovascular": "RRR",
+                "abdominal": "Soft, ttp in RLQ to moderate palpation without rebound or guarding",
+                "extremities": "WWP, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Gallstones are seen within the gallbladder. There is circumferential gallbladder wall thickening and edema, compatible with acute cholecystitis. There is superimposed adenomyomatosis, particularly at the fundus. An additional echogenic nodule external to the gallbladder neck measuring 1.0 x 0.9 x 1.1 cm, likely a reactive lymph node.",
+            "changes_over_time": "The findings are consistent with the prior CT, indicating the presence of a hyperenhancing focus which is unchanged."
+        }
+    ]
+}

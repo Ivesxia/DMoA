@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated to 15 mm, with mucosal hyper-enhancement and a 10 mm appendicolith is identified at the base of the appendix. Marked periappendiceal fat stranding. There is a small, 2.6 x 1.4 cm fluid collection identified in the right paracolic gutter adjacent to the appendix. No evidence of bowel obstruction. The kidneys demonstrate multiple small hypodense lesions, characterized as cysts. The remainder of the colon is normal with scattered diverticula seen in the sigmoid colon.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Cardiac Troponin I",
+            "date": "Not specified",
+            "findings": "<0.01. CTROPNT > 0.10 NG/ML SUGGESTS ACUTE MI.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

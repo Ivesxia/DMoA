@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "13 fluoroscopic images show two surgical clips in the expected region of the gallbladder fossa along with superficial skin staples. A cholangiogram shows no filling defects or strictures in the common bile duct. The intrahepatic biliary radicles appear normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

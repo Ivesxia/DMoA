@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Cholecystectomy",
+            "date": "Not specified",
+            "findings": "Acute cholecystitis with hydrops of the gallbladder.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound (Gallbladder)",
+            "date": "Not specified",
+            "findings": "The gallbladder is mildly distended with several multiple stones visible. Positive sonographic ___ sign. No gallbladder wall thickening or pericholecystic fluid. Common bile duct measures 5-7 mm, which is at the top normal. No intra- or extra-hepatic biliary dilatation. Spleen mildly enlarged at 13 cm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

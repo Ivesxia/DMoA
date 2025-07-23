@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.0 °F",
+                "heart_rate": "106 bpm",
+                "blood_pressure": "113/63 mmHg",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "A&Ox3, NAD",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "cardiovascular": "RRR",
+                "pulmonary": "Clear to auscultation b/l",
+                "abdominal": "Soft, nondistended, significantly tender to palpation RUQ/midepigastrium, +guarding, no palpable masses, +well healed suprapubic scar",
+                "DRE": "Normal tone, no gross or occult blood",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

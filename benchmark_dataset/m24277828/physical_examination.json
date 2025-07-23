@@ -1,0 +1,18 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "heart_rate": "114 bpm",
+                "blood_pressure": "114/59 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% RA"
+            },
+            "relevant_findings": {
+                "abdominal_exam": "Soft, non-distended, non-tender"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": "The gallbladder is mildly distended and contains numerous gallstones. There is gallbladder wall thickening with mural edema. There is no intrahepatic or extrahepatic biliary dilatation. The common bile duct measures 6 mm. The liver is otherwise unremarkable. There is no evidence of free fluid. A sonographic ___ sign was present.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

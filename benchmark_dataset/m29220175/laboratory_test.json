@@ -1,0 +1,30 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": {
+                "liver": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass.",
+                "main_portal_vein": "Patent with hepatopetal flow.",
+                "ascites": "No ascites.",
+                "bile_ducts": "No intrahepatic biliary dilation. The CHD measures 3 mm.",
+                "gallbladder": "Stones measuring up to 1.5 cm in the distended gallbladder. Mild gallbladder wall edema. No pericholecystic free fluid.",
+                "pancreas": "The head, body, and tail of the pancreas are within normal limits, without masses or pancreatic ductal dilatation.",
+                "spleen": "Normal echogenicity, measuring 8.6 cm.",
+                "kidneys": "Limited views of the right kidney show no hydronephrosis. Right kidney measures 10.1 cm.",
+                "retroperitoneum": "The visualized portions of aorta and IVC are within normal limits.",
+                "aorta": "The aorta measures 2.36 cm in the proximal portion, 2.05 cm in mid portion and 1.62 cm in the distal abdominal aorta with mild calcified atherosclerotic plaque."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": {
+                "bacteria": "NO GROWTH.",
+                "cells": "4.0 #/hpf"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

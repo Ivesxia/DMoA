@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Gallbladder ultrasound",
+            "date": "Not specified",
+            "findings": "Gallstones; CBD dilated but no obstructed stone seen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Atrial fibrillation with rapid ventricular rate.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

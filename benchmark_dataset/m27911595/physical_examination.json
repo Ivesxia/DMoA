@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "78 bpm",
+                "blood_pressure": "125/89 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented X3, in no acute distress",
+                "HEENT": "Normocephalic, atraumatic; no lymphadenopathy",
+                "respiratory": "Clear breath sounds bilaterally",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, rubs or gallops",
+                "abdominal": "Soft, non-distended, mild right lower quadrant abdominal tenderness with deep palpation",
+                "extremities": "Atraumatic, skin intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

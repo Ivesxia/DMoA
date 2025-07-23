@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified.",
+            "findings": "A 1.5 x 1.0 cm bilobed cystic lesion in the right liver dome is stable. A granuloma in segment 2 is unchanged. Two lesions along the diaphragmatic contour of the left lobe of the liver: larger lesion measures 25 x 8 x 23 mm, smaller lesion measures 9 x 3 mm x 10. No intra or extrahepatic biliary dilatation. A sub-cm hypodensity in the lower pole of the right kidney likely a cyst. There is ill-defined soft tissue density and stranding in the right lower quadrant. The appendix is measuring up to 8.5 mm. A 1.4 x 3.7 cm soft tissue density in the cul-de-sac continues to decrease in conspicuity.",
+            "changes_over_time": "The larger and smaller lesions in the left lobe of the liver are new since a prior examination but unchanged since another date. A tiny 3 mm soft tissue density in the left abdomen continues to decrease in size. The soft tissue density in the cul-de-sac continues to decrease in conspicuity."
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with periumbilical pain that became diffuse, nausea, vomiting, and loss of appetite, which pointed towards appendicitis. CT findings showed a dilated and fluid-filled appendix with surrounding fat haziness, further supporting the diagnosis."
+    }
+}

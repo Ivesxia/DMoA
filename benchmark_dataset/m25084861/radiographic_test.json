@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Previously seen opacities at the lung bases are resolved. There is no pleural or pericardial effusion. The liver demonstrates homogenous attenuation with no evidence of focal lesions. The pancreas has normal attenuation with no evidence of focal lesions. The spleen shows normal size and attenuation. The right and left adrenal glands are normal. The kidneys are of normal size with no evidence of focal renal lesions or hydronephrosis. The appendix measures 7 mm, borderline enlarged and mostly fluid-filled, with slightly hyperemic wall, concerning for early appendicitis. No free fluid in the pelvis. No lymphadenopathy noted. No abdominal aortic aneurysm.",
+            "changes_over_time": "Previously seen opacities at the lung bases are resolved."
+        }
+    ]
+}

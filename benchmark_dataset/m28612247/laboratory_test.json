@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "PCR for Neisseria Gonorrhoeae",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria Gonorrhoeae by PCR.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "Appendix is fluid filled, measuring up to 9 mm in diameter with mural hyperemia and periappendiceal fat stranding but no fluid collections.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

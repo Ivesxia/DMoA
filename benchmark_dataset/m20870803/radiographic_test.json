@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRI ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "The visualized hepatic parenchyma is normal in signal intensity without focal liver lesion. There is no intra- or extra-hepatic biliary dilatation and no gallstones are evident within the gallbladder. Spleen is normal in size. Pancreas is of homogeneous signal intensity. Both adrenal glands and kidneys are unremarkable with no evidence of hydronephrosis or hydroureter. A retrocecal appendix is identified, measuring approximately 9 mm in diameter at its tip, with associated periappendiceal inflammatory stranding and restricted diffusion.  A single intrauterine gestation is noted within the uterus without gross abnormality. The uterus is retroflexed, cervical os is closed and measures 3.5 cm. Both ovaries are normal with no pelvic adenopathy or free fluid. Bone marrow signal is normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

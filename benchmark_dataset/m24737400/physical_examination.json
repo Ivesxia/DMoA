@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "heart_rate": "59 bpm",
+                "blood_pressure": "101/62 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "lungs": "Clear to auscultation bilaterally; no rales, rhonchi, or wheezes.",
+                "heart": "Regular rate and rhythm; no gallops, murmurs, or rubs; palpable pulse strong and steady.",
+                "abdomen": "No visible asymmetries, masses, or pulsations; tenderness to palpation in right lower quadrant; positive Rovsing's sign; no rebound or guarding; C-section incision well healed.",
+                "extremities": "No notable edema in lower extremities."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

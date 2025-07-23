@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lab results unspecified",
+            "date": "Not specified",
+            "findings": "9.2 mg/dL (within normal range 8.4 - 10.3)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix appears hyperemic and mildly dilated to 9 mm. No periappendiceal fat stranding. Gallbladder contains a gallstone without acute cholecystitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

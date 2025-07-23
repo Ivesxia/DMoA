@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "heart_rate": "79 bpm",
+                "blood_pressure": "104/70 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x 3, no acute distress",
+                "HEENT": "Pupils equal, round, reactive to light, sclera anicteric",
+                "pulmonary": "Normal respiratory effort",
+                "abdominal": "Right lower quadrant guarding and tenderness to deep palpation; deep palpation of left lower quadrant causes referred pain to right lower quadrant; bowel sounds present; no hepatosplenomegaly",
+                "extremities": "Warm, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

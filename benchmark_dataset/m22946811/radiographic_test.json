@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver shows increased echogenicity. No focal hepatic lesions identified. There is no evidence of intrahepatic or extrahepatic biliary dilatation. The common bile duct measures 5 mm. The portal vein is patent. The gallbladder is normal without evidence of stones or gallbladder wall thickening. Examination of the pancreas is somewhat limited due to overlying bowel gas. However, visualized portions of the pancreatic body are within normal limits. Visualized portions of the right kidney are normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

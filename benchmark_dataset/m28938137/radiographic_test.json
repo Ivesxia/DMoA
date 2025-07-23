@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified.",
+            "findings": "Heart is upper limits of normal in size, and aorta is mildly tortuous. Lungs are grossly clear except for a small opacity at the left base adjacent to the inferior ninth left posterior rib. It is uncertain whether this represents superimposition of normal structures or a discrete small lung nodule.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

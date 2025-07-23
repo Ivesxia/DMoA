@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.3°F",
+                "blood_pressure": "154/90 mmHg",
+                "heart_rate": "88 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Lethargic but arousable. No acute distress.",
+                "HEENT": "Normocephalic atraumatic, pupils equal, round, reactive to light, extraocular movements intact.",
+                "pulmonary": "Distant breath sounds, no wheezes, rhonchi or rales.",
+                "cardiac": "Regular rate, normal S1 S2, no murmurs, rubs, or gallops.",
+                "abdomen": "Soft, non-tender, no distension, normoactive bowel sounds.",
+                "extremities": "2+ edema, 2+ radial and dorsalis pedis pulses bilaterally, right wrist swelling, non-tender.",
+                "neurologic": "Alert, oriented x 3, noted difficulty relating history."
+            },
+            "changes_over_time": "Lethargy noted at HD, but was not present in the ED. Initially hypertensive (200/94), decreased to 138/79 with ultrafiltration."
+        }
+    ]
+}

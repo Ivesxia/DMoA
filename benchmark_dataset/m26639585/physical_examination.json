@@ -1,0 +1,15 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7 F",
+                "heart_rate": "65 bpm",
+                "blood_pressure": "145/108 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": "Patient is alert and oriented x 3, no acute distress, pupils equal, round, reactive to light (PERRL), extraocular movements intact (EOMI), regular rhythm and rate (RRR), clear to auscultation bilaterally (CTAB), abdomen soft, nondistended, tender to palpation over McBurney's point and in left lower quadrant (LLQ), mild tenderness suprapubically, no rebound or guarding, no hernias, warm, no edema.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

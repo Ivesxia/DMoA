@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute abdominal pain",
+        "history_of_present_illness": "Pain started the day prior to admission, described as sudden, sharp, and aching; most prominent in the periumbilical and left lower quadrant. The pain has been constant, has worsened with PO intake, and has led to a decreased appetite, with no food intake for the past 2 days. The last bowel movement was this morning, noted to be hard and light-colored, with little blood in the stool and bowl. The patient reports nausea and denies vomiting, with chills reported last night. Currently passing gas.",
+        "past_medical_history": "Hypertension, diverticulosis",
+        "family_history": "Father passed from alcoholic cirrhosis, mother has hypertension but is alive, has a healthy sister, no history of cancer in the family.",
+        "social_history": "Not specified."
+    }
+}

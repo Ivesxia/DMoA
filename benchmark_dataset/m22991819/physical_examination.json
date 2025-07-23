@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "blood_pressure": "164/59 mmHg",
+                "heart_rate": "88 bpm",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "98% on 2L NC"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, awake, alert, comfortable",
+                "HEENT": "PERRL, EOMI, mild scleral icterus, MM dry, no oropharyngeal lesions",
+                "neck": "Supple, JVP 6-7 cm",
+                "chest": "Clear to auscultation bilaterally",
+                "cardiovascular": "Regular rate and rhythm, normal S1 and S2",
+                "abdomen": "Soft, nontender, nondistended, bowel sounds present",
+                "extremities": "No lower extremity edema",
+                "skin": "No rash; no perceptible jaundice",
+                "neurological": "Alert and oriented x4, fluent speech, cranial nerves intact, sensory intact throughout, strength intact",
+                "psychological": "Calm, pleasant"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

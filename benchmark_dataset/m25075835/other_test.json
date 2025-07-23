@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is fluid-filled and mildly dilated to 7 mm, with mild wall thickening, mucosal hyperemia, and trace surrounding fat stranding. Mild atelectasis at the lung bases. No pleural effusions. The heart is normal in size. The liver enhances homogeneously, without focal lesions. The gallbladder is partially collapsed. The pancreas is normal. No intra- or extra-hepatic biliary dilatation. The spleen is normal. The adrenals are normal. The kidneys enhance and excrete contrast promptly and symmetrically. Normal stomach and small bowel. Scattered prominent mesenteric and retroperitoneal lymph nodes, likely reactive. Bladder and distal ureters unremarkable. Mildly enlarged prostate. Congenital fusion of the L4, L5, and upper sacral facet joints.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy Specimen Holding",
+            "date": "Not specified",
+            "findings": "HOLD. SPECIMEN TO BE HELD 48 HOURS AND DISCARDED.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

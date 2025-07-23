@@ -1,0 +1,56 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CTU (ABD/PEL) W/O CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung_bases": "clear",
+                "pericardial_or_pleural_effusion": "none",
+                "liver": {
+                    "attenuation": "homogenous",
+                    "focal_lesions": "none",
+                    "biliary_dilatation": "none"
+                },
+                "gallbladder": "normal, no stones or thickening",
+                "pancreas": {
+                    "attenuation": "normal",
+                    "focal_lesions": "none",
+                    "ductal_dilatation": "none"
+                },
+                "spleen": {
+                    "size": "normal",
+                    "attenuation": "normal",
+                    "focal_lesions": "none"
+                },
+                "adrenals": "normal in size and shape",
+                "kidneys": {
+                    "size": "normal and symmetric",
+                    "focal_lesions": "none",
+                    "hydronephrosis": "none",
+                    "nephrolithiasis": "none"
+                },
+                "small_bowel": "normal caliber and wall thickness",
+                "colon_and_rectum": "within normal limits",
+                "appendix": {
+                    "size": "dilated fluid-filled, measuring up to 12 mm",
+                    "surrounding_fat_stranding": "minimal",
+                    "base_material": "high density material, may represent a developing fecalith"
+                },
+                "mesenteric_lymphadenopathy": "none",
+                "retroperitoneal_lymphadenopathy": "none",
+                "abdominal_aortic_aneurysm": "none",
+                "sacroiliac_joint": {
+                    "sclerosis": "present with minimal bony irregularity",
+                    "change": "not significantly changed from ___"
+                },
+                "pelvic_findings": {
+                    "urinary_bladder": "unremarkable",
+                    "fluid": "trace free fluid in pelvis",
+                    "uterus_and_ovaries": "within normal limits"
+                },
+                "bones_and_soft_tissues": "no evidence of worrisome lesions"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

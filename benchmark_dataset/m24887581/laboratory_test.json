@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is dilated and thickened measuring up to 9 mm in diameter, with minimal periappendiceal inflammatory changes. No fluid collection/abscess around the appendix. Liver demonstrates homogeneous post-contrast enhancement with no abnormal enhancing masses. Kidneys show prompt and symmetric uptake and excretion of contrast.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test (specific test not named)",
+            "date": "Not specified",
+            "findings": "10.0 mg/dL (within normal range of 6.0 to 20.0 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

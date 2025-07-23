@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PT/INR (Prothrombin Time/International Normalized Ratio)",
+            "date": "Not specified",
+            "findings": "27.5 sec; reference range 22.0 - 35.0 sec.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiograph",
+            "date": "Not specified",
+            "findings": "PA AND LATERAL VIEWS OF THE CHEST: Cardiac silhouette is normal in size. The aorta is mildly tortuous. The pulmonary vascularity is normal and the lungs are clear. No pleural effusion or pneumothorax is seen. There are mild degenerative changes of the thoracic spine.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

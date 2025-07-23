@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABDOMEN AND PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits. No pleural or pericardial effusion. The liver demonstrates homogenous attenuation throughout. No focal lesions or biliary dilatation. The pancreas, spleen, and right adrenal gland are normal. A pancake left adrenal gland is noted. A single right kidney (large, measuring up to 13 cm) is present without suspicious lesions or hydronephrosis. Status post procedure with a drainage catheter adjacent to the cecum and fluid collections in the right paracolic gutter and posterior pelvis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Physical Examination",
+            "date": "Not specified",
+            "findings": "Soft abdomen with involuntary guarding in RLQ. Exquisite tenderness to palpation in RLQ with rebound tenderness and McBurney's point tenderness.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Nucleic Acid Amplification Assay",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Multiple diverticuli seen.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Moderate hiatal hernia with unchanged suture material, wall thickening and mild surrounding fat stranding of the mid sigmoid colon, associated 3.1 x 2.0 x 1.6 cm pericolonic abscess, extensive diverticulosis throughout the entire colon.",
+            "changes_over_time": "Mild improvement in the pericolonic condition noted in repeat CTAP."
+        }
+    ]
+}

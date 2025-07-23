@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "general": "NAD",
+                "cardiovascular": "RRR",
+                "pulmonary": "CTAB",
+                "abdomen": "Soft, nondistended, appropriately tender, serosanguinous staining to dressings, no peritoneal signs.",
+                "extremities": "WNL"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

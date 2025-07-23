@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2°F",
+                "heart_rate": "89 bpm",
+                "blood_pressure": "141/60 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Patient is alert and oriented x3, no acute distress.",
+                "cardiovascular": "Regular rate and rhythm (RRR), S1S2.",
+                "pulmonary": "Clear to auscultation bilaterally (CTAB).",
+                "abdominal": "Obese, no scars on abdomen, soft, non-tender in all quadrants."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

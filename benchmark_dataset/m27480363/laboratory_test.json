@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is dilated to 10 mm with mild surrounding inflammatory changes. Two subcentimeter hypodensities are visualized in the liver, otherwise normal limits.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Albumin",
+            "date": "Not specified",
+            "findings": "8.1 mg/dL (Reference range: 8.4 - 10.3).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

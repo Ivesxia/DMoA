@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic, consistent with fatty infiltration. There are areas of focal fat sparing, particularly around the gallbladder fossa. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites. There is no intrahepatic biliary dilation. The CBD measures 3.4 mm. There is a large amount of echogenic sludge within the slightly distended gallbladder. Gallbladder wall is thickened measuring up to 7 mm. No pericholecystic fluid. Imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation, with portions of the pancreatic tail obscured by overlying bowel gas. Right kidney measures 11.9 cm. Visualized portions of aorta and IVC are within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

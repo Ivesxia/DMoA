@@ -1,0 +1,48 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "LIVER": {
+                    "appearance": "within normal limits",
+                    "contour": "smooth",
+                    "focal_mass": "no",
+                    "main_portal_vein": "patent with hepatopetal flow",
+                    "ascites": "none"
+                },
+                "BILE DUCTS": {
+                    "intrahepatic_biliary_dilation": "none",
+                    "CHD_measurement": "4 mm"
+                },
+                "GALLBLADDER": {
+                    "condition": "Cholelithiasis without gallbladder wall thickening"
+                },
+                "PANCREAS": {
+                    "appearance": "within normal limits",
+                    "masses": "none",
+                    "pancreatic_ductal_dilation": "none"
+                },
+                "SPLEEN": {
+                    "echogenicity": "Normal",
+                    "measurement": "10.0 cm"
+                },
+                "KIDNEYS": {
+                    "right_kidney": "no hydronephrosis"
+                },
+                "RETROPERITONEUM": {
+                    "visualized_portions": "within normal limits"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbiology Culture",
+            "date": "Not specified",
+            "findings": {
+                "results": "NO GROWTH"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

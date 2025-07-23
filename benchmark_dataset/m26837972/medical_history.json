@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain and fevers.",
+        "history_of_present_illness": "Symptoms began yesterday with fevers as high as 107°F and diffuse abdominal pain, which improved overnight. Patient experienced two episodes of non-bloody emesis yesterday and reports chills and intermittent headaches since the onset.",
+        "past_medical_history": "Gluten intolerance diagnosed ___ year ago; underwent colonoscopy and upper endoscopy a year ago with normal findings and no celiac disease. Previous sinus surgery (septoplasty).",
+        "family_history": "Father has newly diagnosed glioblastoma.",
+        "social_history": "Not specified."
+    }
+}

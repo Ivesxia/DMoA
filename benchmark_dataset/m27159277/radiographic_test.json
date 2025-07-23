@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver appears mildly coarsened without focal lesion. There is no biliary dilatation. The gallbladder contains multiple shadowing stones, but does not appear distended. There are areas of ring-down artifacts along the anterior wall, raising question of adenomyomatosis. There is no pericholecystic fluid. The common duct measures 4 mm. There is normal hepatopetal flow in the portal vein. The spleen measures 12 cm. Partially visualized pancreas, aorta, and IVC are within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

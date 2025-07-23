@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "New focal parenchymal opacities in both the left lung and at the right lung base, suspicious for pneumonia. Unchanged borderline size of the cardiac silhouette, no pleural effusions, no pneumothorax, unchanged mild right apical pleural thickening.",
+            "changes_over_time": "New focal parenchymal opacities compared to the previous radiograph."
+        }
+    ]
+}

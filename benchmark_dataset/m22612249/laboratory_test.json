@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Lung bases are clear. No pleural or pericardial effusion. The liver is homogeneous, no focal liver lesions. Gallbladder, spleen, pancreas and adrenal glands are unremarkable. No stones in the kidneys or ureters. Small hiatal hernia. Stranding and wall thickening of the mid to distal sigmoid colon, concerning for microperforation. No extraluminal fluid. Increased fullness of the left renal pelvis likely due to mass effect from inflammatory changes. Appendix not visualized, no evidence of appendicitis. Significant atherosclerotic calcifications in the intra-abdominal aorta. No retroperitoneal or mesenteric lymph node enlargement. Urinary bladder and terminal ureters are normal. No pelvic or inguinal lymph node enlargement. No lesions suspicious for malignancy, scoliosis of lumbar spine, severe degenerative changes, new compression deformity of T12 vertebral body.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

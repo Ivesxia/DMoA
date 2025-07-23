@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Multiple mobile gallstones and sludge with associated diffuse gallbladder wall thickening and edema up to 5 mm. No pericholecystic edema. The gallbladder is somewhat though not overly distended. The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow. There is no ascites. There is no intrahepatic biliary dilation. The head and body of the pancreas are within normal limits. The tail of the pancreas is not visualized due to the presence of gas. Normal echogenicity of the spleen. Normal cortical echogenicity and corticomedullary differentiation in the kidneys. No evidence of masses, stones, or hydronephrosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

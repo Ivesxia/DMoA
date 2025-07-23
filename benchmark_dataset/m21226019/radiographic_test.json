@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "There are small pleural effusions, better seen. Resolved right basilar opacity. Stable left basilar opacity. Shallow inspiration accentuates heart size.",
+            "changes_over_time": "Resolved right basilar opacity; Stable left basilar opacity."
+        }
+    ]
+}

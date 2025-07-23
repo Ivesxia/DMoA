@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Skin punch biopsy",
+            "date": "Not specified",
+            "findings": "Skin involvement by CLL, without evidence of transformation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Flow cytometry of peripheral blood",
+            "date": "Not specified",
+            "findings": "Lymphocyte predominance by CLL; 3% of cells were positive for CD38.",
+            "changes_over_time": "Later flow cytometry confirmed CLL; however, 50% of B cells were CD38 positive."
+        },
+        {
+            "procedure_name": "Pericardial window placement",
+            "date": "Not specified",
+            "findings": "Drainage of left pleural and pericardial fluid showed CLL cells, but no evidence of Richter's transformation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pleural biopsy",
+            "date": "Not specified",
+            "findings": "Extensive granulation tissue and mesothelial proliferation consistent with chronic effusion; no evidence of large cell transformation or infection.",
+            "changes_over_time": "CLL was regarded as a 'bystander' and not the cause of the pleural effusion."
+        },
+        {
+            "procedure_name": "Blood cultures and viral load tests",
+            "date": "Not specified",
+            "findings": "All cultures negative for infections including CMV, adenovirus, EBV, Parvo 19 DNA, HHV-8, and respiratory viruses.",
+            "changes_over_time": "Resolution of fever noted post therapies."
+        }
+    ]
+}

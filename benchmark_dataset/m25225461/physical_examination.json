@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "167/102 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "Patient in obvious distress, laying on left lateral decubitus position. Moderately anxious. Alert, oriented x3.",
+                "HEENT": "Scleral icterus present. Mucous membranes dry.",
+                "cardiovascular": "Regular rate and rhythm.",
+                "pulmonary": "Unlabored breathing.",
+                "abdominal": "Diffuse hardening of abdomen. Tender to deep palpation over epigastric region, especially central region. Nondistended, no rebound tenderness. No masses.",
+                "rectal": "Deferred.",
+                "extremities": "Warm without edema."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

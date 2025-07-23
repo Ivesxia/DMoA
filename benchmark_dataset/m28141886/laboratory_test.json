@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Feces test for C. difficile toxin A & B",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Lung volumes are still low. Improved ventilation at the lung bases. Unchanged position of the right central venous access line. Unchanged moderate cardiomegaly. Unchanged plate-like atelectasis at the left lung apex.",
+            "changes_over_time": "Improved ventilation at the lung bases compared to previous radiograph."
+        }
+    ]
+}

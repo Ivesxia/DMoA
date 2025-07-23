@@ -1,0 +1,10 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute cholecystitis",
+        "differential_diagnosis": [
+            "multiple myeloma",
+            "rib fractures"
+        ],
+        "diagnostic_reasoning": "The patient presented with fever and localized abdominal pain in the epigastric region, which worsened with movement and deep inspiration. The pain's characteristics and the patient's history of biliary disease suggested acute cholecystitis as the primary diagnosis. The laparoscopic cholecystectomy performed confirms this diagnosis. Concurrent conditions such as multiple myeloma and rib fractures were also noted but were considered secondary."
+    }
+}

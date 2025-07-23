@@ -1,0 +1,26 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "liver": "The hepatic parenchyma appears coarsened. The contour of the liver is smooth. There is no focal liver mass. The main portal vein is patent with hepatopetal flow.",
+                "bile_ducts": "There is no intrahepatic biliary dilation.",
+                "chd": "5 mm",
+                "gallbladder": "There are several stones and layering sludge in a minimally distended gallbladder. There is a small amount of pericholecystic fluid without significant wall edema.",
+                "pancreas": "The pancreas is not well visualized, largely obscured by overlying bowel gas.",
+                "retroperitoneum": "The aorta and IVC were not visualized due to technical limitations."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory tests",
+            "date": "Not specified",
+            "findings": {
+                "transaminitis": "Not specified (result not given)",
+                "hyperglycemia": "1.1 mg/dL (not within normal range)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The diagnosis of acute appendicitis was supported by the presence of abdominal pain localized to the right upper quadrant, tenderness with rebound, and imaging findings that indicated a dilated appendix with fluid, consistent with acute appendicitis. No evidence of perforation or appendicolith was noted on MRI."
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.4",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified",
+                "oximetry": "100%"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, no acute distress, vomiting NBNB emesis",
+                "neck": "Supple, no JVD, no LAD",
+                "pulmonary": "Good aeration, CTAB, no wheezes, rales, ronchi",
+                "cardiovascular": "RRR normal S1/S2, no mrg",
+                "abdominal": "Soft, acutely tender in LUQ with no rebound, guarding, or distention. Ileostomy in place in RLQ with brown stool.",
+                "skin": "No ulcers or lesions",
+                "neurological": "CNs 2-12 intact, motor function grossly normal"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0",
+                "heart_rate": "128",
+                "blood_pressure": "132/65",
+                "respiratory_rate": "18",
+                "oximetry": "100%"
+            },
+            "relevant_findings": "Admission Exam findings consistent with those above, with active vomiting and acutely tender LUQ abdomen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

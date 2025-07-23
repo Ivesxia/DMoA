@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "86 bpm",
+                "blood_pressure": "135/56 mmHg",
+                "respiratory_rate": "17 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "well-appearing, no acute distress",
+                "HEENT": "PERRL, EOMI, sclera anicteric, moist mucous membranes",
+                "cardiac": "regular rate and rhythm",
+                "chest": "clear to auscultation bilaterally",
+                "abdomen": "soft, tenderness to palpation in right lower quadrant with voluntary guarding and no rebound tenderness",
+                "extremities": "warm, well-perfused, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

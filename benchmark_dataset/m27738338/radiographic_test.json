@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Imaged lung bases are clear. No pleural effusion. Normal heart size without pericardial effusion. Liver demonstrates homogeneous enhancement without focal lesions; no intrahepatic biliary ductal dilatation. Gallbladder incompletely distended, no gallbladder wall edema or pericholecystic fluid. Spleen unremarkable. Pancreas enhances homogeneously without ductal dilatation or peripancreatic fluid. Normal adrenal glands. Kidneys enhance and excrete contrast symmetrically without hydronephrosis or renal masses. Small and large bowel loops are normal without thickening or obstruction. Proximal appendix normal and air filled; appendiceal tip bulbous measuring 8 mm with mild adjacent fat stranding. No pathologically enlarged lymph nodes. Normal intra-abdominal aorta. In pelvis, bladder, distal ureters, rectum, uterus, and sigmoid colon unremarkable; 2.3 x 3 cm right adnexal cyst; no free air or fluid; no pathologically enlarged lymph nodes. No suspicious osseous lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

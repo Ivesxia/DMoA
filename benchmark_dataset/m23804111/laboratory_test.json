@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Glucose",
+            "date": "Not specified",
+            "findings": "65.0 mg/dL (normal range 70.0 - 400.0 mg/dL, result is outside normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Normal liver, pancreas, spleen, and adrenals; kidneys symmetrical with no hydronephrosis; presence of soft tissue density at descending colon with diverticulum; no pathologic lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

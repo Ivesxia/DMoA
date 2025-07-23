@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is enlarged measuring up to 10 mm with apparent mural thickening and mucosal hyperemia and adjacent fat stranding noted. There are at least 2 adjacent cecal diverticula, 1 of which appears inflamed and positioned adjacent to the appendix. Adjacent free air locules seen abutting the inflamed diverticulum though also in close proximity to the appendix. Overall findings favor acute diverticulitis with micro perforation.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

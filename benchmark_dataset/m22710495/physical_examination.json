@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "84 bpm",
+                "blood_pressure": "100/84 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress, engaging in conversation, pleasant.",
+                "pulmonary": "Clear to auscultation bilaterally.",
+                "cardiovascular": "Regular rate and rhythm.",
+                "abdominal": "Soft, minimally tender to palpation in the bilateral right lower quadrant, tenderness in the midepigastric area without rebound or guarding, no palpable masses.",
+                "pelvic": "Scant blood on peripad, small amount of blood on examination glove, cervix closed, no cervical motion tenderness, no uterine tenderness to palpation, no adnexal tenderness, rebound, or guarding."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

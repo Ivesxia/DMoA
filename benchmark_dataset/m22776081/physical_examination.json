@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.2°F",
+                "heart_rate": "87 bpm",
+                "blood_pressure": "128/80 mmHg",
+                "respiratory_rate": "18 bpm",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "constitutional": "Overall comfortable and not ill-appearing",
+                "oropharynx": "Within normal limits",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm, Normal first and second heart sounds",
+                "abdominal": "Soft, tender to low right lower quadrant, just inferior to McBurney's point",
+                "pelvic": "Pelvic exam done in primary care doctor's office without CMT and with mild right adnexal tenderness",
+                "GU/flank": "No costovertebral angle tenderness",
+                "extremities/back": "No cyanosis, clubbing or edema",
+                "skin": "No rash, Warm and dry",
+                "neurological": "Speech fluent",
+                "psychological": "Normal mentation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

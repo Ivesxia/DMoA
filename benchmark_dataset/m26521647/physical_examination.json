@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "heart_rate": "71 bpm",
+                "blood_pressure": "126/86 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "SpO2": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "No apparent distress, well appearing and pleasant",
+                "HEENT": "Normocephalic, atraumatic, extraocular movements intact, no scleral icterus",
+                "cardiovascular": "Regular rate and rhythm, radial pulses 2+ bilaterally",
+                "respiratory": "Breathing comfortably on room air, clear to auscultation bilaterally",
+                "gastrointestinal": "Soft, mildly tender to palpation in the right lower quadrant, much improved from prior exams, no rebound, guarding, or distension",
+                "extremities": "Warm and well perfused"
+            },
+            "changes_over_time": "Mild tenderness in the right lower quadrant has improved from prior examinations."
+        }
+    ]
+}

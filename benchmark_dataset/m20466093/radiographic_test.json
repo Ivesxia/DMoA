@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The liver is diffusely high in signal intensity on T2 weighted images, suggesting edema (e.g., hepatitis). Gallstones are seen within the neck of the gallbladder, with edema of the gallbladder wall and incompletely distended gallbladder. No common bile duct dilatation; the common bile duct measures 3 mm. A 4mm cyst is noted in the pancreatic head. A heterogeneously T1 hyperintense lesion in the lower pole of the left kidney, likely a hemorrhagic cyst measuring up to 2.2 cm, with follow-up in six months recommended.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

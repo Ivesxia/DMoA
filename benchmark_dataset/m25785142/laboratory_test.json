@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC 11.8 (initial), WBC 15.3 (subsequent)",
+            "changes_over_time": "Increased from 11.8 to 15.3"
+        },
+        {
+            "procedure_name": "Total Bilirubin",
+            "date": "Not specified",
+            "findings": "tbili 1.7 (initial), tbili 2.2 (subsequent)",
+            "changes_over_time": "Increased from 1.7 to 2.2"
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase (ALP)",
+            "date": "Not specified",
+            "findings": "ALP 156 (initial), ALP 166 (subsequent)",
+            "changes_over_time": "Increased from 156 to 166"
+        },
+        {
+            "procedure_name": "AST/ALT",
+            "date": "Not specified",
+            "findings": "AST/ALT 747/553 (initial), AST/ALT 527/552 (subsequent)",
+            "changes_over_time": "AST decreased from 747 to 527; ALT remained relatively stable around 552"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate 2.3",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "No intrahepatic biliary ductal dilatation; mildly distended gallbladder with multiple gallstones; common bile duct patent without obstruction; no pericholecystic fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

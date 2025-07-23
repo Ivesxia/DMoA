@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 99.4°F, 98.4°F; Heart Rate: 97 bpm; Blood Pressure: 145/76 mmHg; Respiratory Rate: 16 breaths/min; Oxygen Saturation: 91% on room air",
+            "relevant_findings": "General: Alert, awake, oriented to person, place, and time, no acute distress; HEENT: Normocephalic, atraumatic, pupils equal, round, reactive to light, extraocular movements intact; Pulmonary: Clear to auscultation bilaterally; Cardiac: Regular rate and rhythm, normal S1/S2; Gastrointestinal: Mild tenderness to palpation consistent with incisional and post-operative pain, soft, nondistended, no peritoneal signs; Extremities: Warm, well-perfused",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

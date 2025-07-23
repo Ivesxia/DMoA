@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "LFTs WNL (within normal limits)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Serum Creatinine",
+            "date": "Not specified",
+            "findings": "Elevated serum creatinine at 1.7 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "INR (International Normalized Ratio)",
+            "date": "Not specified",
+            "findings": "INR therapeutic at 2.5",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate at 1.7",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Guaiac test",
+            "date": "Not specified",
+            "findings": "Guaiac negative in the ED",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen/Pelvis",
+            "date": "Not specified",
+            "findings": "Ill-defined hypodense lesion in caudate lobe; otherwise, unremarkable findings",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

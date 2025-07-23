@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.8 °F",
+                "blood_pressure": "158/81 mmHg",
+                "heart_rate": "108 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "95% on RA"
+            },
+            "relevant_findings": {
+                "general": "Obese middle-aged black male, NAD",
+                "HEENT": "Atraumatic, sclera anicteric, op clear/dry, neck supple, right IJ, no LAD in cervical or supraclavicular areas.",
+                "heart": "Regular, tachycardic, no murmur",
+                "lungs": "Clear, diminished sounds",
+                "abdomen": "Obese, soft, epigastric tenderness, +BS",
+                "extremities": "No edema, chronic venous stasis changes anterior calves",
+                "neurological": "Grossly intact, spontaneously moves all extremities, normal speech, CNs intact",
+                "psychological": "Full affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

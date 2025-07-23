@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "Liver demonstrates normal echotexture without focal lesions. There is no evidence of intrahepatic or extrahepatic biliary ductal dilatation. The CBD is of normal caliber measuring 3 mm. The portal vein is patent demonstrating hepatopetal flow. The gallbladder is mildly distended. There is a 12 mm gallstone within its lumen, unchanged. There is no pericholecystic fluid collection or gallbladder wall edema. The pancreas is unremarkable. The right kidney measures 11.4 cm and is normal. Visualized intra-abdominal aorta and IVC are normal in caliber. There is no ascites.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation Test",
+            "date": "Not specified",
+            "findings": "28.6 sec",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

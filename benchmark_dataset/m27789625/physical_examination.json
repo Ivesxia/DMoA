@@ -1,0 +1,19 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.6°F",
+                "heart_rate": "73 bpm",
+                "blood_pressure": "120/80 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and oriented times three.",
+                "abdominal": "Soft abdomen with tenderness in the left lower quadrant and guarding; no rebound tenderness, guaiac negative, normal tone."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

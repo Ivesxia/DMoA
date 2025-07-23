@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits. No evidence of pleural or pericardial effusion. Appendix is enlarged measuring up to 9 mm with mural hyperenhancement, compatible with uncomplicated appendicitis. No evidence of perforation or adjacent abnormal fluid collection concerning for abscess.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

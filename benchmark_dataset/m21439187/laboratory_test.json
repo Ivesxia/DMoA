@@ -1,0 +1,30 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "liver": "normal in size, no focal mass or diffuse abnormality, no bile duct dilatation, gallbladder normal",
+                "pancreas": "normal in size, no focal mass or diffuse abnormality, no peripancreatic stranding",
+                "spleen": "not enlarged, appears homogeneous",
+                "adrenal glands": "normal in size and shape",
+                "kidneys": "normal in size, no focal cortical mass, solid or cystic, equal and prompt nephrograms bilaterally, pelvicalyceal systems and ureters normal",
+                "lymph nodes": "no retroperitoneal or mesenteric lymph node enlargement or other mass",
+                "digestive tract": {
+                    "stomach and duodenum": "normal",
+                    "jejunum and ileum": "normal mucosal pattern, no signs of small bowel dilatation",
+                    "colon": "no obstructing lesion, appendix normal caliber, no signs of appendicitis, no periappendiceal stranding",
+                    "left lower quadrant": "area of stranding with focal encapsulated fat, classic appearance of epiploic appendagitis",
+                    "pelvis": "no abnormal lymph node enlargement or other mass, prostate normal in size, urinary bladder unremarkable, small amount of free fluid in rectovescical pouch"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "2.1 mg/dL (reference range: 1.6 - 2.6 mg/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

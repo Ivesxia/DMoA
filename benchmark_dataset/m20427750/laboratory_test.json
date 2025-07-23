@@ -1,0 +1,58 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "appearance": "within normal limits",
+                    "contour": "smooth",
+                    "focal mass": "none",
+                    "portal vein": "patent with hepatopetal flow",
+                    "ascites": "none"
+                },
+                "bile ducts": {
+                    "intrahepatic biliary dilation": "none",
+                    "CBD measurement": "6 mm"
+                },
+                "gallbladder": {
+                    "gallstone": "2.0 cm",
+                    "sludge": "mobile",
+                    "wall edema": "none",
+                    "pericholecystic fluid": "none"
+                },
+                "pancreas": {
+                    "appearance": "within normal limits",
+                    "masses": "none",
+                    "ductal dilation": "none"
+                },
+                "spleen": {
+                    "echogenicity": "normal",
+                    "measurement": "9.4 cm"
+                },
+                "kidneys": {
+                    "right kidney measurement": "10.0 cm",
+                    "left kidney measurement": "9.8 cm",
+                    "stones": "none",
+                    "hydronephrosis": "none"
+                },
+                "retroperitoneum": {
+                    "aorta and IVC": "within normal limits"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation test",
+            "date": "Not specified",
+            "findings": {
+                "prothrombin time (PT)": "29.1 sec",
+                "reference range": {
+                    "lower": "25.0 sec",
+                    "upper": "36.5 sec"
+                }
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Leukocytosis Assessment",
+            "date": "Not specified",
+            "findings": "Leukocytosis with a count of 13.5 (value not explained but likely outside normal range).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Kidney Function Test",
+            "date": "Not specified",
+            "findings": "8.1 mg/dL (below the normal range of 8.4-10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Small bilateral pleural effusions, multiple large calculi within the gallbladder, normal CBD caliber with a plastic stent, a 13 x 13 mm enhancing mass at the ampulla.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

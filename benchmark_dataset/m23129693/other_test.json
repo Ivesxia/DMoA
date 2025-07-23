@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Gallbladder wall is severely thickened with marked mural irregularity, areas of mural non-enhancement and mural ulceration. There are surrounding inflammatory changes. No intra or extrahepatic biliary duct dilation. The liver is normal in morphology and signal intensity. Note is made of periportal edema.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Percutaneous drainage of gallbladder",
+            "date": "Not specified",
+            "findings": "Gallbladder lumen is decompressed with a percutaneous drainage catheter. Mild tenderness in RUQ at drain site observed.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

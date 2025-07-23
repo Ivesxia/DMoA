@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Bone marrow aspirate and biopsy",
+            "date": "Not specified",
+            "findings": "Minimal residual CLL.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "NSR, LAE, nonspecific T wave changes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Colonoscopy",
+            "date": "Not specified",
+            "findings": "Sigmoid stricture and pelvic abscess.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Negative for toxigenic C. difficile assay",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile by the Cepheid nucleic acid amplification assay.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

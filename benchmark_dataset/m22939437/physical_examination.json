@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2°F",
+                "heart_rate": "115 bpm",
+                "blood_pressure": "130/69 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "chronically ill-appearing obese male in no acute distress",
+                "HEENT": "normal cephalic/atraumatic, pupils equal, round, reactive to light and accommodation, extraocular movements intact, sclerae anicteric, dry mucous membranes",
+                "neck": "supple, unable to assess jugular venous pressure due to obesity",
+                "lungs": "clear to auscultation bilaterally, no rales/rhonchi/wheezes, good air movement, respiratory effort unlabored, no accessory muscle use",
+                "heart": "distant heart sounds, tachycardic, no appreciable murmurs or rubs",
+                "abdomen": "obese, normal bowel sounds, soft, non-distended, diffuse tenderness to palpation, greatest in right lower quadrant, no rebound or guarding, no masses or hepatosplenomegaly",
+                "extremities": "purple-brown chronic venous stasis changes with varicose veins, no edema, 1+ dorsalis pedis pulses palpable",
+                "neurological": "awake, alert, and oriented to person, place, and time, cranial nerves II-XII grossly intact, muscle strength and sensation grossly intact throughout"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98°F",
+                "heart_rate": "106 bpm",
+                "blood_pressure": "116/62 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C. difficile assay",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile by the Illumigene DNA amplification assay. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver is hypodense consistent with fatty infiltration. There is marked inflammatory change about diverticula along the lower sigmoid with potential early abscess formation. The distal ileum shows wall thickening suggesting secondary inflammatory change and small bubbles within fluid suggest perforation of the sigmoid with minimal regional free air.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

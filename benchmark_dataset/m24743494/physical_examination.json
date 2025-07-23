@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "60 bpm",
+                "blood_pressure": "180/71 - 173/53 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "elderly, well appearing female in NAD",
+                "cardiovascular": "RRR, systolic blowing murmur @ L ICS",
+                "respiratory": "CTAB",
+                "abdominal": "+BS, soft, ND, very mildly tender RUQ and epigastric, no hernias, no masses",
+                "extremities": "warm extremities, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The hepatic parenchyma appears within normal limits. The contour of the liver is smooth. There is no focal liver mass. Main portal vein is patent with hepatopetal flow. There is no ascites. There is no intrahepatic biliary dilation. The CBD measures 7 mm. There is cholelithiasis without evidence of cholecystitis. There is no gallbladder wall thickening or pericholecystic fluid. Pancreatic tail and body largely obscured by overlying bowel gas; otherwise, the imaged pancreas is unremarkable. Spleen normal echogenicity, measuring 11.3 cm. Right kidney atrophic; left kidney unremarkable. No hydronephrosis or nephrolithiasis on this limited evaluation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

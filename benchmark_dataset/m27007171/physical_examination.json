@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6 °F",
+                "heart_rate": "74 bpm",
+                "blood_pressure": "141/76 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Awake, uncomfortable",
+                "cardiovascular": "Regular rate and rhythm, S1, S2",
+                "chest": "Clear to auscultation bilaterally",
+                "abdominal": "Right upper quadrant tenderness, Murphy's sign, no peritoneal signs"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

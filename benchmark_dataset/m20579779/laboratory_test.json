@@ -1,0 +1,47 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": {
+                "WBC": "8.6",
+                "Hct": "36.5",
+                "Plt": "106"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test (LFT)",
+            "date": "Not specified",
+            "findings": {
+                "INR": "1.4",
+                "ALT": "362",
+                "AST": "102",
+                "AP": "387",
+                "Tbili": "2.79",
+                "alb": "2.4"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": {
+                "Lipase": "178"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRI Abdomen",
+            "date": "Not specified",
+            "findings": "4 mm nodule in left lower lobe, diffuse fatty deposition within liver, subcapsular lesion 2.5 x 3.7 cm likely chronic hematoma, peripancreatic fluid collections of varying sizes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "Mixed bacterial flora (>= 3 colony types), consistent with skin and/or genital contamination.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

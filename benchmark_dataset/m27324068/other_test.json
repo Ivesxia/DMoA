@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP with spent placement",
+            "date": "Not specified",
+            "findings": "Findings of cholangitis and elevated liver enzymes.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Mild gallbladder wall thickening with mild pericholecystic fat stranding. CBD mildly prominent proximally (7 mm). Mild prominence of the main pancreatic duct measuring up to 6 mm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

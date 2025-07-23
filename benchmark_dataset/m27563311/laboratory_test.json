@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver function test (LFT)",
+            "date": "Not specified",
+            "findings": "ALT 1483, AST 1059, Total Bilirubin 4.2, Direct Bilirubin 2.8, Alkaline Phosphatase 105",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 467 (previously normal)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Troponin",
+            "date": "Not specified",
+            "findings": "Troponin negative x 1",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "INR",
+            "date": "Not specified",
+            "findings": "INR 2.7 (on Coumadin)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chemistry panel",
+            "date": "Not specified",
+            "findings": "Creatinine 0.7, all other results within normal limits",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis (UA)",
+            "date": "Not specified",
+            "findings": "Specific Gravity 1.050, otherwise small bilirubin",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HIV-1 RNA test",
+            "date": "Not specified",
+            "findings": "HIV-1 RNA is not detected; Detection Range: 20-10,000,000 copies/mL",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

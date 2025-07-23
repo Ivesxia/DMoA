@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is visualized in the right lower quadrant and demonstrates wall edema and measures 12 mm in diameter. There is no periappendiceal fluid collection.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for unspecified item",
+            "date": "Not specified",
+            "findings": "1.4 mmol/L (within normal range of 0.5 to 2.0 mmol/L).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

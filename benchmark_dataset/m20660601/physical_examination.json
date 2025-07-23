@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.6°F",
+                "blood_pressure": "196/82 mmHg",
+                "heart_rate": "51 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "Sitting comfortably in bed, no distress",
+                "heent": "AT/NC, no conjunctival pallor, anicteric sclera, mucus membranes moist",
+                "neck": "Supple, non-tender, JVP not elevated on examination of left internal jugular, temporary pacing wire site with dry sanguinous fluid on dressing",
+                "cardiovascular": "S1 and S2 normal, no murmurs, rubs, or gallops",
+                "respiratory": "Clear to auscultation bilaterally, no wheezes or crackles",
+                "abdominal": "Soft, non-tender, distended (baseline per patient), obese, bowel sounds normoactive",
+                "genitourinary": "Dressing overlying left scrotum stained with dry serosanguinous fluid",
+                "extremities": "Warm, well perfused, 1+ lower extremity edema to mid-shin",
+                "neurological": "Alert and oriented x3, grossly intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

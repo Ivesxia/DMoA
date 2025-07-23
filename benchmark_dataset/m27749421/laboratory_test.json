@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver shows no evidence of focal lesions or ductal abnormality. There is no evidence of intrahepatic or extrahepatic biliary dilation. Several shadowing stones are identified in the gallbladder, the largest of which measures 1.8 cm and appears to be lodged in the neck of the gallbladder. There is no gallbladder wall thickening or pericholecystic fluid. The common bile duct measures 7 mm. The portal vein demonstrates normal hepatopetal flow.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory tests (Transaminases and Alk Phos)",
+            "date": "Not specified",
+            "findings": "Marked transaminitis with normal total bilirubin and slightly elevated alkaline phosphatase.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Immunology Test (Titer)",
+            "date": "Not specified",
+            "findings": "POSITIVE. TITER IS ABOVE 500 MIU/ML. PROTECTIVE TITERS ARE >10 MIU/ML.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

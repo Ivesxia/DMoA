@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver, spleen, both adrenals, both kidneys, pancreas and gallbladder are unremarkable. The portal vein is patent. No intra- or extra-hepatic biliary dilatation is present. The small and large bowel loops are unremarkable. No abdominal free fluid or free air is present. No abdominal, retroperitoneal or mesenteric lymphadenopathy by CT size criteria is present. The appendix is retrocecal and is fluid-filled at its distal tip with a hyperenhancing wall and adjacent fat stranding consistent with inflammation. No fluid collections are present. The rectum, sigmoid colon, bladder, prostate, and seminal vesicles are unremarkable. No pelvic or inguinal lymphadenopathy or pelvic free fluid is present. The visible osseous structures show no suspicious lytic or blastic lesions or fractures.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

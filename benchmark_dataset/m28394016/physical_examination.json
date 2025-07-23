@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "blood_pressure": "120/73 mmHg",
+                "heart_rate": "76 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert and in no apparent distress",
+                "eyes": "Anicteric, pupils equally round",
+                "ENT": "Ears and nose without visible erythema, masses, or trauma. Oropharynx without visible lesion, erythema or exudate",
+                "CV": "Heart regular, holosystolic murmur heard at the ___ No JVD.",
+                "respiratory": "Lungs clear to auscultation with good air movement bilaterally. Breathing is non-labored",
+                "GI": "Abdomen soft, obesely distended, tender in the RUQ and epigastric region with moderate palpation. Bowel sounds present. No HSM. No rebound or guarding.",
+                "musculoskeletal": "Neck supple, moves all extremities, strength grossly full and symmetric bilaterally in all limbs",
+                "skin": "No rashes or ulcerations noted",
+                "neuro": "Alert, oriented, face symmetric, gaze conjugate with EOMI, speech fluent, moves all limbs, sensation to light touch grossly intact throughout",
+                "psych": "Pleasant, appropriate affect"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "ED presentation",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "blood_pressure": "138/65 mmHg",
+                "heart_rate": "85 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Patient reported pain improving throughout the day prior to admission."
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Left lower quadrant abdominal pain",
+        "history_of_present_illness": "Pain began 2 days ago, constant and localized. Mild discomfort experienced for the past 2 weeks, acutely worsened yesterday. Felt feverish yesterday but did not measure temperature. No nausea/vomiting, chills, or night sweats. Not associated with diarrhea; however, the patient experienced constipation, with a dark bowel movement yesterday. No blood per rectum. The patient felt dizzy today and syncopized after a bowel movement.",
+        "past_medical_history": "Carpal tunnel syndrome, GERD, lumbar spondylosis, back pain/disc disease, osteoarthritis, trigger finger, calf cramps. Previous surgeries include discectomy and carpal tunnel release.",
+        "family_history": "Two sisters have had breast cancer; another sister had ovarian cancer; a brother had kidney or bladder cancer. No family history of coronary artery disease or myocardial infarction.",
+        "social_history": "Not specified."
+    }
+}

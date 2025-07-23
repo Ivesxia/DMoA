@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level of 1400. Follow-up lipase was 990.",
+            "changes_over_time": "Decreased from 1400 to 990."
+        },
+        {
+            "procedure_name": "MRI ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Dilated central hepatic ducts; common bile duct measures 12 mm with complete obliteration of the lumen for approximately 15 mm length. Prominent pancreatic duct with a 14 x 19 mm T1 hypointense lesion at the pancreatic head. Trace perinephric fluid noted.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

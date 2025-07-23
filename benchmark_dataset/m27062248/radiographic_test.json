@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT HEAD W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "No evidence of infarction, fracture, hemorrhage, edema, mass effect or shift of normally midline structures. Minimal periventricular white matter hypodensities compatible with sequela of chronic microvascular ischemic disease. The ventricles and sulci are slightly prominent compatible with mild age related parenchymal volume loss. Dense atherosclerotic calcification of the bilateral carotid siphons noted. Orbits and globes are unremarkable. Visualized paranasal sinuses, middle ear cavities and mastoid air cells are clear bilaterally. Bony calvaria appear intact.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RUS U/S",
+            "date": "Not specified",
+            "findings": "Cholelithiasis and sludge. Minimal gallbladder wall thickening.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

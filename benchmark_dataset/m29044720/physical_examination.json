@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2 F",
+                "heart_rate": "75 bpm",
+                "blood_pressure": "165/103 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "A&O": "A&Ox3",
+                "NAD": "NAD",
+                "body": "heavyset",
+                "lungs": "CTAB",
+                "heart": "RRR",
+                "abdominal_exam": "soft, ND, tender RUQ focally, min tender epigastrium, non-tender elsewhere",
+                "rebound": "no rebound",
+                "guarding": "no guarding",
+                "umbilical_hernia": "small umbilical hernia defect, reducible WWP sans C/C/E"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Relatively stable CBC",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "K 5.9 (hemolyzed sample)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Cr 1.3 (b/l 1.2)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "INR",
+            "date": "Not specified",
+            "findings": "INR 1.9",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Troponin",
+            "date": "Not specified",
+            "findings": "Trop <0.01",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "proBNP",
+            "date": "Not specified",
+            "findings": "proBNP 7481",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbiology Culture",
+            "date": "Not specified",
+            "findings": "ESCHERICHIA COLI, MIXED BACTERIAL FLORA, RAOULTELLA PLANTICOLA - abnormal",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.0°F",
+                "heart_rate": "112 bpm",
+                "blood_pressure": "124/95 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "physical_exam": "Tenderness to palpation in the epigastric region and slight tenderness in the right upper quadrant; the abdomen is soft, nondistended, without rebound or guarding."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "76 bpm",
+                "blood_pressure": "125/86 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "physical_exam": "General: NAD, lying in bed; Eyes: EOMI, sclerae anicteric; ENT: MMM, OP clear; Cardiovascular: RRR, no MRG, full pulses, no edema; Respiratory: normal effort, lungs CTA; GI: soft, tender to palpation of RUQ and epigastrium, nondistended, bowel sounds positive; Musculoskeletal: No significant kyphosis, no palpable synovitis; Skin: No visible rash, no jaundice; Neurological: AAOx3, no facial droop; Psych: Full range of affect."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

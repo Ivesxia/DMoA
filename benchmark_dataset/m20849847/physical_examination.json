@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4°F (Tm 99.5°F)",
+                "heart_rate": "Not specified",
+                "blood_pressure": "146/101 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Somnolent; able to answer simple questions with extensive redirection",
+                "HEENT": "Mild proptosis; pinpoint pupils",
+                "neck": "Supple, JVP not elevated, no lymphadenopathy",
+                "lungs": "Clear to auscultation bilaterally, no wheezes, rales, or ronchi",
+                "cardiovascular": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, or gallops",
+                "abdomen": "Obese; voluntary guarding, mild diffuse tenderness to palpation",
+                "genitourinary": "Foley catheter present",
+                "extremities": "Warm, well perfused, 2+ pulses, no clubbing, cyanosis, or edema; multiple amputations",
+                "neurological": "Moving all extremities spontaneously; cranial nerves II-XII grossly intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

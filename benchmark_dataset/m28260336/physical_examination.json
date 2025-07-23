@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.8°F",
+                "heart_rate": "76 bpm",
+                "blood_pressure": "98/79 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "98%"
+            },
+            "relevant_findings": {
+                "general": "Awake, alert and oriented",
+                "HEENT": "Normocephalic, atraumatic. Pupils equal, round, and reactive to light",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular rate and rhythm",
+                "abdominal": "Soft, tenderness to palpation in the bilateral lower quadrants",
+                "GU/flank": "No costovertebral angle tenderness",
+                "extremities/back": "No cyanosis, clubbing, or edema",
+                "skin": "No rash",
+                "neurological": "Speech fluent",
+                "psychiatric": "Normal mood"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

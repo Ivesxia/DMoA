@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": ">3000",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Tests",
+            "date": "Not specified",
+            "findings": "No significant growth.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Hypopotassemia",
+            "date": "Not specified",
+            "findings": "1342.0 pg/mL",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

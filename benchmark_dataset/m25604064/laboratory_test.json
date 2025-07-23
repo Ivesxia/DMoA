@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "ERCP BILIARY&PANCREAS BY GI UNIT",
+            "date": "Not specified",
+            "findings": "Opacification of the common bile duct with few non-obstructing filling defects likely corresponding to stones. One stone in the region of the ampulla. Normal contour and caliber of the pancreatic duct without filling defects. Balloon sweep of the common bile duct performed with resolution of the filling defects. Common bile duct not dilated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

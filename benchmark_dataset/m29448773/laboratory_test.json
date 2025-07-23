@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Limited assessment of the lung bases demonstrate no focal opacity. A large nonhemorrhagic left pleural effusion which has mildly increased in size. Mild decrease in the subdiaphragmatic fluid collection with a peripheral enhancing irregular rim and locules of air consistent for an abscess. Multiple pseudocysts in the pancreas with one measuring 4.1 x 3.4 cm (previously 5.3 x 3.7 cm) and another measuring 2.5 x 2.1 cm (previously 2.7 x 2.1 cm). The pancreatic body pseudocyst has slightly increased in size now measuring 1.8 x 1.0 cm (previously 1.3 x 0.5 cm). No new focal solid or cystic lesions.",
+            "changes_over_time": "The pancreatic head pseudocyst decreased in size from 5.3 x 3.7 cm to 4.1 x 3.4 cm, and another pseudocyst decreased from 2.7 x 2.1 cm to 2.5 x 2.1 cm. The pseudocyst in the pancreatic body increased in size from 1.3 x 0.5 cm to 1.8 x 1.0 cm."
+        },
+        {
+            "procedure_name": "Toxigenic C. difficile by the Illumigene DNA amplification assay",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile. Reference Range-Negative.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

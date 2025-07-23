@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Small bilateral pleural effusions with overlying minimal subsegmental atelectasis. No focal parenchymal consolidation suggestive of pneumonia. The heart and mediastinal contours show no suspicious interval change. Curved tubing is projected in the right upper quadrant.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

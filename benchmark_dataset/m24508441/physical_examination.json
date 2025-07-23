@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "86 bpm",
+                "blood_pressure": "119/71 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "A&Ox3, no distress",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "CV": "RRR (regular rate and rhythm)",
+                "pulmonary": "Bilateral breath sounds clear",
+                "abdominal": "Soft, nondistended, very tender along RUQ to mid-epigastrium, focal peritonitis",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

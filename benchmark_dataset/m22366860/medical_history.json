@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient is a year old lady with complaints of abdominal pain that began following an outpatient visit. She experienced periumbilical abdominal pain that progressively worsened, accompanied by nonbilious emesis and nausea. Symptoms included episodes of vomiting over the past two weeks, with associated burping and increasing acidity. Nausea was present. No fever, urinary symptoms, chest pain, or cough were reported.",
+        "past_medical_history": "Obesity s/p gastric banding; Depression with history of suicide attempt; Obstructive sleep apnea requiring CPAP; Migraine headaches; Glomangiomas; Fatty liver by ultrasound; Borderline diabetes mellitus type 2; Dyslipidemia; History of viral meningitis; Right ankle surgery",
+        "family_history": "Obesity, DM",
+        "social_history": "Not specified"
+    }
+}

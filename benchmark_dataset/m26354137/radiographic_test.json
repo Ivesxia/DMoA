@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Evidence of non-strangulated inguinal hernia, sludge/stones in gallbladder.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in size and appearance. No biliary dilatation. Gallbladder contains stones and sludge; wall is edematous. No hydronephrosis or ascites.",
+            "changes_over_time": "Multiple gallstones identified in prior abdomen CT."
+        }
+    ]
+}

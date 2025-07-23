@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "82 bpm",
+                "blood_pressure": "118/79 mmHg",
+                "respiratory_rate": "18 bpm",
+                "oxygen_saturation": "94% on Room Air"
+            },
+            "relevant_findings": {
+                "general": "No Acute Distress, appears more comfortable after bowel movement",
+                "HEENT": "Extraocular Movements Intact",
+                "cardiovascular": "Regular Rate and Rhythm",
+                "abdominal": "Obese, soft and appropriately tender near incision sites. Incisions are clean/dry/intact.",
+                "neurological": "Moves all 4 extremities equally and strongly"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

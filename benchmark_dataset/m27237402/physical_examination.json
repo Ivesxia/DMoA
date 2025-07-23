@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "blood_pressure": "170/82 mmHg",
+                "heart_rate": "64 bpm",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Pleasant, well-appearing, in no apparent distress.",
+                "heent": "Normocephalic, atraumatic, no conjunctival pallor or scleral icterus, PERRLA, EOMI, OP clear.",
+                "neck": "Supple, no LAD, no thyromegaly, JVP flat.",
+                "cardiac": "RRR, normal S1/S2, systolic murmur heard throughout precordium, loudest at RUSB.",
+                "pulmonary": "Clear to auscultation bilaterally, without wheezes or rhonchi.",
+                "abdomen": "Normal bowel sounds, soft. Tender throughout, most in epigastrium then RUQ. No r/g.",
+                "extremities": "Warm, well-perfused, no cyanosis, clubbing or edema.",
+                "skin": "Chronic venous stasis changes of b/l extremities.",
+                "neurologic": "A&Ox3, grossly normal."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

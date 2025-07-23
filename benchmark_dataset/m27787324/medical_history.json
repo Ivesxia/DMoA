@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain.",
+        "history_of_present_illness": "The patient developed sudden abdominal pain yesterday while walking. Initially thought to be hunger pains, the pain became more severe, accompanied by diaphoresis and nausea. The pain radiates to the back and flanks. Symptoms are relieved by IV dilaudid. Patient has not eaten since yesterday.",
+        "past_medical_history": "DM II, hyperlipidemia, hypertension.",
+        "family_history": "Daughter had a significant medical event post-pregnancy.",
+        "social_history": "Personal history of tobacco use."
+    }
+}

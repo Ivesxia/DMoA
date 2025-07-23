@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits. The liver demonstrates homogenous attenuation throughout without focal lesions or biliary dilatation. The pancreas remains edematous with significant peripancreatic fat stranding. Heterogeneous hypoenhancement of the pancreatic head could represent mild/early necrosis. The spleen and adrenal glands are normal. The kidneys are normal with no evidence of lesions. Inflammatory changes extend to the second and third portions of the duodenum, but there is no obstruction. There is a small amount of pneumoperitoneum likely due to recent surgery. No lymphadenopathy or other significant findings noted.",
+            "changes_over_time": "Heterogeneous hypoenhancement of the pancreatic head appears overall similar compared to the prior MRCP. Interval cholecystectomy was performed since the recent MRCP."
+        }
+    ]
+}

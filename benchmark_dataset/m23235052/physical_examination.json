@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "blood_pressure": "124/65 mmHg",
+                "heart_rate": "112 bpm",
+                "respiratory_rate": "26 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "Alert, no acute distress, slow speech",
+                "HEENT": "Sclera anicteric, mucus membranes dry, oropharynx clear",
+                "neck": "supple, flat neck veins",
+                "cardiovascular": "tachycardic with regular rhythm, normal S1 + S2, no murmurs, rubs, or gallops",
+                "lungs": "Clear to auscultation bilaterally, no wheezes, rales, or ronchi",
+                "abdomen": "+ bowel sounds, soft, minimally tender to palpation in RUQ, non-distended, no organomegaly",
+                "genitourinary": "no foley",
+                "extremities": "warm, well perfused, 2+ pulses, no clubbing, cyanosis, or edema",
+                "neurological": "Cranial Nerves II-XII grossly intact, moving all extremities equally"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CTA CHEST W&W/O C&RECONS, NON-CORONARY",
+            "date": "Not specified",
+            "findings": "The pulmonary arteries opacify normally without filling defects. Pathologic mediastinal and right hilar adenopathy is unchanged including a 13 mm subcarinal node and 15 mm right hilar node. Multiple enlarged left axillary nodes, the largest measuring 3.6 x 2.2 cm. A new small left pleural effusion with associated relaxation atelectasis, also present on the right to a lesser degree. A small paraesophageal hernia. Tiny 4 mm left thyroid nodule and a 3-mm tiny pulmonary nodule likely intrapulmonary lymph node.",
+            "changes_over_time": "Pathologic mediastinal and right hilar adenopathy is unchanged in the 60 interval."
+        }
+    ]
+}

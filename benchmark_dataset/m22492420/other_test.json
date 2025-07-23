@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is distended up to 1.4 cm thick with adjacent fatty stranding consistent with acute appendicitis. No drainable collection or abscess. Small amount of free fluid in the pelvis. Other abdominal organs unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "NONE /hpf",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

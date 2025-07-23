@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "heart_rate": "95 bpm",
+                "blood_pressure": "119/67 mmHg",
+                "respiratory_rate": "28 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "A&Ox3, somnolent but arousable, NAD",
+                "HEENT": "Mild scleral icterus, mucous membranes moist",
+                "cardiovascular": "RRR, No murmurs/gallops/rubs",
+                "pulmonary": "No respiratory distress",
+                "abdomen": "Softly distended, TTP epigastrium, no rebound or guarding, no palpable masses, + wave",
+                "extremities": "Warm and well perfused, + edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

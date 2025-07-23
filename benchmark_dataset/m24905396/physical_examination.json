@@ -1,0 +1,16 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.2°F",
+                "heart_rate": "65 bpm",
+                "blood_pressure": "109/71 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": "NAD CTAB, RRR, -MRG Soft, ND, tender to palpation diffusely over abdomen with increased tenderness over RLQ, -guarding, -rebound, +BS",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

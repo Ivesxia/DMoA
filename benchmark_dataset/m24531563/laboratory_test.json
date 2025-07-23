@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated up to 1 cm with mild surrounding fat stranding and inflammatory changes. At the origin of the appendix, the lumen is obliterated and there is avid enhancement. Other abdominal and pelvic structures appear unremarkable.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test",
+            "date": "Not specified",
+            "findings": "1.5 mmol/L (within range, reference range is 0.5 - 2.0).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

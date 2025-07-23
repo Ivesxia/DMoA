@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Pericardial Window",
+            "date": "Not specified",
+            "findings": "Expressed 700cc of bloody-looking fluid. A pericardium specimen revealed chronic inflammation, fibrosis and granulation tissue but no malignancy, confirmed by cytology.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "Multiple gallstones and gallbladder sludge identified. Irregular gallbladder wall contour with pericholecystic fluid identified, concerning for perforated gallbladder. The gallbladder wall is thickened up to 6 mm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99°F",
+                "heart_rate": "97 bpm",
+                "blood_pressure": "147/82 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, awake/alert, cooperative",
+                "HEENT": "Normocephalic, atraumatic, extraocular movements intact, no scleral icterus, dry mucous membranes",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "Clear to auscultation bilaterally",
+                "abdominal": "Soft, mildly distended, tenderness to palpation in the suprapubic region and left lower quadrant without rebound or guarding",
+                "extremities": "Warm, well-perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": "No focal or textural abnormality",
+                "biliary_dilatation": "No",
+                "common_d duct_measurement": "3 mm",
+                "gallbladder_stone": "2.3-cm stone, impacted in the gallbladder neck, nonmobile",
+                "gallbladder_distention": "Mild, no frank wall edema or pericholecystic fluid",
+                "sonographic_sign": "Positive",
+                "portal_vein_flow": "Normal hepatopetal flow"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": {
+                "bilirubin": "1.9 mg/dL",
+                "reference_range": "1.6 to 2.6 mg/dL"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

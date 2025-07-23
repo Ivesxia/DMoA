@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Minimal dilatation of the common bile duct. Only the right main hepatic duct and right anterior hepatic duct were opacified. The left intrahepatic biliary tree was not visualized. An impacted stone within the major papilla was found and successfully removed.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Toxigenic C. difficile by Illumigene DNA amplification assay",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Several new ground-glass opacities in the right lower lobe consistent with developing infectious process; 1 cm segment VII hypodense lesion consistent with a hemangioma; no pleural effusion; no solid masses or hydronephrosis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

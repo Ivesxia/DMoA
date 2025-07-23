@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CTA ABD & PELVIS",
+            "date": "Not specified",
+            "findings": "The gallbladder contains gallstones with mild distension and pericholecystic fluid and stranding.",
+            "changes_over_time": "Soft tissue density surrounding the area has significantly improved compared to outside hospital CT."
+        },
+        {
+            "procedure_name": "Mixed Bacterial Flora Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA (>= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION. Result value: 6.5 units.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

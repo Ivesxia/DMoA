@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1 °F",
+                "heart_rate": "75 bpm",
+                "blood_pressure": "112/72 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "NAD, AOx3",
+                "cardiovascular": "RRR",
+                "lungs": "CTAB",
+                "abdominal": "Soft, ND, slight TTP along lower abdomen, no guarding/rebound",
+                "extremities": "warm, well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

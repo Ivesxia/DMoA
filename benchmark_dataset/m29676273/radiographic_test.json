@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "No pneumonia or pleural effusion at the lung bases. Subtle opacity at the left lung base, likely atelectasis. Small hiatal hernia. Diffusely hypodense liver consistent with diffuse fatty infiltration. Sludge in the gallbladder, no evidence of acute cholecystitis. Borderline splenomegaly; spleen measures 13.4 cm. Revascularization of the periumbilical vein. Normal bilateral adrenal glands, stomach, duodenum, kidneys, pancreas, and appendix. No pathologically enlarged lymph nodes. No free fluid or free air. No evidence of colonic wall thickening or fat stranding. No evidence of bowel obstruction. Bilateral small fat-containing inguinal hernias. No suspicious lytic or sclerotic lesions. Small intramuscular lipoma on the right.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

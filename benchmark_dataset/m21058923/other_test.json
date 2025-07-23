@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Concern for impacted stone based on ultrasound; no clear cholangitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "EKG",
+            "date": "Not specified",
+            "findings": "NSR (Normal Sinus Rhythm) at a rate of 75.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC 13 with no bandemia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LFTs",
+            "date": "Not specified",
+            "findings": "Mild AST/ALT abnormalities, elevated lipase.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with abdominal pain that started 24 hours prior, worsening and localizing to the right lower quadrant (RLQ). The pain was sharp, aggravated by movement, and palliated by lying still. There was associated nausea and decreased appetite, but the patient denied significant GI symptoms like fever, vomiting, or diarrhea. Physical examination revealed mild tenderness in the RLQ with rebound tenderness, supporting an acute abdomen diagnosis. A CT scan of the abdomen and pelvis confirmed an 8mm appendix with no significant surrounding fat stranding, consistent with acute appendicitis."
+    }
+}

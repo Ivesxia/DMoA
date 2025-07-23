@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": "The liver is normal in shape and contour with increased echogenicity, likely due to fatty infiltration. No focal hepatic lesions are identified. The main portal vein is patent with normal direction of flow. The gallbladder is normal, without pericholecystic fluid or gallbladder wall thickening. No gallstones or intra- or extra-hepatic biliary duct dilation. The common bile duct measures 4 mm. Portions of the pancreas are normal, but the tail and head are obscured by overlying bowel gas. The spleen measures 11.8 cm; the right kidney measures 10.2 cm, and the left kidney measures 10.5 cm. No renal masses, stones, or hydronephrosis. The abdominal aorta and IVC are normal. No intra-abdominal ascites in the lower quadrants.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Testing",
+            "date": "Not specified",
+            "findings": "AST/ALT 63/63, AlkPhos 107, Total bilirubin 2, Lipase 668, WBC 19.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.4°F",
+                "heart_rate": "64 bpm",
+                "blood_pressure": "118/57 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and responsive",
+                "HEENT": "Normocephalic atraumatic, extraocular movements intact, no lymphadenopathy",
+                "cardiovascular": "Regular rate and rhythm, no murmurs/rubs/gallops appreciated",
+                "respiratory": "Clear to auscultation bilaterally, positive breath sounds throughout",
+                "abdominal": "Mildly distended, guarding and tenderness to palpation in right upper quadrant and right lower quadrant, liver grossly enlarged, positive bowel sounds",
+                "extremities": "Positive pedal pulses, no cyanosis, clubbing, or edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

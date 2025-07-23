@@ -1,0 +1,22 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain in the right upper quadrant (RUQ)",
+        "history_of_present_illness": "The patient began having abdominal pain in his RUQ while at work. The pain worsened over the next two days and was not alleviated by Percocet. The patient rated the pain as severe and began experiencing nausea. He denies diarrhea, vomiting, fever, and chills.",
+        "past_medical_history": {
+            "chronic_conditions": [
+                "Two cardiac stents placed",
+                "Type 2 Diabetes Mellitus",
+                "Peripheral neuropathy",
+                "Hypertension",
+                "Hyperlipidemia"
+            ],
+            "surgical_history": [
+                "Gastric bypass",
+                "Umbilical hernia repair complicated by mesh infection requiring removal",
+                "Left eye cataract surgery"
+            ]
+        },
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

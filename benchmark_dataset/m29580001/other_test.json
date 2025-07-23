@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Negative for Neisseria gonorrhoeae by APTIMA COMBO 2 Assay",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria gonorrhoeae, validated for use on urine samples.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Mild steatosis (calculated fat fraction 8%), gallstones present in gallbladder, gallbladder nondistended without wall thickening.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

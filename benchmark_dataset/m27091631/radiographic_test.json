@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "There is mild bibasilar atelectasis. No pleural or pericardial effusion. Small wedge-shaped area of heterogeneous hyperenhancement of the liver in segment VIII. Poorly defined hypoenhancing lesion in the right hepatic lobe consistent with known infiltrative tumor, grossly unchanged. Stable 1.9 cm left hepatic cyst. Mild residual intrahepatic biliary dilatation with pneumobilia. Two partially overlapping metallic common bile duct stents with debris. Right hepatic percutaneous anchor biliary drain noted. Main pancreatic duct is dilated to 5 mm. New severe right hydronephrosis with abrupt taper at UPJ. Mild mural thickening of stomach. Complex solid and cystic mass in pelvis adjacent to uterus overall measuring 10.3 x 8.7 x 8.0 cm with enhancing soft tissue components. 1.1 cm left periaortic lymph node measures similar to prior. No pelvic or inguinal lymphadenopathy. No evidence of worrisome osseous lesions or acute fracture; a 4 mm sclerotic lesion in right iliac bone is similar to prior.",
+            "changes_over_time": "Poorly defined hypoenhancing lesion in right hepatic lobe is grossly unchanged. 1.1 cm left periaortic lymph node measures similar to prior. A 4 mm sclerotic lesion in the right iliac bone is similar to prior."
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Cr of 1.1",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Potassium",
+            "date": "Not specified",
+            "findings": "K of 3.0",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Magnesium",
+            "date": "Not specified",
+            "findings": "Mg of 1.3",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Phosphate",
+            "date": "Not specified",
+            "findings": "Ph of 2.2",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "AST",
+            "date": "Not specified",
+            "findings": "AST 100",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ALT",
+            "date": "Not specified",
+            "findings": "ALT 51",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 2706",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "CBC unremarkable",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Stool and Blood Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Heterogeneous and echogenic; contour smooth; no mass; small amount of ascites.",
+                "bile_ducts": "No intrahepatic biliary dilation; CHD measures 5 mm.",
+                "gallbladder": "Moderate biliary sludge and stones without wall thickening.",
+                "pancreas": "Head of pancreas appears within normal limits.",
+                "spleen": "Normal echogenicity, measuring 7.1 cm.",
+                "kidneys": "Limited views show no hydronephrosis.",
+                "retroperitoneum": "Visualized portions of aorta and IVC are within normal limits."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

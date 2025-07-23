@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "MRSA culture",
+            "date": "Not specified",
+            "findings": "No MRSA isolated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Bilateral patchy opacities predominantly in lower lung zones consistent with pulmonary edema. Heart size is enlarged but stable. No pleural effusion.",
+            "changes_over_time": "Largely unchanged from the prior radiograph from outside hospital."
+        }
+    ]
+}

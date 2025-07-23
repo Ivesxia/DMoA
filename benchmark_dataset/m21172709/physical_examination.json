@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.6°F",
+                "heart_rate": "97 bpm",
+                "blood_pressure": "141/57 mmHg",
+                "respiratory_rate": "18 per minute",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x3, no acute distress, slightly overweight",
+                "HEENT": "Normocephalic, atraumatic, anicteric",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "No respiratory distress, unlabored respirations",
+                "abdominal": "Soft, non-distended, tender in suprapubic and left lower quadrant regions, mild voluntary guarding, no rebound tenderness",
+                "pelvis": "Deferred",
+                "extremities": "Warm, well-perfused, no edema",
+                "neurological": "Alert and oriented x3, no focal neurologic deficits"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

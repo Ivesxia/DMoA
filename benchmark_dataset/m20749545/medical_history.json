@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Epigastric pain for the last 3 days.",
+        "history_of_present_illness": "The pain started in the epigastric area, radiating around the upper abdomen and to the back. It has been a constant pressure-type pain, worse after eating and associated with mild nausea without vomiting. He has also experienced heartburn and constipation over the last 3 days, alleviated somewhat by laxatives. Prior to this, he had a fat-heavy diet during recent travel.",
+        "past_medical_history": "1. Hyperlipidemia and triglyceride elevation. 2. Elevated PSA. 3. Fatty liver disease. 4. Renal cell cystic status post nephrectomy. 5. Obesity, difficult to control. 6. Hypertension. 7. Colitis. 8. History of spinal cord surgery for a disk herniation. 9. H. pylori infection treated with antibiotics.",
+        "family_history": "Mother deceased with diabetes; father had coronary disease and died after undergoing CABG.",
+        "social_history": "The patient has a history of consuming alcohol but denies drinking more than a specified number of drinks per week. He reports a fat-heavy diet and has been traveling to various countries annually."
+    }
+}

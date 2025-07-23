@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Large inflammatory collection centered in the right lower quadrant, approximately 6.4 x 4.0 cm, likely representing perforated appendix with abscess formation. Inflammation of the adjacent colon and terminal ileum is likely reactive. No pneumoperitoneum. Small amount of adjacent low density free pelvic fluid.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Physical Exam",
+            "date": "Not specified",
+            "findings": "Physical Exam upon admission: Tenderness in the right lower quadrant, no guarding/rebound.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

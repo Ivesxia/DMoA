@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver shows no focal or textural abnormality. Doppler assessment in main portal vein shows patency and normal hepatopetal flow. There is no intra- or extra-hepatic bile duct dilation. The common duct is not dilated measuring 3 mm. There is a nonmobile shadowing stone in the gallbladder neck with gallbladder distention. There is no wall edema or pericholecystic fluid. Unable to assess for sonographic ___ sign given that the patient received morphine prior to the ultrasound. The visualized portion of the pancreatic head and body are normal, although the inferior head and tail are not well seen due to overlying bowel gas. There is no ascites in the upper abdomen.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "LAB TEST (unspecified)",
+            "date": "Not specified",
+            "findings": "3.5 mg/dL (normal range is 2.7 to 4.5 mg/dL).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CULTURE (unspecified)",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

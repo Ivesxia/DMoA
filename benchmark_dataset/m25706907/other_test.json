@@ -1,0 +1,34 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Urine culture",
+            "date": "Not specified",
+            "findings": "Urine culture grew GNRs.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Sinus tachycardia.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Physical Exam",
+            "date": "Not specified",
+            "findings": "Tachycardic, S1/S2, no murmurs, gallops, or rubs; crackles left base, distant breath sounds; + CVA tenderness L>R.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT abdomen and pelvis",
+            "date": "Not specified",
+            "findings": "Mild bibasal atelectasis; pancreas diffusely enlarged and hypoenhancing; small to moderate amount of peripancreatic fluid; kidneys normal with a 34 x 33 x 31 mm round lesion in the right interpolar region thought to be a non-specific finding.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Negative for Neisseria gonorrhoeae",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria gonorrhoeae by APTIMA COMBO 2 Assay.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

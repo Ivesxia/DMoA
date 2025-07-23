@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Fever, altered mental status, weakness, abdominal pain, nausea, and vomiting.",
+        "history_of_present_illness": "The patient's family noted progressive weakness, fatigue, difficulty ambulating, and confusion. Initially asymptomatic, he then experienced itching prior to the onset of abdominal pain and nausea, with symptoms worsening over the past month.",
+        "past_medical_history": "Dementia/MCI, NPH, atrial fibrillation on Apixaban, PPM for syncope with bradycardia, diastolic CHF, hypertension, diabetes mellitus, chronic kidney disease, polyneuropathy, chronic hip and back pain with spinal stenosis, BPH, remote partial gastrectomy.",
+        "family_history": "Father died of heart failure, mother died of breast/lung cancer, daughter with breast cancer, daughter with rheumatoid arthritis.",
+        "social_history": "Not specified."
+    }
+}

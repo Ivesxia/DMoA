@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Complete Blood Count (CBC)",
+            "date": "Not specified",
+            "findings": "Albumin level is 3.9 g/dL (normal range is 3.4 to 4.8 g/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen with and without contrast",
+            "date": "Not specified",
+            "findings": "Liver is diffusely fatty; spleen is slightly enlarged (approx. 13.7 cm); multiple cystic structures in the head of pancreas; no evidence of inflammation of the pancreas.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The diagnosis of acute appendicitis was supported by the patient's history of abdominal pain migrating to the right lower quadrant, associated with nausea and physical exam findings of tenderness to palpation in the right lower quadrant with guarding. CT findings showed a dilated appendix with associated inflammatory changes in the right lower quadrant, confirming acute appendicitis."
+    }
+}

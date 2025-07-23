@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Persistent right-sided abdominal pain",
+        "history_of_present_illness": "Symptoms began approximately one week ago with the development of dysuria and urinary frequency. She was treated with ciprofloxacin for a presumed urinary tract infection, but symptoms persisted with slight worsening of lower abdominal pain focused in the right lower quadrant. Examination revealed worsened RLQ tenderness. Ongoing symptoms led to abdominal imaging which revealed an 8mm appendix with mild hyperemia and adjacent inflammation.",
+        "past_medical_history": "Asthma, distant history of C.diff colitis, past surgical history of cesarean section.",
+        "family_history": "No family history of IBD, GI malignancy.",
+        "social_history": "Not specified."
+    }
+}

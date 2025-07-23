@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1 F",
+                "heart_rate": "78 bpm",
+                "blood_pressure": "123/83 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Young male laying in bed. No acute distress. Nourishment: good. Grooming: good. Mentation: alert, speaks in full sentences.",
+                "eyes": "WNL PERRL, EOMI without nystagmus, Conjunctiva: clear",
+                "cardiovascular": "Regular rhythm, S1, S2 present, no edema, no murmur.",
+                "respiratory": "Clear to auscultation bilaterally.",
+                "gastrointestinal": "Soft and non-distended, no hepatomegaly, no splenomegaly.",
+                "musculoskeletal": "Upper and lower extremity strength symmetrical, no cyanosis, no joint swelling.",
+                "neurological": "Alert and oriented, CN II-XII intact.",
+                "integument": "Warm and dry, no rash.",
+                "psychiatric": "Appropriate affect."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9 F",
+                "heart_rate": "60 bpm",
+                "blood_pressure": "131/59 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Vital signs indicate a decrease in heart rate from 78 bpm to 60 bpm and an increase in temperature from 98.1 F to 98.9 F."
+        }
+    ]
+}

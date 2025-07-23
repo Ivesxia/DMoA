@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Percutaneous cholecystostomy tube placement",
+            "date": "Not specified",
+            "findings": "Performed due to cholecystitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "New marked mucosal and submucosal thickening, minimal quantity of new pericholecystic fluid, new irregularity suggesting ulceration in the gallbladder, unchanged size and configuration of the gallbladder, and visualized shadowing gallstones.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

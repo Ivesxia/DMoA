@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute pancreatitis",
+        "differential_diagnosis": "Urinary tract infection, Sepsis",
+        "diagnostic_reasoning": "The patient presented with severe abdominal pain, particularly in the right upper quadrant, along with fever, leukocytosis, and elevated liver enzymes. CT imaging showed mild enlargement of the pancreas with peripancreatic fat stranding, consistent with acute pancreatitis. The presence of systemic signs such as fever and tachycardia supported the diagnosis of an infectious complication."
+    }
+}

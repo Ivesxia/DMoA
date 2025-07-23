@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Hepatic parenchyma appears within normal limits; contour of the liver is smooth; no focal liver mass; main portal vein is patent with hepatopetal flow; no ascites; no intrahepatic biliary dilation; CHD measures 3 mm; cholelithiasis without gallbladder wall thickening; pancreas appears within normal limits without masses or pancreatic ductal dilation; normal spleen measuring 10.2 cm; limited images of right kidney show no evidence of hydronephrosis; visualized portions of aorta and IVC are within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

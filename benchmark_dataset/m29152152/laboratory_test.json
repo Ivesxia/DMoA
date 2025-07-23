@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Coagulation Test",
+            "date": "Not specified",
+            "findings": "23.7 sec (reference range: 22.0 - 35.0 sec)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pelvic Ultrasound",
+            "date": "Not specified",
+            "findings": "Uterus measuring 7.3 x 6.0 x 6.2 cm with a 4.5 x 3.5 x 4.1 cm fibroid; endometrium 4 mm with no abnormal vascularity; dilated tubular structure in right adnexa measuring 3.8 x 2.4 x 4.7 cm without internal debris; right ovary normal with arterial and venous waveforms; left ovary not visualized.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

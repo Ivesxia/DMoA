@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5 °F",
+                "heart_rate": "86 bpm",
+                "blood_pressure": "106/68 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "100% room air"
+            },
+            "relevant_findings": {
+                "general": "Appears uncomfortable with any abdominal exam; asking for pain medication.",
+                "abdomen": "Soft, non-tender in left lower quadrant, tender in RLQ and right mid tenderness. No uterine tenderness. Positive Rovsing's sign.",
+                "cervical_exam": "No blood. Cervix closed/posterior/long.",
+                "ultrasound": "Focal area of point tenderness in right lower quadrant. Tubular structure noted, possibly the appendix, projecting at area suspicious for appendicitis."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

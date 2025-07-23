@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound (Single Organ)",
+            "date": "Not specified",
+            "findings": "The liver is normal in echogenicity. Previously noted cyst within segment 6 of the liver was not imaged on the current exam. No new hepatic lesions were identified. Color and spectral Doppler assessment of the main portal vein demonstrated patency and normal waveforms. Gallbladder is markedly distended containing multiple shadowing gallstones, 1 of which is lodged within the gallbladder neck. No gallbladder wall thickening, edema, or pericholecystic fluid. Sonographic Murphy sign was negative. No intra or extrahepatic biliary duct dilatation is present with the common bile duct measuring 4 mm. The spleen is normal in size measuring 8 cm. Right kidney measuring 9.8 cm, and left kidney measuring 10.4 cm. Visualized aspects of the body and head of the pancreas appear within normal limits.",
+            "changes_over_time": "Since the prior study, the gallbladder is now markedly distended with the presence of multiple gallstones."
+        },
+        {
+            "procedure_name": "Coagulation Test",
+            "date": "Not specified",
+            "findings": "Prothrombin time is 11.1 sec, which is within the normal range (ref range 9.4 - 12.5 sec).",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

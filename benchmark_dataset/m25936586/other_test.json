@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile by the Illumigene DNA amplification assay.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Few basilar rales, good air movement.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "ABD US showed gallstones and complex collection in the region of the gallbladder or head of pancreas.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

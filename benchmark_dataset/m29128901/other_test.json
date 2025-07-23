@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "liver biopsy",
+            "date": "Not specified",
+            "findings": "Patient suffered significant pain following the procedure and developed hypovolemic shock.",
+            "changes_over_time": "Bleeding stopped after resuscitation with IV fluids, and the patient's hematocrit improved and remained stable."
+        },
+        {
+            "procedure_name": "transcutaneous ultrasound guided liver biopsy",
+            "date": "Not specified",
+            "findings": "Significant pain post-procedure and development of hypovolemic shock.",
+            "changes_over_time": "She received 3 units of PRBC and her hematocrit improved and remained stable."
+        }
+    ]
+}

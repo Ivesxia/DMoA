@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient reports the onset of pain after eating dinner at approximately 5 PM the previous night. The pain is described as dull with sharp components, starting in the right upper quadrant (RUQ) and radiating throughout the abdomen. He has never experienced this pain before. The patient also reports nausea and vomiting, but denies any bloody stool, dysuria, chest pain, shortness of breath, fever, or chills. The last bowel movement was yesterday.",
+        "past_medical_history": "Obstructive sleep apnea on CPAP, alcohol abuse, hypertension, hyperlipidemia, obesity, gout, restless leg syndrome, diverticulitis, upper gastrointestinal bleeding secondary to NSAIDs, right lower extremity foot drop secondary to lumbar radiculopathy, status post right carotid endarterectomy for amaurosis fugax, status post lumbar laminectomy/discectomy, status post right hallux fracture, osteomyelitis, and amputation.",
+        "family_history": "Father with suspected myocardial infarction, mother with prostate cancer and thyroid problems, brother with diabetes mellitus.",
+        "social_history": "The patient drinks 1 bottle of wine daily and has a history of alcohol withdrawal."
+    }
+}

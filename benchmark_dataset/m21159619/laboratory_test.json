@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified.",
+            "findings": "The appendix is mildly dilated measuring up to 8 mm with hyperemia. There is mild surrounding fat stranding, particularly at the appendiceal tip. All other examined organs (liver, pancreas, spleen, adrenal glands, kidneys, GI tract, vascular structures, retroperitoneum, and pelvic structures) are reported as normal or unremarkable.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified.",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

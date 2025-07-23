@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Minimal linear atelectasis is present in the left lung base. There is no pleural or pericardial effusion. There is no intra-abdominal free air or free fluid. The liver demonstrates homogeneous attenuation throughout, with no evidence of focal lesions or biliary dilatation. The pancreas has normal attenuation without lesions. The spleen is normal in size and attenuation. The adrenal glands are normal. The kidneys are of normal size with no stones or lesions. The small bowel loops and colon are within normal limits. The distal appendix is more prominent than on the prior study, measuring up to 8 mm with wall thickening and surrounding inflammatory fat stranding, but without fluid collection or abscess.",
+            "changes_over_time": "The distal appendix is more prominent than on the prior study, where it was fluid filled."
+        }
+    ]
+}

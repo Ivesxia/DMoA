@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "heart_rate": "86 bpm",
+                "blood_pressure": "164/84 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "94% (room air)"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and oriented, comfortable, ambulating independently.",
+                "cardiovascular": "Regular rate and rhythm.",
+                "respiratory": "Clear to auscultation bilaterally, no respiratory distress.",
+                "abdominal": "Soft, appropriately tender, slight distention, dressings clean, dry, intact.",
+                "extremities": "Warm, well-perfused, no cyanosis/clubbing/edema, palpable dorsalis pedis pulses bilaterally."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

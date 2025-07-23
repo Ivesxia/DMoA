@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with diffuse abdominal pain that migrated to the right lower quadrant (RLQ), accompanied by nausea and dysuria. Physical examination revealed tenderness in the RLQ and imaging (CT abdomen and pelvis with contrast) demonstrated inflammation at the base of the cecum, with a structure suggestive of an inflamed appendix and associated wall thickening. No definitive wall around the air suggested a possible perforation or gangrenous appendix."
+    }
+}

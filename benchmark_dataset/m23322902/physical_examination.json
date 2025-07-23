@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6 °F",
+                "heart_rate": "69 bpm",
+                "blood_pressure": "139/44 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD, interactive and cooperative",
+                "heent": "No scleral icterus",
+                "cardiovascular": "RRR",
+                "pulmonary": "Clear to auscultation b/l",
+                "abdominal": "Soft, nondistended, tender in RUQ with deep palpation, negative on our evaluation, no rebound/rigidity/guarding, no palpable masses or hernias",
+                "dRE": "deferred",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Positive findings reported approximately 30 minutes prior to the evaluation; tenderness in RUQ persisted."
+        }
+    ]
+}

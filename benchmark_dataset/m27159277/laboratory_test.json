@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "Positive for GNRs",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test (LFT)",
+            "date": "Not specified",
+            "findings": "Improving LFTs",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound - Liver or Gallbladder",
+            "date": "Not specified",
+            "findings": "The liver appears mildly coarsened without focal lesion. No biliary dilatation. The gallbladder contains multiple shadowing stones, does not appear distended. Common duct measures 4 mm. Spleen measures 12 cm. Partially visualized pancreas, aorta, and IVC are within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

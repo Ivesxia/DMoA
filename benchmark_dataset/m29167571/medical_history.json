@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain and vomiting",
+        "history_of_present_illness": "Patient was in her usual state of health until symptoms began with mild but sharp epigastric pain. This pain worsened significantly the following morning, becoming 10 times worse and radiating throughout the torso, especially to the back. She experienced vomiting when attempting to eat or drink.",
+        "past_medical_history": "Primary Sclerosing Cholangitis status post liver transplant, untreated Hepatitis C, Chronic Kidney Disease, Hypertension, Asthma",
+        "family_history": "Father died from cancer, primary unknown, Diabetes Mellitus; No family history of liver disease",
+        "social_history": "No recent alcohol consumption"
+    }
+}

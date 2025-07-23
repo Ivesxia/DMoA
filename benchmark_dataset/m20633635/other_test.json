@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lumbar puncture",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Irregularly irregular heartbeat.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest Radiograph",
+            "date": "Not specified",
+            "findings": "Cardiac silhouette remains enlarged. Pulmonary edema has improved with residual minimal interstitial edema remaining. Small pleural effusions are probably unchanged in the interval.",
+            "changes_over_time": "Pulmonary edema has improved. Patchy and linear atelectasis at left lung bases is also slightly better."
+        }
+    ]
+}

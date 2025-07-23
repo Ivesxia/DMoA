@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C. difficile nucleic acid amplification assay",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile. (Reference Range-Negative)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Fluid in the cholecystectomy bed has decreased since the prior CT. Small bilateral pleural effusions with associated compressive atelectasis, unchanged. Small amount of perihepatic ascites, unchanged.",
+            "changes_over_time": "Fluid in the cholecystectomy bed has decreased since the prior CT."
+        }
+    ]
+}

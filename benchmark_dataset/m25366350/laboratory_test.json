@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "White Blood Cell Count (WBC)",
+            "date": "Not specified",
+            "findings": "White count is 14.2 (reference range 5.0 - 8.0), which is outside normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of Liver or Gallbladder",
+            "date": "Not specified",
+            "findings": "Large distended gallbladder with multiple shadowing stones including one up to 1.7 cm lodged in the neck. Gallbladder wall edema with wall measuring up to 1.3 cm. Common bile duct not dilated, measuring 6 mm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

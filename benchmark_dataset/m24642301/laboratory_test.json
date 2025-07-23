@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "ALT 18, AST 20, Tbili 0.1 and AP 106 (within normal ranges)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Gallbladder distended with several small intraluminal stones, wall thickening, and pericholecystic fat stranding; extrahepatic bile duct mildly dilated at 6 mm; no evidence of choledocholithiasis or cholangitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

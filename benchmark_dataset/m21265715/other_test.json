@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Liver echotexture is normal without focal mass lesion. No intra- or extra-hepatic biliary ductal dilatation; common bile duct measures 4 mm. Main portal vein is patent with hepatopetal flow. No ascites. Two mobile stones in the gallbladder with sludge, no pericholecystic fluid, wall thickening or distention. Visualized portion of the pancreatic head and body is hyperechoic. Two anechoic cysts noted in the upper pole of the right kidney, larger measures 2.5 x 1.7 x 2.7 cm and smaller measures 1.0 x 1.4 x 1.0 cm, similar to the prior CT.",
+            "changes_over_time": "Similar to the prior CT."
+        },
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

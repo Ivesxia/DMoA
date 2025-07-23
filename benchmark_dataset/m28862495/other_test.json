@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Percutaneous chole drain placement",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Gallbladder is markedly distended, shows wall thickening with edema and pericholecystic fluid and stranding. Stones and sludge are identified in the gallbladder. A small obstructing stone is identified in the cystic duct.",
+            "changes_over_time": "Stable dilation of the small bowel loops up to 3.6 cm."
+        },
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

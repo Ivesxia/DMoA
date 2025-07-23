@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4°F",
+                "heart_rate": "120 bpm",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "CV": "RRR, No M/G/R",
+                "lungs": "Clear to auscultation b/l, No W/R/R",
+                "abdomen": "Soft, distended, RLQ TTP with mild guarding, localized peritonitis, normoactive bowel sounds, no palpable masses",
+                "DRE": "normal tone, no gross or occult blood",
+                "extremities": "No __ edema, ___ warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

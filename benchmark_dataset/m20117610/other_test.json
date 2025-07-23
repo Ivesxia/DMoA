@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The examination revealed a dilated hyperenhancing appendix measuring up to 11 mm and fat stranding in the right lower quadrant, indicating acute appendicitis. No evidence of intrahepatic or extrahepatic biliary dilatation, and the gallbladder is normal without radiopaque stones.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Physical examination",
+            "date": "Not specified",
+            "findings": "Patient presented with abdominal tenderness in the ___ region, with no rebound tenderness or guarding.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

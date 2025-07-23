@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Symptoms began 7 days ago, initially waking the patient from sleep. Experienced bloating and abdominal distention, with improvement in pain the following day. Symptoms were significantly more noticeable than typical gas pains. Accompanied by fevers, chills, and rigors at home. No significant nausea or emesis. Tolerated oral intake intermittently.",
+        "past_medical_history": "Hypertension, GERD, Panic Attacks, Familial Tremor. Past surgical history includes wisdom teeth extraction.",
+        "family_history": "Uncle with myocardial infarction, mother with Parkinson's disease.",
+        "social_history": "Not specified."
+    }
+}

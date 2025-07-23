@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The imaged lung bases are clear of pulmonary nodules or pleural effusions. The liver enhances homogeneously without focal lesions. No intra- or extra-hepatic biliary dilatation. The gallbladder, adrenal glands and pancreas are normal. The spleen measures 13.1 cm, within normal limits. Both kidneys enhance and excrete contrast symmetrically without evidence of hydroureteronephrosis. The small bowel loops are normal without evidence of bowel wall thickening or obstruction. There is moderate thickening of the wall of the distal descending colon, with adjacent pericolonic fat stranding and fascial thickening, likely representing colitis. No free air is seen adjacent to the left colon. There are small foci of extraluminal gas along the lateral/anti-mesenteric aspect of the ascending colon. Colonic diverticulosis is seen, particularly of the sigmoid colon. No intra-abdominal free fluid or drainable abscess. The urinary bladder, prostate, and rectum are unremarkable. No bone lesions suspicious for infection or malignancy. Moderate degenerative changes are seen in the lumbar spine, worse at L4-L5 and L5-S1 levels.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

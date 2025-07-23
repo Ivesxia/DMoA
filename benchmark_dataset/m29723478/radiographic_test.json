@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The liver is normal in signal intensity without focal lesions; no intrahepatic or extrahepatic bile duct dilation; common bile duct normal in caliber measuring 7 mm; gallbladder moderately distended containing a few tiny gallstones; mild gallbladder wall thickening with moderate edema and increased early enhancement; minimal pericholecytic fluid and mild hyperemia of the adjacent liver; cystic duct not dilated with possible stone at gallbladder neck-cystic duct junction; small focus of fundal gallbladder adenomyomatosis; small reactive periportal lymph nodes; adrenal glands, spleen and pancreas normal; small left renal cortical cysts and a single left renal peripelvic cyst; sub-centimeter hemorrhagic right upper pole renal cyst shows no abnormal enhancement; unremarkable stomach and abdominal loops of small bowel; scattered descending colonic diverticulosis; extensive atherosclerotic disease of the abdominal aorta without aneurysmal dilation; minimal narrowing of the right renal artery; patent portal, splenic, and superior mesenteric veins; no ascites; no focal marrow signal abnormality; small right pleural effusion with mild right lower lobe atelectasis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

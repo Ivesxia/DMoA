@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.6°F",
+                "blood_pressure": "70/38 mmHg",
+                "heart_rate": "76 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "98% on 3L"
+            },
+            "relevant_findings": {
+                "general": "Eyes closed, screaming out intermittently, restless. No acute distress.",
+                "HEENT": "Left surgical pupil. Right pupil reactive (RRL). Sclerae anicteric, mucous membranes dry, oropharynx clear. Poor dentition noted.",
+                "neck": "Supple, jugular venous pressure not elevated, no lymphadenopathy.",
+                "lungs": "Clear to auscultation bilaterally, no wheezes or rhonchi, but mild bibasilar rales.",
+                "cardiovascular": "Faint heart sounds, regular rate and rhythm, normal S1 + S2, no murmurs, rubs, or gallops.",
+                "abdomen": "Soft, mild tenderness just below umbilicus, no rebound tenderness or guarding, bowel sounds positive.",
+                "extremities": "Warm, well perfused, 1+ pulses, no clubbing, cyanosis, or edema. Cachectic.",
+                "skin": "No rashes; scattered ecchymoses.",
+                "neurological": "Responds to voice, difficulty opening eyes, cranial nerves II-XII intact (except left surgical pupil), moving extremities on command, increased tone, resists movement."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

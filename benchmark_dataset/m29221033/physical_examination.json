@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.___.3",
+                "heart_rate": "76 bpm",
+                "blood_pressure": "103/61 mmHg",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "95% on RA"
+            },
+            "relevant_findings": {
+                "alertness": "A&Ox3",
+                "lungs": "CTAB",
+                "cardiac": "RRR",
+                "abdominal": "soft, mildly tender epigastrium, no rebound/guarding",
+                "wound": "well-healed incisions without hernia",
+                "extremities": "WWP sans C/C/E"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

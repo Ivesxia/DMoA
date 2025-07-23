@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Mild dependent bibasilar atelectasis in the thorax, normal heart size, normal liver, gallbladder, pancreas, spleen, and adrenals. Kidneys show normal contrast uptake and excretion without hydronephrosis. Tiny subcentimeter hypodensities bilaterally, abdominal loops of bowel appear normal, no pericolonic fat stranding or bowel wall thickening, free air or free fluid, and no pathologic lymphadenopathy. A blind-ended tubular structure demonstrating mucosal enhancement measures 1.5 cm in diameter with no phlegmon or free air. Scattered nodes proximal to the site of inflammation, normal bladder, distal ureters, prostate, and seminal vesicles. No suspicious osteolytic or osteoblastic lesion; pars defects at L5-S1.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

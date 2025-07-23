@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PA & LAT)",
+            "date": "Not specified",
+            "findings": "Cardiac silhouette size appears mildly enlarged, unchanged. Mediastinal and hilar contours are normal. Pulmonary vasculature is not engorged. No focal consolidation, pleural effusion or pneumothorax is present. Sclerotic focus in the left fifth rib posteriorly is unchanged, likely a bone island.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

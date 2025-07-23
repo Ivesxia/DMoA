@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level is 1120, which is outside the normal range.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "LFTs",
+            "date": "Not specified",
+            "findings": "LFTs improved from prior.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "No focal liver mass, smooth liver contour, common bile duct dilated at 7 mm with a stent identified, no intrahepatic biliary dilation, no stones or gallbladder wall thickening, normal spleen size (10 cm), and hypoechoic mass corresponding to necrotic lymph node.",
+            "changes_over_time": "Found 3.4 cm necrotic lymph node similar to prior imaging."
+        }
+    ]
+}

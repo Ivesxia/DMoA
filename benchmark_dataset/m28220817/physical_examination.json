@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.5 °F",
+                "heart_rate": "132 bpm",
+                "blood_pressure": "132/68 mmHg",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "96% RA"
+            },
+            "relevant_findings": {
+                "general": "AAOx3, NAD",
+                "head_and_neck": "Oral mucosa is moist mucous membranes. No lesions or thrush. No appreciable cervical or supraclavicular adenopathies.",
+                "throat": "Minimal erythema, no obvious lesions or pustular areas.",
+                "cardiac": "S1, S2. No S3 or S4, regular rate and rhythm.",
+                "respiratory": "Inspiratory and expiratory crackles noted bilaterally at bases, lung sounds coarse.",
+                "abdomen": "Obese. No obvious masses. Moderate RLQ abdominal tenderness, no rebound tenderness. Bowel sounds present throughout. Abdomen soft. No appreciable organomegaly.",
+                "extremities": "Bilateral lower extremities show mild edema (right more than left) which continues to improve. Chronic hyperpigmentation on the left. Left leg has inverted champagne bottle appearance, sclerotic changes with scattered areas of shiny, crusted erosions on the medial side. LLE wound bed covered in stocking/wrap not visualized. No drainage per patient. Much improved."
+            },
+            "changes_over_time": "Mild edema in bilateral lower extremities continues to improve."
+        }
+    ]
+}

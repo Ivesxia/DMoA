@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.6°F",
+                "heart_rate": "84 bpm",
+                "blood_pressure": "152/62 mmHg",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "HEENT": "No scleral icterus",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "Normal work of breathing",
+                "abdominal": "Soft, nondistended, tender to palpation in RUQ and epigastrium with some guarding; some firmness noted in RUQ; PEG in place, appears clean, dry, intact at insertion site",
+                "extremities": "Warm and well perfused, no clubbing, cyanosis; left proximal foot wrapped in gauze"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

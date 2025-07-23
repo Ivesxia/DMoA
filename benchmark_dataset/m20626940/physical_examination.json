@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6°F",
+                "heart_rate": "96 bpm",
+                "blood_pressure": "161/102 mmHg",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, A&Ox 3",
+                "lungs": "Clear B/L",
+                "cardiovascular": "RRR, nl S1 and S2",
+                "abdomen": "Soft, TTP in RUQ and epigastric region, nondistended, obese, umbilical hernia reducible, no inguinal hernias",
+                "extremities": "no c/c/e"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CSF test",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "The mass was biopsied and revealed a fibroadenoma.",
+            "changes_over_time": "The mass has been stable since the biopsy."
+        },
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Heart and pericardium findings show moderate cardiomegaly, trace pericardial effusion unchanged since previous examination."
+        },
+        {
+            "procedure_name": "Thyroid scan",
+            "date": "Not specified",
+            "findings": "Thyroglobulin has remained undetectable.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

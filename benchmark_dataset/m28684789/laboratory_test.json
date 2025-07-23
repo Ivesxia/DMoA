@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C. difficile nucleic acid amplification assay",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile. (Reference Range-Negative)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Thyroid ultrasound",
+            "date": "Not specified",
+            "findings": "1.5 cm nodule in the lower pole of the left thyroid gland.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Multiple hypodense lesions in the liver, characterized as cysts. The largest lesion measures 4.1 cm in segment II. Subcentimeter hepatic lesions are too small to characterize.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "bibasilar_atelectasis": "present",
+                "pleural_effusion": "no evidence",
+                "pericardial_effusion": "no evidence",
+                "liver": "homogenous attenuation, no focal lesions",
+                "intrahepatic_biliary_dilatation": "central",
+                "gallbladder": "distended with surrounding pericholecystic fluid and stranding",
+                "common_bile_duct": "measuring 7 mm, at upper limit of normal, no filling defect or radiopaque stone",
+                "pancreas": "normal attenuation, no focal lesions or ductal dilatation",
+                "spleen": "normal size and attenuation, no focal lesions",
+                "right_adrenal_gland": "normal size and shape",
+                "left_adrenal_gland": "mildly thickened",
+                "kidneys": "normal and symmetric size with normal nephrogram, no hydronephrosis, subcentimeter hypodensity in left kidney likely representing a cyst, no perinephric abnormality",
+                "stomach": "unremarkable",
+                "small_bowel": "normal caliber, wall thickness, and enhancement",
+                "colon_and_rectum": "within normal limits",
+                "appendix": "not visualized, no signs of surrounding inflammation",
+                "urinary_bladder": "unremarkable",
+                "free_fluid_in_pelvis": "none",
+                "reproductive_organs": "unremarkable",
+                "lymph_nodes": "no retroperitoneal or mesenteric lymphadenopathy, no pelvic or inguinal lymphadenopathy",
+                "abdominal_aorta": "no abdominal aortic aneurysm",
+                "atherosclerotic_disease": "moderate noted",
+                "degenerative_changes": "seen in lumbar spine",
+                "abdominal_wall": "within normal limits"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbiology culture",
+            "date": "Not specified",
+            "findings": {
+                "growth": "NO GROWTH"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

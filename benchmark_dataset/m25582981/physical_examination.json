@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "102°F",
+                "blood_pressure": "113/63 mmHg",
+                "heart_rate": "88 bpm",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "98% on RA"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, moderate distress",
+                "HEENT": "Sclera anicteric, dry MM",
+                "neck": "Supple, JVP not elevated, no LAD",
+                "lungs": "Clear to auscultation bilaterally, no wheezes, rales, ronchi",
+                "cardiovascular": "Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+                "abdomen": "Soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly",
+                "genitourinary": "Foley",
+                "extremities": "Tense 3+ edema, L > R, distal pulses intact, mildly erythematous, no lesions, WWP"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

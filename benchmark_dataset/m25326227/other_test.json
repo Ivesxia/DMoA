@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Barium swallow",
+            "date": "Not specified",
+            "findings": "Impaired motility, low volume gastric filling, and duodenal dilatation concerning for SMA syndrome.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic appendectomy",
+            "date": "Not specified",
+            "findings": "Appendix with large retrocecal appendicoliths and evidence of inflammation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

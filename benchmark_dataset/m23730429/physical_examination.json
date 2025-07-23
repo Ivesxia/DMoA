@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.7°F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "Not specified"
+            },
+            "relevant_findings": {
+                "general": "NAD, slightly anxious",
+                "HEENT": "no scleral icterus",
+                "cardiovascular": "rrr, no r/m/g",
+                "pulmonary": "clear",
+                "abdominal": "epigastric tenderness",
+                "extremities": "no edema",
+                "neurological": "alert and oriented x 3"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

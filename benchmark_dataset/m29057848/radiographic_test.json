@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits. There is no evidence of pleural or pericardial effusion. The liver demonstrates homogeneous attenuation throughout with no focal lesions or biliary dilatation. The gallbladder is within normal limits. The pancreas shows normal attenuation without focal lesions or ductal dilatation. The spleen is normal in size and attenuation. The adrenal glands are normal in size and shape. The kidneys are normal in size with no focal lesions. Stomach and small bowel loops are unremarkable. The appendix is dilated to 9 mm, fluid-filled, and slightly hyperemic. No extraluminal air or drainable collection is seen. The urinary bladder and distal ureters are unremarkable. No lymphadenopathy or abdominal aortic aneurysm noted. No evidence of osseous lesions or acute fracture. Soft tissues are within normal limits.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

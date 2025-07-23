@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Evaluation of abdominal pain.",
+        "history_of_present_illness": "Lower abdominal pain localizing to the right lower quadrant for 24 hours, associated with nausea but no vomiting. No diarrhea, fever, chills, or urinary symptoms noted.",
+        "past_medical_history": "Headache.",
+        "family_history": "No family history of GI disease or malignancy.",
+        "social_history": "Not specified."
+    }
+}

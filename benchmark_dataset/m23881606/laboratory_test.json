@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Biliary & Pancreas ERCP",
+            "date": "Not specified",
+            "findings": "Common bile duct stone with no intra- or extra-hepatic biliary dilatation. Two calcified gallstones projecting lateral to the common bile duct. No abnormal biliary caliber changes and no stricture noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture test",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for 51.0 mg/dL",
+            "date": "Not specified",
+            "findings": "51.0 mg/dL (exact test not specified).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

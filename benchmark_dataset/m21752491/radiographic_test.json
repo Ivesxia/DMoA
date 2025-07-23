@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Low lung volumes persist without evidence of vascular congestion or acute pneumonia. The atelectatic changes at the left base with possible effusion may be slightly less prominent.",
+            "changes_over_time": "In comparison with the study of ___, there is little overall change."
+        }
+    ]
+}

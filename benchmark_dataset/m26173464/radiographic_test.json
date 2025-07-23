@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver has a normal echotexture without any focal hepatic lesions. There is no intrahepatic or extrahepatic biliary dilatation, and the common bile duct measures 4 mm. The main portal vein is patent with normal hepatopetal flow. The anterior and posterior right portal vein main branches are patent. The gallbladder is distended and noted to contain at least 1 shadowing gallstone. There is associated pericholecystic fluid and gallbladder wall thickening measuring 5 mm. There is a positive sonographic Murphy sign. The visualized portions of the pancreatic head and body appear unremarkable. The pancreatic distal body and tail are obscured secondary to overlying bowel gas.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

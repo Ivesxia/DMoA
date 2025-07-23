@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2°F",
+                "respiratory_rate": "18 breaths/min",
+                "heart_rate": "78 bpm",
+                "blood_pressure": "130/70 mmHg"
+            },
+            "relevant_findings": {
+                "general": "NAD, Pleasant",
+                "HEENT": "PERRL, EOMI",
+                "cardiovascular": "RRR, no mrg",
+                "chest": "CTA b/l, no w/r/r",
+                "abdomen": "+BS, midline scar, well healed, NT/ND, obese",
+                "extremities": "No c/c/e",
+                "neurological": "AAOx3, no focal deficits"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

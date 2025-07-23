@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Physical Examination",
+            "date": "Not specified",
+            "findings": "On Admission: VS: T 98.7, HR 100, BP 119/53, RR 16, 99%RA GEN: NAD, A&O x 3 LUNGS: Clear B/L CV: RRR, nl S1 and S2 ABD: Soft, TTP in mid-epigastric area and RUQ, slightly distended, voluntary guarding, no rebound, no hernias EXT: No c/c/e",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

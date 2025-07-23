@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder is incompletely distended with multiple gallstones and positive ___ sign on exam. There is, however, no gallbladder wall thickening or pericholecystic fluid, and the common bile duct is not distended at 3 mm. The liver is normal in echotexture with no focal lesions. There is no intra- or extra-hepatic biliary ductal dilatation. The pancreas is obstructed by bowel gas and not fully evaluated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

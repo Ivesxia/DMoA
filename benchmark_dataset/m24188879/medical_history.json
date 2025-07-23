@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain for 4 days.",
+        "history_of_present_illness": "Symptoms began 4 days prior to emergency room visit. The patient presented with abdominal pain and a CT scan showed a small amount of free air. Symptoms progressed with a significantly large amount of ascites.",
+        "past_medical_history": "HCV cirrhosis, Child B class, MELD score 9, decompensated with ascites and hepatic encephalopathy, non-bleeding esophageal varices, hepatic lesions, COPD, BPH, tobacco abuse, hypertension, gout, depression, arthritis, and 'nose disease' with epistaxis.",
+        "family_history": "Mother with CAD and DM; father passed away due to embolism.",
+        "social_history": "Tobacco abuse."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The dilated, fluid-filled appendix is 8mm in diameter, with appendicolith and wall enhancement, compatible with acute appendicitis. No free fluid or air in the periappendiceal region. The liver, gallbladder, pancreas, spleen, adrenal glands, and kidneys are normal. No hydronephrosis. Stomach, duodenum, and loops of small bowels are normal. Marked fecal loading throughout the colon and rectal vault. Bladder normal. Uterus normal in size for perimenopausal female. No acute fracture or dislocation in bone window.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PT (Prothrombin Time)",
+            "date": "Not specified",
+            "findings": "25.0 sec (normal range 22.0 - 35.0 sec)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Bacterial culture",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipid panel",
+            "date": "Not specified",
+            "findings": "177.0 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Angiogram",
+            "date": "Not specified",
+            "findings": "The infrarenal abdominal aorta is ectatic to 2.0 cm with mural thrombus, resulting in luminal narrowing to 1.4 x 1.0 cm. Severe stenosis in the right common iliac artery (>75%). Complete occlusion of the left common iliac artery. The left superficial femoral artery is somewhat diminutive with intermittent mild-moderate stenosis but remains patent.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

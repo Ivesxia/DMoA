@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "heart_rate": "85 bpm",
+                "blood_pressure": "123/60 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "Obese, very pleasant female, no acute distress, comfortable appearing",
+                "HEENT": "Normocephalic, anicteric, moist mucous membranes",
+                "neck": "Supple",
+                "cardiovascular": "S1S2 RR early peaking systolic ejection murmur at left upper sternal border",
+                "respiratory": "Bilateral air entry, no wheezes or crackles",
+                "abdominal": "Positive bowel sounds, soft, mild epigastric tenderness, no guarding or rebound",
+                "extremities": "No clubbing, cyanosis, or edema, 2+ pulses",
+                "dermatological": "No rash",
+                "neurological": "Face symmetric, speech fluent",
+                "psychiatric": "Calm, cooperative"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

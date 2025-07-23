@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "The pancreas demonstrates overall decreased T1 signal with presence of peripancreatic edema and an area of ill-defined fluid collection anterior to the pancreatic tail. There is a small amount of slightly more organized fluid in the pancreaticoduodenal groove, in keeping with findings of acute pancreatitis. The pancreas enhances heterogeneously in the arterial phase, more notably at the level of the junction of the head and neck with delayed fill in and equilibration through the whole parenchyma. There are no appreciable areas of necrosis. The pancreatic duct at the level of the head is not clearly visualized, likely compressed by the edema without evidence of upstream dilatation. There are multiple gallstones. There is no evidence of stones in the common bile duct. The common bile duct demonstrates normal caliber. Liver demonstrates atrophy of the segment IV and V with a lace-like appearance of the segment II and III and nodular contour along the periphery of segment VIII and V, suggesting changes of fibrosis/cirrhosis. Spleen is enlarged, measuring 14 cm, with suggestion of perigastric varices. Bilateral kidneys and adrenal glands are unremarkable. There are small retroperitoneal and periportal lymph nodes, without frank lymphadenopathy. The visualized small and colonic loops of bowels are not dilated. Small bilateral pleural effusions are noted. There is minimal narrowing at the spleno-mesenteric confluence and the SMV within the pancreatic neck, secondary to peripancreatic edema without thrombosis. Extra- and intra-hepatic portal vein is patent. There are no worrisome osseous lesions.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

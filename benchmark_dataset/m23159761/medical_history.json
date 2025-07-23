@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient presents with abdominal pain that began at 2 PM yesterday after eating a fatty meal (pasta). The pain is constant, non-radiating, and worsened noticeably with eating during subsequent meals. No fevers, chills, chest pain, shortness of breath, nausea, or vomiting reported. Regular bowel movements and flatus are maintained. The patient has never experienced such symptoms before.",
+        "past_medical_history": "Osteoarthritis, atypical chest pain, gout, hypertension, atrial flutter, obstructive sleep apnea on CPAP, obesity, erectile dysfunction.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

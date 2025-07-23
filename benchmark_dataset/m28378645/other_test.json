@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "A-fib with ventricular rate 92 bpm, normal axis, QTC 462, STD/TWI in leads V4-V6.",
+            "changes_over_time": "Improved lateral ST-depression from initial assessment."
+        },
+        {
+            "procedure_name": "Troponin Test",
+            "date": "Not specified",
+            "findings": "Negative troponin result (<0.01).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Coronary Angiography",
+            "date": "Not specified",
+            "findings": "Totally occluded LAD proximally, proximal 50% lesion in small RCA, distal LCX with 80% lesion.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Percutaneous Cholecystostomy",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5 °F",
+                "blood_pressure": "121/78 mmHg",
+                "heart_rate": "76 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "Pleasant, well appearing woman in no acute distress",
+                "HEENT": "Normocephalic, atraumatic. No conjunctival pallor. No scleral icterus. PERRLA/EOMI. Neck supple, no thyromegaly.",
+                "cardiac": "Regular rhythm, normal rate. Normal S1, S2. No murmurs.",
+                "lungs": "Clear to auscultation bilaterally.",
+                "abdomen": "Normal bowel sounds. Soft, non-tender, non-distended."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

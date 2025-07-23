@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is normal in size, echogenicity, and architecture. There is no focal liver lesion. The gallbladder wall is edematous and there is a wall echo shadow sign indicating it is filled with stones. There is no intra- or extra-hepatic biliary ductal dilatation and the common bile duct measures 4 mm. The visualized pancreas is normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation Test",
+            "date": "Not specified",
+            "findings": "30.1 sec which is within normal range (ref range: 25.0 - 36.5 sec).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

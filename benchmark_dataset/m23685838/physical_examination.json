@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 98.2°F, Blood Pressure: 152/80 mmHg, Heart Rate: 90 bpm, Respiratory Rate: 16 breaths/min, Oxygen Saturation: 100% on Room Air",
+            "relevant_findings": "Vitals: 98.5°F, Blood Pressure: 150/95 mmHg, Heart Rate: 90 bpm, Respiratory Rate: 16 breaths/min, Oxygen Saturation: 98% on Room Air. Abdomen: Soft, mild to moderate tenderness to palpation in RUQ and epigastrium with some voluntary guarding, no rebound tenderness. Heart: Regular rate and rhythm;III/VI systolic murmur loudest at left upper sternal border.",
+            "changes_over_time": "Temperature increased from 98.2°F to 98.5°F. Blood pressure decreased from 152/80 mmHg to 150/95 mmHg. No significant changes noted in heart rate or respiratory rate. Tenderness in the abdomen was noted as mild to moderate."
+        }
+    ]
+}

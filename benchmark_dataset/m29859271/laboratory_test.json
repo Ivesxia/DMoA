@@ -1,0 +1,24 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "APTIMA COMBO 2 Assay",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria gonorrhoeae.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Homogenous attenuation throughout, no focal lesions.",
+                "gallbladder": "Within normal limits, no calcified stones or wall thickening.",
+                "pancreas": "Normal attenuation, no focal lesions or pancreatic ductal dilatation.",
+                "spleen": "Normal size and attenuation, no focal lesions.",
+                "adrenal_glands": "Normal in size and shape.",
+                "kidneys": "Normal and symmetric size, normal nephrogram, no focal lesions or hydronephrosis.",
+                "gastrointestinal": "Distal esophagus normal, stomach under distended, small bowel normal, incidental short segment small bowel intussusception likely transient, appendix mildly dilated at 9 mm with minimal hyperemia and small amount of surrounding fat stranding."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

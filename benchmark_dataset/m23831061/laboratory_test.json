@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Basic Metabolic Panel",
+            "date": "Not specified",
+            "findings": "8.6 mg/dL (within normal range: 8.4 - 10.3)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "Liver normal without textural abnormalities; gallbladder normal without wall thickening, fluid, edema, or cholelithiasis; CBD normal at 0.2 cm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "appearance": "within normal limits",
+                    "contour": "smooth",
+                    "focal_mass": "no",
+                    "portal_vein": "patent with hepatopetal flow",
+                    "ascites": "no"
+                },
+                "bile_ducts": {
+                    "intrahepatic_biliary_dilation": "no",
+                    "CBD_measurement": "4 mm"
+                },
+                "gallbladder": {
+                    "condition": "completely filled with stones",
+                    "wall_echo_shadow_sign": "present",
+                    "wall_thickening": "no",
+                    "pericholecystic_fluid": "none"
+                },
+                "pancreas": {
+                    "appearance": "within normal limits",
+                    "masses": "no",
+                    "ductal_dilation": "no",
+                    "obscured_portion": "by overlying bowel gas"
+                },
+                "spleen": {
+                    "echogenicity": "normal",
+                    "measurement": "11.8 cm"
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test (not specified)",
+            "date": "Not specified",
+            "findings": {
+                "measurement": "9.2 mg/dL",
+                "normal_range": {
+                    "lower": "8.4 mg/dL",
+                    "upper": "10.3 mg/dL"
+                },
+                "result": "within normal range"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

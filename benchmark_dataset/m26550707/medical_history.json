@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain radiating to the back.",
+        "history_of_present_illness": "The abdominal pain began at noon on the day of admission, initially located in the lower chest, band-like, and radiating to the back. By the afternoon, it migrated to the epigastrium. The patient also reports nausea and loose stools with one episode of watery diarrhea yesterday. Episodes of hypertension at home were mentioned.",
+        "past_medical_history": "1. SLE since age ___; 2. Antiphospholipid antibody syndrome; 3. Thrombotic microangiopathy s/p renal transplant in ___; 4. ESRD TMA s/p failed graft in ___, on peritoneal dialysis since ___; 5. PAI1-inhibitor deficiency; 6. Depression; 7. Anxiety; 8. Possible history of TTP; 9. Malignant HTN with hx of hypertensive encephalopathy and posterior leukoencephalopathy; 10. Hyperlipidemia; 11. Raynaud's phenomenon noted in ___; 12. GERD with gastritis in ___; 13. Migraine headaches; 14. TAH-BSO at 43 for heavy menses and bleeding ovarian cysts; 15. History of aspiration pneumonia, pulmonary hemorrhage and acute lung injury; 16. Chronic constipation with standing prescription for lactulose.",
+        "family_history": "Mother with HTN, DM; Father mild anti-phospholipid syndrome; Sister with MS and kidney stones; Multiple siblings with asthma and HTN.",
+        "social_history": "Not specified."
+    }
+}

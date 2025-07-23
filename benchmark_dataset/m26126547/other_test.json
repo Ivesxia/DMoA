@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ECG",
+            "date": "Not specified",
+            "findings": "Sinus rhythm with normal underlying rate; 2 runs of APC vs SVT x3 beats and 1 run of APCs vs. SVT x4 beats; normal axis; +LVH; poor baseline, unable to discern any significant ST-TW changes.",
+            "changes_over_time": "Compared with prior on ___ no significant changes."
+        },
+        {
+            "procedure_name": "Scrotal Ultrasound",
+            "date": "Not specified",
+            "findings": "Testes are heterogeneous bilaterally with punctate nonshadowing echogenicities compatible with microlithiasis; cysts in right epididymis; bilateral hydroceles noted, left greater than right.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

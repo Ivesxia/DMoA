@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.0°F",
+                "heart_rate": "50 bpm",
+                "blood_pressure": "187/86 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": {
+                "general": "No apparent distress (NAD), awake/alert",
+                "cardiovascular": "Regular rate and rhythm (RRR), normal S1 and S2",
+                "pulmonary": "Clear to auscultation bilaterally",
+                "abdominal": "Obese, tender in epigastrium and RUQ to deep palpation",
+                "extremities": "Warm, well perfused (wwp), no cyanosis, clubbing, or edema (c/c/e)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

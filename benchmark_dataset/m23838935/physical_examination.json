@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "101°F",
+                "heart_rate": "122 bpm",
+                "blood_pressure": "138/68 mmHg",
+                "respiratory_rate": "14 breaths per minute",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "constitutional": "Comfortable",
+                "HEENT": "Normocephalic, atraumatic; oropharynx within normal limits",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular rate and rhythm, normal first and second heart sounds",
+                "abdominal": "Soft, moderate RLQ tenderness with voluntary guarding",
+                "rectal": "Heme negative",
+                "GU/flank": "No costovertebral angle tenderness",
+                "extremities/back": "No cyanosis, clubbing, or edema",
+                "skin": "No rash",
+                "neurological": "Speech fluent"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

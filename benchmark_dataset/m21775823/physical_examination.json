@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.5°F",
+                "heart_rate": "86 bpm",
+                "blood_pressure": "159/93 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x 3",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, rubs, or gallops",
+                "pulmonary": "Clear to auscultation bilaterally, no respiratory distress",
+                "abdominal": "Distended, tympanic, mild focal tenderness in right mid-abdomen, RUQ minimal focal tenderness, negative guarding, no rebound tenderness"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

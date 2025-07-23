@@ -1,0 +1,35 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "60 bpm",
+                "blood_pressure": "142/80 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented to name, place and situation. Fatigued appearing but comfortable, no acute signs of distress.",
+                "abdomen": "Soft, mildly tender in epigastric area, mildly distended, + bowel sounds.",
+                "cardiovascular": "S1S2, regular rate and rhythm, no murmurs, rubs or gallops.",
+                "respiratory": "Good air movement bilaterally, no rhonchi or wheezing.",
+                "neurological": "Non-focal.",
+                "psychological": "Appropriate and calm."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "95.7°F",
+                "heart_rate": "75 bpm",
+                "blood_pressure": "167/89 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": "RUQ US showed cholelithiasis without evidence of cholecystitis or biliary dilatation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

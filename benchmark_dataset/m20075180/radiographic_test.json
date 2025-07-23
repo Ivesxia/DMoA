@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The right kidney measures 10.6 cm. The left kidney measures 10.3 cm. Bilateral kidneys are normal with no evidence of hydronephrosis, stones, or masses. The bladder is only moderately well seen and fully evaluated.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

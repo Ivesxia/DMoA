@@ -1,0 +1,38 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "77 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "blood_pressure": "Not recorded"
+            },
+            "relevant_findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "132 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "blood_pressure": "132/100 mmHg"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing man in NAD, moderate discomfort.",
+                "HEENT": "NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear.",
+                "neck": "Supple, no thyromegaly, no JVD, no carotid bruits.",
+                "lungs": "CTA bilat, no r/rh/wh, good air movement, resp unlabored, no accessory muscle use.",
+                "heart": "PMI non-displaced, RRR, no MRG, nl S1-S2.",
+                "abdomen": "NABS, soft, moderate tenderness to palpation epigastrium, mild tenderness to palpation of LLQ, no masses or HSM, no rebound/guarding.",
+                "rectal": "No hemorrhoids, trace brown stool, guaiac negative.",
+                "extremities": "WWP, no c/c/e, 2+ peripheral pulses (radials, DPs).",
+                "skin": "No rashes or lesions.",
+                "lymph": "No cervical, axillary, or inguinal LAD.",
+                "neuro": "Awake, A&Ox3, CNs II-XII grossly intact, DTRs 2+ and symmetric, cerebellar exam intact, steady gait."
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

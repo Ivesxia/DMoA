@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC 11.1 (N 84%)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "ALT 29, AST 19, ALP 138, Tbili 0.2",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipid Panel",
+            "date": "Not specified",
+            "findings": "Lip 110",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "INR",
+            "date": "Not specified",
+            "findings": "INR 2.58",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "GB wall thickening to 4.2mm, multiple gallstones, CBD 4mm",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Microbiology Test",
+            "date": "Not specified",
+            "findings": "No MRSA isolated.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "RLQ diverticulitis vs focal colitis, cannot r/o underlying cecal carcinoma",
+        "differential_diagnosis": [
+            "Diabetes mellitus",
+            "Hypertension",
+            "Coronary artery disease",
+            "Obstructive sleep apnea",
+            "Anemia"
+        ],
+        "diagnostic_reasoning": "Patient presented with RLQ pain, diarrhea, and associated symptoms. Evidence of significant RLQ tenderness and improvement in diarrhea led to consideration of diverticulitis or focal colitis, while the possibility of cecal carcinoma was noted due to the patient's history and symptomatology. The history of appendectomy and other comorbidities were also factored into the diagnostic process."
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "77 bpm",
+                "blood_pressure": "112/68 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on RA"
+            },
+            "relevant_findings": {
+                "general": "awake, alert, oriented x 3",
+                "HEENT": "NCAT, EOMI",
+                "heart": "RRR, NMRG",
+                "lungs": "CTAB, no respiratory distress",
+                "chest": "non-tender",
+                "back": "no vertebral tenderness",
+                "abdomen": "soft, nondistended, mildly obese, quite tender to palpation locally over RLQ and R mid abdomen; no hernias or masses",
+                "pelvis": "rectal exam refused",
+                "neuro": "strength intact/symmetric",
+                "extremities": "WWP, no CCE"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

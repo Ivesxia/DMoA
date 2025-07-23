@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated to 9 mm with hyperemic wall and fluid filled with mild surrounding stranding consistent with acute appendicitis. The liver is normal, gallbladder is absent, kidneys enhance and excrete contrast without hydronephrosis, and no mesenteric or retroperitoneal lymphadenopathy aside from mild right lower quadrant reactive lymph node enlargement.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

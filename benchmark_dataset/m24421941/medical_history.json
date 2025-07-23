@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right upper quadrant (RUQ) pain.",
+        "history_of_present_illness": "The pain started yesterday morning around 7:30 AM and is described as sharp and stabbing, without radiation. It has been constant and progressively worsening throughout the day and evening, reaching a worst pain level of ___ and receding to a best level of ___. Pain is worse with movement, when sitting, and with deep inspiration.",
+        "past_medical_history": "Alcoholic cirrhosis, portal hypertension, history of esophageal varices s/p hemorrhage x3 treated by endoscopic methods, history of basilar skull fracture and intracranial hemorrhage, depression.",
+        "family_history": "Multiple family members with alcoholism.",
+        "social_history": "Former heavy alcohol user."
+    }
+}

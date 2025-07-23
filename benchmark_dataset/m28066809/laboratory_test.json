@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic without focal lesion. There is no intrahepatic biliary dilatation. The common duct is borderline in size. The gallbladder is distended, demonstrating diffuse wall thickening and pericholecystic fluid. Two large impacted stones are seen at the gallbladder neck, estimated just over 1 cm in size. An additional stone is also seen in the fundus. Gallbladder perforation cannot be excluded given adjacent fluid and somewhat relaxed distention of the gallbladder. Portal vein demonstrates normal hepatopetal flow.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Gamma Streptococcus Test",
+            "date": "Not specified",
+            "findings": "Gamma (i.e. non-hemolytic) Streptococcus level is 9.0%, which is outside the normal range (4.8 - 5.9).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC 18 (90% pmn), Hb 10.4",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood Chemistry",
+            "date": "Not specified",
+            "findings": "Creatinine 1.5 (b/l), AST 79, ALT 55, Alkaline Phosphatase 605, Total Bilirubin 2.9, Blood Glucose 300",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis",
+            "date": "Not specified",
+            "findings": "Rare bacteria, ketones 10",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Small right pleural effusion, minimal fatty infiltration of the liver, common bile duct measures 9 mm, stricture of the common hepatic duct, gallbladder distended with sludge up to 5.4 cm, mild thickening of gallbladder wall up to 3 mm",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

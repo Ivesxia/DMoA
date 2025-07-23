@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Gallbladder is distended with wall thickening, mural edema, and surrounding fat stranding. Hyperemic appearance of the adjacent liver compatible with acute cholecystitis. No evidence of focal lesions or biliary dilatation. Common bile duct measures 5 mm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory examination for leukocytes",
+            "date": "Not specified",
+            "findings": "No polymorphonuclear leukocytes seen. No microorganisms seen. Result: 3.5 mg/dL (reference range: 2.7 - 4.5 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

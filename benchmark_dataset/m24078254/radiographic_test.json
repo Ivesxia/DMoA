@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder demonstrates numerous shadowing stones, with a large stone measuring 1.8 cm lodged in the gallbladder neck. The gallbladder is slightly distended and has mild wall edema (4 mm). The liver shows diffusely increased echogenicity, suggestive of fatty infiltration, and the common bile duct measures 7 mm. No ascites are present.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

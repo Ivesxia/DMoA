@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Transplant renal biopsy",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pancreas transplant ultrasound",
+            "date": "Not specified",
+            "findings": "The pancreatic duct is not dilated and could not be identified. Normal arterial and venous waveforms are identified within the transplanted pancreas. The pancreas itself appears mildly echogenic.",
+            "changes_over_time": "In reference to the prior CT, the tail of the gland could not be visualized as it was retrocecal."
+        }
+    ]
+}

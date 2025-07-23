@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "The echotexture of the liver is heterogeneous and coarsened. The gallbladder is filled with multiple stones and has a thickened wall. Common bile duct measures 5 mm. No intra or extrahepatic biliary dilatation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

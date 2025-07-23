@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient experienced abdominal pain for the last ____ days, with acute worsening localized to the right lower quadrant (RLQ) occurring 2 days ago. There were no associated symptoms of nausea, vomiting, fever, chills, or dysuria/hematuria.",
+        "past_medical_history": "Psoriatic arthritis, high blood pressure; previous surgeries include hysterectomy, back surgery, and debridement of left lower extremity wound.",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.1°F",
+                "blood_pressure": "133/79 mmHg",
+                "heart_rate": "114 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "93% on 2L"
+            },
+            "relevant_findings": {
+                "general": "Well developed, well nourished man, mild NAD. Oriented x3.",
+                "heent": "Normocephalic atraumatic, sclera anicteric, PERRL, EOMI, conjunctiva pink, no pallor or cyanosis.",
+                "neck": "Supple, JVP difficult to assess.",
+                "cardiac": "Irregular rhythm and tachycardia, no murmurs appreciated.",
+                "lungs": "Rhonchi and bibasilar rales with intermittent cough.",
+                "abdomen": "Soft, non-tender, non-distended, no hepatomegaly or splenomegaly.",
+                "extremities": "Warm, well perfused, no clubbing or cyanosis, 2+ pitting edema up to knees.",
+                "skin": "No significant lesions or rashes.",
+                "pulses": "Distal pulses palpable and symmetric."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "blood_pressure": "129/74 mmHg",
+                "heart_rate": "100 bpm",
+                "respiratory_rate": "18 breaths per minute",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "jvp": "~9 cm H2O",
+                "cardiac": "Normal S1/S2, no m/r/g.",
+                "lungs": "Faint crackles at base.",
+                "abdomen": "Well healed surgical scar, soft, mild diffuse tenderness.",
+                "extremities": "1+ pitting edema bilaterally."
+            },
+            "changes_over_time": "Changes in heart rate from 100 bpm in ED to 114 bpm at admission. Notable worsening in bilateral lower extremity edema reported by patient."
+        }
+    ]
+}

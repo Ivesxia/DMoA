@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "White Blood Cell (WBC) Count",
+            "date": "Not specified",
+            "findings": "WBC 16.6 (elevated)",
+            "changes_over_time": "Previous WBC was 25,000 on Not specified."
+        },
+        {
+            "procedure_name": "Creatinine (Cr)",
+            "date": "Not specified",
+            "findings": "Cr 1.4 (elevated, baseline 1.2)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis (UA)",
+            "date": "Not specified",
+            "findings": "UA was dirty; could be contaminant.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "Performed (results not provided).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver Ultrasound",
+            "date": "Not specified",
+            "findings": "Several well-circumscribed echogenic round lesions in both lobes of the liver, largest 1.6 x 1.3 x 1.2 cm; no bile duct dilation; gallbladder unremarkable.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

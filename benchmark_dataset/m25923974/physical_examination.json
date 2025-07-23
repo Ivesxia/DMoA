@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4 F",
+                "heart_rate": "96 bpm",
+                "blood_pressure": "126/52 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "94% RA"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented, no acute distress",
+                "HEENT": "Sclera mildly icteric, MMM, oropharynx clear, deformity of L ear",
+                "neck": "Supple, JVP not elevated, no LAD",
+                "lungs": "Clear to auscultation bilaterally, no wheezes, rales, ronchi",
+                "cardiovascular": "Regular rate and rhythm, normal S1 + S2, SEM loudest at RUSB, rubs, gallops",
+                "abdomen": "Soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly",
+                "extremities": "Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema",
+                "skin": "Several excoriations on R trunk",
+                "neurological": "AAOx3. CNs intact. Strength and sensation grossly intact",
+                "psychological": "Pleasant, appropriate"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5 F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "106/69 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "94% RA"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

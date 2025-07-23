@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "RUQ Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is normal in morphology and echogenicity. No focal liver lesion is identified. The gallbladder demonstrates wall thickening and edema with trace pericholecystic fluid. In the gallbladder lumen, there is lobulated echogenic debris with at least one shadowing gallstone measuring 1.3 cm. Additional echogenic debris may represent tumefactive sludge. There is no intrahepatic biliary dilatation. The common bile duct measures 7 mm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test",
+            "date": "Not specified",
+            "findings": "2.5 mmol/L, NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

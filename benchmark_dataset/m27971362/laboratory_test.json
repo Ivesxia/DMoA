@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The liver demonstrates homogenous attenuation throughout with no evidence of focal lesions or biliary dilatation. The pancreas shows normal attenuation without focal lesions. The spleen is normal in size and attenuation. The kidneys are symmetric and normal, with no focal lesions or hydronephrosis. The appendix is hyperemic and distended up to 0.8 cm with associated periappendiceal fat stranding, consistent with appendicitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

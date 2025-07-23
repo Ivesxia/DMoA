@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Total bilirubin",
+            "date": "Not specified",
+            "findings": "Total bilirubin was 5.1 mg/dL (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase (AlK Phosp)",
+            "date": "Not specified",
+            "findings": "Alkaline Phosphatase was 260 U/L (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Alanine Aminotransferase (ALT)",
+            "date": "Not specified",
+            "findings": "ALT was 446 U/L (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Aspartate Aminotransferase (AST)",
+            "date": "Not specified",
+            "findings": "AST was 197 U/L (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Direct bilirubin",
+            "date": "Not specified",
+            "findings": "Direct bilirubin was 4.04 mg/dL (elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase was 30,000 U/L (significantly elevated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Lactate Dehydrogenase (LDH)",
+            "date": "Not specified",
+            "findings": "LDH was 236 U/L (normal range not specified)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4°F",
+                "heart_rate": "77 bpm",
+                "blood_pressure": "82/53 mmHg (95/60 mmHg after administration of 2L fluids)",
+                "respiratory_rate": "12 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented x 3, no acute distress.",
+                "HEENT": "Pupils equal, round, reactive to light; extraocular movements intact; anicteric.",
+                "cardiovascular": "Regular rate and rhythm.",
+                "lungs": "Mild crackles at bilateral bases.",
+                "abdomen": "Soft, distended, normal bowel sounds, mildly tender suprapubically and in left lower quadrant, no rebound or guarding.",
+                "rectal": "Guaiac positive.",
+                "extremities": "Warm, no edema."
+            },
+            "changes_over_time": "Vital signs initially in the 80's for systolic blood pressure but improved to 95/60 mmHg after fluid administration. No significant changes in other physical examination findings were reported."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Dilated appendix containing two appendicoliths with surrounding inflammatory stranding in the right lower quadrant. Mild periportal edema. No extraluminal gas or evidence of perforation. Normal appearance of liver, spleen, pancreas, adrenals, and gallbladder.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "PT (Prothrombin Time)",
+            "date": "Not specified",
+            "findings": "28.4 seconds, reference range 25.0 - 36.5 sec.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

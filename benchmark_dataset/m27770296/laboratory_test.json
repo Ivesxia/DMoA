@@ -1,0 +1,45 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": {
+                "liver": {
+                    "description": "The hepatic parenchyma appears within normal limits.",
+                    "lesion": "hyperechoic lesion measuring 1.5 x 1.1 x 1.9 cm in segment V of the liver."
+                },
+                "bile_ducts": {
+                    "description": "There is no intrahepatic biliary dilation.",
+                    "CBD_measurement": "4 mm"
+                },
+                "gallbladder": {
+                    "description": "The gallbladder is mildly distended with multiple gallstones.",
+                    "pericholecystic_fluid": "There is a small sliver of pericholecystic fluid.",
+                    "sonographic_sign": "No definitive sonographic ___ sign was elicited."
+                },
+                "pancreas": {
+                    "description": "Imaged portion of the pancreas appears within normal limits, without masses or pancreatic ductal dilation.",
+                    "limitations": "Portions of the pancreatic tail obscured by overlying bowel gas."
+                },
+                "spleen": {
+                    "description": "Normal echogenicity, measuring 7.7 cm."
+                }
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": {
+                "valuestr": "NO GROWTH.",
+                "ref_range": {
+                    "lower": 2.7,
+                    "upper": 4.5
+                },
+                "valuestr_x": "5.0 mg/dL",
+                "valuestr_y": "NO GROWTH."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

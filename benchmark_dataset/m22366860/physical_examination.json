@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.0°F",
+                "heart_rate": "67 bpm",
+                "blood_pressure": "101/67 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no apparent distress; comfortable but complains of abdominal pain",
+                "HEENT": "No scleral icterus, moist mucous membranes",
+                "cardiovascular": "Regular rate and rhythm, no murmur, gallop or rub",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes, rhonchi, or rales",
+                "abdominal": "Soft, nondistended, tenderness greatest in the suprapubic region, no rebound or guarding, no palpable masses; gastric band palpable",
+                "digital_rectal_examination": "Normal tone, no gross or occult blood",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

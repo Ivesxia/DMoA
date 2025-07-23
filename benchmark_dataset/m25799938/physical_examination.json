@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6 °F",
+                "heart_rate": "16 bpm",
+                "respiratory_rate": "Not specified",
+                "blood_pressure": "Not specified",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": {
+                "abdominal_examination": "Pleasant, mild abdominal pain, significant tenderness around site of JP drain, which is clean/dry/intact.",
+                "other_findings": "A&Ox3, PERRL, EOMI, no droop, normal affect.",
+                "drainage": "A few cc green drainage observed."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

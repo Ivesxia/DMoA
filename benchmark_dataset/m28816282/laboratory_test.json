@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Urinalysis (U/A)",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen & Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Appendix is dilated and fluid-filled measuring 11 mm in diameter with hyperemic mucosa and surrounding stranding.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

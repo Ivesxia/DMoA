@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Colicky abdominal pain radiating to the lower back",
+        "history_of_present_illness": "The abdominal pain began approximately ___ days prior to admission. The patient reports having been more constipated with hard bowel movements that included small amounts of blood. There have been no other acute complaints except for this abdominal pain.",
+        "past_medical_history": "1. Asthma 2. Psoriasis 3. EtOH abuse 4. Acute Alcoholic Hepatitis",
+        "family_history": "No family history of hemochromatosis and liver disease.",
+        "social_history": "Not specified"
+    }
+}

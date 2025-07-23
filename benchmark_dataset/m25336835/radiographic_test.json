@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Normal flow in bilateral subclavian veins, normal flow and compressibility in left subclavian vein, internal jugular vein, axillary vein, and brachial vein. Cephalic vein not compressible with no flow. Proximal part of left basilic vein not compressible with no flow; distal portion showed normal flow. Superficial edema noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

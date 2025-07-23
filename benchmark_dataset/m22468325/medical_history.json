@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient has been experiencing abdominal pain for 1 week. The pain is diffuse across the abdomen and worsens with eating. The patient has also had urgent liquid stools and experienced a small amount of dry heaves and phlegm. There were no changes in weight, fever, or chills noted. Prior to symptom onset, the patient felt well.",
+        "past_medical_history": "Type II diabetes mellitus, hypertension, coronary artery disease, atrial fibrillation, chronic kidney disease, insulin-dependent type 2 diabetes, peripheral vascular disease, thyrotoxicosis, status post bilateral above-the-knee amputations, remote history of cholecystectomy approximately ___ years ago.",
+        "family_history": "Mother died of heart failure.",
+        "social_history": "The patient does not drink alcohol often and last consumed alcohol a week ago. No foreign travel or insect bites were reported."
+    }
+}

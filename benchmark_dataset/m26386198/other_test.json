@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Biopsy",
+            "date": "Not specified",
+            "findings": "Proving FSGS (focal segmental glomerulosclerosis)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound (UNILAT UP EXT VEINS US LEFT)",
+            "date": "Not specified",
+            "findings": "Normal flow with respiratory variation in the left subclavian vein; echogenic material along the wall of the subclavian vein; left internal jugular vein is patent; left brachial, basilic, and cephalic veins are patent and show normal color flow.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

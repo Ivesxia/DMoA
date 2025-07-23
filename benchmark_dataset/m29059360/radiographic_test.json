@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver appears normal in echotexture with no focal liver lesions identified. The common bile duct measures 0.3 cm and is within normal limits. The gallbladder appears contracted about multiple gallstones. There is diffuse gallbladder wall thickening measuring up to 7 mm and gallbladder wall edema which is persistent but slightly improved compared to the prior US. There is no evidence of pericholecystic fluid. The main portal vein is patent. There is no free fluid.",
+            "changes_over_time": "Gallbladder wall edema is persistent but slightly improved compared to the prior ultrasound."
+        }
+    ]
+}

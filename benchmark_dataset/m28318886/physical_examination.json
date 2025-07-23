@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.4 F",
+                "heart_rate": "95 bpm",
+                "blood_pressure": "127/63 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "comfortable",
+                "HEENT": "anicteric sclera, no palpable masses",
+                "cardiovascular": "RRR (Regular Rate and Rhythm)",
+                "pulmonary": "clear bilaterally",
+                "abdominal": "RLQ pain with palpable mass, no rebound tenderness, no Rovsing's sign",
+                "extremities": "warm, well-perfused, palpable dorsalis pedis pulses"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

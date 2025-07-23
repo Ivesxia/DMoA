@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "Hemoglobin: Not specified (Normal range: 8.4 - 10.3 g/dL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Moderate atelectasis in the dependent areas of bilateral lung bases. High-density fluid in gallbladder fossa with measured density of up to 70 Hounsfield units. There's a moderate amount of free fluid in the pelvis, liver, pancreas, spleen, and kidneys are normal. No evidence of focal lesions or biliary dilatation.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

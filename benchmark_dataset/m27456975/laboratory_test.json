@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is dilated measuring up to 1.1 cm and demonstrates a thickened wall with adjacent fat stranding, consistent with appendicitis. The liver demonstrates homogenous attenuation with mild periportal edema. No significant abnormalities in the pancreas, spleen, kidneys, and urinary bladder.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Mixed Bacterial Flora Culture",
+            "date": "Not specified",
+            "findings": "Mixed bacterial flora (≥ 3 colony types), consistent with skin and/or genital contamination. The laboratory results show a value of 8.7 mg/dL, within the reference range (8.4 - 10.3 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

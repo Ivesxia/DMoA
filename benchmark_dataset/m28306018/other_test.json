@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Fecal test for C. difficile toxin A & B",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA. (Reference Range-Negative).",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The gallbladder is moderately distended and contains a small amount of sludge. No wall thickening or cholelithiasis is seen. A small amount of pericholecystic fluid is seen.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

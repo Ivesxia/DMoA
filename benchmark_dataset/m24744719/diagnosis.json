@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with generalized abdominal pain that progressed to localized pain in the right lower quadrant, tenderness noted on physical examination, and imaging findings of a dilated and hyperemic appendix with adjacent fat stranding on CT scan."
+    }
+}

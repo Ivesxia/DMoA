@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EGD",
+            "date": "Not specified",
+            "findings": "Gastritis",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Complete atherosclerotic occlusion of the celiac axis with retrograde flow, and severe SMA narrowing.",
+            "changes_over_time": "No evidence of acute ischemia of the bowel on imaging or exam."
+        },
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "No fluid collection adjacent to or within the gallbladder fossa; the gallbladder appears collapsed; small right pleural effusion; simple cyst in right kidney.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

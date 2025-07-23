@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is draped over the spine and iliac vessels and measures up to 1 cm and is fluid filled with a hyper-enhancing wall consistent with acute appendicitis. There is surrounding inflammatory change.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

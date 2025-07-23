@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix enlarged measuring 12 mm, does not fill with oral contrast. Mild associated stranding, no surrounding free air, free fluid, or evidence of abscess. Findings consistent with acute uncomplicated appendicitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Unknown laboratory culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Unknown laboratory test (likely metabolic or serum analysis)",
+            "date": "Not specified",
+            "findings": "2.1 mmol/L (result above the normal range of 0.5-2.0 mmol/L).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Liver Biopsy",
+            "date": "Not specified",
+            "findings": "Developed biopsy site pain immediately after.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "A stent was placed.",
+            "changes_over_time": "Pain was much better, denied N/V/fever/chills after the procedure."
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Subsegmental atelectasis in both lung bases; gallbladder slightly distended with T1 hyperintense and T2 hypointense sludge ball at the neck; gallbladder wall thickened with pericholecystic inflammatory changes; trace amount of perihepatic ascites; small fluid collection adjacent to segment VI unchanged from prior study.",
+            "changes_over_time": "Small fluid collection adjacent segment VI is unchanged from prior study."
+        }
+    ]
+}

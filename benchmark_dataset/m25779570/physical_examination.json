@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "blood_pressure": "135/83 mmHg",
+                "heart_rate": "79 bpm",
+                "respiratory_rate": "18 bpm"
+            },
+            "relevant_findings": {
+                "general": "well appearing, NAD",
+                "HEENT": "ncat, eomi, anicteric, dry MM",
+                "chest": "b/l ae, no w/c/r",
+                "heart": "s1s2 rr, no m/r/g",
+                "abdomen": "+bs, soft, +TTP epigastric area and periumbilical area, no guarding or rebound",
+                "extremities": "no c/c/e, 2+ pulses",
+                "neurological": "face symmetric, speech fluent",
+                "psych": "calm, cooperative"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

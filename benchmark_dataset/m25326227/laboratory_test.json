@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC count of 17.6, which is above the normal range (normal range not specified).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate level of 2.0, which is above the normal range (normal range not specified).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Phosphate",
+            "date": "Not specified",
+            "findings": "Hypophosphatemia (exact value not specified), confirmed by values lower than normal range (ref range: 8.4 - 10.3 mg/dL)",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT ABD and PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The examination showed a large retrocecal appendix measuring up to 12 mm in diameter, multiple appendicoliths, and adjacent free fluid. No evidence of perforation.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

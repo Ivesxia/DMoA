@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "not specified",
+            "date": "Not specified",
+            "findings": "Tacky mucosal membranes. Abdomen: Soft. Tender to palpation in the right hemi-abdomen. Negative signs on physical exam, no masses, bowel sounds present, no guarding, rebound, or other signs indicating peritonitis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "not specified",
+            "date": "Not specified",
+            "findings": "Normal cardiomediastinal and hilar contours. Lungs are clear without consolidation or pulmonary edema. No pleural effusion or pneumothorax.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

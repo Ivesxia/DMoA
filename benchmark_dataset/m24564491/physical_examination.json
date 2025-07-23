@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "77 bpm",
+                "blood_pressure": "99/44 mmHg",
+                "respiratory_rate": "14 breaths/min"
+            },
+            "relevant_findings": {
+                "general_appearance": "Well appearing but tired",
+                "skin": "Anicteric",
+                "cardiovascular": "RRR, no murmurs",
+                "abdominal": "Soft, nondistended, TTP in epigastrium greater than generalized tenderness, no guarding or rebound",
+                "rectal": "Guaiac positive, no masses",
+                "CVS": "No CVA tenderness",
+                "extremities": "No peripheral edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

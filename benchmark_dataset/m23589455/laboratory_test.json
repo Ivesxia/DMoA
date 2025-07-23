@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Coagulation Test",
+            "date": "Not specified",
+            "findings": "28.7 sec (Normal range: 22.0 - 35.0 sec)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Normal liver, spleen, gallbladder, pancreas, adrenals. Kidneys show symmetric contrast enhancement; incidental note of bilaterally extrarenal pelvises. Fat-containing lesion in right upper pole consistent with angiomyolipoma. Normal small bowel loops and mesentery. No troubling bone lesions noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

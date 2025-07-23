@@ -1,0 +1,20 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": "76 bpm",
+                "respiratory_rate": "14 breaths per minute",
+                "blood_pressure": "128/56 mmHg",
+                "temperature": "Not specified"
+            },
+            "relevant_findings": {
+                "lungs": "Clear to auscultation bilaterally",
+                "heart": "Irregular rate",
+                "abdomen": "Soft, non-tender, non-distended",
+                "extremities": "Warm, no edema, bilateral dependent rubor"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

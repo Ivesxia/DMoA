@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Unable to cannulate the CBD; stented the pancreatic duct.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "HIDA scan",
+            "date": "Not specified",
+            "findings": "Revealed a bile leak.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Bilateral atelectasis and free fluid in the gallbladder fossa and in the right paracolic gutter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chest radiograph",
+            "date": "Not specified",
+            "findings": "Low lung volumes; improved ventilation at the lung bases; unchanged position of the right central venous access line; unchanged moderate cardiomegaly; unchanged plate-like atelectasis at the left lung apex.",
+            "changes_over_time": "Improved ventilation at the lung bases."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Successful hepatic duct stent placement and sphincterotomy.",
+            "changes_over_time": "Pain improved after the procedure."
+        },
+        {
+            "procedure_name": "JP drain removal",
+            "date": "Not specified",
+            "findings": "30cc bilious fluid in JP drain.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT Abdomen with Contrast",
+            "date": "Not specified",
+            "findings": "Small bilateral pleural effusions, small hiatal hernia, small focus of enhancement in liver possibly representing a hemangioma, tiny fluid in gallbladder fossa, biliary stent and subhepatic drain in place, fat stranding and fluid surrounding the pancreas.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

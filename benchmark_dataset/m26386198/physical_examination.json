@@ -1,0 +1,27 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0°F",
+                "heart_rate": "73 bpm",
+                "blood_pressure": "132/78 mmHg",
+                "respiratory_rate": "16 breaths per minute"
+            },
+            "relevant_findings": {
+                "general": "Very kind, friendly man lying in hospital bed with baseball cap and street clothes on, in no apparent distress.",
+                "eyes": "PERRL, EOMI, anicteric sclerae.",
+                "mouth": "Dentition intact. Oropharynx clear.",
+                "neck": "Supple, trachea midline, no LAD.",
+                "lungs": "Breathing comfortably on room air. Bibasilar crackles, left more than right, and wheezing-like sound at left base.",
+                "cardiovascular": "RRR, normal S1 and S2, no S3 or S4, no murmurs or rubs.",
+                "abdomen": "Normoactive BS, non-distended, soft, non-tender.",
+                "extremities": "Warm, well perfused, 2+ pitting edema bilateral lower legs and presacrum.",
+                "skin": "No rashes, striae and scattered and diffuse speckled pattern of hypopigmentation noted on bilateral upper and lower extremities and also head. The hypopigmentation is especially apparent on bilateral arm flexures. Diffuse xerosis.",
+                "neuro": "Alert and oriented to person/place/time/situation. Moves all extremities purposefully, no tremors or involuntary movements. Diffuse moderate weakness, with right arm and right leg strength slightly worse than left extremities. Reduce distal light touch sensation in lower extremities. Able to stand with walker and walk to bathroom and back.",
+                "psych": "Friendly and cooperative, answers questions and follows commands appropriately, affect normal."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

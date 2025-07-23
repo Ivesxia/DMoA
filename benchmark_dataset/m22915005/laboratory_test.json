@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Abnormal coagulation profile",
+            "date": "Not specified",
+            "findings": "Test cancelled, patient credited.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "0.8 mg/dL",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "UNILAT UP EXT VEINS US LEFT",
+            "date": "Not specified",
+            "findings": "Normal respirophasic waveform in the bilateral subclavian veins. Normal flow, compressibility within the left internal jugular vein, axillary vein, paired brachial veins, and left basilic vein. The left cephalic vein is not visualized.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

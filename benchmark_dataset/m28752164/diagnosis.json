@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "acute appendicitis",
+        "differential_diagnosis": "post-operative bleeding",
+        "diagnostic_reasoning": "The diagnosis of acute appendicitis was made based on the patient's presentation of sudden onset right lower quadrant abdominal pain that persisted and was associated with nausea. The CT scan findings showed a hyperemic and dilated appendix measuring up to 10 mm with mild surrounding stranding, which are indicative of appendicitis."
+    }
+}

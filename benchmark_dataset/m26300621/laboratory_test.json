@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The findings show normal lungs, normal liver with no lesions, normal gallbladder, normal pancreas, normal spleen, normal adrenal glands, normal kidneys with no lesions, wall thickening of the appendix measuring up to 14 mm with associated inflammatory changes at the base of the cecum, and a trace amount of free fluid in the pelvis.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

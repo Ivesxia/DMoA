@@ -1,0 +1,35 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "NEG.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pelvic Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "uterus": "measuring 8.9 x 4.6 x 6.1 cm",
+                "calcified_fibroid": "2.2 x 2.4 x 1.9 cm on the right",
+                "endometrium": "homogeneous and measures 3 mm",
+                "right_paraovarian_simple_cyst": "0.8 x 0.5 x 0.6 cm",
+                "left_ovary": "echogenic focus measuring 0.4 cm, unchanged from prior study and consistent with a dermoid",
+                "free_fluid": "none",
+                "blind_ending_structure": {
+                    "proximal": "7 mm",
+                    "distal": "9 mm",
+                    "noncompressible": true
+                },
+                "increased_echogenicity": "surrounding peritoneal fat"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

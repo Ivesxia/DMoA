@@ -1,0 +1,22 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EGD",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD W&W/O C",
+            "date": "Not specified",
+            "findings": "Consolidation with volume loss at the right lung base; a stent within the common bile duct; large non-enhancing area in the pancreatic head compatible with necrotizing pancreatitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

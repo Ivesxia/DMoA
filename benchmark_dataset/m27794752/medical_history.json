@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Worsening abdominal pain",
+        "history_of_present_illness": "Patient began experiencing epigastric pain with cramping, diarrhea, and vomiting 5 days ago. Symptoms have progressively worsened and have become diffuse over 5 days, described as burning and aggravated by brisk movement. The patient has also experienced nausea without vomiting and has been unable to eat since the onset. Last bowel movement was on an unspecified date. The patient has not taken all antihypertensive medications since an unspecified date.",
+        "past_medical_history": "CHF (dilated CM EF 33%), HTN, DM, GERD, Asthma, Gout, Fibroids, chronic eczema on prednisone.",
+        "family_history": "Mother with IDDM. Numerous maternal aunts/uncles with heart disease and CHF. One brother with HTN and Asthma.",
+        "social_history": "Not specified."
+    }
+}

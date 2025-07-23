@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Right upper quadrant pain",
+        "history_of_present_illness": "The patient presents with RUQ pain that began 7 hours the evening before admission, after eating chips at a meeting. The pain is described as dull, constant, and has not radiated or migrated. He experienced dry heaves earlier on the day of admission but denied nausea at the time of admission. He also denies diarrhea or constipation, stating he has multiple bowel movements daily and reports feeling warm.",
+        "past_medical_history": "Irritable bowel syndrome (IBS), history of chronic epigastric pain consistent with gastritis",
+        "family_history": "Uncle with colon cancer",
+        "social_history": "Not specified"
+    }
+}

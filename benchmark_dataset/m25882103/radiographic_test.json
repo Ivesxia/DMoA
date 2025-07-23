@@ -1,0 +1,30 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "abdomen": {
+                    "pulmonary_nodule": "3mm right middle lobe pulmonary nodule",
+                    "lung_bases": "otherwise clear",
+                    "heart_pericardium": "unremarkable",
+                    "liver": "enhances homogenously, no focal liver lesions",
+                    "gallbladder_pancreas_spleen_adrenal_glands": "unremarkable",
+                    "kidneys": "enhance and excrete contrast without evidence of hydronephrosis",
+                    "lymphadenopathy": "no mesenteric or retroperitoneal lymphadenopathy",
+                    "free_air_fluid": "no free air or free fluid"
+                },
+                "pelvis": {
+                    "appendix": "mildly dilated measuring 7-8 mm, does not fill with oral contrast",
+                    "mucosa": "mild hyperemia without significant surrounding fat stranding",
+                    "pelvic_free_fluid": "no pelvic free fluid",
+                    "colon_rectum_bladder_uterus": "unremarkable",
+                    "physiologic_cyst": "19-mm cyst in the left adnexa, right adnexa unremarkable",
+                    "lymphadenopathy": "no pelvic or inguinal lymphadenopathy"
+                },
+                "osseous_structures": "no suspicious lytic or blastic lesions"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

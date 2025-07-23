@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "respiratory_rate": "26 breaths per minute",
+                "other_vital_signs": "Not specified"
+            },
+            "relevant_findings": {
+                "constitutional": "Uncomfortable",
+                "HEENT": "Normocephalic, atraumatic",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Regular Rate and Rhythm, Normal first and second heart sounds",
+                "abdominal": "Very tender in the RUQ with a positive sign",
+                "neurological": "Speech fluent",
+                "psychological": "Normal mood, Normal mentation"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

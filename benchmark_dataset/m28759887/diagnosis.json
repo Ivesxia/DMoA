@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Acute appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with abdominal pain that initially was diffuse but later migrated to the right lower quadrant, which is characteristic of acute appendicitis. The pain was crampy in nature, and she experienced nausea and non-bilious vomiting. Physical examination showed tenderness in the right lower quadrant without guarding or rebound tenderness, which can further support the diagnosis of appendicitis. Additionally, the ultrasound findings ruled out other possible conditions, confirming acute appendicitis."
+    }
+}

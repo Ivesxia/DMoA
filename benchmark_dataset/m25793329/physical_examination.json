@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9 °F",
+                "blood_pressure": "122/52 mmHg",
+                "heart_rate": "111 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "No acute distress (NAD)",
+                "HEENT": "Normocephalic and atraumatic, no jaundice",
+                "cardiovascular": "Regular rate and rhythm, no rubs/murmurs/gallops",
+                "pulmonary": "Decreased breath sounds at right base, crackles at left base",
+                "abdominal": "Mild distention, tender in epigastrium, no masses; soft, no rebound",
+                "extremities": "1+ edema bilaterally",
+                "neurological": "Alert and oriented x 3, no focal deficits"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

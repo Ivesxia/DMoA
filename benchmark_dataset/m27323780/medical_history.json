@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Worsening left-sided abdominal pain.",
+        "history_of_present_illness": "Symptoms began 3 days ago with constant and gradually worsening pain, to the point of being unable to sleep. Initially attributed to constipation, the patient had not had a bowel movement in several days and took milk of magnesia, resulting in several watery bowel movements without pain relief. The patient also endorses nausea but denies vomiting, fever, chills, chest pain, shortness of breath, hematochezia, orthopnea, or paroxysmal nocturnal dyspnea.",
+        "past_medical_history": "Diverticulosis, uterine fibroids, gastroesophageal reflux disease (GERD), keratoconus, shingles, right arm neuropathic pain due to past trauma.",
+        "family_history": "No known gastrointestinal disease in the family.",
+        "social_history": "Not specified."
+    }
+}

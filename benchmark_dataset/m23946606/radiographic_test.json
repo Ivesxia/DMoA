@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT scan",
+            "date": "Not specified",
+            "findings": "Column of clustered stones measuring up to 1.0 cm in the distal left ureter (steinstrasse), with mild-to-moderate left hydroureteronephrosis.",
+            "changes_over_time": "Interval resolution of the previously noted left hydroureteronephrosis and distal left ureteral stones."
+        },
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "Hepatic steatosis, mild infiltration about the pancreatic head, and inflammatory changes including wall thickening with intramural edema in the duodenum. Spleen is mildly enlarged measuring up to 16 cm.",
+            "changes_over_time": "These findings appear new since the very recent prior study even allowing for differences in modality."
+        }
+    ]
+}

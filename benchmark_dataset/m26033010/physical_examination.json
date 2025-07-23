@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.9°F",
+                "heart_rate": "77 bpm",
+                "blood_pressure": "138/98 mmHg",
+                "respiratory_rate": "12 breaths/min"
+            },
+            "relevant_findings": {
+                "mental_status": "A&Ox3",
+                "general_condition": "NAD, non-toxic",
+                "movement": "moves gingerly around stretcher",
+                "lungs": "CTAB",
+                "heart": "RRR",
+                "abdominal examination": "soft, ND, focally tender to RLQ",
+                "rebound_tenderness": "+ rebound in RLQ but not elsewhere",
+                "rectal": "nl tone, no masses, guaiac negative"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

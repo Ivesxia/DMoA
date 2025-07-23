@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is fluid-filled, prominently thickened with a thick hyperemic wall and surrounding fat stranding, measuring up to 1.0 cm in diameter compatible with acute uncomplicated appendicitis. The kidneys present symmetric nephrograms and excretion of contrast without focal lesions, pelvicaliceal dilatation, or perinephric abnormality. Numerous large cysts on the right ovary, measuring up to 3.6 cm in diameter.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation Test",
+            "date": "Not specified",
+            "findings": "Prothrombin time: 26.8 sec (ref range: 25.0 - 36.5 sec). Result is within normal range.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "C. difficile toxin A & B test",
+            "date": "Not specified",
+            "findings": "Feces negative for C. difficile toxin A & B by EIA. (Reference Range-Negative)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Normal liver. Common bile duct shows minimal enhancement. CBD measures 9 mm. Gallbladder has a 14-mm stone, distended with trace pericholecystic fluid. Pancreas, spleen, and adrenals are normal. Tiny renal cysts bilaterally, largest measuring 7 mm. No free fluid, free air, or adenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

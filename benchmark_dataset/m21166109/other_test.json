@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Gallbladder wall is thick and edematous, measuring 6 mm, with fat stranding in the surrounding tissue. No focal lesions are seen in the liver. The pancreas is atrophic. There is a biliary stent in place. No free fluid or free air. Large and small bowel appear within normal limits. Two well-circumscribed lytic lesions within the L4 vertebral body adjacent to the superior endplate with surrounding sclerosis.",
+            "changes_over_time": "The lytic lesions within the L4 vertebral body and elongated lucent lesion along the inferior endplate of L3 vertebral body were seen again, similar in appearance to prior CT."
+        },
+        {
+            "procedure_name": "US (Ultrasound)",
+            "date": "Not specified",
+            "findings": "Gallstones, GB wall thickening, and a sonographic Murphy's sign.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

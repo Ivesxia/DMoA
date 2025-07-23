@@ -1,0 +1,18 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "103.5°F",
+                "heart_rate": "74 bpm",
+                "blood_pressure": "154/60 mmHg",
+                "respiratory_rate": "16 breaths/min"
+            },
+            "relevant_findings": {
+                "initial_examination": "NAD, comfortable, NCAT, No LAD or masses, RRR, lung findings are coarse bilaterally with decreased breath sounds at LL base, abdomen is nondistended, active bowel sounds, soft, tender in RUQ without rebound or guarding, positive ____ sign, large prostate, smooth, normal rectal tone, stool guaiac negative, no masses.",
+                "discharge_examination": "AVSS, NAD, exam unchanged from above other than: lungs overall clear with coarseness in bases, abdomen soft, nontender, and nondistended, negative ____ sign, no rebounding or guarding."
+            },
+            "changes_over_time": "Lungs improved from coarse bilaterally to overall clear with coarseness remaining in bases. Abdomen tenderness in RUQ improved to soft and nontender."
+        }
+    ]
+}

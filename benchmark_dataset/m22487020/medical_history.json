@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute onset abdominal pain and nausea/vomiting.",
+        "history_of_present_illness": "The symptoms started after the patient ate dinner at 6pm, with pain onset a few minutes later. The pain was diffuse and accompanied by nausea and vomiting, but there was no blood in the vomit. The pain resolved with IV morphine.",
+        "past_medical_history": "1) Abdominal aortic aneurysm (5.2 cm) with not an open repair candidate per cardiologist. 2) COPD on home O2. 3) Hypertension. 4) Supraventricular tachycardia. 5) Paroxysmal atrial fibrillation. 6) Moderate mitral regurgitation. 7) Pulmonary hypertension.",
+        "family_history": "Noncontributory.",
+        "social_history": "Not specified."
+    }
+}

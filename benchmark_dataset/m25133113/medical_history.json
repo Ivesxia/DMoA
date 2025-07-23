@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient experienced abdominal pain for 4 days, which began suddenly after eating a roast beef sandwich and pizza following a golf outing. The pain was described as 'like someone was punching him in the stomach,' unrelenting and worsening over time. The patient also reported nausea and one episode of non-bloody emesis, with poor appetite and no bowel movements since the onset of pain. Pain relief attempts with ibuprofen, acetaminophen, and oxycontin provided incomplete relief. There was a previous episode of right chest/RUQ discomfort that resolved spontaneously one month prior.",
+        "past_medical_history": "Diabetes Mellitus, Chronic Respiratory Insufficiency, Chronic Obstructive Pulmonary Disease, AAA (5.8cm) status post endovascular repair, Hypertension, Hyperlipidemia, Benign Prostatic Hyperplasia, Diverticulosis, Colon polyps (adenomas).",
+        "family_history": "No family history of liver or pancreatic disease, no colon cancer.",
+        "social_history": "Not specified."
+    }
+}

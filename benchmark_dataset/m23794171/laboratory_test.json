@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Radiograph",
+            "date": "Not specified",
+            "findings": "Three frontal abdominal radiographs show a normal bowel gas pattern without dilated loops of bowel or air-fluid levels. No free air or pneumatosis is identified. The visualized osseous structures are unremarkable. A radiopaque density in the right iliac wing represents a bone island.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

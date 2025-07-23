@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Confusion, fever, and concern for cholangitis.",
+        "history_of_present_illness": "Patient was in a normal state of health until early morning of ___, when he awoke with confusion that was moderate to severe but improved by the time of hospital arrival. He denies associated subjective fever although he was febrile in the ED, and reports no nausea/vomiting, abdominal pain, diarrhea, or constipation. No recent cold-like symptoms, shortness of breath, or cough. He noted an intentional change in diet, eating more vegetables and less overall, advised by his PCP to lose weight. He had had a history of gallstones and a previous ERCP.",
+        "past_medical_history": "History of hypertension (HTN), hyperlipidemia (HLD), atrial fibrillation on Eliquis, type 2 diabetes mellitus (T2DM) not on insulin, and prior cerebrovascular accident (CVA).",
+        "family_history": "Not specified.",
+        "social_history": "Not specified."
+    }
+}

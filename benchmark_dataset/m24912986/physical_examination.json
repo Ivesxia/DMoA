@@ -1,0 +1,41 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Admission",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "137/67 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "95% RA"
+            },
+            "relevant_findings": {
+                "general": "Pleasant elder female reclined in bed, NAD",
+                "eyes": "Anicteric sclera",
+                "ENT": "Normal hearing, no rhinitis, clear OP",
+                "cardiovascular": "RRR, no r/g/m",
+                "chest": "CTAB, no w/r/r",
+                "gastrointestinal": "soft, NT, ND, BS+",
+                "musculoskeletal": "No kyphosis. No synovitis.",
+                "skin": "No jaundice.",
+                "neurological": "AAOx3. No facial droop. Full strength all extremities.",
+                "psych": "Normal affect"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Transfer",
+            "vital_signs": {
+                "temperature": "98.9°F",
+                "heart_rate": "102 bpm",
+                "blood_pressure": "126/55 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100% Nasal Cannula"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": {
+                "vital_signs_change": "Heart rate increased from 80 bpm to 102 bpm; blood pressure decreased from 137/67 mmHg to 126/55 mmHg."
+            }
+        }
+    ]
+}

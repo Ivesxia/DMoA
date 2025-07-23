@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Lipase Test",
+            "date": "Not specified",
+            "findings": "Lipase level of 582, which is elevated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver echotexture appears relatively homogeneous; normal direction of flow in the portal vein; gallbladder unremarkable; common duct not dilated; kidneys normal size with no evidence of hydronephrosis or stones; spleen unremarkable; portions of the pancreas appear unremarkable.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

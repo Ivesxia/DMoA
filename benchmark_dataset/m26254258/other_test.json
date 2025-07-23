@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT Abdomen w/ Contrast",
+            "date": "Not specified",
+            "findings": "The appendix is dilated and fluid filled with hyperemic wall and mild surrounding fat stranding. There is mild cecal wall thickening adjacent to the inflamed appendix. Lung bases demonstrate mild atelectatic change. The heart is not enlarged, and there is no pericardial effusion. Liver, gallbladder, spleen, adrenals, kidneys, pancreas appear unremarkable. No lymphadenopathy, bowel obstruction, drainable fluid collection, or pneumoperitoneum.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laparoscopic appendectomy",
+            "date": "Not specified",
+            "findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

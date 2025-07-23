@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Minimal bibasilar atelectasis, small hiatal hernia, several gallstones in the gallbladder with one in the gallbladder neck, mild gallbladder wall edema, mildly distended gallbladder, normal spleen, pancreas, adrenal glands, kidneys, prompt excretion of IV contrast into the collecting system, no hydronephrosis, normal stomach, duodenum, small bowel, small amount of free fluid in the deep pelvis and right lower quadrant adjacent to the right adnexa, normal appendix and colon, normal uterus for female of childbearing age, normally distended urinary bladder, no free air or lymphadenopathy in the pelvis, no suspicious lytic or sclerotic lesions for metastatic disease, mild multilevel degenerative changes.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

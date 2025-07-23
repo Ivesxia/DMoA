@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2 °F",
+                "heart_rate": "67 bpm",
+                "blood_pressure": "141/95 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "99%"
+            },
+            "relevant_findings": {
+                "general": "Appears well, no acute distress.",
+                "cardiovascular": "Regular rates and rhythms.",
+                "respiratory": "Clear to auscultation bilaterally.",
+                "abdominal": "Mildly distended, tender maximally in the right lower quadrant with voluntary guarding. Tender in left lower quadrant without rebound or guarding. No scars on abdomen.",
+                "extremities": "Warm, no edema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.6",
+                "blood_pressure": "132/88",
+                "heart_rate": "72",
+                "respiratory_rate": "20",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "Tired appearing well developed man. Appears stated age in NAD.",
+                "HEENT": "PERLL, EOMI, OP clear with MMM",
+                "neck": "Full ROM, No LAD, JVD not grossly elevated",
+                "cardiovascular": "RRR, No MRG appreciated",
+                "lungs": "Nonlabored on RA. CTAB.",
+                "abdomen": "Soft, nondistended. Moderate TTP RLQ and LLQ with minimal voluntary guarding. No rebound. NABS.",
+                "extremities": "No edema. Moving all extremities equally.",
+                "neurological": "Alert, appropriate, oriented. CNIII-XII intact. Known left eye blindness.",
+                "skin": "No rashes or lesions noted."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "ED visit",
+            "vital_signs": {
+                "temperature": "98.0",
+                "heart_rate": "79",
+                "blood_pressure": "142/94",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "96% RA"
+            },
+            "relevant_findings": "WBC 13.1, H/H: 19.7/64.2 (last time here 14.8/47.0)",
+            "changes_over_time": "On the floor, patient continues to complain of RLQ abdominal pain and dysuria, which suggests persistence of the findings."
+        },
+        {
+            "date": "Prior to transfer",
+            "vital_signs": {
+                "temperature": "97.8",
+                "heart_rate": "71",
+                "blood_pressure": "114/73",
+                "respiratory_rate": "16",
+                "oxygen_saturation": "95%"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Improvement in heart rate and blood pressure from ED visit, but abdominal pain persists."
+        }
+    ]
+}

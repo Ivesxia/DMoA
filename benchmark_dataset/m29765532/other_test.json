@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "EGD",
+            "date": "Not specified",
+            "findings": "Demonstrated gastric antritis and abnormal esophagus.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT Abdomen/Pelvis",
+            "date": "Not specified",
+            "findings": "Significant for cholelithiasis and gallbladder wall thickening, but no pericholecystic fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

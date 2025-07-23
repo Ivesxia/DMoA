@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "101.9°F",
+                "heart_rate": "113 bpm",
+                "blood_pressure": "124/84 mmHg",
+                "respiratory_rate": "22 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "Febrile, lying back in bed",
+                "abdomen": "Mild tenderness in the epigastric region, no rebound or guarding, +BS",
+                "heart": "Regular rate and rhythm, no murmurs, gallops, or rubs appreciated",
+                "lungs": "Clear to auscultation bilaterally",
+                "extremities": "No cyanosis, clubbing, or edema"
+            },
+            "changes_over_time": "Vital signs showed a decrease in temperature to 99.8°F, heart rate to 91 bpm, blood pressure improved to 136/76 mmHg, and respiratory rate decreased to 20 breaths/min over time while on the floor."
+        }
+    ]
+}

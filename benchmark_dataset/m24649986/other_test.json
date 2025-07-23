@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Rectal Exam",
+            "date": "Not specified",
+            "findings": "Vault empty, heme (-)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Abdominal Pain Assessment",
+            "date": "Not specified",
+            "findings": "Soft abdomen, (+) diffuse tenderness greatest in LLQ > suprapubic region, (+) rebound without guarding, non-distended with some tympany in RUQ > LUQ, hypoactive bowel sounds",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

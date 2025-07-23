@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain with associated symptoms.",
+        "history_of_present_illness": "Patient has been feeling fine until yesterday when he started experiencing generalized abdominal discomfort and pain in the right side of the chest under the ribcage. Over the course of the day, the pain became most severe in the right upper quadrant (RUQ), radiating to the back, and was exacerbated by any oral intake, movement, or deep breathing. Pain was associated with mild bloating, nausea, very dark colored urine, subjective fevers, chills, an itchy rash, increased fatigue, and headache with photophobia.",
+        "past_medical_history": "Hepatic steatosis, portal vein thrombosis, ADHD, depression, anxiety, low testosterone, obesity.",
+        "family_history": "No family history of liver disease. No history of autoimmune disease or inflammatory bowel disease (IBD). No history of thromboses. Father's medical history includes myocardial infarctions (MIs), mother has Type 2 diabetes mellitus (DM).",
+        "social_history": "MSM (men who have sex with men) and pet chickens."
+    }
+}

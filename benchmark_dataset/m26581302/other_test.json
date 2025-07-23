@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Inflammation, wall thickening, and inflammatory fat stranding at the proximal-to-mid sigmoid colon consistent with perforation. Extraluminal air is consistent with perforation. Mild dependent atelectatic changes noted in lung bases. A calcified granuloma observed in the left lower lobe. The left kidney contains a hypodensity most likely a simple cyst.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Toxigenic C. difficile testing",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile by the Illumigene DNA amplification assay.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

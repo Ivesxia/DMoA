@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4°F",
+                "heart_rate": "98 bpm (Atrial fibrillation)",
+                "blood_pressure": "118/61 mmHg",
+                "respiratory_rate": "24 breaths per minute",
+                "oxygen_saturation": "96% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, pleasant and conversive.",
+                "heent": "No scleral icterus.",
+                "chest": "Clear to auscultation bilaterally, atrial fibrillation, no murmurs, mechanical heart valve.",
+                "abdomen": "Soft, non-tender, non-distended, no rebound or guarding, bowel sounds present.",
+                "extremities": "Warm, no edema, bilateral palpable pulses.",
+                "neurological": "Alert and oriented times three."
+            },
+            "changes_over_time": "Abdominal exam and pain improved, but the patient developed increasing jaundice and a rising bilirubin to >7."
+        }
+    ]
+}

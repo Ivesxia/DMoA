@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Laparoscopic appendectomy",
+            "date": "Not specified",
+            "findings": "Attempted laparoscopic appendectomy; opened appendectomy required.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT abdomen with contrast",
+            "date": "Not specified",
+            "findings": "Extensive inflammatory change in the right lower quadrant, concerning for small-bowel obstruction; possible evolving abscess formation.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": {
+                "liver": "Hepatic parenchyma appears within normal limits, contour smooth, no focal mass, main portal vein patent with hepatopetal flow, no ascites.",
+                "bile_ducts": "No intrahepatic biliary dilation, common bile duct mildly dilated (8 mm).",
+                "gallbladder": "Cholelithiasis, gallbladder wall thickening and edema, edema within gallbladder fossa, concerning for acute cholecystitis.",
+                "pancreas": "Not well visualized, obscured by bowel gas.",
+                "spleen": "Normal echogenicity, measuring 11.3 cm.",
+                "kidneys": "Limited views of right kidney show no hydronephrosis.",
+                "retroperitoneum": "Visualized portions of aorta and IVC within normal limits."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

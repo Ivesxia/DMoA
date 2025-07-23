@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is visualized in the right lower quadrant, with hyperdense internal contents and no evidence of intraluminal gas. The overall caliber of the appendix is increased, measuring 10-11 mm in largest diameter. There is a trace amount of adjacent fat stranding. No free gas or fluid was noted, and no evidence of appendiceal rupture is present.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for unknown item",
+            "date": "Not specified",
+            "findings": "NEG mg/dL (Negative result), reference range 0.2 - 1.0 mg/dL.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

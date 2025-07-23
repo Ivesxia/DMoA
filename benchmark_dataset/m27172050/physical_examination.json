@@ -1,0 +1,10 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": "Temperature: 97.4°F, Heart Rate: 69 bpm, Respiratory Rate: 97% RA",
+            "relevant_findings": "General: awake, alert, oriented x 3; HEENT: EOMI, anicteric; Heart: RRR, NMRG; Lungs: CTAB; Abdomen: soft, ND, RUQ tenderness, ___ sign",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

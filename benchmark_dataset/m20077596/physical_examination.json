@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8 F",
+                "heart_rate": "110 bpm",
+                "blood_pressure": "160/73 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "95% on RA"
+            },
+            "relevant_findings": {
+                "general": "awake, alert, NAD",
+                "HEENT": "NCAT, EOMI, anicteric",
+                "heart": "irregular",
+                "lungs": "normal excursion, no respiratory distress",
+                "abdomen": "soft, obese, focal moderate epigastric tenderness, no guarding/rebound, no mass, no hernia",
+                "back": "no vertebral tenderness, mild bilateral CVAT",
+                "extremities": "WWP, no CCE, no tenderness, 2+ B radial",
+                "psychiatric": "normal judgment/insight, normal memory, normal mood/affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

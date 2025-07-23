@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The abdomen shows a fluid-filled appendix measuring 8 mm at its tip with a 1.6 x 1.8 cm rim enhancing fluid collection at the base. Multiple bilateral cortical renal hypo densities noted, with the largest measuring approximately 6 mm. No hydronephrosis, no intrahepatic biliary duct dilation, and the liver shows homogeneous attenuation without focal lesion.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Blood Test",
+            "date": "Not specified",
+            "findings": "Valuestr: 9.7 mg/dL; NO GROWTH (indicating perhaps a culture result). Reference range: 8.4 - 10.3.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

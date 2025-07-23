@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.9°F",
+                "heart_rate": "83 bpm",
+                "blood_pressure": "122/72 mmHg",
+                "respiratory_rate": "18 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "A&O, NAD",
+                "HEENT": "No scleral icterus, EOMI",
+                "CV": "RRR",
+                "pulmonary": "CTAB",
+                "abdominal": "Soft, non-distended, tender to palpation in lower abdomen, +rebound tenderness in LLQ, +guarding LLQ, +bowel sounds, well healed lower midline surgical scar visible",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

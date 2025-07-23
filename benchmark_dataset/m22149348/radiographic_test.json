@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CTU (ABD/PEL) W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Small bilateral pleural effusions, left greater than right with minimal atelectasis; 4 mm hypodensity within hepatic segment 6, too small to accurately characterize, stable; 0.8 cm left adrenal nodule, stable; heterogeneous collection in the right upper quadrant adjacent to the second portion of the duodenum measuring 6.9 x 4 x 6.6 cm concerning for developing phlegmon/abscess; moderate wall thickening of segment of sigmoid colon, with tethering and serosal surface tracks, consistent with subacute and intramural abscesses or interloop fistulas; few mildly enlarged lymph nodes, largest measures 0.8 cm; small amount of free fluid in the lower pelvis; persistent fluid-filled right inguinal hernia unchanged.",
+            "changes_over_time": "Interval decrease of the perinephric collection; progressive worsening and increasing organization of the fluid collection since prior."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.2 °F",
+                "heart_rate": "73 bpm",
+                "blood_pressure": "184/87 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "comfortable, no acute distress (NAD)",
+                "cardiovascular": "regular rate and rhythm (RRR)",
+                "respiratory": "no respiratory distress, normal work of breathing (WOB)",
+                "abdominal": "soft, non-distended, tender to deep palpation in right upper quadrant (RUQ)",
+                "extremities": "warm, well-perfused (WWP)"
+            },
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

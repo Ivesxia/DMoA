@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "A large thoracic aortic aneurysm in the left hemithorax, small right pleural effusion, bibasal atelectasis/consolidation, mild hepatic steatosis, cholelithiasis with pericholecystic free fluid, multiple subcentimeter cystic lesions in the pancreas consistent with side branch IPMN, bilateral cortical cysts in the kidneys.",
+            "changes_over_time": "This finding is better characterized on the chest CT dated ___."
+        }
+    ]
+}

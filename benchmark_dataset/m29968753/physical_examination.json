@@ -1,0 +1,51 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8",
+                "blood_pressure": "168/85",
+                "heart_rate": "82",
+                "respiratory_rate": "19",
+                "oxygen_saturation": "96% on RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, average build AA male with EtOH breath during interview",
+                "heent": "AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, patent nares, MMM, good dentition",
+                "neck": "nontender supple neck, no LAD, no JVD",
+                "cardiac": "RRR, S1/S2, no murmurs, gallops, or rubs",
+                "lung": "CTAB, no wheezes, rales, rhonchi, breathing comfortably without use of accessory muscles",
+                "abdomen": "soft, mildly distended, RUQ/epigastric TTP, HSMG, voluntary guarding, no rebound",
+                "extremities": "moving all extremities well, no cyanosis, clubbing or edema",
+                "pulses": "2+ DP pulses bilaterally",
+                "neuro": "CN II-XII intact",
+                "skin": "warm and well perfused, no excoriations or lesions, no rashes"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2",
+                "blood_pressure": "160/76",
+                "heart_rate": "96",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "99% RA"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2",
+                "blood_pressure": "154/87",
+                "heart_rate": "84",
+                "respiratory_rate": "18",
+                "oxygen_saturation": "95% RA"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

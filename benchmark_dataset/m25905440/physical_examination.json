@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "102 bpm",
+                "blood_pressure": "120/82 mmHg",
+                "respiratory_rate": "19 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Comfortable",
+                "HEENT": "Normocephalic, atraumatic; Oropharynx within normal limits",
+                "chest": "Clear to auscultation",
+                "cardiovascular": "Tachycardic",
+                "abdominal": "Soft, RLQ pain on palpation with voluntary guarding, no rebound",
+                "GU/flank": "No costovertebral angle tenderness",
+                "extremities/back": "No cyanosis, clubbing, or edema",
+                "neurological": "Speech fluent"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

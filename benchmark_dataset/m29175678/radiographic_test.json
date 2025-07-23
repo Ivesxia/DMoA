@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "A calcified granuloma is seen in the right lower lobe. The lungs are otherwise clear. There is no pleural effusion. A small pericardial effusion is unchanged. Fat stranding centered around the appendix with mild dilatation of the appendiceal tip to 8 mm. Slight thickening of the cecal base. No contrast or air seen within the appendix despite contrast in the cecum. No drainable fluid collection and no free air. Tiny lymph nodes in the region are prominent but not pathologically enlarged. Evaluation of intra-abdominal organs is limited without intravenous contrast; liver, gallbladder, spleen, pancreas, and bilateral adrenal glands are normal. Kidneys are normal without nephrolithiasis or hydronephrosis. Small and large bowel are normal in course and caliber. No mesenteric or retroperitoneal lymphadenopathy. Atherosclerotic calcifications are seen in the aorta. The rectum, sigmoid colon, bladder, and prostate are normal. No free fluid and no pelvic or inguinal lymphadenopathy. No lytic or sclerotic lesion suspicious for malignancy. Exostosis is noted at the left lesser trochanter.",
+            "changes_over_time": "A small pericardial effusion is unchanged."
+        }
+    ]
+}

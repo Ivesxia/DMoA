@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "Small bilateral pleural effusions, right greater than left; enlarged right atrium and ventricle; coarse densities within the liver, likely calcifications, and numerous hepatic hypodensities, likely cysts; mild intrahepatic ductal dilation and extra-hepatic ductal dilation with the common bile duct measuring up to 9 mm; numerous large stones in the gallbladder with extensive pericholecystic fluid, mucosal enhancement, and mucosal irregularity; possible perforation of the gallbladder wall; normal spleen; thickening of the left adrenal gland; partially fatty replaced pancreas with a dilated distal pancreatic duct; small right kidney hypodensities, likely renal cysts; no free air in the abdomen; calcified abdominal aorta but non-aneurysmal; patent portal and splenic veins; normal caliber stomach, small bowel, and colon; numerous diverticula of the descending and sigmoid colon; normal urinary bladder; coarse calcifications in uterus likely due to calcified leiomyomata; post kyphoplasty/vertebroplasty at L1 and L2.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

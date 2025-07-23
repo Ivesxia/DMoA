@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Laboratory test for bilirubin",
+            "date": "Not specified",
+            "findings": "Total bilirubin: 3.1 mg/dL (Reference range: 2.7 - 4.5 mg/dL), which is within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT) Radiograph",
+            "date": "Not specified",
+            "findings": "Lungs are clear. There is no pleural effusion or pneumothorax. The heart is normal in size with a normal cardiomediastinal silhouette.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

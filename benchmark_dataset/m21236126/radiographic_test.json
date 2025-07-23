@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic with a smooth contour and no focal liver mass. The main portal vein is patent with hepatopetal flow and no ascites. There is no intrahepatic biliary dilation; the CHD measures 4 mm. A large stone in the gallbladder measuring 3.0 x 2.8 x 2.1 cm is noted. The partially visualized pancreas is unremarkable. The spleen is enlarged measuring 14.1 cm in length. Limited views of the right kidney show no hydronephrosis. The visualized portions of aorta and IVC are within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "No focal opacities.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

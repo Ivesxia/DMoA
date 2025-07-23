@@ -1,0 +1,26 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "heart_rate": "61 bpm",
+                "blood_pressure": "114/65 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "Aox3, NAD",
+                "HEENT": "NC/AT, EOMI",
+                "cardiovascular": "S1S2",
+                "respiratory": "No respiratory distress",
+                "abdominal": "Soft, mild TTP in RLQ with deep palpation",
+                "genitourinary": "No scrotal or testicular TTP",
+                "extremities": "WWP without edema",
+                "neurological": "Without focal deficit",
+                "psychiatric": "Normal mood, appropriate affect"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

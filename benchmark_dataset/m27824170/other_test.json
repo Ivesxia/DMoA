@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Endoscopy",
+            "date": "Not specified",
+            "findings": "No growth.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP",
+            "date": "Not specified",
+            "findings": "Extensive inflammation of the second and third part of the duodenum with adjacent retroperitoneal phlegmon. Minor inflammatory change in the posterior aspect of the head of the pancreas. Distended gallbladder containing sludge.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

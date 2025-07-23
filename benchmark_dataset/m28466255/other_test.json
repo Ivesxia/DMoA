@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Dilated, fluid-filled appendix, measuring up to 8 mm, with adjacent fat stranding. No drainable fluid collection or extraluminal air to suggest perforation. All other abdominal organs appear normal.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Physical Examination",
+            "date": "Not specified",
+            "findings": "+Rovsing's sign, + tenderness at McBurney's point, + guarding with focal rebound tenderness. Abdomen soft and nondistended.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

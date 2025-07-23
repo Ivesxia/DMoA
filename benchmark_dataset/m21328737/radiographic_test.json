@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is abnormal in appearance, with a dilated fluid-filled lumen measuring 9-10 mm in diameter. There is moderate appendiceal wall enhancement, surrounding periappendiceal fat stranding, and numerous small lymph nodes. No free air or other definite sign of perforation. Small amount of free fluid in the lower pelvis around the rectum. Visualized lung bases are clear, and the remaining abdominal and pelvic organs are normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

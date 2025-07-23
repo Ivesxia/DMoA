@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Patient experienced generalized crampy abdominal pain that began around 1 am and has persisted for 12 hours. The pain is accompanied by nausea and 1 bout of non-bloody emesis. He denies fevers, chills, constipation, diarrhea, or urinary symptoms. Last bowel movement was yesterday.",
+        "past_medical_history": "GERD, positive for H. pylori, prescribed amoxicillin and clarithromycin.",
+        "family_history": "Noncontributory",
+        "social_history": "Not specified"
+    }
+}

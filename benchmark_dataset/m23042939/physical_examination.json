@@ -1,0 +1,37 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.7°F",
+                "heart_rate": "74 bpm",
+                "blood_pressure": "169/91 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "Awake and alert, oriented x 3",
+                "HEENT": "Notable for scleral icterus",
+                "cardiovascular": "RRR, normal s1, s2, No M/G/R",
+                "pulmonary": "Clear to auscultation b/l, No W/R/R",
+                "abdomen": "Soft, mildly distended, moderately tender along epigastrium and RUQ, no rebound or guarding, normoactive bowel sounds",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": {
+                "ultrasound": {
+                    "liver": "Echogenicity of the liver is normal; no focal hepatic lesions",
+                    "biliary_dilatation": "Moderate intrahepatic biliary dilatation; extrahepatic ducts dilated with mid common bile duct measuring up to 1.4 cm",
+                    "gallbladder": "Multiple shadowing gallstones; moderate wall edema and thickening; slightly distended",
+                    "pancreatic_duct": "Normal in size measuring 3 mm",
+                    "hydronephrosis": "Mild right-sided hydronephrosis; urinary bladder significantly dilated"
+                }
+            },
+            "changes_over_time": "Intra- and extra-hepatic biliary dilatation is new since previous assessment."
+        }
+    ]
+}

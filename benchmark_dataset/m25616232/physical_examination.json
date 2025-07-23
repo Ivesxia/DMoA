@@ -1,0 +1,45 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.2 F",
+                "heart_rate": "128 bpm",
+                "blood_pressure": "128/71 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% RA"
+            },
+            "relevant_findings": {
+                "general": "Well-appearing woman in NAD, comfortable, appropriate.",
+                "heent": "NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear.",
+                "neck": "Supple, no thyromegaly, no JVD, no carotid bruits.",
+                "heart": "RRR, no MRG, nl S1-S2.",
+                "lungs": "CTA bilat, no r/rh/wh, good air movement, resp unlabored.",
+                "abdomen": "Soft/NT/ND, no masses or HSM, no rebound/guarding.",
+                "extremities": "WWP, no c/c/e, 2+ peripheral pulses.",
+                "skin": "No rashes or lesions.",
+                "lymph": "No cervical LAD.",
+                "neuro": "Awake, A&Ox3, CNs II-XII grossly intact, DTRs 2+ and symmetric."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8 F",
+                "heart_rate": "123 bpm",
+                "blood_pressure": "123/57 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "94% RA"
+            },
+            "relevant_findings": "Not specified",
+            "changes_over_time": "Vital signs showed a reduction in heart rate and blood pressure upon transfer."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Lipase of 214 IU/L",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

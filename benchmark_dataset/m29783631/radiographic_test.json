@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "No discrete abnormality. The appendix is not visualized. Multiple large and small bowel loops are normal in appearance. There is no free fluid or focal fluid collection. Mild tenderness is elicited with transducer pressure. No rebound tenderness is present.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

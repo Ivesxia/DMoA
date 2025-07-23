@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "In the right lower quadrant, the appendix measures up to 10 mm with subtle stranding, hyperemia, and enlargement. No evidence of perforation or abscess formation. Several subcentimeter hypodensities in the liver that are potentially cysts or hemangiomas. Layering small hyperdense stones in the gallbladder. No evidence of cholecystitis or inflammatory changes in other organs.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

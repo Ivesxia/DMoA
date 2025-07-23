@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.5°F",
+                "heart_rate": "99 bpm",
+                "blood_pressure": "122/78 mmHg",
+                "respiratory_rate": "19 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, comfortable",
+                "HEENT": "Pupils equal, round, reactive to light; Extraocular movements intact",
+                "cardiovascular": "Regular rate and rhythm",
+                "pulmonary": "Breathing comfortably on room air",
+                "abdominal": "Soft, nondistended, tenderness to palpation in right upper quadrant with positive signs of guarding, no rebound tenderness, no masses or hernias",
+                "extremities": "Warm, well-perfused, no cyanosis or edema",
+                "neurological": "Alert and oriented to person, place, and time; gross sensorimotor function intact"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6 °F",
+                "heart_rate": "76 bpm",
+                "blood_pressure": "111/70 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100%"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "HEENT": "No scleral icterus",
+                "lungs": "Clear",
+                "heart": "Regular rate and rhythm",
+                "abdomen": "Soft, moderately tender in RLQ, nondistended, nonrigid, no guarding",
+                "extremities": "No edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

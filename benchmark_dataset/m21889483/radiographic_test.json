@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "MRCP (MR ABD W&W/OC)",
+            "date": "Not specified",
+            "findings": "The extrahepatic bile ducts are markedly dilated with the common bile duct measuring up to 16 mm. The central intrahepatic ducts are moderately dilated; the peripheral intrahepatic ducts are normal. The distal common bile duct has smooth tapering. No evidence of choledocholithiasis or obstructing periampullary mass. The pancreatic duct is normal in caliber. Multiple small non-enhancing cystic lesions in the pancreatic body and tail, with the largest measuring 12 x 6 mm. No inflammatory change of the pancreas. No solid pancreatic mass detected. Numerous tiny subcentimeter hyperintense lesions of the liver, consistent with biliary hamartomas or cysts. No concerning hepatic lesion or ascites. Multiple renal cysts, including one with hyperintense material consistent with proteinaceous content. Degenerative changes of the spine.",
+            "changes_over_time": "These findings are not significantly changed from previous ERCP and probably not grossly changed from previous MR abdomen."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Gallbladder wall edema consistent with mild hepatitis, slightly hypoattenuating liver without discrete focal lesions, normal spleen, adrenal glands, pancreas, and kidneys, slightly prominent retroperitoneal lymph nodes up to 11 mm, right ovarian dermoid measuring approximately 2.6 x 2.6 cm, no signs of ileus or obstruction in small bowel, normal appendix, thin walled colon with mild fecal load, no free pelvic fluid, normal urinary bladder.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "RUQ Ultrasound",
+            "date": "Not specified",
+            "findings": "Cholelithiasis with no definite evidence of cholecystitis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

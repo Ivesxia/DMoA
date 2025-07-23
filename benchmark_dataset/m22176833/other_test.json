@@ -1,0 +1,28 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "INR test",
+            "date": "Not specified",
+            "findings": "INR was found to be 5.9 on admission.",
+            "changes_over_time": "Last checked about a month ago, and was normal at that time."
+        },
+        {
+            "procedure_name": "CT abdomen/pelvis",
+            "date": "Not specified",
+            "findings": "CT showed dilated fluid-filled appendix with appendicolith and adjacent fat stranding with minimal surrounding free fluid, and adjacent cecal wall thickening.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Laparoscopic appendectomy",
+            "date": "Not specified",
+            "findings": "Not specified.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Radiograph (ABDOMEN in SUPINE & ERECT)",
+            "date": "Not specified",
+            "findings": "The cecum and ascending colon are dilated with air-fluid levels. A small amount of adjacent free intraperitoneal air is likely postoperative. Multiple loops of small bowel contain air-fluid levels but are not dilated.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

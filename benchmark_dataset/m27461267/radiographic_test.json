@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Imaged lung bases are clear; liver demonstrates homogeneous attenuation with no focal lesions or biliary dilatation; pancreas has normal attenuation with no focal lesions; spleen shows normal size and attenuation; right adrenal nodule measuring 1.1 cm, stable in size from MRI; bilateral kidneys show stable subcentimeter intermediate density cysts; fluid filled appendix dilated with thickened walls, maximum diameter of 12 mm; uterus appears small, question supracervical hysterectomy versus atrophy; no retroperitoneal or mesenteric lymphadenopathy; mild degenerative changes in lower thoracic and lumbar vertebral bodies.",
+            "changes_over_time": "The right adrenal nodule and renal cysts are stable in size from previous studies."
+        }
+    ]
+}

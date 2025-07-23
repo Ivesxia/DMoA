@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Acute onset of abdominal pain around 7 PM after having a meal around 3:30 PM. The patient tried taking Tums and OTC medications for GI upset with no improvement in symptoms. He did not experience fevers, chills, nausea, or vomiting. Earlier in the week, there was an episode of diarrhea, which was unclear if that was ongoing. The pain did not improve, leading to hospitalization.",
+        "past_medical_history": "Coronary artery disease, hypertension, osteoporosis, history of melanoma on the face, past surgical history includes L4-L5 fusion.",
+        "family_history": "Not specified.",
+        "social_history": "Lives with his son."
+    }
+}

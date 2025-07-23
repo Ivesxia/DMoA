@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Blind-ending tubular structure in the right lower quadrant measuring 10 mm in diameter with hyperemic walls; round calcified structure in the lumen consistent with an appendicolith; increased echogenicity of the adjacent fat consistent with inflammatory change.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

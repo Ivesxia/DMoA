@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "102.1°F",
+                "heart_rate": "80 bpm",
+                "blood_pressure": "188/36 mmHg",
+                "respiratory_rate": "22 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "No acute distress (NAD), alert and oriented x3.",
+                "HEENT": "Anicteric, PERRLA, EOMI, oral mucosa dry.",
+                "neck": "No JVD, no lymphadenopathy (LAD), no TM.",
+                "cardiovascular": "Regular rate and rhythm (RRR).",
+                "pulmonary": "Clear to auscultation bilaterally (CTAB).",
+                "abdominal": "Soft, non-tender (NT), non-distended (ND), positive bowel sounds (BS), incision well healed, no graft tenderness.",
+                "extremities": "Warm and well perfused, no peripheral edema.",
+                "neurological": "Motor and sensation grossly intact."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

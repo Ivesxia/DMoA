@@ -1,0 +1,40 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "92 bpm",
+                "blood_pressure": "196/113 mmHg",
+                "respiratory_rate": "30 breaths/min",
+                "saturation": "100%"
+            },
+            "relevant_findings": "On initial PE, patient was oriented x 3 but somnolent, with diffuse abdominal tenderness and distension.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.1°F",
+                "heart_rate": "116 bpm",
+                "blood_pressure": "161/118 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "saturation": "93% on 3L NC"
+            },
+            "relevant_findings": "Gen: Pleasant, well-appearing man conversant, interactive, in no acute distress. Abdomen soft, non-tender, non-distended. Right knee with edema, erythema, minimal warmth, mildly tender to palpation.",
+            "changes_over_time": "Patients vitals showed an increase in heart rate from 92 bpm to 116 bpm and a drop in oxygen saturation from 100% to 93%."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "95.6°F",
+                "heart_rate": "120 bpm",
+                "blood_pressure": "120/65 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "saturation": "98% RA"
+            },
+            "relevant_findings": "Patient was pleasant and interactive; abdominal exam showed no abnormalities. The right knee remained edematous and begins to show limited range of motion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

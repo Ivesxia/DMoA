@@ -1,0 +1,10 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Bilateral pleural effusions with bilateral dependent atelectasis at the lung bases. Normal heart size, no pericardial effusion. Spleen, adrenals, pancreas, gallbladder are within normal limits. Hypodensity in the liver not appreciated. Kidneys symmetrical in size, no hydronephrosis. Circumaortic left renal vein noted. Loops of large and small bowel within normal limits. Slightly hyperdense fluid next to the ascending colon concerning for hematoma, measuring 25 x 88 mm. Small foci of air and muscle near surgical site, likely post-surgical. No pathologically enlarged lymph nodes. In the pelvis, hyperdense fluid tracking, measuring 50 x 50 mm, concerning for hematoma extending from the surgical site. Osseous structures show significant degenerative changes at L5-S1.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

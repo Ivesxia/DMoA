@@ -1,0 +1,39 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.6°F",
+                "blood_pressure": "128/71 mmHg",
+                "heart_rate": "66 bpm",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "98% on room air",
+                "weight": "129 lbs"
+            },
+            "relevant_findings": {
+                "general": "Slender, alert/oriented middle-aged female.",
+                "HEENT": "No sclera icterus. Moist mucous membranes.",
+                "skin": "Multiple tattoos, petechiae scattered over arms and chest.",
+                "cardiac": "Regular rate and rhythm with no excess sounds appreciated.",
+                "lungs": "Clear to auscultation bilaterally with no wheezing, rales, or rhonchi.",
+                "abdomen": "Distended but soft; dullness to percussion over dependent areas; tympanic anteriorly; positive for hepatomegaly; mild diffuse tenderness, more so over RUQ.",
+                "extremities": "Warm and well perfused, no edema, clubbing or cyanosis; ecchymotic areas on left orbital, left elbow, left patella, and left hip with subcutaneous hardening/calcification over left orbit.",
+                "neurology": "No asterixis, alert and oriented."
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "Not specified",
+                "blood_pressure": "123/64 mmHg",
+                "heart_rate": "69 bpm",
+                "respiratory_rate": "Not specified",
+                "oxygen_saturation": "Not specified",
+                "weight": "129 lbs"
+            },
+            "relevant_findings": "Worsening pruritus described as generalized itching including palms/soles, damaging her skin; residual bruising/soreness on her left orbital, left elbow, left knee, and left hip.",
+            "changes_over_time": "Worsening pruritus over the past month; residual bruising from previous fall."
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "Abdominal pain started last night (10 hours ago), described as right-sided and crampy. Associated nausea but denies emesis. Had a bowel movement yesterday and continues to pass gas.",
+        "past_medical_history": "1. Gastroesophageal reflux disease. 2. Headaches. PSH: 1. ACL reconstruction. 2. Right breast core biopsy showing fibroadenoma.",
+        "family_history": "1. Sister with breast cancer (age unspecified, negative BRCA). 2. History of breast cancer (age unspecified, negative BRCA). 3. Maternal cousin with breast cancer (age unspecified, negative BRCA). 4. Two maternal aunts with breast cancer, one diagnosed in age unspecified and one in her unspecified. 5. Other cancers in the patient's family include stomach, colon, kidney, and prostate.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CBC",
+            "date": "Not specified",
+            "findings": "WBC 11.7 (PMN predominance), Hgb 12.1 (baseline ~13), normal platelets",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Chem10",
+            "date": "Not specified",
+            "findings": "K 5.9 (on moderately hemolyzed specimen), repeat whole blood sample 5.6; BUN 35, Cr 1.3 (baseline Cr 1.3), bicarb 20, Mg 1.6",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Blood cultures",
+            "date": "Not specified",
+            "findings": "Pending",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine culture",
+            "date": "Not specified",
+            "findings": "Pending",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Scrotal Ultrasound",
+            "date": "Not specified",
+            "findings": "Right testicle: 2.0 x 2.1 x 3.5 cm; Left testicle: 2.1 x 2.9 x 3.8 cm; Heterogeneous testes bilaterally, punctate nonshadowing echogenicities compatible with microlithiasis, cyst at the head of the right epididymis (4 mm), small spermatocele in right epididymal body (1.4 x 0.5 x 1.2 cm), bilateral hydroceles noted.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CXR",
+            "date": "Not specified",
+            "findings": "No substantial interval change from the previous examination; scattered areas of calcification within the pleura and right lung base.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

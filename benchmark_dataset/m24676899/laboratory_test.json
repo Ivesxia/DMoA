@@ -1,0 +1,34 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "2544 (elevated, outside normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "BUN",
+            "date": "Not specified",
+            "findings": "31 (elevated, outside normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "1.4 (elevated, outside normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver Function Test (LFT)",
+            "date": "Not specified",
+            "findings": "WNL (within normal limits)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urinalysis (UA)",
+            "date": "Not specified",
+            "findings": "Protein positive (prot+)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

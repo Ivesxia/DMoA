@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "100.2°F",
+                "heart_rate": "102 bpm",
+                "blood_pressure": "128/69 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "99% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress (NAD), alert and oriented x 3, nontoxic appearance",
+                "cardiovascular": "Mildly tachycardic, regular rhythm",
+                "pulmonary": "Clear to auscultation bilaterally (CTA b/l)",
+                "abdominal": "Soft, tender to palpation in right lower quadrant (RLQ), positive local rebound, no guarding, positive Rovsing's sign",
+                "extremities": "No cyanosis, clubbing, or edema (c/c/e)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "heart_rate": "86 bpm",
+                "blood_pressure": "158/86 mmHg",
+                "respiratory_rate": "20 breaths/min",
+                "oxygen_saturation": "98% on room air"
+            },
+            "relevant_findings": {
+                "general": "NAD, well appearing, obese male",
+                "HEENT": "Eyes anicteric, OP clear, moist, without lesions, no palpable lymphadenopathy, thick neck, JVP flat",
+                "CV": "RRR, no MRG",
+                "pulmonary": "Clear to auscultation bilaterally, no wheezes/rales/rhonchi",
+                "abdominal": "Obese, soft, tender diffusely to deep palpation",
+                "extremities": "2+ pitting edema bilaterally",
+                "neurological": "Alert and oriented x3, cranial nerves intact, strength symmetric in upper extremities and lower extremities, sensation symmetric, coordination intact, gait normal, mood/affect appropriate",
+                "skin": "No rash, no lesions; midline incision scar on abdomen"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Fascial plane thickening and minimal bowel wall thickening in the left lower quadrant at the level of the sigmoid colon. Evidence of microperforations with tiny foci of air in this region, consistent with sigmoid diverticulitis with microperforations. Mild dilatation of the proximal small bowel loops that may represent localized ileus without obstruction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory test for organisms",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml, reference range 2.7-4.5.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

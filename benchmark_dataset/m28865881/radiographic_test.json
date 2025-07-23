@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The lungs are clear, there is no pleural or pericardial effusion. The heart size is normal. The liver, gallbladder, spleen, pancreas, and bilateral adrenal glands are normal. The kidneys enhance symmetrically and display prompt contrast excretion. The appendix is dilated to 11 mm with a thickened hyperemic wall and surrounding stranding, consistent with appendicitis. A 10 mm appendicolith seen at the base of the appendix. No abscess or extraluminal air is seen. The stomach and small bowel are decompressed and normal. The large bowel contains stool but is otherwise unremarkable. There is no intra-abdominal free air or free fluid. The bladder is well distended and normal appearing. No pathologically enlarged pelvic sidewall or inguinal lymph nodes are seen. There is no pelvic free fluid. The abdominal aorta is normal in caliber. Its major branches are patent. No blastic or lytic lesions suspicious for malignancy or infection.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

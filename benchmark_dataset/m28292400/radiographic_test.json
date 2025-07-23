@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "Limited visualization of the left hepatic lobe; liver is diffusely echogenic with smooth contour; no focal liver mass; patent portal vein with hepatopetal flow; no ascites; moderate gallbladder distension; single calculus in the neck of the gallbladder; gallbladder wall thickening; pericholecystic fluid; possible accessory spleen noted in the left upper quadrant; no hydronephrosis in the kidneys.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

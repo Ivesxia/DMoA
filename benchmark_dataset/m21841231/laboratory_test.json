@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix is edematous with thickened walls measuring 9 mm in diameter; surrounding fat stranding; kidneys symmetric with no lesions; subcentimeter hypodensity in left kidney likely represents a simple cyst; otherwise, no significant abnormalities.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Urine Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

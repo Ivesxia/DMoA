@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "Negative for toxigenic C. difficile by the Cepheid nucleic acid amplification assay",
+            "date": "Not specified",
+            "findings": "Negative for toxigenic C. difficile. (Reference Range-Negative)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT abdomen and pelvis without contrast",
+            "date": "Not specified",
+            "findings": "Small bilateral pleural effusions with associated compressive atelectasis, unchanged. Fluid in the cholecystectomy bed has decreased since the prior CT. Small amount of perihepatic ascites, unchanged.",
+            "changes_over_time": "Fluid in the cholecystectomy bed has decreased since the prior CT."
+        }
+    ]
+}

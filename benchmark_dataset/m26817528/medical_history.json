@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain and nausea.",
+        "history_of_present_illness": "The patient started to experience lower abdominal pain, accompanied by nausea and one episode of emesis. The symptoms are not specified in terms of duration or intensity but were significant enough to seek emergency department evaluation.",
+        "past_medical_history": "Crohn's ileitis, previously admitted for a Crohn's flare managed conservatively. Past surgical history includes eye surgery.",
+        "family_history": "Uncle with ulcerative colitis (UC), maternal grandfather with suspected liver cancer, paternal grandfather with lung cancer, father with asthma.",
+        "social_history": "Not specified."
+    }
+}

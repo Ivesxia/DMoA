@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is slightly dilated in size to approximately 7 mm (previously 4 mm), with surrounding inflammatory stranding and mild hyperemia. There is no evidence of retroperitoneal lymphadenopathy, free peritoneal air, fluid collection, or significant lesions in other abdominal organs.",
+            "changes_over_time": "Appendix size increased from 4 mm to 7 mm."
+        },
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

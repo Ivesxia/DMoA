@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The imaged lung bases are clear. A hyperenhancing lesion within segment VI of the liver measures approximately 12 mm, likely a hemangioma. Extensive fat stranding extending from the sigmoid mesocolon with areas of extraluminal gas, thickening along the posterior peritoneal margin with adjacent small bowel thickening, likely reactive. Mild thickening along the sigmoid colon. No evidence of bowel obstruction. No free fluid extending into the pelvis.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

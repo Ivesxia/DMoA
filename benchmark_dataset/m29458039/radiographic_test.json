@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ABDOMEN (SUPINE & ERECT) Radiograph",
+            "date": "Not specified",
+            "findings": "Gas is seen within the stomach. There is contrast seen throughout the ascending, transverse, descending, and rectosigmoid colon with paucity of air in the small bowel loops. There are no abnormally dilated loops of large or small bowel. There is no free intraperitoneal air. Osseous structures are unremarkable. There are no unexplained soft tissue calcifications or radiopaque foreign bodies.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

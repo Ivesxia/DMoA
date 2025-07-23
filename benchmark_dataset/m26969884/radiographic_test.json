@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PRE-OP PA & LAT)",
+            "date": "Not specified",
+            "findings": "There is a pacemaker overlying the left chest with a single lead terminating within the right ventricle. The heart is enlarged but stable in size compared to prior. The lungs are clear. The mediastinal and hilar contours are normal. The pulmonary vasculature is normal. There are small bilateral pleural effusions. No pneumothorax is seen. There are no acute osseous abnormalities.",
+            "changes_over_time": "The heart is enlarged but stable in size compared to prior."
+        }
+    ]
+}

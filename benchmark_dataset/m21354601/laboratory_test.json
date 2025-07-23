@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Neisseria gonorrhoeae testing",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria gonorrhoeae by APTIMA COMBO 2 Assay.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix measures 11 mm at its proximal portion with a hyperemic thickened wall and subtle fat stranding. The distal portion of the appendix appears normal.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

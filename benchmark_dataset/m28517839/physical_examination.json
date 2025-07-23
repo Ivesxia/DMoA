@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.6 F",
+                "blood_pressure": "125/77 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "99% on room air",
+                "heart_rate": "Tachycardic"
+            },
+            "relevant_findings": {
+                "general": "Alert, oriented x3. No acute distress.",
+                "head_and_neck": "No scleral icterus. Mucous membranes moist.",
+                "cardiovascular": "Tachycardic, normal S1/S2.",
+                "pulmonary": "Unlabored breathing, clear to auscultation bilaterally.",
+                "abdominal": "Soft, obese, diffusely tender in lower abdomen, increased tenderness over McBurney's point. Mild guarding, positive rebound tenderness, positive Rovsing's sign. 2x3cm umbilical hernia. No masses.",
+                "extremities": "Warm without edema."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

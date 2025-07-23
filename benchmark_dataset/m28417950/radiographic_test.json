@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Initial scout image shows stent in pancreatic duct. Removal of stent and cannulation of common bile duct demonstrated. No definite filling defects visualized. Balloon sweep of common bile duct performed. Intrahepatic ducts unremarkable. Proximal portions of extrahepatic biliary ducts mildly irregular.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

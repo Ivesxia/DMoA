@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "In the right lower quadrant, there is a dilated tubular structure arising from the cecum measuring up to 12 mm with surrounding fat stranding and wall hyperemia, consistent with an inflamed appendix. No intra-abdominal free air or fluid collection. Limited views of the liver, spleen, pancreas, and kidneys are unremarkable. Normal caliber of small and large bowel without wall thickening.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test - Measurement",
+            "date": "Not specified",
+            "findings": "1.4 mmol/L (with reference range 0.5 - 2.0 mmol/L)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

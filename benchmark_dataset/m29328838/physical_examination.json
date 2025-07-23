@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.1°F",
+                "blood_pressure": "136/83 mmHg",
+                "heart_rate": "64 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "Alert and oriented, no acute distress.",
+                "cardiovascular": "Regular rate and rhythm, no murmurs, gallops, or rubs.",
+                "pulmonary": "Non-labored respirations on room air.",
+                "abdomen": "Soft, nondistended, focal mild tenderness to palpation in left lower quadrant, no rebound or guarding, normoactive bowel sounds, no palpable masses.",
+                "extremities": "Left groin incision well healed.",
+                "neurological": "Alert and oriented to person, place, and time."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

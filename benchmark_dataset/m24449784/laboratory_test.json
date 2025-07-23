@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "BUN/Cr",
+            "date": "Not specified",
+            "findings": "BUN 68, Cr 3.55 (normal no higher than 2)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT CHEST W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Enlarged thyroid gland with a 2.8 x 3.4 cm hypodense left thyroid nodule; trachea displaced and mildly narrowed; no axillary lymphadenopathy; lungs clear with mild centrilobular emphysema.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "Mixed bacterial flora (>= 3 colony types), consistent with skin and/or genital contamination.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

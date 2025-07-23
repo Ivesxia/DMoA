@@ -1,0 +1,52 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "WBC Count",
+            "date": "Not specified",
+            "findings": "WBC 19K earlier today and WBC 11.9 in subsequent lab results.",
+            "changes_over_time": "Decreased from 19K to 11.9."
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase greater than 3000 initially, subsequently 1607.",
+            "changes_over_time": "Decreased from greater than 3000 to 1607."
+        },
+        {
+            "procedure_name": "Glucose",
+            "date": "Not specified",
+            "findings": "Glucose 277.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "AST",
+            "date": "Not specified",
+            "findings": "AST 161.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "ALT",
+            "date": "Not specified",
+            "findings": "ALT 270.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Alkaline Phosphatase (AP)",
+            "date": "Not specified",
+            "findings": "AP 370.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Total Bilirubin (TBili)",
+            "date": "Not specified",
+            "findings": "TBili 1.6.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urinalysis (UA)",
+            "date": "Not specified",
+            "findings": "Sm leuks, 18 WBC, few Bacteria; Glucose 150 and Protein 30.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

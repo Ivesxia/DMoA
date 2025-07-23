@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix measures up to 10 mm in diameter with minimal surrounding fat stranding. No evidence of obstruction, free air, or free fluid.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

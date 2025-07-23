@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "BAS/UGI AIR/SBFT",
+            "date": "Not specified",
+            "findings": "Prior to the injection of liquid barium, an appropriately positioned gastric band was noted. The patient ingested a small cup of thin liquid barium which passed freely across the gastric band. There is no evidence of associated prolapse, malpositioned band, or other obstruction.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory examination for leukocytes and microorganisms",
+            "date": "Not specified",
+            "findings": "NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. NO MICROORGANISMS SEEN.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

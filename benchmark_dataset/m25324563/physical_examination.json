@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2°F",
+                "heart_rate": "77 bpm",
+                "blood_pressure": "125/68 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress, alert and oriented x3",
+                "cardiovascular": "Regular rate and rhythm with no murmurs, rubs, or gallops",
+                "pulmonary": "Clear to auscultation bilaterally with no crackles, rales, or wheezes",
+                "abdomen": "Soft, nontender, nondistended; incisions clean, dry, and intact",
+                "drainage": "Jackson-Pratt with bilious drainage; right percutaneous transhepatic biliary drainage with bilious drainage",
+                "extremities": "Warm, well-perfused, no edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

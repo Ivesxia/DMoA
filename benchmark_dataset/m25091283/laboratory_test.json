@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase level of 2652 U/L, which is outside the normal range.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic, consistent with fatty infiltration. The gallbladder is normal without evidence of stones. The common duct is not dilated.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test (not specified)",
+            "date": "Not specified",
+            "findings": "8.3 mg/dL, which is outside the normal range (ref range 8.4 - 10.2 mg/dL).",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

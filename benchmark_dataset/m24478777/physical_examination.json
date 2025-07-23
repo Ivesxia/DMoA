@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.5°F",
+                "heart_rate": "62 bpm",
+                "blood_pressure": "118/52 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "97% on room air"
+            },
+            "relevant_findings": {
+                "general": "awake, alert, oriented x 3",
+                "heart": "regular rate and rhythm (RRR)",
+                "lungs": "clear to auscultation bilaterally (CTAB)",
+                "abdomen": "soft, tender very focally in right lower quadrant with positive rebound without guarding",
+                "extremities": "warm, well-perfused (WWP)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.4°F",
+                "blood_pressure": "104/70 mmHg",
+                "heart_rate": "64 bpm",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "NAD, Pleasant, nontoxic, speaking in full sentences",
+                "HEENT": "PERRL, EOMI, nonicteric sclera, OP clear",
+                "lungs": "CTA b/l no w/r/r - No CVA tenderness",
+                "heart": "RRR no mrg",
+                "abdominal": "decreased bowel sounds, soft, epigastric tenderness, no guarding, no rebound tenderness, no organomegaly",
+                "extremities": "No clubbing/cyanosis/edema",
+                "skin": "No rashes, no ecchymoses on abdomen/back"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

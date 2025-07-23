@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": ">1K",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "MRCP W/O CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "Lower Thorax": "Trace right pleural effusion. No pericardial effusion.",
+                "Liver": "Homogeneous signal intensity, without focal lesions identified.",
+                "Biliary": "Mild intra and extrahepatic biliary ductal dilatation. 0.4 cm T2 hypointense filling defect in distal common bile duct, concerning for retained stone.",
+                "Pancreas": "Normal in signal intensity and bulk. No pancreatic lesions or ductal dilatation.",
+                "Spleen": "Normal in size and homogeneous in signal intensity.",
+                "Adrenal Glands": "Normal in size and shape.",
+                "Kidneys": "Symmetric in size. Subcentimeter T2 hyperintense cortical hyperintensities likely consistent with cysts.",
+                "Gastrointestinal Tract": "Normal in course and caliber.",
+                "Lymph Nodes": "No retroperitoneal or mesenteric lymphadenopathy.",
+                "Vasculature": "Normal abdominal aorta caliber.",
+                "Osseous and Soft Tissue Structures": "No suspicious osseous lesions."
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

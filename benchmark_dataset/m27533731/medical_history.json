@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The patient reports that pain started early morning; it was mostly in the upper middle and left upper portion of the abdomen. The pain was severe enough to wake him from sleep. The patient felt slightly nauseous but did not vomit. They had eaten a lot of rich foods and drank approximately 1 bottle of wine prior to symptom onset. The patient reports occasional pain attributed to acid reflux that is relieved by eating. Diarrhea was experienced with large amounts of stools a few times a day but has since resolved.",
+        "past_medical_history": "Acid reflux, HL, Depression/Anxiety, Alopecia s/p hair transplant, Appendectomy",
+        "family_history": "Father and brother are heavy drinkers. Mother had a history of afib and stroke. Father has a history of CAD with MI at age unspecified. Other brother has DM.",
+        "social_history": "The patient drinks every few days and has multiple beers or a couple glasses of wine at a time."
+    }
+}

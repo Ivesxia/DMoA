@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood test for cardiac biomarker",
+            "date": "Not specified",
+            "findings": "0.04 ng/mL (Reference range: 0.0 - 0.01 ng/mL; Outside normal range)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CHEST RADIOGRAPH",
+            "date": "Not specified",
+            "findings": "Mild elevation of the right hemidiaphragm. Right suprabasal discoid atelectasis. Retrocardiac opacities may represent both atelectasis or early pneumonia. No evidence of parenchymal opacities suggestive of infectious lung disease.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

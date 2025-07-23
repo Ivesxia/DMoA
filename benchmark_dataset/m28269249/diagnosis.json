@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with worsening abdominal pain localized to the right lower quadrant, fever, and mild tenderness in that area. A CT scan indicated mild dilatation of a retrocecal ascending appendix with accompanying mucosal hyperenhancement and surrounding inflammation, which were concerning for acute appendicitis."
+    }
+}

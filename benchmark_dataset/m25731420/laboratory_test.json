@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The tip of the appendix is fluid-filled, dilated measuring up to 10 mm in sagittal dimension with thickened and hyperemic walls. There are no appendicolith or periappendiceal fluid collection. Other abdominal and pelvic organs are within normal limits.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial culture",
+            "date": "Not specified",
+            "findings": "<10,000 organisms/ml. (Ref. range: 25.0 - 36.5)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Coagulation test",
+            "date": "Not specified",
+            "findings": "30.5 sec (specific test range not provided)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

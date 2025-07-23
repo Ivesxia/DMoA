@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung fields are within normal limits. There is no evidence of pleural or pericardial effusion. Reticulation within both lower lobes is compatible with minimal fibrotic change, as seen on the previous CT of the chest. The liver demonstrates homogenous attenuation throughout with no focal lesions. The gallbladder is within normal limits. The pancreas has normal attenuation throughout. The spleen shows normal size and attenuation. A left adrenal nodule, previously characterized as an adenoma, is again noted, unchanged measuring up to 14 mm. There is a small hiatal hernia with concerning fat stranding around sigmoid colon diverticula suggestive of diverticulitis. A small amount of extraluminal air is noted suggesting microperforation. The urinary bladder and distal ureters are unremarkable. There is a small amount of simple pelvic free fluid. There are no retroperitoneal, mesenteric, or pelvic lymphadenopathy. Moderate atherosclerotic disease is noted.",
+            "changes_over_time": "Reticulation within both lower lobes is compatible with minimal fibrotic change, as seen on the previous CT of the chest. The left adrenal nodule is unchanged."
+        }
+    ]
+}

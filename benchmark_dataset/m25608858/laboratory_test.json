@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver function tests",
+            "date": "Not specified",
+            "findings": "AST 386, ALT 285, TBili 1.4",
+            "changes_over_time": "Worsening of labs to AST 497, ALT 591, TBili 3.7, DBili 2.5"
+        },
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Lactate 1.4",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Ultrasound of the liver or gallbladder",
+            "date": "Not specified",
+            "findings": "The liver is diffusely echogenic with a focal heterogeneously hypoechoic lesion in the right lobe measuring 1.5 x 1.6 x 1.4 cm. The CHD measures 6 mm. Gallbladder is nondistended with small stones at the fundus.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "96.8 °F",
+                "heart_rate": "81 bpm",
+                "blood_pressure": "148/74 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "abdomen": "Soft, nondistended, mildly tender in epigastric area, markedly tender in RUQ with positive Murphy's sign, no rebound, guarding, rigidity",
+                "extremities": "No edema",
+                "skin": "No rashes"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

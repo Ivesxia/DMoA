@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "heart_rate": 69,
+                "blood_pressure": "135/70 mmHg",
+                "oxygen_saturation": "92% on RA"
+            },
+            "relevant_findings": {
+                "general": "Elderly in NAD, sitting up in bed",
+                "HEENT": "EOMI, PERRL, anicteric",
+                "neck": "Supple, no JVD",
+                "chest": "CTABL, distant BS throughout, no w/r/r",
+                "cardiovascular": "RRR, S1S2, no m/r/g",
+                "abdominal": "Soft, NT, ND, +BS, no organomegaly",
+                "extremities": "Warm, no c/c/e",
+                "skin": "Ecchymoses on bilateral hands, LUE, L flank",
+                "neurological": "AAOx 3 (place: ___- ___, CN ii-xii intact; strength and sensation grossly intact)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

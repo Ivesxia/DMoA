@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Visualized lung bases demonstrate mild bibasilar atelectasis. The appendix is dilated to 10 mm with mild surrounding inflammatory changes and fat stranding, consistent with early appendicitis. No drainable fluid collection or extraluminal gas is seen. No evidence of free air or free fluid in the abdomen. Two subcentimeter hypodensities are visualized in the liver, which are too small to characterize. Otherwise, the liver is within normal limits. The gallbladder, pancreas, spleen, visualized loops of small and large bowel, bilateral adrenal glands, and bilateral kidneys are normal. The abdominal aorta is normal in caliber and contour. No mesenteric or retroperitoneal lymphadenopathy by CT size criteria. The bladder, uterus, ovaries, and rectum in the pelvis are within normal limits. No pelvic or inguinal lymphadenopathy. No free fluid or free air in the pelvis. There are no lytic or sclerotic lesions suspicious for malignancy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

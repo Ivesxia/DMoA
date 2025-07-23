@@ -1,0 +1,16 @@
+{
+    "other_tests": [
+        {
+            "procedure_name": "CT Abdomen and Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Mild bibasilar atelectasis, distended gallbladder with wall thickening and hyperemia, substantial surrounding fat stranding, small amount of perihepatic fluid, and mild left intrahepatic biliary dilation stable from prior CT.",
+            "changes_over_time": "Stable since prior CT for adrenal nodule."
+        },
+        {
+            "procedure_name": "EUS",
+            "date": "Not specified",
+            "findings": "Normal duct, no stones, or sludge.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

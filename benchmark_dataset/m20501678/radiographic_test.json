@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "Upper GI Series",
+            "date": "Not specified",
+            "findings": "Good opacification of the first, second and third portions of the duodenum. No extraluminal contrast to suggest leak. The duodenal mucosal folds are not effaced or thickened. No extraluminal contrast or diverticulum was seen, nor was extraluminal air evident.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

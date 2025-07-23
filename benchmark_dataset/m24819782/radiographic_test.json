@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Diffused metastatic disease from known cholangiocarcinoma, with an increased size and number of metastatic sites. The largest mass in the right lobe measures 9.2 x 6.1 cm. New lesions seen within the left lobe, measuring 1.3 x 0.9 cm. Intrahepatic biliary ductal dilatation unchanged, right portal vein occluded, left portal vein patent. Distended gallbladder with thickened wall unchanged from prior. Multiple lymph nodes, with precardiac lymph nodes showing increased size.",
+            "changes_over_time": "The size and number of metastatic sites have increased since prior imaging. The moderate amount of free pelvic fluid has increased from prior. Distended gallbladder remains unchanged."
+        }
+    ]
+}

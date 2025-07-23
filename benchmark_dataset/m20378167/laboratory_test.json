@@ -1,0 +1,10 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Serum Albumin",
+            "date": "Not specified",
+            "findings": "3.2 g/dL (normal range: 3.5 - 5.2 g/dL)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

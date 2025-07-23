@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Severe epigastric pain and nausea.",
+        "history_of_present_illness": "Symptoms began one day prior with moderate to severe aching pain in the epigastrum. The pain was initially radiating to the back but is now non-radiating. The patient reports nausea since this morning without vomiting, and experienced loose stools since last night, including one dark brown tarry stool this morning.",
+        "past_medical_history": "Asthmatic bronchitis with URI, Anxiety, hyperlipidemia.",
+        "family_history": "Father has BPH. Mother has an intestinal problem (likely colitis). Maternal grandfather had diabetes mellitus, no other relevant history. No coronary artery disease or cancer noted.",
+        "social_history": "History of heavy alcohol use, typically 6 beers and 6 shots daily, with increased intake over the last week during the holidays."
+    }
+}

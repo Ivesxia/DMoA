@@ -1,0 +1,46 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Lactate",
+            "date": "Not specified",
+            "findings": "Initial lactate level 3, improved to 2 after IVF.",
+            "changes_over_time": "Decreased from 3 to 2 after intravenous fluid therapy."
+        },
+        {
+            "procedure_name": "Troponin T",
+            "date": "Not specified",
+            "findings": "Troponin T negative x 2.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Liver Function Tests",
+            "date": "Not specified",
+            "findings": "LFTs normal.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Lipase",
+            "date": "Not specified",
+            "findings": "Lipase 81.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Blood Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Urine Cultures",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "CT Abdomen and Pelvis with Contrast",
+            "date": "Not specified",
+            "findings": "Stable irregularly shaped hypodense lesion with peripheral puddling consistent with hemangioma; no acute process observed.",
+            "changes_over_time": "Stable compared to the recent prior study."
+        }
+    ]
+}

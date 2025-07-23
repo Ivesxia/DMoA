@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "appendicitis",
+        "differential_diagnosis": "Not specified",
+        "diagnostic_reasoning": "The patient presented with abdominal pain, nausea, and mild fever, supported by a CT scan revealing a dilated appendix (1.1 cm) with mild fat stranding, consistent with acute appendicitis, and no signs of perforation."
+    }
+}

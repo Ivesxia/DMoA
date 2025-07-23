@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "Heart size is upper limits of normal. Prominent pericardial fat is seen on the CT scan. Blunting of the left CP angles, consistent with known pleural effusion. Likely atelectasis at the lung bases. No signs for overt pulmonary edema or focal consolidation.",
+            "changes_over_time": "Comparison is made to the prior CT abdomen and pelvis from ___."
+        }
+    ]
+}

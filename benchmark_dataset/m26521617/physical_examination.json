@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.8°F",
+                "heart_rate": "88 bpm",
+                "blood_pressure": "106/57 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "oxygen_saturation": "96% RA"
+            },
+            "relevant_findings": {
+                "general": "Appears well, NAD",
+                "cardiovascular": "RRR",
+                "respiratory": "CTAB",
+                "abdominal": "Soft, nondistended, tender in epigastrium, no rebound, no guarding, no RUQ tenderness",
+                "extremities": "Warm, no edema"
+            },
+            "changes_over_time": "Not specified"
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": "Not specified",
+            "relevant_findings": "Cardiac silhouette mildly enlarged; tortuosity of the aorta. No pneumonia, vascular congestion, or pleural effusion.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

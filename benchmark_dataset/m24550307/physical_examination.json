@@ -1,0 +1,28 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2 °F",
+                "heart_rate": "110 bpm",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "100% on RA"
+            },
+            "relevant_findings": "Hypertension (SBP 200), tachycardia (heart rate 120's), mild epigastric tenderness, and a sensation of chest pressure relieved by SL nitro.",
+            "changes_over_time": "Initially hypertensive and tachycardic; subsequently, heart rate was recorded at 165 bpm, then improved to 73 bpm during physical examination."
+        },
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.0 °F",
+                "heart_rate": "Not specified",
+                "blood_pressure": "165/91 mmHg",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% on 2L O2"
+            },
+            "relevant_findings": "General: NCAT, NAD. HEENT: EOMI, PERRLA, dry mucous membranes. CV: nl S1S2, RRR, no murmurs/rubs/gallops. Pulm: CTAB. Abd: soft, nontender, nondistended, +BS. Extremities: +2 DP B/L, +2 radial pulses. Skin: no c/c/e.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

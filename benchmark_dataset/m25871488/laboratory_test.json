@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Blood count",
+            "date": "Not specified",
+            "findings": "5.0 units (within normal range: 5.0 - 8.0)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABDOMEN W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Bibasilar atelectasis; Heart size within upper limits of normal; 5 cm simple-appearing cyst in lower pole of right kidney; extensive diverticulosis from mid transverse colon to sigmoid colon; no free fluid or free air.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT PELVIS",
+            "date": "Not specified",
+            "findings": "Extensive diverticulosis in sigmoid colon; multiple associated lymph nodes not enlarged; no secondary signs of bowel wall thickening or fat stranding; bladder, uterus, rectum grossly unremarkable; no free fluid or free air.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

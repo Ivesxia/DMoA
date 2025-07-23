@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "The appendix is fluid filled and dilated measuring up to 12 mm in diameter with periappendiceal inflammatory fat stranding. Fat stranding extends around the cecal tip which demonstrates moderate wall thickening. No extraluminal air is identified. No evidence of abscess formation. Enteric contrast passes through the small bowel to the large bowel without entering the appendix. No free fluid or lymphadenopathy is seen. Trace amount of fluid surrounding the appendix in the right lower quadrant.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Bacterial Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

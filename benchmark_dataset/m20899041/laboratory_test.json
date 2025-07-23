@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "LIVER OR GALLBLADDER US (SINGLE ORGAN)",
+            "date": "Not specified",
+            "findings": "The heterogeneously echogenic liver is again noted, without focal lesion. No intrahepatic or extra-hepatic biliary ductal dilatation is noted. The CBD measures 5 mm in diameter within normal limits. The gallbladder is slightly distended, but without evidence of gallstones. The gallbladder wall is normal. There is no pericholecystic fluid. Normal hepatopetal portal venous flow is noted. The spleen measures 10.1 cm.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Not specified",
+            "date": "Not specified",
+            "findings": "MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

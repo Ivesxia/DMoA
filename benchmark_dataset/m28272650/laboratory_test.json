@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Neisseria Gonorrhoeae PCR test",
+            "date": "Not specified",
+            "findings": "Negative for Neisseria Gonorrhoeae by PCR.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Pelvic Ultrasound",
+            "date": "Not specified",
+            "findings": "The appendix demonstrates circumferential wall thickness (2 mm) and measures up to 9 mm in maximal diameter. There is a dilated and non-compressible distal blind-ending tubular structure with internal shadowing focus within, likely representing an inflamed appendix with an appendicolith. No periappendiceal/pericecal fluid is noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

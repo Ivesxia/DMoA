@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "CT ABDOMEN W/CONTRAST",
+            "date": "Not specified",
+            "findings": "The lung bases are clear bilaterally, with no pulmonary nodules or pleural effusion. The heart size is normal. The spleen, adrenal glands, pancreas, stomach, gallbladder, liver, and intra-abdominal loops of bowel are within normal limits. A hyperdense cystic lesion is noted in the mid portion of the right kidney measuring up to 2.1 cm in diameter. Otherwise, the kidneys appear normal bilaterally. There is no retroperitoneal or mesenteric lymphadenopathy. No free fluid or air is present. The appendix is fluid-filled and markedly dilated with associated inflammatory changes. The appendix abuts the terminal ileum and the terminal ileum appears secondarily inflamed due to its close proximity with the appendix. There is no evidence of perforation. The rectum, prostate, and bladder are within normal limits. There is no pelvic or inguinal lymphadenopathy. No suspicious osseous lesions are identified.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test (Serum Creatinine)",
+            "date": "Not specified",
+            "findings": "1.3 mg/dL (reference range: 0.9 - 1.1 mg/dL, indicating elevated levels)",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

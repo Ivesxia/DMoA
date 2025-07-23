@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver Function Test",
+            "date": "Not specified",
+            "findings": "2.0 mg/dL (abnormal; normal range: 0.2 - 1.0 mg/dL)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Appendix dilated, fluid-filled measuring 12 mm in diameter with hyper-enhancing walls; no abscess identified; mild prominent surrounding lymph nodes; otherwise no significant abnormalities noted.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

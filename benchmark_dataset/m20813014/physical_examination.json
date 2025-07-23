@@ -1,0 +1,25 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.4 °F",
+                "blood_pressure": "167/88 mmHg",
+                "heart_rate": "93 bpm",
+                "respiratory_rate": "18 breaths/min",
+                "oxygen_saturation": "98% RA"
+            },
+            "relevant_findings": {
+                "general": "NAD, appropriate",
+                "HEENT": "NC/AT, MMM, OP clear",
+                "cardiovascular": "RRR, nl S1-S2, no MRG",
+                "respiratory": "CTAB, resp unlabored, no accessory muscle use",
+                "abdomen": "NABS, soft, tender epigastrium RUQ and LUQ, distended, no rebound/guarding",
+                "extremities": "WWP, no c/c/e, 2+ peripheral pulses (radials, DPs)",
+                "skin": "no rashes or lesions",
+                "neurological": "awake, answering questions appropriately, follows commands, moving all extremities"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

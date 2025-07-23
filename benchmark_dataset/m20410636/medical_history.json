@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Abdominal pain",
+        "history_of_present_illness": "The pain started this morning, described as pins and needles. It subsided somewhat after 3 hours but hasn't completely resolved or moved. The patient reports never having pain like this before and also presents with anorexia.",
+        "past_medical_history": "Hand surgery",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

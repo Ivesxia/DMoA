@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "Numerous small layering gallstones identified within the gallbladder. Gallbladder wall thickening noted, but gallbladder is not distended. No pericholecystic fluid nor sonographic Murphy's sign. No intra or extrahepatic biliary ductal dilatation; common bile duct measures 3 mm. Liver essentially unremarkable with a subcentimeter cyst in the right lobe. Normal directional flow in the main portal vein. Right kidney unremarkable without hydronephrosis. IVC and aorta unremarkable. Spleen normal in size.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Laboratory Test Result",
+            "date": "Not specified",
+            "findings": "Bilirubin level at 2.0 mg/dL; reference range is 1.6 - 2.6 mg/dL. Result within normal range.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

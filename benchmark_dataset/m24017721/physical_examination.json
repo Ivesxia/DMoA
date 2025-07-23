@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.3°F",
+                "heart_rate": "63 bpm",
+                "blood_pressure": "Not specified",
+                "respiratory_rate": "18 breaths per minute"
+            },
+            "relevant_findings": {
+                "general": "A&O, anxious in pain",
+                "HEENT": "No scleral icterus, mucus membranes moist",
+                "cardiovascular": "Warm, well perfused",
+                "pulmonary": "Normal work of breathing",
+                "abdominal": "Soft, obese, moderate tenderness to palpation in RUQ and epigastrium; minimal distension; appropriately healed surgical scars; no hernias or masses",
+                "extremities": "No edema, warm and well perfused"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

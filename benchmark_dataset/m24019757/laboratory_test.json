@@ -1,0 +1,28 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Creatinine",
+            "date": "Not specified",
+            "findings": "Creatinine level of 6.2, which is outside normal range (normal range typically 0.6-1.2 mg/dL).",
+            "changes_over_time": "Creatinine on previous day was 0.8, indicating a significant increase."
+        },
+        {
+            "procedure_name": "Sodium (Na)",
+            "date": "Not specified",
+            "findings": "Sodium level of 129, which is outside normal range (normal range typically 135-145 mmol/L).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Hyperbilirubinemia",
+            "date": "Not specified",
+            "findings": "Bilirubin level of 2.1, which is outside normal range (normal range typically 0.1-1.2 mg/dL).",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Transaminases",
+            "date": "Not specified",
+            "findings": "Significant transaminitis, exact values not specified but indicating liver function abnormalities.",
+            "changes_over_time": "Not specified."
+        }
+    ]
+}

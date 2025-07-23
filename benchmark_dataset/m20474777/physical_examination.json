@@ -1,0 +1,24 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.2 °F",
+                "heart_rate": "76 bpm",
+                "blood_pressure": "121/65 mmHg",
+                "respiratory_rate": "24 breaths/min",
+                "oxygen_saturation": "100% on room air"
+            },
+            "relevant_findings": {
+                "general": "No acute distress",
+                "HEENT": "Mild jaundice",
+                "cardiovascular": "Regular rate and rhythm",
+                "respiratory": "Poor respiratory effort, clear to auscultation bilaterally, no crackles",
+                "abdominal": "Softly distended, tenderness to palpation over epigastric and right upper quadrant, no rebound or guarding, appropriately tender around incision, hypoactive bowel sounds",
+                "extremities": "Calves non-tender bilaterally, 1+ edema, symmetric",
+                "pelvic": "Normal external female genitalia, 1 scopette dark blood cleared from vault, no active bleeding from os, mild uterine tenderness"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

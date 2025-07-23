@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "97.8°F",
+                "heart_rate": "66 bpm",
+                "blood_pressure": "180/80 mmHg",
+                "respiratory_rate": "14 breaths/min",
+                "oxygen_saturation": "97% RA"
+            },
+            "relevant_findings": {
+                "general": "comfortable, NAD (no acute distress)",
+                "cardiovascular": "RRR (regular rate and rhythm), no murmurs/rubs/gallops",
+                "respiratory": "CTAB (clear to auscultation bilaterally)",
+                "abdominal": "soft, nondistended, tender RUQ",
+                "extremities": "WWP (warm, well-perfused)"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

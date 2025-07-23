@@ -1,0 +1,22 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Gram Stain",
+            "date": "Not specified",
+            "findings": "GRAM NEGATIVE ROD(S)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Estimated GFR",
+            "date": "Not specified",
+            "findings": "Estimated GFR = 53 if non African-American, Estimated GFR = 65 if African-American. GFR<60 = Chronic Kidney Disease.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "Liver or Gallbladder Ultrasound",
+            "date": "Not specified",
+            "findings": "Slightly increased echogenicity of the liver suggesting fatty infiltration, no focal hepatic lesions or masses, gallbladder contains sludge and tiny echogenic stones, gallbladder wall up to 4 mm thick, small amount of pericholecystic fluid, CBD unremarkable at 6 mm.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

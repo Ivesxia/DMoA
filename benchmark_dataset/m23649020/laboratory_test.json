@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "No Growth Test",
+            "date": "Not specified",
+            "findings": "10.0 IU/L, No growth.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": "Trace bilateral pleural effusions, minimal atelectasis at the right base, gallbladder distended with mild adjacent stranding and fluid, small hyperdense stone in the gallbladder, and a 3.2-cm round fluid density lesion in the right kidney likely representing a simple cyst.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

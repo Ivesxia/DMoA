@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Coagulation Panel",
+            "date": "Not specified",
+            "findings": "PT 25.6 sec (normal range: 25.0 to 36.5 sec), NO GROWTH.",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CTA ABD & PELVIS",
+            "date": "Not specified",
+            "findings": "Appendix enlarged and hyperenhancing wall, diameter measuring up to 13 mm with adjacent fat stranding. No free air or focal fluid collection. No evidence of mesenteric lymphadenopathy.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "ERCP",
+            "date": "Not specified",
+            "findings": "Large paraesophageal hiatal hernia and gastric deformity with inability to pass the endoscope into the duodenum.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

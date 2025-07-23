@@ -1,0 +1,22 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "99.4°F",
+                "heart_rate": "86 bpm",
+                "blood_pressure": "122/68 mmHg",
+                "respiratory_rate": "14 breaths/min"
+            },
+            "relevant_findings": {
+                "general": "Appears comfortable (just received morphine), tanned",
+                "cardiovascular": "RRR",
+                "respiratory": "CTAB",
+                "abdominal": "Slightly distended, rigid, involuntary guarding, rebound tenderness, positive peritoneal signs",
+                "rectal_exam": "No masses, enlarged prostate, no frank blood, hemoccult negative",
+                "extremities": "2+ pedal/radial pulses"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

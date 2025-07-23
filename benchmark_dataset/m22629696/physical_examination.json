@@ -1,0 +1,23 @@
+{
+    "physical_examinations": [
+        {
+            "date": "Not specified",
+            "vital_signs": {
+                "temperature": "98.3°F",
+                "heart_rate": "90 bpm",
+                "blood_pressure": "122/90 mmHg",
+                "respiratory_rate": "16 breaths/min",
+                "pulse_oximetry": "100%"
+            },
+            "relevant_findings": {
+                "general": "Looks well",
+                "lungs": "Clear bilateral",
+                "heart": "Regular rate and rhythm (RRR)",
+                "abdomen": "Soft, non-distended (ND), non-tender, no guarding or rebound",
+                "rectal": "No differential tenderness",
+                "extremities": "No edema"
+            },
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

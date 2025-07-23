@@ -1,0 +1,7 @@
+{
+    "diagnosis": {
+        "final_diagnosis": "Gallstone pancreatitis",
+        "differential_diagnosis": "Cholangitis, Cholecystitis",
+        "diagnostic_reasoning": "The patient presented with vague worsening abdominal pain, elevated lipase levels (>1200), and the imaging findings of cholelithiasis with gallbladder wall thickening, supporting the diagnosis of gallstone pancreatitis. Other conditions like cholangitis and cholecystitis were considered but not confirmed."
+    }
+}

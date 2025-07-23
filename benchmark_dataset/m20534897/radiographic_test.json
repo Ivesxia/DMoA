@@ -1,0 +1,10 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT PELVIS W/O CONTRAST",
+            "date": "Not specified",
+            "findings": "Redemonstration of sigmoid diverticulosis with persistent though significantly improved wall edema with trace residual surrounding fat stranding. The previous region of maximal bowel wall inflammation and associated fluid collection and likely perforation has resolved; however, adjacent to a more superior portion of the descending colon, there is a new 2.4 x 4.2 cm fluid collection containing foci of air, likely representing a new contained perforation. Trace inflammatory changes are also noted extending along the left paracolic gutter. The rectum, distal bladder are unremarkable. There is no pelvic sidewall or inguinal lymphadenopathy. The uterus and adnexa are unremarkable.",
+            "changes_over_time": "The previous region of maximal bowel wall inflammation and associated fluid collection and likely perforation has resolved."
+        }
+    ]
+}

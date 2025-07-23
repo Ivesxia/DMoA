@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Acute abdominal pain",
+        "history_of_present_illness": "The acute onset of abdominal pain began at 4am this morning. The pain has persisted throughout the day and is constant. The patient reports the pain is unlike his prior episodes of kidney stones.",
+        "past_medical_history": "Hypertension, recurrent nephrolithiasis",
+        "family_history": "Not specified",
+        "social_history": "Not specified"
+    }
+}

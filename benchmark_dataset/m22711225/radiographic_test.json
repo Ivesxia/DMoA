@@ -1,0 +1,20 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CT ABD & PELVIS WITH CONTRAST",
+            "date": "Not specified",
+            "findings": {
+                "lung": "Mild bibasilar atelectasis, small bilateral pleural effusions, mild nondependent subpleural lung changes suggesting an interstitial process.",
+                "liver": "Small scattered hypodensities throughout, likely benign; enhances homogeneously with no focal hepatic lesions.",
+                "gallbladder": "Layering high attenuation material in the gallbladder lumen.",
+                "kidneys": "Enhance and excrete contrast without evidence of hydronephrosis or masses; right kidney unremarkable; parapelvic cyst on the left.",
+                "abdominal wall": "Midline incision present with small inflammatory changes and subcutaneous air.",
+                "postoperative": "Significant reduction in inflammatory changes and phlegmon in the right lower abdomen and pelvis since prior examination, presence of several intraperitoneal pockets of extraluminal air.",
+                "aorta": "Moderate atherosclerotic calcifications, patent celiac axis, SMA, bilateral renal arteries.",
+                "pelvis": "Mild pelvic free fluid, normal urinary bladder and ureters; no pelvic or inguinal lymph node enlargement.",
+                "osseous": "Moderate degenerative changes at L2-L3 and L5-S1; no suspicious lesions."
+            },
+            "changes_over_time": "Significant reduction in the extent of inflammatory changes and phlegmon in the right lower abdomen and pelvis since prior examination."
+        }
+    ]
+}

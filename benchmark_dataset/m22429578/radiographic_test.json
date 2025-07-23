@@ -1,0 +1,16 @@
+{
+    "radiographic_examinations": [
+        {
+            "procedure_name": "CHEST (PORTABLE AP)",
+            "date": "Not specified",
+            "findings": "PNA: (Pneumonia findings not stated)",
+            "changes_over_time": "Not specified"
+        },
+        {
+            "procedure_name": "CT abd/pelvis w/o con",
+            "date": "Not specified",
+            "findings": "Normal appendix, no evidence of acute appendicitis. Innumerable retroperitoneal and pelvic lymph nodes, none of which appear particularly enlarged.",
+            "changes_over_time": "Not specified"
+        }
+    ]
+}

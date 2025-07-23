@@ -1,0 +1,9 @@
+{
+    "medical_history": {
+        "chief_complaint": "Severe abdominal pain associated with bloating and discomfort.",
+        "history_of_present_illness": "Symptoms began 10 days ago after fasting, leading to severe abdominal pain following eating that prompted the patient to visit the emergency department. The patient has no weight loss, fevers, or chills, but has experienced vomiting today.",
+        "past_medical_history": "Terminal ileitis, Transient Hypothyroidism, Bipolar Disorder",
+        "family_history": "No known history of IBD or Crohn's Disease.",
+        "social_history": "Not specified."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "laboratory_examinations": [
+        {
+            "procedure_name": "Growth Culture",
+            "date": "Not specified",
+            "findings": "NO GROWTH.",
+            "changes_over_time": "Not specified."
+        },
+        {
+            "procedure_name": "Abdominal Radiograph",
+            "date": "Not specified",
+            "findings": "Small bowel loops contain gas and appear less distended compared to the prior study. Contrast is visible within the cecum and transverse colon. More contrast has passed to the transverse colon since the last study. No intraperitoneal air is noted.",
+            "changes_over_time": "Contrast has passed more to the transverse colon since the last study."
+        }
+    ]
+}
