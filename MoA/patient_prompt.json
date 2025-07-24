@@ -1,0 +1,8 @@
+{
+    "initial_info":"The following are the basic information of the patient.",
+    "laboratory_test":"The following are the laboratory test results of the patient. This part is of great significance in the diagnosis and requires careful attention.",
+    "medical_history":"This is the patient's medical history and medication record.When all the test results are unable to diagnose the patient, one can focus on the patient's medical history.",
+    "other_test":"The following are the results of some other tests conducted on the patient. If the results of the experimental tests are inconclusive, this part may play a significant role.",
+    "physical_examination":"Below is the physical examination of the patient, which includes the basic physical information of the patient. If there are significant differences from normal individuals, it may be related to the patient's illness.",
+    "radiographic_test":"Below are the results of the patient's radioactive examination."
+}

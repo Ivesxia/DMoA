@@ -10,7 +10,7 @@ model2max_context = {
     "text-davinci-003": 4096,
     "text-davinci-002": 4096,
     #siliconflow model
-    "Qwen/QwQ-32B": 4096
+    "Qwen/QwQ-32B": 7900
 }
 
 class OutOfQuotaException(Exception):
