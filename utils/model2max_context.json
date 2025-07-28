@@ -1,0 +1,12 @@
+{
+    "gpt-4": 7900,
+    "gpt-4-0314": 7900,
+    "gpt-3.5-turbo-0301": 3900,
+    "gpt-3.5-turbo": 3900,
+    "text-davinci-003": 4096,
+    "text-davinci-002": 4096,
+    "Qwen/QwQ-32B": 7900,
+    "baidu/ERNIE-4.5-300B-A47B": 7900,
+    "moonshotai/Kimi-K2-Instruct": 7900,
+    "deepseek-ai/DeepSeek-R1":7900
+}

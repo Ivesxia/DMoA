@@ -1,6 +1,6 @@
 import json
 import os
-from utils.agent import Agent
+from utils.api_agent import Api_Agent
 
 class Debate():
     def __init__(self,
@@ -25,7 +25,7 @@ class Debate():
     def init_agent(self):
         if self.agent_temperatures is None:
             self.agent_temperatures = [0.7] * self.agent_number
-        self.player=[Agent(model_name=model_name, 
+        self.player=[Api_Agent(model_name=model_name, 
                            name=name, 
                            api_key=self.api_key,
                            temperature=temperature, 
@@ -50,22 +50,24 @@ class Debate():
         for player in self.player[1:]:
             player.set_meta_prompt(other_prompt)
 
-    def single_debate_round(self):
-        self.presenter_one_ans=self.presenter.ask()
-        # print(self.presenter_one_ans)
+    def single_debate_round(self, round_index: int):
+        # Presenter always answers
+        self.presenter_one_ans = self.presenter.ask()
 
-        for player in self.player[1:]:
-            player.add_event(self.presenter_one_ans)
-            debate_ans=player.ask()
-            self.presenter.add_event(debate_ans)
+        # Debater only responds in the first round
+        if round_index == 0:
+            for player in self.player[1:]:
+                player.add_event(self.presenter_one_ans)
+                debate_ans = player.ask()
+                self.presenter.add_event(debate_ans)
 
-    def whole_debate(self,patient_info,debate_rounds):
+
+    def whole_debate(self, patient_info, debate_rounds):
         self.presenter.add_event(patient_info)
         for player in self.player[1:]:
             player.add_event(patient_info)
 
-        for debate_round in range(debate_rounds):
-            # print(f"round {debate_round}")
-            self.single_debate_round()
+        for round_index in range(debate_rounds):
+            self.single_debate_round(round_index)
 
         return self.presenter_one_ans

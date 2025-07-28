@@ -1,3 +1,5 @@
 {
-    "support_models":["gpt-3.5-turbo", "gpt-3.5-turbo-0301", "gpt-4", "gpt-4-0314", "Qwen/QwQ-32B"]
+    "support_models":["gpt-3.5-turbo", "gpt-3.5-turbo-0301", "gpt-4", "gpt-4-0314", "Qwen/QwQ-32B","baidu/ERNIE-4.5-300B-A47B",
+    "moonshotai/Kimi-K2-Instruct",
+    "deepseek-ai/DeepSeek-R1"]
 }

@@ -41,6 +41,7 @@ class load_patient_info():
         return radiographic_test['radiographic_examinations']
     
 
+
     #整合信息，可以现在要不要用
     def combine_info(self):
         # 加载各部分信息
@@ -74,6 +75,7 @@ class load_patient_info():
 
         return patient_info
     
+
 
     def safe_to_string(self,content):
         if isinstance(content, list):

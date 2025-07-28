@@ -1,7 +1,8 @@
 import json
 import os
 from debate.interact import Debate
-from utils.agent import Agent
+from utils.api_agent import Api_Agent
+from reward_model import RewardModel
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 class MoA():
@@ -32,10 +33,10 @@ class MoA():
         debate.init_prompt()
         single_result=debate.whole_debate(patient_info=self.user_input,debate_rounds=2)
         return single_result
-
+    
 
     def init_aggregator(self):
-        self.aggregator=Agent(
+        self.aggregator=Api_Agent(
             model_name='Qwen/QwQ-32B',
             name='Aggregater',
             api_key=self.api_key,
@@ -58,10 +59,8 @@ class MoA():
         self.init_aggregator()
         self.init_aggregator_prompt()
 
-        results = []
-
         #并发
-        with ThreadPoolExecutor(max_workers=min(8, len(self.presenter_model_list))) as executor:
+        with ThreadPoolExecutor(max_workers=min(4, len(self.presenter_model_list))) as executor:
             future_to_models = {
                 executor.submit(self.debater, presenter, debater): (presenter, debater)
                 for presenter, debater in zip(self.presenter_model_list, self.debate_model_list)

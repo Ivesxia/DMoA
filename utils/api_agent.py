@@ -3,7 +3,8 @@ import backoff
 import time
 import requests
 import json
-from openai.error import RateLimitError, APIError, ServiceUnavailableError, APIConnectionError
+from openai import OpenAI
+from openai._exceptions import RateLimitError, APIError, APIConnectionError
 from .LLM_utils import OutOfQuotaException, AccessTerminatedException
 from .LLM_utils import num_tokens_from_string, model2max_context
 
@@ -11,7 +12,7 @@ with open ('utils/model.json','r') as f:
     config = json.load(f)
     support_models = config["support_models"]
 
-class Agent:
+class Api_Agent:
     def __init__(self, model_name: str, name: str, api_key: str, temperature: float, sleep_time: float=0, backend: str="siliconflow") -> None:
         """Create an agent
 
@@ -29,7 +30,7 @@ class Agent:
         self.sleep_time = sleep_time
         self.backend = backend
 
-    @backoff.on_exception(backoff.expo, (RateLimitError, APIError, ServiceUnavailableError, APIConnectionError), max_tries=20)
+    @backoff.on_exception(backoff.expo, (RateLimitError, APIError, APIConnectionError), max_tries=20)
     def query(self, messages: "list[dict]", max_tokens: int, temperature: float) -> str:
         """make a query
 

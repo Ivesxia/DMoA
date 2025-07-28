@@ -1,17 +1,9 @@
 import tiktoken
+import json
 
-
-model2max_context = {
-    #openai model
-    "gpt-4": 7900,
-    "gpt-4-0314": 7900,
-    "gpt-3.5-turbo-0301": 3900,
-    "gpt-3.5-turbo": 3900,
-    "text-davinci-003": 4096,
-    "text-davinci-002": 4096,
-    #siliconflow model
-    "Qwen/QwQ-32B": 7900
-}
+# 写入到 model2max_context.json 文件
+with open('utils/model2max_context.json', 'r', encoding='utf-8') as f:
+    model2max_context=json.load(f)
 
 class OutOfQuotaException(Exception):
     "Raised when the key exceeded the current quota"
@@ -47,4 +39,3 @@ def num_tokens_from_string(string: str, model_name: str) -> int:
         encoding = tiktoken.get_encoding("cl100k_base")
     num_tokens = len(encoding.encode(string))
     return num_tokens
-
